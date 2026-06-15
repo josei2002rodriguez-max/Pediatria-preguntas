@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un recién nacido de término sano, hijo de madre con serología para Hepatitis B negativa, pesa $3150\\text{ gramos}$ al nacer. Respecto a su esquema de inmunización en el periodo inmediato en la maternidad, ¿cuál es la conducta correcta según la norma técnica vigente?",
+    "hint": "Desde hace unos años, el Ministerio de Salud de Chile modificó el esquema agregando una vacuna adicional en el periodo de recién nacido para todos los lactantes, independiente del estado serológico materno.",
+    "options": [
+      {
+        "text": "A) Administrar únicamente la vacuna BCG antes del alta hospitalaria.",
+        "isCorrect": false,
+        "explanation": "Olvida la vacuna contra la Hepatitis B del recién nacido, la cual es obligatoria y programática para todos los neonatos en Chile, no solo para hijos de madres portadoras."
+      },
+      {
+        "text": "B) Administrar la vacuna BCG y la primera dosis de la vacuna contra la Hepatitis B dentro de las primeras $24\\text{ horas}$ de vida.",
+        "isCorrect": true,
+        "explanation": "De acuerdo al PNI chileno actual, todo recién nacido con peso mayor a $2000\\text{ gramos}$ debe recibir la vacuna BCG (que protege contra formas graves de tuberculosis como la meningitis tuberculosa) y una dosis única de vacuna contra la Hepatitis B (administrada idealmente en las primeras $12\\text{ a } 24\\text{ horas}$ de vida) para prevenir la transmisión vertical e intrafamiliar temprana."
+      },
+      {
+        "text": "C) Diferir la vacuna contra la Hepatitis B para los 2 meses de vida e iniciar solo BCG si el peso es mayor a $2000\\text{ gramos}$.",
+        "isCorrect": false,
+        "explanation": "Sugiere diferir la Hepatitis B, lo cual es incorrecto, ya que la dosis del recién nacido es clave para la inmunoprofilaxis precoz; a los 2 meses recibirá la vacuna Hexavalente que contiene un refuerzo de Hepatitis B."
+      },
+      {
+        "text": "D) Administrar BCG, Hepatitis B e iniciar profilaxis oral con paracetamol para prevenir la fiebre postvacunal.",
+        "isCorrect": false,
+        "explanation": "El uso de paracetamol profiláctico antes o durante la administración de vacunas no se recomienda de rutina, ya que podría disminuir la respuesta inmunogénica de algunas vacunas."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "En el contexto de la campaña de inmunización contra el VRS del año 2026, usted recibe en el consultorio a un lactante de 2 meses nacido el 15 de diciembre de 2025. Los padres preguntan si a su hijo le corresponde recibir el anticuerpo monoclonal Nirsevimab. ¿Cuál es la indicación correcta?",
+    "hint": "Chile ha sido pionero en la implementación de Nirsevimab. La estrategia cubre tanto a los que nacen durante la temporada de invierno como a aquellos \"lactantes pequeños\" que nacieron inmediatamente antes y enfrentan su primera temporada de alta circulación viral.",
+    "options": [
+      {
+        "text": "A) No le corresponde, ya que el Nirsevimab se administra exclusivamente a recién nacidos en la maternidad a partir del 1 de marzo de 2026.",
+        "isCorrect": false,
+        "explanation": "El grupo objetivo no se limita a los nacidos en la maternidad durante la campaña; también incluye al \"grupo de arrastre\" de lactantes nacidos desde el 1 de octubre del año previo."
+      },
+      {
+        "text": "B) Le corresponde recibir Nirsevimab, ya que se indica a todos los lactantes nacidos a partir del 1 de octubre de 2025 en su primera temporada de alta circulación del VRS.",
+        "isCorrect": true,
+        "explanation": "El lineamiento técnico del MINSAL para la inmunización contra el VRS establece que el Nirsevimab (un anticuerpo monoclonal de vida media prolongada, inmunización pasiva) se administra a todos los recién nacidos a partir del 1 de marzo del año en curso en las maternidades, y a todos los lactantes nacidos a partir del 1 de octubre del año anterior (en este caso, 2025) que ingresen a su primera temporada de alta circulación de VRS."
+      },
+      {
+        "text": "C) Solo le corresponde si nació con peso menor a $1500\\text{ gramos}$ o menos de 32 semanas de edad gestacional.",
+        "isCorrect": false,
+        "explanation": "Este criterio corresponde a los subgrupos de lactantes de alto riesgo que califican para una segunda dosis (segunda temporada) o esquemas específicos bajo la Ley Ricarte Soto/criterios especiales de prematurez extrema, pero el Nirsevimab hoy es universal para toda la cohorte descrita."
+      },
+      {
+        "text": "D) No le corresponde por el PNI, pero se les debe recomendar adquirir la vacuna de forma privada ya que es de administración oral.",
+        "isCorrect": false,
+        "explanation": "Nirsevimab está completamente cubierto por el sistema público (es gratuito y universal) y se administra por vía intramuscular (no oral)."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Madre de un lactante de 2 meses acude a su control sano y le pregunta qué enfermedades previene la vacuna \"Hexavalente\" que le administrarán hoy. ¿Cuál de las siguientes opciones describe correctamente los componentes de esta vacuna programática?",
+    "hint": "La vacuna es \"hexa\" porque protege contra 6 patógenos. Uno de los componentes suele confundirse con el virus respiratorio de la Influenza debido a la similitud del nombre de una bacteria.",
+    "options": [
+      {
+        "text": "A) Difteria, Tétanos, Tos Convulsiva, Hepatitis B, Influenza y Poliomielitis.",
+        "isCorrect": false,
+        "explanation": "Confunde la bacteria Haemophilus influenzae con el virus de la Influenza (gripe). La vacuna contra la influenza es una vacuna estacional aparte."
+      },
+      {
+        "text": "B) Difteria, Tétanos, Tos Convulsiva, Hepatitis B, enfermedades invasoras por Haemophilus influenzae tipo b (Hib) y Poliomielitis.",
+        "isCorrect": true,
+        "explanation": "La vacuna Hexavalente acelular administrada en Chile a los 2, 4, 6 y 18 meses protege contra: Difteria, Tétanos, Tos Convulsiva (coqueluche), Hepatitis B, infecciones invasoras por Haemophilus influenzae tipo b (Hib, una bacteria que causa meningitis y neumonía) y Poliomielitis (vacuna inactivada tipo Salk)."
+      },
+      {
+        "text": "C) Difteria, Tétanos, Tos Convulsiva, Sarampión, Rubéola y Parotiditis.",
+        "isCorrect": false,
+        "explanation": "Mezcla componentes de la Hexavalente con la vacuna Tresvírica (SRP), la cual se administra a los 12 y 36 meses."
+      },
+      {
+        "text": "D) Difteria, Tétanos, Tos Convulsiva, Neumococo, Hepatitis A y Poliomielitis.",
+        "isCorrect": false,
+        "explanation": "El Neumococo se previene con una vacuna conjugada independiente administrada de forma simultánea pero en otro sitio de punción. La Hepatitis A se administra de forma individual a los 18 meses."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted realiza el control de niño sano de un lactante de 4 meses de vida que tiene sus vacunas al día. ¿Qué vacuna contra el Meningococo le corresponde recibir hoy según el calendario vigente?",
+    "hint": "Chile incorporó la vacuna contra el Meningococo del serogrupo B (Bexsero) al calendario oficial de inmunizaciones de manera gratuita para un esquema que inicia en el lactante menor.",
+    "options": [
+      {
+        "text": "A) Meningocócica Conjugada Tetravalente (A, C, W, Y).",
+        "isCorrect": false,
+        "explanation": "La vacuna Meningocócica Conjugada Tetravalente (que cubre los serogrupos A, C, W e Y) se administra en Chile como dosis única a los 12 meses (1 año) de edad."
+      },
+      {
+        "text": "B) Meningocócica Recombinante Serogrupo B.",
+        "isCorrect": true,
+        "explanation": "La vacuna Meningocócica Recombinante contra el Serogrupo B se administra en Chile de forma programática a los 2 meses (1ª dosis), a los 4 meses (2ª dosis) y a los 18 meses (dosis de refuerzo)."
+      },
+      {
+        "text": "C) No le corresponde ninguna vacuna contra el meningococo a esta edad; la primera es al año de vida.",
+        "isCorrect": false,
+        "explanation": "Desconoce la incorporación oficial de la vacuna contra el Meningococo B en el lactante menor, vigente en el PNI actual."
+      },
+      {
+        "text": "D) Neumocócica Conjugada 13-valente, la cual tiene reactividad cruzada contra Meningococo B.",
+        "isCorrect": false,
+        "explanation": "La vacuna Neumocócica protege contra Streptococcus pneumoniae y no posee ninguna protección ni reactividad cruzada contra Neisseria meningitidis (meningococo)."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante el control de salud de los 2 meses, los padres de una lactante sana preguntan por vacunas \"extra-programáticas\" o que no estén en el consultorio. Específicamente mencionan haber leído sobre la vacuna contra el Rotavirus. ¿Cuál es la recomendación correcta que debe dar el profesional de salud?",
+    "hint": "El rotavirus no está en el PNI de Chile, pero es una recomendación universal de la OMS y la SOCHIPE. Tiene una ventana de edad muy estricta para su administración debido a razones de seguridad (riesgo de intubación/invaginación si se administra tardíamente).",
+    "options": [
+      {
+        "text": "A) Desaconsejarla, ya que el Rotavirus ya está cubierto por la vacuna Hexavalente a los 2 y 4 meses.",
+        "isCorrect": false,
+        "explanation": "La vacuna Hexavalente no contiene ningún componente contra el Rotavirus."
+      },
+      {
+        "text": "B) Recomendar su adquisición privada, explicando que el Rotavirus es la principal causa de diarrea grave con deshidratación en lactantes, y que se administra de forma oral a los 2 y 4 meses.",
+        "isCorrect": true,
+        "explanation": "La vacuna contra el Rotavirus (Rotarix o Rotateq) es una vacuna de virus vivos atenuados que se administra por vía oral. No está en el PNI de Chile pero se recomienda ampliamente a nivel privado por ser la causa más frecuente de gastroenteritis grave deshidratante en menores de 2 años. El esquema idealmente se inicia a los 2 meses y se completa antes de los 6-8 meses de edad."
+      },
+      {
+        "text": "C) Explicar que en Chile está contraindicada por el riesgo epidemiológico de invaginación intestinal masiva.",
+        "isCorrect": false,
+        "explanation": "Si bien existe un riesgo teórico e infrecuente de invaginación intestinal si la vacuna se administra fuera de los límites de edad (especialmente la primera dosis después de las 15 semanas de vida), la vacuna no está contraindicada en Chile; al contrario, se promueve su uso respetando los rangos de edad."
+      },
+      {
+        "text": "D) Indicar que se puede colocar a cualquier edad durante el primer año, por lo que es mejor esperar a que la lactante tenga al menos 9 meses para tolerar la vía oral.",
+        "isCorrect": false,
+        "explanation": "La primera dosis de la vacuna contra el Rotavirus tiene un límite estricto de edad: no debe administrarse a lactantes mayores de 14 semanas y 6 días (aproximadamente 3 meses y medio) debido a que el riesgo de invaginación intestinal aumenta con la edad de la primera administración."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante menor de 2 meses de vida, nacido a las 31 semanas de gestación con un peso de $1450\\text{ gramos}$, acude a su control de niño sano. Cronológicamente hoy cumple exactamente 2 meses desde su nacimiento. Respecto a la administración de sus vacunas programáticas, ¿cuál es la conducta correcta?",
+    "hint": "El sistema inmune del prematuro es capaz de responder a las vacunas y el riesgo de contraer enfermedades graves en el ambiente es alto. El calendario oficial de inmunizaciones no se rige por la edad corregida.",
+    "options": [
+      {
+        "text": "A) Postergar las vacunas hasta que el lactante alcance su edad corregida de 2 meses (es decir, en 9 semanas más).",
+        "isCorrect": false,
+        "explanation": "Retrasar la vacunación hasta la edad corregida deja al prematuro desprotegido durante un periodo crítico de alta vulnerabilidad infecciosa."
+      },
+      {
+        "text": "B) Administrar las vacunas correspondientes a los 2 meses (Hexavalente, Neumocócica conjugada y Meningococo B) según su edad cronológica actual.",
+        "isCorrect": true,
+        "explanation": "Los lactantes prematuros deben ser inmunizados de acuerdo a su edad cronológica (tiempo transcurrido desde el parto), utilizando las mismas dosis y esquemas que los recién nacidos de término. No se debe retrasar la vacunación ni corregir la edad para este fin, ya que la inmunidad pasiva materna es menor y están altamente expuestos a complicaciones por tos convulsiva, neumococo o meningococo."
+      },
+      {
+        "text": "C) Colocar únicamente media dosis de cada vacuna para evitar una sobrecarga antigénica dado su bajo peso y prematurez.",
+        "isCorrect": false,
+        "explanation": "Está estrictamente contraindicado fraccionar o disminuir las dosis de las vacunas, ya que esto produce una respuesta inmune insuficiente y no disminuye los efectos adversos."
+      },
+      {
+        "text": "D) Administrar solo la vacuna Hexavalente y postergar la vacuna Neumocócica hasta que alcance un peso de $3000\\text{ gramos}$.",
+        "isCorrect": false,
+        "explanation": "No existe un límite de peso de $3
