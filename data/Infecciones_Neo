@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted recibe en la maternidad a un recién nacido de 39 semanas de edad gestacional. Durante la anamnesis de la madre, constata que presentó una rotura prematura de membranas (RPM) de 20 horas de evolución, fiebre intraparto de $38.3^\\circ\\text{C}$ y no recibió profilaxis antibiótica intraparto. El recién nacido se encuentra actualmente en sus primeros minutos de vida, activo, con buen esfuerzo respiratorio y rosado, con un APGAR de 9-9. ¿Cuál es el factor de riesgo materno más determinante para Sepsis Neonatal Precoz (SNP) en este caso y qué conducta clínica inicial se debe adoptar con el neonato?",
+    "hint": "La corioamnionitis materna clínica (definida clásicamente por fiebre materna asociada a RPM, taquicardia materna/fetal o sensibilidad uterina) es el factor de riesgo más potente para SNP. Sin embargo, en un recién nacido de término que nace clínicamente asintomático, la tendencia moderna evita el inicio automático de antibióticos, priorizando la monitorización clínica rigurosa y cultivos.",
+    "options": [
+      {
+        "text": "A) El factor más determinante es la RPM prolongada; se debe realizar punción lumbar y hemogramas inmediatos en la sala de atención inmediata.",
+        "isCorrect": false,
+        "explanation": "La punción lumbar no está indicada de rutina en un recién nacido asintomático con factores de riesgo; solo se realiza ante sospecha clínica fuerte de sepsis, clínica neurológica o hemocultivos positivos."
+      },
+      {
+        "text": "B) El factor más determinante es la RPM; se debe iniciar tratamiento antibiótico empírico inmediato con ampicilina y gentamicina por vía endovenosa.",
+        "isCorrect": false,
+        "explanation": "El inicio inmediato de antibióticos sin evaluar clínicamente al recién nacido ni esperar su evolución es una conducta sobreterapéutica que altera la microbiota neonatal y se asocia a mayor resistencia bacteriana; la observación clínica estrecha es la conducta estándar si está asintomático."
+      },
+      {
+        "text": "C) El factor más determinante es la sospecha de corioamnionitis clínica (fiebre materna + RPM prolongada); el RN debe ser hospitalizado en la Unidad de Neonatología para observación clínica estrecha continua, monitorización de signos vitales y toma de hemocultivos antes de decidir el inicio de antibióticos.",
+        "isCorrect": true,
+        "explanation": "Según las pautas de neonatología vigentes (MINSAL, Tapia y guías del HCSBA), ante una sospecha fundada de corioamnionitis clínica materna, el RN de término asintomático debe ser hospitalizado para observación clínica estricta (frecuencia cardíaca, respiratoria, temperatura, perfusión) por al menos 36-48 horas. Se deben tomar hemocultivos y marcadores inflamatorios, pero el inicio de antibióticos se reserva para si el RN desarrolla síntomas clínicos o si los exámenes demuestran una alta sospecha de infección."
+      },
+      {
+        "text": "D) No presenta factores de riesgo significativos dado que el APGAR fue normal; el RN debe ser enviado a puerperio para apego y lactancia materna exclusiva sin exámenes adicionales.",
+        "isCorrect": false,
+        "explanation": "El paciente tiene factores de riesgo de muy alto estándar (corioamnionitis materna); enviarlo a alojamiento conjunto normal sin monitorización es negligente, ya que un porcentaje significativo de SNP debuta en las primeras 12 a 24 horas de vida."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término de 3 días de vida, hijo de una madre con diagnóstico de Sífilis Latente Tardía detectada en el tercer trimestre, asiste a evaluación. La madre completó su tratamiento con Penicilina Benzatina $2.4\\text{ millones UI}$ IM por 3 dosis, terminando la última dosis exactamente 15 días antes del parto. El VDRL materno al momento del parto es de 1:4 y el VDRL de sangre periférica del recién nacido es de 1:2. El examen físico del RN es completamente normal. ¿Cómo se clasifica el tratamiento materno y qué conducta diagnóstica debe tomarse con el recién nacido?",
+    "hint": "Para que el tratamiento materno de la sífilis sea considerado \"adecuado\" para proteger al feto, debe cumplir con tres condiciones: fármaco correcto (Penicilina G), dosis correctas según la etapa de la sífilis, y haber finalizado al menos 30 días antes del momento del parto.",
+    "options": [
+      {
+        "text": "A) El tratamiento materno fue inadecuado (por completarse menos de 30 días antes del parto); se debe realizar una evaluación completa al recién nacido (VDRL, hemograma, radiografía de huesos largos y punción lumbar para citoquímico y VDRL en LCR).",
+        "isCorrect": true,
+        "explanation": "El tratamiento materno se considera inadecuado porque finalizó solo 15 días antes del parto (requiere un mínimo de 30 días). Ante todo hijo de madre con sífilis con tratamiento inadecuado, se debe realizar un estudio completo al recién nacido que incluye: VDRL/RPR periférico (nunca de cordón por falsos positivos), hemograma completo, recuento de plaquetas, radiografía de huesos largos (para buscar osteocondritis/periostitis) y punción lumbar (para descartar neurosífilis mediante VDRL en LCR)."
+      },
+      {
+        "text": "B) El tratamiento materno fue adecuado; al estar el RN asintomático y con títulos menores que la madre, no requiere ninguna conducta diagnóstica ni terapéutica, dándose de alta.",
+        "isCorrect": false,
+        "explanation": "Ignora el criterio de temporalidad del tratamiento materno (menos de 30 días pre-parto), lo que clasifica el caso como sospecha de sífilis congénita que requiere estudio obligatorio, independientemente de la clínica inicial del neonato."
+      },
+      {
+        "text": "C) El tratamiento materno fue adecuado pero tardío; se debe administrar una dosis única de Penicilina Benzatina IM al RN y enviarlo a domicilio con controles semanales.",
+        "isCorrect": false,
+        "explanation": "Si el tratamiento materno es inadecuado, la dosis única de Penicilina Benzatina solo se indica si el estudio completo del recién nacido es totalmente normal (VDRL negativo, LCR normal, radiografía normal, hemograma normal). Pero primero se debe realizar el estudio completo, no se puede obviar."
+      },
+      {
+        "text": "D) El tratamiento materno fue inadecuado; se debe iniciar tratamiento oral con eritromicina por 14 días para evitar los estigmas de Hutchinson.",
+        "isCorrect": false,
+        "explanation": "El tratamiento de la sífilis congénita es estrictamente con Penicilina G Sódica acuosa endovenosa por 10 días (o Penicilina Procaína IM si se descarta compromiso de LCR), nunca con macrólidos orales, los cuales tienen altas tasas de falla terapéutica."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted confirma la sospecha clínica de Sepsis Neonatal Precoz (SNP) en un recién nacido de 36 semanas de edad gestacional de 12 horas de vida, quien presenta taquipnea persistente, quejido audible, inestabilidad térmica y llanto débil. Tras la toma de hemocultivos, ¿cuál es el esquema antibiótico empírico de elección recomendado por las guías nacionales y qué microorganismos busca cubrir prioritariamente?",
+    "hint": "Los patógenos de la sepsis precoz son aquellos adquiridos por vía ascendente o durante el paso por el canal de parto. El esquema de primera línea debe ser de espectro estrecho/dirigido, sin inducir resistencia bacteriana masiva ni brotes de enterobacterias productoras de betalactamasas de espectro extendido (BLEE).",
+    "options": [
+      {
+        "text": "A) Cloxacilina + Amikacina, para cubrir Staphylococcus aureus y Pseudomonas aeruginosa.",
+        "isCorrect": false,
+        "explanation": "Este es un esquema más propio de sepsis neonatal tardía intrahospitalaria/asociada a atención de salud (SNT), donde predominan estafilococos de la piel y patógenos nosocomiales."
+      },
+      {
+        "text": "B) Ceftriaxona + Vancomicina, para asegurar cobertura contra neumococo resistente y bacilos Gram negativos.",
+        "isCorrect": false,
+        "explanation": "La ceftriaxona está estrictamente contraindicada en recién nacidos debido a que compite con la bilirrubina por su unión a la albúmina, aumentando el riesgo de ictericia grave y kernicterus, además de precipitar con el calcio intravenoso."
+      },
+      {
+        "text": "C) Ampicilina + Cefotaxima, para cubrir de forma exclusiva a Listeria monocytogenes y bacterias anaerobias del canal de parto.",
+        "isCorrect": false,
+        "explanation": "Si bien la ampicilina cubre Listeria, el uso de cefalosporinas de tercera generación (como cefotaxima) como primera línea de sepsis precoz se asocia a una rápida emergencia de resistencia bacteriana de tipo BLEE y se reserva únicamente para cuando hay sospecha confirmada de meningitis bacteriana por Gram negativos resistentes."
+      },
+      {
+        "text": "D) Ampicilina + Gentamicina (o Amikacina), para cubrir a Streptococcus agalactiae (SGB), Escherichia coli y Listeria monocytogenes.",
+        "isCorrect": true,
+        "explanation": "El esquema estándar de elección en Chile y el mundo para la sepsis neonatal precoz es la asociación de Ampicilina (que aporta excelente cobertura contra Streptococcus agalactiae y es el fármaco de elección para Listeria monocytogenes) junto con un aminoglicósido como Gentamicina o Amikacina (que aporta un potente efecto sinérgico y excelente cobertura contra bacilos Gram negativos como Escherichia coli)."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término de 38 semanas presenta retraso del crecimiento intrauterino (RCIU) armónico, microcefalia, petequias generalizadas y hepatoesplenomegalia. Se sospecha una infección congénita. La ecografía cerebral muestra calcificaciones periventriculares y vasculopatía estriada. ¿Cuál es el agente etiológico más probable de este cuadro clínico y cuál es el método diagnóstico estándar de elección para confirmar la infección congénita en las primeras semanas de vida?",
+    "hint": "El CMV es la infección congénita más frecuente en el mundo. Sus hallazgos neurológicos característicos en neuroimagen son las calcificaciones localizadas alrededor de los ventrículos (periventriculares), a diferencia de otra parasitosis que causa calcificaciones difusas por todo el parénquima. La confirmación diagnóstica debe realizarse de forma precoz para diferenciar la infección congénita de la adquirida durante el parto o lactancia.",
+    "options": [
+      {
+        "text": "A) Toxoplasma gondii; se confirma mediante la detección de anticuerpos IgG en el cordón umbilical al nacer.",
+        "isCorrect": false,
+        "explanation": "Las calcificaciones de la Toxoplasmosis congénita son típicamente difusas/dispersas por todo el parénquima cerebral, no periventriculares. Además, la IgG de cordón refleja el paso transplacentario de anticuerpos maternos y no confirma infección fetal activa."
+      },
+      {
+        "text": "B) Virus Citomegalovirus (CMV); se confirma mediante la detección de ADN viral por reacción en cadena de la polimerasa (PCR) en orina o saliva obtenida en los primeros 21 días de vida.",
+        "isCorrect": true,
+        "explanation": "El cuadro clínico con microcefalia y calcificaciones periventriculares es altamente sugestivo de Citomegalovirus congénito. El estándar de oro para el diagnóstico en el recién nacido es la PCR de CMV en orina o saliva (la orina es preferida para evitar falsos positivos por virus presentes en la leche materna en la saliva) realizada obligatoriamente en los primeros 21 días de vida; después de este plazo, un resultado positivo puede corresponder a una infección adquirida posnatal (por el canal de parto o la leche materna), la cual suele ser benigna y no requiere terapia."
+      },
+      {
+        "text": "C) Virus de la Rubéola; se confirma mediante la toma de cultivo viral en secreción nasofaríngea a los 3 meses de vida.",
+        "isCorrect": false,
+        "explanation": "La rubéola congénita cursa típicamente con la tríada de Gregg (cataratas, cardiopatía, hipoacusia) y el diagnóstico no se difiere a los 3 meses de vida."
+      },
+      {
+        "text": "D) Treponema pallidum; se confirma mediante PCR treponémica en líquido cefalorraquídeo de forma exclusiva.",
+        "isCorrect": false,
+        "explanation": "Describe la sífilis, la cual cursa con periostitis, rinorrea y pénfigo, y su tamizaje inicial se realiza con VDRL/RPR reactivo, no con PCR exclusiva en LCR de entrada."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido pretérmino extremo de 27 semanas de edad gestacional, de 15 días de vida, se encuentra hospitalizado en la Unidad de Cuidados Intensivos Neonatales (UCIN). Cuenta con un catéter venoso central umbilical y se alimenta con nutrición parenteral total. En las últimas 12 horas presenta episodios repetidos de apnea, bradicardia, intolerancia alimentaria con distensión abdominal y aumento de los requerimientos de oxígeno. Usted sospecha una Sepsis Neonatal Tardía (SNT). Según la epidemiología de las UCIN en Chile, ¿cuál es el agente etiológico más frecuentemente aislado en este escenario clínico?",
+    "hint": "La sepsis tardía (que ocurre después de las 72 horas de vida) en prematuros hospitalizados e invadidos con dispositivos intravasculares está dominada por bacterias comensales de la piel del recién nacido y del personal de salud, que tienen la capacidad de adherirse a los catéteres mediante la formación de biopelículas (biofilms).",
+    "options": [
+      {
+        "text": "A) Streptococcus agalactiae (SGB).",
+        "isCorrect": false,
+        "explanation": "El SGB es el principal agente de sepsis precoz (adquirida verticalmente); es muy infrecuente como causa de sepsis tardía de origen nosocomial en la UCIN."
+      },
+      {
+        "text": "B) Listeria monocytogenes.",
+        "isCorrect": false,
+        "explanation": "Listeria es un patógeno clásico de transmisión transplacentaria causante de sepsis precoz o brotes comunitarios, no de sepsis nosocomial tardía por catéter."
+      },
+      {
+        "text": "C) Estafilococos coagulasa negativos (Staphylococcus epidermidis).",
+        "isCorrect": true,
+        "explanation": "Los Estafilococos Coagulasa Negativos (ECN), principalmente Staphylococcus epidermidis, son los responsables de más del $50\\text{-}60\\%$ de los casos de sepsis neonatal tardía en prematuros de muy bajo peso con dispositivos invasivos (vías centrales, tubos endotraqueales), debido a su capacidad de producir limo y adherirse a superficies plásticas."
+      },
+      {
+        "text": "D) Escherichia coli productora de BLEE.",
+        "isCorrect": false,
+        "explanation": "E. coli es la segunda causa general de sepsis y es común en sepsis tardía, pero los ECN siguen siendo significativamente más prevalentes en pacientes con nutrición parenteral y catéteres centrales en el neonato pretérmino extremo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término de 9 días de vida es llevado al servicio de urgencias por presentar un grupo de vesículas con base eritematosa localizadas en el cuero cabelludo y alrededor del ojo derecho. No tiene antecedentes maternos de herpes genital reportados. El examen físico segmentario muestra al RN activo, reactivo, hidratado y afebril. ¿Cuál es la sospecha diagnóstica, la clasificación de la enfermedad y la conducta inmediata a seguir?",
+    "hint": "El Herpes Simple neonatal puede presentarse sin historia materna conocida de herpes activo (hasta en el 60-80% de los casos). Las vesículas en piel, ojos o boca (patrón SEM) obligan a un manejo sumamente agresivo porque la progresión a compromiso neurológico (encefalitis) o diseminación sistémica letal es sumamente rápida si no se inicia el antiviral endovenoso de forma precoz.",
+    "options": [
+      {
+        "text": "A) Sospecha de Herpes Simple Neonatal localizado (forma cutáneo-ocular-mucosa o SEM); se debe hospitalizar inmediatamente para tomar muestras para PCR de las lesiones, realizar estudio de LCR y pruebas de función hepática, e iniciar Aciclovir endovenoso a dosis de $60\\text{ mg/kg/d\\u00eda}$ dividido en 3 dosis de forma inmediata.",
+        "isCorrect": true,
+        "explanation": "La presencia de vesículas agrupadas en un neonato es patognomónica de Herpes Simple (generalmente HSV-2 adquirido en el parto). Se clasifica inicialmente como localizado (SEM), pero requiere un estudio sistémico completo (punción lumbar para PCR de HSV en LCR, transaminasas para descartar hepatitis herpética, PCR en sangre) e inicio inmediato de Aciclovir endovenoso a altas dosis ($20\\text{ mg/kg/dosis}$ cada 8 horas, es decir, $60\\text{ mg/kg/d\\u00eda}$), ya que el retraso del tratamiento aumenta dramáticamente el riesgo de secuelas neurológicas permanentes o muerte."
+      },
+      {
+        "text": "B) Sospecha de impétigo ampollar estafilocócico; se debe indicar tratamiento ambulatorio con mupirocina tópica cada 12 horas por 7 días y control sano en su consultorio.",
+        "isCorrect": false,
+        "explanation": "Confundir las vesículas de herpes con impétigo es un error diagnóstico crítico que puede costar la vida del neonato por progresión a encefalitis herpética no tratada."
+      },
+      {
+        "text": "C) Sospecha de Herpes Simple neonatal diseminado; al estar afebril se puede diferir el uso de antivirales hasta contar con el resultado de la PCR de LCR para evitar nefrotoxicidad.",
+        "isCorrect": false,
+        "explanation": "Retrasar el Aciclovir esperando resultados de exámenes está estrictamente contraindicado en neonatología; la sospecha clínica de herpes exige tratamiento empírico inmediato."
+      },
+      {
+        "text": "D) Sospecha de varicela neonatal tardía; se debe indicar inmunoglobulina específica contra varicela por vía intramuscular y enviar a domicilio.",
+        "isCorrect": false,
+        "explanation": "El cuadro clínico y la agrupación localizada de vesículas orientan fuertemente a HSV neonatal, no a varicela, y el manejo de sospecha de herpes neonatal siempre requiere hospitalización y terapia endovenosa, no manejo ambulatorio."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa a un lactante de 1 mes de vida derivado desde la maternidad por sospecha de Toxoplasmosis congénita. La madre presentó seroconversión para Toxoplasma gondii durante el segundo trimestre del embarazo. Al examen físico del lactante se constata hidrocefalia leve, estrabismo y en el fondo de ojo se describen lesiones compatibles con coriorretinitis bilateral. La tomografía computada de cerebro muestra múltiples calcificaciones intracraneales difusas distribuidas en la corteza y ganglios de la base. ¿Cuál es el nombre de esta asociación clínica clásica y cuál es el esquema de tratamiento indicado para este lactante?",
+    "hint": "La presentación clásica de la toxoplasmosis congénita grave incluye hidrocefalia, calcificaciones intracraneales, coriorretinitis y convulsiones. El tratamiento antiparasitario debe ser prolongado para erradicar las formas replicativas del parásito en los tejidos y requiere un suplemento vitamínico para prevenir la toxicidad sobre la médula ósea.",
+    "options": [
+      {
+        "text": "A) Tríada de Hutchinson; se trata con Penicilina G Sódica ev por 10 días.",
+        "isCorrect": false,
+        "explanation": "La tríada de Hutchinson corresponde a la sífilis congénita tardía (dientes, queratitis, hipoacusia) y se trata con penicilina."
+      },
+      {
+        "text": "B) Síndrome de Gregg; se trata con Ganciclovir endovenoso por 6 semanas.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Gregg corresponde a la rubéola congénita y no tiene tratamiento antiviral específico."
+      },
+      {
+        "text": "C) Tríada de Sabin; se trata únicamente con corticoides sistémicos (prednisona) por un mes para reducir la inflamación retiniana.",
+        "isCorrect": false,
+        "explanation": "Omitir el tratamiento antiparasitario y usar solo corticoides es un error grave que permite la replicación descontrolada de los taquizoítos de T. gondii en el SNC y la retina."
+      },
+      {
+        "text": "D) Tétrada (o Tríada) de Sabin; se trata con Pirimetamina + Sulfadiazina + Ácido Folínico por un periodo de 12 meses.",
+        "isCorrect": true,
+        "explanation": "La combinación de coriorretinitis, hidrocefalia y calcificaciones intracraneales difusas constituye la tríada (o tétrada si se suman las convulsiones) de Sabin. El tratamiento de elección para todo recién nacido con diagnóstico confirmado de toxoplasmosis congénita (sintomático o asintomático) es la combinación de Pirimetamina y Sulfadiazina durante un año completo, asociado siempre a Ácido Folínico (para prevenir la depresión medular inducida por la pirimetamina). Se añaden corticoides sistémicos solo si hay coriorretinitis activa que comprometa la mácula o hiperproteinorraquia severa."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Durante su turno en el servicio de Obstetricia y Neonatología, asiste el parto de una gestante VIH positivo detectada durante el trabajo de parto (test rápido visual reactivo, confirmado posteriormente). Ella no recibió terapia antirretroviral (TARV) durante el embarazo, pero sí se le administró Zidovudina (AZT) endovenosa intraparto. El recién nacido es de término y se encuentra vigoroso. Respecto a la profilaxis neonatal de transmisión vertical de VIH y la alimentación, ¿cuál es la conducta correcta en Chile?",
+    "hint": "Chile cuenta con una norma técnica muy estricta para la prevención de la transmisión vertical del VIH. Los recién nacidos de madres que no tuvieron control prenatal o terapia adecuada se clasifican como de \"alto riesgo/alta exposición\", requiriendo un esquema de múltiples drogas. Además, el virus se transmite de forma muy eficiente por la leche materna.",
+    "options": [
+      {
+        "text": "A) Indicar lactancia materna exclusiva y administrar Zidovudina (AZT) oral como monoterapia por 4 semanas al recién nacido.",
+        "isCorrect": false,
+        "explanation": "La monoterapia con AZT se reserva para escenarios de bajo riesgo (madre con TARV y carga viral indetectable constante), e indicar lactancia materna en una madre VIH (+) sin control viola directamente la norma sanitaria nacional chilena por el alto riesgo de transmisión posnatal."
+      },
+      {
+        "text": "B) Contraindicar de forma absoluta la lactancia materna (indicar fórmula de inicio artificial gratuita garantizada), y administrar profilaxis neonatal de alta exposición (terapia combinada con Zidovudina, Lamivudina y Nevirapina) iniciada en las primeras 6 a 12 horas de vida.",
+        "isCorrect": true,
+        "explanation": "Según la Norma de Prevención de la Transmisión Vertical del VIH en Chile, en escenarios de alta exposición (madre sin TARV durante el embarazo o con carga viral detectable al parto), el RN debe recibir una terapia profiláctica combinada de tres drogas (Zidovudina + Lamivudina + Nevirapina) iniciada idealmente antes de las 6-12 horas de vida. Además, la lactancia materna está contraindicada de forma absoluta en Chile para madres VIH (+), entregándose sucedáneos de leche de forma gratuita por el sistema público."
+      },
+      {
+        "text": "C) Permitir la lactancia materna previa pasteurización de la leche en el hogar y no administrar antirretrovirales al RN si la PCR de VIH al nacer resulta negativa.",
+        "isCorrect": false,
+        "explanation": "La PCR de VIH al nacer (de ADN/ARN) es necesaria para el diagnóstico precoz del RN expuesto, pero un resultado negativo inicial no descarta la infección ni anula la necesidad de profilaxis farmacológica inmediata. La pasteurización casera de la leche no está estandarizada ni autorizada para este fin en el país."
+      },
+      {
+        "text": "D) Administrar vacuna BCG de forma inmediata y profilaxis con AZT oral por 10 días únicamente.",
+        "isCorrect": false,
+        "explanation": "En hijos de madres VIH (+) la vacuna BCG debe ser postergada hasta descartar la infección activa por VIH en el lactante mediante pruebas moleculares negativas, para evitar el riesgo de diseminación de la cepa vacunal (BCGitis). La profilaxis con AZT por 10 días es insuficiente (el esquema es por 4 a 6 semanas)."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de 4 días de vida cursa con diagnóstico de Sífilis Congénita confirmada debido a la presencia de periostitis en la radiografía de fémur, títulos de VDRL periférico de 1:32 (madre de 1:8) y examen físico con rinorrea serohemática. El citoquímico y VDRL de líquido cefalorraquídeo resultaron completamente normales. ¿Cuál es el tratamiento antimicrobiano indicado y la duración del mismo para este recién nacido según las pautas clínicas de la UC y del MINSAL?",
+    "hint": "Ante cualquier diagnóstico confirmado o altamente sospechoso de sífilis congénita (clínica, radiológica o por títulos de VDRL mayores que los de la madre), el esquema de tratamiento debe asegurar la erradicación del Treponema pallidum del sistema nervioso central, lo que exige penicilina intravenosa de espectro sistémico por un periodo mínimo estándar de tiempo.",
+    "options": [
+      {
+        "text": "A) Penicilina G Benzatina $50.000\\text{ UI/kg}$ por vía intramuscular en dosis única.",
+        "isCorrect": false,
+        "explanation": "La Penicilina Benzatina intramuscular en dosis única se reserva exclusivamente para aquellos recién nacidos asintomáticos, cuyas madres tuvieron un tratamiento inadecuado para la sífilis pero que tras un estudio completo del RN (VDRL negativo, LCR normal, radiografía normal, hemograma normal) resultaron totalmente sanos, actuando como una profilaxis, pero nunca se usa ante un RN con sífilis confirmada o radiología alterada."
+      },
+      {
+        "text": "B) Penicilina G Sódica acuosa $150.000\\text{ UI/kg/d\\u00eda}$ por vía intravenosa, administrada cada 12 horas (en menores de 7 días de vida) por un periodo de 5 días.",
+        "isCorrect": false,
+        "explanation": "La duración de 5 días es insuficiente; el ciclo completo obligatorio para erradicar el espiroqueta es de 10 días."
+      },
+      {
+        "text": "C) Penicilina G Sódica acuosa $100.000\\text{ a } 150.000\\text{ UI/kg/d\\u00eda}$ por vía intravenosa (fraccionada cada 12 horas los primeros 7 días de vida y luego cada 8 horas) por un total de 10 días.",
+        "isCorrect": true,
+        "explanation": "El tratamiento de elección para la sífilis congénita confirmada (con o sin compromiso de LCR demostrado, ya que la invasión al SNC por el treponema es sumamente precoz y el LCR normal no la descarta al 100%) es la Penicilina G Sódica acuosa intravenosa a dosis de $100.000\\text{-}150.000\\text{ UI/kg/d\\u00eda}$ (administrada como $50.000\\text{ UI/kg/dosis}$ cada 12 horas en la primera semana de vida, y luego cada 8 horas) por un periodo estricto de 10 días."
+      },
+      {
+        "text": "D) Ceftriaxona $100\\text{ mg/kg/d\\u00eda}$ por vía intravenosa por 14 días.",
+        "isCorrect": false,
+        "explanation": "La ceftriaxona no es el tratamiento de primera elección para la sífilis y tiene el riesgo de ictericia y desplazamiento de la bilirrubina en neonatos pequeños."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Se evalúa en el hospital a un lactante de 2 meses de vida que presenta catarata densa bilateral y microftalmia. El cardiólogo infantil detecta la presencia de un Ductus Arterioso Persistente (DAP) amplio con cortocircuito izquierda-derecha significativo y estenosis de la rama de la arteria pulmonar. El tamizaje auditivo automatizado muestra hipoacusia neurosensorial severa izquierda. ¿Cuál es el diagnóstico sindromático y el agente infeccioso congénito responsable?",
+    "hint": "La tríada clásica de cataratas, cardiopatía congénita (típicamente ductus arterioso o estenosis de arteria pulmonar) e hipoacusia neurosensorial constituye el núcleo del daño fetal por un virus que hoy en día es altamente prevenible gracias a la vacuna Tresvírica del PNI.",
+    "options": [
+      {
+        "text": "A) Síndrome de Gregg, secundario a infección congénita por el Virus de la Rubéola.",
+        "isCorrect": true,
+        "explanation": "El Síndrome de Gregg es la descripción clínica clásica de la Rubéola congénita grave, caracterizada por la tríada de cataratas (compromiso ocular), hipoacusia neurosensorial (compromiso otológico) y cardiopatía congénita como ductus arterioso persistente o estenosis pulmonar (compromiso cardiovascular), acompañado frecuentemente de RCIU y microcefalia."
+      },
+      {
+        "text": "B) Síndrome de Sabin, secundario a infección congénita por Toxoplasma gondii.",
+        "isCorrect": false,
+        "explanation": "Sabin se asocia a la toxoplasmosis (calcificaciones, hidrocefalia, coriorretinitis), no a la rubéola ni a malformaciones cardíacas como el DAP."
+      },
+      {
+        "text": "C) Síndrome de Hutchinson, secundario a infección congénita por Treponema pallidum.",
+        "isCorrect": false,
+        "explanation": "Hutchinson describe las secuelas tardías de la sífilis congénita (queratitis, sordera del octavo par y dientes deformes), no anomalías oculares o cardíacas neonatales del tipo del ductus arterioso."
+      },
+      {
+        "text": "D) Síndrome de blueberry muffin, secundario a infección por Citomegalovirus.",
+        "isCorrect": false,
+        "explanation": "El exantema en \"queque de arándano\" (blueberry muffin) es una manifestación de eritropoyesis dérmica extramedular que puede verse en la rubéola, el CMV y otras infecciones congénitas severas, pero no es un síndrome malformativo ocular-cardíaco aislado en sí mismo."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa los exámenes de laboratorio tomados a las 24 horas de vida a un recién nacido hospitalizado por sospecha de Sepsis Neonatal Precoz (SNP). Destaca un hemograma con leucocitos de $14.000/\\text{mm}^3$, relación de baciliformes/neutrófilos totales (índice I/T) de 0.22, y una Proteína C Reactiva (PCR) de $6\\text{ mg/L}$ (rango de referencia $<10\\text{ mg/L}$). Respecto al rendimiento diagnóstico de estos marcadores inflamatorios en neonatología, ¿cuál de las siguientes afirmaciones es clínicamente correcta?",
+    "hint": "El sistema inmune del recién nacido responde de forma lenta y variable. El recuento total de blancos varía enormemente por factores fisiológicos (trabajo de parto, llanto, frío). El índice de madurez de los neutrófilos (baciliformes dividido por neutrófilos totales) es más específico, y la PCR requiere tiempo para ser sintetizada por el hígado tras el inicio de la agresión bacteriana.",
+    "options": [
+      {
+        "text": "A) La PCR normal a las 24 horas descarta de forma absoluta la sepsis neonatal precoz, por lo que se deben suspender los antibióticos de inmediato sin importar la clínica.",
+        "isCorrect": false,
+        "explanation": "Una sola PCR normal en fase ultra-precoz no descarta sepsis debido a la latencia de su síntesis hepática; suspender ciegamente la terapia en un niño clínicamente comprometido basándose en una sola PCR es un error grave."
+      },
+      {
+        "text": "B) Un índice I/T de 0.22 es un hallazgo completamente normal en las primeras 24 horas de vida que descarta infección bacteriana.",
+        "isCorrect": false,
+        "explanation": "Un índice I/T $\\ge 0.20$ (en este caso 0.22) es patológico y sugiere fuertemente una respuesta medular a infección."
+      },
+      {
+        "text": "C) El recuento total de leucocitos es el marcador más sensible y específico para diagnosticar sepsis neonatal precoz en las primeras horas de vida.",
+        "isCorrect": false,
+        "explanation": "El recuento total de leucocitos tiene una baja sensibilidad y especificidad en neonatología, ya que se ve alterado por múltiples factores no infecciosos del parto."
+      },
+      {
+        "text": "D) El índice I/T $\\ge 0.20$ tiene un alto valor predictivo positivo para sepsis; sin embargo, debido a la cinética de la PCR (cuyos niveles tardan de 12 a 24 horas en elevarse de forma significativa tras el estímulo inflamatorio), una única determinación de PCR normal en las primeras horas no descarta infección precoz, requiriéndose determinaciones seriadas para aumentar su valor predictivo negativo.",
+        "isCorrect": true,
+        "explanation": "El índice I/T (inmaduros/totales) mayor o igual a $0.20$ refleja una desviación a la izquierda marcada (liberación de formas jóvenes de la médula ósea) y es un indicador clásico muy sensible de infección bacteriana. Por su parte, la PCR tiene una baja sensibilidad en las primeras 12 horas de vida (falsos negativos precoces); su verdadero valor clínico radica en su excelente Valor Predictivo Negativo ($>95\\text{-}99\\%$) cuando se mantiene persistentemente normal en determinaciones seriadas separadas por 12 a 24 horas, lo que permite suspender antibióticos con seguridad."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Durante el control prenatal de una gestante de origen boliviano residente en la Región de Coquimbo, se detecta serología IgG reactiva para Trypanosoma cruzi (enfermedad de Chagas). El parto se produce a término de forma vaginal sin complicaciones. Respecto al tamizaje y confirmación diagnóstica de la enfermedad de Chagas congénita en el recién nacido en Chile, ¿cuál es la conducta correcta según las normas de salud pública?",
+    "hint": "La transmisión vertical de T. cruzi ocurre en un porcentaje de madres infectadas. Los anticuerpos IgG maternos cruzan libremente la placenta, por lo que la serología IgG al nacer siempre será positiva y no sirve para diagnosticar al niño. Se debe buscar directamente al parásito bajo el microscopio o mediante PCR, y el seguimiento serológico tardío es clave para dar el alta definitiva.",
+    "options": [
+      {
+        "text": "A) Administrar de forma inmediata tratamiento con Nifurtimox al recién nacido al nacer sin realizar exámenes previos.",
+        "isCorrect": false,
+        "explanation": "El tratamiento antiparasitario (con nifurtimox o benznidazol) tiene una reactogenicidad no despreciable y requiere confirmación diagnóstica; no se administra de forma empírica \"a ciegas\" a todos los hijos de madres reactivas."
+      },
+      {
+        "text": "B) Realizar al nacer de forma obligatoria un examen directo de sangre fresca (búsqueda de tripomastigotes por micrométodo o Strout) o PCR para T. cruzi en sangre de cordón/periférica. Si resulta negativo, se debe repetir la evaluación y realizar serología IgG de control a los 9 meses de vida para confirmar la depuración de anticuerpos maternos.",
+        "isCorrect": true,
+        "explanation": "El protocolo nacional para Chagas congénito indica realizar al nacer un examen directo (micrométodo o método de Strout) o PCR para detectar el ADN del parásito en sangre del RN. Dado que la sensibilidad del examen directo puede ser variable, si resulta negativo al nacer, se debe repetir la evaluación clínica y realizar una serología IgG a los 9-12 meses de vida; si a esa edad la IgG es negativa, se descarta la infección (se depuraron los anticuerpos maternos), mientras que si persiste positiva, confirma Chagas congénito y se inicia tratamiento."
+      },
+      {
+        "text": "C) Realizar únicamente serología IgG al recién nacido al nacer; si es positiva, confirma el diagnóstico de Chagas congénito y obliga a tratar.",
+        "isCorrect": false,
+        "explanation": "La IgG reactiva al nacer solo demuestra el paso transplacentario de anticuerpos de la madre y no discrimina entre un RN infectado y uno sano expuesto."
+      },
+      {
+        "text": "D) Contraindicar la lactancia materna de forma absoluta por el riesgo de transmisión del parásito a través de la leche de forma universal.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de Chagas materna no contraindica la lactancia materna, a menos que la madre presente una fase aguda de la enfermedad, reactivación por VIH o grietas/sangrado activo en el pezón (riesgo de transmisión por sangre)."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Se atiende el parto de una gestante cuyo tamizaje para Hepatitis B resultó positivo (Antígeno de Superficie de Hepatitis B o HBsAg reactivo). El recién nacido es de término, pesa $3400\\text{ gramos}$ y está sano. ¿Cuál es el esquema de profilaxis inmediata que debe recibir este recién nacido en la sala de partos para prevenir la transmisión vertical del virus de la Hepatitis B de forma eficaz?",
+    "hint": "Ante un escenario de madre portadora activa del VHB, el recién nacido requiere una combinación de inmunidad activa (vacuna que estimula al RN a producir anticuerpos a mediano plazo) e inmunidad pasiva (anticuerpos ya fabricados listos para neutralizar el virus que haya podido ingresar durante el parto). Ambas inyecciones deben administrarse de inmediato pero en distintos músculos para evitar la interferencia biológica directa.",
+    "options": [
+      {
+        "text": "A) Administrar únicamente la vacuna contra la Hepatitis B antes de las 12 horas de vida.",
+        "isCorrect": false,
+        "explanation": "La vacuna sola reduce el riesgo, pero la adición de la inmunoglobulina es indispensable para otorgar una protección óptima de cortísimo plazo ante madres con alta replicación viral."
+      },
+      {
+        "text": "B) Administrar la vacuna contra la Hepatitis B y una dosis de Inmunoglobulina específica contra la Hepatitis B (IGHB) en el mismo sitio anatómico mezcladas en la misma jeringa.",
+        "isCorrect": false,
+        "explanation": "Mezclar físicamente ambos productos en la misma jeringa o inyectarlos en el mismo sitio anula la vacuna, ya que los anticuerpos de la inmunoglobulina destruirán los antígenos vacunales antes de que estimulen al sistema inmune del recién nacido."
+      },
+      {
+        "text": "C) Administrar la primera dosis de la vacuna contra la Hepatitis B y una dosis de Inmunoglobulina específica contra la Hepatitis B (IGHB) antes de las 12 horas de vida, inyectadas en sitios anatómicos separados (muslos diferentes).",
+        "isCorrect": true,
+        "explanation": "Ante una madre HBsAg (+), el recién nacido tiene indicación prioritaria de recibir inmunoprofilaxis dual en las primeras 12 horas de vida: la primera dosis de la vacuna contra la Hepatitis B (inmunidad activa) y una dosis de Inmunoglobulina específica contra la Hepatitis B (IGHB, inmunidad pasiva), administradas en sitios anatómicos diferentes (muslos opuestos) para evitar que la inmunoglobulina neutralice directamente los antígenos de la vacuna. Este esquema alcanza una eficacia protectora de más del $95\\%$."
+      },
+      {
+        "text": "D) Postergar la profilaxis hasta los 2 meses de vida para iniciar directamente el esquema con la vacuna Hexavalente.",
+        "isCorrect": false,
+        "explanation": "Diferir la profilaxis para los 2 meses expone al lactante a un riesgo extremadamente alto de contraer la infección de forma crónica e incurable."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido pretérmino de 26 semanas de edad gestacional, con 21 días de vida, cursa con diagnóstico de Sepsis Neonatal Tardía. Ha recibido previamente múltiples ciclos de antibióticos de amplio espectro (Ampicilina, Amikacina y vancomicina) por sospechas de infección previas, se encuentra con nutrición parenteral prolongada a través de un catéter epicutáneo y presenta trombocitopenia persistente severa refractaria a transfusiones y distensión abdominal. Los hemocultivos periféricos y del catéter resultan positivos para levaduras compatibles con Candida albicans. ¿Cuál es la terapia antifúngica de primera línea indicada y qué evaluación complementaria obligatoria se debe realizar de forma inmediata?",
+    "hint": "La sepsis por Candida en prematuros extremos es una infección grave de alta morbimortalidad que cursa frecuentemente con diseminación hematógena a órganos blanco. Su sospecha se asocia fuertemente a trombocitopenia inexplicable y uso previo de cefalosporinas o carbapenémicos. El tratamiento debe ser sistémico y requiere buscar activamente \"siembras\" micóticas en el corazón, riñones y ojos.",
+    "options": [
+      {
+        "text": "A) Iniciar Anfotericina B deoxicolato (o Anfotericina B Liposomal) por vía intravenosa, y realizar de forma obligatoria un ecocardiograma, ecografía renal y un fondo de ojo para descartar focos de candidiasis diseminada (endocarditis, abscesos renales y endoftalmitis).",
+        "isCorrect": true,
+        "explanation": "El tratamiento de elección para la candidiasis neonatal sistémica es la Anfotericina B (deoxicolato o liposomal), dada su excelente eficacia. Ante todo hemocultivo positivo por Candida en el neonato, es mandatorio descartar compromiso sistémico profundo (focos metastásicos) mediante: ecocardiograma (descartar vegetaciones/endocarditis), ecografía renal (descartar micetomas o abscesos renales) y examen de fondo de ojo por oftalmólogo (descartar endoftalmitis por Candida), además de realizar punción lumbar por la alta trofismo de la Candida hacia las meninges."
+      },
+      {
+        "text": "B) Iniciar tratamiento con fluconazol oral y realizar punción lumbar de control a los 14 días únicamente.",
+        "isCorrect": false,
+        "explanation": "El fluconazol se prefiere para profilaxis en prematuros de extremo bajo peso o para infecciones sistémicas muy seleccionadas si la cepa es sensible y no hay compromiso orgánico profundo, pero el tratamiento de inducción estándar para sepsis por Candida en el RN grave es con Anfotericina B. El manejo oral es insuficiente."
+      },
+      {
+        "text": "C) Retirar el catéter venoso central y observar la evolución clínica; en neonatos la candidiasis por catéter suele resolver de forma espontánea sin fármacos sistémicos.",
+        "isCorrect": false,
+        "explanation": "Si bien el retiro del catéter central es una medida fundamental para lograr la depuración de la fungemia, suspender la terapia antifúngica sistémica es un error grave y letal; el aclaramiento espontáneo de la fungemia no ocurre de forma segura en prematuros extremos."
+      },
+      {
+        "text": "D) Administrar nistatina en gotas orales cada 8 horas para erradicar el reservorio gastrointestinal del hongo como terapia única.",
+        "isCorrect": false,
+        "explanation": "La nistatina oral no tiene absorción sistémica; sirve para tratar la candidiasis oral (muget) o profilaxis digestiva local, pero es totalmente inútil para tratar una sepsis fúngica hematógena sistémica."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Durante un parto vaginal de 32 semanas de una madre que presentó un síndrome febril inexplicable asociado a líquido amniótico teñido de meconio espeso, nace un recién nacido en malas condiciones, con APGAR 3-5, severa dificultad respiratoria y shock. Al examen físico destaca un exantema pápulo-vesicular diseminado de coloración eritematosa-grisácea y microabscesos en la faringe posterior. Fallece a las pocas horas de vida a pesar de las maniobras de reanimación avanzada. La autopsia revela microabscesos diseminados en múltiples órganos (hígado, bazo, pulmones). ¿Cómo se denomina esta manifestación patognomónica grave y cuál es el agente bacteriano responsable?",
+    "hint": "La transmisión de este bacilo Gram positivo facultativo ocurre por vía transplacentaria tras la ingesta materna de alimentos contaminados (quesos blandos crudos, salchichas, verduras sin lavar). En el feto produce una infección diseminada caracterizada por la formación de granulomas y microabscesos en múltiples órganos, con una mortalidad extremadamente elevada.",
+    "options": [
+      {
+        "text": "A) Sepsis fulminante por Estreptococo grupo B (SGB).",
+        "isCorrect": false,
+        "explanation": "La sepsis por SGB precoz cursa típicamente con dificultad respiratoria severa (síndrome de distrés respiratorio) y shock séptico fulminante, pero no produce característicamente la formación de granulomas orgánicos generalizados o microabscesos generalizados (granulomatosis infantiséptica)."
+      },
+      {
+        "text": "B) Neurosífilis neonatal precoz, por Treponema pallidum.",
+        "isCorrect": false,
+        "explanation": "La sífilis precoz produce periostitis, rinorrea y pénfigo, pero no microabscesos agudos destructivos viscerales diseminados fulminantes de esta naturaleza a las pocas horas del nacimiento."
+      },
+      {
+        "text": "C) Citomegalovirosis diseminada grave.",
+        "isCorrect": false,
+        "explanation": "El CMV congénito cursa con calcificaciones, microcefalia y petequias, pero no con granulomatosis aguda supurativa generalizada bacteriana."
+      },
+      {
+        "text": "D) Granulomatosis infantiséptica, causada por la infección transplacentaria por Listeria monocytogenes.",
+        "isCorrect": true,
+        "explanation": "La Granulomatosis infantiséptica es la manifestación clínica clásica y patognomónica de la infección intrauterina precoz y grave por Listeria monocytogenes. Se caracteriza por aborto, muerte fetal o un recién nacido severamente comprometido al nacer con pápulas eritematosas cutáneas, hepatoesplenomegalia y microabscesos/granulomas diseminados en casi todos los órganos de la economía."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de 14 días de vida cursa con diagnóstico de Citomegalovirus (CMV) congénito sintomático con compromiso del sistema nervioso central (microcefalia y calcificaciones periventriculares) y alteración de los potenciales evocados auditivos del tronco cerebral (hipoacusia neurosensorial bilateral). ¿Cuál es la terapia farmacológica de elección indicada para este paciente y cuál es el principal efecto adverso que obliga a una monitorización hematológica estricta?",
+    "hint": "El tratamiento del CMV congénito está reservado para aquellos recién nacidos sintomáticos (especialmente con compromiso del SNC, auditivo u oftalmológico), ya que ha demostrado reducir de forma significativa el deterioro progresivo de la audición y mejorar el desarrollo psicomotor a largo plazo. El fármaco de elección actual es una prodroga de administración oral de uso prolongado.",
+    "options": [
+      {
+        "text": "A) Ganciclovir intravenoso por 10 días; su principal efecto adverso es la nefrotoxicidad severa con insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "El ganciclovir intravenoso ($6\\text{ mg/kg/dosis}$ cada 12 horas) se reserva para la fase inicial de inducción solo si el RN presenta intolerancia oral o cuadros digestivos/generales muy graves, pero el estándar actual prefiere completar los 6 meses con valganciclovir oral. La duración de 10 días es totalmente insuficiente para el aclaramiento de la replicación viral en el SNC."
+      },
+      {
+        "text": "B) Valganciclovir oral a dosis de $16\\text{ mg/kg/dosis}$ cada 12 horas por un periodo de 6 meses; su principal efecto adverso es la neutropenia severa.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a los consensos internacionales actuales y las guías de infectología pediátrica chilenas (SLIPE y UC), el tratamiento de elección para el CMV congénito sintomático con compromiso de SNC o auditivo es el Valganciclovir por vía oral a dosis de $16\\text{ mg/kg/dosis}$ cada 12 horas por un total de 6 meses. Su principal efecto secundario limitante de dosis es la mielosupresión, manifestada predominantemente como neutropenia severa (recuento absoluto de neutrófilos $<500/\\text{mm}^3$), lo que exige controles periódicos con hemograma (cada 1-2 semanas al inicio y luego mensual)."
+      },
+      {
+        "text": "C) Aciclovir oral por 21 días; su principal efecto adverso es la anemia hemolítica autoinmune.",
+        "isCorrect": false,
+        "explanation": "El aciclovir no tiene una actividad clínicamente útil contra el Citomegalovirus; es el tratamiento específico para el Herpes Simple."
+      },
+      {
+        "text": "D) No se indica terapia farmacológica ya que los antivirales no modifican la evolución neurológica ni auditiva del CMV y tienen alta toxicidad hepática irreversible.",
+        "isCorrect": false,
+        "explanation": "Es una afirmación errónea; los ensayos clínicos aleatorizados demostraron que el uso de valganciclovir por 6 meses previene la progresión de la hipoacusia neurosensorial y mejora las escalas de desarrollo cognitivo en niños sintomáticos de forma significativa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted realiza una presentación docente sobre el Herpes Simple Neonatal en su rotación de neonatología. Explica que la enfermedad se presenta clásicamente en tres formas clínicas bien diferenciadas según la localización y extensión del compromiso viral. ¿Cuáles son estas tres formas clínicas y cuál de ellas presenta el peor pronóstico de sobrevida global a pesar del tratamiento oportuno?",
+    "hint": "El herpes adquirido durante el canal de parto se manifiesta habitualmente hacia la primera o segunda semana de vida. Una de las formas imita un cuadro de sepsis bacteriana fulminante con insuficiencia hepática, coagulopatía de consumo y shock, afectando a múltiples órganos internos de forma simultánea.",
+    "options": [
+      {
+        "text": "A) Forma prenatal, natal y posnatal; la de peor pronóstico es la prenatal por daño malformativo cardíaco irreversible.",
+        "isCorrect": false,
+        "explanation": "No describe la clasificación clínica estándar basada en el órgano diana y la extensión de la replicación del virus neonatal."
+      },
+      {
+        "text": "B) Forma mucosa, visceral y ósea; la de peor pronóstico es la ósea por osteomielitis destructiva generalizada.",
+        "isCorrect": false,
+        "explanation": "La sífilis o las infecciones bacterianas pueden afectar los huesos (periostitis), pero el Herpes Simple no tiene un tropismo óseo primario característico que defina una forma clínica estándar \"ósea\"."
+      },
+      {
+        "text": "C) Forma localizada cutáneo-ocular-mucosa (SEM), forma con compromiso del sistema nervioso central (encefalitis herpética), y forma diseminada (compromiso multiorgánico visceral); la de peor pronóstico es la forma diseminada.",
+        "isCorrect": true,
+        "explanation": "Las tres formas clásicas del HSV neonatal son: SEM (Skin, Eyes, Mouth): Compromiso limitado a piel, ojos y boca (aproximadamente $45\\%$ de los casos, excelente pronóstico si se trata). SNC (Encefalitis): Compromiso neurológico aislado o con SEM (alto riesgo de secuelas neurológicas permanentes). Diseminada: Compromiso de múltiples órganos (pulmón, hígado, suprarrenales, cerebro) con shock y falla multiorgánica (mortalidad superior al $30\\text{-}50\\%$ incluso con tratamiento con Aciclovir endovenoso precoz)."
+      },
+      {
+        "text": "D) Forma respiratoria, digestiva y renal; la respiratoria es la de peor pronóstico por el desarrollo de neumonía necrotizante por HSV.",
+        "isCorrect": false,
+        "explanation": "El Herpes Simple puede causar neumonía o hepatitis en su forma diseminada, pero la clasificación científica oficial es la detallada en la opción C."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Una gestante de 17 semanas con diagnóstico de Sífilis Primaria recibió tratamiento con Penicilina Benzatina $2.4\\text{ millones UI}$ IM por vía intramuscular semanal por 3 dosis. Durante su seguimiento, usted constata que la gestante omitió la segunda dosis semanal, recibiéndola 14 días después de la primera dosis debido a problemas de accesibilidad geográfica, tras lo cual completó la tercera dosis sin retrasos. El parto se produce a las 39 semanas, naciendo un RN sano y asintomático, con un VDRL negativo. ¿Cómo clasifica el tratamiento materno y qué conducta debe adoptar con el recién nacido según las guías clínicas ministeriales?",
+    "hint": "La penicilina benzatina en el tratamiento de la sífilis requiere mantener niveles plasmáticos terapéuticos constantes del antibiótico. En gestantes, si el intervalo entre dos dosis consecutivas supera los 7 a 9 días, se pierde la continuidad terapéutica y el tratamiento se cataloga formalmente como \"inadecuado\", obligando a reiniciar el esquema materno o a asumir que el feto no fue debidamente tratado.",
+    "options": [
+      {
+        "text": "A) El tratamiento materno fue inadecuado (se perdió el intervalo de dosificación semanal estricto, lo que se considera una interrupción de la terapia); el recién nacido debe ingresar a estudio completo para descartar sífilis congénita de forma obligatoria.",
+        "isCorrect": true,
+        "explanation": "En la embarazada, el intervalo entre las dosis de Penicilina Benzatina debe ser estrictamente semanal ($7\\text{ días}$). Si se supera un intervalo de más de $9\\text{ días}$ entre cualquiera de las dosis, el tratamiento se considera interrumpido e inadecuado para la protección fetal, sin importar que se hayan completado las 3 dosis totales con posterioridad. Por lo tanto, el recién nacido se considera hijo de madre con tratamiento inadecuado y debe ingresar al protocolo de estudio completo de sífilis congénita."
+      },
+      {
+        "text": "B) El tratamiento materno fue adecuado porque recibió las 3 dosis totales indicadas; el RN no requiere ningún examen ni conducta adicional y se va de alta.",
+        "isCorrect": false,
+        "explanation": "Ignora el criterio de continuidad temporal estricta de la dosificación de penicilina en gestantes infectadas, lo que es un error grave que puede dejar una sífilis congénita asintomática latente sin diagnóstico ni tratamiento oportuno."
+      },
+      {
+        "text": "C) El tratamiento materno fue adecuado; al estar el RN asintomático y con VDRL negativo, solo se le debe administrar una dosis de Penicilina Benzatina IM de forma profiláctica y alta.",
+        "isCorrect": false,
+        "explanation": "Antes de decidir si el RN requiere solo Penicilina Benzatina intramuscular única o el esquema completo de 10 días de Penicilina Sódica acuosa endovenosa, se debe realizar el estudio completo obligatorio (LCR, radiografía, hemograma). No se puede saltar este paso."
+      },
+      {
+        "text": "D) El tratamiento materno fue inadecuado; se debe iniciar de inmediato tratamiento con amoxicilina oral por 14 días en el RN.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina oral no tiene rol en el tratamiento de la sífilis congénita activa o sospechada."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término de 39 semanas, de 2 horas de vida, se encuentra en alojamiento conjunto con su madre. El parto fue vaginal y el RN está clínicamente sano y asintomático, activo y acoplado al pecho. En la ficha materna destaca el antecedente de una Rotura Prematura de Membranas (RPM) de 24 horas de evolución, sin fiebre materna, y la madre recibió una dosis de ampicilina intravenosa 2 horas antes del parto. El tamizaje materno para Streptococcus grupo B (SGB) fue negativo a las 36 semanas. ¿Cuál es la conducta clínica más adecuada a seguir con este recién nacido según las directrices actuales de la SLIPE y el Hospital Tisné?",
+    "hint": "En recién nacidos de término clínicamente sanos y asintomáticos, que presentan factores de riesgo menores de sepsis (como RPM >18 horas aislada, sin corioamnionitis clínica y con tamizaje de SGB negativo), las guías clínicas modernas promueven una estrategia no invasiva basada en la monitorización clínica estrecha en alojamiento conjunto con su madre, evitando punciones venosas dolorosas e innecesarias que no modifican la conducta.",
+    "options": [
+      {
+        "text": "A) Hospitalizar de forma inmediata en la UCI Neonatal para tomar hemocultivos e iniciar ampicilina y gentamicina endovenosa profiláctica.",
+        "isCorrect": false,
+        "explanation": "Hospitalizar e iniciar antibióticos endovenosos de forma empírica en un RN sano de término sin sospecha de corioamnionitis ni síntomas clínicos viola las normas de uso racional de antimicrobianos y altera de forma innecesaria el apego madre-hijo."
+      },
+      {
+        "text": "B) Realizar punción lumbar de urgencia de forma profiláctica debido a que la RPM superó las 18 horas de evolución.",
+        "isCorrect": false,
+        "explanation": "La punción lumbar está estrictamente contraindicada de forma profiláctica en pacientes asintomáticos; es un procedimiento invasivo con riesgos asociados que solo se realiza ante sospecha fundada de infección del SNC."
+      },
+      {
+        "text": "C) Tomar hemograma y PCR de cordón umbilical de forma inmediata para decidir si se envía a domicilio.",
+        "isCorrect": false,
+        "explanation": "Los exámenes tomados de sangre de cordón no tienen ninguna utilidad diagnóstica para sepsis neonatal debido a la alta contaminación con sangre materna y la nula correlación clínica con infección activa del RN; el hemograma tomado de forma ultra-precoz (primeras 2 horas) tiene baja sensibilidad y especificidad."
+      },
+      {
+        "text": "D) Mantener al recién nacido en alojamiento conjunto con su madre para observación clínica estricta de signos vitales (frecuencia cardíaca, frecuencia respiratoria, temperatura y perfusión) cada 4 horas durante las primeras 36 a 48 horas de vida, sin necesidad de realizar exámenes de laboratorio ni iniciar antibióticos de rutina.",
+        "isCorrect": true,
+        "explanation": "Ante un RN de término clínicamente asintomático con antecedentes de RPM >18 horas aislada (sin signos de corioamnionitis materna y con tamizaje SGB negativo), la recomendación actual es la observación clínica continua en puerperio junto a su madre por 36-48 horas. Dado que el estado clínico del RN es el mejor predictor de sepsis, si se mantiene asintomático y vigoroso durante este periodo, se puede dar de alta de forma segura sin haber tomado exámenes de laboratorio innecesarios (los cuales tienen bajo rendimiento en pacientes asintomáticos)."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Durante la discusión de un caso clínico de una infección congénita en la reunión clínica de pediatría, se analiza la utilidad de la tomografía computada de cerebro para diferenciar entre la infección por Citomegalovirus (CMV) congénito y la Toxoplasmosis congénita. ¿Cuál es la diferencia radiológica clásica en el patrón de distribución de las calcificaciones intracraneales entre ambas entidades y cuál es su correlación con la patogenia viral/parasitaria?",
+    "hint": "El virus Citomegalovirus tiene un marcado tropismo por el epitelio ependimario que recubre los ventrículos cerebrales del feto en desarrollo, lo que explica la localización sumamente específica de sus cicatrices de calcio. El parásito del Toxoplasma invade los vasos sanguíneos cerebrales causando múltiples focos de necrosis isquémica distribuidos al azar por toda la masa encefálica.",
+    "options": [
+      {
+        "text": "A) El CMV causa calcificaciones difusas por todo el parénquima debido a su diseminación linfática; la Toxoplasmosis causa exclusivamente calcificaciones en el cerebelo.",
+        "isCorrect": false,
+        "explanation": "Explica los patrones al revés, atribuyendo las calcificaciones periventriculares a Toxoplasma y las difusas a CMV, lo cual contradice la fisiopatología clásica de ambos microorganismos."
+      },
+      {
+        "text": "B) El CMV no produce calcificaciones intracraneales, solo hidrocefalia; la Toxoplasmosis produce calcificaciones localizadas de forma exclusiva en la corteza frontal.",
+        "isCorrect": false,
+        "explanation": "El CMV es, de hecho, la causa más frecuente de calcificaciones intracraneales neonatales y microcefalia en el mundo; afirmar que no produce calcificaciones es un grave error de conocimiento."
+      },
+      {
+        "text": "C) El CMV (que tiene una afinidad específica por las zonas de replicación neuronal activa en la zona subependimaria periventricular) produce típicamente calcificaciones de distribución periventricular; por el contrario, la Toxoplasmosis (que causa una encefalitis necrotizante focal multifocal difusa) produce calcificaciones difusas/dispersas por todo el parénquima cerebral y ganglios de la base.",
+        "isCorrect": true,
+        "explanation": "En neuroimagen (ecografía transfontanelar o TAC cerebral), el patrón de calcificaciones es una clave diagnóstica de gran valor para el TORCH: las calcificaciones de localización periventricular (siguiendo el contorno de los ventrículos laterales) son altamente características de CMV congénito. Las calcificaciones dispersas, nodulares y difusas por toda la corteza, sustancia blanca y ganglios de la base orientan fuertemente a Toxoplasmosis congénita."
+      },
+      {
+        "text": "D) Ambos patógenos producen exactamente el mismo patrón de calcificaciones periventriculares bilaterales y simétricas, siendo imposible su diferenciación radiológica.",
+        "isCorrect": false,
+        "explanation": "Aunque hay superposición clínica, los patrones descritos son radiológicamente diferenciables en la mayoría de los casos típicos y guían la toma de exámenes específicos de laboratorio."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un lactante de 24 días de vida, nacido a término de forma domiciliaria sin controles médicos previos, es llevado al servicio de urgencias por presentar un cuadro de 24 horas de evolución de letargia, rechazo alimentario con succión débil, vómitos recurrentes y episodios de dificultad respiratoria caracterizados por respiración periódica y pausas de apnea de hasta 15 segundos. Al examen físico destaca temperatura axilar de $35.4^\\circ\\text{C}$ (hipotermia), perfusión distal disminuida con llene capilar de 4 segundos y piel con moteado reticular (cutis marmorata). El abdomen está distendido y doloroso a la palpación. Respecto a este caso, ¿cuál es la sospecha clínica prioritaria y el enfrentamiento de urgencia?",
+    "hint": "En el periodo neonatal y de lactante menor, los síntomas de una infección bacteriana sistémica grave (sepsis) son extremadamente inespecíficos. La inestabilidad térmica (especialmente la hipotermia), las apneas, el rechazo alimentario y los signos de hipoperfusión periférica son equivalentes clínicos de shock séptico y obligan a una intervención agresiva inmediata.",
+    "options": [
+      {
+        "text": "A) Sospecha de reflujo gastroesofágico severo del lactante; se debe indicar tratamiento con omeprazol oral y derivar a domicilio con medidas antireflujo.",
+        "isCorrect": false,
+        "explanation": "Confundir una sepsis neonatal con shock con reflujo gastroesofágico simple es un error fatal que compromete directamente la vida del lactante en pocas horas por colapso cardiovascular."
+      },
+      {
+        "text": "B) Sospecha de Sepsis Neonatal Tardía (SNT) con shock séptico asociado; se debe hospitalizar de urgencia, asegurar la vía aérea, obtener accesos vasculares, administrar un bolo de solución fisiológica a $10\\text{-}20\\text{ ml/kg}$ si hay signos de hipoperfusión, tomar cultivos completos (hemocultivos, urocultivo, punción lumbar para LCR) y administrar terapia antibiótica intravenosa inmediata de amplio espectro (Ampicilina + Cefotaxima o Ceftriaxona en este rango de edad mayor de 21 días).",
+        "isCorrect": true,
+        "explanation": "El paciente presenta signos de shock séptico neonatal (hipotermia, mala perfusión, llene capilar prolongado, letargia y apneas). El manejo inicial de urgencia exige estabilización hemodinámica (oxigenoterapia, accesos venosos, fluidoterapia con solución fisiológica), toma de cultivos completos (incluyendo punción lumbar porque el riesgo de meningitis asociada a sepsis tardía comunitaria es muy elevado) e inicio inmediato de antibióticos endovenosos de amplio espectro."
+      },
+      {
+        "text": "C) Sospecha de apneas del lactante fisiológicas; se debe enviar a domicilio con monitor de apneas de uso casero por 14 días.",
+        "isCorrect": false,
+        "explanation": "Las apneas asociadas a hipotermia y mala perfusión en un neonato/lactante menor nunca son fisiológicas; reflejan fatiga del centro respiratorio o compromiso sistémico severo por infección o acidosis."
+      },
+      {
+        "text": "D) Sospecha de estenosis hipertrófica del píloro; se debe derivar de urgencia a cirugía infantil para laparotomía exploradora sin realizar exámenes infecciosos.",
+        "isCorrect": false,
+        "explanation": "Si bien presenta vómitos y distensión abdominal, el compromiso sistémico severo (letargia, mala perfusión, hipotermia y apneas) orienta primariamente a un foco infeccioso/sepsis tardía, no a una patología obstructiva mecánica pilórica aislada."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa en el policlínico de infectología infantil a un niño de 8 años de edad con sospecha de secuelas de infección congénita no tratada en la infancia. Al examen físico destaca deformidad en la tibia (sable de esgrimidor), prominencia de la frente (frontal en quilla), nariz en silla de montar, y deformidad de los incisivos centrales superiores con una muesca central en forma de medialuna. El oftalmólogo constata queratitis intersticial activa. ¿Cómo se denomina el conjunto de estos hallazgos clásicos y qué agente es el responsable?",
+    "hint": "Las manifestaciones de la sífilis congénita que aparecen después de los 2 años de vida corresponden a la fase tardía y representan cicatrices inflamatorias o deformidades óseas y dentales crónicas por periostitis e inflamación tisular persistente durante el desarrollo del niño.",
+    "options": [
+      {
+        "text": "A) Tríada de Hutchinson, patognomónica de Sífilis Congénita Tardía, causada por Treponema pallidum.",
+        "isCorrect": true,
+        "explanation": "La tríada de Hutchinson (dientes de Hutchinson, queratitis intersticial e hipoacusia neurosensorial por compromiso del octavo par craneal) asociada a deformidades óseas (tibia en sable, frente prominente, nariz en silla de montar) conforma el cuadro clásico de los estigmas de la Sífilis Congénita Tardía, consecuencia de una infección no diagnosticada ni tratada de forma oportuna durante el periodo neonatal."
+      },
+      {
+        "text": "B) Síndrome de Sabin, secundario a Toxoplasmosis congénita.",
+        "isCorrect": false,
+        "explanation": "La toxoplasmosis congénita no produce deformidades dentales del tipo de los dientes de Hutchinson ni queratitis intersticial tardía; cursa con secuelas neurológicas y coriorretinitis."
+      },
+      {
+        "text": "C) Tríada de Gregg, secundaria a Rubéola congénita.",
+        "isCorrect": false,
+        "explanation": "La tríada de Gregg describe las malformaciones agudas al nacer por rubéola (catarata, DAP, sordera), no deformidades óseas o dentales tardías crónicas en escolares de 8 años."
+      },
+      {
+        "text": "D) Estigmas de chagasoma crónico, por Trypanosoma cruzi.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de Chagas crónica cursa con megaesófago, megacolon o miocardiopatía chagásica, no con estigmas óseos, de queratitis o de deformidades en los dientes incisivos."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "En neonatología, la distinción entre Sepsis Neonatal Precoz (SNP) y Sepsis Neonatal Tardía (SNT) es fundamental debido a las diferencias en la patogenia, los agentes etiológicos implicados y el enfoque terapéutico. Respecto al punto de corte temporal estándar y las fuentes de adquisición de los patógenos, ¿cuál de las siguientes opciones describe correctamente la distinción clásica aceptada en las guías de Chile (MINSAL y Tapia)?",
+    "hint": "La clasificación temporal ayuda a predecir qué bacterias causan la infección. Las bacterias que colonizan la vagina materna (como el estreptococo grupo B) infectan al feto de forma rápida durante las primeras horas de vida. Las bacterias del hospital o del ambiente tardan días en colonizar al neonato y multiplicarse para causar sepsis tardía.",
+    "options": [
+      {
+        "text": "A) El límite temporal es de 24 horas de vida; la precoz es de origen genético y la tardía es de origen ambiental.",
+        "isCorrect": false,
+        "explanation": "El límite de 24 horas es erróneo; el espectro de patógenos del canal de parto puede manifestarse clínicamente hasta los 2 o 3 días de vida bajo la misma clasificación de sepsis precoz."
+      },
+      {
+        "text": "B) El límite temporal es de 7 días de vida para todos los recién nacidos; la precoz es siempre nosocomial y la tardía es de transmisión vertical exclusiva.",
+        "isCorrect": false,
+        "explanation": "Aunque algunos textos epidemiológicos proponen 7 días para clasificar infecciones adquiridas en el parto, la distinción microbiológica y clínica estándar en las UCIN de Chile mantiene el límite de las 72 horas de vida para el inicio del tratamiento empírico diferenciado. Además, afirma erróneamente que la precoz es nosocomial (es al revés)."
+      },
+      {
+        "text": "C) El límite temporal estándar es de 72 horas de vida; la sepsis precoz ($<72$ horas) se adquiere de forma vertical por vía ascendente o intraparto desde el tracto genital materno, mientras que la sepsis tardía ($\\ge 72$ horas) se adquiere principalmente de fuentes ambientales nosocomiales (hospitalarias/UCIN) o comunitarias.",
+        "isCorrect": true,
+        "explanation": "Clásicamente en neonatología, el punto de corte para diferenciar sepsis precoz de tardía está fijado en las 72 horas de vida (algunas guías internacionales de epidemiología usan 72 horas para sepsis nosocomiales). La precoz representa la transmisión vertical de gérmenes colonizadores del canal vaginal (SGB, E. coli, Listeria), mientras que la tardía refleja la adquisición horizontal en la UCIN por el personal de salud, catéteres o contaminación ambiental, o a nivel comunitario tras el alta."
+      },
+      {
+        "text": "D) No existe límite temporal; la distinción se basa únicamente en si el recién nacido presenta o no fiebre durante el cuadro clínico.",
+        "isCorrect": false,
+        "explanation": "La fiebre es solo un síntoma inespecífico más y no define el tipo de sepsis ni orienta la sospecha microbiológica que guía la elección empírica de antibióticos."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted realiza el control de seguimiento a los 6 meses de vida de un lactante diagnosticado al nacer con infección congénita asintomática por Citomegalovirus (CMV), confirmado por PCR en orina positiva a los 5 días de vida. Al nacer, el tamizaje auditivo mediante emisiones otoacústicas (EOA) resultó normal bilateral. Sin embargo, en el control actual la madre refiere con preocupación que nota que el lactante ya no se sobresalta ante ruidos fuertes del ambiente ni busca con la mirada la fuente del sonido. Respecto a la hipoacusia neurosensorial por CMV congénito, ¿cuál es la característica evolutiva típica de este daño otológico que justifica el seguimiento auditivo estricto incluso en pacientes inicialmente asintomáticos?",
+    "hint": "El Citomegalovirus es la principal causa no hereditaria de hipoacusia neurosensorial infantil en el mundo. La replicación viral lenta y persistente en las estructuras del oído interno (coclear y ganglio espiral) puede causar un daño inflamatorio y degenerativo lento y progresivo que no es detectable en las primeras semanas de vida.",
+    "options": [
+      {
+        "text": "A) La hipoacusia por CMV es de carácter puramente conductivo y transitorio, resolviendo de forma espontánea antes del año de vida sin secuelas.",
+        "isCorrect": false,
+        "explanation": "La hipoacusia es neurosensorial (daño en el oído interno o nervio auditivo), no conductiva (oído medio), y es de carácter permanente y potencialmente severo, no transitorio."
+      },
+      {
+        "text": "B) Se presenta únicamente al nacer y nunca progresa en el tiempo; si el tamizaje auditivo fue normal al nacer, no hay riesgo de daño auditivo posterior.",
+        "isCorrect": false,
+        "explanation": "Es un error conceptual grave que deja sin diagnóstico a niños que desarrollan sordera progresiva tardía; el tamizaje neonatal normal no exime del seguimiento audiológico a largo plazo en pacientes confirmados con CMV."
+      },
+      {
+        "text": "C) Es una complicación exclusiva de los hijos de madres que adquirieron rubéola, no existiendo relación con el CMV.",
+        "isCorrect": false,
+        "explanation": "Asocia la hipoacusia únicamente a la rubéola, ignorando que el CMV es una causa muchísimo más frecuente de hipoacusia neurosensorial infantil en la era de vacunación masiva actual."
+      },
+      {
+        "text": "D) La hipoacusia por CMV congénito puede ser de aparición tardía, fluctuante y de carácter progresivo en el tiempo, pudiendo debutar meses o años después del nacimiento incluso si el tamizaje auditivo neonatal fue completamente normal, lo que obliga a un seguimiento audiológico riguroso seriado con potenciales evocados auditivos (PEATC) hasta al menos los 5 a 6 años de edad.",
+        "isCorrect": true,
+        "explanation": "La hipoacusia neurosensorial inducida por CMV congénito (que afecta hasta al $10\\text{-}15\\%$ de los infectados asintomáticos al nacer) tiene como sello clínico característico la posibilidad de ser de inicio tardío (meses o años post-nacimiento), progresiva e incluso fluctuante unilateral o bilateral. Por este motivo, el tamizaje auditivo normal al nacer no descarta daño futuro; es obligatorio realizar un seguimiento audiológico estrecho y seriado con potenciales evocados auditivos (PEATC) durante la primera infancia para detectar precozmente la pérdida auditiva e intervenir de forma oportuna para evitar retrasos en la adquisición del lenguaje."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted atiende en el policlínico al recién nacido expuesto al VIH (hijo de madre VIH positivo) que recibió profilaxis farmacológica combinada de forma exitosa. Para confirmar o descartar la infección por VIH en este lactante durante los primeros meses de vida, ¿cuál es la técnica de laboratorio indicada y por qué no se puede utilizar la serología convencional (detección de anticuerpos Elisa/Western Blot) que se aplica en adultos?",
+    "hint": "La IgG es la única inmunoglobulina que cruza la barrera placentaria de forma activa para proteger al feto. Las pruebas de anticuerpos contra el VIH miden precisamente IgG, por lo que todo hijo de madre VIH (+) nacerá con anticuerpos reactivos circulantes en su sangre, independientemente de si el virus cruzó o no la placenta. El diagnóstico de certeza requiere \"buscar las piezas del virus\" directamente.",
+    "options": [
+      {
+        "text": "A) Se debe utilizar el test de Elisa convencional a los 2 meses de vida; si resulta positivo, confirma la infección neonatal de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "El Elisa convencional dará un resultado positivo en el lactante sano expuesto debido a los anticuerpos maternos circulantes, lo que constituye un falso positivo diagnóstico que genera angustia familiar innecesaria y es un error metodológico grave."
+      },
+      {
+        "text": "B) Se deben utilizar pruebas de diagnóstico directo molecular (PCR de ARN o ADN viral para VIH) tomadas en puntos temporales específicos (ej. al nacer, a las 2-4 semanas y a los 4-6 meses de vida); la serología convencional no es útil en menores de 18 meses debido a que detectará los anticuerpos IgG maternos transferidos de forma pasiva a través de la placenta durante la gestación, lo que genera falsos positivos constantes en lactantes sanos no infectados.",
+        "isCorrect": true,
+        "explanation": "Debido al paso transplacentario fisiológico de anticuerpos maternos IgG contra el VIH, la serología (Elisa o Western Blot) será reactiva en el lactante hasta aproximadamente los 12 a 18 meses de vida (cuando finalmente se depuran las defensas de origen materno). Para confirmar o descartar la infección de forma precoz en el lactante, se deben utilizar pruebas moleculares directas (PCR para VIH) realizadas de forma seriada en el primer semestre; dos PCR negativas consecutivas después del mes de vida y a los 4 meses descartan la infección con excelente seguridad."
+      },
+      {
+        "text": "C) Se confirma el diagnóstico mediante la toma de linfocitos CD4; si el recuento es mayor a 1000, confirma infección congénita activa.",
+        "isCorrect": false,
+        "explanation": "El recuento de CD4 es un marcador de inmunidad celular que se altera en fases avanzadas de la enfermedad, pero no es una herramienta de diagnóstico etiológico directo para confirmar infección activa por VIH en neonatos."
+      },
+      {
+        "text": "D) Solo se puede diagnosticar si el lactante presenta síntomas de SIDA (como neumonía por Pneumocystis jirovecii) a los 12 meses de vida.",
+        "isCorrect": false,
+        "explanation": "El objetivo del protocolo de prevención y tamizaje es diagnosticar e intervenir farmacológicamente con TARV mucho antes de que el lactante desarrolle inmunodeficiencia severa o infecciones oportunistas graves."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa en la maternidad a una embarazada de 38 semanas que ingresa en trabajo de parto activo con membranas íntegras. Al revisar su carnet de control, constata que su cultivo de tamizaje rectovaginal para Streptococcus agalactiae (SGB) tomado a las 35 semanas resultó positivo. Ella refiere no tener antecedentes de alergias a medicamentos. ¿Cuál es la conducta correcta respecto a la prevención de la Sepsis Neonatal Precoz (SNP) en el recién nacido en este caso?",
+    "hint": "La colonización rectovaginal materna por el SGB es un factor clave para SNP. La profilaxis antibiótica intraparto (PAI) ha demostrado reducir drásticamente la tasa de transmisión y sepsis en el recién nacido. El fármaco de elección es de espectro estrecho y debe administrarse por vía intravenosa de forma intermitente durante el trabajo de parto para alcanzar concentraciones bactericidas óptimas en el canal vaginal y el líquido amniótico.",
+    "options": [
+      {
+        "text": "A) Administrar Profilaxis Antimicrobiana Intraparto (PAI) a la madre con Penicilina G Sódica $5\\text{ millones UI}$ IV como dosis de carga, seguido de $2.5\\text{ millones UI}$ IV cada 4 horas hasta el momento del parto.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a las guías de la Sociedad Chilena de Obstetricia y Ginecología y la SOCHIPE, toda embarazada con tamizaje rectovaginal positivo para SGB entre las 35-37 semanas de gestación tiene indicación estricta de recibir Profilaxis Antimicrobiana Intraparto (PAI). El esquema de elección es Penicilina G Sódica intravenosa en dosis de carga de $5\\text{ millones UI}$, seguida de $2.5\\text{ millones UI}$ cada 4 horas hasta el parto (la Ampicilina es una alternativa aceptable)."
+      },
+      {
+        "text": "B) No requiere profilaxis intraparto debido a que las membranas están íntegras al momento del ingreso; solo se debe monitorizar la temperatura materna.",
+        "isCorrect": false,
+        "explanation": "La rotura de membranas durante el trabajo de parto permite la ascensión de las bacterias colonizadoras SGB al útero, por lo que la profilaxis es indispensable aunque ingrese con membranas íntegras."
+      },
+      {
+        "text": "C) Indicar cesárea de urgencia para evitar el paso del feto por el canal vaginal y omitir los antibióticos.",
+        "isCorrect": false,
+        "explanation": "La presencia de SGB en el tamizaje no es una indicación médica de cesárea; si la cesárea se realiza antes del inicio del trabajo de parto y con membranas íntegras, el riesgo de transmisión es extremadamente bajo y no se indica profilaxis, pero si hay trabajo de parto activo, la vía de parto sigue siendo vaginal bajo protección de la PAI."
+      },
+      {
+        "text": "D) Administrar profilaxis materna con Ceftriaxona endovenosa en dosis única en el momento del parto.",
+        "isCorrect": false,
+        "explanation": "La ceftriaxona es un antibiótico de amplio espectro innecesario para SGB (el cual es altamente sensible a penicilina); su uso promueve resistencia bacteriana y no está recomendado para profilaxis intraparto estándar."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido pretérmino de 29 semanas con 28 días de vida, hospitalizado en la UCIN con ventilación mecánica invasiva prolongada y catéter venoso central, presenta un cuadro de inestabilidad hemodinámica grave, apneas obstructivas repetidas y shock séptico. Los hemocultivos tomados revelan crecimiento de cocos Gram positivos en racimos identificados como Staphylococcus aureus resistente a meticilina (SAMR). ¿Cuál es la terapia antibiótica empírica de elección que debe pautarse de forma inmediata en este neonato?",
+    "hint": "La resistencia a meticilina en el Staphylococcus aureus (SAMR) implica que el microorganismo ha modificado su proteína de unión a penicilina (PBP2a), lo que le confiere resistencia a todos los antibióticos betalactámicos convencionales (incluyendo cloxacilina, ampicilina, cefalosporinas de primera o tercera generación). Se requiere un glicopéptido que actúe por un mecanismo de pared bacteriana diferente.",
+    "options": [
+      {
+        "text": "A) Cloxacilina endovenosa de altas dosis asociada a Amikacina.",
+        "isCorrect": false,
+        "explanation": "La cloxacilina es un betalactámico que es ineficaz contra las cepas de SAMR; persistir con cloxacilina en un paciente en shock por SAMR conlleva una alta mortalidad por falla terapéutica."
+      },
+      {
+        "text": "B) Ampicilina endovenosa asociada a Gentamicina.",
+        "isCorrect": false,
+        "explanation": "La ampicilina no tiene ninguna utilidad frente a cepas de S. aureus productoras de betalactamasas o resistentes a meticilina."
+      },
+      {
+        "text": "C) Vancomicina endovenosa, ajustando dosis según niveles plasmáticos y función renal, asociada a un aminoglicósido o cefalosporina de tercera generación si se requiere ampliar cobertura.",
+        "isCorrect": true,
+        "explanation": "El tratamiento de elección para infecciones graves confirmadas o sospechadas por Staphylococcus aureus resistente a meticilina (SAMR) en neonatología es la Vancomicina por vía endovenosa. Debido a su perfil de nefrotoxicidad potencial (especialmente cuando se asocia a aminoglicósidos), requiere una monitorización estrecha de la función renal y la medición de niveles plasmáticos de vancomicina (valle) para ajustar dosis de forma individualizada."
+      },
+      {
+        "text": "D) Linezolid oral por 10 días únicamente.",
+        "isCorrect": false,
+        "explanation": "El linezolid por vía oral no es el tratamiento de primera línea para un neonato críticamente enfermo en shock séptico nosocomial en la UCIN; se requiere una vía intravenosa bactericida profunda."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa en la maternidad a un recién nacido de término de 12 horas de vida, clínicamente sano y asintomático. La madre presenta serología reactiva para sífilis detectada al parto, con un título de VDRL materno de 1:4. El VDRL periférico del recién nacido resulta reactivo con un título de 1:16. El resto del estudio neonatal (radiografías de huesos largos, hemograma, LCR) es normal. ¿Cuál es la interpretación correcta de este resultado de VDRL periférico en el recién nacido y qué conducta terapéutica está indicada?",
+    "hint": "La presencia de anticuerpos no treponémicos (VDRL/RPR) en el recién nacido puede deberse a transferencia pasiva. Sin embargo, un aumento marcado en los títulos del RN en comparación con los de su madre en el momento del parto refleja que el feto está produciendo de forma activa sus propios anticuerpos en respuesta a la espiroqueta circulante. El límite estándar de diluciones es muy específico en neonatología.",
+    "options": [
+      {
+        "text": "A) Los títulos del recién nacido son equivalentes a los maternos; al estar asintomático, se confirma que no tiene infección y se puede administrar una dosis de Penicilina Benzatina IM antes del alta.",
+        "isCorrect": false,
+        "explanation": "Los títulos del RN son significativamente mayores (dos diluciones arriba, de 1:4 a 1:16 es el cuádruple); clasificarlo como \"no infectado\" y usar penicilina benzatina en dosis única es un error de tratamiento subóptimo grave que puede llevar a secuelas tardías."
+      },
+      {
+        "text": "B) Un título de VDRL en el recién nacido que es al menos cuatro veces mayor (dos diluciones) que el título materno (ej. de 1:4 materno a 1:16 neonatal) confirma el diagnóstico de Sífilis Congénita en el recién nacido, independientemente de la ausencia de síntomas clínicos, obligando a administrar tratamiento completo con Penicilina G Sódica acuosa intravenosa por 10 días.",
+        "isCorrect": true,
+        "explanation": "Según la definición de caso clínico de sífilis congénita del MINSAL y de la SLIPE, se confirma el diagnóstico si el título de VDRL/RPR del recién nacido es al menos cuatro veces superior (dos diluciones) al título materno en el momento del parto (por ejemplo, madre 1:4 y RN 1:16; o madre 1:2 y RN 1:8). Esto demuestra una producción activa de anticuerpos del RN por infección congénita y obliga a realizar el estudio completo y administrar el tratamiento intravenoso por 10 días, sin importar que el examen físico inicial sea normal."
+      },
+      {
+        "text": "C) El resultado del VDRL neonatal es falso positivo por paso de anticuerpos maternos; se debe dar de alta y repetir el VDRL en 1 mes sin tratar.",
+        "isCorrect": false,
+        "explanation": "Aunque el paso pasivo existe, la diferencia de dos diluciones (cuatro veces más títulos en el RN) confirma infección activa del RN; postergar el tratamiento sin indicación médica expone al neonato a riesgos sistémicos mayores."
+      },
+      {
+        "text": "D) El VDRL periférico del RN no es útil si es menor a 1:32; se debe realizar una biopsia de piel del cordón umbilical para confirmar.",
+        "isCorrect": false,
+        "explanation": "No se requiere biopsia de cordón umbilical de rutina y el límite de 1:32 es arbitrario; la regla de las dos diluciones comparativas se aplica a cualquier nivel de títulos basales maternos."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Una gestante de 39 semanas en trabajo de parto activo ingresa a la maternidad. Al realizar el examen físico segmentario ginecológico, el médico de turno observa múltiples lesiones vesiculares y ulceradas dolorosas activas compatibles con un brote agudo de Herpes Simple genital (HSV-2) localizadas en la región vulvar y perineal. Las membranas están íntegras. ¿Cuál es la conducta recomendada para prevenir la transmisión vertical del Herpes Simple al recién nacido de forma eficaz?",
+    "hint": "La inmensa mayoría ($>85\\%$) de los casos de herpes simple neonatal se adquieren durante el paso por el canal vaginal infectado en el momento del parto (transmisión vertical intraparto). Si existen lesiones activas (vesículas o úlceras) en el tracto genital materno al momento del parto, el riesgo de transmisión es extremadamente elevado, por lo que se debe evitar que el feto pase por esa zona.",
+    "options": [
+      {
+        "text": "A) Permitir el parto vaginal normal pero realizar lavados vulvares continuos con povidona yodada durante el expulsivo.",
+        "isCorrect": false,
+        "explanation": "Los lavados antisépticos locales son totalmente ineficaces para prevenir la transmisión de partículas virales activas al feto durante la fricción del parto vaginal."
+      },
+      {
+        "text": "B) Permitir el parto vaginal y administrar profilaxis oral con aciclovir al recién nacido inmediatamente después del nacimiento.",
+        "isCorrect": false,
+        "explanation": "El parto vaginal ante lesiones activas visibles está contraindicado por el altísimo riesgo de contagio neonatal masivo; la profilaxis posnatal oral no previene de forma segura la infección sistémica grave del neonato."
+      },
+      {
+        "text": "C) Indicar parto por cesárea programada diferida en 48 horas para permitir que la madre inicie tratamiento con aciclovir oral y las lesiones cicatricen.",
+        "isCorrect": false,
+        "explanation": "Diferir el parto por 48 horas en una paciente cursando un trabajo de parto activo de término no es clínicamente viable ni seguro para el feto."
+      },
+      {
+        "text": "D) Realizar de forma prioritaria el parto por vía cesárea de urgencia inmediata (idealmente antes de que se produzca la rotura de membranas o dentro de las primeras 4 a 6 horas post-rotura), para evitar el contacto directo del feto con las secreciones y lesiones herpéticas activas del canal vaginal durante el nacimiento.",
+        "isCorrect": true,
+        "explanation": "La presencia de lesiones activas herpéticas (primer brote o recurrencia) en el canal del parto o la vulva al momento de la admisión para el parto es una indicación absoluta de parto por vía cesárea. La cesárea reduce drásticamente el riesgo de transmisión vertical de HSV (de un $50\\%$ en partos vaginales con primoinfección activa a menos del $1\\%$). Debe realizarse de forma rápida antes de que ocurra la rotura de membranas o lo más precozmente posible tras esta para optimizar la protección."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted se encuentra evaluando la realización de una Punción Lumbar (PL) a un recién nacido de 10 días de vida, hospitalizado por un síndrome febril sin foco claro asociado a letargia y rechazo alimentario. Respecto a las indicaciones, contraindicaciones y la utilidad de la PL en el estudio de las infecciones del sistema nervioso central en el periodo neonatal, ¿cuál de las siguientes opciones es clínicamente correcta según el Manual de Neonatología de Tapia y las pautas del HCSBA?",
+    "hint": "La meningitis bacteriana neonatal acompaña a la sepsis en hasta un 15-20% de los casos, y la clínica puede ser totalmente silenciosa (sin rigidez de nuca debido a la inmadurez de las meninges y las fontanelas abiertas). El estudio del LCR es fundamental para definir el tipo de antibiótico, su dosificación y la duración del tratamiento. Sin embargo, la PL requiere estabilidad clínica para poder posicionar de forma segura al neonato (flexión del cuello) sin comprometer su ventilación o perfusión.",
+    "options": [
+      {
+        "text": "A) La punción lumbar debe realizarse de forma obligatoria en todo recién nacido con sospecha clínica fundada de Sepsis Neonatal Tardía (SNT) o sepsis neonatal precoz sintomática clínicamente inestable, a menos que presente contraindicaciones absolutas como inestabilidad hemodinámica severa (shock no compensado), distrés respiratorio severo que requiera intubación inminente o signos de hipertensión endocraneana con compromiso de tronco.",
+        "isCorrect": true,
+        "explanation": "La PL es una herramienta diagnóstica de primer orden en neonatología, ya que la meningitis cursa de forma silente y su diagnóstico modifica radicalmente la terapia (ej: prolongación de antibióticos a 14-21 días o uso de dosis más altas que crucen barrera hematoencefálica). Sin embargo, se debe suspender o diferir de forma temporal si el paciente se encuentra inestable hemodinámicamente (riesgo de paro en flexión), presenta insuficiencia respiratoria severa no estabilizada o tiene coagulopatía de consumo severa con sangrado activo."
+      },
+      {
+        "text": "B) La punción lumbar está estrictamente contraindicada en menores de 28 días de vida debido al riesgo de inducir hernia amigdalina cerebral de forma fisiológica por la fontanela abierta.",
+        "isCorrect": false,
+        "explanation": "La fontanela abierta protege al neonato de la herniación brusca; la punción lumbar es perfectamente realizable y altamente recomendada en menores de 28 días ante sospecha de infección del SNC."
+      },
+      {
+        "text": "C) Se debe realizar PL de rutina a todos los recién nacidos asintomáticos cuyos padres presenten tamizajes negativos para SGB, como medida de tamizaje preventivo antes del alta de puerperio.",
+        "isCorrect": false,
+        "explanation": "Es una indicación absurda; la PL es un procedimiento invasivo que solo se realiza ante sospecha clínica fundamentada de infección o sepsis, nunca de forma rutinaria y preventiva a neonatos sanos asintomáticos."
+      },
+      {
+        "text": "D) El análisis citoquímico del LCR en el recién nacido tiene los mismos valores de referencia normales que en el adulto, considerándose patológico un recuento de leucocitos $>5/\\text{mm}^3$ en el LCR del neonato de término.",
+        "isCorrect": false,
+        "explanation": "Los valores de referencia normales del citoquímico de LCR en recién nacidos son sustancialmente diferentes a los del adulto: un recién nacido de término normal puede tener de forma fisiológica hasta $20\\text{-}30\\text{ leucocitos/mm}^3$ en el LCR (con predominio de mononucleares) y niveles de proteínas significativamente más elevados (hasta $100\\text{-}150\\text{ mg/dl}$) debido a la permeabilidad transitoria de la barrera hematoencefálica neonatal."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido pretérmino de 30 semanas de edad gestacional nace por parto vaginal tras una Rotura Prematura de Membranas (RPM) de 24 horas de evolución. La madre no recibió Profilaxis Antimicrobiana Intraparto (PAI). A las 2 horas de vida, el neonato presenta dificultad respiratoria progresiva con quejido constante y requerimientos de oxígeno en aumento. En este contexto, ¿cuál de las siguientes opciones describe correctamente el riesgo microbiológico diferencial del recién nacido pretérmino frente al de término respecto a la Sepsis Neonatal Precoz (SNP)?",
+    "hint": "Si bien el Streptococcus agalactiae (SGB) es la primera causa global de sepsis precoz en recién nacidos de término, en el grupo de los recién nacidos pretérmino de muy bajo peso, un bacilo Gram negativo entérico compite estrechamente en frecuencia y se asocia a una morbimortalidad extremadamente alta.",
+    "options": [
+      {
+        "text": "A) El prematuro presenta una susceptibilidad significativamente mayor a infecciones por Escherichia coli, bacteria que se asocia a cuadros clínicos fulminantes, mayor letalidad y alta tasa de meningitis concomitante en comparación con recién nacidos de término.",
+        "isCorrect": true,
+        "explanation": "En la sepsis neonatal precoz, Escherichia coli es el patógeno bacteriano más frecuente y letal en recién nacidos prematuros de muy bajo peso al nacer. Se asocia de forma característica a bacteriemias primarias severas, shock séptico refractario y meningitis bacteriana precoz, requiriendo un alto índice de sospecha y cobertura sinérgica inmediata con aminoglicósidos."
+      },
+      {
+        "text": "B) El riesgo microbiológico en prematuros está limitado de forma exclusiva a virus respiratorios de transmisión vertical como el Adenovirus.",
+        "isCorrect": false,
+        "explanation": "La sepsis neonatal precoz es predominantemente de etiología bacteriana (SGB, E. coli, Listeria), no viral."
+      },
+      {
+        "text": "C) El principal patógeno a cubrir en prematuros de forma universal es Staphylococcus aureus resistente a meticilina (SAMR) adquirido en el canal vaginal.",
+        "isCorrect": false,
+        "explanation": "El SAMR es un patógeno típicamente intrahospitalario causante de sepsis neonatal tardía (SNT) en unidades de cuidados intensivos, no es un colonizador vaginal habitual que cause sepsis de transmisión vertical precoz."
+      },
+      {
+        "text": "D) Los recién nacidos prematuros no presentan riesgo de sepsis precoz debido a que la inmadurez de sus barreras mucosas impide la translocación bacteriana durante el parto.",
+        "isCorrect": false,
+        "explanation": "Al contrario, la inmadurez inmunológica y la extrema permeabilidad cutáneo-mucosa del prematuro aumentan drásticamente su riesgo de sepsis precoz ante cualquier exposición a la microbiota vaginal materna."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Una gestante de 10 semanas acude a su primer control prenatal. Al evaluar sus exámenes de laboratorio destaca una serología para Toxoplasma gondii con anticuerpos IgG reactivos e IgM reactivos. Para diferenciar si se trata de una primoinfección adquirida de forma reciente durante la gestación (que implica alto riesgo de transmisión fetal) o de una infección antigua con persistencia de IgM reactiva, ¿cuál es el examen confirmatorio de elección recomendado por las guías clínicas de infectología perinatal?",
+    "hint": "Al inicio de una infección, los anticuerpos IgG producidos tienen una fuerza de unión débil (baja avidez) con el antígeno. Con el paso de los meses, la respuesta inmune madura y produce anticuerpos IgG con una unión sumamente fuerte y específica (alta avidez).",
+    "options": [
+      {
+        "text": "A) PCR para Toxoplasma en líquido cefalorraquídeo materno.",
+        "isCorrect": false,
+        "explanation": "La punción lumbar no tiene ningún rol en el tamizaje prenatal de toxoplasmosis gestacional asintomática."
+      },
+      {
+        "text": "B) Test de avidez de anticuerpos IgG contra Toxoplasma gondii; una alta avidez descarta una infección adquirida en los últimos 3 a 4 meses.",
+        "isCorrect": true,
+        "explanation": "El test de avidez de IgG es la herramienta estándar para datar la infección por Toxoplasma en embarazadas que presentan IgG e IgM reactivas en el primer trimestre. Un resultado de alta avidez (habitualmente $>60\\%$) confirma de forma muy segura que la infección fue adquirida hace más de 12 a 16 semanas (antes de la concepción), descartando el riesgo de transmisión congénita. Una baja avidez sugiere infección reciente y obliga a iniciar terapia y estudio fetal."
+      },
+      {
+        "text": "C) Serología para anticuerpos IgA e IgE en saliva materna de forma semanal por un mes.",
+        "isCorrect": false,
+        "explanation": "Si bien la IgA e IgE pueden elevarse en fase aguda, su determinación en saliva no está estandarizada ni es el método de elección para datar la infección con la precisión clínica que otorga el test de avidez de IgG."
+      },
+      {
+        "text": "D) Cultivo celular del parásito obtenido mediante biopsia de vellosidades coriónicas de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "El cultivo del parásito es complejo, lento y la biopsia de vellosidades coriónicas es un método altamente invasivo que no se utiliza como primera línea diagnóstica para este fin serológico."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un lactante de 20 días de vida, nacido a término de forma sana y sin antecedentes de hospitalizaciones previas tras el alta de la maternidad, es llevado al servicio de urgencias por presentar fiebre de $38.5^\\circ\\text{C}$ axilar de 6 horas de evolución, irritabilidad al llanto y rechazo alimentario. Al examen físico se observa reactivo, sin focos infecciosos evidentes. ¿Cuál es el agente etiológico más común implicado en la Sepsis Neonatal Tardía adquirida en la comunidad en Chile?",
+    "hint": "La sepsis tardía que se adquiere en el hogar por lactantes previamente sanos difiere microbiológicamente de la sepsis tardía de la UCIN. El principal patógeno es una bacteria Gram positiva que coloniza el tracto genital y gastrointestinal materno, y que puede causar enfermedad tardía (entre la semana 1 y los 3 meses de vida) por transmisión horizontal o colonización mucosa persistente.",
+    "options": [
+      {
+        "text": "A) Staphylococcus epidermidis.",
+        "isCorrect": false,
+        "explanation": "Staphylococcus epidermidis (u otros estafilococos coagulasa negativos) es el patógeno líder en sepsis tardía nosocomial (intrahospitalaria) asociada a catéteres en prematuros, pero es sumamente infrecuente como causa de sepsis comunitaria en lactantes de término previamente sanos."
+      },
+      {
+        "text": "B) Pseudomonas aeruginosa.",
+        "isCorrect": false,
+        "explanation": "Pseudomonas es un patógeno oportunista nosocomial de unidades de cuidado intensivo, muy raro en la comunidad en recién nacidos sanos."
+      },
+      {
+        "text": "C) Streptococcus agalactiae (SGB) de inicio tardío.",
+        "isCorrect": true,
+        "explanation": "El SGB (Streptococcus grupo B) es el causante de la sepsis tardía comunitaria en la inmensa mayoría de los casos. A diferencia de la sepsis precoz por SGB (que se previene con profilaxis intraparto), la sepsis tardía por SGB no se evita con la PAI materna y se manifiesta típicamente como bacteriemia sin foco o meningitis bacteriana en lactantes de 1 a 12 semanas de vida."
+      },
+      {
+        "text": "D) Listeria monocytogenes tipo IVb.",
+        "isCorrect": false,
+        "explanation": "Si bien Listeria puede causar enfermedad tardía comunitaria (meningitis), su frecuencia es significativamente menor que la del SGB."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Una embarazada de término presenta un cuadro clínico típico de Varicela aguda con lesiones vesiculosas generalizadas que iniciaron exactamente 3 días antes del parto. El parto se produce por vía vaginal sin complicaciones, naciendo un RN sano y vigoroso. Respecto al riesgo de varicela neonatal grave y la conducta clínica inmediata con el recién nacido, ¿cuál es la conducta correcta?",
+    "hint": "Cuando la varicela materna inicia entre 5 días antes y 2 días después del parto, el recién nacido se expone al virus durante el nacimiento sin el beneficio de recibir anticuerpos IgG maternos (los cuales toman al menos 5 días en producirse y cruzar la placenta). Esto resulta en una varicela neonatal con compromiso multiorgánico grave y alta mortalidad si no se interviene de urgencia.",
+    "options": [
+      {
+        "text": "A) El recién nacido no tiene riesgo de enfermedad grave porque la madre le transfirió anticuerpos IgG transplacentarios protectores; se va a domicilio de forma normal.",
+        "isCorrect": false,
+        "explanation": "Es un grave error de apreciación; la brecha de tiempo impide la transferencia placentaria de anticuerpos, exponiendo al RN a una infección sistémica grave con alta letalidad."
+      },
+      {
+        "text": "B) Iniciar tratamiento oral inmediato con aciclovir profiláctico al RN por 21 días y dar el alta a domicilio con aislamiento relativo.",
+        "isCorrect": false,
+        "explanation": "La profilaxis oral con aciclovir no reemplaza a la inmunoglobulina específica en el periodo neonatal inmediato y el manejo debe ser hospitalizado bajo aislamiento estricto de contacto y respiratorio por el riesgo de brote nosocomial en la maternidad."
+      },
+      {
+        "text": "C) Administrar vacuna contra la Varicela al recién nacido antes de las 12 horas de vida de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la varicela contiene virus vivos atenuados y está estrictamente contraindicada en recién nacidos de esta edad; el PNI la contempla recién a partir de los 18 meses."
+      },
+      {
+        "text": "D) El recién nacido presenta un riesgo extremadamente alto de varicela neonatal grave y potencialmente letal debido a la ausencia de anticuerpos maternos protectores; se debe hospitalizar de forma inmediata en aislamiento de contacto y aéreo para administrar Inmunoglobulina específica contra Varicela-Zóster (VZIG) por vía intramuscular dentro de las primeras horas de vida, y monitorizar estrechamente la aparición de síntomas.",
+        "isCorrect": true,
+        "explanation": "Esta es la indicación clásica y crítica de inmunoprofilaxis pasiva con inmunoglobulina específica contra Varicela-Zóster (VZIG) en el neonato. La ventana temporal materna (5 días pre-parto a 2 días post-parto) deja al recién nacido totalmente desprotegido contra una replicación viral masiva. Se debe administrar VZIG lo antes posible post-nacimiento. Si el RN desarrolla lesiones vesiculosas a pesar de la inmunoglobulina, se debe iniciar Aciclovir intravenoso de inmediato."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted realiza el control de salud de un recién nacido de término de 3 días de vida en el alojamiento conjunto. El examen físico segmentario revela que el neonato se encuentra en percentil de peso bajo el promedio para la edad gestacional (PEG armónico severo) y presenta un soplo cardíaco sistólico funcional leve. No hay otros hallazgos. Respecto al tamizaje de Citomegalovirus (CMV) congénito en Chile, ¿cuál es la conducta recomendada?",
+    "hint": "Actualmente en Chile no existe un tamizaje universal obligatorio para CMV al nacer (como sí ocurre con el hipotiroidismo o la PKU). El diagnóstico se realiza de forma \"dirigida\" o sospechada ante la presencia de marcadores clínicos clásicos de infección congénita, incluyendo alteraciones del crecimiento fetal o del examen neurológico/auditivo.",
+    "options": [
+      {
+        "text": "A) Solicitar de forma prioritaria la toma de muestra para detección de ADN de CMV por PCR en orina o saliva hoy, ya que el antecedente de ser Pequeño para la Edad Gestacional (PEG) o presentar sospecha de restricción del crecimiento intrauterino sin causa explicada es una indicación formal de tamizaje dirigido para CMV congénito.",
+        "isCorrect": true,
+        "explanation": "Todo recién nacido Pequeño para la Edad Gestacional (PEG) de causa no precisada, o que presente microcefalia, petequias, ictericia colestásica, hepatoesplenomegalia o alteración en el tamizaje auditivo automatizado, tiene indicación formal de estudio dirigido para CMV mediante PCR en orina o saliva tomada en los primeros 21 días de vida. El RCIU es una de las manifestaciones más frecuentes de la disfunción placentaria y celular por CMV."
+      },
+      {
+        "text": "B) No realizar ningún estudio, ya que en Chile el tamizaje para CMV es universal y se realiza de forma automática a toda la población infantil a los 12 meses de vida mediante el carnet de salud.",
+        "isCorrect": false,
+        "explanation": "No existe tamizaje universal para CMV a los 12 meses en el PNI de Chile."
+      },
+      {
+        "text": "C) Esperar al año de vida para realizar un fondo de ojo; si este es normal, se descarta CMV congénito de forma definitiva.",
+        "isCorrect": false,
+        "explanation": "El fondo de ojo busca coriorretinitis (que puede verse en CMV), pero no es el examen confirmatorio ni el método de tamizaje inicial; además, esperar al año de vida retrasa de forma inaceptable el diagnóstico y la oportunidad de tratamiento neuroprotector."
+      },
+      {
+        "text": "D) Indicar tratamiento profiláctico con valganciclovir oral por 6 semanas a todo RN catalogado como PEG sin necesidad de confirmar la presencia del virus.",
+        "isCorrect": false,
+        "explanation": "El valganciclovir es un antiviral de alta toxicidad hematológica (neutropenia) que solo se prescribe ante diagnóstico virológico confirmado de CMV congénito sintomático; nunca se administra de forma empírica en neonatos PEG sanos."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término de 3 días de vida es hijo de una madre con diagnóstico de Sífilis Primaria detectada al parto (VDRL 1:8). La madre refiere haber recibido únicamente una dosis de Penicilina Benzatina hace una semana por mala adherencia. Se realiza el estudio completo al recién nacido: el examen físico es completamente normal, el VDRL periférico es no reactivo, las radiografías de huesos largos no muestran periostitis, el hemograma y plaquetas son normales, y el citoquímico y VDRL de LCR son normales. Según la norma técnica del MINSAL y de la Pontificia Universidad Católica, ¿cuál es la conducta terapéutica indicada para este recién nacido?",
+    "hint": "La norma del MINSAL establece que ante un recién nacido hijo de madre con tratamiento inadecuado (en este caso incompleto, solo 1 dosis una semana antes), se debe realizar un estudio completo. Si este estudio resulta completamente normal y negativo, el RN califica para recibir un esquema acortado profiláctico intramuscular ambulatorio de dosis única, asegurando un seguimiento estricto posterior para confirmar la no aparición de la enfermedad.",
+    "options": [
+      {
+        "text": "A) No requiere ningún tratamiento ya que el estudio del recién nacido fue completamente normal y el VDRL es negativo; se va de alta con controles habituales.",
+        "isCorrect": false,
+        "explanation": "Omitir el tratamiento es un error grave; el recién nacido estuvo expuesto a una espiroquetemia materna activa sin tratamiento adecuado materno, por lo que requiere obligatoriamente profilaxis activa para evitar una sífilis congénita tardía de aparición silenciosa."
+      },
+      {
+        "text": "B) Administrar una dosis única de Penicilina G Benzatina $50.000\\text{ UI/kg}$ por vía intramuscular antes del alta y programar seguimiento serológico ambulatorio.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a los flujogramas de manejo de Sífilis Congénita en Chile (MINSAL y guías HCSBA/UC), si el RN es hijo de madre con tratamiento inadecuado pero tiene un estudio clínico, radiológico, hematológico y de LCR completamente normal y negativo, se indica la administración de Penicilina G Benzatina $50.000\\text{ UI/kg}$ por vía intramuscular en dosis única. Se debe asegurar el seguimiento serológico con VDRL cada 2-3 meses hasta los 6 meses de vida para confirmar la no reactividad persistente."
+      },
+      {
+        "text": "C) Hospitalizar para administrar Penicilina G Sódica acuosa intravenosa por 10 días, ya que toda exposición a sífilis materna exige terapia endovenosa sin importar los exámenes.",
+        "isCorrect": false,
+        "explanation": "La penicilina sódica endovenosa por 10 días se reserva para recién nacidos con estudio alterado (clínica, radiografía alterada, citoquímico o VDRL de LCR alterado, o VDRL en sangre con títulos 4 veces mayores que la madre). Si el estudio es completamente normal, no se justifica una hospitalización prolongada para terapia endovenosa."
+      },
+      {
+        "text": "D) Indicar tratamiento con amoxicilina oral por 14 días en su domicilio.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina oral no está aprobada ni recomendada por ninguna guía nacional para el tratamiento o profilaxis de la sífilis congénita."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido pretérmino de 29 semanas cursa con sospecha de Sepsis Neonatal Precoz (SNP) y recibe terapia empírica inicial con Ampicilina y Gentamicina. Al tercer día, el laboratorio informa que el hemocultivo periférico es positivo para Escherichia coli sensible a amikacina y cefotaxima, pero resistente a ampicilina y con resistencia de nivel intermedio a gentamicina. El recién nacido se encuentra actualmente estable, en ventilación mecánica, con parámetros clínicos estables. Según el uso racional de antimicrobianos en neonatología, ¿cuál es la conducta antibiótica adecuada?",
+    "hint": "El principio del tratamiento dirigido exige suspender los fármacos a los cuales el germen aislado presenta resistencia in vitro, seleccionando la alternativa de espectro más estrecho y eficaz disponible en el antibiograma para evitar la inducción de mayor resistencia en la unidad de neonatología.",
+    "options": [
+      {
+        "text": "A) Mantener el esquema de ampicilina y gentamicina sin cambios; la respuesta clínica in vivo siempre es idéntica independientemente del antibiograma in vitro.",
+        "isCorrect": false,
+        "explanation": "Ignorar el antibiograma y mantener fármacos con resistencia demostrada expone al recién nacido a una falla terapéutica catastrófica con bacteriemia persistente y shock séptico tardío secundario."
+      },
+      {
+        "text": "B) Suspender de forma inmediata la terapia antibiótica por riesgo de nefrotoxicidad extrema por el aminoglicósido.",
+        "isCorrect": false,
+        "explanation": "Suspender la terapia sin completar el ciclo adecuado para una sepsis confirmada por hemocultivo positivo es negligente y provoca la recaída infecciosa."
+      },
+      {
+        "text": "C) Ajustar la terapia dirigida suspendiendo la Ampicilina (por resistencia demostrada) y cambiar la Gentamicina por Amikacina (o Cefotaxima según sospecha de compromiso meníngeo), completando el tratamiento por un total de 7 a 10 días bajo estrecha monitorización.",
+        "isCorrect": true,
+        "explanation": "Ante el reporte del antibiograma con una E. coli resistente a ampicilina e intermedia a gentamicina, se debe desescalar y dirigir la terapia. Se suspende la ampicilina y se cambia la gentamicina por Amikacina, que presenta sensibilidad confirmada en el antibiograma. Si se sospecha meningitis, la Cefotaxima sería una excelente alternativa por su excelente penetración en LCR, pero si se descarta compromiso meníngeo, el uso de Amikacina dirigida es altamente adecuado y seguro."
+      },
+      {
+        "text": "D) Cambiar de inmediato a Meropenem endovenoso por 21 días de forma profiláctica contra cepas superresistentes.",
+        "isCorrect": false,
+        "explanation": "El uso de carbapenémicos (Meropenem) debe reservarse estrictamente para cepas de enterobacterias productoras de betalactamasas de espectro extendido (BLEE) o multirresistentes; usarlo en una cepa sensible a amikacina/cefotaxima es un uso irracional que fomenta la emergencia de superbacterias hospitalarias."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un lactante de 9 meses acude al CESFAM para su control de salud infantil. Al revisar su historial clínico, se destaca que nació de una madre portadora de Hepatitis B (HBsAg positivo), por lo que recibió la vacuna contra la Hepatitis B y la Inmunoglobulina específica (IGHB) en las primeras 6 horas de vida, completando posteriormente sus dosis de vacuna Hexavalente a los 2, 4 y 6 meses de vida de forma puntual. ¿Qué evaluación médica y de laboratorio se debe realizar a este lactante en este momento para confirmar la eficacia de la inmunoprofilaxis y descartar que se haya convertido en portador del virus?",
+    "hint": "Para confirmar que la estrategia preventiva neonatal funcionó, debemos verificar dos cosas: 1) que el lactante no tenga el virus (midiendo el antígeno de superficie de la envoltura viral), y 2) que el lactante haya respondido activamente a la vacuna produciendo títulos protectores de defensas propias (anticuerpos específicos).",
+    "options": [
+      {
+        "text": "A) No requiere ningún control médico adicional; completar el calendario de vacunación Hexavalente descarta de forma absoluta la infección por Hepatitis B de por vida.",
+        "isCorrect": false,
+        "explanation": "Afirmar que no requiere controles es erróneo; existe una tasa de falla de la inmunoprofilaxis de hasta el $2\\text{-}5\\%$ en madres con alta carga viral, por lo que el testeo serológico de control es obligatorio por norma sanitaria."
+      },
+      {
+        "text": "B) Solicitar de urgencia una biopsia hepática transcutánea para evaluar la presencia de antígenos virales en los hepatocitos.",
+        "isCorrect": false,
+        "explanation": "La biopsia hepática es un procedimiento invasivo con riesgos de sangrado que no tiene ninguna indicación para el tamizaje serológico de rutina en lactantes sanos asintomáticos."
+      },
+      {
+        "text": "C) Solicitar hemograma completo y transaminasas semanales por los próximos 6 meses.",
+        "isCorrect": false,
+        "explanation": "El monitoreo semanal de transaminasas es inútil, doloroso y no discrimina de forma específica el estado de portador o la seroprotección de la Hepatitis B."
+      },
+      {
+        "text": "D) Solicitar la determinación plasmática del Antígeno de Superficie de Hepatitis B (HBsAg) y de los anticuerpos contra el Antígeno de Superficie (anti-HBs) entre los 9 y 12 meses de vida (o 1 a 2 meses después de la última dosis de la vacuna).",
+        "isCorrect": true,
+        "explanation": "Las guías nacionales e internacionales establecen que los hijos de madres HBsAg (+) deben ser evaluados serológicamente entre los 9 y 12 meses de vida (nunca antes de los 9 meses para evitar detectar la inmunoglobulina pasiva inyectada al nacer). Un resultado con HBsAg negativo y anti-HBs mayor o igual a $10\\text{ mIU/ml}$ confirma que el lactante está sano y adecuadamente inmunizado. Si el HBsAg es positivo, el lactante contrajo la infección y requiere derivación a especialista por hepatitis B crónica."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de 11 días de vida ingresa a la urgencia por presentar fiebre de $38.9^\\circ\\text{C}$ axilar, irritabilidad extrema alternada con letargia, succión débil y dos episodios descritos por los padres como movimientos tónico-clónicos focalizados en la extremidad superior derecha. Se realiza una Punción Lumbar en las primeras 12 horas de iniciados los síntomas neurológicos, iniciándose de inmediato Aciclovir endovenoso de altas dosis. El laboratorio informa al día siguiente que la PCR de HSV en LCR resultó negativa. Ante una sospecha clínica fundada de Encefalitis por Herpes Simple neonatal, ¿cuál es la conducta correcta?",
+    "hint": "En la fase ultra-precoz de la encefalitis herpética neonatal, la replicación viral en el tejido cerebral puede no haber liberado suficiente cantidad de ADN viral al líquido cefalorraquídeo para superar el umbral de detección de la PCR. Suspender el tratamiento en este punto puede tener consecuencias neurológicas devastadoras o letales para el lactante.",
+    "options": [
+      {
+        "text": "A) Mantener de forma estricta el tratamiento con Aciclovir endovenoso a dosis de $60\\text{ mg/kg/d\\u00eda}$ y programar la repetición de la punción lumbar para una nueva PCR de LCR en 72 horas, ya que la PCR para HSV en LCR puede dar falsos negativos en las primeras 24 a 48 horas de inicio de los síntomas neurológicos debido a la baja carga viral inicial en el espacio subaracnoideo.",
+        "isCorrect": true,
+        "explanation": "Es una regla de oro en infectología neonatal: ante una sospecha clínica alta de encefalitis por HSV (convulsiones focalizadas, fiebre, letargia en un neonato), un resultado de PCR inicial negativo tomado en las primeras 24 horas del cuadro clínico no descarta la enfermedad debido a la posibilidad de falsos negativos precoces. Se debe mantener el Aciclovir endovenoso y repetir la punción lumbar para PCR en 3 días (72 horas) para confirmar la negatividad antes de decidir la suspensión del antiviral."
+      },
+      {
+        "text": "B) Suspender de forma inmediata el Aciclovir para evitar la nefrotoxicidad; la PCR negativa en LCR descarta de forma absoluta la encefalitis por herpes a cualquier edad.",
+        "isCorrect": false,
+        "explanation": "Suspender el Aciclovir basándose en una sola PCR precoz potencialmente falsa negativa expone al recién nacido a una necrosis hemorrágica del lóbulo temporal cerebral irreversible o a la muerte por encefalitis no tratada."
+      },
+      {
+        "text": "C) Cambiar el Aciclovir por ganciclovir oral y dar el alta hospitalaria inmediata para manejo domiciliario.",
+        "isCorrect": false,
+        "explanation": "El valganciclovir/ganciclovir no es el fármaco de elección para el Herpes Simple y la vía oral está estrictamente contraindicada para el manejo agudo de infecciones del SNC en neonatos."
+      },
+      {
+        "text": "D) Indicar tratamiento antibiótico empírico para meningitis meningocócica con ceftriaxona de forma exclusiva y omitir antivirales.",
+        "isCorrect": false,
+        "explanation": "La ceftriaxona sola no cubre el herpes y tiene el riesgo adicional de desplazamiento de la bilirrubina; además, no se pueden omitir los antivirales ante sospecha de encefalitis herpética neonatal activa."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Una embarazada de 14 semanas de gestación acude a control prenatal. Se confirma diagnóstico de primoinfección por Toxoplasma gondii adquirida de forma muy reciente en el primer trimestre mediante un test de avidez de IgG persistentemente bajo asociado a IgM de altos títulos. Respecto al tratamiento indicado para prevenir la transmisión transplacentaria del parásito al feto a esta edad gestacional, ¿cuál es la conducta farmacológica correcta?",
+    "hint": "La pirimetamina es un potente inhibidor de la dihidrofolato reductasa bacteriana y parasitaria que interfiere con la síntesis de ácido fólico en el feto en desarrollo. Su uso está estrictamente contraindicado en el primer trimestre de la gestación debido a su alto riesgo de teratogenicidad (malformaciones del SNC y óseas). Se requiere un macrólido que actúe como barrera placentaria concentrándose en la placenta sin cruzar de forma masiva al feto inicialmente.",
+    "options": [
+      {
+        "text": "A) Iniciar tratamiento inmediato con Pirimetamina y Sulfadiazina asociadas a ácido folínico de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "Iniciar pirimetamina a las 14 semanas (primer trimestre/inicio del segundo) está contraindicado por el riesgo teratogénico y la toxicidad sobre el embrión en organogénesis activa."
+      },
+      {
+        "text": "B) Iniciar tratamiento inmediato con Espiramicina por vía oral; si posteriormente se confirma la infección fetal mediante PCR en líquido amniótico obtenida por amniocentesis después de las 18 semanas de gestación, se debe rotar el tratamiento a la combinación de Pirimetamina, Sulfadiazina y Ácido Folínico.",
+        "isCorrect": true,
+        "explanation": "En la embarazada con primoinfección por Toxoplasma confirmada en el primer trimestre o antes de las 18 semanas de gestación, el tratamiento inicial de elección es la Espiramicina (un macrólido que se concentra en la placenta y actúa previniendo la transmisión del parásito al feto). Si después de las 18 semanas se confirma transmisión fetal mediante amniocentesis (PCR para Toxoplasma positiva en líquido amniótico), se debe rotar el esquema al de mayor potencia parasiticida: Pirimetamina + Sulfadiazina + Ácido Folínico, el cual ya es seguro de administrar a partir del segundo trimestre avanzado."
+      },
+      {
+        "text": "C) No iniciar ningún tratamiento farmacológico durante el embarazo por riesgo de teratogenicidad extrema; se debe esperar al nacimiento para tratar al RN.",
+        "isCorrect": false,
+        "explanation": "Omitir el tratamiento es un error grave que permite que el parásito invada libremente el SNC del feto, causando hidrocefalia, coriorretinitis severa o aborto espontáneo; la espiramicina es segura y eficaz para reducir la tasa de transmisión transplacentaria de forma precoz."
+      },
+      {
+        "text": "D) Indicar tratamiento con penicilina benzatina intramuscular mensual hasta el término de la gestación.",
+        "isCorrect": false,
+        "explanation": "La penicilina benzatina no tiene ninguna actividad antimicrobiana contra Toxoplasma gondii (el cual es un protozoo intracelular, no una bacteria espiroqueta)."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "En la Unidad de Cuidado Intensivo Neonatal (UCIN) se constata de forma simultánea que tres recién nacidos prematuros extremos presentan sepsis tardía nosocomial confirmada por hemocultivos positivos para Klebsiella pneumoniae resistente a ampicilina, gentamicina, cefotaxima y ceftazidima, con sensibilidad conservada únicamente a amikacina y carbapenémicos (perfil compatible con enterobacteria productora de Betalactamasa de Espectro Extendido o BLEE). ¿Cuál es la terapia antibiótica de elección recomendada para tratar a estos pacientes y controlar el brote nosocomial en la unidad?",
+    "hint": "Las bacterias productoras de BLEE tienen la capacidad enzimática de hidrolizar y destruir casi todos los antibióticos betalactámicos, incluyendo penicilinas y cefalosporinas de tercera y cuarta generación. El tratamiento de elección exige el uso de un betalactámico del grupo de los carbapenémicos, los cuales son estables y resistentes a la acción de estas enzimas.",
+    "options": [
+      {
+        "text": "A) Cloxacilina endovenosa de altas dosis.",
+        "isCorrect": false,
+        "explanation": "La cloxacilina es un antibiótico de espectro estrecho exclusivo para bacterias Gram positivas (como estafilococos sensibles); no tiene ninguna actividad contra enterobacterias Gram negativas como la Klebsiella."
+      },
+      {
+        "text": "B) Ceftriaxona en infusión continua por 14 días.",
+        "isCorrect": false,
+        "explanation": "Las cefalosporinas de tercera generación (como la ceftriaxona o cefotaxima) son hidrolizadas de forma directa por la enzima BLEE, resultando en una ineficacia bacteriológica absoluta."
+      },
+      {
+        "text": "C) Meropenem endovenoso, ajustando dosis según peso y edad posnatal, y reforzando las medidas de aislamiento de contacto y el lavado de manos estricto en la unidad.",
+        "isCorrect": true,
+        "explanation": "El tratamiento específico de primera línea para infecciones sistémicas severas (sepsis o meningitis) causadas por bacterias productoras de BLEE (como la Klebsiella pneumoniae del caso) es el Meropenem (o Imipenem). Adicionalmente, el manejo clínico ante la detección de un brote de BLEE exige implementar de forma estricta precauciones de aislamiento de contacto (uso de pechera, guantes, cohorte de pacientes) y auditoría rigurosa de la higiene de manos para cortar la transmisión horizontal entre incubadoras."
+      },
+      {
+        "text": "D) Indicar tratamiento oral con neomicina de forma universal a todo el personal de salud.",
+        "isCorrect": false,
+        "explanation": "Administrar antibióticos orales profilácticos al personal de salud está estrictamente prohibido; es inútil para erradicar colonizaciones nasofaríngeas o cutáneas de enterobacterias y fomenta la selección de gérmenes multirresistentes."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término de 12 horas de vida, asintomático, ingresa a evaluación debido al antecedente materno de fiebre intraparto de $38.4^\\circ\\text{C}$ sin PAI. El médico de turno decide solicitar exámenes de laboratorio, destacando un hemograma con leucocitos de $16.000/\\text{mm}^3$ e índice I/T de 0.08, una PCR de $3\\text{ mg/L}$ y una Procalcitonina (PCT) de $4.5\\text{ ng/ml}$ (rango de referencia habitual en adultos $<0.5\\text{ ng/ml}$). Respecto al comportamiento fisiológico de la Procalcitonina en las primeras horas de vida, ¿cuál de las siguientes opciones describe correctamente la interpretación de este resultado?",
+    "hint": "La procalcitonina es un biomarcador muy sensible para sepsis en adultos y niños mayores. Sin embargo, en el recién nacido sano se produce una liberación fisiológica masiva de esta prohormona al torrente sanguíneo en respuesta al estrés térmico, respiratorio y metabólico del nacimiento, elevándose de forma normal durante las primeras $24\\text{ a }36\\text{ horas}$ de vida antes de estabilizarse a niveles basales.",
+    "options": [
+      {
+        "text": "A) Una PCT de $4.5\\text{ ng/ml}$ confirma de forma absoluta una sepsis neonatal precoz grave y obliga a iniciar de inmediato Meropenem endovenoso.",
+        "isCorrect": false,
+        "explanation": "Interpretar el aumento fisiológico como sepsis definitiva es un error técnico que resulta en sobretratamiento antibiótico e invasión innecesaria del neonato."
+      },
+      {
+        "text": "B) La PCT no tiene utilidad diagnóstica en neonatología debido a que el recién nacido no posee los genes encargados de su síntesis en el hígado.",
+        "isCorrect": false,
+        "explanation": "El recién nacido sí sintetiza PCT y de hecho su respuesta es sumamente sensible, pero el estímulo fisiológico del parto la activa de forma transitoria en las primeras horas."
+      },
+      {
+        "text": "C) La elevación de la PCT es secundaria al consumo de leche materna en las primeras horas de vida.",
+        "isCorrect": false,
+        "explanation": "La alimentación con leche materna no influye en la síntesis o elevación plasmática de la procalcitonina sistémica neonatal."
+      },
+      {
+        "text": "D) El resultado de la PCT de $4.5\\text{ ng/ml}$ a las 12 horas de vida no puede ser interpretado como infección, ya que la Procalcitonina presenta un incremento fisiológico precoz y transitorio durante las primeras 24 a 36 horas de vida post-nacimiento (con picos que pueden superar los $10\\text{-}20\\text{ ng/ml}$ de forma normal), perdiendo especificidad diagnóstica durante el primer día de vida.",
+        "isCorrect": true,
+        "explanation": "El comportamiento fisiológico de la PCT en las primeras 24-36 horas de vida incluye un aumento drástico independiente de la sepsis (un pico neonatal no infeccioso). Por lo tanto, solicitar PCT en el primer día de vida genera altas tasas de falsos positivos diagnósticos que inducen tratamientos antibióticos innecesarios. El uso de la PCT en neonatología alcanza su verdadero valor diagnóstico y especificidad a partir de las 48-72 horas de vida, con curvas de referencia ajustadas por edad en horas."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un lactante de 25 días de vida es llevado a la urgencia por presentar irritabilidad persistente, llanto intenso al mudar o movilizar las extremidades inferiores y una actitud de inmovilidad flácida en ambas piernas (pseudoparálisis de Parrot). Al examen físico se palpa aumento de volumen y dolor localizado en la región metafisaria de ambas rodillas. La radiografía de huesos largos revela destrucción ósea localizada en la porción medial de la metáfisis proximal de ambas tibias. ¿Cómo se conoce este hallazgo radiológico patognomónico y qué enfermedad infecciosa congénita representa?",
+    "hint": "El Treponema pallidum tiene una predilección específica por invadir las zonas de alta replicación y calcificación ósea activa (placas de crecimiento y metáfisis) en el feto. Esto genera una inflamación severa (osteocondritis y periostitis) que causa reabsorción ósea local bilateral y simétrica, dolorosa al movimiento, lo que obliga al lactante a no mover las extremidades para evitar el dolor.",
+    "options": [
+      {
+        "text": "A) Signo de Wimberger, patognomónico de osteocondritis/periostitis por Sífilis Congénita Precoz, causada por Treponema pallidum.",
+        "isCorrect": true,
+        "explanation": "El Signo de Wimberger es la descripción radiológica de la desmineralización y destrucción ósea localizada de forma bilateral y simétrica en la cara medial de la metáfisis proximal de la tibia, altamente específico de la sífilis congénita precoz. Se asocia clínicamente a la Pseudoparálisis de Parrot (el lactante no mueve la extremidad por dolor osteoarticular, simulando una parálisis neurológica)."
+      },
+      {
+        "text": "B) Signo de Sabin, secundario a Toxoplasmosis congénita.",
+        "isCorrect": false,
+        "explanation": "Sabin describe la tríada de la toxoplasmosis (hidrocefalia, coriorretinitis, calcificaciones), la cual no cursa con lesiones destructivas metafisarias óseas bilaterales simétricas de este tipo."
+      },
+      {
+        "text": "C) Signo de Gregg, patognomónico de osteomielitis por Rubéola.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Gregg corresponde a la rubéola congénita y cursa con malformaciones cardíacas y oculares, pero no con periostitis metafisaria destructiva tibial bilateral."
+      },
+      {
+        "text": "D) Signo del queque de arándano óseo, secundario a infección por Citomegalovirus.",
+        "isCorrect": false,
+        "explanation": "Describe una manifestación cutánea (blueberry muffin) de eritropoyesis dérmica, no un hallazgo radiológico óseo de periostitis o metaplasia ósea metafisaria."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted controla en el policlínico de infectología pediátrica a un lactante de 1 mes de vida, hijo de una madre con diagnóstico de infección por VIH no tratada durante el embarazo. El informe del laboratorio reporta un resultado de PCR de ARN viral de VIH reactivo (positivo) tomado a las 4 semanas de vida. ¿Cuál es la conducta diagnóstica y terapéutica inmediata recomendada por la Norma Chilena de Prevención y Tratamiento del VIH?",
+    "hint": "En lactantes infectados por VIH por transmisión vertical, la progresión de la enfermedad es extremadamente rápida durante el primer año de vida, con alto riesgo de encefalopatía por VIH, neumonía por Pneumocystis e infecciones oportunistas graves. Si una primera prueba molecular directa es positiva, se requiere una muestra confirmatoria de control para seguridad legal/técnica, pero la terapia activa no debe retrasarse bajo ningún concepto.",
+    "options": [
+      {
+        "text": "A) Esperar a los 18 meses para realizar un test de Elisa convencional de control antes de iniciar cualquier fármaco.",
+        "isCorrect": false,
+        "explanation": "Esperar a los 18 meses para tratar a un lactante con infección por VIH confirmada por PCR es un error clínico inaceptable que se asocia a una mortalidad de casi el $50\\%$ en el primer año de vida por SIDA infantil."
+      },
+      {
+        "text": "B) Tomar de forma inmediata una segunda muestra de sangre para PCR de VIH (ADN o ARN) para confirmar el diagnóstico de infección activa, pero iniciar de inmediato el tratamiento antirretroviral triterapia (TARV) infantil de alta potencia sin esperar el resultado para prevenir el rápido deterioro inmunológico y neurológico del lactante.",
+        "isCorrect": true,
+        "explanation": "La confirmación de una primera PCR de VIH positiva en un lactante expuesto requiere una segunda muestra confirmatoria de inmediato. Sin embargo, para evitar la replicación descontrolada del virus en el SNC y el daño inmunológico irreversible, la terapia antirretroviral triterapia (TARV) debe iniciarse de forma inmediata tras tomar la segunda muestra, sin esperar el resultado de esta. El tratamiento oportuno reduce drásticamente la mortalidad infantil por VIH."
+      },
+      {
+        "text": "C) Indicar lactancia materna exclusiva para transferir anticuerpos maternos protectores de forma pasiva.",
+        "isCorrect": false,
+        "explanation": "La lactancia materna está estrictamente prohibida en Chile para madres VIH (+), ya que mantiene el riesgo de transmisión viral continua al lactante."
+      },
+      {
+        "text": "D) Contraindicar de forma definitiva toda vacuna del PNI y suspender los antirretrovirales por sospecha de falso positivo de laboratorio.",
+        "isCorrect": false,
+        "explanation": "Aunque las vacunas de virus vivos se postergan si se confirma la infección con compromiso inmunológico severo, las vacunas inactivadas del PNI (como la Hexavalente) deben administrarse según el calendario para proteger al lactante."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término cursa con diagnóstico confirmado de Rubéola Congénita sintomática con cardiopatía (Ductus Arterioso Persistente) y cataratas bilaterales. Se encuentra hospitalizado en la sala de neonatología intermedia previa a su cirugía cardíaca correctora. Respecto a las medidas de aislamiento y el periodo de contagiosidad de este paciente en la unidad hospitalaria, ¿cuál es la indicación correcta según las normas de prevención de infecciones asociadas a la atención de salud (IAAS)?",
+    "hint": "Los lactantes con rubéola congénita actúan como un potente reservorio viral hospitalario y comunitario. A diferencia de los adultos (en quienes la eliminación del virus dura pocos días tras el exantema), los lactantes infectados in utero mantienen una replicación viral persistente en sus tejidos y excretan millones de partículas de virus viables en sus secreciones biológicas durante meses.",
+    "options": [
+      {
+        "text": "A) El paciente no requiere medidas de aislamiento ya que la rubéola no se transmite de persona a persona tras el nacimiento.",
+        "isCorrect": false,
+        "explanation": "Ignora el hecho fisiológico de la excreción viral masiva y persistente en el síndrome de rubéola congénita, lo que puede causar brotes hospitalarios severos e infecciones en personal gestante expuesto."
+      },
+      {
+        "text": "B) Mantener aislamiento de contacto por 24 horas y luego enviar a sala común sin restricciones.",
+        "isCorrect": false,
+        "explanation": "Un periodo de 24 horas es completamente inútil e insuficiente; la eliminación viral no se resuelve en las primeras horas de vida."
+      },
+      {
+        "text": "C) Implementar medidas estrictas de aislamiento de contacto y aéreo en habitación individual durante toda su hospitalización o hasta que el paciente cumpla el año de vida, a menos que se cuente con cultivos virales nasofaríngeos y urinarios repetidamente negativos después de los 3 meses de vida, debido a que los lactantes con rubéola congénita eliminan el virus de forma activa y masiva por secreciones respiratorias y orina durante periodos prolongados.",
+        "isCorrect": true,
+        "explanation": "Los lactantes con rubéola congénita son altamente contagiosos. Pueden excretar el virus por vía respiratoria u orina hasta el año de vida (y en ocasiones más), representando un riesgo crítico para el personal de salud (especialmente funcionarias embarazadas susceptibles) y otros lactantes hospitalizados. Las pautas de IAAS exigen precauciones de transmisión aérea y contacto de forma prolongada, requiriendo cultivos virales negativos para levantar el aislamiento de forma segura antes del año de vida."
+      },
+      {
+        "text": "D) Indicar aislamiento únicamente durante los picos febriles y suspender la lactancia artificial.",
+        "isCorrect": false,
+        "explanation": "El aislamiento depende de la excreción viral demostrada o de la edad cronológica, no de la presencia de fiebre."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa en la maternidad a una embarazada de 31 semanas que ingresa por presentar fiebre de $38.9^\\circ\\text{C}$ axilar, calofríos, mialgias generalizadas y dolor lumbar persistente de 24 horas de evolución, asociado a contracciones uterinas y líquido amniótico teñido de meconio espeso. Refiere haber consumido de forma habitual quesos blandos artesanales elaborados con leche no pasteurizada comprados en un viaje rural reciente. ¿Cuál es el patógeno bacteriano responsable de este cuadro de primoinfección materna y riesgo de sepsis neonatal precoz fulminante?",
+    "hint": "Se trata de un bacilo Gram positivo intracelular facultativo, capaz de multiplicarse activamente a temperaturas de refrigeración. La primoinfección materna suele cursar como un cuadro pseudogripal o gastroenteritis leve, pero la bacteriemia materna infecta de forma muy agresiva la placenta, provocando placentitis supurativa, corioamnionitis con meconio espeso en pretérminos (un hallazgo muy inusual que orienta a esta bacteria) y sepsis neonatal precoz grave.",
+    "options": [
+      {
+        "text": "A) Streptococcus agalactiae (SGB).",
+        "isCorrect": false,
+        "explanation": "SGB es una bacteria del tracto digestivo y vaginal materno que se transmite de forma ascendente durante el trabajo de parto con membranas rotas; no se asocia epidemiológicamente a la ingesta de quesos no pasteurizados ni cursa característicamente con cuadros gripales maternos de origen alimentario."
+      },
+      {
+        "text": "B) Escherichia coli.",
+        "isCorrect": false,
+        "explanation": "E. coli es un patógeno entérico comensal que causa sepsis ascendente, no se relaciona con primoinfección materna alimentaria de esta naturaleza de forma epidemiológica típica."
+      },
+      {
+        "text": "C) Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "El neumococo causa neumonía o meningitis comunitaria, pero es una causa extremadamente infrecuente de placentitis bacteriana masiva transplacentaria por brotes alimentarios en gestantes."
+      },
+      {
+        "text": "D) Listeria monocytogenes.",
+        "isCorrect": true,
+        "explanation": "Listeria monocytogenes se asocia característicamente al consumo de lácteos artesanales no pasteurizados, embutidos o alimentos listos para el consumo contaminados. Su infección en la gestante provoca bacteriemia y transmisión transplacentaria, manifestándose como parto pretérmino con líquido meconial espeso (signo de sufrimiento fetal agudo por listeriosis) y granulomatosis infantiséptica o sepsis precoz grave con alta mortalidad en el neonato."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted prescribe tratamiento con Valganciclovir oral a un recién nacido diagnosticado con Citomegalovirus (CMV) congénito sintomático con compromiso auditivo. Al explicar a los padres el mecanismo por el cual actúa este medicamento, ¿cuál es el fundamento farmacológico correcto de este antiviral?",
+    "hint": "El valganciclovir y su metabolito activo, el ganciclovir, son análogos de nucleósidos que imitan a la desoxiguanosina. Para actuar, el fármaco debe ser \"activado\" selectivamente dentro de las células del paciente que contienen el virus activo, limitando de esta forma la toxicidad sobre las células sanas no infectadas.",
+    "options": [
+      {
+        "text": "A) Es una prodroga del ganciclovir que, tras su absorción y paso hepático, requiere ser fosforilada inicialmente por una quinasa viral específica (codificada por el gen UL97 del CMV) en las células infectadas, convirtiéndose finalmente en su forma activa de trifosfato que actúa como un inhibidor competitivo de la ADN polimerasa viral, deteniendo la replicación del ADN del virus.",
+        "isCorrect": true,
+        "explanation": "El valganciclovir es un L-valil éster (prodroga) de ganciclovir con excelente biodisponibilidad oral. En la célula infectada por el CMV, la quinasa de proteínas viral (UL97) realiza la primera fosforilación a monofosfato de ganciclovir, y luego quinasas celulares lo convierten en trifosfato de ganciclovir. Este metabolito activo se incorpora al ADN viral en elongación, bloqueando competitivamente a la ADN polimerasa del virus (codificada por UL54), deteniendo la replicación de forma selectiva."
+      },
+      {
+        "text": "B) Actúa bloqueando la síntesis del ácido fólico bacteriano mediante la inhibición de la dihidrofolato sintetasa.",
+        "isCorrect": false,
+        "explanation": "Describe el mecanismo de acción de las sulfonamidas (como la sulfadiazina), útiles contra bacterias y Toxoplasma gondii, pero sin ningún efecto sobre la replicación de virus como el CMV."
+      },
+      {
+        "text": "C) Es un anticuerpo monoclonal que neutraliza de forma pasiva a las glicoproteínas de la envoltura externa del CMV impidiendo su entrada a las células sanas del oído interno.",
+        "isCorrect": false,
+        "explanation": "El valganciclovir es una molécula antiviral pequeña (análogo de nucleósidos), no es un anticuerpo monoclonal como el Nirsevimab."
+      },
+      {
+        "text": "D) Actúa de forma puramente física bloqueando los receptores de acetilcolina en las motoneuronas del lactante para evitar la fiebre.",
+        "isCorrect": false,
+        "explanation": "Es una descripción absurda; el fármaco es un antiviral específico de acción intracelular y no tiene ninguna relación con los receptores de acetilcolina ni actúa como antipirético central físico."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de 6 días de vida, hospitalizado en aislamiento en la sala de cuidados mínimos por sospecha de sepsis de inicio precoz no aclarada que no responde a la terapia con Ampicilina e infectología, presenta de forma brusca un cuadro caracterizado por sangrado persistente en sitios de punción venosa, distensión abdominal con hepatomegalia dolorosa marcada, ictericia de rápida progresión a predominio directo (colestasis) y compromiso del estado general con mala perfusión periférica. El laboratorio de urgencia reporta plaquetas de $25.000/\\text{mm}^3$, prolongación severa de tiempos de coagulación (TP y TTPK) y transaminasas hepáticas (GOT y GPT) elevadas de forma masiva con valores superiores a $3000\\text{ U/L}$. ¿Qué cuadro clínico grave se debe sospechar de forma prioritaria y qué examen confirmatorio y conducta terapéutica inmediata de urgencia se debe iniciar?",
+    "hint": "La forma diseminada del Herpes Simple Neonatal debuta típicamente hacia el final de la primera semana de vida (días 5 a 11) e imita un cuadro de sepsis bacteriana fulminante o shock séptico refractario, pero cursa de forma muy característica con compromiso hepático severo y necrosis masiva del hígado que provoca transaminasas en rangos de miles, asociado a CID con plaquetopenia extrema y sangrados.",
+    "options": [
+      {
+        "text": "A) Sepsis por Pseudomonas; se debe indicar Meropenem y suspender los exámenes virales.",
+        "isCorrect": false,
+        "explanation": "Aunque la sepsis bacteriana por Gram negativos puede causar CID, la elevación de transaminasas a niveles de miles ($>3000\\text{ U/L}$) es extremadamente inusual y apunta de forma casi exclusiva a una hepatitis herpética fulminante por HSV."
+      },
+      {
+        "text": "B) Herpes Simple Neonatal en su forma diseminada con compromiso multiorgánico (insuficiencia hepática fulminante y coagulopatía intravascular diseminada); se debe tomar de forma urgente muestras para PCR de HSV en sangre y LCR, e iniciar de inmediato Aciclovir endovenoso a dosis de $60\\text{ mg/kg/d\\u00eda}$ de forma empírica sin esperar los resultados de los exámenes.",
+        "isCorrect": true,
+        "explanation": "El cuadro con transaminasas masivamente elevadas, CID con sangrados y shock refractario en un neonato de una semana es patognomónico de la forma diseminada de Herpes Simple. Es una de las emergencias más críticas en neonatología; el retraso del Aciclovir endovenoso por incluso pocas horas aumenta dramáticamente la mortalidad de forma irreversible. Se debe iniciar terapia antiviral activa de inmediato mientras se procesa la confirmación por PCR molecular."
+      },
+      {
+        "text": "C) Atresia de vías biliares congénita; se debe programar cirugía de Kasai de urgencia y suspender el aislamiento.",
+        "isCorrect": false,
+        "explanation": "La atresia de vías biliares cursa con ictericia colestásica lenta e hipocolia a partir de la 2ª o 3ª semana de vida de forma progresiva, pero no debuta como un cuadro de falla multiorgánica aguda, shock, transaminasitis masiva y CID fulminante a los 6 días de vida."
+      },
+      {
+        "text": "D) Síndrome de aspiración de meconio tardío; se debe indicar lavado broncoalveolar con surfactante artificial.",
+        "isCorrect": false,
+        "explanation": "El síndrome de aspiración meconial es una patología puramente respiratoria del periodo neonatal inmediato en la sala de partos, sin relación con transaminasitis extrema o CID de inicio tardío a los 6 días de vida."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un lactante varón de 15 días de vida acude por fiebre de $38.2^\\circ\\text{C}$ axilar. Se realiza estudio de sepsis tardía de adquisición comunitaria. El hemocultivo periférico resulta positivo para Escherichia coli sensible a amikacina y cefalosporinas. El urocultivo tomado simultáneamente mediante punción vesical (el método más estéril y recomendado en menores de un mes) resulta positivo para el mismo germen con $>100.000\\text{ UFC/ml}$. El LCR es normal. Respecto al estudio posterior de este lactante tras completar su terapia antibiótica dirigida exitosa, ¿cuál es la conducta recomendada según las guías de nefrología y neonatología de la Sociedad Chilena de Pediatría (SOCHIPE)?",
+    "hint": "La infección del tracto urinario (ITU) en el periodo neonatal es frecuentemente de origen hematógeno, pero se asocia de forma muy estrecha a la presencia de malformaciones congénitas del riñón y las vías urinarias (CAKUT). Dado que los varones menores de 3 meses son el grupo con mayor prevalencia de malformaciones estructurales obstructivas graves, todo primer episodio de ITU neonatal obliga a un estudio completo de imágenes.",
+    "options": [
+      {
+        "text": "A) Dar de alta sin exámenes adicionales; la infección urinaria en varones recién nacidos no requiere estudios complementarios si responde a antibióticos.",
+        "isCorrect": false,
+        "explanation": "No realizar estudios en un lactante varón menor de un mes con ITU confirmada es un error grave; más del $30\\text{-}50\\%$ de estos pacientes presentan malformaciones estructurales de base que requieren intervención o seguimiento nefrológico especializado para evitar insuficiencia renal crónica."
+      },
+      {
+        "text": "B) Indicar profilaxis con amoxicilina de por vida sin realizar estudios de imagen.",
+        "isCorrect": false,
+        "explanation": "La profilaxis antibiótica prolongada con amoxicilina u otros fármacos no se indica a ciegas sin antes haber documentado la anatomía urinaria mediante la ecografía y la UCG, ya que el tipo de malformación define la necesidad real y el tipo de profilaxis."
+      },
+      {
+        "text": "C) Solicitar de forma prioritaria una Ecografía renal y vesical durante la hospitalización (para descartar malformaciones anatómicas mayores como válvulas de uretra posterior o hidronefrosis severa), y programar la realización de una Uretrocistografía miccional retrógrada (UCG) de forma diferida tras la resolución de la infección aguda para descartar reflujo vesicoureteral (RVU) u otras anomalías estructurales de las vías urinarias.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a los consensos nacionales de la Rama de Nefrología de la SOCHIPE, toda ITU neonatal confirmada obliga a realizar un estudio de imágenes escalonado: 1) Ecografía renal y vesical durante la hospitalización para descartar obstrucciones agudas (como válvulas de uretra posterior, una emergencia nefrológica en varones), y 2) Uretrocistografía miccional (UCG) diferida para evaluar reflujo vesicoureteral, ya que la ecografía normal no descarta el reflujo. Esto previene el daño cicatrizal renal crónico y la hipertensión arterial futura."
+      },
+      {
+        "text": "D) Indicar circuncisión quirúrgica inmediata en el periodo agudo de la hospitalización de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "La circuncisión puede estar indicada en casos muy seleccionados de ITU recurrente asociada a malformaciones anatómicas severas, pero nunca se realiza de forma aguda durante una sepsis neonatal activa."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted confirma el diagnóstico de Enfermedad de Chagas congénita en un lactante de 2 meses mediante la detección de tripomastigotes viables de Trypanosoma cruzi en sangre periférica mediante micrométodo de control. Respecto al tratamiento antiparasitario sistémico indicado de forma oficial y gratuita en Chile por el MINSAL, ¿cuáles son los fármacos de elección autorizados y cuál es la duración del esquema terapéutico?",
+    "hint": "El tratamiento del Chagas congénito es altamente eficaz (curación cercana al 100%) si se inicia de forma precoz durante el primer año de vida, antes de que el parásito invada crónicamente las células musculares cardíacas o digestivas. Los fármacos autorizados actúan produciendo radicales libres y daño oxidativo de forma selectiva sobre el ADN del tripanosoma.",
+    "options": [
+      {
+        "text": "A) Espiramicina o Clindamicina por vía oral durante un año completo.",
+        "isCorrect": false,
+        "explanation": "La espiramicina es un macrólido activo contra Toxoplasma pero carece de utilidad terapéutica frente a Trypanosoma cruzi."
+      },
+      {
+        "text": "B) Pirimetamina y Sulfadiazina asociadas a ácido folínico por 6 semanas de forma exclusiva.",
+        "isCorrect": false,
+        "explanation": "La pirimetamina/sulfadiazina es el esquema específico para la Toxoplasmosis congénita; no tiene rol en la terapia de la enfermedad de Chagas."
+      },
+      {
+        "text": "C) Penicilina G Sódica acuosa por vía intravenosa por 10 días de forma hospitalizada.",
+        "isCorrect": false,
+        "explanation": "La penicilina sódica es el antibiótico bactericida específico contra el treponema de la sífilis; es completamente inútil contra parásitos flagelados como el T. cruzi."
+      },
+      {
+        "text": "D) Benznidazol (fármaco de primera elección, dosis de $5\\text{ a }8\\text{ mg/kg/d\\u00eda}$ dividido en 2 dosis) o Nifurtimox (alternativa, dosis de $10\\text{ a }15\\text{ mg/kg/d\\u00eda}$ dividido en 3 dosis), ambos administrados por vía oral por un periodo estricto de 60 días de forma ambulatoria bajo estrecha monitorización hematológica.",
+        "isCorrect": true,
+        "explanation": "El tratamiento del Chagas congénito en Chile está normado de forma estricta por el MINSAL. Se utiliza Benznidazol como primera opción o Nifurtimox en caso de no disponibilidad o intolerancia, con una duración de 60 días de tratamiento continuo. Se requiere realizar hemogramas de control (semanal el primer mes y quincenal el segundo) por el riesgo de efectos adversos como neutropenia, leucopenia o erupciones cutáneas alérgicas severas, lo que obliga a ajustar dosis."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término presenta sospecha clínica de Sepsis Neonatal Precoz (SNP) y shock séptico. A pesar de una adecuada estabilización de la vía aérea y de haber administrado dos bolos de solución fisiológica de $10\\text{ ml/kg}$ ($20\\text{ ml/kg}$ en total) de forma controlada, el neonato persiste hipotenso, con perfusión periférica disminuida (llene capilar de 5 segundos), bradicardia relativa y acidosis metabólica persistente (pH 7.15, lactato $4.8\\text{ mmol/L}$). ¿Cuál es la conducta terapéutica prioritaria de soporte cardiovascular a seguir en la UCIN?",
+    "hint": "El miocardio del recién nacido tiene una menor masa muscular y reservas limitadas de calcio, lo que limita su capacidad de aumentar el volumen sistólico ante una sobrecarga de volumen. Ante un shock séptico que no responde a la carga inicial de fluidos (shock refractario a volumen), se debe evitar la sobrehidratación (la cual causa disfunción pulmonar e hidrops) y priorizar de forma precoz el uso de fármacos que mejoren la fuerza del latido cardíaco.",
+    "options": [
+      {
+        "text": "A) Iniciar de forma prioritaria soporte inotrópico endovenoso con Dobutamina (dosis de $5\\text{ a }15\\text{ mcg/kg/min}$) o Dopamina, a través de un catéter o acceso seguro, con el objetivo de mejorar la contractilidad miocárdica y optimizar el gasto cardíaco neonatal.",
+        "isCorrect": true,
+        "explanation": "Ante un shock séptico neonatal refractario a volumen inicial, se debe iniciar soporte inotrópico de forma precoz en la UCIN. La Dobutamina es el fármaco de elección para mejorar el gasto cardíaco y la perfusión sistémica (gracias a su efecto inotrópico positivo y vasodilatador sistémico leve que disminuye la poscarga del ventrículo izquierdo), pudiendo asociarse a Dopamina o Adrenalina si hay vasoplejía o hipotensión severa que comprometa la perfusión coronaria de forma inminente."
+      },
+      {
+        "text": "B) Administrar un tercer bolo de solución fisiológica a alta velocidad de infusión ($50\\text{ ml/kg}$) por vía periférica rápida.",
+        "isCorrect": false,
+        "explanation": "La administración agresiva y descontrolada de volumen ($>20\\text{-}30\\text{ ml/kg}$) en un miocardio neonatal inmaduro puede precipitar una insuficiencia cardíaca congestiva aguda con edema pulmonar masivo y disfunción miocárdica grave, empeorando el shock."
+      },
+      {
+        "text": "C) Iniciar infusión intravenosa de bicarbonato de sodio al $8.4\\%$ al $100\\%$ de concentración sin diluir de forma rápida.",
+        "isCorrect": false,
+        "explanation": "El uso rápido y no diluido de bicarbonato de sodio está contraindicado de forma absoluta en la reanimación neonatal debido al riesgo de hemorragia intraventricular cerebral (por su alta osmolaridad) y acidosis intracelular paradójica si no hay una ventilación adecuada que permita eliminar el $CO_2$ producido."
+      },
+      {
+        "text": "D) Suspender el aporte de oxígeno y colocar al recién nacido en posición de Trendelenburg invertida extrema por 12 horas.",
+        "isCorrect": false,
+        "explanation": "Suspender el oxígeno en un RN en shock con acidosis hipóxica es deletéreo; el Trendelenburg extremo puede aumentar la presión intracraneal y dificultar el retorno venoso y la excursión diafragmática."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un escolar de 12 años consulta en oftalmología por presentar visión borrosa unilateral del ojo izquierdo y dolor ocular leve de una semana de evolución. El oftalmólogo constata en el fondo de ojo una lesión blanquecina sobreelevada con edema retiniano activo adyacente a una cicatriz hiperpigmentada antigua en la mácula (retinocoroiditis activa adyacente a cicatriz). El estudio confirma una reactivación de una Toxoplasmosis congénita latente. ¿Cuál es el mecanismo fisiopatológico de esta complicación ocular tardía y cuál es el tratamiento específico indicado si la lesión compromete la mácula?",
+    "hint": "La toxoplasmosis ocular es la manifestación tardía más frecuente de la infección congénita (incluso en niños que nacieron asintomáticos). El parásito sobrevive de por vida en forma de quistes latentes en la retina. Cuando estos quistes se rompen de forma espontánea en la infancia o adolescencia, liberan parásitos activos que destruyen localmente el tejido retiniano, gatillando una fuerte respuesta inflamatoria inmunomediada.",
+    "options": [
+      {
+        "text": "A) Es una infección bacteriana secundaria por estafilococo del saco lagrimal; se trata con ciprofloxacino en colirio por 7 días de forma exclusiva.",
+        "isCorrect": false,
+        "explanation": "Es un error diagnóstico; la retinocoroiditis activa es de origen parasitario protozoario (toxoplasmosis), no una infección bacteriana de la superficie ocular por estafilococo que se resuelva con colirios."
+      },
+      {
+        "text": "B) Es secundaria a la ruptura espontánea de quistes tisulares latentes que contienen bradizoítos en la retina, acumulados desde el periodo fetal. Al comprometer la mácula o el nervio óptico, se indica tratamiento con Pirimetamina + Sulfadiazina + Ácido Folínico asociado de forma obligatoria a corticoides sistémicos (Prednisona) para reducir la inflamación y el daño cicatrizal macular irreversible que causa pérdida visual permanente.",
+        "isCorrect": true,
+        "explanation": "La reactivación de la toxoplasmosis ocular ocurre por la ruptura de quistes retinianos de bradizoítos latentes de origen congénito. Ante lesiones activas que comprometan zonas de visión crítica (mácula, fóvea, emergencia del nervio óptico o con gran inflamación vítrea), se indica terapia antiparasitaria sistémica con pirimetamina, sulfadiazina y ácido folínico para detener la replicación de los taquizoítos, asociada a prednisona oral para mitigar la respuesta inflamatoria destructiva local y preservar la agudeza visual."
+      },
+      {
+        "text": "C) Es una reacción alérgica de tipo IV a la luz solar; se trata con lentes de sol oscuros y lágrimas artificiales.",
+        "isCorrect": false,
+        "explanation": "Atribuye la lesión a una alergia solar, ignorando la reactivación activa del parásito latente intracelular en la retina."
+      },
+      {
+        "text": "D) No requiere tratamiento ya que las lesiones de toxoplasmosis ocular cursan de forma autolimitada sin riesgo de ceguera en escolares.",
+        "isCorrect": false,
+        "explanation": "Las reactivaciones maculares no tratadas provocan cicatrices definitivas en la fóvea, causando escotomas centrales permanentes y pérdida irreversible de la visión central (ceguera legal unilateral)."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Usted evalúa en la maternidad a un recién nacido de 2 días de vida que presenta de forma simétrica múltiples lesiones vesículo-ampollosas de base eritematosa y contenido serohemático localizadas de forma característica en las palmas de las manos y las plantas de los pies, las cuales se descaman de forma espontánea dejando la piel denudada y erosionada. ¿Cómo se conoce esta manifestación clínica altamente sugestiva de sífilis congénita precoz?",
+    "hint": "Se trata de una de las manifestaciones más raras pero específicas de la infección treponémica neonatal. El contenido de estas ampollas palmoplantares es extremadamente rico en espiroquetas viables (Treponema pallidum), por lo que las lesiones son altamente contagiosas al contacto directo si no se utiliza protección adecuada.",
+    "options": [
+      {
+        "text": "A) Impétigo neonatal estafilocócico severo.",
+        "isCorrect": false,
+        "explanation": "El impétigo ampollar estafilocócico neonatal suele localizarse en la región periumbilical, pliegues axilares o inguinales y cursa con ampollas de contenido purulento amarillento, siendo muy inusual su localización simétrica y exclusiva en palmas y plantas al nacer."
+      },
+      {
+        "text": "B) Eritema tóxico palmoplantar neonatal.",
+        "isCorrect": false,
+        "explanation": "El eritema tóxico neonatal es una erupción benigna fisiológica del RN caracterizada por pápulo-pústulas de contenido estéril ricos en eosinófilos que respeta estrictamente las palmas y plantas, por lo que nunca presentará lesiones en estas zonas."
+      },
+      {
+        "text": "C) Pénfigo Sifilítico, una manifestación dermatológica patognomónica de la Sífilis Congénita Precoz.",
+        "isCorrect": true,
+        "explanation": "El Pénfigo Sifilítico es la erupción vesículo-ampollosa palmoplantar característica de la sífilis congénita precoz de aparición en los primeros días de vida. El término \"pénfigo\" se utiliza de forma puramente descriptiva por el parecido con las ampollas de la enfermedad autoinmune homónima. Su presencia confirma de forma categórica la sífilis congénita activa y exige hospitalización para tratamiento completo intravenoso con Penicilina G Sódica por 10 días."
+      },
+      {
+        "text": "D) Epidermólisis bullosa simple de transmisión vertical.",
+        "isCorrect": false,
+        "explanation": "La epidermólisis bullosa es una enfermedad genética (genodermatosis) caracterizada por fragilidad cutánea extrema ante el roce mecánico, sin que presente predilección específica simétrica de esta naturaleza al nacer por sífilis activa."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término es hijo de una madre con diagnóstico de infección por VIH controlada. Ella recibió tratamiento antirretroviral triterapia (TARV) de forma regular durante toda la gestación, logrando una excelente adherencia terapéutica y contando con una carga viral plasmática indetectable ($<50\\text{ copias/ml}$) documentada en el tercer trimestre y al momento del parto. El recién nacido se encuentra sano y vigoroso. Según la Norma Técnica de Prevención de la Transmisión Vertical de VIH en Chile, ¿cuál es el protocolo de profilaxis neonatal indicado en este escenario de bajo riesgo?",
+    "hint": "Los escenarios de profilaxis del recién nacido expuesto al VIH se dividen en \"bajo riesgo\" (madre con TARV y carga viral indetectable documentada) y \"alto riesgo/alta exposición\" (madre sin control, TARV irregular o carga viral detectable). El bajo riesgo califica para un esquema preventivo simplificado de monoterapia con un antirretroviral histórico clásico.",
+    "options": [
+      {
+        "text": "A) No requiere profilaxis con antirretrovirales debido a que la madre presenta carga viral indetectable; se puede dar de alta sin medicamentos.",
+        "isCorrect": false,
+        "explanation": "Aunque la carga viral materna sea indetectable, el riesgo de transmisión vertical no es absolutamente cero durante el parto por microexposiciones sanguíneas; omitir la profilaxis neonatal viola las guías clínicas sanitarias del país."
+      },
+      {
+        "text": "B) Indicar lactancia materna exclusiva por 6 meses y profilaxis con Zidovudina por 10 días únicamente.",
+        "isCorrect": false,
+        "explanation": "La lactancia materna está prohibida independientemente de la indetectabilidad materna en Chile por el riesgo de transmisión posnatal. La duración de 10 días de AZT es insuficiente (el ciclo profiláctico mínimo es de 4 semanas)."
+      },
+      {
+        "text": "C) Administrar profilaxis combinada de tres drogas (Zidovudina, Lamivudina y Nevirapina) por 6 semanas de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "El esquema combinado de tres drogas (AZT+3TC+NVP) se reserva de forma exclusiva para recién nacidos de alto riesgo de transmisión vertical (alta exposición), no indicándose de rutina en bajo riesgo controlado para evitar toxicidad farmacológica innecesaria."
+      },
+      {
+        "text": "D) Administrar Zidovudina (AZT) por vía oral en dosis de $4\\text{ mg/kg/dosis}$ cada 12 horas (iniciada en las primeras 6 a 12 horas de vida), manteniéndola por un periodo estricto de 4 semanas de forma ambulatoria, asociado a la contraindicación absoluta de la lactancia materna.",
+        "isCorrect": true,
+        "explanation": "En recién nacidos expuestos al VIH de bajo riesgo (madre indetectable al parto), la norma chilena indica la administración exclusiva de Zidovudina (AZT) oral por un total de 4 semanas (esquema de monoterapia preventiva). Es fundamental que se inicie de forma precoz antes de las 6-12 horas de vida. Adicionalmente, se debe suspender la lactancia materna e indicar fórmula artificial exclusiva de forma gratuita por el programa nacional."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido prematuro extremo de 28 semanas de edad gestacional, de 25 días de vida, cuenta con un catéter percutáneo venoso central (epicárdico) para nutrición parenteral prolongada. Presenta sospecha de Sepsis Neonatal Tardía (SNT). El equipo de enfermería toma hemocultivos pareados simultáneos: uno a través de la vía central y otro de una vena periférica. ¿Cuál de los siguientes criterios microbiológicos confirma de forma específica una Sepsis Asociada a Catéter (SAC) (o bacteriemia asociada a dispositivo vascular) sin necesidad de retirar de forma inmediata el catéter?",
+    "hint": "Cuando una vía central está colonizada y es la fuente de la bacteriemia, la carga bacteriana dentro de la luz del catéter es exponencialmente mayor que la presente en la circulación sanguínea periférica. Por esto, al colocar las muestras en el equipo de incubación automatizada del laboratorio, la botella que contiene la sangre del catéter se multiplicará mucho más rápido y activará la señal de positividad mucho antes que la botella periférica.",
+    "options": [
+      {
+        "text": "A) Crecimiento del mismo microorganismo en ambos hemocultivos, con un Tiempo Diferencial de Positividad (TDP) en el cual el hemocultivo tomado a través del catéter central resulta positivo al menos 2 horas antes que el hemocultivo tomado de la vena periférica.",
+        "isCorrect": true,
+        "explanation": "El Tiempo Diferencial de Positividad (TDP) mayor o igual a 120 minutos ($2\\text{ horas}$) es el criterio diagnóstico microbiológico de elección y con mayor sensibilidad y especificidad para confirmar una Sepsis Asociada a Catéter con el catéter in situ. Si el catéter es la fuente, la botella del catéter central alcanza el umbral de positividad del lector del laboratorio al menos 2 horas antes que la botella venosa periférica debido a su alta concentración inicial de gérmenes."
+      },
+      {
+        "text": "B) Crecimiento de cualquier bacteria en el catéter central, independientemente de si el hemocultivo periférico resulta negativo de forma constante.",
+        "isCorrect": false,
+        "explanation": "El crecimiento bacteriano aislado en la luz del catéter central sin crecimiento en la sangre periférica suele representar una simple colonización de la luz del dispositivo o contaminación de la muestra al tomarla, pero no define una sepsis o bacteriemia sistémica activa si el hemocultivo periférico es persistentemente negativo."
+      },
+      {
+        "text": "C) Que el hemocultivo periférico resulte positivo para E. coli y el del catéter central para Candida albicans al mismo tiempo.",
+        "isCorrect": false,
+        "explanation": "Si crecen microorganismos diferentes, no se cumple el criterio de homogeneidad bacteriana pareada que define la SAC; representaría una probable contaminación o infecciones de focos diferentes concurrentes."
+      },
+      {
+        "text": "D) Crecimiento de Estafilococo coagulasa negativo únicamente a las 72 horas en la botella periférica, con botella del catéter sin desarrollo bacteriano.",
+        "isCorrect": false,
+        "explanation": "Si solo crece en el periférico y no en el catéter, el dispositivo vascular epicutáneo no es la fuente de la infección; además, un único cultivo positivo para estafilococo coagulasa negativo aislado en sangre periférica suele interpretarse como una contaminación de la piel si no hay clínica de sepsis persistente ni cultivos repetidos positivos."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Durante la discusión en la ronda de alto riesgo obstétrico, se analiza el caso de una embarazada de 24 semanas con sospecha de primoinfección por Citomegalovirus. Al revisar la ecografía fetal de alta resolución de screening morfológico del segundo trimestre, ¿cuáles son los hallazgos ultrasonográficos que sugieren de forma más específica y con mayor frecuencia una infección fetal activa por CMV?",
+    "hint": "El Citomegalovirus es un virus neurotropo y visceral que lesiona activamente las células germinales cerebrales fetales y el endotelio del tracto gastrointestinal y hepático en desarrollo. Las cicatrices necróticas se calcifican y el retraso en la migración celular produce un crecimiento deficiente de la masa encefálica y del feto en general.",
+    "options": [
+      {
+        "text": "A) Presentación de polidactilia bilateral, labio leporino y defectos extensos de la pared abdominal (onfalocele).",
+        "isCorrect": false,
+        "explanation": "La polidactilia, el labio leporino y el onfalocele son malformaciones estructurales genéticas o cromosomopatías (asociadas clásicamente a Trisomía 13 o Síndrome de Patau), sin relación fisiopatológica con el Citomegalovirus."
+      },
+      {
+        "text": "B) Detección de ventriculomegalia cerebral moderada-severa, calcificaciones intracraneales periventriculares o subependimarias, microcefalia fetal, intestino ecogénico brillante, hepatoesplenomegalia y restricción del crecimiento intrauterino (RCIU) asimétrico.",
+        "isCorrect": true,
+        "explanation": "La combinación de ventriculomegalia (hidrocefalia), calcificaciones cerebrales (periventriculares), microcefalia, RCIU e intestino hiperecogénico o hepatomegalia en la ecografía fetal conforma el patrón morfológico ecográfico clásico de la infección fetal activa por CMV. Ante estos hallazgos, se indica de forma prioritaria confirmar el diagnóstico mediante amniocentesis y PCR para CMV en líquido amniótico para evaluar el pronóstico y aconsejar a los padres."
+      },
+      {
+        "text": "C) Detección de hernia diafragmática congénita izquierda aislada sin anomalías cerebrales.",
+        "isCorrect": false,
+        "explanation": "La hernia diafragmática es un defecto del desarrollo anatómico del diafragma embrionario, no una lesión infecciosa inflamatoria visceral destructiva por CMV."
+      },
+      {
+        "text": "D) Presencia de transposición de las grandes arterias (TGA) cardíaca como hallazgo malformativo único.",
+        "isCorrect": false,
+        "explanation": "El CMV no se asocia de forma característica al desarrollo de cardiopatías congénitas malformativas estructurales puras como la TGA (a diferencia de la rubéola, que sí se asocia característicamente a ductus o estenosis pulmonar)."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de término presenta al nacimiento un exantema caracterizado por la presencia de múltiples máculas y nódulos purpúricos de coloración violácea-azulada infiltrados al tacto distribuidos por todo el cuerpo, descritos clásicamente en la literatura pediátrica como lesiones en \"queque de arándano\" o blueberry muffin. ¿Qué representa histopatológicamente esta lesión dérmica y en qué agentes infecciosos del TORCH se describe característicamente su aparición?",
+    "hint": "Durante el desarrollo fetal, ante una infección severa que causa hemólisis activa, inflamación o anemia severa por TORCH, los órganos hematopoyéticos habituales (médula ósea, bazo e hígado) se saturan y no logran producir suficientes glóbulos rojos. Para compensar esta anemia fetal grave, la piel reactiva de forma transitoria su capacidad primitiva embrionaria de fabricar células sanguíneas en la dermis, lo que se visualiza al nacer como nódulos purpúricos violáceos.",
+    "options": [
+      {
+        "text": "A) Representa depósitos de complejos inmunes de IgA en los capilares cutáneos; es exclusivo de la sífilis congénita tardía.",
+        "isCorrect": false,
+        "explanation": "No representa depósitos de inmunocomplejos capilares ni es una erupción de la sífilis tardía escolar; es un hallazgo del recién nacido con TORCH grave al nacer."
+      },
+      {
+        "text": "B) Representa múltiples picaduras de mosquitos vectores acumuladas durante el embarazo.",
+        "isCorrect": false,
+        "explanation": "Es una interpretación errónea sin ninguna base científica; las picaduras de vectores maternos no se transfieren como lesiones nodulares purpúricas de eritropoyesis dérmica al feto in utero."
+      },
+      {
+        "text": "C) Representa focos de eritropoyesis dérmica extramedular (células productoras de sangre activas en la piel ante la destrucción hematológica fetal); se describe de forma característica en infecciones congénitas graves por el Virus de la Rubéola y por el Citomegalovirus (CMV), así como en eritroblastosis fetal severa por incompatibilidad de grupo.",
+        "isCorrect": true,
+        "explanation": "El exantema blueberry muffin es un signo clínico clásico de gran valor que representa focos histológicos de eritropoyesis dérmica extramedular. Se asocia de forma muy estrecha a la infección congénita por Rubéola (donde inicialmente fue descrito) y por CMV, pero puede verse en otras condiciones TORCH graves que causan anemia hemolítica o disfunción medular fetal (como la Toxoplasmosis o el Parvovirus B19) y en neoplasias congénitas como la leucemia neonatal."
+      },
+      {
+        "text": "D) Representa necrosis grasa cutánea benigna por trauma del canal del parto; resuelve espontáneamente en 3 días.",
+        "isCorrect": false,
+        "explanation": "No tiene relación con trauma del parto; las lesiones están presentes en toda la superficie corporal de forma diseminada e histológicamente corresponden a precursores eritroides activos en la dermis, no a necrosis grasa o hematomas locales simples."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Una embarazada de término con cultivo de tamizaje rectovaginal positivo para Streptococcus agalactiae (SGB) ingresa a la maternidad en trabajo de parto activo. El equipo médico administra la primera dosis de de carga de Penicilina G Sódica endovenosa. Exactamente 2 horas y 15 minutos después de la inyección del antibiótico, se produce el nacimiento vaginal de un recién nacido de término vigoroso y clínicamente sano. Respecto a la prevención de la Sepsis Neonatal Precoz (SNP), ¿cómo se clasifica esta profilaxis materna y qué conducta se debe adoptar con el recién nacido asintomático según las directrices vigentes?",
+    "hint": "La penicilina endovenosa requiere tiempo para distribuirse por el compartimiento materno, cruzar activamente la placenta y alcanzar concentraciones terapéuticas bactericidas estables tanto en el líquido amniótico (que el feto deglute y aspira) como en la sangre fetal, logrando limpiar la vía respiratoria y digestiva del SGB antes del expulsivo. El tiempo estándar fijado por la evidencia internacional es muy estricto.",
+    "options": [
+      {
+        "text": "A) Se clasifica como adecuada y completa ya que la penicilina es de acción instantánea; el recién nacido se va a domicilio a las 24 horas sin exámenes.",
+        "isCorrect": false,
+        "explanation": "Catalogarla como completa es un error conceptual grave; la farmacocinética de la penicilina impide alcanzar niveles protectores en el feto en menos de 4 horas, dejando al recién nacido desprotegido durante el expulsivo vaginal."
+      },
+      {
+        "text": "B) Se clasifica como innecesaria porque la PAI no tiene utilidad profiláctica demostrada en el parto vaginal.",
+        "isCorrect": false,
+        "explanation": "La PAI tiene un nivel de evidencia clase A con excelente eficacia epidemiológica demostrada a nivel mundial para la prevención de la sepsis precoz por SGB."
+      },
+      {
+        "text": "C) Se clasifica como adecuada; al estar el RN asintomático, se le debe administrar una dosis de amoxicilina oral por 10 días en su hogar.",
+        "isCorrect": false,
+        "explanation": "No se indica antibióticos orales profilácticos como la amoxicilina en un recién nacido asintomático con profilaxis materna incompleta; la conducta adecuada es la observación clínica rigurosa hospitalizada para pesquisar precozmente signos de sospecha e intervenir con antibióticos intravenosos solo si es necesario."
+      },
+      {
+        "text": "D) Se clasifica como incompleta, debido a que la Profilaxis Antimicrobiana Intraparto (PAI) requiere la administración de al menos una dosis de penicilina o ampicilina endovenosa mínimo 4 horas antes del nacimiento para alcanzar concentraciones bactericidas óptimas en el feto y el líquido amniótico. Por lo tanto, el recién nacido presenta riesgo de SNP y debe permanecer en observación clínica estricta y monitorización de signos vitales hospitalizado por un mínimo de 36 a 48 horas de vida.",
+        "isCorrect": true,
+        "explanation": "Para que la PAI materna contra el SGB sea catalogada como adecuada y completa, el antibiótico de elección (penicilina o ampicilina) debe haber sido administrado al menos 4 horas antes del momento exacto del nacimiento (una sola dosis administrada $\\ge 4$ horas pre-parto es considerada adecuada). Si se administra menos de 4 horas antes (en este caso 2 h 15 min), el RN se considera con profilaxis incompleta; si es de término y está asintomático, se indica monitorización estricta por 48 horas sin exámenes rutinarios de entrada, pero si presenta síntomas o es prematuro, se debe iniciar estudio completo y antibióticos de inmediato."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de 12 días de vida es llevado a la urgencia por presentar tres vesículas agrupadas de contenido claro con base eritematosa localizadas en el cuero cabelludo. Para el diagnóstico diferencial de estas vesículas sospechosas de Herpes Simple neonatal, ¿cuál de las siguientes condiciones dermatológicas benignas y autolimitadas del recién nacido se caracteriza por presentar pápulas y pústulas eritematosas con contenido estéril rico en eosinófilos que aparecen típicamente entre las 24 y 48 horas de vida y respetan estrictamente las palmas y plantas?",
+    "hint": "Se trata de la erupción cutánea transitoria más frecuente en recién nacidos de término sanos. A pesar de su nombre alarmante (\"tóxico\"), es un proceso inflamatorio cutáneo totalmente fisiológico y benigno de etiología desconocida. El frotis del contenido de sus vesículas/pústulas revela una gran cantidad de leucocitos granulocíticos específicos asociados a alergias, sin que exista crecimiento bacteriano ni viral.",
+    "options": [
+      {
+        "text": "A) Eritema Tóxico Neonatal, una erupción cutánea benigna, fisiológica y autolimitada del recién nacido.",
+        "isCorrect": true,
+        "explanation": "El Eritema Tóxico Neonatal es la erupción cutánea benigna más común del RN. Se caracteriza por pápulas o pústulas pequeñas sobre una base eritematosa difusa (\"picadura de pulga\") que aparecen en el 2° o 3° día de vida. Su frotis revela abundantes eosinófilos y es estéril. Su principal característica diferencial con la sífilis o el herpes es que respeta las palmas y plantas, y las lesiones resuelven solas en pocos días sin tratamiento ni secuelas."
+      },
+      {
+        "text": "B) Pénfigo Sifilítico neonatal activo.",
+        "isCorrect": false,
+        "explanation": "El pénfigo sifilítico cursa con ampollas descamativas ricas en treponemas simétricas que se localizan predominantemente en palmas y plantas, y no corresponde a una condición benigna autolimitada sin tratamiento."
+      },
+      {
+        "text": "C) Melanosis Pustulosa Neonatal Transitoria con contenido rico en linfocitos T.",
+        "isCorrect": false,
+        "explanation": "La Melanosis Pustulosa Neonatal Transitoria está presente desde el momento exacto del nacimiento (a diferencia del eritema tóxico que aparece al 2°-3° día) e histológicamente sus pústulas contienen predominantemente neutrófilos, no eosinófilos, dejando máculas hiperpigmentadas residuales al romperse."
+      },
+      {
+        "text": "D) Milium neonatal con contenido graso y sebáceo.",
+        "isCorrect": false,
+        "explanation": "El Milium (o milia) consiste en múltiples pápulas puntiformes de color blanco perlado localizadas en el dorso de la nariz y mejillas que representan quistes epidérmicos de queratina queratósicos, no pústulas inflamatorias con eosinófilos sobre base eritematosa."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Infecciones neonatales",
+    "text": "Un recién nacido de 4 días de vida con diagnóstico de Sífilis Congénita confirmada (VDRL periférico 1:32) inicia tratamiento endovenoso con Penicilina G Sódica acuosa de forma hospitalizada. Exactamente a las 4 horas de iniciada la primera infusión del antibiótico, el neonato presenta de forma brusca temperatura de $39.1^\\circ\\text{C}$, taquicardia, hipotensión sistémica transitoria compensada y una exacerbación marcada de su exantema maculopapular eritematoso. ¿Qué fenómeno inmunológico y farmacológico explica esta reacción y cuál es su manejo terapéutico adecuado?",
+    "hint": "Se trata de una reacción sistémica aguda muy bien descrita que ocurre en las primeras horas del tratamiento de infecciones espiroquetales (como la sífilis o la borreliosis) con antibióticos bactericidas potentes. No representa una alergia al medicamento, sino una respuesta inflamatoria del cuerpo del paciente ante los \"desechos\" de los microorganismos muertos que inundan la sangre.",
+    "options": [
+      {
+        "text": "A) Reacción anafiláctica severa a la penicilina; se debe suspender la penicilina de forma permanente y administrar adrenalina IM.",
+        "isCorrect": false,
+        "explanation": "Confundir la reacción de Jarisch-Herxheimer con anafilaxia es un error conceptual frecuente; la anafilaxia ocurre de forma inmediata a la inyección (minutos) mediada por IgE, cursa con broncoobstrucción y estridor, y de presentarse obligaría a suspender el fármaco, pero no cursa característicamente con fiebre alta aislada a las 4 horas del inicio de la infusión del fármaco."
+      },
+      {
+        "text": "B) Reacción de Jarisch-Herxheimer, una respuesta inmunitaria sistémica transitoria provocada por la liberación masiva de endotoxinas, lipoproteínas y antígenos del treponema al torrente sanguíneo tras la lisis rápida de las espiroquetas inducida por la penicilina. El manejo es estrictamente de soporte (antipiréticos, hidratación y monitorización de signos vitales) sin suspender la administración de la penicilina.",
+        "isCorrect": true,
+        "explanation": "La Reacción de Jarisch-Herxheimer ocurre de forma habitual en las primeras 2 a 12 horas del inicio de la penicilina en pacientes con alta carga de treponemas (como en la sífilis congénita activa o secundaria). Es transitoria, benigna y autolimitada (suele resolver espontáneamente en 24 horas). El manejo es de soporte y no se debe suspender la penicilina, ya que es el único fármaco bactericida de eficacia demostrada contra la espiroqueta."
+      },
+      {
+        "text": "C) Shock séptico sobreinfectado por Pseudomonas; se debe agregar vancomicina y retirar la vía intravenosa de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "La fiebre brusca transitoria post-penicilina es típica de la reacción de Herxheimer; plantear una sobreinfección por pseudomonas a las 4 horas del ingreso sin signos locales ni focos de sepsis nosocomial tardía es un error de diagnóstico diferencial que induce sobretratamiento irracional con antibióticos de amplio espectro."
+      },
+      {
+        "text": "D) Falla terapéutica absoluta de la penicilina; se debe rotar el tratamiento a amoxicilina oral de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "No representa una falla terapéutica; al contrario, la fiebre y la inflamación transitoria demuestran la potente acción bactericida de la penicilina que está destruyendo masivamente a los treponemas en los tejidos del lactante."
+      }
+    ]
+  }
+]
