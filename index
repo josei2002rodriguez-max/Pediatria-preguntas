@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedMaster Pro v4.1</title>
+    <style>
+        :root {
+            --primary: #4a90e2; --bg: #f5f7fa; --card: #ffffff;
+            --text: #2c3e50; --accent: #27ae60; --error: #e74c3c;
+            --secondary: #7f8c8d; --highlight: #ebf4ff; --hint-bg: #fffaf0; --hint-text: #b7791f;
+        }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 15px; line-height: 1.4; }
+        .container { max-width: 800px; margin: 0 auto; }
+        
+        .view { display: none; animation: fadeIn 0.3s ease; }
+        .view.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+        h1 { text-align: center; color: var(--primary); margin-bottom: 10px; font-size: 24px; }
+        .status-bar { text-align: center; font-size: 13px; color: var(--secondary); margin-bottom: 20px; }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; margin-top: 15px; }
+        .card { 
+            background: var(--card); padding: 20px 10px; border-radius: 16px; text-align: center;
+            cursor: pointer; border: 2px solid transparent; transition: 0.2s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05); font-weight: 600; font-size: 15px;
+        }
+        .card.selected { border-color: var(--accent); background: #f0fff4; }
+
+        .setup-box { background: white; padding: 20px; border-radius: 16px; margin-top: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .topic-item { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid #eee; font-size: 15px; }
+        
+        .btn { 
+            display: block; width: 100%; padding: 16px; margin-top: 12px; border: none;
+            border-radius: 12px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s; text-align: center;
+        }
+        .btn-primary { background: var(--accent); color: white; }
+        .btn-secondary { background: white; color: var(--secondary); border: 1px solid var(--secondary); }
+
+        .quiz-nav { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+        .score-live { font-weight: bold; font-size: 14px; background: white; padding: 6px 15px; border-radius: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        
+        /* PISTAS */
+        .hint-btn { background: none; border: 1px solid #e2e8f0; color: #718096; padding: 8px 15px; border-radius: 20px; font-size: 13px; font-weight: bold; cursor: pointer; margin-bottom: 15px; display: inline-block; }
+        .hint-btn:hover { background: #f7fafc; }
+        #q-hint { display: none; background: var(--hint-bg); color: var(--hint-text); padding: 15px; border-radius: 12px; border: 1px solid #fbd38d; margin-bottom: 15px; font-size: 14px; }
+
+        .option-btn { 
+            display: block; width: 100%; padding: 16px; margin: 10px 0; border: 2px solid #edf2f7;
+            border-radius: 12px; background: white; text-align: left; font-size: 15px; cursor: pointer; color: var(--text);
+        }
+        .option-btn.correct-show { border-color: var(--accent) !important; background: #e6fffa !important; color: #155724 !important; font-weight: bold; }
+        .option-btn.wrong-show { border-color: var(--error) !important; background: #fff5f5 !important; color: #721c24 !important; }
+        .option-btn.inspecting { border-style: dashed !important; border-width: 3px !important; border-color: var(--primary) !important; }
+
+        .explanation { margin-top: 15px; padding: 15px; border-radius: 12px; font-size: 15px; border-left: 5px solid var(--primary); background: var(--highlight); display: none; }
+        
+        .results-card { background: white; padding: 30px; border-radius: 20px; text-align: center; box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+        .percentage { font-size: 48px; font-weight: 800; color: var(--primary); margin: 10px 0; }
+        .weak-topics { text-align: left; background: #fff5f5; padding: 15px; border-radius: 12px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div id="view-loading" class="view active">
+        <h1>🩺 MedMaster v4.1</h1>
+        <p style="text-align: center;" id="loading-text">Cargando base de datos médica...</p>
+    </div>
+    
+    <div id="view-internado" class="view">
+        <h1>🩺 MedMaster v4.1</h1>
+        <h3 style="text-align: center; color: var(--secondary); margin-top:-5px;">Selecciona Internado</h3>
+        <div id="internado-grid" class="grid"></div>
+        <div class="status-bar" style="margin-top:20px;">Banco total: <span id="db-total">0</span> preguntas</div>
+    </div>
+
+    <div id="view-setup" class="view">
+        <h1 id="setup-title">Especialidades</h1>
+        <div id="area-grid" class="grid"></div>
+        <div id="topic-config" class="setup-box" style="display:none;">
+            <p><strong>Temas específicos:</strong></p>
+            <div id="topic-list"></div>
+            <div style="margin-top:20px;">
+                <p>Preguntas filtradas: <strong id="total-count">0</strong></p>
+                <input type="number" id="limit-input" placeholder="Cantidad (Vacio = todas)" style="width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ddd; box-sizing: border-box; font-size:16px;">
+            </div>
+            <button class="btn btn-primary" onclick="startQuiz()">Comenzar Estudio 🚀</button>
+        </div>
+        <button class="btn btn-secondary" onclick="showView('view-internado')">❮ Volver</button>
+    </div>
+
+    <div id="view-quiz" class="view">
+        <div class="quiz-nav">
+            <button onclick="confirmExit()" style="background:white; border:none; font-size:16px; cursor:pointer; padding: 8px 12px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-weight:bold;">🏠 Menú</button>
+            <div class="score-live">
+                <span style="color:var(--accent)">✅ <span id="live-good">0</span></span> | 
+                <span style="color:var(--error)">❌ <span id="live-bad">0</span></span>
+            </div>
+            <div id="q-progress" style="font-size:13px; color:var(--secondary); font-weight: bold;"></div>
+        </div>
+        
+        <h2 id="q-text" style="font-size: 18px; margin-bottom:10px;"></h2>
+        
+        <button id="btn-hint" class="hint-btn" onclick="toggleHint()">💡 Ver Pista</button>
+        <p id="q-hint"></p>
+
+        <div id="options-container"></div>
+        <div id="explanation-box" class="explanation"></div>
+        
+        <div style="display:flex; gap:10px; margin-top:20px;">
+            <button id="prev-btn" class="btn btn-secondary" style="flex:1;" onclick="prevQuestion()">Anterior</button>
+            <button id="next-btn" class="btn btn-primary" style="flex:2; display:none;" onclick="nextQuestion()">Siguiente ➔</button>
+        </div>
+    </div>
+
+    <div id="view-results" class="view">
+        <div class="results-card">
+            <h1>Resultados</h1>
+            <div class="percentage" id="res-percent">0%</div>
+            <p id="res-score-text" style="font-size:18px; font-weight:bold;"></p>
+            
+            <div id="weak-section" class="weak-topics" style="display:none;">
+                <strong>⚠️ Puntos débiles detectados:</strong>
+                <ul id="res-weak-list" style="margin: 10px 0; padding-left: 20px;"></ul>
+            </div>
+
+            <button class="btn btn-primary" id="btn-retry-failed" onclick="retryFailed()">Repetir errores 🔄</button>
+            <button class="btn btn-secondary" onclick="location.reload()">Finalizar Sesión</button>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    const archivosPreguntas = [
+        'data/med_int_1.json',
+        'data/med_int_2.json',
+        'data/med_int_3.json',
+        'data/med_int_4.json',
+        'data/ped_neo_1.json',
+        'data/ped_neo_2.json',
+        'data/ped_neo_3.json',
+        'data/ped_neo_4.json',
+        'data/ped_3_vm.json',
+        'data/ped_DM_1.json',
+        'data/ped_DM_2.json',
+        'data/ped_adolecente_1.json',
+        'data/ped_adolecente_2.json',
+        'data/ped_atb_1.json',
+        'data/ped_atb_2.json',
+        'data/ped_atb_3.json',
+        'data/ped_cx_1.json',
+        'data/ped_cx_2.json',
+        'data/ped_cx_3.json',
+        'data/ped_cx_4.json',
+        'data/ped_edo_1.json',
+        'data/ped_cardio_1.json',
+        'data/ped_cardio_2.json',
+        'data/ped_cardio_3.json',
+        'data/ped_cardio_4.json',
+        'data/ped_exantemas_1.json',
+        'data/ped_exantemas_2.json',
+        'data/ped_exantemas_3.json',
+        'data/ped_meningitis_1.json',
+        'data/ped_meningitis_2.json',
+        'data/ped_certamen_1.json',
+        'data/ped_certamen_2.json',
+        'data/ped_certamen_3.json',
+        'data/ped_genetica_1.json',
+        'data/ped_genetica_2.json',
+        'data/ped_genetica_3.json',
+        'data/ped_intoxicaciones_1.json',
+        'data/ped_intoxicaciones_2.json',
+        'data/ped_gastro_1.json',
+        'data/ped_gastro_2.json',
+        'data/ped_gastro_3.json',
+        'data/ped_hemo_1.json',
+        'data/ped_hemo_2.json',
+        'data/ped_hipotiro_1.json',
+        'data/ped_hipotiro_2.json',
+        'data/ped_maltrato_1.json',
+        'data/ped_maltrato_2.json',
+        'data/ped_neuro_1.json',
+        'data/ped_neuro_2.json',
+        'data/ped_onco_1.json',
+        'data/ped_shock_1.json',
+        'data/ped_shock_2.json',
+        'data/ped_talla_1.json',
+        'data/ped_talla_2.json',
+        'data/ped_vm_1.json',
+        'data/ped_vm_2.json',
+        'data/ped_shock_1.json',
+        'data/ped_nefro_1.json',
+        'data/ped_nefro_2.json',
+        'data/ped_nefro_3.json',
+        'data/ped_nefro_4.json',
+        'data/ped_nefro_5.json',
+        'data/ped_nefro_6.json',
+        'data/ped_nefro_7.json'
+        
+    ];
+
+    let database = [];
+    let sessionQuestions = [];
+    let currentIndex = 0;
+    let stats = { correct: 0, wrong: 0, errorsByTopic: {} };
+
+    async function cargarTodo() {
+        let errores = [];
+        for (const url of archivosPreguntas) {
+            try {
+                const res = await fetch(url + "?t=" + new Date().getTime());
+                if (res.ok) {
+                    database = [...database, ...await res.json()];
+                }
+            } catch (e) { errores.push(url); }
+        }
+        document.getElementById('db-total').innerText = database.length;
+        renderInternados();
+        showView(database.length > 0 ? 'view-internado' : 'view-loading');
+    }
+
+    function renderInternados() {
+        const internados = [...new Set(database.map(q => q.internado || q.Internado || "Varios"))];
+        const grid = document.getElementById('internado-grid');
+        grid.innerHTML = "";
+        internados.forEach(name => {
+            const card = document.createElement('div');
+            card.className = 'card'; card.innerText = name;
+            card.onclick = () => selectInternado(name);
+            grid.appendChild(card);
+        });
+    }
+
+    let currentInternado = "";
+    let selectedAreas = new Set();
+    let selectedTopics = new Set();
+
+    function selectInternado(name) {
+        currentInternado = name;
+        selectedAreas.clear(); selectedTopics.clear();
+        document.getElementById('setup-title').innerText = name;
+        const areas = [...new Set(database.filter(q => (q.internado || q.Internado) === name).map(q => q.area || q.Area))];
+        const grid = document.getElementById('area-grid'); grid.innerHTML = "";
+        areas.forEach(area => {
+            const card = document.createElement('div');
+            card.className = 'card'; card.innerText = area;
+            card.onclick = () => toggleArea(area, card);
+            grid.appendChild(card);
+        });
+        showView('view-setup');
+    }
+
+    function toggleArea(area, el) {
+        if (selectedAreas.has(area)) { selectedAreas.delete(area); el.classList.remove('selected'); }
+        else { selectedAreas.add(area); el.classList.add('selected'); }
+        updateTopics();
+    }
+
+    function updateTopics() {
+        const relevant = database.filter(q => (q.internado || q.Internado) === currentInternado && selectedAreas.has(q.area || q.Area));
+        const topics = [...new Set(relevant.map(q => q.topic || q.tema || q.Tema))];
+        const list = document.getElementById('topic-list'); list.innerHTML = "";
+        document.getElementById('topic-config').style.display = selectedAreas.size > 0 ? "block" : "none";
+        selectedTopics.clear();
+        topics.forEach(t => {
+            const div = document.createElement('div'); div.className = 'topic-item';
+            div.innerHTML = `<input type="checkbox" checked id="t-${t}" onchange="toggleTopic('${t}')"> <label for="t-${t}">${t}</label>`;
+            list.appendChild(div);
+            selectedTopics.add(t);
+        });
+        updateCount();
+    }
+
+    function toggleTopic(t) { if (selectedTopics.has(t)) selectedTopics.delete(t); else selectedTopics.add(t); updateCount(); }
+    function updateCount() {
+        const count = database.filter(q => (q.internado || q.Internado) === currentInternado && selectedAreas.has(q.area || q.Area) && selectedTopics.has(q.topic || q.tema || q.Tema)).length;
+        document.getElementById('total-count').innerText = count;
+    }
+
+    function startQuiz(customQuestions = null) {
+        if (customQuestions) {
+            sessionQuestions = customQuestions;
+        } else {
+            let pool = database.filter(q => (q.internado || q.Internado) === currentInternado && selectedAreas.has(q.area || q.Area) && selectedTopics.has(q.topic || q.tema || q.Tema));
+            pool.sort(() => Math.random() - 0.5);
+            const limit = document.getElementById('limit-input').value;
+            if (limit) pool = pool.slice(0, parseInt(limit));
+            sessionQuestions = pool.map(q => ({...q, answered: false, userChoiceIdx: null, isUserCorrect: null}));
+        }
+        currentIndex = 0;
+        stats = { correct: 0, wrong: 0, errorsByTopic: {} };
+        updateLiveScore();
+        showView('view-quiz');
+        renderQuestion();
+    }
+
+    // BUSCADOR DE DATOS PARA JSON TRADUCIDOS
+    function obtenerValor(obj, palabrasClave, defecto) {
+        for (let k in obj) {
+            let lowK = k.toLowerCase();
+            if (palabrasClave.some(p => lowK.includes(p))) return obj[k];
+        }
+        return defecto;
+    }
+
+    function renderQuestion() {
+        const q = sessionQuestions[currentIndex];
+        document.getElementById('q-text').innerText = obtenerValor(q, ['text', 'preg', 'texto'], "Sin texto");
+        document.getElementById('q-progress').innerText = `${currentIndex + 1} / ${sessionQuestions.length}`;
+        
+        // Cargar Pista
+        const pista = obtenerValor(q, ['hint', 'pista', 'ayuda'], "No hay pistas para esta pregunta.");
+        const hintEl = document.getElementById('q-hint');
+        hintEl.innerText = pista;
+        hintEl.style.display = "none";
+        document.getElementById('btn-hint').innerText = "💡 Ver Pista";
+
+        const optionsContainer = document.getElementById('options-container');
+        optionsContainer.innerHTML = "";
+        document.getElementById('explanation-box').style.display = "none";
+        document.getElementById('next-btn').style.display = q.answered ? "block" : "none";
+        document.getElementById('prev-btn').style.visibility = currentIndex > 0 ? "visible" : "hidden";
+
+        const opciones = obtenerValor(q, ['option', 'opcion', 'alternat'], []);
+        opciones.forEach((opt, idx) => {
+            const b = document.createElement('button');
+            b.className = 'option-btn';
+            b.innerText = obtenerValor(opt, ['text', 'texto', 'opcion'], "Sin opción");
+            const esCorrecta = obtenerValor(opt, ['iscorrect', 'escorrecta', 'correcta'], false);
+            
+            if (q.answered) {
+                if (esCorrecta) b.classList.add('correct-show');
+                if (idx === q.userChoiceIdx && !esCorrecta) b.classList.add('wrong-show');
+                if (idx === q.userChoiceIdx) { b.classList.add('inspecting'); showExplanation(opt, esCorrecta); }
+            }
+            b.onclick = () => handleOptionClick(b, opt, q, idx, esCorrecta);
+            optionsContainer.appendChild(b);
+        });
+    }
+
+    function handleOptionClick(btn, opt, q, idx, esCorrecta) {
+        if (!q.answered) {
+            q.answered = true;
+            q.userChoiceIdx = idx;
+            q.isUserCorrect = esCorrecta;
+            if (esCorrecta) stats.correct++;
+            else {
+                stats.wrong++;
+                let tema = q.topic || q.tema || q.Tema || "General";
+                stats.errorsByTopic[tema] = (stats.errorsByTopic[tema] || 0) + 1;
+            }
+            updateLiveScore();
+            document.getElementById('next-btn').style.display = "block";
+            renderQuestion();
+        } else {
+            document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('inspecting'));
+            btn.classList.add('inspecting');
+            showExplanation(opt, esCorrecta);
+        }
+    }
+
+    function showExplanation(opt, esCorrecta) {
+        const box = document.getElementById('explanation-box');
+        box.style.display = "block";
+        box.style.borderLeftColor = esCorrecta ? "var(--accent)" : "var(--error)";
+        box.innerHTML = `<strong>${esCorrecta ? '✅ Correcta' : '❌ Opción analizada'}:</strong><br>${obtenerValor(opt, ['explan', 'explic', 'justif'], "Sin detalle.")}`;
+    }
+
+    function toggleHint() {
+        const h = document.getElementById('q-hint');
+        const b = document.getElementById('btn-hint');
+        if (h.style.display === "none") { h.style.display = "block"; b.innerText = "🙈 Ocultar Pista"; }
+        else { h.style.display = "none"; b.innerText = "💡 Ver Pista"; }
+    }
+
+    function updateLiveScore() {
+        document.getElementById('live-good').innerText = stats.correct;
+        document.getElementById('live-bad').innerText = stats.wrong;
+    }
+
+    function nextQuestion() {
+        if (currentIndex < sessionQuestions.length - 1) { currentIndex++; renderQuestion(); }
+        else { finishSession(); }
+    }
+
+    function prevQuestion() { if (currentIndex > 0) { currentIndex--; renderQuestion(); } }
+
+    function finishSession() {
+        showView('view-results');
+        const p = Math.round((stats.correct / sessionQuestions.length) * 100);
+        document.getElementById('res-percent').innerText = p + "%";
+        document.getElementById('res-score-text').innerText = `${stats.correct} de ${sessionQuestions.length} correctas.`;
+        const list = document.getElementById('res-weak-list'); list.innerHTML = "";
+        const sorted = Object.entries(stats.errorsByTopic).sort((a,b) => b[1] - a[1]);
+        if (sorted.length > 0) {
+            document.getElementById('weak-section').style.display = "block";
+            sorted.slice(0, 3).forEach(([t, c]) => { const li = document.createElement('li'); li.innerText = `${t} (${c} errores)`; list.appendChild(li); });
+        }
+        document.getElementById('btn-retry-failed').style.display = stats.wrong > 0 ? "block" : "none";
+    }
+
+    function retryFailed() {
+        const f = sessionQuestions.filter(q => !q.isUserCorrect).map(q => ({...q, answered: false, userChoiceIdx: null}));
+        startQuiz(f);
+    }
+
+    function confirmExit() { if (confirm("¿Volver al menú? Se perderá el progreso.")) location.reload(); }
+    function showView(id) { document.querySelectorAll('.view').forEach(v => v.classList.remove('active')); document.getElementById(id).classList.add('active'); }
+    window.onload = cargarTodo;
+</script>
+</body>
+</html>
