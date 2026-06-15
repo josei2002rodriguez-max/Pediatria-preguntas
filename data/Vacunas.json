@@ -175,4 +175,1628 @@
       {
         "text": "D) Administrar solo la vacuna Hexavalente y postergar la vacuna Neumocócica hasta que alcance un peso de $3000\\text{ gramos}$.",
         "isCorrect": false,
-        "explanation": "No existe un límite de peso de $3
+        "explanation": "No existe un límite de peso de $3000\\text{ gramos}$ para la vacuna contra el Neumococo. El único límite de peso clásico en el PNI es para la vacuna BCG al nacer, la cual requiere un peso mínimo de $2000\\text{ gramos}$."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted revisa el carnet de vacunación de un lactante de 5 meses. Nota que en el consultorio le citaron para recibir una dosis de la vacuna Neumocócica Conjugada 13-valente a esta edad. ¿En qué situación clínica está indicada la dosis de vacuna neumocócica a los 5 meses en Chile?",
+    "hint": "El calendario nacional tiene una indicación muy específica para una \"tercera dosis\" de esquema primario neumocócico en el lactante menor de 6 meses, reservada para un grupo de mayor riesgo.",
+    "options": [
+      {
+        "text": "A) Está indicada de forma universal para todos los lactantes sanos del país.",
+        "isCorrect": false,
+        "explanation": "Para lactantes sanos nacidos a término, el esquema primario consta únicamente de 2 dosis (2 y 4 meses); no reciben vacuna a los 5 meses."
+      },
+      {
+        "text": "B) Está indicada únicamente en lactantes con antecedentes de prematurez (nacidos con $<37$ semanas de gestación).",
+        "isCorrect": true,
+        "explanation": "En el PNI de Chile, el esquema de la vacuna Neumocócica Conjugada 13-valente para el lactante de término es de 2 dosis en el esquema primario (2 y 4 meses) y un refuerzo al año (12 meses). Sin embargo, para los lactantes nacidos prematuros, se añade una dosis adicional a los 5 meses de vida (esquema primario de 3 dosis: 2, 4 y 5 meses, más el refuerzo a los 12 meses) debido a su mayor susceptibilidad a enfermedad neumocócica invasora."
+      },
+      {
+        "text": "C) Es un error de citación del vacunatorio, ya que la vacuna neumocócica solo se administra a los 2, 4 y 12 meses.",
+        "isCorrect": false,
+        "explanation": "No es un error si el paciente es prematuro."
+      },
+      {
+        "text": "D) Solo se coloca si el lactante asiste a sala cuna de forma precoz.",
+        "isCorrect": false,
+        "explanation": "La asistencia a sala cuna es un factor de riesgo para infecciones respiratorias, pero no modifica el calendario oficial del PNI para la administración de la vacuna neumocócica a los 5 meses."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 6 meses de vida, nacido de término, con vacunas al día y sin antecedentes mórbidos, asiste al vacunatorio de su CESFAM. ¿Qué vacuna programática le corresponde recibir según el PNI 2026?",
+    "hint": "A los 6 meses se completa el esquema primario de la vacuna combinada que protege contra la polio, la hepatitis B y el coqueluche. El resto de las vacunas del lactante menor ya se completaron a los 4 meses (o 5 meses en prematuros).",
+    "options": [
+      {
+        "text": "A) Hexavalente y Neumocócica Conjugada 13-valente.",
+        "isCorrect": false,
+        "explanation": "La vacuna Neumocócica a los 6 meses no corresponde a lactantes de término (solo se coloca a los 5 meses en prematuros)."
+      },
+      {
+        "text": "B) Únicamente la vacuna Hexavalente (3ª dosis).",
+        "isCorrect": true,
+        "explanation": "A los 6 meses de vida, el lactante de término recibe exclusivamente la 3ª dosis de la vacuna Hexavalente (completando el esquema primario de 3 dosis: 2, 4 y 6 meses; el refuerzo será a los 18 meses)."
+      },
+      {
+        "text": "C) Tresvírica (SRP) y Meningocócica tetravalente.",
+        "isCorrect": false,
+        "explanation": "La Tresvírica (SRP) y la Meningocócica tetravalente corresponden al año de vida (12 meses)."
+      },
+      {
+        "text": "D) No le corresponde ninguna vacuna a esta edad; la siguiente citación es a los 12 meses.",
+        "isCorrect": false,
+        "explanation": "Sí le corresponde vacuna (la Hexavalente); omitir esta dosis dejaría incompleto el esquema primario contra patógenos graves como la poliomielitis y el coqueluche."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante el mes de abril, asiste a control un lactante de 7 meses de vida que nunca ha recibido la vacuna contra la Influenza. Su madre pregunta cómo es el esquema de esta vacuna de campaña para su hijo. ¿Cuál es la indicación correcta?",
+    "hint": "La primera vez que un niño menor de 9 años recibe la vacuna contra la influenza, su sistema inmune requiere un estímulo doble (priming) para lograr una seroprotección adecuada contra las cepas circulantes.",
+    "options": [
+      {
+        "text": "A) Debe recibir una dosis única de vacuna contra la influenza, idéntica a la dosis del adulto.",
+        "isCorrect": false,
+        "explanation": "Una sola dosis es insuficiente para un lactante que se inmuniza por primera vez."
+      },
+      {
+        "text": "B) Debe recibir dos dosis de vacuna contra la influenza (dosis pediátrica de $0.25\\text{ ml}$ o la indicada por el fabricante), separadas por un intervalo mínimo de 4 semanas.",
+        "isCorrect": true,
+        "explanation": "En la campaña de vacunación anti-influenza de Chile, el grupo objetivo infantil incluye a los niños desde los 6 meses hasta 5º año básico. Aquellos lactantes entre 6 meses y 24 meses (o menores de 9 años) que se vacunan por primera vez contra la influenza deben recibir dos dosis de la vacuna, con un intervalo mínimo de 4 semanas entre ellas, para asegurar una respuesta inmune protectora."
+      },
+      {
+        "text": "C) No puede vacunarse contra la influenza hasta que cumpla el año de vida (12 meses).",
+        "isCorrect": false,
+        "explanation": "La vacuna está aprobada y recomendada a partir de los 6 meses de vida."
+      },
+      {
+        "text": "D) Solo requiere vacunarse si presenta alguna enfermedad crónica como asma o cardiopatía congénita.",
+        "isCorrect": false,
+        "explanation": "En Chile, la vacunación contra la influenza es universal y gratuita para todos children desde los 6 meses hasta 5º año básico, independientemente de si tienen o no enfermedades crónicas."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 10 meses acude al vacunatorio para recibir su vacuna contra la Influenza en el contexto de la campaña invernal. La madre refiere con preocupación que hace una semana le dio a probar huevo por primera vez y el lactante presentó un rash eritematoso leve alrededor de la boca que desapareció espontáneamente en una hora. ¿Cuál es la conducta más adecuada?",
+    "hint": "Las guías nacionales e internacionales (como las de la Academia Americana de Pediatría y el MINSAL) han flexibilizado enormemente las precauciones de la vacuna de influenza respecto a la alergia al huevo. Las reacciones leves no justifican postergaciones ni derivaciones complejas.",
+    "options": [
+      {
+        "text": "A) Contraindicar de forma absoluta la vacuna contra la influenza por riesgo de anafilaxia severa.",
+        "isCorrect": false,
+        "explanation": "Es una contraindicación falsa. Suspender la vacuna priva al lactante de protección contra un virus de alta morbimortalidad respiratoria."
+      },
+      {
+        "text": "B) Administrar la vacuna contra la influenza en el vacunatorio habitual de forma normal y dejar en observación por $30\\text{ minutos}$.",
+        "isCorrect": true,
+        "explanation": "La alergia al huevo ya no se considera una contraindicación para la vacuna contra la influenza, independientemente de la gravedad de la reacción previa al huevo. Si el paciente presentó una reacción leve (como urticaria o rash cutáneo aislado), se puede administrar la vacuna en cualquier vacunatorio habitual de forma normal, manteniendo la observación estándar de $30\\text{ minutos}$ post-inyección que se aplica a cualquier paciente."
+      },
+      {
+        "text": "C) Derivar al centro de alergología para realizar un test cutáneo (Prick Test) antes de autorizar la vacuna.",
+        "isCorrect": false,
+        "explanation": "No se justifica realizar Prick test ni estudio de alergia por una reacción cutánea leve y autolimitada frente a la introducción del alimento."
+      },
+      {
+        "text": "D) Indicar que debe recibir la vacuna en un servicio de urgencia hospitalaria de alta complejidad bajo monitorización estricta.",
+        "isCorrect": false,
+        "explanation": "Solo en casos históricos de anafilaxia grave con compromiso hemodinámico o respiratorio severo tras la ingesta de huevo se recomendaba (como medida de extrema precaución) vacunar en un entorno médico con capacidad de reanimación, pero las normativas actuales de salud pública ya no lo exigen de rutina para reacciones no anafilácticas."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 12 meses (1 año) de edad asiste a su control sano en el CESFAM. Según el calendario vigente del PNI, ¿qué vacunas le corresponde recibir hoy?",
+    "hint": "Al cumplir el primer año, el niño recibe su primera vacuna de virus vivos contra el sarampión, las paperas y la rubéola (Tresvírica), junto con una vacuna contra cuatro serogrupos de meningococo y un refuerzo bacteriano contra el neumococo.",
+    "options": [
+      {
+        "text": "A) Tresvírica (SRP), Meningocócica Conjugada Tetravalente y el refuerzo de Neumocócica Conjugada 13-valente.",
+        "isCorrect": true,
+        "explanation": "A los 12 meses de vida, el esquema oficial de Chile contempla: Tresvírica (SRP): 1ª dosis (protege contra Sarampión, Rubéola y Parotiditis). Meningocócica Conjugada Tetravalente (A, C, W, Y): Dosis única. Neumocócica Conjugada 13-valente: Dosis de refuerzo (completa el esquema del lactante)."
+      },
+      {
+        "text": "B) Hexavalente, Hepatitis A y Varicela (1ª dosis).",
+        "isCorrect": false,
+        "explanation": "La Hepatitis A, Varicela y el refuerzo de Hexavalente se administran a los 18 meses de vida."
+      },
+      {
+        "text": "C) Tresvírica (SRP), Hepatitis A y Varicela (1ª dosis).",
+        "isCorrect": false,
+        "explanation": "Mezcla vacunas de los 12 meses con las de los 18 meses (Hepatitis A y Varicela se colocan a los 18 meses)."
+      },
+      {
+        "text": "D) Neumocócica Conjugada 13-valente, Meningocócica Recombinante Serogrupo B y dTpa.",
+        "isCorrect": false,
+        "explanation": "La dTpa es de edad escolar (1º y 8º básico) y el refuerzo de Meningococo B se coloca a los 18 meses."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "¿Por qué en los lactantes menores de 2 años se prefiere utilizar vacunas Neumocócicas y Meningocócicas Conjugadas en lugar de las vacunas Polisacáridas puras (como la Neumo-23)?",
+    "hint": "Los antígenos basados únicamente en azúcares (polisacáridos de la cápsula bacteriana) no logran ser presentados por el complejo mayor de histocompatibilidad a las células T. Al unir (conjugar) este azúcar a una proteína, el sistema inmune infantil \"ve\" el antígeno de una manera totalmente distinta.",
+    "options": [
+      {
+        "text": "A) Porque las vacunas polisacáridas puras producen una respuesta inmune timo-dependiente que el lactante no puede procesar debido a la inmadurez de sus linfocitos T.",
+        "isCorrect": false,
+        "explanation": "Explica el concepto al revés: las vacunas polisacáridas puras generan una respuesta timo-independiente (no timo-dependiente), la cual es ineficaz en menores de 2 años."
+      },
+      {
+        "text": "B) Porque las vacunas conjugadas (unidas a una proteína transportadora) transforman el antígeno en timo-dependiente, logrando activar a los linfocitos T cooperadores, induciendo memoria inmunológica y respuesta de anticuerpos en menores de 2 años.",
+        "isCorrect": true,
+        "explanation": "Los niños menores de 2 años tienen una respuesta inmunológica deficiente ante antígenos timo-independientes tipo 2 (como los polisacáridos capsulares puros). Al conjugar el polisacárido con una proteína portadora (como el toxoide diftérico o tetánico), la vacuna se convierte en un antígeno timo-dependiente. Esto permite la estimulación de linfocitos T cooperadores, lo que genera una potente respuesta de anticuerpos IgG, memoria inmunológica a largo plazo y reducción del estado de portación nasofaríngea."
+      },
+      {
+        "text": "C) Porque las vacunas polisacáridas puras contienen virus vivos que podrían causar la enfermedad en pacientes inmunocomprometidos.",
+        "isCorrect": false,
+        "explanation": "Las vacunas de neumococo y meningococo (tanto conjugadas como polisacáridas) son vacunas inactivadas/subunitarias, no contienen virus ni bacterias vivas."
+      },
+      {
+        "text": "D) Porque las vacunas conjugadas son de administración oral y facilitan la adherencia en lactantes pequeños.",
+        "isCorrect": false,
+        "explanation": "Ambas vacunas se administran por vía intramuscular profunda, no oral."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 18 meses de vida acude a su control de salud y vacunación correspondiente. Según el PNI de Chile, ¿cuál de los siguientes esquemas de vacunación debe recibir de forma obligatoria y gratuita?",
+    "hint": "A los 18 meses se vive uno de los hitos de vacunación más intensos de la infancia (comúnmente llamado \"el control de los cuatro pinchazos\"). Se refuerza la inmunidad de la primera infancia y se inicia la protección contra la varicela y la hepatitis A.",
+    "options": [
+      {
+        "text": "A) Tresvírica (2ª dosis) y Varicela (2ª dosis).",
+        "isCorrect": false,
+        "explanation": "La 2ª dosis de Tresvírica y la 2ª dosis de Varicela corresponden a los 36 meses (3 años) de edad."
+      },
+      {
+        "text": "B) Refuerzo de Hexavalente, Hepatitis A (única dosis), Varicela (1ª dosis) y refuerzo de Meningocócica Recombinante Serogrupo B.",
+        "isCorrect": true,
+        "explanation": "A los 18 meses de vida, el calendario del PNI contempla el refuerzo de la vacuna Hexavalente, la dosis única de Hepatitis A, la 1ª dosis de la vacuna contra la Varicela, y la dosis de refuerzo (3ª dosis) de la vacuna Meningocócica Serogrupo B (Bexsero). (Nota: En Rapa Nui se agrega además la vacuna contra la Fiebre Amarilla)."
+      },
+      {
+        "text": "C) Hexavalente, Meningocócica tetravalente (A,C,W,Y) y Neumocócica conjugada.",
+        "isCorrect": false,
+        "explanation": "La Meningocócica tetravalente y la Neumocócica conjugada corresponden a los 12 meses, no a los 18 meses."
+      },
+      {
+        "text": "D) dTpa acelular, Virus del Papiloma Humano (VPH) y Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "La dTpa y la VPH son vacunas de la etapa escolar (1º, 4º y 8º básico)."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted realiza una capacitación en salud a un grupo de padres y explica los cambios en el esquema de la vacuna contra la Varicela introducidos en el PNI de Chile. ¿Cuál es el esquema de administración actual para esta vacuna?",
+    "hint": "Inicialmente, el PNI incorporó la vacuna de Varicela en una dosis al año y medio de vida. Posteriormente, siguiendo recomendaciones para evitar el desplazamiento de la enfermedad a edades mayores y asegurar una inmunidad duradera, se implementó un esquema de dos dosis en la primera infancia.",
+    "options": [
+      {
+        "text": "A) Dosis única administrada a los 12 meses de vida.",
+        "isCorrect": false,
+        "explanation": "Una sola dosis no es el esquema oficial completo actual del PNI; se requieren dos dosis para prevenir brotes de varicela de forma efectiva."
+      },
+      {
+        "text": "B) Dos dosis: la primera dosis a los 18 meses de vida y la segunda dosis a los 36 meses (3 años).",
+        "isCorrect": true,
+        "explanation": "El esquema nacional de inmunización contra la Varicela en Chile consta de dos dosis para toda la población infantil: la 1ª dosis se administra a los 18 meses de vida y la 2ª dosis se administra a los 36 meses (3 años)."
+      },
+      {
+        "text": "C) Dos dosis: la primera dosis a los 12 meses de vida y la segunda dosis a los 18 meses.",
+        "isCorrect": false,
+        "explanation": "Al año de vida (12 meses) se coloca la Tresvírica, pero no la de Varicela (esta inicia a los 18 meses)."
+      },
+      {
+        "text": "D) Dosis única administrada en 1° Básico junto con la dTpa.",
+        "isCorrect": false,
+        "explanation": "La varicela no se vacuna en primero básico; a esa edad corresponde la dTpa y la segunda dosis de Tresvírica ya se adelantó a los 36 meses."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un niño de 3 años (36 meses) acude al vacunatorio del CESFAM con su calendario al día. ¿Qué vacunas le corresponde recibir en este control?",
+    "hint": "Hace unos años se modificó el calendario para adelantar refuerzos que antes se colocaban en Primero Básico. Hoy en día, a los 3 años se consolida la inmunidad contra virus altamente contagiosos que causan exantemas y paperas.",
+    "options": [
+      {
+        "text": "A) Únicamente la vacuna contra la Influenza estacional.",
+        "isCorrect": false,
+        "explanation": "La influenza es una vacuna de campaña anual, pero el niño tiene vacunas programáticas específicas fijadas por calendario a los 36 meses."
+      },
+      {
+        "text": "B) Tresvírica (2ª dosis) y Varicela (2ª dosis).",
+        "isCorrect": true,
+        "explanation": "A los 36 meses (3 años) de edad, el PNI chileno indica la administración de la 2ª dosis de la vacuna Tresvírica (Sarampión, Rubéola, Parotiditis) y la 2ª dosis de la vacuna contra la Varicela. Este adelanto (antes la Tresvírica se colocaba en 1º básico) busca mejorar las coberturas antes del ingreso a la etapa escolar."
+      },
+      {
+        "text": "C) Hexavalente (refuerzo) y Fiebre Amarilla.",
+        "isCorrect": false,
+        "explanation": "El refuerzo de Hexavalente es a los 18 meses. La Fiebre Amarilla es exclusiva para Rapa Nui y se administra a los 18 meses (con refuerzo/segunda dosis a los 24 meses si corresponde, pero no es del esquema general continental)."
+      },
+      {
+        "text": "D) No le corresponde ninguna vacuna; el calendario tiene una brecha libre entre los 18 meses y el ingreso a 1° Básico.",
+        "isCorrect": false,
+        "explanation": "Desconoce la existencia del hito de vacunación de los 36 meses introducido en las actualizaciones del PNI."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante el año escolar de 1° Básico, los equipos de salud acuden a los colegios para realizar la vacunación correspondiente de los escolares de aproximadamente 6 años de edad. ¿Qué vacuna se administra en este hito escolar?",
+    "hint": "Como la segunda dosis de la vacuna Tresvírica se adelantó a los 36 meses de vida, en Primero Básico actualmente solo se administra una dosis de refuerzo contra bacterias productoras de toxinas y coqueluche.",
+    "options": [
+      {
+        "text": "A) Tresvírica (2ª dosis) únicamente.",
+        "isCorrect": false,
+        "explanation": "La 2ª dosis de Tresvírica ya fue administrada a los 36 meses (3 años), por lo que se retiró del hito de 1° Básico."
+      },
+      {
+        "text": "B) dTpa (acelular) únicamente.",
+        "isCorrect": true,
+        "explanation": "En 1° Básico, la única vacuna programática que se administra es la dTpa (acelular), la cual actúa como refuerzo contra la Difteria, el Tétanos y la Tos Convulsiva (Coqueluche), utilizando la formulación acelular infantil/de adulto para disminuir los efectos adversos locales."
+      },
+      {
+        "text": "C) dTpa (acelular) y vacuna contra el Virus del Papiloma Humano (VPH).",
+        "isCorrect": false,
+        "explanation": "La vacuna contra el VPH se administra en 4° Básico, no en 1° Básico."
+      },
+      {
+        "text": "D) Tresvírica (SRP) y dTp celular clásica.",
+        "isCorrect": false,
+        "explanation": "La vacuna celular clásica (DTP) no se usa en escolares debido a su alta reactogenicidad (fiebre y dolor local severo); se prefiere la formulación acelular (dTpa)."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Respecto a la vacunación contra el Virus del Papiloma Humano (VPH) en la población escolar chilena para el año 2026, ¿cuál es la conducta correcta según las directrices vigentes del MINSAL?",
+    "hint": "Siguiendo la evidencia científica internacional y las directrices de la OMS para simplificar esquemas y optimizar recursos, el MINSAL unificó el esquema de VPH a una dosis única con la vacuna de mayor espectro disponible (nonavalente) para ambos sexos.",
+    "options": [
+      {
+        "text": "A) Se administra en dos dosis: la primera en 4° Básico y la segunda en 5° Básico, solo a niñas.",
+        "isCorrect": false,
+        "explanation": "El esquema antiguo contemplaba dos dosis (4º y 5º básico) y en sus inicios fue exclusivo para niñas. Actualmente es dosis única y universal (coeducacional)."
+      },
+      {
+        "text": "B) Se administra en dosis única de vacuna VPH nonavalente en 4° Básico, tanto a niños como a niñas.",
+        "isCorrect": true,
+        "explanation": "El PNI de Chile contempla la vacunación contra el VPH con la vacuna nonavalente (que protege contra 9 serotipos de VPH, incluidos los de alto riesgo oncogénico 16 y 18, y los causantes de verrugas genitales 6 y 11) en una dosis única administrada en 4° Básico para todos los niños y niñas."
+      },
+      {
+        "text": "C) Se administra a los 18 meses de vida junto con la vacuna de la Varicela.",
+        "isCorrect": false,
+        "explanation": "No se administra en lactantes; la edad escolar es la ideal para asegurar la inmunización antes del inicio de la vida sexual activa."
+      },
+      {
+        "text": "D) Es una vacuna optativa no programática que debe ser costeada por las familias.",
+        "isCorrect": false,
+        "explanation": "Está totalmente incorporada en el PNI, por lo que es obligatoria, universal y gratuita en todos los establecimientos educacionales del país."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted evalúa a un escolar de 13 años que cursa 8° Básico. Su madre le consulta qué vacuna le corresponde recibir este año en su colegio. ¿Cuál es la respuesta correcta?",
+    "hint": "Al finalizar la enseñanza básica (alrededor de los 13-14 años), se administra el último refuerzo escolar programático para mantener títulos de anticuerpos protectores contra el tétanos, la difteria y el coqueluche durante la adolescencia y adultez joven.",
+    "options": [
+      {
+        "text": "A) Dosis de refuerzo de la vacuna contra el Virus del Papiloma Humano (VPH).",
+        "isCorrect": false,
+        "explanation": "El esquema de VPH ya se completó en 4° Básico con dosis única; no se requiere refuerzo en 8° Básico."
+      },
+      {
+        "text": "B) Segunda dosis de la vacuna contra la Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "La Hepatitis A en el PNI es de dosis única a los 18 meses de vida; no requiere segundas dosis escolares."
+      },
+      {
+        "text": "C) Dosis de refuerzo de la vacuna dTpa (acelular).",
+        "isCorrect": true,
+        "explanation": "En 8° Básico, los escolares reciben una dosis de refuerzo de la vacuna dTpa (acelular), completando el esquema de refuerzo escolar que iniciaron en 1° Básico contra Difteria, Tétanos y Tos Convulsiva."
+      },
+      {
+        "text": "D) Vacuna Neumocócica Polisacárida de 23 valencias.",
+        "isCorrect": false,
+        "explanation": "La vacuna Neumocócica Polisacárida 23-valente se administra exclusivamente a adultos de $\\ge 65$ años o pacientes con condiciones médicas especiales específicas, no de forma programática a escolares."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Una mujer cursando una gestación de 29 semanas acude a su control prenatal en el CESFAM. El matrón o médico tratante le indica que debe acudir al vacunatorio. ¿Qué vacuna tiene indicación prioritaria en este momento de la gestación y cuál es su principal objetivo clínico?",
+    "hint": "Los lactantes menores de 2 meses no tienen vacunas propias contra la tos convulsiva y son el grupo con mayor riesgo de coqueluche grave, apnea y muerte. La mejor estrategia es vacunar a la madre en el tercer trimestre para que le traspase defensas listas a través de la placenta.",
+    "options": [
+      {
+        "text": "A) Vacuna Tresvírica, para transferir anticuerpos contra la rubéola al feto y evitar el síndrome de rubéola congénita.",
+        "isCorrect": false,
+        "explanation": "La vacuna Tresvírica contiene virus vivos atenuados y está estrictamente contraindicada durante todo el embarazo debido al riesgo teórico de daño fetal."
+      },
+      {
+        "text": "B) Vacuna dTpa (acelular), con el objetivo de transferir anticuerpos IgG transplacentarios contra la Bordetella pertussis para proteger al recién nacido contra el coqueluche en sus primeros meses de vida.",
+        "isCorrect": true,
+        "explanation": "La vacuna dTpa (acelular) se administra de forma obligatoria en cada embarazo a partir de la semana 28 de gestación. Su objetivo principal es la inmunización pasiva del recién nacido mediante el paso transplacentario de anticuerpos maternos IgG contra la tos convulsiva (coqueluche), protegiendo al lactante durante su periodo de mayor vulnerabilidad, antes de que reciba su primera vacuna Hexavalente a los 2 meses."
+      },
+      {
+        "text": "C) Vacuna BCG, para evitar la tuberculosis connatal.",
+        "isCorrect": false,
+        "explanation": "La vacuna BCG no se administra a gestantes; es una vacuna de bacilos vivos atenuados de administración neonatal directa."
+      },
+      {
+        "text": "D) Vacuna contra la Varicela, para evitar la varicela neonatal grave.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la Varicela también es de virus vivos atenuados y está contraindicada en el embarazo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un escolar de 10 años, con calendario de vacunas al día (incluyendo su vacuna de 1° Básico), sufre una herida penetrante profunda y sucia con un clavo oxidado en el pie mientras jugaba en un sitio eriazo. ¿Cuál es la conducta correcta respecto a la profilaxis antitetánica?",
+    "hint": "La vacuna dTpa recibida en 1º Básico (hace aproximadamente 4 años) confiere una protección excelente y duradera. Las guías de manejo de heridas diferencian entre heridas limpias/sucias y el número de vacunas previas recibidas por el paciente.",
+    "options": [
+      {
+        "text": "A) Administrar de forma inmediata una dosis de vacuna dT (adulto) o dTpa y una dosis de Inmunoglobulina Antitetánica (IGHET).",
+        "isCorrect": false,
+        "explanation": "Sería la conducta adecuada si el paciente tuviera un esquema de vacunación desconocido, incompleto o si hubieran pasado más de 10 años (para heridas limpias) o más de 5 años (para heridas sucias/graves) desde su última dosis, pero no en este caso de vacunación al día reciente."
+      },
+      {
+        "text": "B) Realizar solo aseo quirúrgico y curación local de la herida; no requiere vacuna adicional ni inmunoglobulina ya que su inmunización está vigente.",
+        "isCorrect": true,
+        "explanation": "Un paciente que cuenta con un esquema de vacunación completo para su edad (3 dosis de esquema primario más refuerzo de los 18 meses y refuerzo en 1° Básico) y cuya última dosis de vacuna que contiene toxoide tetánico fue hace menos de 5 años, tiene niveles de anticuerpos altamente protectores. Ante cualquier tipo de herida (limpia o sucia/tetanígena), solo requiere un adecuado aseo y curación local; no se beneficia de dosis de vacuna adicionales ni de inmunoglobulina."
+      },
+      {
+        "text": "C) Administrar inmunoglobulina antitetánica de forma exclusiva y diferir la vacuna por riesgo de interferencia inmunológica.",
+        "isCorrect": false,
+        "explanation": "La inmunoglobulina antitetánica se reserva exclusivamente para heridas sucias/graves en pacientes con antecedentes de vacunación incompleta ($<3$ dosis de toxoide) o desconocida."
+      },
+      {
+        "text": "D) Indicar tratamiento antibiótico con clindamicina por 10 días, lo cual reemplaza la necesidad de profilaxis inmunológica.",
+        "isCorrect": false,
+        "explanation": "Los antibióticos no reemplazan la inmunoprofilaxis contra la toxina tetánica generada por Clostridium tetani."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Llega a su consulta un lactante de 9 meses de vida cuyos padres, por motivos de residencia en el extranjero en una comunidad rural aislada, no le han administrado ninguna vacuna previa. Los padres están de acuerdo en iniciar el proceso de inmunización hoy. Según la norma de puesta al día del PNI, ¿cómo debe iniciar el esquema de vacunación?",
+    "hint": "En niños no vacunados, la puesta al día busca otorgar la máxima protección permitida de forma segura y en el menor número de visitas posible, aprovechando la posibilidad de coadministrar múltiples vacunas inactivadas y vivas.",
+    "options": [
+      {
+        "text": "A) Administrar hoy la vacuna BCG, Hepatitis B del recién nacido, y citar en 4 semanas para las vacunas de los 2 meses.",
+        "isCorrect": false,
+        "explanation": "Postergar el esquema primario de Hexavalente y Neumocócica por un mes es un retraso innecesario que prolonga el riesgo del lactante de contraer coqueluche o meningitis bacteriana. La dosis de Hepatitis A/B del recién nacido como dosis única monovalente ya no es necesaria si se inicia directamente la Hexavalente (que ya contiene Hepatitis B)."
+      },
+      {
+        "text": "B) Administrar simultáneamente en el mismo día: vacuna BCG (si pesa $>2000\\text{ g}$), 1ª dosis de Hexavalente y 1ª dosis de Neumocócica Conjugada 13-valente.",
+        "isCorrect": true,
+        "explanation": "En la puesta al día de un lactante de 9 meses sin vacunas previas, se debe administrar de forma inmediata la vacuna BCG (aprobada y recomendada para su administración directa sin test de tuberculina previo si no hay sospecha de tuberculosis activa o inmunodeficiencia) junto con la primera dosis de Hexavalente y la primera dosis de Neumocócica Conjugada. Se pueden coadministrar de forma segura en distintos sitios anatómicos de punción."
+      },
+      {
+        "text": "C) Indicar que debe recibir únicamente la vacuna Tresvírica ya que por edad cronológica es la más urgente.",
+        "isCorrect": false,
+        "explanation": "La vacuna Tresvírica se coloca a partir de los 12 meses; a los 9 meses todavía no le corresponde y no protege contra las bacterias invasoras prioritarias del lactante menor."
+      },
+      {
+        "text": "D) Iniciar el esquema con media dosis de Hexavalente para evaluar tolerancia y evitar efectos adversos acumulados.",
+        "isCorrect": false,
+        "explanation": "Las dosis de las vacunas nunca deben fraccionarse bajo ninguna circunstancia."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un niño de 3 años y 2 meses acude a su consulta. Al revisar su carnet de vacunación, usted constata que recibió todas sus vacunas de forma normal hasta los 12 meses de vida, pero no registra ninguna vacuna posterior. ¿Qué vacunas del PNI le corresponde recibir para quedar al día con su calendario?",
+    "hint": "Una regla de oro en inmunizaciones es: \"Dosis recibida, dosis que cuenta; los esquemas atrasados no se reinician, se completan\". Sin embargo, se deben respetar los intervalos mínimos entre dosis sucesivas del mismo antígeno (como la vacuna de Varicela).",
+    "options": [
+      {
+        "text": "A) Solo le corresponde la vacuna de los 36 meses (Tresvírica y Varicela 2ª dosis), perdiendo las dosis de los 18 meses por estar fuera de rango de edad.",
+        "isCorrect": false,
+        "explanation": "Las vacunas del PNI no se pierden por edad (a excepción de límites muy específicos como Rotavirus o en algunos países tos convulsiva celular); se deben administrar los refuerzos y dosis pendientes para lograr una inmunidad efectiva."
+      },
+      {
+        "text": "B) Debe recibir hoy las vacunas correspondientes a los 18 meses (refuerzo de Hexavalente, Hepatitis A, 1ª dosis de Varicela y refuerzo de Meningococo B). Citar en al menos 4 semanas para recibir las vacunas de los 36 meses (2ª dosis de Tresvírica y 2ª dosis de Varicela).",
+        "isCorrect": true,
+        "explanation": "Para poner al día a este niño, primero debemos administrar las dosis pendientes de los 18 meses (Hexavalente, Hepatitis A, Varicela 1ª dosis y Meningococo B). Como la vacuna contra la Varicela requiere un intervalo mínimo de 4 semanas (idealmente 3 meses) entre la 1ª y la 2ª dosis, y la Tresvírica requiere un intervalo mínimo entre dosis, el paciente debe ser citado posteriormente (mínimo 4 semanas después) para administrar las vacunas correspondientes a los 36 meses (2ª de Varicela y 2ª de Tresvírica)."
+      },
+      {
+        "text": "C) Administrar simultáneamente las dosis de los 18 meses y las de los 36 meses en una sola visita para evitar pérdidas de oportunidad.",
+        "isCorrect": false,
+        "explanation": "Administrar la 1ª y la 2ª dosis de Varicela o Tresvírica el mismo día anula la efectividad de la segunda dosis y viola los intervalos inmunológicos mínimos requeridos."
+      },
+      {
+        "text": "D) Reiniciar todo el esquema de vacunación desde los 2 meses de vida, ya que al pasar más de un año sin vacunas se pierde la memoria inmunológica.",
+        "isCorrect": false,
+        "explanation": "Es un grave error conceptual reiniciar esquemas. La memoria inmunológica de las dosis administradas al año de vida persiste; solo se requiere completar las dosis faltantes."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted se encuentra de turno en la maternidad y evalúa a un recién nacido de término, de $3200\\text{ gramos}$ de peso, cuya madre es VIH positivo confirmada. ¿Cuál es la conducta correcta respecto a la administración de la vacuna BCG en este neonato antes del alta?",
+    "hint": "La vacuna BCG contiene bacterias vivas atenuadas (Mycobacterium bovis). En pacientes con inmunodeficiencia celular severa (como un lactante con VIH connatales), las vacunas de patógenos vivos pueden causar una infección diseminada grave (BCGitis).",
+    "options": [
+      {
+        "text": "A) Administrar la vacuna BCG de forma normal antes del alta, ya que el peso es mayor a $2000\\text{ gramos}$.",
+        "isCorrect": false,
+        "explanation": "Ignora el estado de exposición al VIH del recién nacido. Administrar BCG a un lactante con VIH confirmado puede causar una tuberculosis diseminada por la cepa vacunal de alta letalidad."
+      },
+      {
+        "text": "B) Contraindicar la vacuna de forma definitiva; este niño nunca podrá recibir la BCG.",
+        "isCorrect": false,
+        "explanation": "Si las pruebas moleculares descartan la infección por VIH (lo cual ocurre en la gran mayoría de los casos con una adecuada profilaxis de transmisión vertical), el lactante puede y debe recibir su vacuna BCG de forma segura para estar protegido contra la tuberculosis ambiental."
+      },
+      {
+        "text": "C) Diferir (postergar) la vacunación con BCG hasta que se descarte la infección por VIH en el lactante mediante pruebas moleculares (PCR para VIH) y se cuente con la autorización del especialista en infectología pediátrica.",
+        "isCorrect": true,
+        "explanation": "En hijos de madres VIH (+), existe el riesgo de transmisión vertical del virus. Hasta que no se descarte la infección en el recién nacido (lo cual se realiza mediante cargas virales/PCR de VIH sucesivas en los primeros meses de vida), el paciente se considera potencialmente inmunocomprometido. Por lo tanto, la administración de la vacuna de bacterias vivas (BCG) debe ser postergada hasta contar con la confirmación de no infección y la autorización formal de infectología infantil."
+      },
+      {
+        "text": "D) Administrar la vacuna por vía intramuscular profunda para disminuir el riesgo de diseminación.",
+        "isCorrect": false,
+        "explanation": "La vacuna BCG se administra estrictamente por vía intradérmica, nunca intramuscular."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "¿En cuál de las siguientes condiciones clínicas pediátricas está estrictamente contraindicada la administración de la vacuna Tresvírica (SRP) o de la vacuna contra la Varicela?",
+    "hint": "Las vacunas atenuadas contienen virus vivos capaces de replicarse a nivel subclínico para generar inmunidad. Un sistema inmune severamente deprimido por una neoplasia hematológica o por fármacos inmunosupresores potentes no podrá controlar esta replicación, lo que podría llevar a una infección severa por la misma cepa vacunal.",
+    "options": [
+      {
+        "text": "A) Niño de 2 años con antecedentes de asma en tratamiento con corticoides inhalados a dosis habituales.",
+        "isCorrect": false,
+        "explanation": "Los corticoides por vía inhalatoria (usados en asma) o tópicos no producen inmunosupresión sistémica relevante; no contraindican ninguna vacuna."
+      },
+      {
+        "text": "B) Lactante de 15 meses cursando con un resfrío común, afebril, con rinorrea clara y tos leve.",
+        "isCorrect": false,
+        "explanation": "Las infecciones leves de la vía aérea superior (como el resfrío común) sin compromiso sistémico ni fiebre alta son \"falsas contraindicaciones\" de la vacunación."
+      },
+      {
+        "text": "C) Niño de 5 años con leucemia linfoblástica aguda que se encuentra actualmente en fase de quimioterapia intensiva activa.",
+        "isCorrect": true,
+        "explanation": "Los pacientes con inmunodeficiencias humorales o celulares severas, como aquellos en tratamiento activo con quimioterapia por cáncer infantil o corticoides sistémicos a altas dosis, tienen estrictamente contraindicadas las vacunas de microorganismos vivos atenuados (Tresvírica, Varicela, Fiebre Amarilla, BCG) por riesgo de replicación descontrolada del virus vacunal."
+      },
+      {
+        "text": "D) Lactante de 12 meses con antecedentes de prematurez extrema que actualmente se encuentra en percentil de peso bajo el promedio.",
+        "isCorrect": false,
+        "explanation": "El bajo peso aislado o el antecedente de prematurez no contraindican las vacunas de virus vivos una vez alcanzada la edad programática."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted atiende a una lactante sana de 12 meses que vive con su hermano de 6 años, quien actualmente se encuentra en tratamiento de quimioterapia por un linfoma. Respecto a la administración de las vacunas de los 12 meses (Tresvírica, Meningocócica tetravalente y Neumocócica) a la lactante sana, ¿cuál es la conducta correcta?",
+    "hint": "La protección de un paciente inmunocomprometido depende en gran medida de que las personas sanas que conviven con él estén debidamente inmunizadas para no ingresar virus o bacterias al hogar. Los virus de la vacuna Tresvírica no tienen capacidad de transmitirse a los contactos, a diferencia del virus de la polio oral clásico (Sabin) o, de forma muy excepcional, las lesiones de varicela activa.",
+    "options": [
+      {
+        "text": "A) Suspender la vacuna Tresvírica de la lactante sana por riesgo de contagiar a su hermano inmunocomprometido a través de la eliminación viral.",
+        "isCorrect": false,
+        "explanation": "Suspender la vacuna de la hermana sana aumenta de forma peligrosa el riesgo de que contraiga una enfermedad silvestre y contagie de gravedad al hermano enfermo."
+      },
+      {
+        "text": "B) Administrar todas las vacunas correspondientes a la lactante de 12 meses según el calendario regular, ya que los virus de la vacuna Tresvírica no se transmiten de persona a persona y es prioritario proteger el entorno familiar (efecto capullo).",
+        "isCorrect": true,
+        "explanation": "Los contactos domiciliarios de pacientes inmunocomprometidos deben tener su calendario de vacunación al día para formar un \"capullo\" protector. Las vacunas de virus vivos como la Tresvírica (SRP) se deben administrar de forma normal a los convivientes sanos, ya que no se ha demostrado la transmisión de los virus de sarampión, rubéola o paratoditis de la vacuna hacia terceras personas. Es prioritario que la lactante esté inmunizada para no contraer sarampión salvaje e ingresarlo al hogar."
+      },
+      {
+        "text": "C) Reemplazar la vacuna Tresvírica por inmunoglobulina intravenosa mensual para toda la familia.",
+        "isCorrect": false,
+        "explanation": "La inmunoglobulina no reemplaza el esquema de vacunación programática de los contactos sanos."
+      },
+      {
+        "text": "D) Postergar todas las vacunas de la lactante hasta que el hermano finalice la quimioterapia y recupere su recuento de linfocitos.",
+        "isCorrect": false,
+        "explanation": "Postergar las vacunas de los contactos sanos desprotege el entorno familiar durante el periodo en que el paciente oncológico está más vulnerable."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 18 meses es llevado al vacunatorio. Su madre refiere que el niño ha presentado deposiciones algo más blandas de lo habitual (3 veces al día, sin sangre ni deshidratación) y temperatura axilar de $37.4^\\circ\\text{C}$ secundaria a erupción dentaria. ¿Cuál es la conducta correcta del personal del vacunatorio?",
+    "hint": "Una de las causas más frecuentes de \"oportunidad de vacunación perdida\" es la postergación de dosis debido a síntomas leves que no constituyen contraindicaciones reales. Los lineamientos ministeriales son muy claros al respecto.",
+    "options": [
+      {
+        "text": "A) Postergar la vacunación por 2 semanas hasta que las deposiciones sean completamente normales y esté absolutamente afebril.",
+        "isCorrect": false,
+        "explanation": "Postergar la vacunación por síntomas fisiológicos o patologías banales autolimitadas es una conducta errónea que expone al lactante a riesgos infecciosos reales."
+      },
+      {
+        "text": "B) Administrar las vacunas correspondientes a los 18 meses de forma normal, explicando a la madre que la febrícula y la diarrea leve no contraindican la inmunización.",
+        "isCorrect": true,
+        "explanation": "La presencia de diarrea leve, febrícula (temperatura $<38.5^\\circ\\text{C}$), infecciones leves de la vía aérea (como un resfrío común) o la dentición, son consideradas \"falsas contraindicaciones\" según las normas nacionales. Las vacunas de los 18 meses (tanto inactivadas como atenuadas) deben administrarse de forma normal para evitar retrasos y desprotección."
+      },
+      {
+        "text": "C) Administrar únicamente las vacunas inactivadas (Hexavalente y Meningococo B) y postergar las vacunas atenuadas (Hepatitis A y Varicela).",
+        "isCorrect": false,
+        "explanation": "No existe justificación para subdividir el esquema de los 18 meses por diarrea leve; la vacuna contra la Varicela o la Hepatitis A no se ven afectadas por estos síntomas."
+      },
+      {
+        "text": "D) Derivar al lactante al servicio de urgencias para estudio de síndrome diarreico antes de vacunar.",
+        "isCorrect": false,
+        "explanation": "No hay criterios de alarma ni de derivación a urgencias en un lactante con deposiciones levemente más blandas, hidratado y en buenas condiciones generales."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "¿Cuál de las siguientes alternativas describe un ejemplo de inmunización pasiva utilizada en la práctica pediátrica clínica en Chile y cuál es su característica principal en comparación con la inmunización activa?",
+    "hint": "La inmunización activa estimula al propio cuerpo a producir sus defensas (tarda semanas en actuar pero dura años), mientras que la inmunización pasiva consiste en \"prestar\" anticuerpos ya hechos de afuera para dar un escudo inmediato pero que se desgasta con el tiempo.",
+    "options": [
+      {
+        "text": "A) La vacuna BCG; se caracteriza por inducir una respuesta de memoria a largo plazo mediante la activación de linfocitos T.",
+        "isCorrect": false,
+        "explanation": "La vacuna BCG es un ejemplo clásico de inmunización activa artificial (induce al sistema inmune a responder y generar memoria contra la tuberculosis)."
+      },
+      {
+        "text": "B) El anticuerpo monoclonal Nirsevimab contra el VRS; se caracteriza por entregar anticuerpos preformados directamente al paciente, otorgando protección inmediata pero transitoria, sin generar memoria inmunológica propia.",
+        "isCorrect": true,
+        "explanation": "El Nirsevimab es un anticuerpo monoclonal IgG1 humano modificado contra la proteína F del VRS. Al administrarse, confiere inmunización pasiva artificial de forma inmediata (el lactante no tiene que fabricar los anticuerpos). Su protección dura aproximadamente $150\\text{ días}$ (suficiente para cubrir la temporada invernal de alta circulación), tras lo cual se depura del organismo sin dejar células de memoria."
+      },
+      {
+        "text": "C) La vacuna Hexavalente; entrega toxoides bacterianos listos para neutralizar las toxinas de la difteria y el tétanos sin requerir la intervención del sistema inmune del lactante.",
+        "isCorrect": false,
+        "explanation": "La vacuna Hexavalente contiene antígenos (inactivos o toxoides) que requieren que el sistema inmune del lactante trabaje activamente procesándolos y fabricando sus propios anticuerpos y células de memoria."
+      },
+      {
+        "text": "D) La lactancia materna exclusiva; es una inmunización pasiva artificial que reemplaza de forma definitiva la necesidad de administrar vacunas durante los primeros 6 meses de vida.",
+        "isCorrect": false,
+        "explanation": "Si bien la lactancia materna aporta inmunoglobulinas (inmunidad pasiva natural, principalmente IgA secretora), no es artificial, no reemplaza el calendario de vacunas y no protege de forma sistémica contra patógenos invasores graves contenidos en el PNI (como el neumococo, meningococo o virus de la polio)."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "En la campaña de inmunización contra el VRS de 2026, ¿cuál de los siguientes grupos pediátricos califica para recibir una dosis de Nirsevimab al ingresar a su segunda temporada de alta circulación viral?",
+    "hint": "Mientras que los lactantes sanos solo reciben Nirsevimab en su primera temporada de vida (cuando el VRS es más letal), existe un subgrupo de niños con daño pulmonar o cardíaco estructural en quienes el virus sigue siendo sumamente peligroso incluso durante su segundo año de vida.",
+    "options": [
+      {
+        "text": "A) Todos los niños sanos menores de 24 meses del país.",
+        "isCorrect": false,
+        "explanation": "No es universal para todos los niños en su segunda temporada; los niños sanos de 1 año ya tienen una vía aérea de mayor calibre y menor riesgo de bronquiolitis grave por VRS."
+      },
+      {
+        "text": "B) Lactantes prematuros extremos ($<32$ semanas de edad gestacional al nacer) o lactantes con displasia broncopulmonar severa o cardiopatías congénitas hemodinámicamente significativas que ingresan a su segundo periodo de circulación del VRS.",
+        "isCorrect": true,
+        "explanation": "Las normativas técnicas de inmunización contra el VRS en Chile definen que ciertos pacientes de muy alto riesgo médico (prematuros de $<32$ semanas, niños con cardiopatías congénitas con compromiso hemodinámico significativo, y pacientes con enfermedad pulmonar crónica de la prematurez / displasia broncopulmonar que requieran apoyo médico respiratorio) califican para recibir una dosis de refuerzo de Nirsevimab al inicio de su segunda temporada de circulación de VRS, típicamente entre los 12 y 24 meses de edad."
+      },
+      {
+        "text": "C) Solo aquellos que presentaron una neumonía grave por VRS documentada durante su primer año de vida.",
+        "isCorrect": false,
+        "explanation": "Haber tenido una neumonía por VRS previa en un lactante previamente sano no es un criterio programático automático para indicar Nirsevimab en la segunda temporada si no cumple con las condiciones crónicas descritas."
+      },
+      {
+        "text": "D) Escolares de 1° Básico con antecedente de asma infantil grave.",
+        "isCorrect": false,
+        "explanation": "Los escolares de 1° Básico están fuera del grupo de edad objetivo para la inmunoprofilaxis con Nirsevimab."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted evalúa en el consultorio el esquema de inmunización de un niño de 2 años. Al revisar el calendario de vacunas oficial vigente (año 2026), nota que recibió la vacuna contra la Hepatitis A a los 18 meses. ¿Cuándo le corresponde recibir la segunda dosis de esta vacuna según el PNI chileno?",
+    "hint": "A diferencia de los esquemas comerciales privados o de otros países que utilizan esquemas de dos dosis para la Hepatitis A, la estrategia de salud pública en Chile se optimizó basándose en la alta inmunogenicidad de la dosis única en la infancia.",
+    "options": [
+      {
+        "text": "A) A los 36 meses (3 años) junto con la segunda dosis de Varicela.",
+        "isCorrect": false,
+        "explanation": "Confunde el esquema de Hepatitis A con el de Varicela y Tresvírica (las cuales sí se administran en dos dosis, a los 18 y 36 meses, y 12 y 36 meses respectivamente)."
+      },
+      {
+        "text": "B) En 1° Básico en la vacunación escolar.",
+        "isCorrect": false,
+        "explanation": "No forma parte de las vacunas escolares."
+      },
+      {
+        "text": "C) No le corresponde una segunda dosis; en el PNI de Chile la vacuna contra la Hepatitis A se administra como dosis única a los 18 meses de vida.",
+        "isCorrect": true,
+        "explanation": "En el Programa Nacional de Inmunizaciones (PNI) de Chile, la inmunización contra el virus de la Hepatitis A se realiza mediante un esquema de dosis única a los 18 meses de edad de forma universal. No hay contemplados refuerzos ni segundas dosis en el calendario programático para la población general."
+      },
+      {
+        "text": "D) A los 5 años, solo si asiste a un establecimiento con brote activo de hepatitis.",
+        "isCorrect": false,
+        "explanation": "No existe tal indicación reactiva en el calendario regular del PNI."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Una madre acude a la urgencia con su lactante de 2 meses que fue vacunado hace $12\\text{ horas}$ con las vacunas correspondientes (Hexavalente, Neumocócica conjugada y Meningococo B). Refiere que el lactante está muy irritable, llora más de lo habitual, tiene un eritema de $2\\text{ cm}$ en el muslo derecho (sitio de punción) y temperatura axilar controlada de $38.2^\\circ\\text{C}$. ¿Cuál es la sospecha diagnóstica y la conducta terapéutica más adecuada en este caso?",
+    "hint": "La vacuna del Meningococo B y la Hexavalente son conocidas por tener una alta tasa de reactogenicidad local (dolor, eritema, induración) y fiebre en las primeras $24\\text{ a } 48\\text{ horas}$ post-inyección. Esto constituye una respuesta inflamatoria fisiológica normal del sistema inmune ante los antígenos y adyuvantes.",
+    "options": [
+      {
+        "text": "A) Sospecha de celulitis infecciosa del sitio de punción; se debe iniciar cefadroxilo oral por 7 días de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "Es imposible desarrollar una celulitis bacteriana infecciosa en solo $12\\text{ horas}$ post-punción con agujas estériles sin que haya signos de fluctuación, calor extremo o extensión masiva. Sería un uso irracional y erróneo de antibióticos."
+      },
+      {
+        "text": "B) Reacción adversa local y sistémica leve esperable secundaria a la vacunación (ESAVI); se debe educar a la madre, aplicar compresas frías locales en el muslo y administrar paracetamol a dosis de $10\\text{ a } 15\\text{ mg/kg/dosis}$ cada 6-8 horas si presenta fiebre o dolor persistente.",
+        "isCorrect": true,
+        "explanation": "La irritabilidad, la fiebre menor a $38.5^\\circ\\text{C}$ y el eritema localizado menor a $5\\text{ cm}$ en las primeras $24\\text{ horas}$ post-vacunación son Eventos Supuestamente Atribuibles a Vacunación o Inmunización (ESAVI) comunes, esperables y benignos. El manejo consiste en medidas físicas locales (compresas frías, no masajear) y el uso de paracetamol en dosis pediátrica estándar ($10\\text{-}15\\text{ mg/kg/dosis}$) para el alivio sintomático de las molestias y la fiebre."
+      },
+      {
+        "text": "C) Shock anafiláctico en fase inicial; se debe administrar adrenalina intramuscular $0.01\\text{ mg/kg}$ y hospitalizar en unidad de paciente crítico.",
+        "isCorrect": false,
+        "explanation": "La anafilaxia es una reacción de hipersensibilidad inmediata (ocurre en los primeros minutos hasta un par de horas post-vacuna) y cursa con compromiso multisistémico grave (estridor, sibilancias, compromiso de conciencia, colapso circulatorio o urticaria generalizada), lo cual no tiene relación con el cuadro de febrícula e irritabilidad local descrito."
+      },
+      {
+        "text": "D) Falla terapéutica de las vacunas; se debe suspender el resto del calendario de inmunizaciones por riesgo de encefalopatía postvacunal.",
+        "isCorrect": false,
+        "explanation": "Los síntomas son parte de una reacción esperable, no implican falla terapéutica ni justifican bajo ningún concepto suspender o retrasar las futuras dosis del calendario de vacunas."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 2 meses de vida es llevado al control sano. Al examinar el brazo derecho del lactante, en la región deltoidea, usted observa una pápula eritematosa de $8\\text{ mm}$ de diámetro con una pequeña ulceración central que drena una mínima cantidad de material seropurulento. El lactante se encuentra afebril, activo, mamando bien y no presenta adenopatías axilares palpables. ¿Cuál es la sospecha diagnóstica y la conducta más adecuada?",
+    "hint": "La vacuna BCG (bacilo de Calmette-Guérin) genera una respuesta inflamatoria local controlada y lenta que simula una infección tuberculosa cutánea primaria localizada. Esta lesión pasa por varias etapas que toman semanas o meses.",
+    "options": [
+      {
+        "text": "A) Sospecha de infección bacteriana secundaria de la herida; se debe iniciar tratamiento con amoxicilina oral por 7 días y realizar curación plana.",
+        "isCorrect": false,
+        "explanation": "Confunde la evolución fisiológica y esperada de la vacuna BCG con una sobreinfección bacteriana piógena. Los antibióticos sistémicos no están indicados en la evolución normal de la BCG."
+      },
+      {
+        "text": "B) Sospecha de reacción adversa severa a la BCG; se debe suspender el resto del calendario vacunal y derivar de urgencia a Infectología Infantil.",
+        "isCorrect": false,
+        "explanation": "No es una reacción adversa severa; al contrario, la formación de esta lesión cutánea demuestra una adecuada respuesta inmune celular local."
+      },
+      {
+        "text": "C) Evolución local normal y fisiológica de la vacuna BCG; se debe explicar a la madre que es un proceso normal, mantener la zona limpia y seca sin apretar ni aplicar desinfectantes.",
+        "isCorrect": true,
+        "explanation": "Tras la inoculación de la BCG por vía intradérmica, es normal que en las semanas siguientes se forme una pápula eritematosa, que luego evoluciona a un nódulo, se ulcera de forma espontánea drenando material seropurulento y finalmente cicatriza dejando una marca característica. No requiere antibióticos ni tratamientos especiales; solo aseo normal con agua durante el baño y mantener la zona seca."
+      },
+      {
+        "text": "D) Sospecha de adenitis supurada por BCG; se debe pautar tratamiento con isoniacida oral por 3 meses para evitar la diseminación hematógena.",
+        "isCorrect": false,
+        "explanation": "La adenitis supurada por BCG cursa con adenopatías axilares o supraclaviculares de gran tamaño ($>1.5\\text{ cm}$) que fluctúan y pueden supurar; el paciente descrito no tiene adenopatías axilares palpables y su lesión es estrictamente local en el sitio de punción."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Los padres de un lactante de 2 meses consultan en la práctica privada por la indicación de la vacuna contra el Rotavirus (Rotarix o Rotateq). Usted realiza la evaluación pre-vacunal correspondiente. ¿Cuál de los siguientes antecedentes clínicos del lactante constituye una contraindicación absoluta para la administración de esta vacuna?",
+    "hint": "La vacuna contra el Rotavirus es una vacuna oral de virus vivos atenuados que se replica en el epitelio intestinal del lactante. Por motivos de seguridad y por el riesgo epidemiológico documentado en estudios de seguridad, los trastornos anatómicos o funcionales que predisponen a obstrucción mecánica intestinal impiden su uso.",
+    "options": [
+      {
+        "text": "A) Antecedente personal de invaginación intestinal previa o malformación congénita del tracto gastrointestinal no corregida (como divertículo de Meckel).",
+        "isCorrect": true,
+        "explanation": "El antecedente de invaginación (intususcepción) intestinal previa o la presencia de malformaciones anatómicas del tubo digestivo no corregidas (que aumenten el riesgo de invaginación) son contraindicaciones absolutas para la vacuna contra el Rotavirus, debido a la asociación descrita entre la vacuna y un leve incremento del riesgo de intususcepción."
+      },
+      {
+        "text": "B) Antecedente de nacimiento pretérmino a las 34 semanas de gestación con peso al nacer de $1900\\text{ gramos}$.",
+        "isCorrect": false,
+        "explanation": "La prematurez no es contraindicación para la vacuna de Rotavirus; de hecho, los prematuros se benefician enormemente de la protección contra gastroenteritis graves, debiendo recibirla según su edad cronológica si se encuentran clínicamente estables."
+      },
+      {
+        "text": "C) Vivir en un hogar donde convive un adulto mayor de 70 años con diabetes mellitus tipo 2 compensada.",
+        "isCorrect": false,
+        "explanation": "Convivir con personas de edad avanzada o con enfermedades crónicas compensadas no contraindica la administración de la vacuna en el lactante, solo se debe educar sobre un estricto lavado de manos tras cambiar pañales por la eliminación viral en las deposiciones."
+      },
+      {
+        "text": "D) Presentar un cuadro de reflujo gastroesofágico fisiológico del lactante en tratamiento con medidas posicionales.",
+        "isCorrect": false,
+        "explanation": "El reflujo gastroesofágico simple o fisiológico no constituye una contraindicación; el lactante puede recibir la vacuna oral normalmente."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted realiza el control de salud de un escolar de 4° Básico de 9 años. Al revisar sus antecedentes clínicos, se destaca un historial de alergia severa a la penicilina (presentó un choque anafiláctico documentado en la urgencia hace dos años). Hoy le corresponde recibir la vacuna contra el Virus del Papiloma Humano (VPH) en su colegio. Respecto a este caso, ¿cuál es la conducta correcta?",
+    "hint": "Las vacunas del Programa Nacional de Inmunizaciones no contienen antibióticos de la familia de los betalactámicos (como penicilinas o cefalosporinas) en su composición ni durante su proceso de fabricación.",
+    "options": [
+      {
+        "text": "A) Contraindicar la vacuna de VPH de forma absoluta debido al alto riesgo de reactividad cruzada con los excipientes betalactámicos de la vacuna.",
+        "isCorrect": false,
+        "explanation": "Es un error conceptual; no existe ninguna relación estructural ni reactividad cruzada entre la penicilina y los componentes de la vacuna VPH (partículas tipo virus recombinantes L1)."
+      },
+      {
+        "text": "B) Postergar la vacuna hasta los 15 años de edad para permitir la maduración del sistema inmune y disminuir el riesgo de anafilaxia.",
+        "isCorrect": false,
+        "explanation": "Retrasar la vacuna reduce el periodo de protección activa del menor antes del inicio de su vida sexual y no tiene fundamento médico."
+      },
+      {
+        "text": "C) Administrar la vacuna en el colegio, pero utilizando exclusivamente media dosis por vía subcutánea para evaluar la tolerancia alergológica del escolar.",
+        "isCorrect": false,
+        "explanation": "Fraccionar las dosis o cambiar la vía de administración intramuscular a subcutánea está estrictamente contraindicado, ya que disminuye la eficacia inmunogénica y puede provocar efectos adversos locales mayores."
+      },
+      {
+        "text": "D) Administrar la vacuna de VPH de forma normal hoy, ya que la alergia a la penicilina no se relaciona con los componentes de esta vacuna ni es contraindicación para su uso.",
+        "isCorrect": true,
+        "explanation": "La alergia a la penicilina (incluso la anafilaxia severa) no constituye una contraindicación ni una precaución para la administración de ninguna vacuna del PNI, incluyendo la del VPH. Las vacunas pueden administrarse de forma segura y convencional en su sitio de vacunación programado."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 12 meses asiste al vacunatorio de su CESFAM para recibir las vacunas correspondientes (Tresvírica, Meningocócica conjugada tetravalente y Neumocócica conjugada). A las 48 horas de la administración, la madre acude al servicio de urgencias porque el niño presenta fiebre cuantificada en $38.8^\\circ\\text{C}$ axilar, irritabilidad y rechazo parcial del alimento, sin focos clínicos al examen físico. ¿Cuál es el enfoque clínico correcto?",
+    "hint": "Las vacunas administradas al año de vida, especialmente la neumocócica conjugada y la meningocócica, son altamente inmunogénicas y es muy habitual que generen picos febriles de corta duración en las primeras $48\\text{ horas}$. El manejo es estrictamente sintomático ante un examen físico normal.",
+    "options": [
+      {
+        "text": "A) Indicar hospitalización inmediata y toma de cultivos completos (hemocultivo, urocultivo, punción lumbar) por riesgo de sepsis neonatal tardía.",
+        "isCorrect": false,
+        "explanation": "El paciente tiene 12 meses (lactante mayor, no neonato) y presenta una causa clara para su fiebre (vacunación reciente). No requiere una conducta tan invasiva a menos que presente signos de toxicidad clínica o aspecto séptico."
+      },
+      {
+        "text": "B) Explicar a la madre que la fiebre y la irritabilidad son una reacción adversa (ESAVI) común y esperable tras las vacunas de los 12 meses, indicar paracetamol $10\\text{-}15\\text{ mg/kg/dosis}$ y control si la fiebre persiste por más de $48\\text{-}72\\text{ horas}$.",
+        "isCorrect": true,
+        "explanation": "La fiebre aislada iniciada en las primeras $24\\text{-}48\\text{ horas}$ post-vacunación en un lactante de 12 meses con examen físico completamente normal y buen estado general residual se considera una reacción vacunal sistémica común. El manejo es ambulatorio con antipiréticos (paracetamol) y educación a los cuidadores sobre signos de alarma (fiebre persistente por más de 72 horas, letargia, dificultad respiratoria, etc.)."
+      },
+      {
+        "text": "C) Indicar amoxicilina oral por 7 días de forma empírica ante la sospecha de otitis media aguda en fase congestiva no visible.",
+        "isCorrect": false,
+        "explanation": "El uso de antibióticos empíricos sin un foco clínico bacteriano demostrado al examen físico es una mala práctica clínica que fomenta la resistencia antimicrobiana."
+      },
+      {
+        "text": "D) Suspender la administración de la segunda dosis de la vacuna Tresvírica a los 36 meses debido a una severa reacción de hipersensibilidad sistémica.",
+        "isCorrect": false,
+        "explanation": "Las reacciones febriles comunes no contraindican dosis futuras de vacunas; son una manifestación esperable de la activación de la respuesta inflamatoria innata."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 18 meses con su calendario de vacunaciones al día acude a su control de salud familiar en la Isla de Pascua (Rapa Nui). Según la normativa específica del PNI, ¿qué vacuna especial se le debe administrar adicionalmente a este lactante por residir en dicho territorio geográfico y cuál es su esquema de refuerzo?",
+    "hint": "Existe un territorio insular chileno que, debido a sus condiciones climáticas de tipo subtropical y la presencia de vectores artrópodos específicos, requiere protección inmunológica obligatoria contra una arbovirosis potencialmente letal transmitida por mosquitos.",
+    "options": [
+      {
+        "text": "A) Vacuna contra la Fiebre Amarilla (única dosis a los 18 meses de vida), debido a la presencia del mosquito vector Aedes aegypti en la isla.",
+        "isCorrect": true,
+        "explanation": "La vacuna contra la Fiebre Amarilla es una vacuna obligatoria dentro del PNI de Chile únicamente para los residentes y viajeros de la Isla de Pascua (Rapa Nui), donde se administra de forma gratuita a los 18 meses de vida. Esto se debe a que en la isla habita el mosquito Aedes aegypti, vector transmisor de la fiebre amarilla, el dengue y el zika."
+      },
+      {
+        "text": "B) Vacuna contra la Hepatitis B de alta concentración, por la elevada prevalencia de portadores crónicos en el territorio insular.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la Hepatitis B se administra a todos los lactantes del territorio nacional de forma combinada en la vacuna Hexavalente (2, 4, 6 y 18 meses) y la dosis del recién nacido, sin que exista un esquema especial de alta concentración exclusivo para Rapa Nui."
+      },
+      {
+        "text": "C) Vacuna contra el Dengue en tres dosis, debido a los brotes anuales de transmisión autóctona.",
+        "isCorrect": false,
+        "explanation": "Si bien en la isla hay brotes de Dengue, la vacuna contra el dengue no está incorporada de forma programática universal a los 18 meses en el PNI de Chile actualmente."
+      },
+      {
+        "text": "D) Vacuna BCG de refuerzo intradérmico, por las altas tasas de tuberculosis pulmonar activa reportadas en Rapa Nui.",
+        "isCorrect": false,
+        "explanation": "El refuerzo de vacuna BCG (segunda dosis escolar) fue eliminado del PNI hace muchos años en todo el territorio chileno tras demostrarse que no aportaba protección adicional significativa sobre la primera dosis del recién nacido."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted atiende en el consultorio a un niño de 4 años de edad que presenta un historial de abandono de controles médicos. Al revisar sus registros, constata que su última vacuna fue administrada a los 6 meses de vida. Los padres están de acuerdo en poner al día su calendario vacunal. Respecto a la inmunización contra la Varicela en este paciente, ¿cuál es el esquema correcto que debe pautar según las normas técnicas vigentes de puesta al día (catch-up)?",
+    "hint": "En los esquemas de puesta al día en niños mayores que no recibieron sus vacunas en las edades programáticas habituales (18 y 36 meses), se debe completar el esquema de dos dosis respetando siempre un intervalo de tiempo biológico mínimo necesario entre ellas.",
+    "options": [
+      {
+        "text": "A) Administrar hoy una dosis única de vacuna contra la Varicela; los niños mayores de 3 años no se benefician de una segunda dosis según el PNI.",
+        "isCorrect": false,
+        "explanation": "El esquema de dosis única es insuficiente y ya no corresponde al calendario de inmunización chileno, el cual garantiza dos dosis para toda la población infantil por motivos de eficacia epidemiológica de largo plazo."
+      },
+      {
+        "text": "B) Indicar que ya pasó el rango de edad para la vacuna de Varicela, por lo que no corresponde administrarla y se debe omitir.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la Varicela se puede y debe administrar como catch-up a niños susceptibles atrasados; no se omite por haber superado la edad programática."
+      },
+      {
+        "text": "C) Administrar la 1ª dosis de vacuna contra la Varicela hoy, y la 2ª dosis de forma diferida con un intervalo mínimo de 4 semanas (idealmente 3 meses) respecto a la primera.",
+        "isCorrect": true,
+        "explanation": "El esquema nacional de vacunación contra la Varicela consta de 2 dosis. Para niños que inician o completan esquemas de forma tardía (puesta al día), se deben administrar las 2 dosis requeridas, respetando un intervalo mínimo de 4 semanas entre ellas (la recomendación óptima suele ser de 3 meses en niños pequeños, pero el intervalo mínimo de seguridad es de 1 mes)."
+      },
+      {
+        "text": "D) Colocar ambas dosis de Varicela de forma simultánea hoy en brazos diferentes para acelerar el proceso de seroconversión.",
+        "isCorrect": false,
+        "explanation": "Administrar dos dosis de la misma vacuna de virus vivos el mismo día en sitios diferentes es un error técnico grave; no induce una respuesta inmune de refuerzo y satura los mecanismos de respuesta inmunológica inmediata."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante su rotación por el consultorio, evalúa a una gestante de 29 semanas que acude para recibir la vacuna dTpa (Difteria, Tétanos y Tos Convulsiva acelular). Ella le pregunta cómo es posible que una vacuna que recibe ella en el brazo proteja a su futuro bebé que aún está en el útero. ¿Cuál es la explicación científica correcta?",
+    "hint": "La transferencia de inmunidad de la madre al feto durante la gestación se realiza exclusivamente mediante proteínas de defensa que tienen la capacidad molecular de unirse a receptores de transporte activo placentario (FcRn). Estas proteínas pertenecen a una clase de inmunoglobulina específica.",
+    "options": [
+      {
+        "text": "A) La vacuna atraviesa directamente la placenta por difusión simple y coloniza el sistema inmunológico del feto, induciendo una respuesta activa fetal.",
+        "isCorrect": false,
+        "explanation": "Las vacunas no cruzan la placenta para inmunizar de forma activa al feto; el sistema inmune fetal es inmaduro y no se expone directamente a los componentes de la vacuna."
+      },
+      {
+        "text": "B) Los componentes de la vacuna estimulan la producción de anticuerpos de tipo IgM maternos, los cuales atraviesan de forma selectiva la barrera placentaria a partir del tercer trimestre de gestación.",
+        "isCorrect": false,
+        "explanation": "Las inmunoglobulinas de tipo IgM son pentámeros de gran tamaño molecular y carecen de receptores de transporte en la placenta, por lo que no pueden atravesar la barrera placentaria."
+      },
+      {
+        "text": "C) Los antígenos de la vacuna se secretan en el líquido amniótico y el feto los deglute, logrando una inmunización de la mucosa digestiva.",
+        "isCorrect": false,
+        "explanation": "Los antígenos de las vacunas intramusculares maternas no se excretan en el líquido amniótico ni se absorben por vía digestiva fetal para generar inmunidad."
+      },
+      {
+        "text": "D) La vacuna induce la producción materna de anticuerpos específicos de tipo IgG (principalmente contra la toxina pertúsica e inmunógenos de la bacteria), los cuales se transfieren activamente a través de la placenta hacia el torrente sanguíneo fetal mediante receptores específicos, otorgando inmunidad pasiva al recién nacido.",
+        "isCorrect": true,
+        "explanation": "La vacunación con dTpa en la gestante induce la formación de anticuerpos IgG de alta afinidad contra la tos convulsiva (Bordetella pertussis). Estos anticuerpos maternos IgG atraviesan activamente la barrera transplacentaria en el tercer trimestre (mediados por el receptor Fc neonatal, FcRn), alcanzando altas concentraciones en la sangre fetal. Esto le confiere al recién nacido una protección pasiva inmediata durante sus primeros 2 meses de vida, antes de iniciar su propio esquema con la Hexavalente."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un niño de 18 meses acude a su control de salud familiar y vacunación programática. Presenta antecedentes de asma infantil episódica leve, en tratamiento de mantención regular con corticoides inhalados (Fluticasona $125\\text{ mcg}$, 1 puff cada 12 horas). Al evaluar la administración de las vacunas del control (Hexavalente, Hepatitis A, Meningococo B y la vacuna atenuada contra la Varicela), ¿cuál es la conducta adecuada?",
+    "hint": "Las contraindicaciones para las vacunas de virus vivos atenuados (como Varicela o Tresvírica) se aplican a pacientes con inmunosupresión de rango sistémico clínicamente relevante (ej. corticoides sistémicos a dosis elevadas como prednisona $\\ge 2\\text{ mg/kg/día}$ por más de 14 días). Los tratamientos locales no generan este efecto.",
+    "options": [
+      {
+        "text": "A) Administrar todas las vacunas indicadas hoy (incluyendo la vacuna contra la Varicela), ya que los corticoides por vía inhalatoria a dosis habituales no producen inmunosupresión sistémica significativa y no contraindican las vacunas de virus vivos.",
+        "isCorrect": true,
+        "explanation": "Los corticoides administrados por vía inhalatoria, tópica o intraarticular a dosis convencionales no generan una supresión sistémica significativa del sistema inmunitario celular. Por lo tanto, no representan ningún riesgo para la administración de vacunas de virus vivos atenuados como la de la Varicela, debiendo administrarse todo el esquema correspondiente a los 18 meses de forma normal."
+      },
+      {
+        "text": "B) Suspender de forma temporal la Fluticasona por 2 semanas antes de proceder a la administración de la vacuna contra la Varicela.",
+        "isCorrect": false,
+        "explanation": "Suspender la terapia inhalatoria de mantención desestabiliza el control del asma del lactante y es clínicamente contraproducente. No existe beneficio médico ni necesidad de suspender los corticoides inhalados para vacunar."
+      },
+      {
+        "text": "C) Administrar únicamente las vacunas inactivadas (Hexavalente y Meningococo B) y contraindicar de forma definitiva la vacuna contra la Varicela por riesgo de replicación viral pulmonar.",
+        "isCorrect": false,
+        "explanation": "Sugiere una contraindicación falsa; privar al lactante asmático de la vacuna de varicela lo expone al riesgo de contraer varicela salvaje, la cual sí puede complicarse gravemente con neumonía viral o bacteriana en niños hiperreactivos bronquiales."
+      },
+      {
+        "text": "D) Postergar la vacunación completa por 3 meses desde el último episodio obstructivo para asegurar la estabilidad inmunológica.",
+        "isCorrect": false,
+        "explanation": "No existe recomendación de postergar vacunas por periodos prolongados tras crisis obstructivas leves compensadas; solo se posterga si el paciente cursa con una enfermedad aguda moderada o grave febril en el momento de la consulta."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante la consejería de vacunación de los 2 meses, una madre se muestra muy angustiada porque su hijo recibirá tres inyecciones simultáneas (Hexavalente, Neumocócica Conjugada y Meningocócica B). Pregunta específicamente si la vacuna \"Hexavalente\" ya contiene la protección contra el Neumococo, lo que permitiría evitarle un pinchazo al lactante. ¿Cuál es la respuesta profesional y anatómicamente correcta?",
+    "hint": "Cada vacuna programática del lactante tiene una composición de antígenos específica dirigida a diferentes patógenos causantes de sepsis y meningitis. La compatibilidad química impide mezclar vacunas en una misma jeringa a menos que el fabricante lo especifique, y omitir o retrasar dosis vulnerabiliza al lactante.",
+    "options": [
+      {
+        "text": "A) Sí, la Hexavalente contiene antígenos de Neumococo, por lo que se puede omitir la vacuna neumocócica conjugada si la madre lo solicita de forma escrita.",
+        "isCorrect": false,
+        "explanation": "Es falso; omitir la vacuna neumocócica deja al lactante expuesto a la principal causa de neumonía y meningitis bacteriana infantil."
+      },
+      {
+        "text": "B) No contiene Neumococo, pero se pueden mezclar físicamente las dos vacunas en la misma jeringa antes de la inyección para realizar una sola punción.",
+        "isCorrect": false,
+        "explanation": "Está estrictamente prohibido mezclar físicamente diferentes vacunas en una sola jeringa (a menos que el producto venga diseñado como liofilizado y diluente específico por el fabricante), ya que altera la estabilidad química, el pH y puede inactivar los componentes inmunogénicos."
+      },
+      {
+        "text": "C) No, la Hexavalente no protege contra el Neumococo (protege contra bacterias como la del coqueluche y Haemophilus influenzae b). La protección contra el Neumococo requiere la vacuna Neumocócica Conjugada, la cual se debe coadministrar en un sitio de punción diferente de forma simultánea.",
+        "isCorrect": true,
+        "explanation": "La vacuna Hexavalente protege contra 6 enfermedades (Difteria, Tétanos, Tos Convulsiva, Hepatitis B, Hib y Poliomielitis) pero no incluye componentes contra el Neumococo (Streptococcus pneumoniae). Para lograr una cobertura completa contra las infecciones invasoras neumocócicas, es indispensable administrar simultáneamente la vacuna Neumocócica Conjugada 13-valente, aplicando las inyecciones en distintos sitios de punción (muslos diferentes) respetando una separación mínima de $2.5\\text{ cm}$ si se inyecta en el mismo miembro."
+      },
+      {
+        "text": "D) No la contiene, pero se puede diferir la vacuna Neumocócica para los 6 meses de vida de forma segura para aliviar el dolor local.",
+        "isCorrect": false,
+        "explanation": "Diferir la vacuna neumocócica para los 6 meses expone al lactante al periodo de máxima incidencia de enfermedad neumocócica invasora sin anticuerpos protectores."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un escolar de 6 años es llevado al servicio de urgencia tras haber sido mordido en la mejilla derecha por un perro callejero desconocido que huyó del lugar. Al examen se observan dos heridas penetrantes profundas en la cara con sangrado activo moderado. Respecto a la profilaxis post-exposición de la Rabia en este paciente, ¿cuál es la conducta correcta según las normas de salud pública?",
+    "hint": "La rabia es una enfermedad con una letalidad cercana al 100% una vez que se inician los síntomas clínicos. Las mordeduras en zonas altamente inervadas y cercanas al sistema nervioso central (como la cara, cuello y cabeza) por animales sospechosos o no ubicables se clasifican como de \"alto riesgo\", requiriendo una estrategia combinada inmediata.",
+    "options": [
+      {
+        "text": "A) Administrar únicamente la vacuna antirrábica según esquema de 5 dosis; la cara es una zona de bajo riesgo por su excelente irrigación.",
+        "isCorrect": false,
+        "explanation": "Omitir la inmunoglobulina en una mordedura facial grave expone al menor al riesgo de que el virus alcance el cerebro antes de que la vacuna logre generar anticuerpos activos suficientes (lo cual toma cerca de 7 a 10 días)."
+      },
+      {
+        "text": "B) Iniciar de forma inmediata el esquema de vacunación antirrábica post-exposición (5 dosis) y administrar de forma obligatoria Inmunoglobulina Antirrábica Humana (IGHAR) infiltrada en su totalidad en los bordes de la herida y el remanente por vía intramuscular.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a la Guía de Profilaxis de Rabia en Chile, las mordeduras localizadas en cabeza, cara, cuello o manos por animales sospechosos, salvajes o no ubicables se consideran exposiciones de alto riesgo. El manejo debe ser inmediato e incluye: aseo profundo de la herida con agua y jabón, inicio del esquema de vacuna antirrábica activa (5 dosis en los días 0, 3, 7, 14 y 28) y la administración de inmunoglobulina antirrábica humana (inmunidad pasiva) para neutralizar el virus localmente antes de que acceda a los terminales nerviosos."
+      },
+      {
+        "text": "C) Observar al niño por 10 días sin realizar ninguna intervención inmunológica; si el escolar inicia síntomas neurológicos, se administra la vacuna de urgencia.",
+        "isCorrect": false,
+        "explanation": "La observación de 10 días se aplica al perro mordedor si este es conocido y ubicable. Si el animal huyó y la mordedura es grave, esperar a que el niño tenga síntomas es una sentencia de muerte, ya que no existe tratamiento curativo una vez declarada la rabia clínica."
+      },
+      {
+        "text": "D) Realizar curación y sutura estética inmediata de la herida; las vacunas de rabia están contraindicadas en heridas faciales abiertas por riesgo de neuritis óptica.",
+        "isCorrect": false,
+        "explanation": "Las heridas por mordedura de perro sospechosas de rabia idealmente no deben suturarse de inmediato; si es indispensable por motivos estéticos o hemostáticos, se debe infiltrar primero la inmunoglobulina antirrábica localmente y realizar una sutura laxa tras un adecuado desbridamiento."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 6 meses de vida que nació de término, con peso adecuado para la edad gestacional, asiste a su control de niño sano. Se alimenta de forma exclusiva con Lactancia Materna (LM). Según la Norma Técnica de Supervisión de Salud Integral en APS y el PNI vigente, ¿cuál de las siguientes opciones describe el conjunto de indicaciones correctas para este control?",
+    "hint": "Al cumplir el primer semestre de vida, el lactante experimenta la transición hacia la alimentación complementaria debido a que la leche humana ya no suple por sí sola los requerimientos de micronutrientes (especialmente el hierro). A nivel de inmunizaciones, a los 6 meses corresponde cerrar el esquema primario de la vacuna combinada contra la polio, difteria, tétanos, coqueluche, Hib y hepatitis B.",
+    "options": [
+      {
+        "text": "A) Iniciar fórmula de inicio para complementar la LM, administrar vacuna Hexavalente y suspender la suplementación de Vitamina D.",
+        "isCorrect": false,
+        "explanation": "Sugiere complementar innecesariamente con fórmula láctea, lo cual atenta contra la mantención de la lactancia materna exclusiva/predominante que se debe promover durante el primer año."
+      },
+      {
+        "text": "B) Iniciar alimentación complementaria sólida (papilla sin sal), mantener Lactancia Materna a libre demanda, iniciar suplementación con Hierro de mantención ($1\\text{ mg/kg/día}$), suspender las vitaminas y administrar vacuna Hexavalente (3ª dosis).",
+        "isCorrect": true,
+        "explanation": "A los 6 meses de vida en Chile, las normativas ministeriales de APS indican: Alimentación: Introducción de la primera comida (papilla semisólida, sin sal, que contenga verduras, carne y aporte calórico/proteico), manteniendo la lactancia materna. Suplementación: Inicio de Hierro oral preventivo ($1\\text{ mg/kg/día}$) en lactantes alimentados exclusivamente con leche materna, ya que sus depósitos naturales de hierro se agotan a esta edad. Se suspenden las multivitaminas de rutina si se inicia alimentación adecuada. Vacunas: Administrar la 3ª dosis de vacuna Hexavalente."
+      },
+      {
+        "text": "C) Postergar el inicio de la alimentación sólida hasta los 8 meses, mantener Vitamina D a dosis de $400\\text{ UI/día}$ e indicar vacuna Neumocócica de refuerzo de forma universal.",
+        "isCorrect": false,
+        "explanation": "Retrasar la alimentación complementaria hasta los 8 meses aumenta el riesgo de desnutrición y déficit de micronutrientes. La vacuna neumocócica a los 6 meses no corresponde a lactantes de término sanos."
+      },
+      {
+        "text": "D) Iniciar suplementación de Zinc a dosis de $5\\text{ mg/día}$ de forma universal, suspender el Hierro y administrar vacuna Tresvírica.",
+        "isCorrect": false,
+        "explanation": "La suplementación de Zinc no es universal en lactantes sanos de 6 meses en Chile. La vacuna Tresvírica corresponde a los 12 meses, no a los 6 meses."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un escolar de 6 años que cursa 1° Básico asiste al vacunatorio de su colegio y recibe la vacuna dTpa acelular. A las 24 horas, presenta un eritema extenso, calor local y un edema indurado marcado en el brazo izquierdo (sitio de punción) que compromete más del 50% de la longitud del brazo, con dolor moderado al movimiento, pero se encuentra afebril, activo y con excelente estado general. ¿Cuál de los siguientes fenómenos inmunopatológicos explica mejor esta reacción local severa y cuál es su manejo adecuado?",
+    "hint": "Cuando un niño tiene niveles muy elevados de defensas (anticuerpos circulantes) contra toxoides como el del tétanos o la difteria (debido a las dosis previas recibidas a los 2, 4, 6 y 18 meses), una nueva inyección de estos antígenos puede desencadenar una fuerte reacción local mediada por la unión antígeno-anticuerpo que activa el complemento a nivel local de forma exagerada, sin que constituya una infección.",
+    "options": [
+      {
+        "text": "A) Reacción de hipersensibilidad tipo III (Reacción de Arthus), mediada por el depósito de inmunocomplejos locales debido a la presencia de altos títulos de anticuerpos IgG preexistentes contra los toxoides de la vacuna; el manejo consiste en compresas frías, analgésicos orales y educación, debiendo notificarse como ESAVI pero sin contraindicar futuras dosis.",
+        "isCorrect": true,
+        "explanation": "La Reacción de Arthus es una reacción de hipersensibilidad local de tipo III. Ocurre típicamente en niños que han recibido múltiples dosis de vacunas que contienen toxoides (como DTPa/dTpa) y que tienen títulos muy altos de anticuerpos IgG circulantes. Al inyectar el antígeno, se forman inmunocomplejos insolubles que precipitan en las paredes de los vasos sanguíneos locales, activando el complemento y provocando una marcada inflamación local (edema, eritema, dolor) a las pocas horas. Es benigna, se maneja de forma sintomática y no impide la vacunación futura (aunque sí se asocia a mayor reactogenicidad local)."
+      },
+      {
+        "text": "B) Celulitis bacteriana necrotizante por inoculación de flora cutánea; requiere debridamiento quirúrgico inmediato en pabellón y antibioterapia endovenosa de amplio espectro.",
+        "isCorrect": false,
+        "explanation": "La celulitis bacteriana severa cursa con signos sistémicos de infección (fiebre alta, compromiso del estado general, leucocitosis) y suele aparecer más tardíamente (después de 48-72 horas). El paciente descrito está afebril y en excelente estado general."
+      },
+      {
+        "text": "C) Shock anafiláctico localizado; requiere la aplicación inmediata de un autoinyector de adrenalina en el deltoides y traslado a UCI pediátrica.",
+        "isCorrect": false,
+        "explanation": "La anafilaxia es una reacción sistémica mediada por IgE (tipo I) que compromete la vía aérea, respiración o circulación; no existe un \"shock anafiláctico localizado\" confinado al brazo sin otros síntomas sistémicos."
+      },
+      {
+        "text": "D) Inyección errónea de la vacuna en el espacio articular; requiere inmovilización del brazo con yeso por 14 días y toma de radiografía de control.",
+        "isCorrect": false,
+        "explanation": "No se trata de una inyección articular; la masa muscular del deltoides a los 6 años es suficiente para recibir una vacuna intramuscular profunda y los síntomas comprometen el tejido celular subcutáneo del brazo de forma difusa, no la articulación del hombro."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante el control sano de los 2 meses, usted atiende a un lactante que presenta una fístula perianal activa con secreción purulenta intermitente, bajo control ambulatorio con Cirugía Infantil. Los padres están muy interesados en adquirir la vacuna contra el Rotavirus por vía privada. Respecto a la administración de esta vacuna oral de virus vivos en este paciente con patología perianal activa, ¿cuál es la conducta correcta?",
+    "hint": "Las vacunas orales contra el rotavirus contienen virus atenuados viables que se excretan en cantidades significativas en las deposiciones del lactante durante las semanas posteriores a la vacunación. El contacto de estos virus vivos con mucosas o tejidos profundos erosionados o con fístulas abiertas representa un riesgo de complicación inflamatoria o infecciosa local.",
+    "options": [
+      {
+        "text": "A) Administrar la vacuna de forma normal; la fístula anal es una patología localizada que no interfiere con la replicación del virus a nivel duodenal.",
+        "isCorrect": false,
+        "explanation": "Ignora el hecho fisiológico de la eliminación fecal de virus vacunal vivo y el riesgo de inflamación local del trayecto fistuloso expuesto a las heces."
+      },
+      {
+        "text": "B) Contraindicar la vacuna de forma absoluta debido al riesgo de que el virus vacunal colonice la fístula y provoque una sepsis fístulo-hematógena.",
+        "isCorrect": false,
+        "explanation": "No causa de forma característica una \"sepsis fístulo-hematógena\" sistémica en lactantes inmunocompetentes, pero sí se asocia a complicaciones locales severas (fistulitis, abscesos locales reactivos)."
+      },
+      {
+        "text": "C) Contraindicar o postergar la administración de la vacuna contra el Rotavirus mientras la fístula perianal permanezca activa y con drenaje, debido a que el virus vacunal se elimina de forma activa por las deposiciones y podría provocar una infección o inflamación severa local en el trayecto fistuloso abierto.",
+        "isCorrect": true,
+        "explanation": "La presencia de una fístula perianal o rectal activa y abierta constituye una precaución o contraindicación relativa importante para la vacuna de Rotavirus. Dado que el virus vacunal vivo se elimina de forma fisiológica por las deposiciones, el paso de deposiciones contaminadas con virus vacunal sobre la fístula expuesta puede causar inflamación grave, retraso en la cicatrización o complicaciones locales. Se recomienda postergar la inmunización hasta la resolución quirúrgica o médica de la fístula."
+      },
+      {
+        "text": "D) Administrar la vacuna por vía intramuscular profunda para evitar el paso del virus por el tracto gastrointestinal inferior.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra el Rotavirus está diseñada exclusivamente para su administración por vía oral; su inyección intramuscular destruiría el inmunógeno y puede causar abscesos estériles severos sin conferir ninguna protección."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un escolar de 9 años con diagnóstico de Leucemia Linfoblástica Aguda, actualmente en fase de mantenimiento de quimioterapia (con recuentos de neutrófilos estables en $1200/\\text{mm}^3$), sufre una raspadura limpia y superficial en la rodilla con una baldosa limpia en el patio de su casa. Su carnet de vacunación escolar indica que recibió la vacuna dTpa en 1° Básico de forma normal (hace 3 años). Respecto a la profilaxis antitetánica en este paciente oncológico, ¿cuál es la conducta correcta?",
+    "hint": "La inmunosupresión interfiere con la capacidad de responder a nuevas vacunas y puede disminuir los títulos de anticuerpos con el tiempo, pero en el manejo agudo de heridas, si el paciente tiene un esquema primario completo y reciente ($<5$ años) y la herida es menor y limpia, las guías internacionales no indican intervenciones inmunológicas adicionales de urgencia.",
+    "options": [
+      {
+        "text": "A) Administrar de forma inmediata una dosis de Inmunoglobulina Antitetánica Humana (IGHET) por su condición de inmunocompromiso.",
+        "isCorrect": false,
+        "explanation": "La inmunoglobulina antitetánica (IGHET) se reserva para heridas altamente tetanígenas (sucias, profundas, contaminadas con tierra o estiércol) en pacientes con vacunación incompleta, desconocida o inmunocomprometidos severos con heridas de alto riesgo, pero no para heridas limpias y superficiales."
+      },
+      {
+        "text": "B) Administrar una dosis de refuerzo de vacuna dTpa hoy, ya que la quimioterapia borra de forma absoluta toda la memoria inmunológica previa.",
+        "isCorrect": false,
+        "explanation": "No es necesario ni útil adelantar refuerzos de dTpa por raspaduras menores superficiales."
+      },
+      {
+        "text": "C) Administrar inmunoglobulina y una dosis de vacuna dT (adulto) en sitios diferentes de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "Sería un sobretratamiento doloroso e innecesario que no aporta beneficio clínico en este tipo de lesión menor."
+      },
+      {
+        "text": "D) No requiere profilaxis antitetánica adicional (ni vacuna ni inmunoglobulina); solo se debe realizar un adecuado lavado con agua y jabón y curación local de la herida, ya que su última dosis de vacuna que contiene toxoide fue hace menos de 5 años y la herida es limpia y superficial.",
+        "isCorrect": true,
+        "explanation": "Ante una herida limpia y superficial, un paciente que tiene antecedentes de un esquema de vacunación contra el tétanos completo y al día (esquema primario completo más dosis de 1° Básico hace 3 años) no requiere profilaxis inmunológica de urgencia (ni toxoide ni inmunoglobulina), independientemente de su estado de inmunocompromiso leve-moderado actual. Solo requiere el manejo estándar de la herida (aseo local)."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 12 meses acude a su control para recibir sus vacunas programáticas, incluyendo la vacuna Tresvírica (virus atenuados de Sarampión, Rubéola y Parotiditis). Durante la entrevista, la madre refiere que el padre del lactante tiene diagnóstico de infección por VIH, pero se encuentra en terapia antirretroviral triterapia con carga viral plasmática persistentemente indetectable y un recuento de linfocitos CD4 de $650/\\text{mm}^3$. Respecto a la inmunización del lactante con la vacuna Tresvírica, ¿cuál es la conducta correcta?",
+    "hint": "Los virus de la vacuna Tresvírica (SRP) se replican de forma atenuada en el vacunado y no se excretan ni se transmiten a los contactos domiciliarios. Proteger a los contactos sanos de personas con VIH mediante vacunas seguras es una estrategia clave para evitar brotes familiares de sarampión o rubéola.",
+    "options": [
+      {
+        "text": "A) Contraindicar la vacuna Tresvírica en el lactante por riesgo de transmisión viral de la cepa vacunal al padre VIH (+).",
+        "isCorrect": false,
+        "explanation": "Es un error conceptual; no hay excreción ni contagio persona-persona de los componentes de la vacuna SRP."
+      },
+      {
+        "text": "B) Administrar la vacuna Tresvírica de forma normal hoy al lactante, ya que los virus de la vacuna no se transmiten de persona a persona y la vacunación del entorno familiar protege de forma indirecta al padre (efecto capullo).",
+        "isCorrect": true,
+        "explanation": "La vacunación con Tresvírica (SRP) en contactos sanos de personas inmunocomprometidas o con VIH es segura y altamente recomendada. No existe riesgo de transmisión de los virus vacunales de sarampión, rubéola o parotiditis a los convivientes. Es prioritario vacunar al lactante para crear un \"capullo inmunológico\" que proteja al hogar."
+      },
+      {
+        "text": "C) Reemplazar la vacuna Tresvírica por inmunoglobulina intravenosa mensual en el lactante para evitar la exposición familiar a virus vivos.",
+        "isCorrect": false,
+        "explanation": "La inmunoglobulina no sustituye al esquema de inmunización activa del lactante sano."
+      },
+      {
+        "text": "D) Postergar la vacuna Tresvírica del lactante hasta que el padre alcance la curación virológica definitiva de la infección por VIH.",
+        "isCorrect": false,
+        "explanation": "La infección por VIH actualmente no tiene una cura virológica definitiva que erradique el virus de forma masiva, pero sí se logra un control excelente con TARV. Postergar la vacuna de forma indefinida desprotege peligrosamente al lactante."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "¿Cuál de las siguientes vacunas contenidas en el Programa Nacional de Inmunizaciones (PNI) de Chile corresponde a una formulación compuesta exclusivamente por bacterias vivas atenuadas?",
+    "hint": "La gran mayoría de las vacunas bacterianas modernas utilizan fragmentos de la bacteria (como azúcares de la cápsula en las conjugadas) o toxinas inactivadas (toxoides) para evitar efectos adversos. Solo una vacuna clásica e histórica del recién nacido sigue utilizando una cepa de micobacteria viva debilitada.",
+    "options": [
+      {
+        "text": "A) Vacuna Hexavalente acelular.",
+        "isCorrect": false,
+        "explanation": "La vacuna Hexavalente contiene toxoides inactivados (Difteria, Tétanos), fragmentos purificados (Tos Convulsiva acelular), subunidades recombinantes (Hepatitis B) y virus inactivados muertos (Poliomielitis tipo Salk); no contiene bacterias vivas."
+      },
+      {
+        "text": "B) Vacuna Neumocócica Conjugada 13-valente.",
+        "isCorrect": false,
+        "explanation": "La vacuna Neumocócica Conjugada contiene polisacáridos capsulares purificados de 13 serotipos de Streptococcus pneumoniae unidos a una proteína portadora; no contiene bacterias vivas."
+      },
+      {
+        "text": "C) Vacuna BCG.",
+        "isCorrect": true,
+        "explanation": "La vacuna BCG (Bacilo de Calmette-Guérin) está compuesta por una cepa atenuada de la bacteria viva Mycobacterium bovis. Al inocularse, provoca una infección local benigna que estimula una potente respuesta inmune mediada por células (linfocitos T) para proteger contra la tuberculosis extrapulmonar grave."
+      },
+      {
+        "text": "D) Vacuna Meningocócica Conjugada Tetravalente.",
+        "isCorrect": false,
+        "explanation": "La vacuna Meningocócica Conjugada Tetravalente contiene polisacáridos capsulares purificados de los serogrupos A, C, W e Y conjugados; no contiene bacterias vivas."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 4 meses con diagnóstico de Tetralogía de Fallot severa no corregida, en control regular con Cardiología Infantil, acude a su control en el vacunatorio. Los padres consultan sobre la administración de sus vacunas de los 4 meses y la campaña de prevención respiratoria invernal. ¿Cuál es la indicación correcta en este paciente?",
+    "hint": "Los niños con cardiopatías congénitas hemodinámicamente significativas o cianóticas tienen un riesgo sumamente elevado de descompensación hemodiámica y muerte ante infecciones respiratorias comunes como el VRS, la influenza o el neumococo. Su calendario de vacunas debe cumplirse estrictamente para evitar estas complicaciones.",
+    "options": [
+      {
+        "text": "A) Administrar de forma normal sus vacunas de los 4 meses (Hexavalente, Neumocócica y Meningococo B) y asegurar que reciba el anticuerpo monoclonal Nirsevimab contra el VRS según los criterios de su cardiopatía, además de indicar la vacuna contra la Influenza a partir de los 6 meses de vida.",
+        "isCorrect": true,
+        "explanation": "Los pacientes con cardiopatías congénitas severas o cianóticas deben recibir de forma rigurosa y puntual todo su calendario sistemático del PNI. Adicionalmente, califican de forma prioritaria para la inmunoprofilaxis pasiva contra el VRS con el anticuerpo monoclonal Nirsevimab y deben recibir la vacuna de Influenza de forma anual a partir de los 6 meses de vida para evitar descompensaciones por cuadros respiratorios agudos."
+      },
+      {
+        "text": "B) Suspender las vacunas intramusculares de los 4 meses por riesgo de desencadenar una crisis de cianosis refleja severa por dolor.",
+        "isCorrect": false,
+        "explanation": "El dolor físico leve de las punciones puede manejarse con medidas de analgesia no farmacológica (tetanalgesia, contención) y no justifica suspender las vacunas, lo cual los dejaría expuestos a infecciones bacterianas letales como la tos convulsiva o la meningitis por meningococo."
+      },
+      {
+        "text": "C) Contraindicar la vacuna de Influenza de forma definitiva por el riesgo de inducir miocarditis vacunal en su corazón cardiópata.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la Influenza es segura en cardiopatías y es una recomendación universal para reducir hospitalizaciones y mortalidad cardiovascular en este grupo de alto riesgo respiratorio."
+      },
+      {
+        "text": "D) Administrar únicamente vacunas por vía oral y contraindicar todas las vacunas inyectables hasta después de la cirugía correctora intracardíaca.",
+        "isCorrect": false,
+        "explanation": "No existe fundamento clínico para contraindicar vacunas inyectables en cardiópatas; postergar la inmunización hasta la cirugía (que puede ser a los 6-12 meses o más) los desprotege durante su periodo de mayor vulnerabilidad inmunológica."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante una ronda médica, un estudiante le pregunta por qué el Ministerio de Salud incorporó la dosis monovalente de la vacuna contra la Hepatitis B en las primeras 24 horas de vida de todos los recién nacidos, si en Chile la prevalencia general de Hepatitis B es catalogada como baja-intermedia y la mayoría de las gestantes tienen serología negativa. ¿Cuál es el principal fundamento de salud pública para esta estrategia?",
+    "hint": "La probabilidad de que una infección por el virus de la Hepatitis B (VHB) se cronifique es inversamente proporcional a la edad de adquisición. Los recién nacidos y lactantes infectados tienen un sistema inmune inmaduro que tolera al virus en lugar de depurarlo, generando portación crónica en la inmensa mayoría de los casos.",
+    "options": [
+      {
+        "text": "A) Porque la vacuna al nacer actúa de forma sinérgica con la BCG para potenciar la respuesta de anticuerpos contra la tuberculosis pulmonar.",
+        "isCorrect": false,
+        "explanation": "No existe sinergia inmunológica cruzada entre la vacuna BCG y la de Hepatitis B; actúan por vías inmunes totalmente independientes."
+      },
+      {
+        "text": "B) Para cumplir con los requisitos internacionales de la OMS, sin que exista un beneficio clínico directo real para los lactantes de madres sanas en nuestro país.",
+        "isCorrect": false,
+        "explanation": "Sí existe un enorme beneficio clínico directo; la dosis universal del recién nacido ha demostrado reducir drásticamente la tasa de portación crónica y el hepatocarcinoma a nivel poblacional en todo el mundo."
+      },
+      {
+        "text": "C) Debido a que previene brotes masivos de hepatitis B en las salas cuna hospitalarias por transmisión aérea.",
+        "isCorrect": false,
+        "explanation": "El virus de la Hepatitis B no se transmite por vía aérea; se transmite por vía parenteral, sexual o vertical. No hay brotes de transmisión aérea de Hepatitis B en salas cuna."
+      },
+      {
+        "text": "D) Para asegurar la prevención de la transmisión vertical (materno-fetal) y de la transmisión intrafamiliar temprana en el lactante pequeño, periodo en el cual la adquisición de la infección por virus de la Hepatitis B progresa a un estado de portador crónico en hasta el $90\\%$ de los casos, con alto riesgo posterior de cirrosis y hepatocarcinoma en la adultez.",
+        "isCorrect": true,
+        "explanation": "El objetivo principal de la dosis de Hepatitis B del recién nacido es cortar la cadena de transmisión vertical (que puede ocurrir por microtransfusiones intraparto o exposición a secreciones vaginales infectadas, incluso con tamizajes maternos falsos negativos) y de transmisión intrafamiliar en los primeros meses. Adquirir el VHB en el periodo neonatal o de lactante pequeño conlleva un riesgo del $90\\%$ de desarrollar infección crónica y portación activa de por vida, lo que evoluciona a cirrosis y carcinoma hepatocelular en la adultez joven. La vacuna administrada en las primeras $12\\text{-}24\\text{ horas}$ previene esta evolución con una eficacia superior al $95\\%$."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un escolar de 13 años (8° Básico) es vacunado con la dosis de refuerzo de la vacuna dTpa acelular en su colegio. Al día siguiente, la madre llama muy preocupada al CESFAM refiriendo que el menor presenta febrícula de $37.8^\\circ\\text{C}$ axilar, dolor moderado y eritema de $3\\text{ cm}$ en el brazo vacunado que le dificulta levantar el brazo, y decaimiento leve. ¿Cuál es la indicación de educación y manejo más adecuada para esta madre?",
+    "hint": "La vacuna dTpa acelular en adolescentes es altamente reactogénica debido a la memoria inmunológica previa de las vacunas recibidas en la infancia. Las reacciones locales y sistémicas leves autolimitadas en las primeras $24\\text{-}48\\text{ horas}$ post-vacuna son la norma y no requieren alarmar a la familia ni intervenciones invasivas.",
+    "options": [
+      {
+        "text": "A) Indicarle que acuda de inmediato a la urgencia hospitalaria más cercana por sospecha de reacción anafiláctica tardía grave.",
+        "isCorrect": false,
+        "explanation": "La anafilaxia no cursa con febrícula ni dolor local aislado a las 24 horas; es una emergencia de instalación ultra-rápida (minutos) con colapso cardiovascular o compromiso respiratorio severo."
+      },
+      {
+        "text": "B) Explicar que la febrícula, el dolor y el eritema localizado son reacciones adversas (ESAVI) comunes, autolimitadas y esperables que demuestran la activación de sus defensas. Indicar paracetamol $500\\text{ mg}$ cada 8 horas si presenta dolor persistente, aplicar compresas frías locales en el brazo, no masajear la zona y observar evolución.",
+        "isCorrect": true,
+        "explanation": "El manejo de las reacciones post-vacunales comunes (dolor local, eritema leve a moderado, febrícula y malestar general transitorio) se basa en medidas de confort físico (compresas frías locales) y analgésicos/antipiréticos comunes de venta libre (como paracetamol o ibuprofeno). Se debe tranquilizar a la madre explicando que los síntomas desaparecerán espontáneamente en un par de días."
+      },
+      {
+        "text": "C) Indicar que debe iniciar amoxicilina $500\\text{ mg}$ cada 12 horas por vía oral para prevenir una celulitis infecciosa del deltoides.",
+        "isCorrect": false,
+        "explanation": "El eritema local y el dolor a las 24 horas post-vacuna corresponden a una inflamación inmunológica aséptica normal, no a una infección bacteriana. El uso de antibióticos preventivos está contraindicado."
+      },
+      {
+        "text": "D) Explicar que el menor no puede realizar actividad física ni bañarse por las próximas 2 semanas para evitar la diseminación sistémica de la vacuna.",
+        "isCorrect": false,
+        "explanation": "No existe contraindicación para el baño diario normal (el cual favorece la higiene de la piel sitio de punción) ni se requiere reposo físico tan prolongado de 2 semanas, solo se aconseja evitar esfuerzos intensos con el brazo afectado si presenta dolor agudo en las primeras 48 horas."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 18 meses acude al vacunatorio para recibir sus vacunas correspondientes (Hexavalente, Hepatitis A, Varicela y Meningococo B). Su madre refiere con temor que hace un mes el lactante presentó una crisis convulsiva tónico-clónica generalizada de 3 minutos de duración en el contexto de una faringitis aguda con fiebre de $39.5^\\circ\\text{C}$, catalogada en la urgencia como \"convulsión febril simple\". Pregunta si es seguro vacunar al niño hoy. ¿Cuál es la conducta y recomendación médica correcta?",
+    "hint": "Las convulsiones febriles simples son eventos benignos de la infancia y no se asocian a daño neurológico ni a epilepsia. Si bien la fiebre post-vacunación puede gatillar una nueva convulsión febril en niños predispuestos, el riesgo de no vacunar y contraer enfermedades graves que cursan con fiebre alta (como coqueluche o varicela) es muchísimo mayor.",
+    "options": [
+      {
+        "text": "A) Contraindicar de forma definitiva todas las vacunas inyectables por el riesgo de inducir epilepsia refractaria postvacunal.",
+        "isCorrect": false,
+        "explanation": "Las vacunas no causan epilepsia de forma primaria; el retraso vacunal desprotege al menor contra patógenos que causan encefalitis o meningitis reales (como neumococo o varicela)."
+      },
+      {
+        "text": "B) Postergar la vacunación completa hasta que el menor cumpla los 5 años de edad y haya superado la ventana de riesgo de convulsiones febriles.",
+        "isCorrect": false,
+        "explanation": "Postergar las vacunas hasta los 5 años dejaría al menor sin protección inmunológica fundamental durante la etapa de mayor susceptibilidad a infecciones graves de la primera infancia."
+      },
+      {
+        "text": "C) Administrar todas las vacunas correspondientes a los 18 meses de forma normal hoy, explicando que el antecedente de convulsión febril simple no contraindica ninguna vacuna; aconsejar un control estricto de la temperatura axilar y usar paracetamol ante alzas febriles en las primeras $48\\text{ horas}$ o entre los 7-10 días (ventana de fiebre por vacunas de virus vivos).",
+        "isCorrect": true,
+        "explanation": "El antecedente de convulsión febril (simple o compleja) no constituye una contraindicación para ninguna vacuna del PNI. Se debe vacunar al lactante de forma normal, educando a los padres sobre el control de temperatura post-vacuna. Cabe destacar que con las vacunas de virus vivos (como Varicela), la fiebre puede aparecer de forma tardía entre los 5 y 12 días post-vacuna debido al periodo de replicación viral atenuada."
+      },
+      {
+        "text": "D) Reemplazar la vacuna Hexavalente acelular por tres dosis de vacuna antipoliomielítica oral para evitar efectos adversos neurológicos.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la polio oral ya no se utiliza en Chile y no tiene relación con el manejo del antecedente de convulsión febril."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 12 meses de vida acude a su control sano. Al revisar su carnet de vacunación, usted constata que recibió la 1ª dosis de vacuna Meningocócica Recombinante Serogrupo B (Bexsero) a los 2 meses y la 2ª dosis a los 4 meses según el calendario programático. ¿A qué edad le corresponde recibir la dosis de refuerzo (3ª dosis) de esta vacuna en el PNI actual?",
+    "hint": "La vacuna contra el Meningococo B se introdujo al PNI de Chile con un esquema de lactante menor de dos dosis iniciales y una dosis de refuerzo que coincide con el hito de vacunación del año y medio de vida.",
+    "options": [
+      {
+        "text": "A) A los 6 meses de vida, junto con la Hexavalente.",
+        "isCorrect": false,
+        "explanation": "A los 6 meses se completa el esquema primario de la vacuna Hexavalente, pero no corresponde vacuna de meningococo B."
+      },
+      {
+        "text": "B) Al año de vida (12 meses) de forma simultánea con la Tresvírica.",
+        "isCorrect": false,
+        "explanation": "A los 12 meses corresponde recibir la vacuna Meningocócica Conjugada Tetravalente (A, C, W, Y) (Nimenrix), pero no el refuerzo de Meningococo B."
+      },
+      {
+        "text": "C) A los 36 meses (3 años) junto con la segunda dosis de Varicela.",
+        "isCorrect": false,
+        "explanation": "A los 36 meses corresponde recibir Tresvírica y Varicela, pero no meningococo B."
+      },
+      {
+        "text": "D) A los 18 meses de vida, de forma combinada con el refuerzo de Hexavalente, Hepatitis A y Varicela.",
+        "isCorrect": true,
+        "explanation": "El esquema oficial del PNI para la vacuna Meningocócica recombinante contra el serogrupo B (Bexsero) es de 3 dosis en total: esquema primario de 2 dosis a los 2 meses y 4 meses de vida, y una dosis de refuerzo única a los 18 meses de vida."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Respecto a la inmunización contra la Poliomielitis contenida en el PNI de Chile en el año 2026, ¿cuál de las siguientes afirmaciones describe de forma correcta la formulación y la vía de administración utilizada de forma universal y exclusiva en el país para toda la población infantil?",
+    "hint": "Para eliminar por completo el riesgo de poliomielitis asociada a la vacuna (parálisis flácida causada por la mutación y reversión de la cepa viral atenuada de la vacuna oral), Chile y la mayoría de los países con altas coberturas de vacunación migraron de forma definitiva al esquema de vacuna 100% inactivada e inyectable.",
+    "options": [
+      {
+        "text": "A) Se utiliza exclusivamente la Vacuna Antipoliomielítica Inactivada (VIP / tipo Salk) por vía intramuscular, contenida de forma combinada en la vacuna Hexavalente.",
+        "isCorrect": true,
+        "explanation": "En Chile, la vacunación contra la poliomielitis se realiza de forma exclusiva con la Vacuna Antipoliomielítica Inactivada (VIP, tipo Salk), administrada por vía intramuscular como parte de la vacuna combinada Hexavalente a los 2, 4, 6 y 18 meses de vida. Ya no se utiliza la vacuna oral de virus vivos (Sabin/VOP) en el territorio nacional."
+      },
+      {
+        "text": "B) Se administra la vacuna oral de virus vivos atenuados (VOP / tipo Sabin) en gotas a los 2, 4 y 6 meses.",
+        "isCorrect": false,
+        "explanation": "Describe el esquema histórico de vacunación oral, el cual ya fue descontinuado por el MINSAL para evitar el riesgo de parálisis asociada a la vacuna oral y la poliomielitis derivada de la vacuna."
+      },
+      {
+        "text": "C) Se utiliza un esquema mixto: vacuna inyectable VIP a los 2 meses y vacuna oral VOP a los 4 y 6 meses.",
+        "isCorrect": false,
+        "explanation": "Describe el \"esquema secuencial de transición\" que se utilizó temporalmente en Chile hace unos años, pero actualmente la transición se completó hacia un esquema 100% VIP (inactivado)."
+      },
+      {
+        "text": "D) Se eliminó la vacunación contra la polio del PNI debido a que la enfermedad fue declarada erradicada a nivel mundial.",
+        "isCorrect": false,
+        "explanation": "Aunque la poliomielitis salvaje está erradicada en las Américas, la vacunación debe continuar de forma estricta ya que persisten casos importados de poliovirus salvaje en otros continentes y virus circulantes derivados de vacunas."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 2 meses asiste al vacunatorio privado de una clínica. Presenta una dermatitis del pañal severa con eritema confluente marcado, pápulas satélites y pequeñas erosiones sangrantes en la región perineal y glútea compatibles con una candidiasis del pañal severa sobreinfectada. Sus padres desean administrarle la vacuna oral contra el Rotavirus hoy. ¿Cuál es la conducta y precaución correcta?",
+    "hint": "La dermatitis del pañal no es una contraindicación para la vacuna oral de Rotavirus. Sin embargo, dado que el virus de la vacuna se elimina por vía fecal y es un virus vivo viable, el contacto directo de las deposiciones con la piel lesionada del lactante o con las manos de los cuidadores sin higiene adecuada representa el riesgo de complicaciones cutáneas locales.",
+    "options": [
+      {
+        "text": "A) Contraindicar la vacuna de Rotavirus de forma absoluta debido a que el virus puede absorberse a través de las erosiones perineales y causar una infección diseminada.",
+        "isCorrect": false,
+        "explanation": "No causa una \"infección diseminada sistémica\" en lactantes inmunocompetentes, pero sí puede irritar o causar inflamación local en las zonas de piel denudada."
+      },
+      {
+        "text": "B) Postergar todas las vacunas inyectables del calendario de los 2 meses hasta que la piel de la zona del pañal esté completamente sana.",
+        "isCorrect": false,
+        "explanation": "Las vacunas inyectables de los 2 meses se administran en los muslos (vasto lateral), por lo que la dermatitis del pañal no interfiere con su colocación segura."
+      },
+      {
+        "text": "C) Administrar la vacuna oral contra el Rotavirus de forma normal hoy, pero realizar una consejería estricta a los cuidadores sobre el lavado de manos riguroso inmediato tras cada cambio de pañales durante las próximas 2 a 4 semanas para evitar la autoinoculación y sobreinfección de las lesiones cutáneas de la piel del lactante con el virus vacunal eliminado en las deposiciones.",
+        "isCorrect": true,
+        "explanation": "La dermatitis del pañal (incluso severa o erosiva) no contraindica la vacuna oral contra el Rotavirus. Se puede administrar la vacuna, pero es fundamental educar de forma enérgica a los padres sobre el lavado de manos post-cambio de pañales y la aplicación de cremas de barrera gruesas en las erosiones del lactante para proteger su piel lesionada del contacto con las heces cargadas con virus vacunal durante el periodo de eliminación viral."
+      },
+      {
+        "text": "D) Mezclar la vacuna de Rotavirus con crema de óxido de zinc antes de su administración oral para mejorar la tolerancia gástrica del lactante.",
+        "isCorrect": false,
+        "explanation": "Está contraindicado mezclar vacunas orales con cualquier tipo de sustancia, crema, alimento o fórmula láctea; se administran directamente por vía oral tal como vienen del fabricante."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 18 meses acude a su control para recibir sus vacunas programáticas, incluyendo la primera dosis de la vacuna contra la Varicela (atenuada). Al revisar sus antecedentes hospitalarios, se constata que hace exactamente 4 meses recibió una transfusión de $150\\text{ ml}$ de glóbulos rojos concentrados en el contexto de una anemia aguda severa secundaria a una hemorragia digestiva. ¿Cuál es la conducta correcta respecto a la administración de la vacuna contra la Varicela hoy?",
+    "hint": "Los productos sanguíneos (sangre total, glóbulos rojos concentrados, plasma, inmunoglobulinas) contienen anticuerpos preformados contra patógenos comunes (como la varicela o el sarampión). Estos anticuerpos circulantes pasivos pueden unirse y neutralizar los virus vivos de vacunas atenuadas (como Varicela o Tresvírica) antes de que estos puedan replicarse y estimular al sistema inmune del lactante. Por esto, se requiere un intervalo de espera estricto tras recibir hemoderivados.",
+    "options": [
+      {
+        "text": "A) Administrar la vacuna contra la Varicela de forma normal hoy; las transfusiones de sangre no interfieren con la respuesta inmune de ninguna vacuna.",
+        "isCorrect": false,
+        "explanation": "Ignora el fenómeno farmacológico e inmunológico de interferencia por anticuerpos pasivos transfundidos, lo que resultaría en una dosis de vacuna ineficaz (oportunidad perdida de inmunización real)."
+      },
+      {
+        "text": "B) Postergar la administración de la vacuna contra la Varicela por al menos 1 a 2 meses adicionales (completar un intervalo mínimo de 5 a 6 meses post-transfusión de glóbulos rojos), debido a que los anticuerpos pasivos presentes en la sangre transfundida pueden interferir con la replicación del virus vacunal atenuado y disminuir o anular la eficacia inmunogénica de la vacuna.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a las pautas de vacunación en situaciones especiales, la administración de vacunas de virus vivos atenuados (Varicela y Tresvírica) debe ser postergada tras la recepción de hemoderivados (sangre, plasma, inmunoglobulinas). El tiempo de espera varía entre 3 y 11 meses según el tipo de producto y la dosis de anticuerpos administrada (para glóbulos rojos concentrados lavados o estándar, el intervalo mínimo de espera suele ser de 5 a 6 meses) para asegurar que los anticuerpos transfundidos se hayan depurado y no interfieran con la replicación viral vacunal necesaria para generar inmunidad activa propia."
+      },
+      {
+        "text": "C) Administrar hoy dos dosis simultáneas de vacuna contra la Varicela en sitios diferentes para vencer la interferencia de los anticuerpos transfundidos.",
+        "isCorrect": false,
+        "explanation": "Duplicar la dosis de vacuna el mismo día no soluciona el problema de la neutralización por anticuerpos circulantes y aumenta la tasa de reacciones adversas locales."
+      },
+      {
+        "text": "D) Contraindicar la vacuna de Varicela de forma permanente; este lactante ya no podrá recibir vacunas atenuadas de por vida.",
+        "isCorrect": false,
+        "explanation": "No es una contraindicación permanente; una vez transcurrido el tiempo de depuración de los anticuerpos pasivos transfundidos, el lactante puede y debe recibir sus vacunas atenuadas de forma segura y eficaz."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "¿Contra qué tipo de manifestaciones clínicas y patógenas protege de forma específica la fracción de Poliomielitis Inactivada (VIP) contenida en la vacuna combinada Hexavalente del PNI?",
+    "hint": "El poliovirus es un enterovirus que posee tres serotipos antigénicamente distintos (1, 2 y 3). La vacuna inactivada tipo Salk (VIP) incorporada en las formulaciones modernas contiene antígenos purificados muertos de los tres tipos para otorgar protección total contra la mielitis infecciosa destructora de motoneuronas.",
+    "options": [
+      {
+        "text": "A) Exclusivamente contra la parálisis cerebral infantil (PCI) de causa espástica prenatal.",
+        "isCorrect": false,
+        "explanation": "La parálisis cerebral infantil (PCI) es una patología motora crónica no progresiva secundaria a injurias cerebrales pre, peri o postnatales (asfixia, hemorragias, malformaciones); no es causada por el virus de la poliomielitis ni es prevenible por vacunas."
+      },
+      {
+        "text": "B) Contra la meningitis meningocócica y la parálisis flácida secundaria a la infección por enterovirus 71.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la poliomielitis no tiene actividad protectora cruzada contra bacterias (como meningococo) ni contra otros enterovirus (como el EV-71 que causa la enfermedad de manos, pies y boca)."
+      },
+      {
+        "text": "C) Contra la poliomielitis bulbar e intestinal causada únicamente por el virus de la polio tipo 2 de origen salvaje.",
+        "isCorrect": false,
+        "explanation": "Limita la protección solo al serotipo 2, omitiendo los serotipos 1 y 3 que también son causantes de poliomielitis paralítica grave."
+      },
+      {
+        "text": "D) Contra la parálisis flácida aguda y la poliomielitis paralítica causadas por los poliovirus de los serotipos 1, 2 y 3.",
+        "isCorrect": true,
+        "explanation": "La fracción VIP de la vacuna Hexavalente (y la vacuna VIP individual) contiene poliovirus inactivados de los tres serotipos existentes (tipos 1, 2 y 3). Su administración induce la producción de anticuerpos IgG sistémicos que protegen al lactante contra la invasión del sistema nervioso central por el virus, previniendo la destrucción de las neuronas motoras de la médula espinal que causa la parálisis flácida aguda y la poliomielitis paralítica bulbar o espinal."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un escolar de 7 años con antecedentes de esferocitosis hereditaria grave es programado para someterse a una esplenectomía total electiva en un mes más. Respecto a la indicación de inmunizaciones especiales o extras para este paciente por su condición de asplenia quirúrgica futura, ¿cuál es la conducta médica correcta?",
+    "hint": "El bazo es el principal órgano linfático encargado de filtrar y depurar bacterias encapsuladas de la sangre (como Streptococcus pneumoniae, Neisseria meningitidis y Haemophilus influenzae) mediante mecanismos de opsonización y fagocitosis. Los pacientes asplénicos tienen un riesgo altísimo de sepsis fulminante por estos gérmenes, por lo que requieren \"super-inmunización\" activa profiláctica antes de perder el órgano.",
+    "options": [
+      {
+        "text": "A) Administrar de forma prioritaria la vacuna Meningocócica Conjugada Tetravalente, la vacuna contra el Meningococo B, la vacuna Neumocócica Conjugada y un refuerzo de Neumocócica Polisacárida 23-valente (Neumo-23) al menos 2 semanas antes de la cirugía.",
+        "isCorrect": true,
+        "explanation": "Los pacientes asplénicos o que se someterán a esplenectomía programada tienen indicación estricta de recibir inmunización profiláctica de refuerzo contra bacterias encapsuladas. Lo ideal es administrar la vacuna Neumocócica Conjugada de amplio espectro, Neumo-23 (polisacárido), vacunas Meningocócicas (tanto la tetravalente ACWY como la del serogrupo B) e Influenza, idealmente al menos 14 días antes de la intervención quirúrgica para asegurar una respuesta óptima de anticuerpos sistémicos circulantes."
+      },
+      {
+        "text": "B) Contraindicar de forma definitiva toda vacuna que contenga polisacáridos o proteínas bacterianas por el riesgo de inducir esplenomegalia masiva pre-operatoria.",
+        "isCorrect": false,
+        "explanation": "Es un error conceptual; las vacunas no producen esplenomegalia masiva pre-operatoria ni complican la técnica quirúrgica. Al contrario, son el pilar de la prevención de la sepsis post-esplenectomía (OPSI), la cual tiene una letalidad de hasta el $50\\%$."
+      },
+      {
+        "text": "C) Postergar todas las vacunas especiales hasta que se cumpla un año de la cirugía para permitir que el hígado asuma las funciones inmunológicas del bazo.",
+        "isCorrect": false,
+        "explanation": "Vacunar después de la esplenectomía es menos eficaz porque se pierde la principal estación de presentación de antígenos (el bazo), y se expone al paciente a un periodo post-operatorio inicial sin anticuerpos protectores contra sepsis fulminante."
+      },
+      {
+        "text": "D) No requiere vacunas adicionales a las de su calendario sistemático escolar, ya que la esplenectomía no modifica la susceptibilidad a bacterias encapsuladas en niños mayores de 5 años.",
+        "isCorrect": false,
+        "explanation": "Desconoce la inmunobiología del bazo. Los pacientes asplénicos de cualquier edad tienen un riesgo de por vida extremadamente elevado de bacteriemia y meningitis por bacterias encapsuladas, requiriendo esquemas ampliados no contemplados en el calendario escolar general."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Usted se encuentra supervisando a un estudiante que se dispone a administrar la vacuna contra la Hepatitis A a un lactante de 18 meses. Respecto a la técnica de administración correcta recomendada para este inmunógeno específico en el PNI, ¿cuál de las siguientes opciones describe la vía y el sitio anatómico adecuado?",
+    "hint": "La vacuna contra la Hepatitis A es una vacuna inactivada de subunidades adsorbida en hidróxido de aluminio como adyuvante. Los adyuvantes de aluminio requieren de forma obligatoria ser inyectados en el tejido muscular profundo; su inyección superficial (subcutánea o intradérmica) se asocia a dolor severo, necrosis grasa local y formación de nódulos o abscesos estériles persistentes.",
+    "options": [
+      {
+        "text": "A) Vía intradérmica en la cara externa del deltoides izquierdo con aguja de calibre 27G.",
+        "isCorrect": false,
+        "explanation": "La vía intradérmica es exclusiva para la vacuna BCG al nacer; ninguna otra vacuna programática del lactante utiliza esta vía."
+      },
+      {
+        "text": "B) Vía subcutánea en la región del tríceps del brazo derecho con aguja de calibre 25G.",
+        "isCorrect": false,
+        "explanation": "La vía subcutánea se reserva para vacunas vivas atenuadas que no contienen adyuvantes de aluminio (como Tresvírica y Varicela). Inyectar la vacuna de Hepatitis A por vía subcutánea puede causar necrosis local e induración persistente dolorosa."
+      },
+      {
+        "text": "C) Vía intramuscular profunda en el tercio medio de la cara anterolateral del muslo (músculo vasto lateral) o en el músculo deltoides (según masa muscular disponible), utilizando aguja de calibre 22-25G de longitud adecuada.",
+        "isCorrect": true,
+        "explanation": "La vacuna contra la Hepatitis A en Chile se administra estrictamente por vía intramuscular profunda. En lactantes de 18 meses, el sitio de elección puede ser el tercio medio del músculo vasto lateral de la cara anterolateral del muslo o el músculo deltoides en el brazo si el niño ya camina de forma establecida y tiene suficiente masa muscular deltoidea. Se debe evitar la vía subcutánea para prevenir reacciones adversas por el adyuvante de aluminio."
+      },
+      {
+        "text": "D) Vía oral mediante la instilación lenta de las gotas de la vacuna en el fondo de la boca del lactante.",
+        "isCorrect": false,
+        "explanation": "No existe vacuna de Hepatitis A por vía oral; las vacunas orales se limitan a Rotavirus y en el pasado a Polio oral Sabin."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un lactante de 2 meses con diagnóstico prenatal de Síndrome de Down (Trisomía 21) y antecedente de canal auriculoventricular completo corregido quirúrgicamente hace un mes, se encuentra actualmente estable, afebril, con buen incremento ponderal y cursando con un cuadro leve de coriza nasal cristalina (resfrío común afebril). Sus padres asisten al CESFAM para su control de vacunas. ¿Cuál es la conducta correcta?",
+    "hint": "Los niños con Síndrome de Down tienen una susceptibilidad inmunológica aumentada a infecciones bacterianas y respiratorias debido a disfunciones leves del sistema inmune y alteraciones anatómicas de la vía aérea. Las cirugías cardíacas exitosas y compensadas no impiden la inmunización; al contrario, hacen que sea urgente protegerlos.",
+    "options": [
+      {
+        "text": "A) Suspender todas las vacunas inyectables por 6 meses adicionales dado su antecedente de cirugía cardíaca mayor y Trisomía 21.",
+        "isCorrect": false,
+        "explanation": "Diferir las vacunas de forma arbitraria desprotege al lactante con Síndrome de Down durante un periodo crítico de alta vulnerabilidad respiratoria post-quirúrgica."
+      },
+      {
+        "text": "B) Administrar de forma normal hoy sus vacunas de los 2 meses (Hexavalente, Neumocócica y Meningococo B), ya que el Síndrome de Down, la cardiopatía corregida compensada y el resfrío común afebril no contraindican la inmunización.",
+        "isCorrect": true,
+        "explanation": "Los niños con Síndrome de Down y cardiopatías compensadas deben recibir sus vacunas según el calendario regular por edad cronológica sin retrasos. El resfrío común afebril (rinorrea clara aislada) es una \"falsa contraindicación\" clásica. Administrar las vacunas a los 2 meses los protege contra la tos convulsiva, el neumococo y el meningococo B, patógenos que son altamente peligrosos para este grupo de pacientes."
+      },
+      {
+        "text": "C) Administrar únicamente la vacuna Hexavalente y postergar las vacunas bacterianas conjugadas por riesgo de reacciones febriles severas.",
+        "isCorrect": false,
+        "explanation": "No existe recomendación de fraccionar el esquema de los 2 meses en cardiópatas estables; las reacciones febriles se controlan de forma convencional con paracetamol si aparecen."
+      },
+      {
+        "text": "D) Reemplazar las vacunas del consultorio por inmunoglobulina polivalente intravenosa en dosis única por sospecha de inmunodeficiencia celular severa de base.",
+        "isCorrect": false,
+        "explanation": "El Síndrome de Down no se asocia de forma rutinaria a inmunodeficiencias celulares severas combinadas que impidan las vacunas inactivadas de los 2 meses; no requiere inmunoglobulinas de reemplazo en lugar de las vacunas programáticas."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Un adolescente de 14 años que cursa actualmente 8° Básico asiste al consultorio con su madre. Al revisar sus antecedentes, constata que el año anterior (cuando cursaba 7° Básico) no asistió al colegio el día de la campaña de vacunación escolar y tampoco registra la administración de la vacuna dTpa de 1° Básico por haber vivido en el extranjero en un país con esquema diferente. Respecto a la dosis de dTpa escolar omitida, ¿cuál es la conducta correcta?",
+    "hint": "El principio rector de los esquemas atrasados es: \"Completar dosis pendientes con el antígeno correspondiente a la edad actual del paciente\". Los escolares adolescentes toleran perfectamente la formulación acelular (dTpa) diseñada para adultos y niños mayores de 4 a 7 años.",
+    "options": [
+      {
+        "text": "A) No se puede vacunar ya que superó la edad estricta de 1° Básico y la dTpa está formalmente contraindicada en mayores de 12 años.",
+        "isCorrect": false,
+        "explanation": "Es falso; la vacuna dTpa está formulada específicamente con menor cantidad de antígeno de difteria y coqueluche (por eso se escribe con \"d\" y \"p\" minúsculas) para ser administrada de forma segura y bien tolerada en adolescentes y adultos, disminuyendo la reactogenicidad local."
+      },
+      {
+        "text": "B) Reiniciar el esquema primario completo de tres dosis de vacuna Hexavalente por vía intramuscular profunda para asegurar la inmunidad contra el coqueluche.",
+        "isCorrect": false,
+        "explanation": "Reiniciar esquemas primarios de Hexavalente de lactante en un adolescente de 14 años es un grave error técnico; la Hexavalente no se administra en mayores de 7 años por su alta reactogenicidad y porque contiene componentes no indicados para la edad."
+      },
+      {
+        "text": "C) Administrar hoy de forma inmediata una dosis de la vacuna dTpa acelular en el deltoides izquierdo para ponerse al día con su refuerzo omitido.",
+        "isCorrect": true,
+        "explanation": "Si un escolar u adolescente tiene omitida o retrasada su dosis de refuerzo escolar de dTpa (la cual se coloca habitualmente en 1° y 8° Básico), se debe administrar una dosis de dTpa de forma inmediata en el vacunatorio para asegurar que reciba su inmunización activa contra Difteria, Tétanos y Tos Convulsiva, sin necesidad de reiniciar esquemas anteriores de la infancia."
+      },
+      {
+        "text": "D) Omitir la vacuna de forma definitiva e indicar que debe esperar hasta los 18 años para recibir la vacuna dT de adulto.",
+        "isCorrect": false,
+        "explanation": "Dejar al escolar desprotegido contra el coqueluche (tos convulsiva) durante la adolescencia (periodo de alta transmisión escolar) es clínicamente riesgoso e injustificado."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Control sano",
+    "topic": "Vacunas",
+    "text": "Durante un taller práctico de enfermería pediátrica, se discute la técnica de administración de vacunas intramusculares en lactantes menores de 12 meses. ¿Cuál es el sitio anatómico de punción preferido y recomendado de forma internacional y por el MINSAL para la administración de vacunas como la Hexavalente o la Neumocócica conjugada en este grupo etario, y cuál es la razón principal de esta elección?",
+    "hint": "El desarrollo de la masa muscular de los lactantes pequeños está concentrado en los miembros inferiores debido a que aún no caminan ni realizan esfuerzos con el tren superior. El músculo glúteo mayor no se desarrolla significativamente hasta que se inicia la marcha de forma sostenida, y su punción precoz tiene un riesgo catastrófico para la movilidad de la extremidad.",
+    "options": [
+      {
+        "text": "A) El cuadrante superior externo del glúteo mayor, debido a la facilidad de inmovilización del lactante.",
+        "isCorrect": false,
+        "explanation": "La inyección en el glúteo está estrictamente prohibida en menores de 12 a 18 meses (o que lleven menos de un año caminando) debido al nulo desarrollo muscular del glúteo a esta edad y al riesgo inaceptablemente alto de lesionar de forma permanente el nervio ciático o vasos glúteos mayores."
+      },
+      {
+        "text": "B) El músculo deltoides en el hombro, porque tiene una menor sensibilidad al dolor y evita la cojera postvacunación.",
+        "isCorrect": false,
+        "explanation": "El músculo deltoides en lactantes menores de un año es extremadamente pequeño y delgado; la inyección intramuscular en esta zona puede golpear el periostio del húmero o inyectar la vacuna en el tejido subcutáneo, reduciendo su eficacia y causando dolor severo."
+      },
+      {
+        "text": "C) El músculo vasto lateral de la cara anterolateral del muslo (tercio medio), debido a que es el área muscular de mayor desarrollo y volumen en el lactante menor de un año, carece de vasos sanguíneos mayores o troncos nerviosos importantes (como el nervio ciático) y se asocia a un menor riesgo de lesión neurovascular.",
+        "isCorrect": true,
+        "explanation": "En menores de 12 meses, la vía intramuscular tiene como sitio de punción de elección exclusiva el tercio medio de la cara anterolateral del muslo (músculo vasto lateral). Es el músculo más grande y desarrollado a esta edad, libre de estructuras vasculares o nerviosas mayores. Su uso minimiza el riesgo de complicaciones graves y asegura una adecuada absorción del inmunógeno."
+      },
+      {
+        "text": "D) El tejido celular subcutáneo de la región periumbilical abdominal, por su excelente tasa de absorción linfática.",
+        "isCorrect": false,
+        "explanation": "Describe el sitio de inyección de medicamentos subcutáneos como la insulina o la heparina, pero no es bajo ningún concepto un sitio para la administración de vacunas intramusculares profundas."
+      }
+    ]
+  }
+]
