@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 18 meses presenta tos perruna, disfonía y estridor inspiratorio leve que se acentúa únicamente con el llanto o la agitación. Su madre refiere que comenzó con un cuadro de resfrío común hace dos días. Al examen físico destaca una frecuencia respiratoria de $32\\text{ rpm}$ y saturación de oxígeno de $96\\%$ al aire ambiente. ¿Cuál es el agente etiológico más frecuentemente implicado en esta patología?",
+    "hint": "Este virus de la familia Paramyxoviridae es conocido por tener predilección estacional en otoño e invierno, siendo el patógeno respiratorio clásico asociado a la disfonía y estridor en la primera infancia.",
+    "options": [
+      {
+        "text": "Virus Respiratorio Sincicial (VRS).",
+        "isCorrect": false,
+        "explanation": "Aunque el VRS es el agente líder de infecciones de la vía aérea baja como la bronquiolitis en lactantes menores, no es la principal causa de obstrucción laríngea alta."
+      },
+      {
+        "text": "Adenovirus.",
+        "isCorrect": false,
+        "explanation": "El Adenovirus se asocia característicamente a faringitis exudativa con conjuntivitis o neumonías graves y necrotizantes, pero es una causa secundaria de laringitis obstructiva típica."
+      },
+      {
+        "text": "Virus Parainfluenza (especialmente tipos 1, 2 y 3).",
+        "isCorrect": true,
+        "explanation": "El virus Parainfluenza, en particular los serotipos 1 y 2, es responsable de más del $65\\text{-}75\\%$ de los casos de laringitis aguda obstructiva (croup viral) en lactantes y preescolares. El tipo 3 también es común, aunque se asocia más a cuadros de bronquiolitis o neumonía."
+      },
+      {
+        "text": "Virus Influenza A.",
+        "isCorrect": false,
+        "explanation": "La Influenza puede provocar croup bacteriano secundario o croup viral severo, pero epidemiológicamente está muy por detrás de la frecuencia de los virus Parainfluenza."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 3 años despierta súbitamente a medianoche con tos metálica (\"perruna\"), disfonía y estridor inspiratorio leve. No tiene antecedentes de fiebre ni coriza previa. Al cabo de una hora de estar expuesto al aire frío de la ventana por indicación de su madre, el cuadro cede casi por completo. ¿Cuál es el diagnóstico más probable?",
+    "hint": "Esta entidad también se conoce como \"laringitis estridulosa\" o \"seudocroup\", y suele tener un componente familiar, alérgico o de hiperreactividad laríngea subyacente. Su inicio es típicamente nocturno e hiperagudo sin pródromos infecciosos.",
+    "options": [
+      {
+        "text": "Croup espasmódico o laringitis estridulosa.",
+        "isCorrect": true,
+        "explanation": "El croup espasmódico se caracteriza por su inicio brusco nocturno, ausencia de pródromos infecciosos (resfrío, fiebre), recurrencia (puede repetirse varias noches consecutivas) y una excelente y rápida respuesta al aire frío o la humedad templada que desinflaman mecánicamente la zona."
+      },
+      {
+        "text": "Laringitis aguda obstructiva viral grado III.",
+        "isCorrect": false,
+        "explanation": "El grado III (grave) se acompaña de compromiso del estado general, estridor continuo en reposo tanto inspiratorio como espiratorio y retracción costal severa, además de un inicio más gradual infeccioso."
+      },
+      {
+        "text": "Aspiración de cuerpo extraño laríngeo.",
+        "isCorrect": false,
+        "explanation": "La aspiración de cuerpo extraño cursa con un episodio de sofocación súbito durante la actividad diurna y no responde de forma tan favorable al aire frío ni se caracteriza por un cese tan rápido sin intervención."
+      },
+      {
+        "text": "Epiglotitis aguda.",
+        "isCorrect": false,
+        "explanation": "La epiglotitis es una emergencia médica que cursa con fiebre alta persistente, aspecto tóxico y sialorrea; no cede espontáneamente con el aire frío."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un escolar de 4 años es traído a la urgencia con fiebre alta de $39.5^\\circ\\text{C}$ de inicio brusco, aspecto muy tóxico, sialorrea intensa (babeo) y adopción espontánea de la posición de \"trípode\" (inclinado hacia adelante apoyando las manos). No presenta tos perruna ni disfonía. ¿Cuál es la sospecha diagnóstica prioritaria y qué conducta diagnóstica está estrictamente contraindicada?",
+    "hint": "El paciente presenta babeo por incapacidad de tragar su saliva debido a la inflamación masiva de la estructura que sella la vía aérea durante la deglución. La manipulación mecánica local puede desencadenar un colapso reflejo total de la vía aérea.",
+    "options": [
+      {
+        "text": "Absceso retrofaríngeo; está contraindicado realizar una radiografía de cuello lateral.",
+        "isCorrect": false,
+        "explanation": "En el absceso retrofaríngeo, la radiografía de cuello lateral de tejidos blandos sí es un examen útil de primera línea para documentar el ensanchamiento prevertebral. No está contraindicada."
+      },
+      {
+        "text": "Laringitis aguda obstructiva grado IV; está contraindicada la oxigenoterapia.",
+        "isCorrect": false,
+        "explanation": "La laringitis grado IV cursa con cianosis y somnolencia por falla respiratoria inminente; la oxigenoterapia y la asistencia ventilatoria rápida nunca están contraindicadas."
+      },
+      {
+        "text": "Traqueítis bacteriana; está contraindicado el uso de corticoides sistémicos.",
+        "isCorrect": false,
+        "explanation": "Aunque en la traqueítis bacteriana los corticoides no son eficaces para resolver la obstrucción mecánica por membranas, no están estrictamente contraindicados de forma absoluta."
+      },
+      {
+        "text": "Epiglotitis aguda; está contraindicado el uso de un bajalenguas para examinar la faringe.",
+        "isCorrect": true,
+        "explanation": "La presentación es patognomónica de Epiglotitis Aguda. El uso de bajalenguas o cualquier instrumento en la orofaringe está estrictamente contraindicado en la urgencia debido a que puede provocar de forma inmediata un laringoespasmo reflejo letal que ocluye la vía aérea por completo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En Chile, la evaluación de la Laringitis Aguda Obstructiva se realiza mediante una escala de gravedad clínica. Un lactante que presenta estridor inspiratorio continuo (tanto en reposo como en actividad) y retracción supraesternal e intercostal moderada, pero que se mantiene rosado y activo, se clasifica como:",
+    "hint": "Este grado intermedio representa el momento en que la obstrucción laringea está establecida de forma permanente en reposo, pero el lactante aún compensa adecuadamente el intercambio gaseoso sin signos de hipoxia cerebral.",
+    "options": [
+      {
+        "text": "Grado I (Leve).",
+        "isCorrect": false,
+        "explanation": "El grado I (leve) cursa sin estridor en reposo (solo al llorar o agitarse) y sin retracciones costales."
+      },
+      {
+        "text": "Grado II (Moderada).",
+        "isCorrect": true,
+        "explanation": "La presencia de estridor continuo en reposo, asociado a retracción costal (tiraje) leve a moderada sin signos de hipoxia sistémica (como palidez, cianosis, o compromiso cuantitativo de conciencia) define clínicamente al Grado II (Moderada) de laringitis."
+      },
+      {
+        "text": "Grado III (Grave).",
+        "isCorrect": false,
+        "explanation": "El grado III (grave) se define por estridor inspiratorio y espiratorio en reposo, retracción costal severa generalizada y signos de hipoxia o compromiso del sensorio (como agitación psicomotora o somnolencia)."
+      },
+      {
+        "text": "Grado IV (Falla respiratoria inminente).",
+        "isCorrect": false,
+        "explanation": "El grado IV cursa con cianosis, disminución de los ruidos respiratorios por agotamiento muscular (silencio laringeo), bradicardia o sopor profundo."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 14 meses es llevado al servicio de urgencias por tos perruna y disfonía leve de inicio reciente. Al examen físico se encuentra alegre, reactivo, sin estridor en reposo (solo al llorar), sin retracción costal y con una frecuencia respiratoria de $28\\text{ rpm}$. ¿Cuál es el tratamiento de elección para este nivel de gravedad (Grado I) según la norma técnica del MINSAL?",
+    "hint": "Aunque el paciente esté en fase leve, el uso de un corticoide oral de vida media prolongada ha revolucionado el manejo de la laringitis al evitar de forma muy eficaz la progresión a grados de mayor obstrucción y disminuir las reconsultas.",
+    "options": [
+      {
+        "text": "Nebulización con Adrenalina y hospitalización en sala común.",
+        "isCorrect": false,
+        "explanation": "La Adrenalina nebulizada se reserva exclusivamente para laringitis moderadas a graves (grados II y III) debido a su rápido efecto antiinflamatorio en obstrucciones instaladas en reposo; no está indicada en grado I."
+      },
+      {
+        "text": "Amoxicilina por 7 días y control en su consultorio en 24 horas.",
+        "isCorrect": false,
+        "explanation": "La laringitis obstructiva típica es de etiología viral (Parainfluenza); el uso de antibióticos empíricos como la amoxicilina está contraindicado por no aportar beneficio y inducir resistencia."
+      },
+      {
+        "text": "Dexametasona por vía oral en dosis única de $0.15\\text{ mg/kg}$ y alta con indicaciones de soporte.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a las pautas actuales del Programa IRA del MINSAL y consensos de la SOCHIPE, todo paciente con laringitis obstructiva, incluso leve (Grado I), se beneficia de una dosis única de Dexametasona oral (comúnmente a $0.15\\text{ mg/kg}$) para disminuir la progresión y hospitalizaciones."
+      },
+      {
+        "text": "Únicamente medidas físicas como humidificación ambiental fría, sin corticoides.",
+        "isCorrect": false,
+        "explanation": "Si bien el aire húmedo y frío ayuda a calmar al niño, la evidencia respalda que el uso de corticoides orales en dosis bajas es superior y acorta de forma significativa el cuadro clínico en todos los grados de laringitis."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 2 años presenta estridor inspiratorio audible en reposo, retracción supraesternal leve-moderada e irritabilidad. Al examen físico está afebril y satura $96\\%$. ¿Cuál es el manejo inicial indicado en la sala de urgencias respiratorias (sala IRA) de acuerdo a la normativa nacional?",
+    "hint": "En el grado II, se debe asociar el corticoide sistémico (que actúa tardíamente) con un fármaco nebulizado de acción ultra-rápida (vasoconstricción local) para reducir el edema de la región subglótica en reposo, seguido de observación obligatoria por el riesgo de rebote.",
+    "options": [
+      {
+        "text": "Administración de Dexametasona oral asociada a una nebulización con Adrenalina corriente ($4\\text{ ml}$) y observación clínica por al menos 2 horas.",
+        "isCorrect": true,
+        "explanation": "El grado II moderado exige terapia combinada de rescate: corticoide sistémico (Dexametasona oral) para el efecto antiinflamatorio prolongado y Adrenalina nebulizada ($4\\text{ ml}$ de adrenalina corriente sin diluir, o con suero fisiológico) para lograr la vasoconstricción rápida de la mucosa laringea. Se debe observar por 2 horas para descartar el efecto rebote de la adrenalina."
+      },
+      {
+        "text": "Salbutamol en aerosol con aerocámara y alta inmediata.",
+        "isCorrect": false,
+        "explanation": "El salbutamol es un broncodilatador beta-2 que actúa en la vía aérea pequeña bronquial (SBO/asma), pero no tiene ninguna utilidad en el edema laringeo subglótico de la laringitis."
+      },
+      {
+        "text": "Hospitalización inmediata en la Unidad de Pacientes Críticos sin administrar de forma previa medicamentos.",
+        "isCorrect": false,
+        "explanation": "El paciente cursa con un Grado II (moderado), el cual es perfectamente manejable de forma ambulatoria inicial en la sala IRA; no se hospitaliza de entrada en la UPC a menos que falle la terapia de rescate."
+      },
+      {
+        "text": "Antibioterapia intravenosa con Cefotaxima de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "No existe sospecha de infección bacteriana invasora; el uso de cefalosporinas de tercera generación es completamente inadecuado para una laringitis obstructiva viral común."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Tras administrar una nebulización con Adrenalina a un paciente con Laringitis Grado III, se observa una mejoría clínica drástica del estridor y la retracción a los 20 minutos. El médico de turno debe conocer la farmacocinética de la Adrenalina nebulizada. ¿Cuál es el tiempo de inicio de acción, el pico de efecto y el riesgo por el cual se exige dejar al paciente en observación por al menos 2 a 3 horas?",
+    "hint": "La Adrenalina actúa de forma muy rápida \"comprando tiempo\" mientras el corticoide sistémico inicia su acción (la cual tarda entre 1 y 2 horas en manifestarse). Su vida media local es corta, por lo que su efecto decae rápidamente.",
+    "options": [
+      {
+        "text": "Inicio en 2 horas, pico a las 6 horas, riesgo de hipotensión sistémica tardía severa.",
+        "isCorrect": false,
+        "explanation": "La Adrenalina nebulizada es de acción casi inmediata y su efecto es de corta duración, por lo que este rango de horas prolongado es incorrecto."
+      },
+      {
+        "text": "Inicio en 10-30 minutos, pico de efecto a los 30-60 minutos y riesgo de efecto \"rebote\" (reaparición de la obstrucción) a las 2 horas.",
+        "isCorrect": true,
+        "explanation": "La Adrenalina nebulizada actúa por estimulación alfa-adrenérgica local causando vasoconstricción mucosa rápida. Su efecto inicia en 10-30 minutos, con un pico de efecto a la hora y decae rápidamente a las 2 horas, lo que puede provocar la reaparición brusca del edema laríngeo (efecto rebote) si no se ha establecido el efecto antiinflamatorio del corticoide sistémico concomitante."
+      },
+      {
+        "text": "Inicio inmediato, efecto permanente que dura 24 horas, riesgo de arritmias ventriculares tardías irreversibles.",
+        "isCorrect": false,
+        "explanation": "El efecto no es permanente y dura habitualmente solo entre 1 y 2 horas, y las arritmias ventriculares tardías irreversibles no son una complicación común de la nebulización única controlada."
+      },
+      {
+        "text": "Es de acción ultra-lenta, por lo que el paciente debe ser hospitalizado de forma rutinaria tras su primera administración.",
+        "isCorrect": false,
+        "explanation": "Su acción es extremadamente rápida; la hospitalización no es rutinaria si el paciente muestra resolución completa y sostenida tras el periodo de observación reglamentario de 2 horas."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 18 meses, previamente sano, se encontraba jugando en su habitación con objetos pequeños cuando de forma brusca presenta un cuadro agudo de tos espasmódica asfixiante con cianosis peribucal de resolución espontánea en 2 minutos. Al examen físico en la urgencia se encuentra afebril, activo, con estridor inspiratorio leve y disminución del murmullo pulmonar en el hemitórax derecho. ¿Cuál es la sospecha diagnóstica prioritaria?",
+    "hint": "Busque un evento que marque un \"antes y un después\" instantáneo en un niño previamente sano, sin signos de resfrío ni temperatura elevada, y con ruidos pulmonares diferentes entre el lado derecho e izquierdo.",
+    "options": [
+      {
+        "text": "Laringitis obstructiva aguda viral grado I.",
+        "isCorrect": false,
+        "explanation": "La laringitis viral no debuta de forma asfixiante instantánea en segundos sin pródromo catarral previo, ni produce asimetría auscultatoria pulmonar focalizada."
+      },
+      {
+        "text": "Coqueluche o tos convulsiva.",
+        "isCorrect": false,
+        "explanation": "El coqueluche cursa con tos quintosa de inicio larvado y progresivo en accesos repetidos con gallito inspiratorio, pero no con asimetría focalizada en la auscultación pulmonar en un episodio único inicial súbito."
+      },
+      {
+        "text": "Neumonía bacteriana derecha de rápida progresión.",
+        "isCorrect": false,
+        "explanation": "La neumonía bacteriana cursa típicamente con fiebre alta, compromiso del estado general y tos productiva, no con un cuadro de ahogo e hipoxia de inicio ultra-súbito en segundos en un niño previamente sano."
+      },
+      {
+        "text": "Aspiración de cuerpo extraño en la vía aérea.",
+        "isCorrect": true,
+        "explanation": "El inicio hiperagudo y brusco con sofocación súbita, ausencia de síntomas infecciosos previos (fiebre, coriza) y la asimetría auscultatoria pulmonar (disminución del murmullo en hemitórax derecho) son signos clínicos de alarma clásicos de aspiración de cuerpo extraño. El objeto tiende a alojarse con mayor frecuencia en el bronquio principal derecho debido a su anatomía más vertical y de mayor calibre."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un paciente de 3 años ingresa a la urgencia con historia de laringitis perruna de 3 días de evolución, que bruscamente empeora presentando fiebre muy alta de $40^\\circ\\text{C}$, aspecto tóxico, estridor mixto (inspiratorio y espiratorio), retracción costal severa y abundantes secreciones purulentas espesas en la vía aérea que no ceden tras dos nebulizaciones con Adrenalina ni dosis altas de corticoides. ¿Cuál es el diagnóstico más probable y cuál es el patógeno bacteriano aislado con mayor frecuencia?",
+    "hint": "Esta patología representa una verdadera emergencia supurativa traqueal, secundaria al daño de la mucosa por un virus previo. El microorganismo causal es un coco Gram positivo que produce la enzima coagulasa.",
+    "options": [
+      {
+        "text": "Epiglotitis aguda; Haemophilus influenzae.",
+        "isCorrect": false,
+        "explanation": "La epiglotitis cursa con sialorrea severa, postura de trípode y ausencia de tos perruna, a diferencia de la traqueítis que típicamente evoliona a partir de un croup viral preexistente."
+      },
+      {
+        "text": "Absceso retrofaríngeo; Streptococcus pyogenes.",
+        "isCorrect": false,
+        "explanation": "El absceso retrofaríngeo produce trismus, tortícolis y abombamiento faríngeo, pero no suele cursar con una obstrucción laringotraqueal generalizada con secreciones purulentas espesas intratraqueales."
+      },
+      {
+        "text": "Traqueítis bacteriana; Staphylococcus aureus.",
+        "isCorrect": true,
+        "explanation": "La Traqueítis Bacteriana (también llamada croup pseudomembranoso) es una infección bacteriana grave de la mucosa traqueal, caracterizada por exudado purulento grueso, fiebre alta, aspecto tóxico y falla de respuesta a la terapia de rescate estándar (adrenalina/corticoides). El agente patógeno más común es el Staphylococcus aureus, seguido de Streptococcus pneumoniae y Streptococcus pyogenes."
+      },
+      {
+        "text": "Croup espasmódico severo; Virus Parainfluenza.",
+        "isCorrect": false,
+        "explanation": "El croup espasmódico es de carácter afebril, no produce aspecto tóxico ni secreciones purulentas traqueales masivas, y responde de forma excelente a la adrenalina y al frío."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Una madre consulta por su lactante de 2 meses de vida que presenta un ruido respiratorio agudo (\"estridor\") que se escucha desde las primeras semanas de vida. Refiere que el ruido es puramente inspiratorio, aumenta cuando el lactante se encuentra en decúbito supino (boca arriba) o está inquieto durante la lactancia, y disminuye notablemente cuando duerme boca abajo (decúbito prono). El lactante tiene un incremento ponderal normal. ¿Cuál es la sospecha diagnóstica más probable y la evolución típica de esta condición?",
+    "hint": "Esta es la causa más común de estridor en el lactante menor de un año. Se produce por la flacidez de las estructuras supraglóticas que se colapsan hacia la luz laríngea durante la inspiración, y disminuye notablemente con los cambios posicionales que liberan mecánicamente la glotis.",
+    "options": [
+      {
+        "text": "Laringomalacia; es la causa más común de estridor congénito y en la gran mayoría de los casos es benigna, autolimitada y resuelve espontáneamente hacia los 12 a 24 meses de vida.",
+        "isCorrect": true,
+        "explanation": "La laringomalacia es la anomalía laríngea congénita más frecuente. Su sello clínico es el estridor inspiratorio que empeora en decúbito supino y con la agitación/alimentación, y disminuye en prono. Su evolución natural es benigna, resolviendo de forma espontánea hacia los 18-24 meses a medida que maduran los cartílagos laríngeos de forma fisiológica."
+      },
+      {
+        "text": "Parálisis de cuerdas vocales unilateral; requiere traqueostomía de urgencia antes de los 6 meses.",
+        "isCorrect": false,
+        "explanation": "La parálisis de cuerdas vocales suele cursar con llanto débil, soplado o disfonía marcada persistente desde el nacimiento, y no varía de forma tan característica con los cambios posicionales del lactante."
+      },
+      {
+        "text": "Estenosis subglótica congénita; requiere dilataciones endoscópicas seriadas mensuales.",
+        "isCorrect": false,
+        "explanation": "La estenosis subglótica produce un estridor bifásico (inspiratorio y espiratorio) continuo y suele asociarse a antecedentes de intubación endotraqueal neonatal prolongada en prematuros."
+      },
+      {
+        "text": "Quiste laríngeo congénito; requiere resección con láser de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "Los quistes laríngeos causan un estridor de progresión rápida y suelen comprometer la deglución y el llanto de forma persistente desde el nacimiento, requiriendo un enfoque quirúrgico."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Ante la sospecha clínica fundada de Epiglotitis Aguda en un preescolar en el servicio de urgencias, ¿cuál de las siguientes conductas es la más prioritaria y segura para el paciente?",
+    "hint": "En la epiglotitis, \"el llanto y la agitación son el enemigo\". Toda maniobra invasiva, venopunción dolorosa o examen radiológico debe ser postergado hasta que la vía aérea esté debidamente asegurada en un entorno quirúrgico controlado.",
+    "options": [
+      {
+        "text": "Colocar una vía venosa periférica, tomar muestras de sangre para cultivos y realizar una radiografía de cuello lateral de pie de forma de urgencia antes de intubar.",
+        "isCorrect": false,
+        "explanation": "Los procedimientos dolorosos (como la punción venosa) o el traslado a salas de rayos separadas de la madre aumentan de forma dramática la agitación y la probabilidad de obstrucción laringea completa brusca letal."
+      },
+      {
+        "text": "Intentar la intubación endotraqueal inmediata de urgencia en la misma camilla de la sala de espera sin anestesia para evitar el colapso respiratorio.",
+        "isCorrect": false,
+        "explanation": "Intentar intubar a ciegas o sin las condiciones óptimas del pabellón ante una epiglotis masivamente edematosa suele fracasar, lesionando la mucosa, aumentando el edema y cerrando la vía aérea de forma definitiva."
+      },
+      {
+        "text": "Mantener al paciente tranquilo en brazos de su madre, trasladarlo de inmediato al quirófano con personal capacitado para asegurar la vía aérea mediante intubación endotraqueal o traqueostomía bajo anestesia inhalatoria, minimizando cualquier manipulación previa.",
+        "isCorrect": true,
+        "explanation": "El objetivo crítico ante la epiglotitis es evitar el llanto y la agitación que puedan precipitar el laringoespasmo total. El aseguramiento de la vía aérea debe realizarse de forma controlada en pabellón por expertos anestesiólogos/cirujanos infantiles con el equipo listo para traqueostomía si es necesario, manteniendo al menor tranquilo junto a su cuidador."
+      },
+      {
+        "text": "Nebulizar continuamente con Adrenalina corriente y administrar Dexametasona endovenosa en dosis alta, postergando la intubación hasta contar con el resultado de los hemocultivos.",
+        "isCorrect": false,
+        "explanation": "La Epiglotitis Aguda es una emergencia mecánica bacteriana invasora que no responde de forma útil a la adrenalina o corticoides para reducir la obstrucción de forma rápida; postergar la intubación es sumamente peligroso."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 3 años es traído por presentar fiebre, odinofagia severa, sialorrea, tortícolis (limitación de la rotación del cuello) y rechazo a la movilización cervical. Durante el examen se observa un abombamiento asimétrico en la pared posterior de la faringe. La radiografía de cuello lateral de tejidos blandos muestra un ensanchamiento marcado del espacio prevertebral. ¿Cuál es el diagnóstico más probable y cuál es el manejo inicial de elección?",
+    "hint": "Esta patología se asocia a la supuración de los ganglios de Gilette situados detrás de la faringe posterior, comunes en menores de 4 años. Su radiografía muestra el aumento marcado del espacio blando retrofaríngeo con limitación mecánica dolorosa cervical.",
+    "options": [
+      {
+        "text": "Epiglotitis aguda; requiere intubación y corticoides endovenosos exclusivamente.",
+        "isCorrect": false,
+        "explanation": "La epiglotitis no produce abombamiento de la pared faríngea posterior ni tortícolis marcada, y su radiografía muestra el signo de \"la huella digital\" de la epiglotis edematosa, no ensanchamiento prevertebral."
+      },
+      {
+        "text": "Absceso retrofaríngeo; requiere hospitalización, antibioterapia endovenosa de amplio espectro y evaluación por especialista para eventual drenaje quirúrgico.",
+        "isCorrect": true,
+        "explanation": "El absceso retrofaríngeo se localiza en los ganglios linfáticos del espacio prevertebral. Produce tortícolis, odinofagia, sialorrea y abombamiento faríngeo posterior. El manejo incluye hospitalización, antibióticos intravenosos de amplio espectro que cubran anaerobios y cocos Gram positivos (como Ampicilina-Sulbactam o Clindamicina) y monitoreo por ORL para eventual drenaje quirúrgico si hay fluctuación o compromiso de la vía aérea."
+      },
+      {
+        "text": "Mononucleosis infecciosa; requiere de forma prioritaria reposo y paracetamol domiciliario por 14 días.",
+        "isCorrect": false,
+        "explanation": "La mononucleosis causa adenopatías bilaterales y amígdalas exudativas simétricas, pero no produce tortícolis extrema con ensanchamiento prevertebral retrofaríngeo localizado en la radiografía lateral."
+      },
+      {
+        "text": "Laringitis obstructiva Grado III; requiere nebulizaciones repetidas de Adrenalina corriente.",
+        "isCorrect": false,
+        "explanation": "La laringitis es una obstrucción de la laringe subglótica que no cursa con tortícolis, abombamiento faríngeo asimétrico visible ni dolor cervical restrictivo mecánico de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "¿Cuál de los siguientes criterios clínicos constituye una indicación absoluta de hospitalización en un lactante que consulta en urgencias por un cuadro de Laringitis Aguda Obstructiva?",
+    "hint": "La hospitalización se reserva para aquellos lactantes que fallan en responder a las medidas de rescate iniciales de la sala IRA tras el tiempo de observación de seguridad o que presentan factores de riesgo clínico/social severos.",
+    "options": [
+      {
+        "text": "Persistencia de estridor moderado-severo en reposo, retracciones marcadas o hipoxemia tras 2 horas de observación posterior a la nebulización con Adrenalina y corticoterapia en la sala IRA.",
+        "isCorrect": true,
+        "explanation": "La persistencia de síntomas de obstrucción laringea moderada-grave (falla de respuesta a la terapia de rescate con adrenalina nebulizada y corticoide tras 2 horas de observación en la sala de urgencias) es un criterio estricto de hospitalización, ya que el riesgo de reobstrucción grave o agotamiento muscular respiratorio es elevado."
+      },
+      {
+        "text": "Haber presentado un episodio aislado de tos perruna nocturna que cedió con el aire frío en su domicilio.",
+        "isCorrect": false,
+        "explanation": "Este antecedente corresponde a un cuadro leve o croup espasmódico que puede continuar con manejo ambulatorio seguro y educación si el examen físico actual en urgencias es normal."
+      },
+      {
+        "text": "Presentar temperatura axilar de $37.8^\\circ\\text{C}$ controlada de forma ambulatoria sin estridor en reposo.",
+        "isCorrect": false,
+        "explanation": "La febrícula aislada en ausencia de estridor en reposo o retracciones musculares no es criterio de ingreso hospitalario de forma rutinaria."
+      },
+      {
+        "text": "Que los padres vivan a menos de 5 minutos de distancia del servicio de urgencias en una zona urbana bien conectada.",
+        "isCorrect": false,
+        "explanation": "Al contrario, la cercanía al centro de salud y la alta confiabilidad de los cuidadores es un factor facilitador para decidir el alta con manejo ambulatorio seguro y retorno rápido si empeora."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 10 meses presenta estridor inspiratorio y espiratorio (estridor mixto) audible a distancia en reposo, retracción costal severa generalizada (tiraje intercostal, subcostal y retracción xifoidea), palidez cutánea marcada, taquicardia severa y agitación psicomotora alternada con periodos de somnolencia. ¿A qué grado de gravedad corresponde esta presentación clínica y qué conducta inmediata debe adoptarse?",
+    "hint": "La presencia de estridor bifásico (mixto) y la alternancia de agitación-somnolencia refleja hipoxemia cerebral en desarrollo por obstrucción severa instalada. Se debe intervenir de urgencia con oxigenoterapia y adrenalina nebulizada de inmediato en la sala de reanimación.",
+    "options": [
+      {
+        "text": "Grado II (Moderada); requiere derivar a domicilio con indicación de paracetamol y salbutamol inhalado.",
+        "isCorrect": false,
+        "explanation": "El paciente presenta compromiso del sensorio e hipoxia clínica (palidez, estridor mixto); clasificarlo como moderado y enviarlo a casa representa una negligencia médica grave por riesgo de asfixia letal en domicilio."
+      },
+      {
+        "text": "Grado IV (Falla respiratoria); requiere intubación inmediata a ciegas en la sala de espera por el pediatra de turno.",
+        "isCorrect": false,
+        "explanation": "El grado IV cursa con cianosis profunda y silencio laringeo por agotamiento muscular extremo sin esfuerzo respiratorio visible. Aunque el grado III está cerca del colapso, aún mantiene esfuerzo vigoroso y permite intentar el rescate clínico con adrenalina nebulizada antes de intubar."
+      },
+      {
+        "text": "Grado I (Leve); se debe citar a control en su consultorio en 48 horas sin exámenes adicionales.",
+        "isCorrect": false,
+        "explanation": "Ignora por completo los signos de insuficiencia respiratoria severa y el riesgo inminente de paro respiratorio del lactante de 10 meses."
+      },
+      {
+        "text": "Grado III (Grave); requiere administración inmediata de oxígeno con mascarilla, corticoterapia parenteral y nebulización simultánea con Adrenalina, monitorizando continuamente.",
+        "isCorrect": true,
+        "explanation": "El estridor bifásico (mixto), las retracciones severas y el compromiso del sensorio (agitación/somnolencia) definen a la Laringitis Grado III (Grave). El manejo de urgencia exige terapia de rescate máxima (oxígeno, adrenalina nebulizada y corticoide parenteral o budesonida nebulizada) e ingreso hospitalario obligatorio en la unidad de cuidados intermedios/intensivos."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Respecto al Croup Espasmódico (laringitis estridulosa o seudocroup), ¿cuál de las siguientes opciones describe correctamente su fisiopatología y sus principales diferencias clínicas con la Laringitis Aguda Obstructiva de etiología viral?",
+    "hint": "Esta patología suele repetirse en un mismo niño y asustar mucho a las familias por su inicio ruidoso e inesperado en la madrugada, pero la exposición al aire libre del patio o ventana suele actuar como un remedio rápido y eficaz que desinflama el espasmo.",
+    "options": [
+      {
+        "text": "Es una infección bacteriana aguda de la mucosa laringea; cursa con fiebre de $40^\\circ\\text{C}$ y requiere penicilina.",
+        "isCorrect": false,
+        "explanation": "El croup espasmódico no es una infección bacteriana invasora y cursa característicamente sin fiebre; no se beneficia de terapia antibiótica."
+      },
+      {
+        "text": "Se asocia a una base de hiperreactividad laríngea o desencadenantes alérgicos/emocionales, carece de pródromo catarral o fiebre, debuta de forma súbita y recurrente por las noches, y cede rápidamente con el aire frío o la tranquilidad del menor.",
+        "isCorrect": true,
+        "explanation": "El croup espasmódico se diferencia del viral por su carácter recurrente, nocturno, la total ausencia de fiebre u otros signos de infección de vías respiratorias previas (pródromo), y su excelente respuesta al enfriamiento físico de la vía aérea. Su etiología es de tipo hiperreactividad laríngea mecánica, no infecciosa directa."
+      },
+      {
+        "text": "Es una malformación estructural fija de las cuerdas vocales que causa estridor inspiratorio continuo desde el nacimiento y requiere cirugía correctora láser.",
+        "isCorrect": false,
+        "explanation": "Esta descripción corresponde a una estenosis o membrana laríngea congénita, no a una patología paroxística aguda y transitoria del tipo del croup espasmódico."
+      },
+      {
+        "text": "Su letalidad es mucho mayor que la de la laringitis viral tradicional, por lo que requiere hospitalización obligatoria en UCI en todos los casos.",
+        "isCorrect": false,
+        "explanation": "Al contrario, es una de las afecciones laríngeas más benignas y autolimitadas en pediatría; casi nunca requiere hospitalización y se maneja de forma ambulatoria en domicilio."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 5 años con antecedentes de alergia a las nueces comienza de forma brusca con prurito palmar, urticaria generalizada, edema bipalpebral y labial, disfonía progresiva y estridor inspiratorio audible en reposo con dificultad respiratoria tras ingerir un pastel en un cumpleaños. ¿Cuál es el diagnóstico prioritario y la primera acción de emergencia?",
+    "hint": "El paciente presenta compromiso dermatológico, mucoso y respiratorio superior de inicio hiperagudo tras ingerir un alérgeno conocido. El retraso del fármaco vasoconstrictor sistémico puede llevar a asfixia total por edema de glotis.",
+    "options": [
+      {
+        "text": "Laringitis viral obstructiva grado III; nebulizar con adrenalina corriente y dar corticoides orales.",
+        "isCorrect": false,
+        "explanation": "La presencia de edema labial, urticaria generalizada y antecedentes de alergia alimentaria tras exposición descartan una etiología infecciosa viral simple; se trata de una reacción anafiláctica sistémica que requiere adrenalina intramuscular, no solo local nebulizada."
+      },
+      {
+        "text": "Edema angioneurótico familiar; administrar infusión intravenosa rápida de albúmina humana al $20\\%$.",
+        "isCorrect": false,
+        "explanation": "El edema angioneurótico familiar es una patología genética rara por déficit de C1 inhibidor que no suele cursar con urticaria ni se gatilla típicamente por alérgenos específicos de forma tan fulminante en cumpleaños."
+      },
+      {
+        "text": "Anafilaxia con compromiso de la vía aérea superior (edema laríngeo); administrar de forma inmediata Adrenalina $1:1000$ por vía intramuscular en la cara anterolateral del muslo en dosis de $0.01\\text{ mg/kg}$.",
+        "isCorrect": true,
+        "explanation": "La reacción multisistémica aguda (cutánea + edema de vía aérea superior) tras la ingesta del alérgeno define a la Anafilaxia. El tratamiento de primera línea inmediato que salva vidas es la Adrenalina intramuscular en la cara anterolateral del muslo (músculo vasto lateral) a dosis de $0.01\\text{ mg/kg}$ de la solución al $1:1000$ ($0.1\\text{ ml}$ cada $10\\text{ kg}$). Actúa de forma sistémica para revertir el angioedema de glotis y la hipotensión."
+      },
+      {
+        "text": "Aspiración de cuerpo extraño bronquial; realizar maniobra de Heimlich de urgencia por 5 repeticiones consecutivas.",
+        "isCorrect": false,
+        "explanation": "Aunque cursa con inicio brusco, la urticaria generalizada y el angioedema confirman un fenómeno inmunológico alérgico sistémico, no un ahogo por cuerpo extraño mecánico puro; la maniobra de Heimlich es inútil y peligrosa en este caso."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 2 años ingresa a la urgencia con estridor inspiratorio agudo. Los padres refieren que se encontraba jugando con juguetes pequeños en el piso cuando de forma súbita comenzó con tos asfixiante. ¿Cuál de los siguientes elementos clínicos de la anamnesis o del examen físico apoya de forma más específica el diagnóstico de Aspiración de Cuerpo Extraño frente a una Laringitis Aguda Obstructiva viral?",
+    "hint": "Busque un evento que marque un \"antes y un después\" instantáneo en un niño previamente sano, sin signos de resfrío ni temperatura elevada, y con ruidos pulmonares diferentes entre el lado derecho e izquierdo.",
+    "options": [
+      {
+        "text": "Inicio súbito del cuadro en un niño previamente sano (sin pródromo catarral ni fiebre), asociado a un episodio de sofocación presenciado por cuidadores y asimetría auscultatoria al examen pulmonar.",
+        "isCorrect": true,
+        "explanation": "El sello de la aspiración es el \"síndrome de penetración\" (sofocación brusca presenciada), la ausencia de pródromo infeccioso (rinorrea, fiebre) y la asimetría auscultatoria pulmonar debido a que el objeto suele alojarse preferentemente en un solo bronquio principal (el derecho)."
+      },
+      {
+        "text": "Presencia de fiebre de $38.5^\\circ\\text{C}$ y rinorrea serosa de 48 horas de evolución previa al estridor.",
+        "isCorrect": false,
+        "explanation": "La fiebre y la coriza son pródromos típicos de una infección respiratoria alta viral (como la laringitis común), ausentes en una aspiración de cuerpo extraño mecánica pura."
+      },
+      {
+        "text": "Respuesta excelente y completa a la administración de corticoides sistémicos orales en la primera hora de observación.",
+        "isCorrect": false,
+        "explanation": "Los corticoides desinflaman la mucosa de la laringitis viral, pero no resuelven la obstrucción mecánica localizada causada por un cuerpo extraño en la vía aérea."
+      },
+      {
+        "text": "Que el estridor sea puramente espiratorio y ceda por completo al colocar al paciente en decúbito prono.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia varía con la posición prono; el cuerpo extraño bronquial causa sibilancias o silencio auscultatorio fijos unilaterales que no se modifican con la posición del lactante de forma característica."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "La corticoterapia es el pilar fundamental del tratamiento del Croup viral, reduciendo la necesidad de intubación y hospitalización de forma masiva. Respecto a la elección y administración de corticoides en la Laringitis Obstructiva Aguda según las guías chilenas, ¿cuál de las siguientes afirmaciones es correcta?",
+    "hint": "El fármaco de elección debe tener una acción prolongada para evitar el rebote del edema laringeo en los días siguientes. La vía oral es siempre de preferencia frente a inyecciones dolorosas que hacen llorar al menor y aumentan el estridor.",
+    "options": [
+      {
+        "text": "Se debe preferir siempre el uso de Prednisona inhalada cada 2 horas por su menor riesgo de efectos sistémicos adversos.",
+        "isCorrect": false,
+        "explanation": "La prednisona inhalada no existe en formulación clínica estándar ni se utiliza en el manejo de la laringitis; se prefieren corticoides sistémicos orales o budesonida nebulizada."
+      },
+      {
+        "text": "Los corticoides sistémicos solo están autorizados en pacientes mayores de 5 años por el riesgo de inducir insuficiencia suprarrenal aguda en lactantes pequeños.",
+        "isCorrect": false,
+        "explanation": "Es una contraindicación falsa; los corticoides en dosis única para laringitis son seguros y altamente recomendados a cualquier edad pediátrica, no induciendo insuficiencia suprarrenal."
+      },
+      {
+        "text": "Se prefiere administrar siempre Dexametasona endovenosa rápida diluida en suero fisiológico cada 4 horas en todos los grados de laringitis para acortar la estancia hospitalaria.",
+        "isCorrect": false,
+        "explanation": "La vía intravenosa se reserva para laringitis graves grado III-IV hospitalizadas; invadir y pinchar a un niño con laringitis leve o moderada aumenta el dolor y el llanto, lo que incrementa el edema laríngeo."
+      },
+      {
+        "text": "La Dexametasona por vía oral (dosis de $0.15\\text{ a }0.6\\text{ mg/kg}$ en dosis única) es el corticoide de primera elección debido a su larga vida media ($36\\text{-}72\\text{ horas}$) y excelente biodisponibilidad; la Budesonida nebulizada ($2\\text{ mg}$) es una alternativa eficaz ante intolerancia oral o vómitos recurrentes.",
+        "isCorrect": true,
+        "explanation": "La Dexametasona oral es el estándar de oro en Chile por su alta potencia, larga vida media que cubre el periodo crítico de la laringitis y excelente absorción. La Budesonida nebulizada es la alternativa parenteral no invasiva preferida ante la presencia de vómitos repetidos que impidan tolerar la vía oral."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En un lactante que presenta estridor inspiratorio persistente de inicio neonatal, ¿cuál es el examen confirmatorio estándar (gold standard) de elección para documentar la Laringomalacia y evaluar la severidad del colapso de las estructuras laringeas?",
+    "hint": "El diagnóstico es puramente dinámico y funcional: se debe mirar de forma directa cómo se comportan las cuerdas vocales y los repliegues mucosos mientras el lactante respira activamente despierto.",
+    "options": [
+      {
+        "text": "Radiografía de tórax anteroposterior y lateral con contraste de bario oral.",
+        "isCorrect": false,
+        "explanation": "El tránsito baritado evalúa la deglución y descarta anillos vasculares o reflujo gastroesofágico, pero no permite la visualización directa dinámica de la mucosa laríngea inspiratoria."
+      },
+      {
+        "text": "Nasofibrolaringoscopia flexible realizada con el lactante despierto bajo respiración espontánea.",
+        "isCorrect": true,
+        "explanation": "La nasofibrolaringoscopia flexible permite visualizar en tiempo real y de forma directa el colapso dinámico de los cartílagos aritenoides, epiglotis en \"omega\" y repliegues ariepiglóticos acortados hacia la glotis durante la inspiración, confirmando la laringomalacia y su grado."
+      },
+      {
+        "text": "Tomografía computada de alta resolución de cuello con reconstrucción 3D bajo sedación profunda.",
+        "isCorrect": false,
+        "explanation": "La TC bajo sedación profunda puede abolir la respiración espontánea dinámica que causa el colapso, impidiendo la evaluación funcional de la laringomalacia y exponiendo innecesariamente a radiación."
+      },
+      {
+        "text": "Hemograma completo, gases en sangre arterial y niveles plasmáticos de calcio.",
+        "isCorrect": false,
+        "explanation": "Las pruebas de laboratorio generales son completamente inespecíficas y normales en la laringomalacia; no aportan información diagnóstica sobre la anatomía o dinamismo laríngeo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar hospitalizado por sospecha de Traqueítis Bacteriana presenta deterioro respiratorio agudo en la UCIN. Se realiza una laringotraqueoscopia de urgencia. ¿Cuál es el hallazgo endoscópico patognomónico de esta patología y qué complicación mecánica aguda se debe prevenir de forma prioritaria?",
+    "hint": "La traqueítis es una \"laringitis supurativa\" profunda. La endoscopia revela la presencia de membranas gruesas de moco purulento adheridas a una mucosa traqueal ulcerada que pueden obstruir mecánicamente el tubo.",
+    "options": [
+      {
+        "text": "Epiglotis extremadamente inflamada de color rojo cereza brillante que obstruye la entrada a la glotis.",
+        "isCorrect": false,
+        "explanation": "La epiglotis rojo cereza es patognomónica de la Epiglotitis Aguda, una entidad diferente que compromete el espacio supraglótico y no la mucosa traqueal profunda."
+      },
+      {
+        "text": "Flacidez y colapso de los cartílagos aritenoides y repliegues ariepiglóticos durante la inspiración.",
+        "isCorrect": false,
+        "explanation": "Este colapso inspiratorio dinámico supraglótico es el hallazgo característico de la laringomalacia congénita, no de una infección bacteriana supurativa aguda de la tráquea."
+      },
+      {
+        "text": "Mucosa traqueal difusamente eritematosa, ulcerada y cubierta de abundantes membranas gruesas purulentas adherentes que pueden desprenderse y causar la oclusión mecánica aguda de la vía aérea.",
+        "isCorrect": true,
+        "explanation": "La traqueítis bacteriana es una infección de la mucosa traqueal que produce gruesas pseudomembranas de pus y detritos que obstruyen mecánicamente la tráquea, pudiendo desprenderse y ocluir el tubo endotraqueal o la tráquea de forma fulminante, requiriendo aspiraciones frecuentes y prolijas bajo intubación."
+      },
+      {
+        "text": "Presencia de una membrana fibrosa vascular subglótica fija que divide la luz traqueal en dos compartimientos.",
+        "isCorrect": false,
+        "explanation": "Las membranas o estenosis subglóticas fijas son malformaciones o secuelas crónicas cicatrizales post-intubación, no hallazgos exudativos agudos purulentos infecciosos."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En Chile se utiliza frecuentemente una escala adaptada para evaluar la obstrucción laringea. En la Laringitis Aguda Obstructiva, ¿cuál de las siguientes opciones describe correctamente los parámetros de evaluación clínica considerados para definir el grado de dificultad respiratoria y guiar la toma de decisiones terapéuticas en urgencias?",
+    "hint": "La escala de laringitis mide la obstrucción alta. Evalúa si el estridor se escucha solo al llorar o en reposo, qué músculos usa para respirar, cómo suena su tos y si su cerebro recibe suficiente oxígeno.",
+    "options": [
+      {
+        "text": "Presencia de estridor, intensidad de las retracciones musculares (tiraje), disfonía/tos perruna y estado de oxigenación/conciencia del lactante.",
+        "isCorrect": true,
+        "explanation": "La escala de gravedad de laringitis del MINSAL evalúa estos cuatro dominios clínicos clave (estridor en reposo/actividad, retracciones supraesternal/intercostal, tos/disfonía, y cianosis/compromiso de conciencia) para clasificar el croup de Grado I a IV y definir el flujograma de rescate en la sala IRA."
+      },
+      {
+        "text": "Sibilancias, frecuencia respiratoria, frecuencia cardíaca y uso de musculatura accesoria.",
+        "isCorrect": false,
+        "explanation": "Esta combinación describe los parámetros del Score de Tal clásico utilizado para evaluar la obstrucción bronquial en el SBO/bronquiolitis (vía aérea baja), no la obstrucción de la vía aérea superior."
+      },
+      {
+        "text": "Fiebre, presencia de exudado amigdalino, adenopatías cervicales y dolor de garganta.",
+        "isCorrect": false,
+        "explanation": "Estos parámetros corresponden a la evaluación diagnóstica de la faringoamigdalitis aguda o el score de Centor, no a la obstrucción de la vía aérea laringea alta."
+      },
+      {
+        "text": "Recuento de leucocitos, PCR, saturación de oxígeno y temperatura corporal.",
+        "isCorrect": false,
+        "explanation": "Son parámetros de laboratorio y constantes generales que no definen de forma directa el grado de obstrucción mecánica de la laringe ni forman parte de la escala clínica estandarizada."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Antes de la introducción de la vacunación universal en el Programa Nacional de Inmunizaciones (PNI), el agente etiológico responsable de la inmensa mayoría de los casos de Epiglotitis Aguda pediátrica era Haemophilus influenzae tipo b (Hib). Actualmente, con coberturas de vacunación elevadas con la vacuna Hexavalente, ¿cuál es el comportamiento epidemiológico y qué patógenos han cobrado relevancia en este cuadro infrecuente?",
+    "hint": "La vacunación contra Hib contenida en la vacuna Hexavalente (2, 4, 6 y 18 meses) barrió con la epiglotitis clásica. Los escasísimos casos actuales obligan a buscar otras bacterias comunes colonizadoras de la faringe.",
+    "options": [
+      {
+        "text": "Se mantiene con la misma incidencia que en la era prevacunal, siendo el Virus Parainfluenza la causa principal actual.",
+        "isCorrect": false,
+        "explanation": "La incidencia ha caído drásticamente en más del $95\\%$ tras la vacunación con Hexavalente, y el Parainfluenza causa croup viral, no epiglotitis bacteriana supurativa."
+      },
+      {
+        "text": "Se ha erradicado por completo de la faz de la tierra, por lo que ante síntomas de epiglotitis se debe diagnosticar de forma obligatoria laringitis viral.",
+        "isCorrect": false,
+        "explanation": "Aunque es excepcional, no está erradicada y sigue siendo una emergencia potencialmente letal que debe sospecharse ante la clínica típica para evitar muertes por asfixia aguda."
+      },
+      {
+        "text": "Es causada actualmente de forma exclusiva por bacterias anaerobias Gram negativas resistentes a penicilinas.",
+        "isCorrect": false,
+        "explanation": "Los agentes causales alternativos más comunes siguen siendo cocáceas Gram positivas aeróbicas como el estreptococo, neumococo o estafilococo, no anaerobios Gram negativos exclusivos."
+      },
+      {
+        "text": "Su incidencia ha disminuido de forma drástica en más de un $95\\%$; los raros casos actuales se presentan en niños con esquemas de vacunación incompletos o son causados por Streptococcus pyogenes, Streptococcus pneumoniae o Staphylococcus aureus.",
+        "isCorrect": true,
+        "explanation": "La introducción de la vacuna conjugada contra Hib ha modificado el perfil epidemiológico: la epiglotitis es hoy en día excepcional, viéndose solo en no vacunados o por coinfecciones de bacterias cocáceas invasoras (como el estreptococo grupo A, neumococo o estafilococo) en niños vacunados."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 12 meses es traído a la urgencia en malas condiciones generales. Al examen físico destaca un esfuerzo respiratorio ineficaz y superficial, estridor inspiratorio que disminuye notablemente de intensidad (silencio laringeo), cianosis generalizada refractaria a oxígeno de bajo flujo, hipotonia marcada, bradicardia relativa y compromiso cuantitativo de conciencia (sopor profundo). ¿Cómo se clasifica este cuadro y cuál es el manejo inmediato?",
+    "hint": "El cese del esfuerzo respiratorio con cianosis profunda y bradicardia refleja fatiga total del centro respiratorio por hipoxia severa (silencio laringeo). No se puede demorar el aseguramiento invasivo de la vía aérea en la sala de reanimación.",
+    "options": [
+      {
+        "text": "Laringitis Grado III; requiere nebulizar tres veces consecutivas con adrenalina antes de considerar oxigenoterapia.",
+        "isCorrect": false,
+        "explanation": "El paciente ya superó el grado III de compensación con esfuerzo respiratorio; la bradicardia y el sopor indican paro respiratorio inminente, por lo que esperar nebulizaciones en este punto es un error médico letal."
+      },
+      {
+        "text": "Laringitis Grado IV (falla respiratoria inminente); requiere ventilación con bolsa-máscara enriquecida con oxígeno e intubación endotraqueal inmediata por personal experto para asegurar la vía aérea de forma definitiva.",
+        "isCorrect": true,
+        "explanation": "El grado IV representa el agotamiento respiratorio terminal con hipoxia grave (cianosis, somnolencia, silencio laringeo por flujo aéreo insuficiente). Es una emergencia extrema de riesgo vital inminente que exige ventilar con presión positiva con bolsa-máscara e intubación endotraqueal inmediata por el reanimador más experto disponible."
+      },
+      {
+        "text": "Croup espasmódico severo; requiere colocar al niño en brazos de su madre y esperar que despierte con el aire de la sala.",
+        "isCorrect": false,
+        "explanation": "El croup espasmódico es benigno y no cursa con cianosis profunda, bradicardia ni sopor; este lactante tiene una obstrucción orgánica grave con riesgo inminente de muerte."
+      },
+      {
+        "text": "Laringomalacia descompensada; requiere la colocación de un tubo nasogástrico para descompresión gástrica de urgencia.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia es una anomalía crónica del lactante menor que no causa bradicardia y sopor agudo fulminante de esta naturaleza en un lactante de un año previamente sano."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 2 años ingresa a la urgencia por Laringitis Grado III. Se encuentra muy agitado, llorando con fuerza, con taquicardia y retracción costal severa generalizada. El interno de medicina sugiere administrar una dosis de midazolam oral para calmar al niño y disminuir las retracciones. ¿Cuál es el análisis clínico y farmacológico correcto respecto a esta indicación en urgencias?",
+    "hint": "En todo paciente con dificultad respiratoria, la agitación y la lucha por respirar son mecanismos defensivos del cerebro ante la falta de oxígeno. Abolir este impulso defensivo central es deletéreo para el paciente.",
+    "options": [
+      {
+        "text": "Es una excelente recomendación ya que reduce el esfuerzo metabólico y acorta el tiempo de respuesta a la adrenalina nebulizada.",
+        "isCorrect": false,
+        "explanation": "Sedar al niño no disminuye el edema de la mucosa laringea y enmascara de forma peligrosa la progresión de la obstrucción mecánica subyacente."
+      },
+      {
+        "text": "Se puede sedar de forma segura únicamente si se asocia a salbutamol inhalado simultáneo de forma protectora.",
+        "isCorrect": false,
+        "explanation": "El salbutamol no protege contra la depresión respiratoria central inducida por sedantes en el contexto de una obstrucción mecánica alta grave."
+      },
+      {
+        "text": "Está estrictamente contraindicado sedar a un paciente con obstrucción respiratoria alta grave; la agitación refleja hipoxia y los sedantes suprimen el esfuerzo respiratorio compensador central, acelerando el colapso y paro cardiorrespiratorio.",
+        "isCorrect": true,
+        "explanation": "La agitación en un paciente obstruido es un signo de alarma de hipoxia cerebral inminente. El uso de benzodiacepinas u otros sedantes deprime el centro respiratorio central, eliminando la compensación por hipercapnia/hipoxia y precipitando el paro respiratorio fulminante. Se debe calmar al niño con medidas no farmacológicas (brazos de la madre)."
+      },
+      {
+        "text": "Está contraindicado por el riesgo de diarrea aguda severa y nefrotoxicidad sistémica irreversible con el midazolam oral.",
+        "isCorrect": false,
+        "explanation": "La nefrotoxicidad o diarrea no son los motivos de peso clínico para contraindicar los sedantes en obstrucción de vía aérea; el verdadero riesgo es la muerte por asfixia central."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "La distinción clínica entre la Traqueítis Bacteriana y la Laringitis Aguda Obstructiva viral severa es de gran relevancia para guiar el tratamiento específico. ¿Cuál de las siguientes características semiológicas orienta de forma más fuerte hacia una Traqueítis Bacteriana?",
+    "hint": "La traqueítis no responde al tratamiento convencional del croup viral debido a que la obstrucción es de tipo mecánico-purulenta (membranas de pus fijos), acompañado de un estado infeccioso bacteriano invasor severo.",
+    "options": [
+      {
+        "text": "Un cuadro respiratorio obstructivo laringeo con fiebre alta persistente, aspecto tóxico y nula mejoría clínica tras nebulización con Adrenalina y corticoterapia parenteral.",
+        "isCorrect": true,
+        "explanation": "La traqueítis bacteriana cursa con fiebre alta, aspecto agudamente enfermo y nula respuesta a la Adrenalina/corticoides debido a que la obstrucción es causada por tapones de pus espesos y membranas inflamatorias fijas en la luz traqueal, a diferencia del croup viral donde predomina el edema mucoso laxo que sí cede a los vasoconstrictores."
+      },
+      {
+        "text": "Comienzo nocturno repentino que cede de forma completa tras exponerse al aire frío de la noche.",
+        "isCorrect": false,
+        "explanation": "Esta es la presentación clásica del croup espasmódico benigno, no de una traqueítis bacteriana supurativa febril grave."
+      },
+      {
+        "text": "Presencia de sibilancias bilaterales difusas audibles a la espiración forzada en un paciente afebril.",
+        "isCorrect": false,
+        "explanation": "Las sibilancias espiratorias difusas afebriles sugieren obstrucción bronquial baja (SBO/asma), no obstrucción laríngea o traqueal alta."
+      },
+      {
+        "text": "Ausencia de tos y presencia de sialorrea severa con rechazo absoluto a la deglución.",
+        "isCorrect": false,
+        "explanation": "La ausencia de tos con sialorrea y postura de trípode es patognomónica de Epiglotitis Aguda, no de traqueítis supurativa."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un escolar de 12 años con antecedentes de faringoamigdalitis recurrente acude a la urgencia por presentar fiebre muy alta, odinofagia severa unilateral de 3 días de evolución que le impide tragar saliva, disfonía marcada descrita como voz de \"papa caliente\" y limitación dolorosa para abrir la boca (trismus). Al examen físico se observa eritema y abombamiento asimétrico del pilar amigdalino izquierdo, con desviación de la úvula hacia el lado derecho (contralateral). ¿Cuál es el diagnóstico más probable?",
+    "hint": "El paciente presenta una complicación supurativa localizada en el espacio entre la cápsula amigdalina y el músculo constrictor superior de la faringe. El trismus y la desviación contralateral de la úvula son claves clínicas patognomónicas.",
+    "options": [
+      {
+        "text": "Laringitis viral obstructiva aguda grado II.",
+        "isCorrect": false,
+        "explanation": "La laringitis obstructiva es típica de lactantes pequeños, no produce trismus, odinofagia asimétrica severa ni desviación de la úvula contralateral al examen físico."
+      },
+      {
+        "text": "Absceso periamigdalino izquierdo.",
+        "isCorrect": true,
+        "explanation": "El Absceso Periamigdalino es una complicación supurativa común de la amigdalitis. Cursa con odinofagia unilateral extrema, sialorrea, trismus (espasmo del músculo pterigoideo por inflamación local), voz de \"papa caliente\" y desviación contralateral de la úvula debido al efecto de masa inflamatorio unilateral."
+      },
+      {
+        "text": "Absceso retrofaríngeo con compromiso mediastínico.",
+        "isCorrect": false,
+        "explanation": "El absceso retrofaríngeo produce abombamiento de la pared faríngea posterior y tortícolis, pero no una amígdala desplazada con trismus y desviación de la úvula lateral de forma tan localizada."
+      },
+      {
+        "text": "Mononucleosis infecciosa bilateral refractaria a corticoides.",
+        "isCorrect": false,
+        "explanation": "La mononucleosis causa amigdalitis exudativa difusa bilateral y simétrica con adenopatías generalizadas, pero no suele producir trismus ni desviación asimétrica unilateral de la úvula."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En un lactante con fuerte sospecha clínica de Aspiración de Cuerpo Extraño en la vía aérea, se solicita una radiografía de tórax de control. Al revisar la imagen obtenida en espiración, se observa hiperinsuflación localizada del pulmón derecho (atrapamiento aéreo) asociada a desviación del mediastino hacia el lado izquierdo. ¿Cuál es la explicación de este hallazgo radiológico y qué mecanismo valvular lo produce?",
+    "hint": "El bronquio se expande de forma fisiológica al inspirar (permitiendo el paso de aire) y se contrae al espirar. Si hay un objeto parcial, el aire se queda atrapado detrás de él como en una válvula sin salida, empujando las estructuras del tórax al lado opuesto.",
+    "options": [
+      {
+        "text": "Refleja la atelectasia completa por obstrucción total; el pulmón derecho está colapsado y tracciona al mediastino hacia su lado.",
+        "isCorrect": false,
+        "explanation": "La atelectasia completa colapsaría el pulmón (se vería blanco/opaco) y desplazaría el mediastino hacia el lado afectado ipsilateral por pérdida de volumen, no hacia el contralateral."
+      },
+      {
+        "text": "Es una hernia diafragmática derecha congénita sobrevenida por el esfuerzo de la tos refleja.",
+        "isCorrect": false,
+        "explanation": "La hernia diafragmática implica el paso de asas intestinales al tórax, un hallazgo anatómico totalmente diferente al atrapamiento aéreo pulmonar derecho aislado."
+      },
+      {
+        "text": "No tiene correlación con cuerpo extraño; refleja una neumonía lobar derecha típica con derrame pleural masivo.",
+        "isCorrect": false,
+        "explanation": "La neumonía con derrame cursa con opacidad pulmonar difusa con signo de la silueta borrado, no con un pulmón hiperlucido e hiperinsuflado sin condensación."
+      },
+      {
+        "text": "Se debe a un mecanismo de válvula unidireccional (obstrucción parcial); el aire entra en inspiración pero el cuerpo extraño impide que salga en espiración al estrecharse el bronquio, causando atrapamiento aéreo derecho y empujando el mediastino al lado contralateral.",
+        "isCorrect": true,
+        "explanation": "La obstrucción bronquial parcial actúa como válvula: en inspiración el bronquio se dilata y entra aire, pero en espiración se estrecha y el objeto bloquea la salida. El pulmón afectado se hiperinsufla (atrapamiento aéreo, se ve más negro/radiolúcido) y empuja las estructuras móviles del mediastino hacia el lado contralateral (sano) en la espiración."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Tradicionalmente se recomendaba colocar al niño con laringitis obstructiva aguda en el baño para que respire el vapor de la ducha caliente. Sin embargo, las guías clínicas de neumología pediátrica actuales desaconsejan esta práctica en la urgencia y el hogar. ¿Cuál es la razón principal de esta recomendación negativa?",
+    "hint": "La aplicación de calor en un tejido inflamado aumenta el flujo sanguíneo y el volumen local del tejido. En un espacio rígido y estrecho como la subglotis infantil, esto reduce aún más el espacio disponible para el paso de aire.",
+    "options": [
+      {
+        "text": "Porque destruye los cartílagos traqueales por necrosis térmica irreversible en menores de 2 años.",
+        "isCorrect": false,
+        "explanation": "El vapor de agua casero no alcanza temperaturas ni presiones para causar necrosis térmica física de los cartílagos traqueales profundos de forma directa."
+      },
+      {
+        "text": "Porque el vapor inactiva la secreción de saliva endógena y provoca úlceras duodenales severas.",
+        "isCorrect": false,
+        "explanation": "No existe ninguna relación fisiopatológica demostrada entre la inhalación de vapor húmedo y la secreción salival o el desarrollo de úlceras digestivas."
+      },
+      {
+        "text": "Porque el vapor caliente y denso puede provocar un aumento de la vasodilatación local en la mucosa laríngea, incrementando el edema subglótico y la obstrucción de forma aguda, sumado al alto riesgo de accidentes por quemaduras térmicas.",
+        "isCorrect": true,
+        "explanation": "El calor local del vapor de ducha caliente favorece la vasodilatación capilar de la mucosa subglótica inflamada, lo que puede incrementar de forma paradójica el edema y agravar la obstrucción respiratoria alta, sumado al riesgo de quemaduras con agua caliente en el baño. Se prefiere la exposición a aire frío y húmedo (como la ventana o el refrigerador) que produce vasoconstricción local."
+      },
+      {
+        "text": "Porque está demostrado que prolonga la transmisión y replicación del virus parainfluenza a nivel pulmonar de forma indeterminada.",
+        "isCorrect": false,
+        "explanation": "La replicación viral no se ve afectada ni prolongada de forma directa por la inhalación húmeda de vapor caliente en el tracto respiratorio."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "La mayoría de los niños con laringomalacia cursan con una evolución benigna que resuelve sola. Sin embargo, un pequeño porcentaje requiere intervención quirúrgica (supraglotoplastia). ¿Cuál de los siguientes criterios clínicos constituye una indicación formal para la derivación a Cirugía Infantil / ORL para tratamiento quirúrgico de la laringomalacia?",
+    "hint": "La cirugía se reserva para casos donde el colapso laríngeo compromete de forma grave funciones vitales del lactante: su nutrición (por el enorme esfuerzo físico que hace para respirar), su oxigenación sistémica o su sueño.",
+    "options": [
+      {
+        "text": "Presencia de falla de medro (retraso del crecimiento ponderal por gasto calórico excesivo para respirar), apneas obstructivas significativas, cianosis en alimentación o episodios de asfixia graves.",
+        "isCorrect": true,
+        "explanation": "Los criterios de severidad que obligan a realizar una supraglotoplastia quirúrgica son el retraso de crecimiento ponderal severo (falla de medro debido a que el lactante gasta más calorías en respirar que las que consume), hipoxia documentada (cianosis), apneas obstructivas del sueño significativas o disfagia grave con riesgo de aspiraciones."
+      },
+      {
+        "text": "Ruido respiratorio inspiratorio leve que aumenta solo durante el llanto o el ejercicio vigoroso.",
+        "isCorrect": false,
+        "explanation": "Esta es la presentación leve habitual de la laringomalacia que solo requiere observación clínica ambulatoria y educación a los padres; no califica para cirugía."
+      },
+      {
+        "text": "Preferencia persistente del lactante por dormir de lado en lugar de decúbito supino.",
+        "isCorrect": false,
+        "explanation": "La preferencia posicional para dormir no es una indicación quirúrgica ni representa un riesgo para el desarrollo o la ventilación del lactante."
+      },
+      {
+        "text": "Persistencia del estridor leve después de los 6 meses de vida en un lactante activo con excelente incremento de peso.",
+        "isCorrect": false,
+        "explanation": "El estridor de la laringomalacia alcanza su pico habitual a los 6 meses y puede durar hasta los 12-18 meses; si mantiene un excelente incremento de peso y está sano, se continúa con conducta expectante."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Una vez asegurada la vía aérea de un preescolar con Traqueítis Bacteriana grave ingresado en la UCIN, ¿cuál es el esquema antibiótico empírico de elección recomendado por las guías pediátricas chilenas y por qué?",
+    "hint": "El esquema empírico debe cubrir de forma muy agresiva al Staphylococcus aureus (germen principal, productor de betalactamasas) y a las bacterias respiratorias invasoras comunes como el neumococo o el Haemophilus.",
+    "options": [
+      {
+        "text": "Penicilina sódica en dosis única IM de forma ambulatoria por su espectro dirigido exclusivo contra anaerobios.",
+        "isCorrect": false,
+        "explanation": "La traqueítis bacteriana es una infección sistémica grave invasora supurativa traqueal que requiere antibioterapia endovenosa de amplio espectro hospitalizada, no dosis únicas intramusculares de bajo espectro."
+      },
+      {
+        "text": "Cefotaxima (o Ceftriaxona) asociada a Cloxacilina (o Vancomicina si hay sospecha de resistencia / SAMR), con el fin de aportar un amplio espectro contra Staphylococcus aureus, Streptococcus pneumoniae y otros patógenos bacterianos comunes de la vía aérea.",
+        "isCorrect": true,
+        "explanation": "El tratamiento de elección de la traqueítis bacteriana requiere asociar una cefalosporina de tercera generación (Cefotaxima o Ceftriaxona para dar cobertura contra bacilos Gram negativos y neumococo) junto con un antiestafilocócico potente como Cloxacilina o Vancomicina, dado que Staphylococcus aureus es el agente líder de la traqueítis bacteriana y suele ser productor de betalactamasas."
+      },
+      {
+        "text": "Únicamente Amoxicilina oral a dosis bajas por 5 días para evitar la inducción de resistencias en la unidad de paciente crítico.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina oral a dosis bajas es completamente insuficiente para el manejo de una traqueítis bacteriana purulenta necrotizante invasora en un paciente críticamente enfermo intubado."
+      },
+      {
+        "text": "Anfotericina B deoxicolato intravenosa asociada a macrólidos por vía enteral por 21 días.",
+        "isCorrect": false,
+        "explanation": "La anfotericina B es un antifúngico específico contra hongos invasores como Candida; no tiene ninguna utilidad en el manejo de una traqueítis bacteriana piógena supurativa del lactante."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 3 meses es derivado a broncopulmonar infantil por presentar estridor inspiratorio congénito moderado persistente asociado a regurgitaciones alimentarias frecuentes, episodios de atoramiento durante la lactancia y un regular incremento ponderal. El especialista explica a los padres que la laringomalacia presenta una alta tasa de coexistencia con el Reflujo Gastroesofágico (RGE). Respecto a la fisiopatología de esta asociación y su manejo, ¿cuál de las siguientes afirmaciones es correcta?",
+    "hint": "La exposición de tejidos blandos de la vía aérea infantil a fluidos gástricos ácidos y pepsina produce una respuesta inflamatoria (laringitis química posterior) que altera el tono y la consistencia de los tejidos que ya de por sí son flácidos.",
+    "options": [
+      {
+        "text": "El tratamiento de elección ante esta asociación es realizar una funduplicatura de Nissen quirúrgica de forma universal a todos los lactantes a los 3 meses.",
+        "isCorrect": false,
+        "explanation": "La cirugía de Nissen se reserva para casos excepcionales refractarios a terapia médica con riesgo de apnea o neumonías por aspiración recurrentes; no es una indicación universal en menores de 3 meses."
+      },
+      {
+        "text": "La laringomalacia es causada de forma directa por el RGE, por lo que desinflamar el esófago cura de forma instantánea el colapso de los cartílagos en menos de 48 horas.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia tiene una base anatómica y neuromuscular primaria de inmadurez del cartílago; el RGE la agrava de forma importante, pero tratar el RGE no produce una \"cura instantánea\" en 48 horas de una alteración estructural."
+      },
+      {
+        "text": "El RGE ácido y no ácido causa inflamación crónica, edema y microlesiones en la mucosa de la laringe posterior y los aritenoides, lo que agrava mecánicamente la flacidez y el colapso laríngeo inspiratorio. El tratamiento con inhibidores de la bomba de protones (IBP) o bloqueadores H2 está indicado para romper este círculo vicioso.",
+        "isCorrect": true,
+        "explanation": "El RGE y la laringomalacia se potencian mutuamente: el esfuerzo respiratorio por la obstrucción alta genera una presión intratorácica negativa muy marcada en cada inspiración, lo que favorece el ascenso del contenido gástrico. A su vez, el reflujo inflama y edematiza la mucosa laríngea (aritenoides), empeorando el estridor y la obstrucción. Tratar el RGE con medidas posicionales y antisecretores (como Esomeprazol) mejora significativamente los síntomas respiratorios y el estridor."
+      },
+      {
+        "text": "El reflujo protege la vía aérea al mantener húmedos los cartílagos, por lo que el uso de fármacos antireflujo está formalmente contraindicado.",
+        "isCorrect": false,
+        "explanation": "El ácido gástrico no protege la vía aérea; al contrario, produce microaspiraciones, laringitis por reflujo y broncoespasmo reflejo."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Usted evalúa en la urgencia a dos pacientes pediátricos con cuadros de dificultad respiratoria alta. Solicita radiografías de cuello lateral y anteroposterior de tejidos blandos para orientar el diagnóstico diferencial. ¿Cuál de las siguientes opciones describe correctamente los hallazgos radiológicos clásicos para diferenciar la Laringitis Aguda Obstructiva (Croup) de la Epiglotitis Aguda?",
+    "hint": "La laringitis estrecha el canal de aire por debajo de las cuerdas vocales (subglotis) de forma cónica simétrica. La epiglotitis inflama la estructura cartilaginosa superior, haciéndola lucir gruesa y roma en la radiografía de perfil.",
+    "options": [
+      {
+        "text": "Ambas patologías presentan exactamente el mismo patrón radiológico de ensanchamiento del espacio retrofaríngeo, siendo imposible su diferenciación por imágenes.",
+        "isCorrect": false,
+        "explanation": "El ensanchamiento del espacio retrofaríngeo es el hallazgo clásico del absceso retrofaríngeo, no de la laringitis o epiglotitis."
+      },
+      {
+        "text": "El Croup se asocia al signo del \"lápiz\" o \"punta de aguja\" (estrechamiento subglótico simétrico) en la radiografía anteroposterior de cuello; la Epiglotitis se asocia al signo del \"pulgar\" o \"huella digital\" (epiglotis masivamente edematosa y ensanchada) en la proyección lateral de cuello.",
+        "isCorrect": true,
+        "explanation": "En la proyección AP de cuello, el edema subglótico de la laringitis viral estrecha la columna de aire simulando la punta de un lápiz o un campanario de iglesia (steeple sign). En la radiografía lateral, la epiglotis inflamada pierde su forma delgada de hoja y luce redonda y gruesa como la falange de un dedo pulgar (thumb sign)."
+      },
+      {
+        "text": "La radiografía de tórax normal descarta de forma absoluta tanto el Croup como la Epiglotitis, por lo que no se requiere examen físico faríngeo.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico es clínico y la radiografía no es mandatoria en casos típicos; además, una radiografía de tórax estándar puede ser normal ante obstrucciones confinadas exclusivamente al cuello alto, por lo que nunca descarta estas entidades."
+      },
+      {
+        "text": "El Croup muestra el signo de \"la huella digital\" en la proyección lateral; la Epiglotitis muestra el signo de \"el lápiz\" en la proyección anteroposterior.",
+        "isCorrect": false,
+        "explanation": "Describe los signos radiológicos clásicos de forma invertida, atribuyendo la huella digital al croup y el lápiz a la epiglotitis, lo cual es incorrecto."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un escolar de 4 años ingresa a la unidad de paciente crítico con un cuadro de Laringitis Obstructiva Grado III severa que no responde adecuadamente a Adrenalina nebulizada repetida ni a corticoides. Se decide iniciar ventilación no invasiva o aporte de gases con una mezcla de Helio y Oxígeno (Heliox). ¿Cuál es el fundamento físico y fisiopatológico del uso de esta mezcla de gases en la obstrucción severa de la vía aérea alta?",
+    "hint": "El paso de aire a través de una zona estrechada de la laringe genera torbellinos de aire (flujo turbulento) que aumentan mucho el esfuerzo físico necesario para meter el aire. Un gas mucho más \"liviano\" pasa de forma suave y ordenada (flujo laminar) a través de la misma estrechez.",
+    "options": [
+      {
+        "text": "Su función es deprimir de forma directa el centro respiratorio central para inducir un sueño profundo anestésico que evite el estridor.",
+        "isCorrect": false,
+        "explanation": "El Heliox no actúa como un sedante o anestésico central; no deprime el centro respiratorio y se inhala manteniendo al paciente completamente consciente y cooperador."
+      },
+      {
+        "text": "El Heliox actúa como un potente antibiótico inhalado específico contra el virus Parainfluenza.",
+        "isCorrect": false,
+        "explanation": "El helio es un gas inerte sin propiedades farmacológicas antimicrobianas o antivirales intrínsecas."
+      },
+      {
+        "text": "El Helio es un gas inerte de densidad extremadamente baja ($7\\text{ veces menor}$ que la del nitrógeno atmosférico), lo que disminuye el número de Reynolds del gas inspirado, transformando el flujo turbulento (causante del estridor y el alto trabajo respiratorio en la zona estrechada) en un flujo laminar de menor resistencia, disminuyendo drásticamente el trabajo de los músculos respiratorios y previniendo el agotamiento del paciente.",
+        "isCorrect": true,
+        "explanation": "El Heliox (comúnmente en mezclas de $70/30$ u $80/20$ de helio/oxígeno) aprovecha la baja densidad del helio para disminuir la turbulencia del flujo aéreo en la vía aérea obstruida. Al reducir la turbulencia (número de Reynolds $<2000$), se genera un flujo laminar que reduce la resistencia al paso de aire, facilitando la ventilación, disminuyendo el quejido y el tiraje, y disminuyendo el consumo calórico respiratorio mientras los corticoides hacen su efecto antiinflamatorio."
+      },
+      {
+        "text": "El Helio es un gas de alta densidad que aumenta la resistencia de la vía aérea para obligar al niño a respirar con mayor fuerza diafragmática.",
+        "isCorrect": false,
+        "explanation": "El helio disminuye (no aumenta) la densidad del gas y la resistencia al flujo; aumentar la resistencia agotaría de forma inmediata al paciente pediátrico."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante un seminario de urgencias pediátricas, se discute la anatomía bronquial infantil en relación con la aspiración de cuerpos extraños. ¿Cuál es el sitio bronquial donde se aloja con mayor frecuencia un cuerpo extraño aspirado que supera la laringe y la tráquea, y cuál es el fundamento anatómico de esta predilección?",
+    "hint": "El aire y los objetos suspendidos tienden a seguir el \"camino de menor resistencia\" física. El diseño anatómico del árbol bronquial derecho ofrece una ruta de continuación casi directa en línea recta con el tubo de la tráquea.",
+    "options": [
+      {
+        "text": "En el bronquio principal izquierdo, debido a que nace en un ángulo más vertical directamente alineado con la tráquea.",
+        "isCorrect": false,
+        "explanation": "El bronquio principal izquierdo es más horizontal, más angosto y largo, debido a la posición anatómica del corazón en el mediastino izquierdo, lo que dificulta el acceso físico directo de objetos sólidos."
+      },
+      {
+        "text": "En el bronquio lobar superior izquierdo, por ser la zona de menor flujo de aire inspiratorio.",
+        "isCorrect": false,
+        "explanation": "La predilección no es por el lóbulo superior izquierdo, el cual está muy angulado con respecto a la tráquea."
+      },
+      {
+        "text": "En el bronquio principal derecho, debido a que es mecánicamente más ancho, más corto, nace en un ángulo más vertical con respecto al eje de la tráquea (aproximadamente $25^\\circ\\text{ vs } 45^\\circ$ del izquierdo), y la carina traqueal está ligeramente desviada a la izquierda.",
+        "isCorrect": true,
+        "explanation": "Por razones estrictamente anatómicas, aproximadamente el $60\\text{-}70\\%$ de los cuerpos extraños traqueobronquiales se alojan en el lado derecho. El bronquio principal derecho es más vertical, más ancho y corto que el izquierdo, lo que facilita el paso directo de cualquier objeto que sea aspirado más allá de las cuerdas vocales."
+      },
+      {
+        "text": "En el bronquio lobar medio derecho de forma exclusiva, por la presencia de un esfínter de protección laringeo específico.",
+        "isCorrect": false,
+        "explanation": "No existen esfínteres musculares de protección laríngea en los bronquios lobares; la detención del objeto depende del diámetro del cuerpo extraño y del bronquio receptor."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un recién nacido de término presenta desde el nacimiento un estridor inspiratorio moderado de tono agudo asociado a episodios de llanto débil, disfónicos y soplados. Durante la alimentación al pecho, presenta tos frecuente y regurgitación nasal. El examen físico general es normal, descartándose malformaciones evidentes. ¿Cuál es la sospecha diagnóstica más probable respecto a esta anomalía laríngea congénita (la segunda más común tras la laringomalacia) y con qué antecedentes clínicos se relaciona frecuentemente?",
+    "hint": "La inervación de la laringe depende de ramas del nervio vago (nervios laríngeos recurrentes) que realizan un largo recorrido intratorácico (rodeando el arco aórtico en el lado izquierdo). Esta trayectoria los expone a traumas mecánicos por tracción cervical en el parto o manipulación en cirugías del tórax.",
+    "options": [
+      {
+        "text": "Parálisis de cuerdas vocales unilateral; se asocia frecuentemente a estiramiento del nervio laríngeo recurrente durante el parto (especialmente en presentaciones podálicas o partos instrumentados) o a antecedentes de cirugía torácica mayor (como la ligadura del ductus arterioso persistente).",
+        "isCorrect": true,
+        "explanation": "La parálisis de cuerdas vocales congénita es la segunda causa de estridor en lactantes. La forma unilateral es la más frecuente; se asocia a traumas del parto (estiramiento del nervio laríngeo recurrente en partos difíciles de hombros o podálicas) o a daño iatrogénico del nervio laríngeo recurrente izquierdo durante cirugías de tórax o del arco aórtico (ligadura de DAP o corrección de coartación). Cursa con llanto débil, soplado y disfagia."
+      },
+      {
+        "text": "Estenosis subglótica adquirida; se asocia de forma obligatoria a antecedentes de intubación endotraqueal neonatal por más de 30 días.",
+        "isCorrect": false,
+        "explanation": "Para catalogarse como adquirida por intubación, el paciente debe tener historia de ventilación mecánica invasiva con tubo endotraqueal, lo cual se descarta en este recién nacido de término sano sin antecedentes de UCIN."
+      },
+      {
+        "text": "Parálisis de cuerdas vocales bilateral; es una anomalía puramente digestiva secundaria a intolerancia a la lactosa.",
+        "isCorrect": false,
+        "explanation": "La parálisis bilateral es más grave, cursa con estridor severo y disnea extrema que suele requerir traqueostomía inmediata al nacer, y se asocia a malformaciones neurológicas centrales graves (como malformación de Chiari) o hidrocefalia, no a intolerancia a la lactosa."
+      },
+      {
+        "text": "Croup espasmódico congénito; se hereda de forma ligada al cromosoma X y se asocia a retraso mental.",
+        "isCorrect": false,
+        "explanation": "No existe el \"croup espasmódico congénito\" con herencia ligada al X ni asociación a retraso mental de esta forma; el croup espasmódico es una patología adquirida paroxística transitoria benigna."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En la práctica clínica internacional y de investigación, la gravedad del Croup o laringitis se cuantifica formalmente utilizando la Escala de Westley (Westley Croup Score). ¿Cuáles son los cinco parámetros clínicos considerados en este score objetivo para clasificar la obstrucción laríngea y guiar el manejo?",
+    "hint": "El score busca evaluar el grado de obstrucción mecánica real (ruido inspiratorio y uso de músculos), la efectividad del paso de aire (auscultación), y la repercusión sistémica por falta de oxígeno a nivel tisular (color de piel) y neurológico (cerebro).",
+    "options": [
+      {
+        "text": "Frecuencia cardíaca, temperatura, presencia de sibilancias, diámetro pupilar y llanto.",
+        "isCorrect": false,
+        "explanation": "Parámetros como la temperatura o el diámetro pupilar no forman parte del Westley Score para evaluar obstrucción laríngea."
+      },
+      {
+        "text": "Presión arterial, frecuencia respiratoria, saturación de oxígeno, hematocrito y PCR.",
+        "isCorrect": false,
+        "explanation": "Los exámenes de laboratorio o constantes hemodinámicas duras como la presión arterial no se consideran dentro de la evaluación de este score clínico eminentemente dinámico de cabecera."
+      },
+      {
+        "text": "Presencia de sialorrea, trismus, tortícolis, desviación de la úvula y fiebre.",
+        "isCorrect": false,
+        "explanation": "Estos parámetros corresponden a la evaluación clínica de infecciones supurativas profundas del cuello (absceso retrofaríngeo o periamigdalino), no al croup viral."
+      },
+      {
+        "text": "Estridor inspiratorio, retracciones musculares (tiraje), entrada de aire (ventilación), cianosis y nivel de conciencia.",
+        "isCorrect": true,
+        "explanation": "La Escala de Westley evalúa 5 parámetros de forma cuantitativa: Estridor: Ausente (0), en reposo con agitación (1), en reposo continuo (2). Tiraje (retracciones): Ausente (0), leve (1), moderado (2), severo (3). Entrada de aire: Normal (0), levemente disminuida (1), marcadamente disminuida (2). Cianosis: Ausente (0), con agitación (4), en reposo (5). Conciencia: Normal (0), alterada/somnolencia/sopor (5)."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 12 meses ingresa a la urgencia por Laringitis Grado II. Presenta vómitos repetidos que impiden la administración segura de Dexametasona oral. El médico de turno decide indicar Budesonida nebulizada como alternativa de corticoterapia. ¿Cuál es la dosis recomendada por el MINSAL y cuál es su mecanismo de acción local rápido en comparación con los corticoides sistémicos?",
+    "hint": "La budesonida es un corticoide inhalado de alta potencia local. En dosis elevadas nebulizadas, tiene la propiedad única de provocar un enfriamiento local y contracción de los vasos inflamados del cuello de forma muy rápida, actuando casi tan rápido como la adrenalina en reducir el volumen de la mucosa.",
+    "options": [
+      {
+        "text": "Dosis de $10\\text{ mg}$ por vía rectal; su acción se limita a la mucosa rectal sin tener efectos sistémicos ni laríngeos.",
+        "isCorrect": false,
+        "explanation": "No existe formulación de budesonida rectal autorizada ni recomendada para el manejo del edema laríngeo agudo en pediatría."
+      },
+      {
+        "text": "Dosis de $0.1\\text{ mg}$; actúa destruyendo la membrana fosfolipídica de las células epiteliales para secar la mucosa laríngea.",
+        "isCorrect": false,
+        "explanation": "Una dosis de $0.1\\text{ mg}$ es extremadamente baja (rango terapéutico de mantención diaria para asma leve) e ineficaz para el manejo agudo de rescate del edema obstructivo laríngeo. No destruye membranas celulares."
+      },
+      {
+        "text": "Dosis de $2\\text{ mg}$ de suspensión para nebulizar ($4\\text{ ml}$ de solución de $0.5\\text{ mg/ml}$ sin diluir) nebulizados con oxígeno; además del efecto antiinflamatorio genómico tardío, la budesonida nebulizada produce una vasoconstricción local rápida de los capilares de la mucosa subglótica mediante efectos no genómicos inmediatos, reduciendo el edema laríngeo de forma clínicamente significativa a los 30 minutos de su administración.",
+        "isCorrect": true,
+        "explanation": "La dosis terapéutica de Budesonida nebulizada para laringitis moderada-grave en Chile es de $2\\text{ mg}$ (dosis única, alta concentración). Su ventaja clínica es su rápido inicio de acción (30 minutos) debido a vasoconstricción directa de la mucosa inflamada subglótica mediada por receptores de membrana celular no genómicos, sumado al posterior efecto antiinflamatorio esteroidal clásico de largo plazo. Es la alternativa no invasiva de primera elección si el paciente vomita."
+      },
+      {
+        "text": "Dosis de $5\\text{ mg}$ diluidos en suero glucosado al $10\\%$; actúa como broncodilatador beta-adrenérgico selectivo de acción ultra-lenta.",
+        "isCorrect": false,
+        "explanation": "La dosis de $5\\text{ mg}$ es excesiva, no se diluye en suero glucosado de rutina y la budesonida no tiene propiedades broncodilatadoras beta-adrenérgicas directas (es un corticoide, no un agonista adrenérgico como el salbutamol)."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 8 meses con antecedentes de prematurez extrema (nacido a las 26 semanas) e historia de intubación endotraqueal neonatal prolongada por 45 días en la UCIN, ingresa a urgencias por presentar episodios recurrentes de estridor bifásico continuo y sibilancias que son catalogados repetidamente en la urgencia como \"bronquitis obstructiva\" o \"laringitis\", sin responder de forma satisfactoria al Salbutamol ni a dosis convencionales de corticoides orales. Al examen físico está afebril, activo y se ausculta estridor inspiratorio y espiratorio marcado en la región cervical. ¿Cuál es el diagnóstico de sospecha prioritario?",
+    "hint": "La intubación prolongada con un tubo endotraqueal (especialmente si es demasiado grande o si el balón genera una presión excesiva sobre la mucosa mucosa del cartílago cricoides, el único anillo laríngeo completamente cerrado) puede causar isquemia, ulceración, curación con fibrosis y cicatrización estenosante de la luz subglótica.",
+    "options": [
+      {
+        "text": "Traqueítis bacteriana crónica subaguda por Pseudomonas.",
+        "isCorrect": false,
+        "explanation": "La traqueítis bacteriana es una infección supurativa aguda necrotizante con fiebre alta y compromiso del estado general marcado, incompatible con un cuadro crónico de sibilancias y estridor continuo afebril sin signos infecciosos de semanas de evolución."
+      },
+      {
+        "text": "Estenosis subglótica adquirida secundaria a trauma de intubación endotraqueal.",
+        "isCorrect": true,
+        "explanation": "La Estenosis Subglótica Adquirida es una de las complicaciones más serias de la intubación endotraqueal prolongada en neonatos. Al inflamarse y cicatrizar con tejido fibroso rígido, se reduce de forma permanente el diámetro de la subglotis. Clínicamente se manifiesta como estridor bifásico persistente, refractariedad a broncodilatadores y corticoides, y dificultad respiratoria recurrente ante cualquier cuadro viral banal. El diagnóstico de confirmación se realiza mediante laringotraqueoscopia directa."
+      },
+      {
+        "text": "Croup espasmódico recurrente refractario.",
+        "isCorrect": false,
+        "explanation": "El croup espasmódico se presenta en accesos nocturnos autolimitados y responde muy bien al aire frío; no cursa con estridor bifásico continuo en reposo durante el día."
+      },
+      {
+        "text": "Laringomalacia tipo II tardía compensada.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia cursa típicamente con estridor puramente inspiratorio que disminuye con la edad (hacia los 8 meses suele estar en fase de resolución espontánea), no con estridor bifásico rígido persistente refractario."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un lactante de 6 meses presenta desde el nacimiento un estridor bifásico constante de tono áspero que empeora característicamente de intensidad durante la alimentación (lactancia) y cuando extiende el cuello hacia atrás. Presenta además historia de disfagia leve con rechazo parcial de alimentos semisólidos y episodios repetidos de neumonías por aspiración. La radiografía de tórax AP muestra un estrechamiento persistente de la tráquea intratorácica y el esófago. ¿Cuál es el diagnóstico de sospecha y qué examen de imagen se considera el más adecuado para confirmar la anatomía causal?",
+    "hint": "Se trata de una anomalía congénita del desarrollo del arco aórtico y sus ramas embrionarias. Estas estructuras vasculares anómalas rodean por completo y comprimen mecánicamente a la tráquea y al esófago como si fueran un lazo rígido, provocando estridor y disfagia simultáneamente.",
+    "options": [
+      {
+        "text": "Anillo Vascular (como el Doble Arco Aórtico); se confirma mediante Angio-TC de tórax con reconstrucción 3D o Resonancia Magnética cardíaca/mediastínica.",
+        "isCorrect": true,
+        "explanation": "Los Anillos Vasculares (ej: doble arco aórtico o arteria subclavia derecha aberrante) son anomalías congénitas de los grandes vasos que forman un anillo completo o incompleto alrededor de la tráquea y el esófago, comprimiéndolos. Se manifiestan por estridor bifásico que empeora al comer (por el paso del bolo alimenticio por el esófago que comprime aún más la tráquea) y mejoría posicional al hiperextender el cuello (lo que libera parcialmente la tráquea). El Angio-TC o la Angio-RM son los métodos de elección para delimitar la anatomía vascular quirúrgica."
+      },
+      {
+        "text": "Cuerpo extraño laríngeo de larga data; se confirma mediante radiografía de pelvis AP.",
+        "isCorrect": false,
+        "explanation": "Un cuerpo extraño laríngeo de larga data causaría disfonía persistente severa y estridor alto, pero no compresión esofágica intratorácica simétrica ni se relaciona con anomalías vasculares visibles en Angio-TC."
+      },
+      {
+        "text": "Epiglotitis bacteriana crónica; se confirma mediante punción lumbar y cultivo de LCR.",
+        "isCorrect": false,
+        "explanation": "La epiglotitis es una patología bacteriana de instalación hiperaguda y potencialmente letal en pocas horas; no cursa con un patrón malformativo vascular crónico de 6 meses de evolución."
+      },
+      {
+        "text": "Laringomalacia grave; se confirma mediante ecografía abdominal con Doppler color de grandes vasos.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia es una patología de la laringe supraglótica alta, no intratorácica; no causa compresión esofágica visible ni estrechamiento de la tráquea intratorácica en la radiografía, y la ecografía abdominal no evalúa el mediastino torácico alto."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante una ronda médica en el servicio de pediatría, se discute la distinción epidemiológica y clínica entre el Croup Espasmódico y la Laringitis Aguda Obstructiva viral (Croup viral). ¿Cuál de las siguientes afirmaciones describe de forma correcta una diferencia clave entre ambas entidades?",
+    "hint": "La laringitis viral común actúa como un proceso infeccioso lento que va \"madurando\" a lo largo de los días con mucosidad y decaimiento. El croup espasmódico es una respuesta reactiva de tipo espasmo laringeo súbito, un evento ruidoso de pocas horas de duración sin signos de infección general.",
+    "options": [
+      {
+        "text": "El Croup espasmódico cursa característicamente sin pródromos catarrales (coriza, resfrío), sin fiebre, debuta de forma brusca a medianoche en niños con antecedentes personales o familiares de atopia o hiperreactividad de la vía aérea, y suele ser de carácter recurrente; por el contrario, el Croup viral presenta pródromos catarrales, fiebre de rango variable, inicio gradual y una curva de resolución más lenta de varios días de duración.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la diferencia diagnóstica crucial: el Croup espasmódico (laringitis estridulosa) carece del componente infeccioso sistémico (fiebre, coriza) y se comporta como una respuesta obstructiva laringea paroxística, habitualmente gatillada por aire frío, reflujo o alérgenos en niños propensos (atópicos). El croup viral tiene el clásico pródromo respiratorio viral de 24-48 horas."
+      },
+      {
+        "text": "Ambas patologías son idénticas en fisiopatología y tratamiento de mantenimiento, requiriendo antibioterapia profiláctica con amoxicilina-clavulánico por 14 días.",
+        "isCorrect": false,
+        "explanation": "Son fisiopatológicamente distintas (infección/edema viral vs. espasmo/hiperreactividad local). Ninguna de las dos es bacteriana y el uso de amoxicilina-clavulánico está contraindicado de forma profiláctica."
+      },
+      {
+        "text": "El Croup espasmódico se asocia a meningitis viral aséptica, por lo que requiere punción lumbar diagnóstica de rutina en todos los casos en urgencia.",
+        "isCorrect": false,
+        "explanation": "No existe ninguna relación fisiopatológica entre el croup espasmódico y la meningitis aséptica; realizar una punción lumbar en un niño con croup espasmódico es una mala práctica médica severa."
+      },
+      {
+        "text": "El Croup viral es de carácter no infeccioso y ocurre exclusivamente durante el verano; el Croup espasmódico es causado por bacterias anaerobias sumamente contagiosas.",
+        "isCorrect": false,
+        "explanation": "Invierte los conceptos; el Croup viral es de etiología infecciosa viral (Parainfluenza) y es muy frecuente en otoño e invierno. El croup espasmódico no es bacteriano."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En el caso excepcional de que un paciente pediátrico con Epiglotitis Aguda requiera intubación endotraqueal de urgencia en el quirófano debido a compromiso severo de la vía aérea, ¿cuál es la recomendación técnica crucial respecto a la selección del diámetro del tubo endotraqueal a utilizar?",
+    "hint": "La laringe en la epiglotitis está sumamente estrechada por la hinchazón masiva de los tejidos. Forzar un tubo estándar a través de un canal estrechado y rígido lesionaría las cuerdas vocales de forma irreversible o impediría físicamente el paso del aire.",
+    "options": [
+      {
+        "text": "Utilizar un tubo endotraqueal del mismo diámetro o un tamaño mayor al calculado para la edad del paciente, para vencer la resistencia del edema supraglótico de forma mecánica.",
+        "isCorrect": false,
+        "explanation": "Usar un tubo del mismo tamaño o mayor es peligroso; suele ser imposible progresarlo a través del edema y puede cerrar de forma completa la vía aérea por trauma e hinchazón refleja secundaria."
+      },
+      {
+        "text": "Utilizar exclusivamente tubos con balón de alta presión inflados al máximo antes de traspasar la glotis.",
+        "isCorrect": false,
+        "explanation": "Los tubos con balones de alta presión inflados antes del paso están estrictamente contraindicados por el riesgo de rotura laríngea o asfixia traumática inmediata durante el procedimiento."
+      },
+      {
+        "text": "Seleccionar un tubo endotraqueal de $0.5\\text{ a }1.0$ tamaño menor al calculado habitualmente para la edad del paciente (por ejemplo, si por fórmula corresponde un tubo N° 5, seleccionar un N° 4 o 4.5), debido a que la epiglotis, los repliegues ariepiglóticos y el espacio glótico se encuentran masivamente edematosos y estrechados, y forzar un tubo de tamaño normal causaría trauma isquémico local, necrosis mucosa, estenosis subglótica futura o imposibilidad absoluta de progresar la intubación.",
+        "isCorrect": true,
+        "explanation": "La regla de oro ante la intubación de epiglotitis (o cualquier obstrucción laríngea severa) es seleccionar un tubo endotraqueal de menor calibre al teórico calculado para la edad (fórmula usual: $\\text{Edad}/4 + 4$). El edema severo de la supraglotis reduce el espacio real de paso; un tubo más delgado permite franquear el obstáculo de forma suave sin causar desgarros, sangrado masivo o necrosis por presión de la mucosa laríngea."
+      },
+      {
+        "text": "Los tubos endotraqueales están contraindicados de forma absoluta en la epiglotitis; el único método de ventilación autorizado es la mascarilla laríngea de tamaño adulto.",
+        "isCorrect": false,
+        "explanation": "Los tubos endotraqueales son el pilar de la estabilización mecánica de la vía aérea en epiglotitis; la mascarilla laríngea no protege de forma segura la vía aérea contra el colapso supraglótico masivo de la epiglotis y está contraindicada como solución definitiva."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Usted presencia en el servicio de urgencias a un lactante de 8 meses de vida previamente sano que, de forma brusca tras manipular un objeto plástico pequeño, presenta un cuadro de asfixia aguda por aspiración de cuerpo extraño, con tos ineficaz, cianosis progresiva y pérdida de conciencia inminente. ¿Cuál es la maniobra de desobstrucción física recomendada para este lactante menor de un año y en qué difiere del manejo en el niño mayor de un año?",
+    "hint": "Los lactantes pequeños tienen el hígado y el bazo relativamente grandes y desprotegidos por debajo de la parrilla costal flexible. Presionar con fuerza el abdomen superior (maniobra de Heimlich clásica) puede aplastar el hígado contra la columna, causando una hemorragia interna letal.",
+    "options": [
+      {
+        "text": "Realizar de forma inmediata compresas calientes abdominales y dar de beber agua mineral.",
+        "isCorrect": false,
+        "explanation": "Las compresas y dar líquidos están estrictamente contraindicados; el agua puede aumentar el ahogo y empujar el objeto más profundamente en la vía aérea."
+      },
+      {
+        "text": "Realizar la maniobra de Heimlich clásica (compresiones abdominales subxifoideas) de forma vigorosa; la técnica es idéntica en lactantes y niños mayores de un año.",
+        "isCorrect": false,
+        "explanation": "Es un error técnico grave; aplicar compresiones abdominales vigorosas directas en un lactante de 8 meses puede romper el hígado o el bazo, causando shock hipovolémico traumático letal de forma rápida."
+      },
+      {
+        "text": "En el lactante menor de un año está contraindicada la maniobra de Heimlich clásica por riesgo de rotura hepática o visceral; se debe realizar la maniobra de desobstrucción de lactantes combinando 5 golpes interescapulares firmes en la espalda (con el lactante boca abajo apoyado sobre el antebrazo del reanimador con inclinación hacia abajo) seguidos de 5 compresiones torácicas enérgicas (con el lactante boca arriba sobre el antebrazo), repitiendo el ciclo de forma continua hasta que el objeto sea expulsado o el lactante quede inconsciente (momento en que se inicia RCP convencional).",
+        "isCorrect": true,
+        "explanation": "En menores de un año (lactantes), la técnica de desobstrucción combina de forma segura golpes en la espalda y compresiones en el tórax, evitando la presión sobre las vísceras abdominales desprotegidas. A partir del año de vida, cuando las estructuras abdominales y el diafragma están más desarrollados, la maniobra de Heimlich (compresiones abdominales subxifoideas rápidas hacia arriba y adentro) es la técnica de elección."
+      },
+      {
+        "text": "Administrar salbutamol inhalado continuamente y realizar masajes circulares en el cuello.",
+        "isCorrect": false,
+        "explanation": "Los broncodilatadores nebulizados o masajes no tienen ningún rol ante una obstrucción mecánica total de la vía aérea superior por cuerpo extraño sólido y retrasan de forma inaceptable las maniobras físicas de reanimación."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante una clase de infectología, se analiza la historia de las enfermedades inmunoprevenibles. Se menciona que antes de la introducción de la vacuna contra la Difteria (contenida hoy en la Hexavalente y dTpa), la difteria laríngea era conocida como el \"Croup Verdadero\", una de las causas de muerte por asfixia más temidas en la infancia. ¿Cuál es el patógeno bacteriano responsable de esta patología y qué hallazgo clínico local característico causaba la obstrucción mecánica de la vía aérea?",
+    "hint": "Se trata de un bacilo Gram positivo productor de una potente exotoxina sistémica. La necrosis celular local en la garganta produce un exudado fibrinoso muy denso y difícil de arrancar que asfixia de forma lenta al niño.",
+    "options": [
+      {
+        "text": "Bordetella pertussis; causa la formación de pápulas eritematosas en las cuerdas vocales.",
+        "isCorrect": false,
+        "explanation": "Bordetella pertussis es el agente del coqueluche; no causa pseudomembranas faríngeas obstructivas ni cuello de toro, cursa con bronquitis con tos paroxística espasmódica."
+      },
+      {
+        "text": "Streptococcus pyogenes; produce la calcificación instantánea de la epiglotis.",
+        "isCorrect": false,
+        "explanation": "El S. pyogenes es el agente de la amigdalitis bacteriana común y de la escarlatina, causa placas de pus blando no adherente amigdalino, pero no produce la calcificación de la epiglotis."
+      },
+      {
+        "text": "Corynebacterium diphtheriae; se caracteriza por la formación de pseudomembranas grisáceas, gruesas y adherentes que recubren las amígdalas, la faringe y la laringe, asociadas a una marcada inflamación de los ganglios cervicales (\"cuello de toro\"), las cuales pueden desprenderse y causar la oclusión mecánica brusca de la laringe.",
+        "isCorrect": true,
+        "explanation": "Corynebacterium diphtheriae es el agente etiológico de la difteria. Su toxina causa necrosis de las células de la mucosa faríngea y laríngea, formando pseudomembranas compuestas por detritos, fibrina y bacterias. Estas membranas obstruyen el paso del aire en la laringe (croup diftérico/verdadero) de forma mecánica. El cuello de toro (linfadenopatía masiva y edema de tejidos blandos del cuello) es otro signo clásico de la difteria grave."
+      },
+      {
+        "text": "Mycobacterium tuberculosis; causa la destrucción lítica progresiva de los cartílagos del cuello.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis laríngea es rara, cursa de forma subaguda o crónica con disfonía persistente e infiltración granulomatosa, pero no con pseudomembranas necrotizantes agudas diftéricas."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Al revisar la literatura científica actual y las directrices de la guía clínica de infecciones respiratorias del MINSAL, existe debate sobre la dosis óptima de Dexametasona por vía oral para el tratamiento de la Laringitis Aguda Obstructiva en pediatría. ¿Cuál de las siguientes afirmaciones describe de forma correcta la recomendación respaldada por la evidencia clínica y las pautas nacionales?",
+    "hint": "La dexametasona es un corticoide sintético extremadamente potente (con una potencia antiinflamatoria aproximadamente 25 a 30 veces mayor que la de la cortisona). Diversos ensayos clínicos controlados demostraron que dosis más bajas son suficientes para saturar los receptores esteroidales de la mucosa laríngea infantil con excelente respuesta clínica.",
+    "options": [
+      {
+        "text": "La dosis de $0.15\\text{ mg/kg}$ de Dexametasona oral en dosis única ha demostrado ser clínicamente equivalente y de similar eficacia que la dosis clásica de $0.6\\text{ mg/kg}$ para el alivio de los síntomas, disminución de reconsultas y reducción de la necesidad de hospitalización en pacientes con croup de leve a moderado (Grados I y II), siendo la dosis preferida para optimizar el recurso y disminuir el sabor amargo de la administración.",
+        "isCorrect": true,
+        "explanation": "Tradicionalmente se utilizaba la dosis de $0.6\\text{ mg/kg}$ para todas las laringitis. Sin embargo, múltiples estudios clínicos demostraron que una dosis más baja de $0.15\\text{ mg/kg}$ de dexametasona por vía oral tiene una eficacia clínica idéntica para laringitis leve a moderada, con menor reactividad del menor y excelente tolerancia, por lo que es la pauta de elección en la urgencia ambulatoria de la red pública."
+      },
+      {
+        "text": "La dosis de $0.6\\text{ mg/kg}$ es la única dosis útil; dosis menores a esta carecen por completo de efecto farmacológico en niños.",
+        "isCorrect": false,
+        "explanation": "Es falso; la dosis de $0.15\\text{ mg/kg}$ sí tiene una potente acción farmacológica y produce una respuesta clínica totalmente equivalente en croup leve-moderado."
+      },
+      {
+        "text": "Los corticoides orales tardan de 14 a 21 días en iniciar su efecto antiinflamatorio en la laringe del lactante.",
+        "isCorrect": false,
+        "explanation": "Los corticoides sistémicos administrados por vía oral inician su efecto antiinflamatorio genómico sistémico a la hora o dos horas post-ingesta; un retraso de 14 días es incompatible con el manejo de una patología aguda obstructiva."
+      },
+      {
+        "text": "Está estrictamente prohibido usar Dexametasona oral; el único corticoide sistémico útil en laringitis es la Hidrocortisona intravenosa administrada en infusión continua por 5 días de forma universal.",
+        "isCorrect": false,
+        "explanation": "La Dexametasona oral es el pilar y fármaco de primera elección recomendado en Chile; la hidrocortisona endovenosa en infusión continua por 5 días es un sobretratamiento inútil e invasivo no recomendado."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante la educación a la madre de un preescolar diagnosticado con Laringitis Obstructiva Aguda leve, usted le aconseja que si el menor presenta un episodio nocturno de estridor y tos perruna, lo abrigue bien y lo exponga brevemente al aire frío de una ventana abierta o de la puerta del refrigerador en su hogar. ¿Cuál es el fundamento fisiopatológico y hemodinámico de este efecto beneficioso del aire frío sobre la mucosa laríngea inflamada?",
+    "hint": "La inflamación cursa con aumento de la irrigación de sangre (hiperemia) y acumulación de líquido en los tejidos (edema) debido a la dilatación de los capilares sanguíneos locales. El estímulo de la temperatura fría sobre la mucosa tiene el efecto físico contrario sobre los vasos sanguíneos.",
+    "options": [
+      {
+        "text": "El frío actúa estimulando la liberación local de acetilcolina que dilata de forma mecánica la glotis.",
+        "isCorrect": false,
+        "explanation": "La acetilcolina es el neurotransmisor del sistema parasimpático; su liberación produce broncoobstrucción y aumento de secreciones, no dilatación de la vía aérea."
+      },
+      {
+        "text": "El aire frío congela de forma instantánea a los virus del grupo parainfluenza que están en la superficie de la tráquea.",
+        "isCorrect": false,
+        "explanation": "El aire frío respiratorio no congela ni destruye de forma física directa a las partículas virales de Parainfluenza intracelulares que colonizan el epitelio laringotraqueal."
+      },
+      {
+        "text": "La inhalación de aire frío y húmedo produce una vasoconstricción refleja refleja de los capilares de la mucosa subglótica inflamada, disminuyendo la hiperemia, el flujo sanguíneo local y el edema de la pared laringea, lo que amplía el diámetro de la vía aérea de forma transitoria y calma de forma rápida el estridor y la tos.",
+        "isCorrect": true,
+        "explanation": "La exposición al aire frío y húmedo aprovecha el reflejo de vasoconstricción térmica local de los capilares mucosos. Al contraerse los vasos, disminuye la congestión capilar de la subglotis, reduciendo de forma transitoria el grosor del tejido inflamado y aliviando mecánicamente la obstrucción. Adicionalmente, el aire frío y la tranquilidad que le otorgan los cuidadores reducen el llanto y la agitación, disminuyendo la presión inspiratoria turbulenta."
+      },
+      {
+        "text": "El aire frío adormece los nervios sensitivos del cuello del menor, lo que frena por completo el esfuerzo del centro respiratorio diafragmático central.",
+        "isCorrect": false,
+        "explanation": "No causa una anestesia o bloqueo neuromuscular de los nervios del cuello que frene el impulso respiratorio central diafragmático; el esfuerzo respiratorio se mantiene activo y constante."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Usted asiste como médico interno al procedimiento de extracción de un maní alojado en el bronquio principal derecho de un preescolar de 2 años mediante broncoscopia rígida. El procedimiento es exitoso y el cuerpo extraño es retirado en su totalidad de forma prolija. Sin embargo, en la sala de recuperación anestésica post-procedimiento inmediata, el preescolar comienza con disfonía, tos perruna metálica y estridor inspiratorio leve que empeora progresivamente. ¿Cuál es el fenómeno post-procedimiento más probable y qué medida preventiva/terapéutica está indicada?",
+    "hint": "La laringe infantil es sumamente reactiva al trauma mecánico. El paso de un endoscopio de metal rígido a través del estrecho espacio laríngeo durante las maniobras de extracción capilar genera fricción e inflamación mecánica refleja de los tejidos blandos de la glotis.",
+    "options": [
+      {
+        "text": "Perforación pulmonar con neumotórax hipertensivo; requiere punción torácica con aguja de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "El neumotórax hipertensivo cursaría con asimetría torácica, yugulares ingurgitadas, desviación traqueal, abolición del murmullo pulmonar y shock obstructivo severo agudo, no con tos perruna metálica y disfonía laríngea pura con murmullo pulmonar conservado."
+      },
+      {
+        "text": "Nueva aspiración de cuerpo extraño retenido; requiere reingresar a pabellón de inmediato.",
+        "isCorrect": false,
+        "explanation": "La reaparición del estridor se asocia característicamente al edema reactivo laríngeo post-trauma metálico del tubo, no a una nueva aspiración espontánea inmediata dentro de la sala de recuperación monitorizada cerrada."
+      },
+      {
+        "text": "Sinusitis bacteriana aguda por inoculación mecánica de gérmenes de la faringe.",
+        "isCorrect": false,
+        "explanation": "La sinusitis es una complicación infecciosa subaguda que requiere días de incubación en los senos paranasales, incompatible con síntomas laríngeos de inicio hiperagudo a los minutos de finalizar el procedimiento."
+      },
+      {
+        "text": "Edema laríngeo post-instrumentación mecánica, secundario al trauma físico directo del broncoscopio rígido metálico sobre las cuerdas vocales y la zona subglótica estrecha del preescolar; el manejo consiste en la administración de una dosis profiláctica de corticoide (Dexametasona ev) antes de la extubación/procedimiento y el uso de Adrenalina nebulizada de rescate si presenta estridor en reposo en recuperación.",
+        "isCorrect": true,
+        "explanation": "El desarrollo de estridor y tos perruna tras una broncoscopia o intubación traumática es un evento común conocido como edema laríngeo post-instrumentación. Para prevenirlo, los pacientes sometidos a broncoscopia rígida reciben de forma rutinaria una dosis intravenosa de Dexametasona antes o durante el procedimiento. Si el estridor aparece en recuperación, se trata sintomáticamente con Adrenalina nebulizada para disminuir rápidamente el edema mecánico capilar localizado."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un escolar de 6 años es llevado a la urgencia por presentar aumento de volumen y dolor progresivo en la región anterior del cuello asociado a estridor inspiratorio leve y disfagia que iniciaron hace 48 horas tras cursar con un cuadro respiratorio alto viral. Al examen físico destaca una masa esférica inflamatoria, dolorosa a la palpación, de $3\\text{ cm}$ de diámetro localizada estrictamente en la línea media del cuello, por encima del cartílago tiroides, la cual presenta la característica semiológica de desplazarse hacia arriba al deglutir o al protruir la lengua. ¿Cuál es el diagnóstico de sospecha más probable?",
+    "hint": "Se trata de la anomalía cervical congénita de la línea media más común en pediatría. Se produce por la persistencia y falta de involución del trayecto que sigue la glándula tiroides durante su descenso embrionario desde la base de la lengua (foramen caecum) hasta su posición cervical definitiva anterior.",
+    "options": [
+      {
+        "text": "Quiste del Conducto Tirogloso sobreinfectado.",
+        "isCorrect": true,
+        "explanation": "El Quiste del Conducto Tirogloso es una masa de la línea media congénita benigna. Su rasgo semiológico patognomónico es que asciende con la deglución o protrusión lingual (debido a su anclaje fibroso al hueso hioides y al foramen caecum en la base de la lengua). Si el quiste se sobreinfecta por bacterias tras una infección respiratoria alta, aumenta rápidamente de volumen, causando dolor, eritema local y compresión mecánica extrínseca de la tráquea con estridor obstructivo secundario."
+      },
+      {
+        "text": "Adenitis tuberculosa cervical unilateral (escrófula).",
+        "isCorrect": false,
+        "explanation": "La escrófula tuberculosa se manifiesta por adenopatías frías unilaterales, cervicales o supraclaviculares que coalescen, fluctúan y se fistulizan a la piel (escrofuloderma), sin el signo del desplazamiento con la protrusión de la lengua."
+      },
+      {
+        "text": "Hemangioma subglótico difuso compresivo.",
+        "isCorrect": false,
+        "explanation": "El hemangioma subglótico es una lesión intrínseca de la luz de la vía aérea traqueal subglótica profunda, no se palpa como una masa esférica externa inflamatoria en la línea media por encima del cartílago tiroides que ascienda al tragar."
+      },
+      {
+        "text": "Quiste de Hendidura Branquial lateral infectado.",
+        "isCorrect": false,
+        "explanation": "El quiste de hendidura branquial (anomalía del segundo arco branquial más comúnmente) se localiza en la región lateral del cuello, a lo largo del borde anterior del músculo esternocleidomastoideo, nunca en la línea media estricta por encima del hioides."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante su rotación por la UCI Pediátrica, asiste a la extubación programada de un paciente de 2 años tras cursar con una neumonía resuelta. Inmediatamente después de retirar el tubo endotraqueal de forma exitosa, el paciente presenta de forma brusca tiraje intercostal severo y silencio auscultatorio pulmonar bilateral con nula entrada de aire (silencio laringeo), sin estridor audible ni esfuerzo respiratorio eficaz, seguido de una desaturación rápida por debajo de $80\\%$. El pediatra intensivista diagnostica de urgencia un Laringoespasmo Post-Extubación. ¿Cuál es el manejo inicial escalonado inmediato recomendado para esta emergencia vital?",
+    "hint": "El laringoespasmo post-extubación es un cierre reflejo espasmódico total de las cuerdas vocales mediado por el tono vagal ante estímulos mecánicos locales. El manejo requiere forzar la apertura de las cuerdas mediante presión de aire constante o estimulación refleja dolorosa, y de fallar, \"paralizar\" transitoriamente el músculo laríngeo mediante un relajante neuromuscular de acción ultra-rápida.",
+    "options": [
+      {
+        "text": "Indicar traqueostomía de urgencia en la misma cama de la UCI antes de realizar cualquier ventilación manual.",
+        "isCorrect": false,
+        "explanation": "Realizar una traqueostomía de entrada sin agotar las maniobras de ventilación no invasiva a presión positiva y el uso de relajantes musculares es un procedimiento mutilante, tardío e innecesario en la inmensa mayoría de los laringoespasmos comunes."
+      },
+      {
+        "text": "Colocar al menor en decúbito prono y esperar de forma expectante que la hipoxia resuelva de forma espontánea el espasmo por cansancio muscular.",
+        "isCorrect": false,
+        "explanation": "Esperar de forma expectante que el espasmo \"ceda por cansancio\" ante la hipoxia es un error crítico; la hipoxia severa descompensará al menor provocando bradicardia, paro cardiorrespiratorio y daño neurológico anóxico irreversible mucho antes de que el laringoespasmo resuelva espontáneamente."
+      },
+      {
+        "text": "Administrar ventilación manual con presión positiva continua con bolsa-máscara al $100\\%$ de oxígeno, realizando la maniobra de Larson (presión digital firme y dolorosa bilateral en la fosa detrás del lóbulo de la oreja / ángulo de la mandíbula) para forzar la apertura de la glotis, y si persiste refractario, administrar una dosis baja de Succinilcolina intravenosa ($0.1\\text{ a }0.2\\text{ mg/kg}$) para lograr la relajación muscular laringea transitoria e intubar de urgencia.",
+        "isCorrect": true,
+        "explanation": "El manejo inicial del laringoespasmo completo exige ventilación a presión positiva continua con bolsa-máscara al $100\\%$ de $O_2$ (para vencer el cierre de las cuerdas) asociada a la maniobra de Larson (presión dolorosa en el punto del laringoespasmo detrás de la rama de la mandíbula que induce una relajación refleja vagal y tracción de los músculos). Si el espasmo persiste y cursa con bradicardia o hipoxia severa refractaria, la Succinilcolina IV a dosis bajas de relajación parcial es el fármaco de elección para relajar las cuerdas y permitir la intubación salvadora rápida."
+      },
+      {
+        "text": "Administrar salbutamol inhalado continuamente mediante espaciador por vía nasal para dilatar las cuerdas vocales.",
+        "isCorrect": false,
+        "explanation": "El salbutamol actúa en los receptores bronquiales periféricos bajos; no tiene ninguna utilidad clínica para vencer un espasmo de los músculos esqueléticos intrínsecos de la laringe alta."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Una lactante de 2 meses de vida de sexo femenino comienza con un cuadro progresivo de estridor bifásico fluctuante que empeora notablemente con el llanto o los esfuerzos alimenticios. En el examen físico destaca la presencia de un hemangioma cutáneo de $2\\text{ cm}$ de diámetro en la región de la mandíbula y el labio inferior (\"distribución en barba\"). No presenta fiebre ni coriza. No responde a corticoides orales a dosis habituales ni a adrenalina. ¿Cuál es el diagnóstico de sospecha prioritario de esta obstrucción laríngea intrínseca y cuál es el tratamiento farmacológico específico de primera línea actual?",
+    "hint": "Se trata de una lesión vascular tumoral benigna que prolifera de forma activa durante los primeros meses de la lactancia dentro de la luz del canal subglótico. El uso accidental de un beta-bloqueador no selectivo para hemangiomas infantiles revolucionó su manejo al provocar una rápida involución y reducción de la vascularización tumoral.",
+    "options": [
+      {
+        "text": "Traqueítis estafilocócica subclínica; se trata con vancomicina endovenosa por 30 días.",
+        "isCorrect": false,
+        "explanation": "No cursa con signos infecciosos bacterianos locales ni generales sistémicos; el uso de vancomicina intravenosa es completamente inútil y perjudicial en un tumor vascular benigno en proliferación."
+      },
+      {
+        "text": "Parálisis laringea bilateral por reflujo; se trata con omeprazol oral de alta concentración.",
+        "isCorrect": false,
+        "explanation": "La parálisis laríngea unilateral o bilateral no se relaciona epidemiológica ni clínicamente con la presencia de hemangiomas cutáneos de distribución mandibular."
+      },
+      {
+        "text": "Hemangioma Subglótico; se asocia de forma muy estrecha a hemangiomas cutáneos faciales segmentarios en la región de la mandíbula/barba, y el tratamiento específico de elección actual es el Propranolol por vía oral (dosis de $2\\text{ a }3\\text{ mg/kg/d\\u00eda}$).",
+        "isCorrect": true,
+        "explanation": "El Hemangioma Subglótico es la neoplasia laríngea benigna más común en lactantes pequeños. Su sello clínico es el inicio de estridor bifásico progresivo en las primeras semanas de vida (fase de proliferación del hemangioma). Alrededor del $50\\%$ de los niños con hemangioma subglótico presentan hemangiomas cutáneos asociados en el rostro (en distribución de barba, mandibular u oreja). El Propranolol por vía oral actúa induciendo vasoconstricción, apoptosis celular endotelial y detención de la angiogénesis tumoral, logrando la regresión de la estenosis vascular en la subglotis con excelente tasa de éxito y evitando la necesidad de traqueostomía en más del $90\\%$ de los casos."
+      },
+      {
+        "text": "Membrana laringea congénita por trauma; se trata con cirugía endoscópica abierta inmediata.",
+        "isCorrect": false,
+        "explanation": "Las membranas laríngeas congénitas están presentes de forma fija desde el primer segundo de vida del recién nacido (estridor inmediato al nacer con llanto afónico persistente severo), no inician de forma progresiva a los 2 meses asociadas a lesiones vasculares proliferativas cutáneas."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 15 meses es llevado a la urgencia por presentar un cuadro de inicio brusco de estridor inspiratorio leve, babeo persistente (sialorrea) y rechazo total a la ingesta de sólidos, sin antecedentes de fiebre ni resfrío previo. Los padres refieren sospecha de ingesta accidental de una moneda o un juguete pequeño. La radiografía de tórax AP de control revela la presencia de un cuerpo extraño metálico circular (moneda) localizado en el tercio superior del esófago que comprime la tráquea anterior de forma marcada. Respecto a este caso, ¿cuál es la explicación del estridor inspiratorio y cuál es el manejo clínico de urgencia adecuado?",
+    "hint": "La tráquea infantil se sitúa inmediatamente anterior al esófago. Dado que los anillos cartilaginosos traqueales tienen forma de herradura (abiertos por atrás donde colindan con el músculo traqueal esofágico laxo), un objeto grande tragado que se tranque en el esófago empujará y aplastará la tráquea hacia adelante, cerrando el canal de aire. Además, las pilas de botón generan corrientes eléctricas y liberan hidróxido de sodio corrosivo en contacto con la mucosa húmeda.",
+    "options": [
+      {
+        "text": "La moneda migró de forma espontánea a través del mediastino hacia el pulmón izquierdo; requiere cirugía torácica abierta inmediata de urgencia.",
+        "isCorrect": false,
+        "explanation": "Las monedas no migran por difusión tisular espontánea del esófago al pulmón a través del mediastino; la moneda está impactada de forma fija en la luz del esófago cervical/torácico alto."
+      },
+      {
+        "text": "No tiene relación con la vía aérea; el estridor es de causa psicológica refleja por el susto y se trata enviando a domicilio para expectación de expulsión fecal espontánea.",
+        "isCorrect": false,
+        "explanation": "La compresión traqueal es orgánica y mecánica real con alto riesgo de asfixia o estenosis traqueal secundaria; nunca se maneja enviando a domicilio expectante de expulsión fecal ante un cuerpo extraño impactado en el esófago alto."
+      },
+      {
+        "text": "Administrar jarabe de jarabe de ipecacuana para inducir el vómito violento y forzar la expulsión del objeto en domicilio de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "El uso de eméticos (jarabe de ipecacuana) para inducir vómitos ante un cuerpo extraño esofágico impactado está contraindicado de forma absoluta debido al alto riesgo de inducir ruptura esofágica por presión (síndrome de Boerhaave) o asfixia aguda por aspiración del objeto en la glotis durante el vómito."
+      },
+      {
+        "text": "El estridor y la sialorrea ocurren porque el esófago superior pediátrico es altamente distensible y un cuerpo extraño de gran tamaño alojado en él comprime de forma extrínseca la tráquea anterior (debido a la laxitud de la pared traqueal posterior que carece de cartílago rígido). Si el cuerpo extraño es una batería de botón (pila de botón) localizada en el esófago, constituye una emergencia médica crítica extrema que obliga a su extracción endoscópica inmediata antes de 2 horas por riesgo de necrosis por licuefacción y perforación esofágica letal en pocas horas.",
+        "isCorrect": true,
+        "explanation": "Explica la fisiopatología precisa: los cuerpos extraños en el esófago (especialmente en el estrechamiento superior del músculo cricofaríngeo) pueden causar estridor, tos y disnea por compresión extrínseca anterior de la vía aérea en lactantes pequeños debido a la distensibilidad del esófago y la debilidad del soporte cartilaginoso traqueal posterior. El hallazgo de una pila de botón en el esófago exige extracción inmediata de emergencia (en menos de 2 horas) para evitar la quemadura cáustica y necrosis mucosa profunda que puede perforar la aorta o la vía aérea."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un escolar de 8 años con antecedentes de parálisis cerebral severa y traqueostomía crónica de mantención ambulatoria ingresa a la urgencia traído por sus cuidadores por presentar dificultad respiratoria aguda de rápida progresión, cianosis y silencio auscultatorio pulmonar bilateral a través de la cánula de traqueostomía. Se sospecha una obstrucción del dispositivo. Respecto a la prevención y manejo de la obstrucción de la cánula de traqueostomía en pediatría, ¿cuál de las siguientes afirmaciones describe de forma correcta la conducta correcta?",
+    "hint": "La nariz y la nasofaringe actúan como un humidificador biológico natural sumamente eficiente. Al colocar una cánula de traqueostomía, el aire frío y seco entra directamente a la tráquea sin humidificación, lo que seca rápidamente el moco bronquial, convirtiéndolo en \"costras de cemento\" sólidas que taponan el tubo de plástico de forma completa.",
+    "options": [
+      {
+        "text": "La obstrucción es comúnmente causada por un tapón de moco espeso deshidratado en la luz de la cánula, favorecido por la pérdida del mecanismo fisiológico de filtrado, calentamiento y humidificación nasal de la vía aérea superior que se salta con la traqueostomía. El manejo agudo de urgencia exige instilar $1\\text{ a }2\\text{ ml}$ de suero fisiológico estéril en la cánula para fluidificar el moco, realizar aspiración vigorosa inmediata con sonda estéril y, de persistir la obstrucción, cambiar de forma inmediata la cánula de traqueostomía completa por una cánula nueva de repuesto.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la patogenia y el protocolo de emergencia estandarizado para la obstrucción de la traqueostomía en pediatría. Los cuidadores y el personal de salud deben contar siempre con una cánula de repuesto del mismo tamaño (y una $0.5$ número menor por si hay estenosis local del estoma). Ante la obstrucción que no cede a la aspiración y fluidificación con suero, el cambio inmediato del dispositivo es la maniobra que salva la vida del menor de forma rápida."
+      },
+      {
+        "text": "La obstrucción es de etiología psicosomática; se debe retirar la cánula por completo y cerrar el estoma con puntos de sutura rápidos en la camilla de la urgencia.",
+        "isCorrect": false,
+        "explanation": "Retirar la cánula y suturar de forma forzada el estoma traqueal cervical en un paciente que depende crónicamente de esta vía aérea artificial para ventilar es un error fatal que causará asfixia y paro cardiorrespiratorio inmediato."
+      },
+      {
+        "text": "Administrar salbutamol inhalado exclusivamente en la nariz del paciente para fluidificar de forma refleja la cánula cervical profunda.",
+        "isCorrect": false,
+        "explanation": "El salbutamol no licúa ni destruye de forma física las costras de moco deshidratadas fijas impactadas dentro de un tubo de plástico y aplicarlo en la nariz de un paciente traqueostomizado que respira directamente por el cuello es inútil."
+      },
+      {
+        "text": "No se debe aspirar la cánula nunca por el riesgo de inducir parálisis de las cuerdas vocales o ceguera por estimulación vagal ocular.",
+        "isCorrect": false,
+        "explanation": "Es un temor falso e infundado; la aspiración prolija de secreciones es una medida de mantenimiento diaria fundamental e indispensable en todo paciente con traqueostomía para mantener la permeabilidad de la vía aérea de forma segura."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante un control pediátrico, la madre de un preescolar de 4 años refiere que el niño presenta episodios repetidos de laringitis obstructiva (\"croup\") que cursan con tos perruna, disfonía y estridor inspiratorio leve cada vez que se resfría, contabilizando 6 episodios en el último año. Ella está preocupada por el futuro respiratorio de su hijo. Respecto al Croup Recurrente en pediatría y su asociación a largo plazo con la hiperreactividad bronquial, ¿cuál es la recomendación correcta basada en la evidencia clínica?",
+    "hint": "La vía aérea superior e inferior forman una unidad anatómica y funcional continua (\"una sola vía aérea, una sola enfermedad\"). La propensión a hacer espasmos o inflamaciones severas en la laringe ante virus comunes suele reflejar una tendencia subyacente a la hiperreactividad en todo el árbol bronquial.",
+    "options": [
+      {
+        "text": "Indicar tratamiento antibiótico profiláctico diario con eritromicina oral hasta la adolescencia para prevenir las laringitis recurrentes.",
+        "isCorrect": false,
+        "explanation": "Las laringitis recurrentes en su inmensa mayoría son de etiología viral o espasmódica reactiva; el uso de antibióticos macrólidos de forma profiláctica diaria prolongada está estrictamente contraindicado por carecer de eficacia y inducir multirresistencia bacteriana."
+      },
+      {
+        "text": "El Croup Recurrente (especialmente el de tipo espasmódico) presenta una fuerte asociación epidemiológica y fisiopatológica con el desarrollo posterior de hiperreactividad bronquial, asma infantil y atopia (alergias respiratorias/cutáneas), debido a un sustrato común de susceptibilidad inflamatoria de la vía aérea, por lo que este menor debe ser evaluado con un alto índice de sospecha mediante estudio alergológico, espirometría o test de provocación bronquial según la edad, y considerar tratamiento de mantención.",
+        "isCorrect": true,
+        "explanation": "El croup recurrente infantil (definido por $\\ge 3$ episodios de laringitis obstructiva al año) es un marcador clínico de alerta importante en pediatría. Diversos estudios prospectivos han demostrado que un alto porcentaje de estos niños presentan de forma concomitante o desarrollan de forma posterior asma bronquial o rinitis alérgica. Se cree que comparten una base fisiopatológica de reactividad tisular exagerada mediada por vías de inflamación tipo Th2."
+      },
+      {
+        "text": "Contraindicar de forma absoluta la realización de actividad física o juegos al aire libre para evitar la inflamación por frío de por vida.",
+        "isCorrect": false,
+        "explanation": "Restringir la actividad física de forma permanente es perjudicial para el desarrollo psicomotor, social y cardiovascular del niño; el asma o la hiperreactividad bronquial se controlan con fármacos adecuados (como corticoides inhalados) para permitir que el menor juegue y se desarrolle con total normalidad."
+      },
+      {
+        "text": "El croup recurrente no tiene relación con el asma y se confirma que curará de forma absoluta al cumplir los 5 años sin dejar secuelas de ningún tipo.",
+        "isCorrect": false,
+        "explanation": "Minimizar el cuadro y asegurar una cura absoluta garantizada al cumplir los 5 años sin realizar un adecuado seguimiento o evaluación de sospecha de asma es un error de omisión clínica que retrasa el tratamiento controlador preventivo oportuno del asma."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Usted evalúa en la urgencia a un lactante de 14 meses que cursa con un cuadro obstructivo respiratorio alto. Al auscultar detenidamente el cuello y tórax del menor, constata que el estridor no solo se escucha durante la inspiración (fase habitual de la laringitis común), sino que se prolonga y mantiene de forma marcada durante toda la fase espiratoria (estridor espiratorio o bifásico). Respecto a la fisiología del flujo aéreo pediátrico, ¿cuál es la interpretación clínica y la localización anatómica más probable que sugiere la presencia de un estridor espiratorio o bifásico?",
+    "hint": "El estridor inspiratorio es típico de la vía aérea superior extratorácica (laringe alta): al inspirar, la presión negativa colapsa la vía extratorácica. Pero cuando la obstrucción está por debajo del estrecho torácico superior (tráquea intratorácica), al espirar, la presión positiva del tórax comprime la tráquea obstruida, provocando que el estridor se escuche predominantemente en la espiración (o en ambas fases si la obstrucción es fija y rígida).",
+    "options": [
+      {
+        "text": "Confirma que la obstrucción es leve, transitoria y de manejo puramente ambulatorio en el hogar.",
+        "isCorrect": false,
+        "explanation": "La presencia de estridor bifásico o continuo en reposo es un signo de obstrucción laringotraqueal severa establecida que nunca se clasifica como leve o de manejo puramente ambulatorio sin observación."
+      },
+      {
+        "text": "El estridor espiratorio es un hallazgo fisiológico normal en todos los lactantes sanos menores de 2 años debido al llanto.",
+        "isCorrect": false,
+        "explanation": "El estridor de cualquier tipo (y más aún el espiratorio o bifásico) es un hallazgo siempre patológico que refleja turbulencia del paso del flujo de aire por estrechamiento mecánico de la vía aérea; no es normal en lactantes sanos."
+      },
+      {
+        "text": "Sugiere que la obstrucción se localiza exclusivamente en el saco alveolar respiratorio terminal profundo y es de causa bacteriana.",
+        "isCorrect": false,
+        "explanation": "Las obstrucciones de los sacos alveolares terminales producen crepitaciones o disminución del murmullo pulmonar, pero no estridor bifásico continuo cervical alto audible a distancia."
+      },
+      {
+        "text": "Sugiere que la obstrucción de la vía aérea es de carácter severo/crítico o que la zona de estrechamiento se localiza de forma fija en la región traqueal intratorácica (vía aérea extratorácica profunda o intratorácica fija), debido a que las estructuras del tórax se colapsan durante la espiración, acentuando el estridor en esta fase, lo que obliga a descartar estenosis subglóticas fijas, anillos vasculares o traqueomalacia.",
+        "isCorrect": true,
+        "explanation": "El estridor bifásico (inspiratorio y espiratorio) o puramente espiratorio es un signo clínico de gran valor de localización anatómica. El estridor puramente inspiratorio es de la vía extratorácica alta (laringe). El estridor espiratorio orienta a la vía intratorácica (tráquea baja, bronquios mayores), donde el colapso traqueal ocurre en la fase espiratoria fisiológica. Si es bifásico continuo en reposo, sugiere una estrechez fija y rígida que no varía con las fases de la respiración (como estenosis subglótica severa o anillos vasculares)."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "En algunos textos de pediatría anglosajones se menciona de forma rutinaria el uso de Adrenalina Racémica al $2.25\\%$ para nebulizar en el croup grave. Sin embargo, en la inmensa mayoría de los servicios de urgencia chilenos de la red pública y privada, este producto no está disponible, utilizándose de forma exclusiva la L-Adrenalina corriente ($1:1000$ o $1\\text{ mg/ml}$ de ampolla estándar). Respecto a la equivalencia de dosis y la dosificación de L-Adrenalina recomendada por el MINSAL, ¿cuál es la conducta correcta?",
+    "hint": "La L-Adrenalina corriente es el isómero óptico biológicamente activo de la adrenalina. Su uso en nebulización sin diluir ha sido ampliamente respaldado por la evidencia internacional y las guías del MINSAL como un método de rescate ultra-seguro y económico que no produce efectos cardiovasculares adversos mayores si se respeta el límite de dosis máximo.",
+    "options": [
+      {
+        "text": "No se puede utilizar la L-Adrenalina corriente en nebulización debido a que es altamente letal por vía inhalatoria pediátrica.",
+        "isCorrect": false,
+        "explanation": "Es falso; la L-Adrenalina nebulizada es el pilar del manejo de la laringitis moderada-grave en Chile y el mundo, siendo segura y bien tolerada localmente."
+      },
+      {
+        "text": "Se debe utilizar $1\\text{ ml}$ de L-Adrenalina diluido en $100\\text{ ml}$ de suero fisiológico para infusión continua por 24 horas.",
+        "isCorrect": false,
+        "explanation": "Las nebulizaciones de adrenalina para rescate laríngeo son intermitentes (duran 10-15 minutos) y no se administran de forma continua en infusión prolongada de 24 horas diluidas en grandes volúmenes, lo cual diluiría el fármaco haciéndolo ineficaz y con alto riesgo de sobrecarga de fluidos pulmonares."
+      },
+      {
+        "text": "La L-Adrenalina corriente ($1\\text{ mg/ml}$) es perfectamente equivalente, segura y eficaz para nebulizar. Se utiliza en dosis de $4\\text{ a }5\\text{ ml}$ sin diluir (es decir, $4\\text{-}5\\text{ mg}$ de dosis total) o en dosis de $0.5\\text{ ml/kg}$ (máximo $5\\text{ ml}$) nebulizados con un flujo de oxígeno de $6\\text{ a }8\\text{ L/min}$ durante 10 a 15 minutos de forma directa en el paciente con croup moderado-grave (Grado II-III).",
+        "isCorrect": true,
+        "explanation": "El protocolo estándar de nebulización de adrenalina en Chile utiliza la L-Adrenalina corriente de ampolla convencional. Se inyectan $4$ o $5$ ampollas de $1\\text{ ml}$ ($1\\text{ mg/ml}$) directamente en la copa del nebulizador, sin necesidad de agregar suero fisiológico (o agregando el volumen mínimo necesario para completar $4\\text{ ml}$ si el niño es muy pequeño y se usa dosis por kilo de $0.5\\text{ ml/kg}$), nebulizando con flujo de oxígeno alto. La dosis máxima segura establecida es de $5\\text{ mg}$ ($5\\text{ ml}$ totales)."
+      },
+      {
+        "text": "El uso de L-Adrenalina corriente es ineficaz, por lo que ante la falta de adrenalina racémica se debe suspender la nebulización de forma absoluta.",
+        "isCorrect": false,
+        "explanation": "La L-Adrenalina ha demostrado en ensayos clínicos aleatorizados tener una eficacia y perfil de seguridad clínica idénticos a los de la adrenalina racémica, por lo que es el reemplazo estándar universal en el país."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "La laringomalacia presenta variaciones anatómicas específicas en el colapso de las estructuras supraglóticas durante la inspiración, clasificadas de forma clásica en la literatura ORL pediátrica (Clasificación de Benjamin). ¿Cuál de las siguientes opciones describe de forma correcta el hallazgo anatómico característico del Tipo I (o tipo aritenocéntrico) de laringomalacia?",
+    "hint": "La laringomalacia puede comprometer diferentes porciones del anillo supraglótico laríngeo. El tipo I compromete de forma primaria las porciones del tejido mucoso posterior y lateral que unen la epiglotis con los cartílagos posteriores.",
+    "options": [
+      {
+        "text": "Epiglotis extremadamente larga, tubular, en forma de \"omega\" ($\\Omega$) que se enrolla sobre sí misma y colapsa de forma posterior.",
+        "isCorrect": false,
+        "explanation": "Describe el Tipo II (epiglotis en omega alargada tubular), no el Tipo I donde predominan los repliegues ariepiglóticos acortados y aritenoides redundantes."
+      },
+      {
+        "text": "Desplazamiento anterior masivo de la tráquea por la presencia de un arco aórtico doble.",
+        "isCorrect": false,
+        "explanation": "Describe un anillo vascular compresivo extrínseco, no un patrón anatomopatológico intrínseco supraglótico laríngeo de laringomalacia."
+      },
+      {
+        "text": "Colapso selectivo hacia adentro de los repliegues ariepiglóticos acortados y de los cartílagos aritenoides durante la inspiración, los cuales se proyectan de forma directa hacia la luz de la glotis.",
+        "isCorrect": true,
+        "explanation": "La clasificación de Benjamin y de Holinger describe tres tipos anatómicos principales de laringomalacia: Tipo I: Colapso de los repliegues ariepiglóticos acortados e incurvamiento interno de los aritenoides edematosos (el tipo más común). Tipo II: Epiglotis tubular en \"omega\" alargada que se colapsa de forma posterior (arytenoid colapse). Tipo III: Colapso posterior de la epiglotis de forma aislada sobre la glotis."
+      },
+      {
+        "text": "Parálisis flácida simétrica de las cuerdas vocales verdaderas en abducción.",
+        "isCorrect": false,
+        "explanation": "La parálisis de cuerdas vocales es una entidad patológica neuromuscular neurológica diferente, no un hallazgo del colapso dinámico de los repliegues ariepiglóticos de la laringomalacia congénita."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un escolar de 10 años cursa con un diagnóstico de Absceso Periamigdalino severo. Durante la evaluación médica, destaca la presencia de un marcado trismus (limitación severa dolorosa para la apertura bucal) que dificulta de forma extrema el examen faríngeo. ¿Cuál es el grupo de músculos esqueléticos masticatorios que sufre espasmo inflamatorio reflejo (contractura) secundario a la vecindad con el espacio periamigdalino inflamado y es el responsable de este hallazgo clínico?",
+    "hint": "El trismus ocurre por \"vecindad inflamatoria\". Las amígdalas palatinas se sitúan inmediatamente mediales a la pared faríngea (músculo constrictor superior). Detrás y lateral a esta zona, se localizan los potentes músculos masticatorios que cierran la mandíbula contra el maxilar.",
+    "options": [
+      {
+        "text": "El músculo esternocleidomastoideo izquierdo de forma exclusiva.",
+        "isCorrect": false,
+        "explanation": "El espasmo del esternocleidomastoideo produce tortícolis (inclinación lateral de la cabeza), no trismus o limitación de la apertura de la mandíbula."
+      },
+      {
+        "text": "El músculo orbicular de los labios de forma simétrica bilateral.",
+        "isCorrect": false,
+        "explanation": "El músculo orbicular de los labios se localiza en la boca anterior; su función es fruncir o cerrar los labios y su inflamación no causa trismus de la articulación temporomandibular."
+      },
+      {
+        "text": "Los músculos pterigoideo medial y masetero, debido a la proximidad anatómica y la difusión inflamatoria local desde el espacio periamigdalino/parafaringeo lateral hacia la fosa pterigomaxilar.",
+        "isCorrect": true,
+        "explanation": "El espacio periamigdalino está separado del espacio masticatorio e infra-temporal por la fascia faríngea. Cuando la infección progresa a la formación de un absceso o celulitis profunda, la inflamación se difunde localmente e irrita de forma directa las fibras del músculo pterigoideo medial y del masetero. Esto gatilla una contractura refleja protectora dolorosa del músculo (espasmo muscular o trismus) que impide al menor abrir la boca de forma mecánica."
+      },
+      {
+        "text": "El músculo diafragma y los intercostales externos.",
+        "isCorrect": false,
+        "explanation": "El diafragma y los intercostales son los efectores de la ventilación pulmonar; no tienen ninguna relación con la movilidad de la mandíbula ni sufren espasmo reflejo localizado por amigdalitis."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Se discute en el servicio de Cirugía Infantil el enfrentamiento terapéutico de un lactante de 2 años con sospecha confirmada de Aspiración de Cuerpo Extraño de tipo orgánico (semilla de sandía) localizado en el bronquio principal derecho. ¿Cuál es el instrumento y el procedimiento de elección recomendado internacionalmente para la extracción terapéutica segura del objeto y por qué?",
+    "hint": "El procedimiento ideal debe garantizar que si el cuerpo extraño se fragmenta o se suelta durante la extracción en la tráquea, el reanimador pueda aislar la vía aérea y ventilar mecánicamente al menor a través del propio tubo del endoscopio metálico rígido.",
+    "options": [
+      {
+        "text": "La broncoscopia flexible con sedación ligera, debido a que permite una recuperación ambulatoria más rápida en el domicilio sin pabellón.",
+        "isCorrect": false,
+        "explanation": "La broncoscopia flexible tiene canales de trabajo muy estrechos que limitan el uso de pinzas de extracción potentes y no permite ventilar de forma segura al paciente a través del canal en caso de oclusión glótica refleja aguda durante la extracción."
+      },
+      {
+        "text": "Indicar tratamiento kinésico respiratorio con palmadas torácicas intensas por 14 días para forzar la expulsión natural.",
+        "isCorrect": false,
+        "explanation": "La kinesioterapia respiratoria con palmoteo torácico está estrictamente contraindicada de forma inicial ante la sospecha de cuerpo extraño traqueobronquial móvil, debido a que el impacto físico puede movilizar el objeto hacia la tráquea o glotis alta, impactándose por debajo de las cuerdas vocales y cerrando de forma completa y letal la vía aérea en pocos segundos."
+      },
+      {
+        "text": "La Broncoscopia Rígida en pabellón bajo anestesia general, debido a que permite un control seguro de la vía aérea en todo momento, cuenta con una luz interna amplia que facilita el paso de pinzas de extracción metálicas específicas de diversos tamaños y permite mantener la ventilación activa del paciente a través del mismo broncoscopio durante las maniobras de extracción.",
+        "isCorrect": true,
+        "explanation": "La broncoscopia rígida es el estándar de oro absoluto para la remoción de cuerpos extraños traqueobronquiales en pediatría. Al ser un tubo metálico rígido de gran diámetro, permite introducir pinzas de cocodrilo o de canastilla de forma segura, traccionar el maní o semilla protegiendo la laringe, y ventilar mecánicamente al niño a través de un puerto de ventilación lateral del broncoscopio conectado a la máquina de anestesia. La broncoscopia flexible es de gran utilidad para el diagnóstico de casos dudosos o para aspirar tapones de moco, pero tiene limitaciones severas para extraer objetos sólidos grandes de forma segura y controlada en niños pequeños."
+      },
+      {
+        "text": "El uso de lavado broncoalveolar masivo a ciegas con suero fisiológico a alta presión en la misma camilla de la urgencia.",
+        "isCorrect": false,
+        "explanation": "El lavado broncoalveolar a ciegas a alta presión es extremadamente peligroso; puede empujar el cuerpo extraño hacia zonas más periféricas e inaccesibles del pulmón o inundar el pulmón contralateral con líquido, causando asfixia aguda mortal."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Un preescolar de 3 años es traído a urgencias con dificultad respiratoria alta grave. El médico se debate entre el diagnóstico de Epiglotitis Aguda y Laringitis Aguda Obstructiva viral (Croup viral) Grado III. Al evaluar el perfil inflamatorio sistémico y de laboratorio típico de ambas entidades, ¿cuál de los siguientes hallazgos analíticos orienta fuertemente hacia una Epiglotitis Aguda de origen bacteriano invasor?",
+    "hint": "La epiglotitis representa una celulitis bacteriana invasora fulminante de la supraglotis (frecuentemente por bacterias encapsuladas como H. influenzae b o S. pyogenes) que cursa de forma típica con bacteriemia y una potente respuesta inflamatoria aguda sistémica. El croup es un cuadro viral localizado de baja repercusión sistémica general en las pruebas de sangre.",
+    "options": [
+      {
+        "text": "Hemograma normal o con linfocitosis leve, PCR de $4\\text{ mg/L}$ y cultivo de orina negativo.",
+        "isCorrect": false,
+        "explanation": "Este perfil de laboratorio normal o con discreta linfocitosis y PCR normal es el típico de la laringitis obstructiva viral (croup viral) común, descartando la respuesta inflamatoria bacteriana de la epiglotitis."
+      },
+      {
+        "text": "Presencia de anemia hemolítica microangiopática severa con esquizocitos en el frotis de sangre periférica.",
+        "isCorrect": false,
+        "explanation": "Este perfil describe al Síndrome Hemolítico Urémico (SHU) o microangiopatía trombótica, una entidad nefrológica y hematológica sin relación con la inflamación laríngea aguda o la epiglotitis."
+      },
+      {
+        "text": "Leucopenia severa con eosinofilia marcada de $20\\%$ y niveles de IgE elevados de forma masiva.",
+        "isCorrect": false,
+        "explanation": "La neutropenia o eosinofilia extrema con IgE alta orientan a cuadros alérgicos sistémicos o parasitosis, no a una infección bacteriana supurativa aguda de la supraglotis."
+      },
+      {
+        "text": "Marcada leucocitosis con neutrofília y desviación a la izquierda significativa (índice I/T $\\ge 0.20$), asociado a una elevación marcada de la Proteína C Reactiva (PCR) plasmática (habitualmente $>50\\text{-}100\\text{ mg/L}$) y hemocultivos positivos en más del $50\\text{-}70\\%$ de los casos históricos no vacunados.",
+        "isCorrect": true,
+        "explanation": "Al ser una infección bacteriana invasora de curso hiperagudo, la epiglotitis se asocia a parámetros inflamatorios bacterianos clásicos marcadamente elevados en sangre periférica (leucocitosis con desviación izquierda, neutrofilia y PCR elevada en rangos bacterianos), y cursa frecuentemente con hemocultivos positivos por bacteriemia concomitante. El croup viral típicamente presenta un perfil de laboratorio normal o con linfocitosis leve de tipo viral, con PCR baja o normal."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Durante un taller de fisiología respiratoria pediátrica, se analiza por qué una mínima disminución del diámetro laringeo en el lactante provoca un aumento catastrófico de la resistencia al flujo de aire, desencadenando estridor de forma tan rápida en comparación con el adulto. ¿Cuál es la ley física que explica este fenómeno y cuál es su correlación matemática?",
+    "hint": "En los niños pequeños, la región de la laringe subglótica mide apenas unos $4\\text{ a }5\\text{ mm}$ de diámetro basal normal. Un milímetro de edema inflamatorio mucoso reduce el radio del canal de paso de forma muy importante. Al estar la resistencia relacionada con una potencia matemática del radio, la dificultad para respirar se multiplica de forma catastrófica.",
+    "options": [
+      {
+        "text": "La Ley de Poiseuille, la cual establece que la resistencia al flujo de un fluido a través de un tubo es inversamente proporcional a la cuarta potencia del radio del conducto ($R \\propto 1/r^4$). Por lo tanto, si el edema mucoso reduce el diámetro de la laringe de un lactante a la mitad, la resistencia al paso de aire aumenta de forma masiva en 16 veces, incrementando críticamente el trabajo respiratorio.",
+        "isCorrect": true,
+        "explanation": "La Ley de Poiseuille es la base de la extrema gravedad de la laringitis en menores de 2 años. Dado que la resistencia al paso de aire varía con la cuarta potencia del radio ($r^4$), cualquier pequeña disminución del calibre del canal (por edema o moco) multiplica la resistencia de forma geométrica. Si en un adulto un milímetro de edema apenas altera el paso de aire, en el lactante pequeño ese mismo milímetro de edema reduce el área de sección en un $75\\%$ e incrementa la resistencia al paso de aire en $16\\text{ veces}$ ($1600\\%$), gatillando estridor y dificultad respiratoria severa."
+      },
+      {
+        "text": "La Ley de Henry, que define la solubilidad del oxígeno en la saliva del lactante de forma exponencial.",
+        "isCorrect": false,
+        "explanation": "La ley de Henry describe la disolución de gases en líquidos bajo presión, útil para el buceo o la oxigenoterapia hiperbárica, pero inespecífica para la resistencia de flujo laríngeo alta."
+      },
+      {
+        "text": "La Ley de Boyle-Mariotte, que establece que la presión de un gas en un espacio cerrado aumenta de forma lineal con la temperatura del cuello.",
+        "isCorrect": false,
+        "explanation": "La ley de Boyle-Mariotte describe la relación inversa entre presión y volumen de un gas a temperatura constante ($P \\cdot V = K$), sin correlación directa con la resistencia del flujo de un fluido por conductos."
+      },
+      {
+        "text": "El principio de Arquímedes de flotabilidad de los cartílagos del cuello en el tejido celular subcutáneo.",
+        "isCorrect": false,
+        "explanation": "El principio de Arquímedes define la fuerza de flotación de un cuerpo sumergido en un fluido; no tiene ninguna aplicación en la dinámica del flujo de aire traqueolar o la laringitis obstructiva pediátrica."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Obstrucción de vía aérea alta",
+    "text": "Usted evalúa a un preescolar de 5 años hospitalizado por un diagnóstico de Celulitis/Absceso Parafaríngeo lateral izquierdo que no ha recibido tratamiento oportuno. El menor presenta fiebre alta fluctuante, dolor cervical severo con limitación del movimiento de rotación de la cabeza y aumento de volumen lateral izquierdo difuso del cuello. El especialista advierte que la progresión de la infección en el espacio parafaríngeo lateral representa un grave peligro debido al riesgo de invasión del compartimiento vascular posterior (fosa carotídea). ¿Cuáles son las complicaciones vasculares graves y potencialmente letales asociadas a la extensión del absceso a esta zona del cuello?",
+    "hint": "El espacio parafaríngeo lateral contiene grandes vasos de la circulación sistémica y cerebral (vaina carotídea con la arteria carótida interna, vena yugular interna y el nervio vago). Una infección supurativa no controlada en este compartimiento puede erosionar las paredes elásticas de la arteria o inflamar y coagular el retorno venoso, propagando coágulos de pus por todo el cuerpo.",
+    "options": [
+      {
+        "text": "Desarrollo de nefropatía membranosa bilateral por depósito local de carotina.",
+        "isCorrect": false,
+        "explanation": "No existe tal entidad de \"nefropatía carotina\" asociada a las infecciones del espacio masticatorio, prevertebral o carotídeo profundo del cuello."
+      },
+      {
+        "text": "Ninguna; los abscesos de cuello lateral son benignos y autolimitados de forma universal sin antibióticos.",
+        "isCorrect": false,
+        "explanation": "Omitir el tratamiento antibiótico o subestimar la gravedad de un absceso parafaríngeo es una conducta negligente; las infecciones del cuello profundo tienen una alta letalidad si no se tratan precozmente de forma hospitalizada."
+      },
+      {
+        "text": "Parálisis intestinal refleja por denervación del nervio ciático mayor en el tórax.",
+        "isCorrect": false,
+        "explanation": "El nervio ciático mayor inerva el miembro inferior y nace de las raíces lumbosacras; no se localiza en la vaina carotídea del cuello ni tiene relación anatómica con la laringe o faringe."
+      },
+      {
+        "text": "Tromboflebitis séptica de la vena yugular interna (Síndrome de Lemierre) con riesgo de embolías sépticas pulmonares diseminadas bilaterales, o la erosión/ruptura de la arteria carótida interna que causa una hemorragia masiva exanguinante letal de forma fulminante.",
+        "isCorrect": true,
+        "explanation": "El espacio parafaríngeo (compartimiento vascular posterior) alberga la arteria carótida interna, la vena yugular interna y los pares craneales IX, X, XI y XII. La extensión de un absceso a esta zona puede erosionar la arteria carótida (con alta mortalidad por hemorragia masiva) o causar tromboflebitis séptica de la vena yugular interna (Síndrome de Lemierre, típicamente por Fusobacterium necrophorum), liberando coágulos sépticos por el ventrículo derecho hacia los pulmones, provocando abscesos y neumonía necrotizante metastásica bilateral."
+      }
+    ]
+  }
+]
