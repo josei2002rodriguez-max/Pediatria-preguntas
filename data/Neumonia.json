@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 14 meses con su calendario de vacunación al día (incluida la vacuna neumocócica conjugada 13-valente) es traído al CESFAM por un cuadro de 3 días de evolución de fiebre de hasta $39.0^\\circ\\text{C}$ axilar, tos productiva, taquipnea y rechazo parcial de la alimentación. Al examen físico destaca una frecuencia respiratoria de $48\\text{ rpm}$ (taquipnea), saturación de oxígeno de $94\\%$ al aire ambiente y se auscultan crépitos localizados en la base del pulmón derecho. ¿Cuál es el agente etiológico bacteriano más frecuente responsable de la neumonía adquirida en la comunidad (NAC) en este grupo de edad?",
+    "hint": "A pesar del tremendo impacto de la introducción de las vacunas conjugadas en el Programa Nacional de Inmunizaciones (PNI), esta bacteria cocácea Gram positiva sigue siendo la causa bacteriana más común de neumonía e infecciones invasoras en todas las edades de la infancia (excepto en el periodo neonatal).",
+    "options": [
+      {
+        "text": "Haemophilus influenzae tipo b.",
+        "isCorrect": false,
+        "explanation": "Antes de 1996 (introducción de la vacuna conjugada anti-Hib), Haemophilus influenzae tipo b era una causa frecuente de neumonía y meningitis grave. Hoy en día, gracias a la vacuna Hexavalente, su incidencia en Chile es extremadamente baja."
+      },
+      {
+        "text": "Mycoplasma pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Mycoplasma pneumoniae es un patógeno atípico que cobra gran relevancia en escolares (mayores de 5 años) y adolescentes; en lactantes de 14 meses es significativamente menos frecuente."
+      },
+      {
+        "text": "Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "Staphylococcus aureus es una causa grave de neumonía necrotizante, neumatocele o empiema, pero es mucho menos frecuente que el neumococo en la neumonía comunitaria no complicada habitual del lactante."
+      },
+      {
+        "text": "Streptococcus pneumoniae.",
+        "isCorrect": true,
+        "explanation": "El Streptococcus pneumoniae (neumococo) es el principal agente bacteriano de la NAC en niños mayores de 3 meses en Chile y el mundo. Aunque las tasas de enfermedad invasora han disminuido de forma drástica gracias a la vacuna conjugada (PCV10 y luego PCV13), sigue siendo el patógeno bacteriano aislado con mayor frecuencia en la neumonía lobar consolidativa."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante la campaña de invierno, ingresa al servicio de urgencia un lactante de 5 meses con un cuadro de coriza de 3 días de evolución, que progresa con fiebre moderada ($38.2^\\circ\\text{C}$), tos frecuente, sibilancias e insuficiencia respiratoria leve. Al examen destaca frecuencia respiratoria de $52\\text{ rpm}$ y saturación de oxígeno de $91\\%$ al aire ambiente. Se solicita un panel viral (inmunofluorescencia o PCR) que resulta positivo. ¿Cuál es el agente viral más frecuentemente implicado en las neumonías e infecciones respiratorias bajas en lactantes menores de un año?",
+    "hint": "Este virus es el principal responsable de los brotes epidémicos invernales de bronquiolitis y neumonías en lactantes pequeños. Se caracteriza por causar una gran producción de moco, tapones de fibrina y necrosis del epitelio bronquiolar.",
+    "options": [
+      {
+        "text": "Metapneumovirus Humano.",
+        "isCorrect": false,
+        "explanation": "El Metapneumovirus Humano causa un cuadro clínico idéntico al del VRS y es el segundo o tercer agente viral en frecuencia, pero no supera la prevalencia epidemiológica del VRS en esta cohorte."
+      },
+      {
+        "text": "Adenovirus.",
+        "isCorrect": false,
+        "explanation": "El Adenovirus causa neumonías virales severas, prolongadas y de carácter destructivo (con riesgo de secuelas crónicas como bronquiolitis obliterante o bronquiectasias), pero su frecuencia epidemiológica es muy inferior a la del VRS."
+      },
+      {
+        "text": "Virus Respiratorio Sincicial (VRS).",
+        "isCorrect": true,
+        "explanation": "El Virus Respiratorio Sincicial (VRS) es el patógeno líder absoluto en infecciones respiratorias agudas bajas (IRAB), neumonías y bronquiolitis en lactantes menores de un año. Causa epidemias anuales de gran impacto en la ocupación de camas hospitalarias pediátricas."
+      },
+      {
+        "text": "Virus Influenza A.",
+        "isCorrect": false,
+        "explanation": "El virus de la Influenza A es un patógeno invernal común que causa cuadros febriles respiratorios de alta intensidad (gripe) y neumonías, pero el VRS sigue liderando en el lactante menor de un año."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 8 años es traído a la consulta por un cuadro de 8 días de evolución caracterizado por tos seca persistente (\"irritativa\"), cefalea, faringitis, dolores musculares y fiebre moderada intermitente de hasta $38.4^\\circ\\text{C}$. Al examen físico destaca que el escolar se encuentra en excelente estado general, activo y colaborador; a la auscultación pulmonar solo se aprecian sibilancias bilaterales difusas y escasos crépitos. La radiografía de tórax muestra un infiltrado intersticial difuso bilateral sin consolidaciones lobares. Su hermana de 14 años tiene síntomas similares. ¿Cuál es el agente etiológico más probable?",
+    "hint": "Se trata de una bacteria atípica (carece de pared de peptidoglicano, por lo que es intrínsecamente resistente a los betalactámicos). Es la causa más frecuente de neumonía en el escolar y adolescente, caracterizada por una marcada disociación clínico-radiológica (el paciente se ve muy bien en comparación con lo feo que luce su radiografía).",
+    "options": [
+      {
+        "text": "Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica suele ser de inicio hiperagudo, con fiebre alta, dolor pleurítico, compromiso del estado general y un patrón radiológico de condensación lobar única con broncograma aéreo (neumonía típica), ausente en este caso."
+      },
+      {
+        "text": "Mycoplasma pneumoniae.",
+        "isCorrect": true,
+        "explanation": "El cuadro con tos seca prolongada, excelente estado general (neumonía ambulante o walking pneumonia), patrón radiológico intersticial difuso bilateral y agregación familiar en hermanos mayores es patognomónico de Mycoplasma pneumoniae. Su diagnóstico se apoya en la detección de IgM específica o PCR en secreción faríngea."
+      },
+      {
+        "text": "Chlamydia trachomatis.",
+        "isCorrect": false,
+        "explanation": "Chlamydia trachomatis causa neumonía afebril en lactantes pequeños de 1 a 3 meses de vida (adquirida en el canal de parto), caracterizada por tos en \"staccato\" e hiperinsuflación, no en escolares de 8 años."
+      },
+      {
+        "text": "Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "El S. aureus causa neumonía grave, rápidamente progresiva, supurativa, con compromiso del estado general masivo y tendencia a la cavitación o derrame; el buen estado general del escolar descarta esta opción."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Tras confirmar la sospecha de neumonía por Mycoplasma pneumoniae en el escolar de 8 años de la pregunta anterior, ¿cuál es el tratamiento antibiótico de elección y qué particularidad microbiológica justifica evitar el uso de Amoxicilina en este caso?",
+    "hint": "Los antibióticos betalactámicos actúan inhibiendo la síntesis de la pared celular bacteriana. Si un microorganismo estructuralmente carece de esta pared, dichos fármacos no tienen sitio de acción molecular. Se requiere un antibiótico que actúe a nivel intracelular inhibiendo la síntesis proteica bacteriana (subunidad ribosomal 50S).",
+    "options": [
+      {
+        "text": "Un macrólido como Azitromicina ($10\\text{ mg/kg}$ el día 1, seguido de $5\\text{ mg/kg/d\\u00eda}$ del día 2 al 5 por vía oral); se prefiere debido a que M. pneumoniae carece de pared celular de peptidoglicano, lo que hace que los betalactámicos (como penicilinas y cefalosporinas) sean completamente ineficaces contra este patógeno.",
+        "isCorrect": true,
+        "explanation": "Los macrólidos (Azitromicina, Claritromicina o Eritromicina) son el tratamiento de elección para la neumonía por Mycoplasma pneumoniae debido a que actúan inhibiendo la síntesis de proteínas bacterianas de forma intracelular. Como esta bacteria carece de pared de peptidoglicano (no tiene tinción de Gram), es intrínsecamente resistente a todos los betalactámicos (como la Amoxicilina o Cefalosporinas)."
+      },
+      {
+        "text": "Ceftriaxona endovenosa en dosis única; es el estándar para neumonías atípicas severas.",
+        "isCorrect": false,
+        "explanation": "La Ceftriaxona tampoco tiene actividad contra bacterias atípicas por ser un betalactámico, y no se indica de rutina en neumonías atípicas comunitarias leves ambulatorias."
+      },
+      {
+        "text": "Amoxicilina a dosis de $90\\text{ mg/kg/d\\u00eda}$ por 7 días; los betalactámicos son de elección en todas las bacterias respiratorias.",
+        "isCorrect": false,
+        "explanation": "La Amoxicilina es inútil contra M. pneumoniae por el motivo estructural descrito; usarla constituiría una falla terapéutica."
+      },
+      {
+        "text": "Cefadroxilo por 10 días por vía oral; por ser una cefalosporina de primera generación penetra mejor en la vía aérea.",
+        "isCorrect": false,
+        "explanation": "El Cefadroxilo es un betalactámico (cefalosporina); carece de actividad contra patógenos atípicos que no poseen pared celular."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 2 meses y 15 días es traído al CESFAM por presentar tos, rechazo alimentario y fiebre de $38.3^\\circ\\text{C}$ rectal de 12 horas de evolución. Al examen físico se aprecia con buen estado general, rosado, activo, con frecuencia respiratoria de $44\\text{ rpm}$ y saturación de oxígeno de $95\\%$ al aire ambiente. Se auscultan algunos crépitos aislados en la base izquierda. Respecto a la indicación de hospitalización según la norma del Programa IRA de Chile, ¿cuál es la conducta correcta?",
+    "hint": "Los lactantes menores de 3 meses tienen un sistema inmune inmaduro, menor reserva ventilatoria y una altísima susceptibilidad a presentar complicaciones mecánicas respiratorias súbitas, apneas de origen central/obstructivo o progresión rápida a sepsis con colapso cardorrespiratorio.",
+    "options": [
+      {
+        "text": "Solo se hospitaliza si satura por debajo de $90\\%$ al aire ambiente o presenta apneas presenciadas en la sala de espera.",
+        "isCorrect": false,
+        "explanation": "Satura 95% y está activo, pero la edad menor de 3 meses prima por sobre cualquier estabilidad clínica puntual del examen físico en la urgencia."
+      },
+      {
+        "text": "Puede ser enviado a domicilio con Amoxicilina oral si los padres demuestran excelente confiabilidad y viven cerca del consultorio.",
+        "isCorrect": false,
+        "explanation": "Enviar a domicilio con antibióticos orales a un lactante de 2 meses con neumonía es un error técnico que viola directamente las guías nacionales del país, exponiendo al menor a un riesgo inaceptable de mortalidad domiciliaria por apnea."
+      },
+      {
+        "text": "Todo niño menor de 3 meses de vida con sospecha clínica o confirmación de neumonía debe ser hospitalizado de forma obligatoria, independientemente de su gravedad clínica o estabilidad aparente.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a la Norma Técnica de Enfermedades Respiratorias del Niño del MINSAL (Chile), la edad menor de 3 meses es un criterio absoluto de hospitalización automática ante el diagnóstico de neumonía. Esto se debe al alto riesgo de apneas súbitas, progresión rápida de la infección respiratoria baja e inestabilidad hemodinámica que no puede ser manejada ni monitorizada de forma segura en domicilio."
+      },
+      {
+        "text": "Se debe iniciar Salbutamol inhalado por 2 horas y, si mejora la frecuencia respiratoria, dar el alta con paracetamol oral.",
+        "isCorrect": false,
+        "explanation": "El Salbutamol no trata la neumonía condensativa y diferir la hospitalización obligatoria por edad es clínicamente riesgoso."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 18 meses, previamente sano y con vacunas al día, presenta fiebre alta de $39.2^\\circ\\text{C}$ de inicio brusco, tos y dificultad respiratoria moderada. Al examen destaca frecuencia respiratoria de $46\\text{ rpm}$ y saturación de $94\\%$ al aire ambiente. Al examen físico se ausculta un soplo tubárico y crépitos localizados en el lóbulo medio derecho. La radiografía de tórax confirma una condensación lobar derecha típica. Se decide manejo ambulatorio. ¿Cuál es el tratamiento antibiótico empírico de primera línea y la dosificación recomendada por las guías chilenas?",
+    "hint": "El neumococo es el patógeno bacteriano líder a cubrir. En Chile, la resistencia de Streptococcus pneumoniae a la penicilina es predominantemente de tipo \"intermedio\" mediada por la alteración de las proteínas de unión a penicilina (PBPs), lo que se supera fácilmente utilizando concentraciones elevadas del antibiótico betalactámico oral de primera línea.",
+    "options": [
+      {
+        "text": "Azitromicina oral a dosis de $10\\text{ mg/kg/d\\u00eda}$ por 3 días.",
+        "isCorrect": false,
+        "explanation": "La Azitromicina se reserva para la sospecha de gérmenes atípicos (Mycoplasma) o en pacientes con alergia confirmada mediada por IgE a la penicilina. Usarla de primera línea en una neumonía lobar consolidativa bacteriana típica neumocócica se asocia a altas tasas de falla terapéutica por resistencia."
+      },
+      {
+        "text": "Cefotaxima intravenosa por vía ambulatoria de forma diaria por 5 días.",
+        "isCorrect": false,
+        "explanation": "Las cefalosporinas intravenosas se reservan para el manejo hospitalario; no se justifica invadir y manejar de forma parenteral ambulatoria a un lactante estable que tolera la vía oral."
+      },
+      {
+        "text": "Amoxicilina + Ácido Clavulánico a dosis de $40\\text{ mg/kg/d\\u00eda}$ por 7 días de forma universal.",
+        "isCorrect": false,
+        "explanation": "No se requiere de entrada asociar ácido clavulánico. El mecanismo de resistencia del neumococo a la penicilina no es a través de la producción de betalactamasas (el clavulánico es un inhibidor de betalactamasas), por lo que agregar clavulánico no aporta ninguna ventaja contra el neumococo y sí aumenta de forma marcada la diarrea por intolerancia digestiva en lactantes."
+      },
+      {
+        "text": "Amoxicilina por vía oral a dosis de $75\\text{ a }90\\text{ mg/kg/d\\u00eda}$ fraccionada cada 12 horas por un periodo de 7 días.",
+        "isCorrect": true,
+        "explanation": "La Amoxicilina oral en altas dosis ($75\\text{-}90\\text{ mg/kg/d\\u00eda}$) es el tratamiento empírico de primera línea para la NAC bacteriana no complicada en niños mayores de 3 meses manejados de forma ambulatoria en Chile. Esta dosificación asegura concentraciones plasmáticas y en el tejido pulmonar suficientes para vencer de forma bactericida a las cepas de neumococo con susceptibilidad disminuida a la penicilina. El ciclo estándar es de 7 días."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 20 meses, previamente sano y con calendario de vacunas al día, ingresa a hospitalización debido a una NAC complicada con dificultad respiratoria severa (retracción intercostal moderada-severa) y saturación de oxígeno de $91\\%$ al aire ambiente, que no tolera la vía oral debido a vómitos persistentes. No presenta signos de derrame pleural en la radiografía de tórax de ingreso. Respecto a la antibioterapia intravenosa empírica inicial de primera línea para este lactante hospitalizado, ¿cuál es la conducta más adecuada respaldada por la SOCHINF y el consenso chileno actual?",
+    "hint": "En Chile, la resistencia del neumococo a la penicilina en infecciones no meningeas (como la neumonía) es extremadamente infrecuente. Por lo tanto, en un paciente inmunocompetente con vacunas al día hospitalizado por NAC sin complicaciones supurativas, no se requiere de primera línea el uso de cefalosporinas de tercera generación, promoviendo el uso de betalactámicos de espectro estrecho eficaces.",
+    "options": [
+      {
+        "text": "Administrar Claritromicina por sonda nasogástrica como monoterapia profiláctica.",
+        "isCorrect": false,
+        "explanation": "No se indican macrólidos por sonda como monoterapia empírica inicial para una neumonía consolidativa lobar bacteriana típica neumocócica en un lactante de 20 meses."
+      },
+      {
+        "text": "Iniciar de inmediato terapia combinada con Vancomicina y Meropenem para cubrir cepas multirresistentes de la UCIN.",
+        "isCorrect": false,
+        "explanation": "Es un esquema de espectro excesivamente amplio (reserva para sepsis grave intrahospitalaria o shock séptico refractario); usarlo de primera línea en una NAC comunitaria común es un error grave."
+      },
+      {
+        "text": "Iniciar tratamiento endovenoso con Penicilina G Sódica ($200.000\\text{ a }250.000\\text{ UI/kg/d\\u00eda}$ IV dividido cada 4 a 6 horas) o Ampicilina IV, ya que en Chile la susceptibilidad del neumococo a la penicilina en cepas no meningeas es sumamente elevada ($>96\\%$) y la vacuna PNI cubre los principales serotipos invasores.",
+        "isCorrect": true,
+        "explanation": "Para un niño hospitalizado con NAC de curso típico neumocócico no complicada (sin empiema ni shock) que cuenta con vacunas al día, la Penicilina G Sódica acuosa intravenosa (o la Ampicilina IV) es el tratamiento empírico de elección. La resistencia a penicilina de S. pneumoniae aislado de focos pulmonares/pleurales en Chile es despreciable (<4%), por lo que el uso de penicilina es altamente eficaz, seguro y costo-efectivo, adhiriendo a las políticas de uso racional de antimicrobianos."
+      },
+      {
+        "text": "Administrar Ceftriaxona intravenosa a dosis de $100\\text{ mg/kg/d\\u00eda}$ en dosis única de forma rutinaria a todo paciente hospitalizado.",
+        "isCorrect": false,
+        "explanation": "Aunque la Ceftriaxona es muy cómoda por su dosificación una vez al día, su uso de rutina indiscriminado en NAC no complicadas promueve de forma alarmante la emergencia de resistencia bacteriana (enterobacterias productoras de BLEE) en el hospital y la comunidad; se reserva para niños no vacunados, sospecha de derrame de rápida progresión o falla de respuesta a la penicilina."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Usted evalúa en la sala de pediatría a un lactante de 2 años cursando su tercer día de hospitalización por una neumonía del lóbulo inferior izquierdo. El menor presenta fiebre alta refractaria de $39.5^\\circ\\text{C}$ de 24 horas de evolución, aumento del tiraje y quejido espiratorio. Al examen segmentario pulmonar del hemitórax izquierdo, ¿cuál es la tríada de hallazgos semiológicos clásicos que confirman la presencia de un Derrame Pleural acumulado en dicho espacio?",
+    "hint": "El líquido acumulado en la cavidad pleural actúa como una \"barrera física amortiguadora\" que absorbe y bloquea la transmisión de las vibraciones del tejido pulmonar hacia la pared del tórax (tanto de los ruidos respiratorios como de la vibración de las cuerdas vocales), y produce un sonido opaco y seco al golpear la pared torácica.",
+    "options": [
+      {
+        "text": "Crépitos de tono agudo diseminados, sonoridad pulmonar normal y respiración soplada de timbre metálico.",
+        "isCorrect": false,
+        "explanation": "Describe hallazgos auscultatorios de neumonía consolidativa parenquimatosa sin derrame libre (los crépitos y el soplo tubárico ocurren cuando hay condensación con broncograma abierto que transmite el sonido de forma facilitada)."
+      },
+      {
+        "text": "Submatidez localized, abolición de las vibraciones vocales y presencia de sibilancias inspiratorias aisladas.",
+        "isCorrect": false,
+        "explanation": "Aunque la submatidez puede verse en derrames pequeños, las sibilancias no forman parte de la semiología clásica del síndrome de ocupación pleural por líquido."
+      },
+      {
+        "text": "Hipersonoridad/timpanismo a la percusión, aumento de las vibraciones vocales y murmullo pulmonar normal.",
+        "isCorrect": false,
+        "explanation": "Describe los hallazgos de un neumotórax (aire en cavidad pleural que produce hipersonoridad/timpanismo y disminución de vibraciones, no aumento ni sonoridad normal)."
+      },
+      {
+        "text": "Matidez a la percusión, abolición de la transmisión de la voz (vibraciones vocales disminuidas o ausentes) y disminución o abolición del murmullo pulmonar (silencio auscultatorio localizado) en la base pulmonar izquierda.",
+        "isCorrect": true,
+        "explanation": "El síndrome de derrame pleural se caracteriza clásicamente por la combinación semiológica de: 1) Matidez hídrica a la percusión en la zona del líquido, 2) Disminución o abolición de las vibraciones vocales palpables (debido a que el líquido amortigua la transmisión de la onda sonora), y 3) Disminución o abolición del murmullo pulmonar a la auscultación (silencio respiratorio local). A esto puede sumarse soplo pleurítico o egofonía en el límite superior del derrame."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante una capacitación para internos, se analizan radiografías de tórax de pacientes con diagnóstico de infección respiratoria baja. ¿Cuál de las siguientes afirmaciones describe de forma correcta las diferencias radiológicas clásicas que orientan a una etiología bacteriana típica frente a una etiología viral o atípica en la infancia?",
+    "hint": "La bacteria típica neumocócica produce un exudado inflamatorio que llena completamente los alveolos de un lóbulo pulmonar de forma compacta (condensación lobar), manteniendo las vías aéreas (bronquios) permeables en su interior. Los virus inflaman el tejido de soporte y las paredes bronquiales (intersticio) de forma difusa en ambos pulmones.",
+    "options": [
+      {
+        "text": "La neumonía bacteriana cursa típicamente con consolidación lobar o segmentaria única, de bordes bien definidos, asociada de forma muy frecuente a broncograma aéreo visible dentro de la condensación; por el contrario, la etiología viral o atípica se asocia a patrones de infiltrado intersticial difuso bilateral, peribronquitis (manguito peribronquial), hiperinsuflación pulmonar generalizada, áreas de atelectasias subsegmentarias o atrapamiento aéreo.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la semiología radiológica clásica de tórax en pediatría. La consolidación homogénea densa con broncograma aéreo (visualización del aire dentro de los bronquios rodeados de alveolos colapsados/llenos de pus) es el sello de la NAC bacteriana neumocócica típica. El patrón intersticial difuso perihiliar bilateral es el clásico del daño viral (VRS, Adenovirus, Influenza) o de bacterias atípicas (Mycoplasma)."
+      },
+      {
+        "text": "El broncograma aéreo es un signo exclusivo de las neumonías causadas por el virus respiratorio sincicial.",
+        "isCorrect": false,
+        "explanation": "El broncograma aéreo es un signo de ocupación alveolar típico de consolidaciones bacterianas condensativas, no de las infecciones bronquiolíticas virales obstructivas típicas por VRS."
+      },
+      {
+        "text": "La neumonía bacteriana cursa exclusivamente con hiperinsuflación sin condensaciones; la viral produce cavitaciones gigantes lobares generalizadas simétricas de forma de manguito.",
+        "isCorrect": false,
+        "explanation": "Explica los patrones de forma invertida, atribuyendo la hiperinsuflación simple al bacteriano y la consolidación masiva al viral, lo cual es incorrecto."
+      },
+      {
+        "text": "No existe ninguna correlación diagnóstica entre el patrón radiológico y la etiología; la radiografía de tórax es completamente idéntica en todos los agentes infecciosos infantiles.",
+        "isCorrect": false,
+        "explanation": "Si bien existe superposición y la radiografía de tórax sola no da un diagnóstico de certeza absoluto, sí aporta patrones clásicos altamente orientadores que, correlacionados con la clínica y el laboratorio, guían de forma decisiva el tratamiento antibiótico."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 6 años hospitalizado por una pleuroneumonía izquierda persistente febril es sometido a una toracocentesis diagnóstica para analizar las características del líquido pleural. El laboratorio reporta los siguientes resultados del líquido: aspecto turbio-purulento, pH de $7.05$, glucosa de $25\\text{ mg/dl}$, proteínas totales de $4.8\\text{ g/dl}$ (relación proteínas LP/suero de $0.7$), y Lactato Deshidrogenasa (LDH) de $1200\\text{ U/L}$. ¿Cuál es la clasificación e interpretación correcta de este líquido pleural según las pautas clínicas de la UC y del HCSBA?",
+    "hint": "Un derrame pleural paraneumónico complicado o empiema se comporta como una \"infección bacteriana activa cerrada\" dentro del espacio pleural. Las bacterias y los neutrófilos consumen activamente la glucosa de la cavidad (produciendo hipoglucorraquia local extrema) y fermentan el medio produciendo ácido láctico (causando acidosis con pH $<7.20$), liberando además enzimas de destrucción celular (LDH elevada).",
+    "options": [
+      {
+        "text": "El resultado es inválido debido a que la LDH no se puede sintetizar en el espacio pleural pediátrico.",
+        "isCorrect": false,
+        "explanation": "La LDH sí se sintetiza y libera en el espacio pleural pediátrico por los leucocitos lisados y bacterias; es un marcador clave de inflamación y complicación pleural en pediatría."
+      },
+      {
+        "text": "Es un trasudado simple secundario a insuficiencia cardíaca congestiva; no requiere antibióticos ni drenaje.",
+        "isCorrect": false,
+        "explanation": "Los trasudados son líquidos claros, con baja concentración de proteínas (relación LP/suero $<0.5$), LDH baja ($<200\\text{ U/L}$) y pH normal, típicos de fallas sistémicas mecánicas (ICC, síndrome nefrótico), completamente distintos al exudado purulento inflamatorio infeccioso del caso."
+      },
+      {
+        "text": "Es un exudado no complicado benigno; la glucosa baja y el pH ácido son hallazgos normales y fisiológicos que no modifican el tratamiento y permiten el alta inmediata.",
+        "isCorrect": false,
+        "explanation": "El pH de 7.05 y la glucosa de 25 mg/dl son hallazgos patológicos graves que indican una fase de empiema complicado; clasificarlos como normales y dar el alta es una mala práctica con riesgo de sepsis generalizada persistente o paquipleurititis fibrosa restrictiva pulmonar crónica."
+      },
+      {
+        "text": "Es un exudado de tipo Empiema Pleural (o derrame paraneumónico complicado), confirmado por el aspecto purulento, pH $<7.20$, glucosa baja ($<40\\text{-}60\\text{ mg/dl}$) y LDH elevada ($>1000\\text{ U/L}$); requiere obligatoriamente mantener antibioterapia endovenosa de amplio espectro asociada a la colocación de un tubo de drenaje pleural (pleurostomía).",
+        "isCorrect": true,
+        "explanation": "Los hallazgos descritos (aspecto turbio/purulento, pH $<7.20$, glucosa baja y LDH masivamente elevada) confirman de forma categórica un derrame pleural complicado o empiema. Este tipo de líquido pleural cerrado no puede resolverse únicamente con antibióticos intravenosos debido a la acidez y mala penetración tisular; exige de forma mandatoria la colocación de un tubo de tórax (pleurostomía) para drenar el pus y descompresionar mecánicamente el pulmón."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante el tratamiento del escolar de 6 años con diagnóstico de empiema pleural de la pregunta anterior, a pesar de la colocación del tubo de drenaje pleural e inicio de Cefotaxima + Cloxacilina IV, el paciente persiste febril después de 48 horas y la ecografía de control muestra la formación de múltiples tabiques de fibrina en la cavidad pleural izquierda (derrame tabicado o loculado) que impiden el drenaje eficaz del pus por el tubo. ¿Cuál es la conducta terapéutica indicada de segunda línea recomendada para este empiema tabicado en Chile?",
+    "hint": "Cuando la fibrina bloquea y \"encapsula\" el pus en múltiples celdillas separadas dentro del tórax, el tubo de drenaje simple queda bloqueado. Se debe introducir de forma local un \"disolvente\" específico de la fibrina para licuar las trabéculas o ingresar quirúrgicamente con una cámara para limpiar mecánicamente el espacio de forma segura.",
+    "options": [
+      {
+        "text": "Administración de fibrinolíticos intrapleurales (como Uroquinasa o Alteplase) a través del mismo tubo de tórax para romper las tabicaciones de fibrina y facilitar el drenaje, o la realización precoz de una Videotoracoscopia Asistida por Video (VATS) para desbridamiento de la cavidad y lavado pleural bajo visión directa.",
+        "isCorrect": true,
+        "explanation": "Ante un empiema pleural en fase organizativa/tabicada con falla de drenaje por tubo de tórax simple, el uso de fibrinolíticos intrapleurales (ej. Uroquinasa instilada por el tubo) ha demostrado ser sumamente eficaz para disolver los tabiques de fibrina, licuar el pus y permitir su evacuación, reduciendo la necesidad de cirugía mayor. La Videotoracoscopia (VATS) es la alternativa quirúrgica de elección precoz si los fibrinolíticos fallan o no están disponibles, permitiendo una limpieza mecánica directa bajo visión mínimamente invasiva."
+      },
+      {
+        "text": "Realizar punciones pleurales semanales ciegas de rescate en la misma camilla de la sala común.",
+        "isCorrect": false,
+        "explanation": "Las punciones pleurales repetidas a ciegas con aguja fina en derrames tabicados tienen nula eficacia (solo pinchan una celdilla aislada) y conllevan un altísimo riesgo de neumotórax iatrogénico o laceración pulmonar traumática."
+      },
+      {
+        "text": "Retirar el tubo de tórax y dar el alta hospitalaria para que las tabicaciones de fibrina resuelvan solas con reposo.",
+        "isCorrect": false,
+        "explanation": "Retirar el tubo de tórax y suspender el manejo ante un derrame complicado tabicado febril persistente es negligente; llevará a una fibrosis pulmonar masiva restrictiva crónica (paquipleuritis) que requerirá una decorticación quirúrgica abierta compleja a tórax abierto en el futuro."
+      },
+      {
+        "text": "Indicar tratamiento oral exclusivo con Claritromicina por vía oral por 3 meses para disolver la fibrina de forma sistémica.",
+        "isCorrect": false,
+        "explanation": "Los macrólidos (Claritromicina) no tienen ninguna propiedad farmacológica sistémica para disolver de forma específica la fibrina acumulada mecánicamente en la cavidad pleural; se requiere un manejo fibrinolítico o desbridamiento directo mecánico local."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 2 años ingresa por una neumonía extensa que evoluciona favorablemente en los primeros días tras el inicio de antibióticos. En la radiografía de tórax de control tomada al sexto día de tratamiento, llama la atención la aparición de tres imágenes cavitarias redondeadas, de paredes delgadas y llenas de aire en el parénquima pulmonar derecho, sin niveles hidroaéreos en su interior. El lactante se encuentra actualmente clínicamente estable, afebril, activo y de buen ánimo, alimentándose bien. ¿Cuál es el diagnóstico de estas lesiones cavitarias pulmonares y cuál es el manejo clínico indicado?",
+    "hint": "Estas cavidades se forman por un mecanismo de atrapamiento aéreo valvular localizado en los bronquiolos terminales inflamados de la neumonía en resolución. A pesar de su apariencia alarmante en la radiografía de tórax (grandes \"globos de aire\" en el pulmón), casi nunca requieren cirugías o intervenciones invasivas dolorosas si el paciente está sano y compensado.",
+    "options": [
+      {
+        "text": "Tuberculosis cavitaria activa severa; requiere aislamiento respiratorio estricto en habitación con presión negativa y tratamiento antituberculoso por 6 meses de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "Las cavernas tuberculosas en pediatría son sumamente raras de observar de forma de cavidades delgadas asintomáticas gigantes de aparición aguda a los 6 días de evolución de una neumonía común curada; el neumatocele es el diagnóstico infinitamente más probable ante este cuadro típico."
+      },
+      {
+        "text": "Neumatocele(s); son lesiones cavitarias benignas que aparecen de forma común durante la resolución de neumonías supurativas bacterianas intensas (especialmente por neumococo o estafilococo). La conducta indicada es el manejo conservador y expectante con estricta monitorización clínica y radiológica de control, ya que la gran mayoría de los neumatoceles son asintomáticos, benignos y resuelven espontáneamente sin dejar secuelas en semanas o meses.",
+        "isCorrect": true,
+        "explanation": "Los neumatoceles son pseudoquistes pulmonares benignos que aparecen de forma característica en la fase de resolución de neumonías bacterianas destructivas (clásicamente asociadas a S. aureus, S. pneumoniae de serotipos invasores o S. pyogenes). Al tener paredes delgadas y no contener pus (sin niveles hidroaéreos), si el paciente está asintomático, el manejo es estrictamente observacional; las lesiones involucionan solas de forma espontánea sin dejar secuelas en el parénquima pulmonar."
+      },
+      {
+        "text": "Quistes hidatídicos rotos; requiere toracotomía abierta inmediata para resección de quistes y parasitosis masiva.",
+        "isCorrect": false,
+        "explanation": "La hidatidosis pulmonar es endémica pero causa quistes de doble pared de crecimiento lento (años), habitualmente rellenos de líquido denso, sin que aparezcan de forma hiperaguda asintomática masiva tras una neumonía aguda en resolución."
+      },
+      {
+        "text": "Abscesos pulmonares agudos sobreinfectados; requiere punción percutánea transcutánea de urgencia para drenar el aire acumulado.",
+        "isCorrect": false,
+        "explanation": "Los abscesos pulmonares verdaderos tienen paredes gruesas, irregulares y presentan niveles hidroaéreos marcados (moco y pus en su interior) y cursan con un estado infeccioso febril persistente severo ausente en este lactante estable afebril."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 11 meses ingresa con un cuadro de neumonía grave rápidamente progresiva. En la radiografía de tórax de control tomada a las 24 horas del ingreso, se observa una consolidación pulmonar multifocal con presencia de múltiples neumatoceles gigantes de rápido crecimiento y un derrame pleural paraneumónico complicado de instalación precoz en el hemitórax izquierdo. ¿Cuál es el patógeno bacteriano clásico que destaca por su alta capacidad destructiva del parénquima pulmonar y alta tasa de formación de neumatoceles, pioneumotórax y abscesos pulmonares en lactantes pequeños?",
+    "hint": "Se trata de un coco Gram positivo que se agrupa de forma característica en racimos. Es productor de múltiples toxinas destructivas sistémicas y locales (como la leucocidina de Panton-Valentine) que causan necrosis tisular severa, abscesos locales y neumonías necrotizantes de rápida progresión en la infancia.",
+    "options": [
+      {
+        "text": "Moraxella catarrhalis.",
+        "isCorrect": false,
+        "explanation": "Moraxella catarrhalis causa otitis media aguda o sinusitis en pediatría, y de forma rara bronquitis o neumonías leves en pacientes con daño pulmonar crónico, sin presentar ninguna capacidad destructiva de formación de neumatoceles gigantes."
+      },
+      {
+        "text": "Streptococcus pyogenes.",
+        "isCorrect": false,
+        "explanation": "Si bien el Streptococcus pyogenes (estreptococo del grupo A) puede causar neumonías necrotizantes severas y derrames pleurales de rápida progresión en el escolar, el Staphylococcus aureus sigue siendo epidemiológicamente el patógeno líder en la formación de neumatoceles del lactante menor."
+      },
+      {
+        "text": "Mycoplasma pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Mycoplasma pneumoniae causa neumonías atípicas leves a moderadas con infiltrados intersticiales bilaterales difusos; no cursa característicamente con necrosis tisular cavitaria pulmonar masiva, pioneumotórax ni neumatoceles gigantes."
+      },
+      {
+        "text": "Staphylococcus aureus.",
+        "isCorrect": true,
+        "explanation": "El Staphylococcus aureus es el agente patógeno clásico caracterizado por causar neumonías necrotizantes supurativas de rápida progresión con tendencia patognomónica a formar múltiples neumatoceles gigantes, pioneumotórax secundario por rotura de neumatoceles, y derrames pleurales masivos complicados en lactantes menores de un año."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "En la red de Atención Primaria de Salud de Chile, se aplica el Score de Riesgo de Morir por Neumonía (comúnmente conocido como Score de IRA o de Gravedad) a todo lactante menor de un año que consulta por una infección respiratoria baja. ¿Cuál de las siguientes afirmaciones describe de forma correcta el fundamento y los parámetros considerados en este score preventivo de salud pública?",
+    "hint": "Este score chileno fue diseñado para detectar de forma proactiva a aquellos lactantes de familias con vulnerabilidad social o factores biológicos que los exponen a una mala evolución o fallecimiento en el hogar por neumonía si no se implementan medidas de apoyo prolijas o esquemas especiales de vacunación (como adelantar neumococo).",
+    "options": [
+      {
+        "text": "Evalúa de forma estricta los niveles plasmáticos de interleuquinas y PCR para definir el pronóstico celular del menor.",
+        "isCorrect": false,
+        "explanation": "No considera ningún parámetro biológico de laboratorio o citoquímicos complejos invasores; es un score basado en variables clínicas, biológicas básicas y socioculturales fácilmente interrogables."
+      },
+      {
+        "text": "Su objetivo es determinar qué antibiótico dejar de forma profiláctica al nacer sin necesidad de evaluar al lactante.",
+        "isCorrect": false,
+        "explanation": "El objetivo no es la profilaxis antibiótica generalizada ciega al nacer, la cual está formalmente contraindicada."
+      },
+      {
+        "text": "Se aplica para predecir el riesgo de mortalidad por neumonía en el lactante en domicilio y guiar la toma de medidas preventivas y de derivación, considerando variables sociales y clínicas como: edad de la madre, nivel de educación materna, peso de nacimiento del lactante, antecedentes de hospitalizaciones previas por IRA, estado de inmunizaciones, tabaquismo o contaminación intradomiciliaria y lactancia materna.",
+        "isCorrect": true,
+        "explanation": "El Score de Riesgo de Morir por Neumonía (IRA) es una herramienta epidemiológica chilena de gran valor. Asigna puntajes de forma predictiva según factores de riesgo demostrados para mortalidad infantil respiratoria. Si el puntaje clasifica al lactante como \"riesgo alto\" (puntuación $\\ge 10$ puntos), la normativa técnica del Programa IRA del MINSAL exige un seguimiento estrecho, visitas domiciliarias por enfermera/kinesiólogo, priorización en la atención médica de urgencia y derivación prioritaria."
+      },
+      {
+        "text": "Se aplica únicamente para diagnosticar alergia al huevo y considera parámetros como el peso al nacer y la presencia de asma.",
+        "isCorrect": false,
+        "explanation": "Confunde el score con una evaluación inmunológica alergológica de alergia al huevo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 2 meses de vida es llevado al CESFAM por presentar tos espasmódica frecuente y dificultad respiratoria progresiva de una semana de evolución. Al examen físico se encuentra afebril, activo, con taquipnea moderada ($52\\text{ rpm}$), saturación de $94\\%$ al aire ambiente, y en la auscultación pulmonar se aprecian abundantes crépitos finos inspiratorios bilaterales simétricos y escasas sibilancias. Se constata el antecedente de conjuntivitis purulenta bilateral en la segunda semana de vida que respondió parcialmente a colirios. El hemograma reporta una marcada eosinofilia periférica ($1200\\text{ eosinófilos/mm}^3$). ¿Cuál es el diagnóstico más probable?",
+    "hint": "Se trata de una infección de transmisión vertical adquirida durante el paso del recién nacido por el canal de parto infectado por una bacteria intracelular obligada. Cursa con la tríada clásica de: lactante de 1 a 3 meses de vida, afebril con tos en \"staccato\" seca, antecedente de conjuntivitis neonatal, y un hemograma con eosinofilia significativa asociada.",
+    "options": [
+      {
+        "text": "Neumonía condensativa por Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "La neumonía por Streptococcus pneumoniae es de inicio agudo, típicamente cursa con fiebre alta y no se asocia de forma característica a conjuntivitis neonatal previa ni a eosinofilia periférica de esta naturaleza."
+      },
+      {
+        "text": "Bronquiolitis aguda por virus respiratorio sincicial grado severo.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis por VRS suele cursar con coriza previa, fiebre moderada a alta en lactantes de esta edad, sibilancias dominantes bilaterales en espiración, y el hemograma no se caracteriza por presentar eosinofilia periférica marcada."
+      },
+      {
+        "text": "Neumonía afebril del lactante por Chlamydia trachomatis.",
+        "isCorrect": true,
+        "explanation": "El cuadro clínico con lactante de 2 meses afebril, tos persistente, conjuntivitis neonatal previa y hemograma con marcada eosinofilia es patognomónico de la neumonía afebril del lactante por Chlamydia trachomatis. El tratamiento de elección en este caso es con Eritromicina oral por 14 días (o Azitromicina oral por 5 días) para erradicar el germen de forma sistémica y prevenir el desarrollo de estenosis pilórica hipertrófica tardía que se asocia al uso de macrólidos."
+      },
+      {
+        "text": "Coqueluche o tos convulsiva severa por Bordetella pertussis.",
+        "isCorrect": false,
+        "explanation": "El coqueluche cursa con tos quintosa severa con \"gallito\" inspiratorio y tendencia a las apneas con cianosis y se asocia de forma característica a una linfocitosis extrema de rango leucemoide (más de $30.000\\text{-}50.000\\text{ linfocitos/mm}^3$), no a eosinofilia aislada en lactante afebril estable."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un adolescente de 15 años presenta un cuadro de inicio gradual de tos seca persistente de dos semanas de evolución, cefalea, odinofagia marcada y disfonía persistente. No presenta compromiso del estado general ni fiebre alta. La radiografía de tórax de control muestra un infiltrado intersticial difuso basal izquierdo sin consolidación lobar evidente. Se sospecha una neumonía atípica. ¿Cuál es el patógeno bacteriano atípico (distinto de Mycoplasma) implicado frecuentemente en este rango de edad que cursa con faringitis y disfonía previa característica?",
+    "hint": "Este patógeno atípico es una causa común de infecciones respiratorias altas y bajas en adolescentes y adultos jóvenes. Clínicamente cursa de forma muy parecida al Mycoplasma, pero se asocia de forma casi patognomónica a faringitis aguda inicial con disfonía persistente severa (laringitis concomitante).",
+    "options": [
+      {
+        "text": "Legionella pneumophila.",
+        "isCorrect": false,
+        "explanation": "Legionella pneumophila es un patógeno atípico severo que causa la enfermedad de los legionarios (neumonía grave con diarrea, dolor abdominal, hiponatremia y confusión mental), típicamente asociada a la inhalación de aerosoles de sistemas de aire acondicionado contaminados en adultos mayores o inmunocomprometidos, sumamente infrecuente en adolescentes sanos."
+      },
+      {
+        "text": "Chlamydia trachomatis.",
+        "isCorrect": false,
+        "explanation": "Chlamydia trachomatis es un patógeno exclusivo del periodo neonatal y lactante menor (menores de 3 meses) adquirido en el canal de parto; no causa neumonía comunitaria atípica en adolescentes de 15 años de forma típica."
+      },
+      {
+        "text": "Chlamydia pneumoniae.",
+        "isCorrect": true,
+        "explanation": "Chlamydia pneumoniae es un agente patógeno atípico responsable de hasta el $10\\text{-}15\\%$ de las NAC en adolescentes y adultos jóvenes. Se caracteriza clínicamente por un pródromo de faringitis prolongada, disfonía marcada (por laringitis) y posterior tos seca persistente con infiltrado intersticial en la radiografía. Responde bien a los macrólidos."
+      },
+      {
+        "text": "Mycobacterium tuberculosis.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis pulmonar cursa con tos productiva de semanas de evolución, sudoración nocturna, baja de peso (síndrome consuntivo) y radiológicamente muestra consolidaciones apicales, cavernas o adenopatías mediastínicas, no un cuadro intersticial atípico leve con faringitis y disfonía de inicio gradual."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 12 meses hospitalizado por neumonía estafilocócica en el lóbulo superior derecho, que presentaba neumatoceles descritos en la radiografía de ingreso, presenta de forma brusca durante el llanto un cuadro de dificultad respiratoria extrema de inicio instantáneo, con cianosis profunda generalizada, quejido espiratorio severo, agitación extrema y shock hemodinámico (taquicardia de $180\\text{ x'}$, llene capilar de 4 segundos). Al examen auscultatorio del hemitórax derecho, destaca silencio auscultatorio total con abolición del murmullo pulmonar e hipersonoridad marcada a la percusión. Se sospecha una rotura de neumatocele hacia la cavidad pleural (pioneumotórax a tensión). ¿Cuál es la conducta de emergencia inmediata que debe realizar el reanimador antes de trasladar al paciente a pabellón o sala de rayos?",
+    "hint": "El aire que se escapa de un neumatoceles roto hacia la pleura queda atrapado en el espacio pleural de forma de válvula. Con cada respiración, la pleura se infla de aire a alta presión que aplasta y empuja al pulmón y al mediastino (grandes venas que retornan sangre al corazón) hacia el lado contrario, causando un paro cardíaco obstructivo en pocos minutos.",
+    "options": [
+      {
+        "text": "Intubar de forma inmediata al lactante en su cuna sin realizar maniobras descompresivas previas.",
+        "isCorrect": false,
+        "explanation": "Intubar e iniciar ventilación mecánica a presión positiva sin descomprimir previamente el tórax aumentará masivamente el escape de aire hacia el espacio pleural, incrementando catastróficamente la presión mediastínica y provocando el paro cardíaco inmediato de forma fulminante."
+      },
+      {
+        "text": "Administrar un bolo rápido de solución fisiológica de $20\\text{ ml/kg}$ y nebulizar de forma continua con salbutamol por 2 horas.",
+        "isCorrect": false,
+        "explanation": "Los fluidos no resolverán la obstrucción mecánica extrema del mediastino producida por la presión intratorácica del aire a tensión, y los broncodilatadores nebulizados son completamente inútiles y peligrosos de demorar en este colapso mecánico."
+      },
+      {
+        "text": "Realizar de forma inmediata una punción descompresiva de urgencia con aguja/teflón grueso (calibre 14G-16G) en el segundo espacio intercostal en la línea medioclavicular del hemitórax derecho para evacuar el aire a tensión que comprime al mediastino y grandes vasos, salvando la vida del menor de forma instantánea.",
+        "isCorrect": true,
+        "explanation": "La rotura de un neumatocele hacia el espacio pleural causa un pioneumotórax o neumotórax a tensión. Es una de las emergencias mecánicas más letales en pediatría respiratoria hospitalizada. El manejo prioritario inmediato ante un shock obstructivo inminente por aire a tensión es la descompresión inmediata con aguja en el segundo espacio intercostal línea medioclavicular del lado afectado. Esto transforma el neumotórax a tensión en un neumotórax simple abierto de baja presión, estabilizando hemodinámicamente al menor de forma rápida para proceder luego a la colocación reglamentaria de un tubo de tórax con trampa de agua (pleurostomía)."
+      },
+      {
+        "text": "Solicitar de forma prioritaria una radiografía de tórax portátil de control y esperar el informe del radiólogo para decidir la conducta.",
+        "isCorrect": false,
+        "explanation": "Esperar una radiografía ante un paciente con cianosis refractaria, silencio auscultatorio con timpanismo unilateral y signos de shock en el contexto de neumatoceles conocidos es una negligencia mortal; el paciente fallecerá por paro cardiorrespiratorio obstructivo antes de que llegue la máquina de rayos."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Usted controla la evolución de un lactante de 2 años con diagnóstico de neumonía necrotizante lobar derecha por Streptococcus pneumoniae serotipo 3. A pesar de haber recibido 10 días de terapia intravenosa dirigida con penicilina sódica y encontrarse actualmente afebril y estable, la radiografía de tórax de control muestra persistencia de múltiples áreas de cavitación de paredes gruesas e irregulares en el parénquima pulmonar derecho con áreas de consolidación residuales. Respecto a la evolución y pronóstico a largo plazo de la neumonía necrotizante pediátrica, ¿cuál es la conducta recomendada basada en la evidencia de neumología infantil?",
+    "hint": "El pulmón pediátrico tiene una enorme plasticidad y capacidad de regeneración alveolar activa (alveolización continua que se prolonga de forma fisiológica hasta los 8 a 10 años de edad). Las lesiones de necrosis del parénquima curan de forma lenta pero excelente sin requerir de rutina cirugías agresivas mutilantes.",
+    "options": [
+      {
+        "text": "Indicar de inmediato quimioterapia intrapulmonar profiláctica para desinflamar las cavidades.",
+        "isCorrect": false,
+        "explanation": "Las neumonías necrotizantes bacterianas infecciosas no se tratan de ninguna manera con agentes de quimioterapia oncológica intrapulmonar."
+      },
+      {
+        "text": "Mantener una conducta expectante y conservadora con antibioterapia de ciclo prolongado, ya que la gran mayoría de las neumonías necrotizantes pediátricas presentan una excelente evolución clínica y una regeneración parenquimatosa pulmonar casi completa a largo plazo (de 6 a 12 meses), sin dejar secuelas funcionales significativas en el niño sano inmunocompetente.",
+        "isCorrect": true,
+        "explanation": "La neumonía necrotizante (complicación grave del neumococo serotipo 3 o 19A, o estafilococo) causa áreas de licuefacción e infarto en el tejido pulmonar. A pesar de su gravedad inicial, los niños inmunocompetentes presentan una notable capacidad de recuperación y remodelación tisular a largo plazo. El manejo actual prefiere la conservación conservadora con antibióticos prolongados; las imágenes de cavidades resuelven completamente en el seguimiento radiológico a los 6-12 meses, recuperando la función pulmonar normal casi por completo sin requerir de rutina lobectomías pulmonares mecánicas agresivas."
+      },
+      {
+        "text": "Programar una lobectomía quirúrgica abierta de urgencia inmediata de todo el pulmón derecho por riesgo de cáncer.",
+        "isCorrect": false,
+        "explanation": "La lobectomía o neumonectomía quirúrgica está estrictamente contraindicada de rutina en la neumonía necrotizante no complicada activa en pediatría; se reserva exclusivamente para casos de fístulas broncopleurales de alto flujo persistentes refractarias, abscesos masivos multiloculados gigantes que causen sepsis persistente o hemoptisis masiva de riesgo vital inminente."
+      },
+      {
+        "text": "Contraindicar de forma permanente la vacunación del PNI en el futuro por riesgo de recurrencia de la necrosis.",
+        "isCorrect": false,
+        "explanation": "Al contrario, completar y mantener el calendario vacunal del PNI (especialmente contra el neumococo y la influenza) es una medida preventiva prioritaria para proteger el parénquima pulmonar sano residual contra nuevas infecciones invasoras."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 18 meses cursa con una neumonía viral severa con requerimiento de ventilación mecánica invasiva prolongada de 21 días en la UCIN. El panel virológico inicial confirmó la etiología por Adenovirus (especialmente serotipos de alta agresividad como el 7 o 21). Tras el alta de la unidad crítica, presenta de forma crónica tos húmeda productiva persistente, sibilancias que no responden a salbutamol, retracción costal leve en reposo e hipoxemia moderada que requiere el uso de oxígeno domiciliario de forma continua. ¿Cuál es la secuela pulmonar crónica clásica más grave que se asocia a la infección grave por Adenovirus en la primera infancia?",
+    "hint": "El Adenovirus es un virus altamente citotóxico que produce necrosis masiva y descamación de las células epiteliales de las vías respiratorias superiores e inferiores, destruyendo las fibras elásticas del colágeno pulmonar. Al curar, la vía aérea pequeña bronquiolar cicatriza con tejido fibroso rígido que ocluye de forma permanente la luz del bronquiolo, y las vías aéreas medianas se dilatan de forma irreversible (bronquiectasias).",
+    "options": [
+      {
+        "text": "Bronquiolitis Obliterante (BO) posviral asociada al desarrollo posterior de bronquiectasias cilíndricas o saculares, secundarias a la necrosis severa de la mucosa bronquiolar y del tejido elástico de soporte pulmonar inducida por el virus Adenovirus.",
+        "isCorrect": true,
+        "explanation": "El Adenovirus (especialmente los serotipos 3, 7 y 21) es el agente causal clásico y más potente de la Bronquiolitis Obliterante (BO) posviral en Chile. Esta enfermedad respiratoria crónica se caracteriza por la obstrucción fibrosa cicatrizal de los bronquiolos terminales, manifestándose por sibilancias fijas refractarias a broncodilatadores, taquipnea e hipoxemia crónica posviral. Se acompaña frecuentemente de bronquiectasias (dilataciones bronquiales irreversibles que acumulan moco purulento de forma crónica)."
+      },
+      {
+        "text": "Enfisema pulmonar panacinar juvenil hereditario por déficit de alfa-1 antitripsina.",
+        "isCorrect": false,
+        "explanation": "El enfisema por déficit de alfa-1 antitripsina es una enfermedad genética hereditaria autosómica codominante que causa destrucción de las paredes alveolares pulmonares en la adultez, sin relación fisiopatológica con una infección viral aguda por Adenovirus en el lactante."
+      },
+      {
+        "text": "Asma infantil episódica leve autolimitada que cura en menos de 15 días tras el alta de la UCIN.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis obliterante es una patología respiratoria crónica invalidante grave que requiere oxígeno a largo plazo, corticoides sistémicos, kinesioterapia respiratoria diaria y no cura en 15 días de forma benigna espontánea simple."
+      },
+      {
+        "text": "Hipertensión pulmonar primaria familiar ligada al cromosoma Y.",
+        "isCorrect": false,
+        "explanation": "La hipertensión pulmonar primaria es una patología arterial pulmonar idiopática o familiar rara que no es causada de forma característica por cicatrices obstructivas bronquiolares directas por Adenovirus."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante una reunión del comité de infecciones de su hospital, se discute el perfil de susceptibilidad antimicrobiana de las cepas de Streptococcus pneumoniae aisladas de líquido pleural en menores de 5 años en Santiago. Se destaca que en Chile el mecanismo de resistencia de esta bacteria a los betalactámicos es cualitativamente diferente al observado en bacterias Gram negativas. ¿Cuál es el mecanismo molecular de resistencia del neumococo a la Penicilina y cómo influye en la conducta terapéutica de la neumonía?",
+    "hint": "El neumococo no destruye al antibiótico con \"tijeras químicas\" (enzimas betalactamasas) que rompan la molécula. En su lugar, el neumococo altera la cerradura (el receptor de la bacteria donde se une el antibiótico), haciéndola un poco más floja de lo normal. Para abrir esa cerradura modificada, solo se requiere meter una gran cantidad de copias de la misma llave (fármaco).",
+    "options": [
+      {
+        "text": "Bloqueo de la entrada del antibiótico a la célula mediante la mutación de las porinas de la envoltura externa lipídica.",
+        "isCorrect": false,
+        "explanation": "Las porinas de membrana son estructuras exclusivas de la envoltura externa lipídica de las bacterias Gram negativas (como E. coli o Pseudomonas); el neumococo es una bacteria Gram positiva que carece de membrana externa, por lo que no tiene porinas."
+      },
+      {
+        "text": "Expulsión activa del antibiótico al exterior de la bacteria a través de bombas de eflujo transmembrana impulsadas por ATP.",
+        "isCorrect": false,
+        "explanation": "Las bombas de eflujo activo explican la resistencia a los macrólidos (genes mef) o fluoroquinolonas en neumococo, pero no describen el mecanismo principal de resistencia a los antibióticos betalactámicos del grupo de la penicilina."
+      },
+      {
+        "text": "Alteración estructural de las Proteínas de Unión a Penicilina (PBPs) (sitio blanco donde actúa el antibiótico) mediante la adquisición de genes que codifican PBPs modificadas de menor afinidad por el betalactámico; esta resistencia de tipo \"no enzimática\" es reversible in vivo utilizando altas concentraciones del antibiótico (como amoxicilina de alta dosis o penicilina sódica endovenosa de alta dosis), las cuales logran saturar las PBPs modificadas y ejercer el efecto bactericida.",
+        "isCorrect": true,
+        "explanation": "El mecanismo específico de resistencia de Streptococcus pneumoniae a la penicilina es la alteración cromosómica progresiva de sus transpeptidasas bacterianas (PBPs, principalmente PBP 2b, 2x y 1a) mediante la adquisición de ADN foráneo de otras bacterias comensales de la faringe de forma de genes mosaico. No producen betalactamasas. Al ser una resistencia por disminución de afinidad de la PBP y no destructiva, se puede superar de forma muy eficaz aumentando de forma terapéutica las dosis orales o intravenosas de penicilina/amoxicilina."
+      },
+      {
+        "text": "Producción de betalactamasas plasmídicas clásicas de tipo TEM-1 que destruyen de forma directa al anillo betalactámico de la penicilina.",
+        "isCorrect": false,
+        "explanation": "S. pneumoniae no produce betalactamasas plasmídicas de forma típica; por esto, los inhibidores de betalactamasas como el ácido clavulánico o sulbactam no aportan ventajas contra cepas resistentes de neumococo."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 3 años se encuentra hospitalizado en su segundo día por una pleuroneumonía izquierda derecha consolidativa no tabicada. Recibe Penicilina G Sódica intravenosa de forma puntual. Al realizar la visita médica matutina, se evalúa la posibilidad de realizar el cambio de la vía de administración intravenosa a la vía oral para continuar el tratamiento de forma ambulatoria en domicilio. ¿Cuál de los siguientes grupos de condiciones clínicas y de laboratorio confirma de forma segura la aptitud del preescolar para realizar esta transición de terapia IV a oral?",
+    "hint": "La radiografía de tórax en la neumonía bacteriana es muy \"lenta\" para sanar; las imágenes de condensación o derrames paraneumónicos menores pueden tardar semanas o meses en desaparecer por completo, por lo que nunca se exige una placa limpia para dar el alta si el niño está sano por fuera. La decisión de pasar a vía oral es eminentemente clínica.",
+    "options": [
+      {
+        "text": "Que la radiografía de tórax de control tomada hoy muestre la desaparición absoluta de la condensación del lóbulo pulmonar derecho en menos de 48 horas.",
+        "isCorrect": false,
+        "explanation": "Como se describió, la resolución radiológica es un proceso biológicamente lento que no ocurre en 48 horas; exigir una placa limpia para pasar a vía oral retiene innecesariamente al menor hospitalizado de forma indefinida."
+      },
+      {
+        "text": "Que se cumplan exactamente 14 días de antibióticos endovenosos continuos en todos los casos de neumonía.",
+        "isCorrect": false,
+        "explanation": "No existe un límite estricto arbitrario de 14 días intravenosos obligatorios para neumonías bacterianas no complicadas estables; la transición se realiza de forma precoz a los 2-3 días de estabilización clínica en la gran mayoría de las NAC comunes."
+      },
+      {
+        "text": "Únicamente que el hemograma y la PCR muestren valores completamente normales y negativos, aunque persista con dificultad respiratoria severa y fiebre alta.",
+        "isCorrect": false,
+        "explanation": "Priorizar exámenes de sangre alterados por sobre un paciente clínicamente enfermo e inestable (con taquipnea y fiebre) es una mala práctica con riesgo de fracaso terapéutico."
+      },
+      {
+        "text": "Que el preescolar se encuentre afebril por al menos 24 a 48 horas, presente una marcada mejoría clínica del esfuerzo respiratorio (sin taquipnea ni tiraje marcado), mantenga una excelente tolerancia digestiva por vía oral (sin vómitos), y sature de forma estable por encima de $93\\text{-}94\\%$ al aire ambiente, independientemente de la normalización completa de la radiografía de tórax.",
+        "isCorrect": true,
+        "explanation": "Los criterios estándar para realizar el cambio a vía oral (desescalada terapéutica) en NAC pediátrica son estrictamente clínicos: el paciente debe estar afebril por un mínimo de 24-48 horas, mostrar estabilidad respiratoria (FR en rango normal para la edad y SpO2 adecuada), tolerar la ingesta oral de líquidos y fármacos, y estar hemodinámicamente estable. La resolución radiológica de la condensación toma de 4 a 6 semanas (e incluso más), por lo que no se exige una radiografía normal para el alta; retrasar el alta esperando una placa limpia es un error de gestión clínica que aumenta el riesgo de infecciones nosocomiales de forma innecesaria."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante la discusión de un caso clínico en la reunión de radiología pediátrica, se analiza la radiografía de tórax anteroposterior en bipedestación de un escolar de 5 años con sospecha de pleuroneumonía bacteriana derecha. ¿Cuál es el hallazgo radiológico clásico que describe de forma precisa la presencia de un derrame pleural libre de cuantía moderada acumulado en el espacio pleural derecho?",
+    "hint": "El líquido libre dentro del tórax se acumula en la base debido a la gravedad. Por efecto de la tensión superficial del líquido y de la elasticidad de los pulmones, la superficie del líquido pleural adopta una forma curvada ascendente que trepa por la pared del tórax hacia el espacio de la axila.",
+    "options": [
+      {
+        "text": "Opacidad homogénea densa en la base pulmonar derecha que borra el seno costofrénico e indica una línea de concavidad superior dirigida hacia la axila (Curva de Damoiseau o de Ellis-Damoiseau), asociada a desplazamiento de las estructuras del mediastino hacia el lado contralateral izquierdo si el derrame es masivo.",
+        "isCorrect": true,
+        "explanation": "La radiografía de un derrame pleural libre de cuantía moderada muestra de forma clásica una opacidad basal homogénea que borra el seno costofrénico y diafragmático derecho. El límite superior del líquido no es plano; adopta una curva cóncava ascendente hacia la axila llamada Línea o Curva de Damoiseau. Si el derrame es de gran volumen (derrame masivo a tensión), empujará la tráquea y el corazón (mediastino) hacia el pulmón sano contralateral."
+      },
+      {
+        "text": "Presencia de una imagen cavitaria de paredes gruesas con nivel hidroaéreo en el lóbulo superior derecho.",
+        "isCorrect": false,
+        "explanation": "Describe los hallazgos típicos de un absceso pulmonar agudo o una neumonía cavitada con una cavidad hidroaérea, no de un derrame libre en el espacio pleural periférico basal."
+      },
+      {
+        "text": "Presencia de un infiltrado perihiliar bilateral difuso en \"alas de mariposa\" con silueta cardíaca normal.",
+        "isCorrect": false,
+        "explanation": "Describe el patrón radiológico clásico del edema pulmonar cardiogénico o no cardiogénico (SDRA) bilateral difuso con infiltrados alveolares bilaterales simétricos perihiliares, completamente distinto al derrame unilateral basal del caso."
+      },
+      {
+        "text": "Hiperlucidez focalizada unilateral pulmonar derecha con ausencia de trama broncovascular que colapsa el pulmón hacia el hilio de forma simétrica.",
+        "isCorrect": false,
+        "explanation": "Describe la imagen radiológica típica de un neumotórax periférico (presencia de aire a tensión que colapsa el pulmón hacia el hilio), caracterizado por radiolucidez sin trama vascular visible."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 10 años ingresa por un cuadro de fiebre persistente de dos semanas de evolución, tos productiva con expectoración purulenta de olor fétido (vómica ocasional), baja de peso significativa y dolor torácico sordo localizado en la región media derecha. Presenta antecedentes de parálisis cerebral espástica con disfagia severa e historia de aspiraciones salivales recurrentes. La radiografía de tórax AP revela una imagen de consolidación pulmonar en el lóbulo inferior derecho que contiene en su interior una cavidad de $4\\text{ cm}$ de diámetro, de paredes gruesas e irregulares, con un nivel hidroaéreo marcado en su interior. ¿Cuál es el diagnóstico de sospecha prioritario en este paciente con complejidad médica?",
+    "hint": "Los niños con compromiso neurológico severo y disfagia aspiran de forma crónica secreciones de la boca cargadas de bacterias de la flora anaerobia. Si la aspiración provoca una condensación en los lóbulos inferiores (los más propensos por gravedad en supino), la flora anaerobia puede provocar una necrosis local masiva que \"licúa\" el pulmón, formando una gran cavidad llena de pus y aire de paredes inflamatorias muy gruesas.",
+    "options": [
+      {
+        "text": "Neumatocele benigno gigante en resolución.",
+        "isCorrect": false,
+        "explanation": "Los neumatoceles son pseudoquistes de paredes extremadamente finas, delgadas como papel, que no contienen pus (sin niveles hidroaéreos en su interior) y aparecen de forma aguda asintomática en la resolución de neumonías agudas, sin cursar con fiebre persistente ni baja de peso consuntiva de dos semanas."
+      },
+      {
+        "text": "Neumotórax espontáneo derecho de alta presión.",
+        "isCorrect": false,
+        "explanation": "El neumotórax cursa con aire libre en la cavidad pleural periférica que colapsa el parénquima pulmonar hacia el hilio, sin la presencia de una cavidad cavitaria intraparenquimatosa gruesa consolidativa con nivel hidroaéreo localizado."
+      },
+      {
+        "text": "Quiste broncogénico congénito no infectado.",
+        "isCorrect": false,
+        "explanation": "Los quistes broncogénicos son anomalías del desarrollo del árbol bronquial que se visualizan como masas o cavidades de paredes finas y contenido líquido claro homogéneo; si no están infectados de forma secundaria, no cursan con niveles hidroaéreos, expectoración fétida purulenta ni fiebre persistente infecciosa destructiva."
+      },
+      {
+        "text": "Absceso Pulmonar primario secundario a neumonía por aspiración de secreciones digestivas anaerobias.",
+        "isCorrect": true,
+        "explanation": "El Absceso Pulmonar es una complicación destructiva supurativa parenquimatosa localizada. En niños con parálisis cerebral y disfagia, la causa más común es la microaspiración de flora oral mixta anaerobia (como Bacteroides, Peptostreptococcus o Fusobacterium). Cursa con fiebre prolongada, expectoración fétida (vómica) y radiológicamente muestra una cavidad gruesa irregular con nivel hidroaéreo (aire y pus). El tratamiento exige antibioterapia prolongada de amplio espectro dirigida (como Clindamicina o Ampicilina-Sulbactam) por 4 a 6 semanas."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 4 meses ingresa en regulares condiciones generales, polipneico, cianótico durante las crisis de tos, por un cuadro de 14 días de evolución caracterizado por accesos repetidos de tos espasmódica paroxística quintosa seguidos de un silbido inspiratorio estridente (\"gallito\") y apneas post-crisis. Al hemograma de urgencia destaca de forma alarmante un recuento de glóbulos blancos de $55.000/\\text{mm}^3$, con un $75\\%$ de linfocitos maduros, sin desviación a la izquierda. ¿A qué fenómeno hematológico corresponde este hallazgo analítico característico del Coqueluche grave y qué factor patogénico bacteriano lo produce?",
+    "hint": "La bacteria Bordetella pertussis produce una potente toxina que altera el tráfico normal de los glóbulos blancos. Aunque los linfocitos son células maduras y no malignas, la toxina les impide \"salir\" de la sangre, lo que se visualiza en el hemograma como una elevación masiva de la serie blanca que simula una leucemia (rango leucemoide).",
+    "options": [
+      {
+        "text": "Reacción Leucemoide Linfocítica, inducida de forma específica por la Toxina Pertúsica de Bordetella pertussis, la cual bloquea la migración y el retorno de los linfocitos circulantes desde el torrente sanguíneo hacia los ganglios linfáticos, acumulándolos de forma masiva en la circulación periférica de forma fisiológica.",
+        "isCorrect": true,
+        "explanation": "La reacción leucemoide linfocítica (recuento de blancos $>50.000/\\text{mm}^3$ con linfocitosis marcada) es un hallazgo hematológico patognomónico del Coqueluche o tos convulsiva severa en lactantes pequeños. Ocurre porque la toxina pertúsica (PT) bloquea los receptores de quimiocinas de los linfocitos, impidiendo que dejen la circulación para ingresar a los tejidos linfoides (freno de la homing linfocitaria). Un mayor recuento de leucocitos se asocia de forma directa a mayor gravedad por riesgo de hiperviscosidad sanguínea y fallo cardiopulmonar por hipertensión pulmonar severa secundaria a microtrombos de leucocitos en los capilares alveolares."
+      },
+      {
+        "text": "Pancitopenia por leucemia linfoblástica aguda que debuta como resfrío.",
+        "isCorrect": false,
+        "explanation": "Aunque el recuento simula una leucemia, la presencia de linfocitos morfológicamente maduros (no blastos tumorales) y la correlación clínica con la tos quintosa típica confirman la reacción de coqueluche, no una neoplasia hematológica primaria maligna aguda."
+      },
+      {
+        "text": "Reacción leucemoide neutrofílica severa por neumococo.",
+        "isCorrect": false,
+        "explanation": "Las reacciones leucemoides neutrofílicas bacterianas cursan con desviación a la izquierda marcada (formas jóvenes como baciliformes y metamielocitos en la sangre) y predominio de polimorfonucleares, no con linfocitos maduros masivos en ausencia de desviación a la izquierda."
+      },
+      {
+        "text": "Eosinofilia extrema por infección fúngica sistémica diseminada.",
+        "isCorrect": false,
+        "explanation": "El recuento muestra linfocitos, no eosinófilos, por lo que no corresponde a una reacción alérgica o fúngica de eosinofilia periférica."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 2 años ingresa por una neumonía del lóbulo inferior derecho no complicada, estable, con requerimiento de oxígeno de bajo flujo por cánula nasal. Durante la visita médica, el interno sugiere indicar kinesioterapia respiratoria (KTR) diaria de forma rutinaria para \"agilizar la limpieza y el drenaje del foco pulmonar\". Respecto a la indicación de KTR en la neumonía bacteriana aguda no complicada en pediatría, ¿cuál de las siguientes afirmaciones describe de forma correcta la recomendación de la guía del MINSAL y la evidencia Cochrane?",
+    "hint": "La neumonía bacteriana es una infección del parénquima alveolar profundo (consolidación de pus celular densa inmóvil), no un problema de acumulación de moco laxo en los bronquios mayores que pueda ser \"vibrado\" o drenado por gravedad fácilmente. Forzar maniobras físicas dolorosas en un pulmón inflamado con pleura irritada solo genera disconfort y agitación.",
+    "options": [
+      {
+        "text": "Se debe realizar KTR de forma universal cada 2 horas con el fin de provocar tos refleja que rompa las costras subglóticas bacterianas.",
+        "isCorrect": false,
+        "explanation": "No existe tal recomendación de KTR cada 2 horas para romper costras subglóticas; esa es una patogenia ausente en la neumonía alveolar periférica típica no complicada del lactante."
+      },
+      {
+        "text": "La kinesioterapia respiratoria de rutina (maniobras de vibración, palmoteo o compresión torácica) no está recomendada de forma sistemática ni aporta beneficios clínicos en el tratamiento de la neumonía bacteriana comunitaria aguda no complicada, ya que la inflamación es alveolar difusa y las maniobras físicas no acortan la estancia hospitalaria, no aceleran la resolución radiológica, aumentan el dolor torácico pleurítico del lactante y pueden incrementar el esfuerzo y consumo metabólico de oxígeno de forma innecesaria.",
+        "isCorrect": true,
+        "explanation": "Las revisiones sistemáticas Cochrane y la Guía Clínica de Infecciones Respiratorias del MINSAL establecen que la KTR de rutina está contraindicada o desaconsejada en la neumonía bacteriana aguda no complicada. No acorta el curso clínico ni mejora las tasas de curación, y someter al lactante a maniobras vigorosas dolorosas aumenta el dolor pleurítico capilar localizado, gatilla agitación y aumenta los requerimientos de oxígeno. La KTR en neumonía se reserva de forma exclusiva para situaciones con atelectasias lobares masivas documentadas, hipersecreción bronquial mucosa concomitante (como en pacientes con fibrosis quística o parálisis cerebral) o enfermedades neuromusculares con tos ineficaz."
+      },
+      {
+        "text": "La KTR es el pilar y tratamiento único de la neumonía, reemplazando con seguridad al uso de antibióticos.",
+        "isCorrect": false,
+        "explanation": "Los antibióticos dirigidos son el pilar del tratamiento curativo de la neumonía bacteriana neumocócica; suspenderlos para usar solo KTR es negligente y letal."
+      },
+      {
+        "text": "Está recomendada de forma obligatoria en todas las fases de la neumonía para prevenir de forma absoluta el desarrollo de asma.",
+        "isCorrect": false,
+        "explanation": "La KTR no tiene ninguna propiedad farmacológica ni inmunológica para prevenir el asma bronquial infantil."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Usted analiza con su equipo de salud los cambios epidemiológicos en la incidencia de Neumonías Bacterianas e Infecciones Neumocócicas Invasoras (meningitis, sepsis, pleuroneumonías) en Chile en la última década. ¿Cuál ha sido el impacto documentado tras la introducción y mantención de la vacuna contra el Neumococo (PCV10 y luego PCV13) en el Programa Nacional de Inmunizaciones (PNI)?",
+    "hint": "Las vacunas conjugadas (donde el azúcar de la cápsula bacteriana se une a una proteína) logran que el sistema inmune inmaduro del menor de 2 años \"vea\" el antígeno y active linfocitos T de memoria, reduciendo la portación bacteriana en la nariz y la tasa de transmisión a la comunidad.",
+    "options": [
+      {
+        "text": "Ha provocado la erradicación total del Streptococcus pneumoniae de la faz de la tierra, por lo que actualmente ya no existen neumonías neumocócicas.",
+        "isCorrect": false,
+        "explanation": "La vacuna ha controlado los serotipos vacunales contenidos en ella, pero el neumococo sigue existiendo de forma comensal nasofaríngea y persisten serotipos no vacunales que pueden causar neumonías y requerir vigilancia epidemiológica activa."
+      },
+      {
+        "text": "La vacuna no ha mostrado ningún impacto debido a que el neumococo no causa neumonías en Chile.",
+        "isCorrect": false,
+        "explanation": "Es falso; la vacuna neumocócica es sumamente eficaz y el neumococo sigue siendo el patógeno bacteriano clásico más importante a controlar en el país."
+      },
+      {
+        "text": "Se ha documentado una reducción drástica de más del 70-80% de los casos de Enfermedad Neumocócica Invasora (ENI) y de hospitalizaciones por neumonía lobar en la población infantil menor de 2 años (grupo objetivo directo de la vacunación), gracias al efecto protector directo de la vacuna conjugada y a la inducción de inmunidad de rebaño comunitaria.",
+        "isCorrect": true,
+        "explanation": "La introducción de las vacunas neumocócicas conjugadas en Chile ha sido uno de los hitos sanitarios más exitosos en salud pública infantil, disminuyendo de forma dramática las tasas de neumonías consolidadas, derrames pleurales y meningitis neumocócica en lactantes y niños pequeños."
+      },
+      {
+        "text": "Se ha observado un aumento masivo de la mortalidad infantil por neumonía de origen genético.",
+        "isCorrect": false,
+        "explanation": "Al contrario, la mortalidad infantil por causas respiratorias de origen bacteriano invasor ha disminuido de forma constante gracias a la vacunación sistemática."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 7 años consulta en urgencias por un cuadro de 24 horas de evolución de dolor abdominal localizado predominantemente en el cuadrante superior e inferior derecho, asociado a vómitos reiterados, decaimiento marcado y fiebre de hasta $39.2^\\circ\\text{C}$ axilar. Al examen abdominal destaca dolor a la palpación profunda derecha, pero sin signos claros de irritación peritoneal (rebote negativo). Al evaluar detenidamente el tórax, se constata taquipnea de $36\\text{ rpm}$ y disminución del murmullo pulmonar con algunos crépitos en la base derecha. ¿Cuál es el mecanismo de este dolor abdominal y qué diagnóstico diferencial crucial de \"apendicitis simulada\" se debe descartar antes de proceder a una cirugía abdominal?",
+    "hint": "La pleura que recubre el diafragma comparte la misma inervación sensitiva del dolor con las paredes del abdomen superior y flanco derecho. Una inflamación profunda de la pleura pulmonar baja del lado derecho se \"siente\" y se proyecta semiológicamente en la panza del menor, acompañado de vómitos reflejos.",
+    "options": [
+      {
+        "text": "La apendicitis aguda produce una invasión directa hematógena rápida de bacterias al pulmón derecho a las pocas horas de inicio del dolor.",
+        "isCorrect": false,
+        "explanation": "La apendicitis no causa siembras neumónicas rápidas bilaterales viscerales de esta naturaleza en fase inicial en un niño previamente sano."
+      },
+      {
+        "text": "Se trata de un dolor de origen psicológico refractario por temor a las inyecciones en el escolar.",
+        "isCorrect": false,
+        "explanation": "El dolor abdominal es orgánico, real y sumamente intenso debido a la inflamación de la pleura somática diafragmática (dolor pleurítico proyectado), no de causa psicosomática simple."
+      },
+      {
+        "text": "El dolor abdominal en escolares con fiebre siempre confirma de forma absoluta una apendicitis retrocecal rota que requiere cirugía a ciegas sin exámenes de tórax.",
+        "isCorrect": false,
+        "explanation": "Someter a un escolar a una laparotomía exploradora con sospecha de apendicitis, cuando en realidad cursa con una neumonía de base derecha oculta, es un grave error de diagnóstico diferencial que expone al menor a los riesgos de la anestesia general y la cirugía de forma injustificada."
+      },
+      {
+        "text": "Corresponde a una Neumonía de base derecha (lobulillo inferior derecho) que produce una pleuritis diafragmática inflamatoria local, irritando los últimos nervios intercostales torácicos bajos que comparten dermatomas con la pared abdominal, simulando de forma refleja un cuadro de abdomen agudo / apendicitis aguda (dolor abdominal con vómitos y fiebre alta). Se debe solicitar de forma prioritaria una radiografía de tórax para descartar la neumonía antes de decidir una apendicectomía quirúrgica.",
+        "isCorrect": true,
+        "explanation": "El dolor abdominal y los vómitos asociados a fiebre alta en el escolar son un motivo clásico de error diagnóstico si se asumen de entrada como apendicitis sin examinar el tórax. La neumonía lobar inferior derecha puede causar pleuritis refleja diafragmática inflamatoria, irritando los nervios intercostales inferiores (T9 a T12) que inervan la piel y músculos de la pared abdominal derecha. El diagnóstico se aclara auscultando crépitos o un soplo tubárico en la base del pulmón derecho y confirmando la condensación en la radiografía de tórax de control."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Respecto a las medidas de prevención específicas contenidas en la campaña nacional para la población de riesgo infantil contra las complicaciones respiratorias severas y neumonía por el Virus Respiratorio Sincicial (VRS) en Chile, ¿cuál es la conducta actual vigente según las normas del MINSAL para el año 2026?",
+    "hint": "Chile ha sido pionero en la implementación de una estrategia universal de inmunización pasiva de cortísimo plazo basada en un anticuerpo monoclonal de vida media extendida que neutraliza de forma directa al virus antes de que ingrese a las células bronquiales.",
+    "options": [
+      {
+        "text": "No existe ningún fármaco preventivo autorizado; el manejo se limita a educar a los padres sobre el lavado de manos generalizado.",
+        "isCorrect": false,
+        "explanation": "Sí existe la inmunización pasiva sistémica altamente eficaz contra el VRS de forma oficial a nivel público en todo el territorio chileno."
+      },
+      {
+        "text": "Administrar la inmunización pasiva con el anticuerpo monoclonal Nirsevimab de forma universal a todos los lactantes nacidos a partir de la fecha de corte ministerial establecida en el año en curso (grupo objetivo cohorte de invierno), y a los recién nacidos en las maternidades a partir del inicio de la campaña, otorgando protección inmediata y prolongada contra infecciones respiratorias bajas y hospitalizaciones por VRS.",
+        "isCorrect": true,
+        "explanation": "Chile incorporó al Programa Nacional de Inmunizaciones el Nirsevimab (anticuerpo monoclonal contra la proteína F de fusión del VRS) de forma universal para todos los recién nacidos de la cohorte de invierno a partir del año 2024 de forma gratuita. Este anticuerpo otorga una potente protección pasiva inmediata que previene el desarrollo de infecciones respiratorias bajas graves, neumonía por VRS y la necesidad de hospitalización en cuidados críticos con excelente perfil de eficacia."
+      },
+      {
+        "text": "Administrar tratamiento antibiótico profiláctico con amoxicilina oral diariamente durante todo el invierno a todos los recién nacidos sanos.",
+        "isCorrect": false,
+        "explanation": "Los antibióticos no previenen las infecciones de origen viral como las causadas por el VRS; su administración masiva indiscriminada es perjudicial."
+      },
+      {
+        "text": "Iniciar tratamiento oral diario con aciclovir a todos los prematuros de 34 semanas por 6 meses.",
+        "isCorrect": false,
+        "explanation": "El aciclovir es un antiviral inútil contra el virus respiratorio sincicial; su espectro se limita de forma estricta a la replicación de los virus de la familia Herpes Simple y Varicela."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 5 años con antecedente de dermatitis atópica severa e inmunodeficiencia celular transitoria por quimioterapia reciente por linfoma, presenta un cuadro de varicela aguda. Al cuarto día de la erupción vesicular generalizada, comienza con tos seca progresiva, polipnea importante, cianosis y dolor torácico de tipo pleurítico. Al examen físico destaca taquipnea marcada ($50\\text{ rpm}$), sibilancias bilaterales difusas y saturación de oxígeno de $88\\%$ al aire ambiente. Se sospecha una Neumonía por Varicela. Respecto a esta complicación visceral de la varicela, ¿cuál es el tratamiento de elección inmediato y qué riesgo clínico representa?",
+    "hint": "La neumonía viral por el virus de la Varicela-Zóster es una de las complicaciones orgánicas más temidas de la enfermedad cutánea típica. Su progresión en pacientes de alto riesgo o inmunocomprometidos es fulminante, requiriendo terapia antiviral intravenosa inmediata de alta potencia.",
+    "options": [
+      {
+        "text": "Aciclovir endovenoso a dosis de $30\\text{ a }45\\text{ mg/kg/d\\u00eda}$ fraccionado cada 8 horas de forma inmediata y hospitalizado; la neumonitis por varicela en pacientes inmunocomprometidos es una complicación visceral extremadamente grave con alta tasa de mortalidad por falla respiratoria y distrés respiratorio agudo severo.",
+        "isCorrect": true,
+        "explanation": "La neumonitis varicelosa es una complicación rara pero sumamente letal en niños con inmunocompromiso, gestantes o adultos. Se produce por la replicación citopática directa del virus en el parénquima pulmonar. El tratamiento debe iniciarse de urgencia por vía intravenosa con Aciclovir a altas dosis para detener la replicación viral y prevenir la progresión al Síndrome de Distrés Respiratorio Agudo (SDRA) y el colapso respiratorio."
+      },
+      {
+        "text": "Aplicar cremas de óxido de zinc de forma masiva por todo el tórax; las punciones pulmonares están contraindicadas de por vida en la varicela.",
+        "isCorrect": false,
+        "explanation": "Las cremas de barrera cutánea son de utilidad local para las lesiones de piel pruriginosas, pero no tienen ninguna acción sobre el pulmón dañado ni tratan la neumonitis viral sistémica profunda de riesgo vital."
+      },
+      {
+        "text": "Paracetamol oral en dosis habitual y dar el alta a domicilio con reposo absoluto por 14 días.",
+        "isCorrect": false,
+        "explanation": "El manejo ambulatorio sintomático con paracetamol está estrictamente contraindicado ante la presencia de compromiso visceral neumónico variceloso con hipoxemia en un paciente oncológico de alto riesgo."
+      },
+      {
+        "text": "Amoxicilina por vía oral por 7 días de forma profiláctica contra la varicela ósea.",
+        "isCorrect": false,
+        "explanation": "La Amoxicilina es ineficaz contra virus de la varicela y no existe la \"varicela ósea\" prevenible con betalactámicos de esta forma."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 3 años cursa con su quinto día de hospitalización por una neumonía del lóbulo inferior izquierdo no complicada por neumococo. Ha evolucionado de forma excelente: se encuentra afebril por las últimas 48 horas, activo, de muy buen ánimo, alimentándose normalmente y con examen físico respiratorio normal (sin taquipnea ni dificultad para respirar). Satura $97\\%$ al aire ambiente. De acuerdo a las recomendaciones nacionales y la tendencia actual en infectología pediátrica para la duración de la antibioterapia en la NAC bacteriana no complicada, ¿cuál es la conducta más adecuada a seguir hoy?",
+    "hint": "En la era de la medicina basada en la evidencia, la tendencia actual de infectología (\"menos es más\") promueve el uso de ciclos de antibióticos lo más cortos y eficaces posibles para curar la infección sin dañar la microbiota del lactante ni promover la selección de cepas multirresistentes en el hogar.",
+    "options": [
+      {
+        "text": "Indicar tratamiento antibiótico con ceftriaxona por vía oral por 14 días adicionales de forma preventiva.",
+        "isCorrect": false,
+        "explanation": "No existe formulación de Ceftriaxona por vía oral autorizada; la ceftriaxona es un antibiótico de uso exclusivamente parenteral (IV o IM), por lo que no es una alternativa factible."
+      },
+      {
+        "text": "Completar un ciclo abreviado de tratamiento antibiótico de 5 a 7 días en total (por ejemplo, dar de alta hoy para completar los últimos 2 días con Amoxicilina por vía oral en domicilio), ya que los ciclos más cortos han demostrado tener la misma eficacia terapéutica y tasa de curación que los ciclos largos históricos de 10-14 días en la NAC bacteriana no complicada estable, con menor tasa de efectos adversos y menor inducción de resistencia bacteriana.",
+        "isCorrect": true,
+        "explanation": "Los consensos de la SOCHINF y las directrices internacionales (como las guías PIDS/IDSA actualizadas) respaldan que para la NAC bacteriana típica no complicada que responde de forma rápida y favorable al tratamiento inicial, un curso de antibióticos de 5 a 7 días en total es completamente equivalente y suficiente para lograr la curación biológica definitiva. Esto disminuye la disrupción de la microbiota intestinal, reduce las reacciones adversas y minimiza la selección de bacterias resistentes en el ambiente del niño."
+      },
+      {
+        "text": "Mantener al preescolar hospitalizado para completar de forma obligatoria 21 días de antibióticos endovenosos.",
+        "isCorrect": false,
+        "explanation": "Mantener al preescolar por 21 días hospitalizado para recibir antibióticos endovenosos por una neumonía común no complicada estable es un error de sobretratamiento que expone de forma innecesaria al menor a infecciones nosocomiales graves por catéteres e incrementa los costos de salud."
+      },
+      {
+        "text": "Suspender todos los antibióticos hoy e indicar de inmediato la realización de una ecografía renal profiláctica de alta resolución de control.",
+        "isCorrect": false,
+        "explanation": "Aunque el ciclo corto es adecuado, suspenderlo a los 5 días en un paciente hospitalizado que recibe terapia IV requiere asegurar la transición oral ambulatoria para completar de forma segura el ciclo mínimo de 5-7 días. No existe relación entre la neumonía y la necesidad de ecografías renales de control."
+     }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 3 años, hospitalizado hace 4 días por una pleuroneumonía derecha, persiste febril ($39.2^\\circ\\text{C}$ axilar) a pesar del tratamiento endovenoso con Penicilina G Sódica. Se solicita una ecografía pleural de control para evaluar el espacio pleural derecho. ¿Cuál de los siguientes hallazgos ecográficos orienta de forma más específica hacia un derrame pleural complicado/tabicado (fase fibrinopurulenta) que dificulta el drenaje simple?",
+    "hint": "En la fase inicial de un derrame (fase exudativa), el líquido fluye libremente y se ve \"limpio\" y oscuro bajo el ultrasonido. A medida que la inflamación bacteriana se prolonga, las proteínas de la coagulación precipitan formando \"puentes\" o mallas insolubles que compartimentalizan el pus.",
+    "options": [
+      {
+        "text": "Visualización de un pulmón completamente expandido que desplaza libremente al diafragma hacia abajo.",
+        "isCorrect": false,
+        "explanation": "En un derrame paraneumónico moderado a severo, el pulmón se observa colapsado y atelectásico (hepatizado) flotando en el líquido, sin que se expanda libremente de forma normal."
+      },
+      {
+        "text": "Presencia de múltiples bandas ecogénicas flotantes (septos de fibrina) que dividen el líquido en lóculos o celdillas independientes.",
+        "isCorrect": true,
+        "explanation": "La presencia de septos o tabiques de fibrina (bandas ecogénicas flotantes) que compartimentan el espacio pleural es el hallazgo ecográfico patognomónico de la fase fibrinopurulenta del empiema. Esto bloquea mecánicamente los orificios del tubo de pleurostomía simple, siendo indicación formal de uso de fibrinolíticos locales (como uroquinasa) o desbridamiento por videotoracoscopia (VATS)."
+      },
+      {
+        "text": "Observación de líquido completamente anecoico y homogéneo sin detritos en la base pleural.",
+        "isCorrect": false,
+        "explanation": "El líquido anecoico (negro) y homogéneo es característico del derrame pleural simple no complicado o de la fase exudativa inicial, la cual suele resolver de forma excelente solo con antibióticos y drenaje simple si es necesario."
+      },
+      {
+        "text": "Presencia de una masa sólida calcificada vascularizada en el espacio intercostal posterior.",
+        "isCorrect": false,
+        "explanation": "Describe tumores pleurales o calcificaciones crónicas (paquipleuritis de larga data), hallazgos ausentes en el empiema paraneumónico agudo del preescolar."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 5 años ingresa a la urgencia con antecedentes de haber presentado un cuadro de varicela con lesiones costrosas cutáneas activas hace una semana. Consulta por fiebre alta de hasta $40.0^\\circ\\text{C}$, dolor torácico derecho muy intenso y dificultad respiratoria progresiva de inicio rápido. La radiografía de tórax revela una condensación lobar derecha asociada a un derrame pleural masivo de instalación extremadamente precoz (en las primeras 24 horas de síntomas laringeos). ¿Cuál es el agente bacteriano responsable más probable de esta pleuroneumonía destructiva fulminante en el contexto post-varicela?",
+    "hint": "Este coco Gram positivo beta-hemolítico es un colonizador común de la piel y orofaringe. Las lesiones cutáneas de la varicela actúan como una puerta de entrada perfecta para que esta bacteria invada el torrente sanguíneo o los tejidos profundos, causando infecciones invasoras necrotizantes y empiemas sumamente agresivos de rápida evolución.",
+    "options": [
+      {
+        "text": "Haemophilus influenzae no tipificable.",
+        "isCorrect": false,
+        "explanation": "Aunque H. influenzae puede causar neumonía, no presenta esta predilección y agresividad específica post-varicela con empiema masivo hiperagudo como el SGA."
+      },
+      {
+        "text": "Listeria monocytogenes.",
+        "isCorrect": false,
+        "explanation": "Listeria es un patógeno neonatal o de inmunocomprometidos severos, no un agente común de neumonía adquirida en la comunidad post-varicela en preescolares sanos."
+      },
+      {
+        "text": "Mycoplasma pneumoniae.",
+        "isCorrect": false,
+        "explanation": "Mycoplasma causa cuadros atípicos de curso lento e intersticial bilateral; es excepcional que curse con derrames pleurales masivos fulminantes en 24 horas post-varicela."
+      },
+      {
+        "text": "Streptococcus pyogenes (Estreptococo Grupo A).",
+        "isCorrect": true,
+        "explanation": "El Streptococcus pyogenes (SGA) es una causa clásica y muy temida de pleuroneumonía necrotizante y empiema de rápida progresión en pediatría, especialmente como complicación bacteriana secundaria grave de la varicela cutánea. Se caracteriza por causar una gran destrucción tisular y derrames pleurales masivos precoces con alta tasa de morbimortalidad si no se trata de forma enérgica con betalactámicos asociados a Clindamicina (para inhibir la síntesis de toxinas bacterianas)."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Usted evalúa en el policlínico de broncopulmonar infantil a un escolar de 6 años con historia de múltiples episodios catalogados como \"neumonía\" por diferentes médicos en el último año. Para plantear un estudio sistemático de inmunodeficiencias, anomalías anatómicas o aspirativas, primero debe confirmar la definición de Neumonía Recurrente. Según los consensos nacionales de la Sociedad Chilena de Pediatría (SOCHIPE), ¿cuál de las siguientes opciones describe correctamente los criterios de temporalidad y radiología para definir esta condición?",
+    "hint": "La palabra clave es \"recurrente\" (va y viene). Si una condensación nunca desaparece de la radiografía de tórax tras varias semanas, no se trata de una recurrencia, sino de una neumonía \"persistente\" o crónica que sugiere obstrucción bronquial fija por cuerpo extraño o malformación lobar.",
+    "options": [
+      {
+        "text": "La ocurrencia de un único episodio de neumonía que no responde a la amoxicilina oral tras 48 horas de tratamiento.",
+        "isCorrect": false,
+        "explanation": "La falta de respuesta inicial a las 48 horas define de forma clínica a la neumonía refractaria o falla terapéutica inicial, pero no constituye una neumonía recurrente."
+      },
+      {
+        "text": "Presentar dos o más episodios de neumonía en un periodo de un año, o tres o más episodios en cualquier momento de la vida, demostrando siempre de forma obligatoria la resolución radiológica completa (limpieza del parénquima) entre los episodios documentados.",
+        "isCorrect": true,
+        "explanation": "La definición de neumonía recurrente exige documentar de forma objetiva (mediante radiografía) la curación y desaparición del infiltrado alveolar entre los episodios agudos separados por intervalos libres de enfermedad. El límite aceptado es de $\\ge 2$ episodios en un año o $\\ge 3$ en la vida del niño. Esto obliga a descartar causas subyacentes como reflujo, inmunodeficiencias (como déficit de IgA o inmunodeficiencia común variable), disquinesia ciliar o fibrosis quística."
+      },
+      {
+        "text": "Presentar una condensación pulmonar fija que persiste inalterada en radiografías sucesivas por más de 6 meses continuos.",
+        "isCorrect": false,
+        "explanation": "Una condensación fija persistente sin resolución intermedia define a la neumonía persistente o crónica; orienta a secuestro pulmonar, cuerpo extraño retenido o compresión extrínseca bronquial."
+      },
+      {
+        "text": "Presentar al menos 5 episodios de bronquitis obstructiva simple en el lactante durante la temporada invernal de alta circulación.",
+        "isCorrect": false,
+        "explanation": "El síndrome bronquial obstructivo recurrente (SBOR) es una patología obstructiva de la vía aérea baja bronquial (sibilancias), no de condensación del espacio alveolar (neumonía)."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un adolescente de 14 años con antecedentes de parálisis cerebral espástica severa y retraso global del desarrollo, en régimen de alimentación enteral por sonda de gastrostomía, presenta de forma brusca un cuadro de dificultad respiratoria, fiebre de $38.9^\\circ\\text{C}$ axilar y tos productiva tras presentar un episodio de vómitos masivos en decúbito supino en su domicilio. Se auscultan crépitos abundantes en el lóbulo superior derecho. ¿Cuál es el tratamiento antibiótico empírico de elección para esta neumonía por aspiración en un paciente con daño neurológico crónico?",
+    "hint": "Los pacientes neurológicos crónicos con disfagia o trastornos de la deglución presentan colonización de la orofaringe por una flora bacteriana mixta que incluye una gran proporción de bacterias anaerobias estrictas y bacilos Gram negativos. Las penicilinas simples o cefalosporinas comunes no logran penetrar de forma eficaz y cubrir a estos patógenos productores de betalactamasas anaerobios.",
+    "options": [
+      {
+        "text": "Cefotaxima endovenosa asociada de forma obligatoria a Vancomicina.",
+        "isCorrect": false,
+        "explanation": "La cefotaxima tiene un pobre espectro contra bacterias anaerobias estrictas de la orofaringe y la vancomicina se limita a cocos Gram positivos (como estafilococo), dejando desprotegido al pulmón aspirado contra la lisis bacteriana anaerobia."
+      },
+      {
+        "text": "Azitromicina oral por 3 días únicamente.",
+        "isCorrect": false,
+        "explanation": "Los macrólidos (Azitromicina) carecen de actividad clínicamente útil contra la flora mixta anaerobia severa de aspiración en pacientes con gastrostomía."
+      },
+      {
+        "text": "Clindamicina endovenosa (o Ampicilina-Sulbactam) para asegurar cobertura contra bacterias anaerobias de la orofaringe y bacilos Gram negativos entéricos.",
+        "isCorrect": true,
+        "explanation": "El tratamiento de la neumonía aspirativa química/bacteriana en pacientes con daño neurológico crónico exige cobertura obligatoria para bacterias anaerobias de la boca (como Peptostreptococcus, Bacteroides o Fusobacterium). La Clindamicina es el fármaco clásico de primera elección por su excelente penetración pulmonar y espectro anaerobicida potente, siendo una alternativa muy adecuada el uso de Ampicilina-Sulbactam."
+      },
+      {
+        "text": "Amoxicilina sola por vía oral a dosis estándar de $50\\text{ mg/kg/d\\u00eda}$.",
+        "isCorrect": false,
+        "explanation": "La Amoxicilina sola no tiene suficiente estabilidad frente a betalactamasas de la flora anaerobia oral de pacientes crónicamente colonizados e invadidos, resultando en una cobertura insuficiente."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 4 años ingresa a la sala de hospitalización por una Neumonía Adquirida en la Comunidad Grado III severa con requerimientos de oxígeno por mascarilla de flujo alto. Al ingresar se toman exámenes generales de control, destacando un hemograma con leucocitos de $18.000/\\text{mm}^3$ y una hiponatremia plasmática moderada con un sodio sérico de $128\\text{ mEq/L}$ (rango normal $135\\text{-}145\\text{ mEq/L}$), asociado a una densidad urinaria elevada e hiperosmolaridad de la orina. No presenta signos de deshidratación clínica. ¿Cuál es el fenómeno fisiopatológico endocrino que explica esta complicación metabólica común en la neumonía pediátrica grave?",
+    "hint": "El hipotálamo y la hipófisis liberan de forma refleja hormona antidiurética (vasopresina) ante situaciones de hipoxia, dolor, fiebre o estímulos mecánicos pulmonares inflamatorios. Esto hace que el riñón \"cierre la llave\" y retenga agua de forma exagerada, diluyendo el sodio que circula por las arterias del menor.",
+    "options": [
+      {
+        "text": "Nefropatía perdedora de sal inducida por la amoxicilina sistémica administrada de forma previa.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina no causa de forma característica una \"nefropatía perdedora de sal\" que explique un SIADH con orina hiperosmolar en fase aguda de ingreso del paciente."
+      },
+      {
+        "text": "Síndrome de Secreción Inadecuada de Hormona Antidiurética (SIADH), gatillado por estímulos inflamatorios pulmonares y estrés que inducen una liberación persistente de ADH (vasopresina) no regulada por la osmolaridad plasmática, causando retención de agua libre y una hiponatremia por dilución.",
+        "isCorrect": true,
+        "explanation": "El SIADH es una complicación metabólica bien descrita en infecciones graves del SNC y respiratorias como la neumonía grave. La inflamación pulmonar y la hipoxia estimulan receptores de estiramiento y quimiorreceptores que inducen la secreción hipofisaria de ADH independientemente de la osmolalidad de la sangre. El agua libre se reabsorbe en el túbulo colector del riñón, causando hiponatremia dilucional normovolémica. El manejo exige restricción hídrica estricta (usando fleboclisis de mantención isotónicas con solución fisiológica para evitar empeorar la hiponatremia, como recomiendan las guías AAP 2018)."
+      },
+      {
+        "text": "Pérdida masiva de sodio por vía respiratoria debido a la taquipnea persistente del lactante.",
+        "isCorrect": false,
+        "explanation": "La respiración rápida (taquipnea) produce pérdida de agua libre por evaporación por la vía aérea (pérdidas insensibles aumentadas), lo que teóricamente tendería a concentrar el sodio (hipernatremia), no a diluirlo a $128\\text{ mEq/L}$."
+      },
+      {
+        "text": "Insuficiencia suprarrenal primaria destructiva aguda secundaria a invasión directa del neumococo en las glándulas suprarrenales.",
+        "isCorrect": false,
+        "explanation": "La insuficiencia suprarrenal (Síndrome de Waterhouse-Friderichsen) es una complicación fulminante de la meningococcemia con sangrado suprarrenal, extremadamente rara de presentarse de esta forma asintomática metabólica aislada en neumonía neumocócica común."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Al revisar la radiografía de tórax de un escolar de 5 años con sospecha de neumonía bacteriana, usted observa una opacidad homogénea densa en el hemitórax derecho que borra y difumina de forma completa el borde lateral derecho de la silueta cardíaca (borde de la aurícula derecha), pero permite visualizar de forma nítida la línea del diafragma derecho por debajo de la condensación. ¿En qué lóbulo anatómico pulmonar derecho se localiza específicamente este foco de condensación consolidativa según el Signo de la Silueta de Felson?",
+    "hint": "Dos estructuras de densidades de agua similares (como el corazón de músculo y líquido, y el pulmón lleno de pus por neumonía) que están en contacto anatómico directo en el mismo plano (anterior) perderán sus fronteras de separación en la radiografía de tórax. El lóbulo medio colinda directamente de forma anatómica anterior con el corazón.",
+    "options": [
+      {
+        "text": "En el lóbulo superior derecho, segmento apical de forma exclusiva.",
+        "isCorrect": false,
+        "explanation": "El lóbulo superior derecho es una estructura alta; no colinda con la aurícula derecha baja, por lo que no borraría el borde lateral de la silueta cardíaca derecha."
+      },
+      {
+        "text": "En la cavidad pleural periférica como un derrame pleural tabicado apical.",
+        "isCorrect": false,
+        "explanation": "Un derrame pleural tabicado periférico posterior alto se proyectaría en la periferia del tórax, sin borrar característicamente la silueta de separación de la aurícula derecha anterior baja de esta forma típica simétrica."
+      },
+      {
+        "text": "En el lóbulo medio derecho (segmento medial o lateral).",
+        "isCorrect": true,
+        "explanation": "De acuerdo al principio del Signo de la Silueta de Felson, si una opacidad pulmonar entra en contacto anatómico directo con el borde del corazón (estructura anterior), el borde cardíaco derecho se borra (silueta positiva). Como el lóbulo medio del pulmón derecho es una estructura anterior que colinda con la aurícula derecha, una neumonía del lóbulo medio borrará la silueta cardíaca derecha en la radiografía AP/PA de tórax. El lóbulo inferior es posterior y colinda con el diafragma, por lo que una neumonía del lóbulo inferior borrará el diafragma (silueta diafragmática positiva) pero respetará el borde del corazón."
+      },
+      {
+        "text": "En el lóbulo inferior derecho, segmento basal posterior.",
+        "isCorrect": false,
+        "explanation": "Una condensación en el lóbulo inferior derecho colinda con el diafragma posterior; borraría la línea diafragmática derecha (signo del diafragma) pero respetaría la silueta cardíaca aurícula derecha anterior."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante una capacitación de internos en urgencias respiratorias, se analiza el diagnóstico diferencial radiológico entre una Neumonía lobar extensa y una Atelectasia lobar (colapso de un lóbulo pulmonar por tapón de moco). ¿Cuál de las siguientes combinaciones de hallazgos en la radiografía de tórax diferencia de forma específica una Atelectasia de una Neumonía?",
+    "hint": "La atelectasia es como un \"globo desinflado\" (succión): jala todo hacia adentro, hacia el lado de la lesión. La neumonía es un \"globo relleno de agua/pus\" (ocupación): mantiene su volumen normal sin traccionar estructuras vecinas.",
+    "options": [
+      {
+        "text": "La Atelectasia cursa con pérdida de volumen del lóbulo afectado, manifestado por desviación de las estructuras móviles del mediastino (tráquea, corazón) hacia el lado ipsilateral de la lesión, elevación del hemidiafragma del mismo lado y estrechamiento de los espacios intercostales correspondientes; por el contrario, la Neumonía es un proceso de ocupación alveolar sin pérdida de volumen primaria, por lo que no produce desviación de mediastino o, de presentarla (en fases complicadas con derrame masivo a tensión), desvía las estructuras hacia el lado sano contralateral.",
+        "isCorrect": true,
+        "explanation": "El colapso del parénquima por obstrucción bronquial (atelectasia) produce pérdida de volumen pulmonar, lo que ejerce una fuerza de tracción física que desvía la tráquea, el corazón y el mediastino hacia el lado de la lesión (desviación ipsilateral). La neumonía es una condensación alveolar por exudado sin colapso bronquial primario, por lo que no hay pérdida de volumen ni desviación mediastínica. Si una pleuroneumonía extensa cursa con un derrame masivo o empiema que desplaza estructuras, lo hará por fuerza de empuje/presión hacia el lado opuesto (contralateral) de la lesión."
+      },
+      {
+        "text": "La Atelectasia muestra un patrón intersticial difuso bilateral con sibilancias; la Neumonía muestra un pulmón hiperlúcido simétrico.",
+        "isCorrect": false,
+        "explanation": "Confunde los hallazgos típicos; la atelectasia lobar se visualiza como una opacidad homogénea densa colapsada (a menudo de forma triangular), no como infiltrados intersticiales bilaterales difusos simples perihiliares."
+      },
+      {
+        "text": "La Atelectasia no es visible en la radiografía de tórax convencional y solo se diagnostica mediante TAC con contraste.",
+        "isCorrect": false,
+        "explanation": "Las atelectasias (tanto segmentarias como lobares) son perfectamente visibles y diagnosticables en la radiografía de tórax convencional pediátrica mediante la semiología radiológica descrita de pérdida de volumen."
+      },
+      {
+        "text": "Ambas patologías presentan exactamente el mismo comportamiento radiológico, siendo imposible su distinción sin una punción pulmonar.",
+        "isCorrect": false,
+        "explanation": "La distinción radiológica basada en la pérdida de volumen y desviación de estructuras es clásica y de gran valor clínico para evitar errores terapéuticos de indicación antibiótica innecesaria ante atelectasias por tapón mucoso."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 5 años que reside en una zona rural de la Región Metropolitana es llevado a la urgencia por presentar un cuadro de dos semanas de evolución de tos seca persistente, cefalea intensa, fiebre moderada fluctuante, dolores musculares y escalofríos. Al examen físico destaca excelente estado general residual, pero se palpa esplenomegalia leve de $2\\text{ cm}$ bajo el reborde costal izquierdo. Durante la anamnesis social, los padres refieren haber adquirido un loro verde silvestre como mascota en su hogar hace tres semanas, el cual falleció hace pocos días tras presentar plumaje erizado y diarrea. ¿Cuál es el diagnóstico de sospecha prioritario de esta neumonía atípica zoonótica?",
+    "hint": "Se trata de una bacteria intracelular obligada que se transmite a los humanos mediante la inhalación de polvo seco de deposiciones o secreciones respiratorias de aves infectadas (psitácidas como loros, cacatúas, periquitos). Cursa característicamente con un cuadro de neumonía atípica sistémica con cefalea muy intensa y hepatoesplenomegalia reactiva asociada.",
+    "options": [
+      {
+        "text": "Neumonía necrotizante por Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "La neumonía estafilocócica es destructiva y grave con rápido compromiso hemodinámico del sensorio y neumatoceles al nacer; el buen estado general y el curso de dos semanas la descartan."
+      },
+      {
+        "text": "Tuberculosis miliar de rápida diseminación.",
+        "isCorrect": false,
+        "explanation": "Aunque la TBC puede causar esplenomegalia y tos prolongada, el antecedente de la muerte del loro mascota y la clínica de neumonía atípica orientan de forma prioritaria y directa a Psitacosis como sospecha zoonótica."
+      },
+      {
+        "text": "Neumonía condensativa por Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica típica es bacteriana y aguda, no cursa con esplenomegalia palpable subaguda asociada de esta naturaleza ni tiene relación epidemiológica con el contacto con loros o aves enfermas."
+      },
+      {
+        "text": "Psitacosis o neumonía atípica por Chlamydia psittaci.",
+        "isCorrect": true,
+        "explanation": "La Psitacosis (infección por Chlamydia psittaci) es una zoonosis transmitida por aves. Cursa clásicamente en humanos como un cuadro respiratorio atípico persistente (tos seca, fiebre) asociado a compromiso sistémico marcado (cefalea intensa, mialgias) y esplenomegalia palpable, con el antecedente epidemiológico clave de contacto directo con aves enfermas o loros silvestres en el hogar. El tratamiento es con macrólidos (Azitromicina o Claritromicina) en niños, o doxiciclina en mayores de 8 años si es tolerado de forma segura."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Usted realiza el control de salud de un lactante de 2 meses en el CESFAM. Su madre le consulta preocupada por la probabilidad de que su hijo contraiga una neumonía grave por el virus de la Influenza durante el invierno, sabiendo que la vacuna contra la influenza estacional está recomendada y autorizada en el calendario programático del PNI recién a partir de los 6 meses de vida. ¿Cuál de las siguientes afirmaciones explica de forma correcta cómo está protegido este lactante menor de 6 meses contra la influenza según las pautas de salud pública?",
+    "hint": "Al igual que con la tos convulsiva (vacuna dTpa en la semana 28), la mejor manera de proteger a un lactante muy pequeño que es inmunológicamente incapaz de responder a las vacunas de campaña es vacunar a la gestante para que le \"traspase\" defensas listas a través de la placenta durante el embarazo.",
+    "options": [
+      {
+        "text": "El menor está protegido únicamente si recibe la vacuna BCG del recién nacido, la cual tiene reactividad inmunitaria total cruzada contra todos los mixovirus respiratorios.",
+        "isCorrect": false,
+        "explanation": "La vacuna BCG protege de forma específica contra la tuberculosis extrapulmonar grave (meningitis tuberculosa y miliar); no induce ninguna respuesta protectora o reactividad cruzada útil contra el virus de la Influenza."
+      },
+      {
+        "text": "Se le debe recomendar de forma privada la administración de la vacuna de influenza de adulto dividida en 4 tomas a los 2 meses.",
+        "isCorrect": false,
+        "explanation": "Fraccionar dosis de adulto o inyectar vacunas de influenza estacional a menores de 6 meses está estrictamente contraindicado; no genera respuesta inmunogénica útil protectora y puede causar efectos adversos severos."
+      },
+      {
+        "text": "El lactante está protegido mediante la inmunización pasiva por transferencia transplacentaria activa de anticuerpos maternos IgG contra la influenza, siempre y cuando la madre haya recibido la vacuna anti-influenza durante su embarazo (estrategia recomendada de forma universal y gratuita para embarazadas a cualquier edad gestacional en Chile), protegiendo al menor durante sus primeros meses de vida antes de recibir sus propias vacunas.",
+        "isCorrect": true,
+        "explanation": "La vacunación contra la influenza en la embarazada en Chile es universal y gratuita a partir de cualquier edad gestacional. Su objetivo dual es proteger a la gestante (grupo de muy alto riesgo de complicaciones pulmonares y muerte por influenza) y transferir de forma activa anticuerpos protectores IgG transplacentarios al feto. Estos anticuerpos maternos circulantes confieren una protección pasiva muy eficaz al recién nacido y lactante menor durante sus primeros 6 meses de vida, cubriendo la ventana de susceptibilidad antes de que el menor califique para su primera dosis de influenza de campaña."
+      },
+      {
+        "text": "El lactante no requiere protección ya que el virus de la influenza está genéticamente impedido de infectar a lactantes menores de 6 meses en Chile.",
+        "isCorrect": false,
+        "explanation": "Es falso; los lactantes menores de 6 meses tienen de hecho una de las tasas de hospitalización y muerte por influenza y neumonía viral más elevadas de toda la edad pediátrica debido al pequeño calibre de su vía aérea y sistema inmune inmaduro."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un recién nacido pretérmino de 28 semanas de edad gestacional se encuentra hospitalizado en la UCIN con ventilación mecánica invasiva prolongada a través de un tubo endotraqueal desde hace 10 días por un síndrome de distrés respiratorio severo en resolución progresiva. En las últimas 48 horas presenta de forma brusca aumento de las secreciones traqueales (ahora de aspecto purulento espeso), inestabilidad térmica con episodios de hipotermia, aumento significativo de los requerimientos de ventilación y oxígeno, y la radiografía de tórax portátil muestra la aparición de un nuevo infiltrado alveolar consolidativo en el lóbulo superior derecho. ¿Cuál es el diagnóstico de sospecha de esta infección intrahospitalaria y qué criterio temporal define su clasificación?",
+    "hint": "Las infecciones intrahospitalarias o asociadas a la atención de salud (IAAS) requieren diferenciar entre la patología de origen comunitario/materno con la adquirida dentro del recinto médico debido a la invasión y colonización por gérmenes nosocomiales. El tubo endotraqueal actúa como un puente directo que coloniza la tráquea con bacterias del hospital tras un periodo de permanencia mínimo.",
+    "options": [
+      {
+        "text": "Bronquiolitis obliterante aguda por adenovirus de adquisición vertical rápida.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis obliterante es una secuela destructiva pulmonar crónica obstructiva tardía post-adenovirus, no una infección aguda supurativa nosocomial de aparición rápida bajo intubación."
+      },
+      {
+        "text": "Neumonía química por aspiración de líquido amniótico meconial al nacer.",
+        "isCorrect": false,
+        "explanation": "El síndrome de aspiración meconial es una patología puramente respiratoria del recién nacido de término/postérmino al nacer (primeras horas), sin que tenga relación con un infiltrado nuevo infeccioso a los 10 días de vida en un prematuro extremo de 28 semanas."
+      },
+      {
+        "text": "Neumonía connatal por SGB; el criterio es que aparezca antes de las 12 horas del parto.",
+        "isCorrect": false,
+        "explanation": "Las neumonías connatales o de transmisión vertical precoz se manifiestan en las primeras 72 horas de vida secundaria a transmisión intraparto materna, no tras 10 días de intubación en la UCIN por NAV nosocomial."
+      },
+      {
+        "text": "Neumonía Asociada a Ventilación Mecánica (NAV), definida como aquella infección respiratoria baja nosocomial que se desarrolla en un paciente que se encuentra sometido a ventilación mecánica invasiva endotraqueal por un periodo mayor a 48 horas.",
+        "isCorrect": true,
+        "explanation": "La NAV es una de las IAAS más frecuentes en las unidades de cuidados intensivos neonatales y pediátricos. El límite temporal estándar para su definición diagnóstica exige que el paciente lleve al menos 48 horas intubado bajo ventilación mecánica invasiva antes de la aparición de los síntomas clínicos (secreciones purulentas, alza de parámetros ventilatorios, fiebre/hipotermia) e imágenes de condensación nuevas o progresivas en la radiografía. Los patógenos comunes son nosocomiales (Pseudomonas, S. aureus, bacilos Gram negativos resistentes)."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 8 años con diagnóstico de Fibrosis Quística (mutación del gen CFTR) ingresa por un cuadro de Neumonía Adquirida en la Comunidad complicada con una marcada exacerbación de sus síntomas respiratorios crónicos, disnea, fiebre alta y expectoración purulenta verdosa espesa abundante. El equipo médico conoce la microbiología particular de las infecciones pulmonares en la FQ en escolares. ¿Cuál es el patógeno bacteriano oportunista líder a cubrir de forma prioritaria en este paciente y qué esquema antibiótico intravenoso empírico de primera línea está indicado?",
+    "hint": "Los pacientes con Fibrosis Quística presentan un moco extremadamente espeso y deshidratado en los bronquios que altera los mecanismos de depuración mucociliar. Esto favorece la colonización secuencial crónica por gérmenes específicos: estafilococo en el lactante, y un bacilo Gram negativo no fermentador oportunista, de muy difícil erradicación, en el escolar y adolescente.",
+    "options": [
+      {
+        "text": "Pseudomonas aeruginosa; se debe iniciar terapia combinada endovenosa de amplio espectro dirigida contra pseudomonas utilizando un betalactámico antipseudomónico (como Ceftazidima o Piperacilina-Tazobactam) asociado a un aminoglicósido (como Amikacina o Tobramicina), para lograr sinergia bactericida y evitar la rápida emergencia de resistencias en el pulmón fibroquístico.",
+        "isCorrect": true,
+        "explanation": "El patógeno colonizador crónico y responsable de la mayoría de las exacerbaciones pulmonares graves y neumonía en escolares y adolescentes con Fibrosis Quística en Chile es la Pseudomonas aeruginosa. Debido a su alto perfil de resistencia, el tratamiento empírico exige una combinación sinérgica de dos fármacos antipseudomónicos con mecanismos de acción diferentes (como ceftazidima/piperacilina-tazobactam asociada a amikacina/tobramicina). Este esquema disminuye la carga bacteriana pulmonar de forma eficaz y previene el deterioro acelerado de la función pulmonar."
+      },
+      {
+        "text": "Streptococcus agalactiae; se trata con ampicilina endovenosa sola de forma universal.",
+        "isCorrect": false,
+        "explanation": "SGB es un patógeno de transmisión vertical neonatal; carece de relevancia como colonizador o agente de exacerbación pulmonar destructiva en escolares con Fibrosis Quística."
+      },
+      {
+        "text": "Listeria monocytogenes; se trata con penicilina sódica y corticoides por 3 meses.",
+        "isCorrect": false,
+        "explanation": "Listeria no tiene un tropismo respiratorio ni es un patógeno oportunista colonizador común de las secreciones deshidratadas de las vías aéreas de pacientes con Fibrosis Quística."
+      },
+      {
+        "text": "Mycoplasma pneumoniae; se trata con eritromicina por sonda nasogástrica por 5 días.",
+        "isCorrect": false,
+        "explanation": "Si bien Mycoplasma puede coinfectar a pacientes con FQ, el patógeno crítico, dominante y que marca el pronóstico destructivo inmediato de la exacerbación pulmonar es la Pseudomonas, la cual es completamente resistente a los macrólidos orales."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un adolescente de 16 años ingresa a la urgencia hospitalaria por presentar una Neumonía Adquirida en la Comunidad de curso grave. El cuadro inició hace 5 días de forma brusca con fiebre alta, escalofríos, tos no productiva, cefalea, dolor torácico pleurítico y síntomas gastrointestinales caracterizados por diarrea líquida abundante sin sangre y dolor abdominal difuso. Al ingreso destaca una hiponatremia plasmática severa ($126\\text{ mEq/L}$), transaminasas hepáticas elevadas y confusión mental con desorientación temporoespacial. No ha respondido al tratamiento con amoxicilina-clavulánico. ¿Cuál es el patógeno atípico responsable de este síndrome multisistémico y cuál es la fuente epidemiológica clásica de exposición?",
+    "hint": "Esta bacteria Gram negativa exigente intracelular facultativa causa la conocida \"enfermedad de los legionarios\". Cursa como una neumonía atípica grave de carácter sistémico extrapulmonar caracterizada por diarrea, hiponatremia marcada (por secreción de ADH y tubulopatía) y alteraciones del sistema nervioso central (encefalopatía por Legionella), siendo completamente resistente a betalactámicos.",
+    "options": [
+      {
+        "text": "Chlamydia trachomatis, adquirida en el canal de parto.",
+        "isCorrect": false,
+        "explanation": "C. trachomatis causa neumonía afebril en lactantes menores de 3 meses, no neumonías graves febriles con diarrea, hiponatremia extrema y encefalopatía en adolescentes de 16 años."
+      },
+      {
+        "text": "Legionella pneumophila; el contagio ocurre clásicamente por la inhalación de aerosoles de agua contaminada provenientes de sistemas de refrigeración o aire acondicionado de gran tamaño, torres de enfriamiento, duchas o spas donde la bacteria se multiplica en reservorios de agua tibia estancada.",
+        "isCorrect": true,
+        "explanation": "Legionella pneumophila es el patógeno responsable de la neumonía grave descrita. Se adquiere epidemiológicamente de fuentes de agua artificiales y sistemas de aire acondicionado centralizados de grandes edificios (hoteles, hospitales) que actúan como reservorios microbiológicos si carecen de un adecuado mantenimiento. Es resistente a betalactámicos (produce betalactamasas de forma intrínseca y es intracelular), por lo que requiere tratamiento con macrólidos de alta potencia (Azitromicina) o fluoroquinolonas (Levofloxacino) en adolescentes."
+      },
+      {
+        "text": "Streptococcus pyogenes, adquirido por vía cutánea.",
+        "isCorrect": false,
+        "explanation": "El estreptococo del grupo A causa neumonías bacterianas típicas necrotizantes y empiemas agudos, pero no cursa típicamente con esta constelación de síntomas sistémicos (hiponatremia extrema, diarrea masiva y confusión mental) y es altamente sensible a los betalactámicos."
+      },
+      {
+        "text": "Mycobacterium tuberculosis, adquirido por transmisión respiratoria familiar estrecha.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis pulmonar es de curso subagudo crónico y cursa con tos productiva prolongada, sudoración nocturna, baja de peso y cavernas apicales en radiografía de tórax; no debuta de forma hiperaguda sistémica por inhalación de aire acondicionado."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 18 meses cursa con diagnóstico de neumonía supurativa en resolución y se encuentra clínicamente estable y afebril. Durante una sesión de juego, presenta un acceso de tos fuerte seguido de dificultad respiratoria de inicio rápido. Al examen físico destaca taquipnea moderada ($42\\text{ rpm}$), llanto audible, murmullo pulmonar disminuido en el hemitórax izquierdo e hipersonoridad a la percusión local. Sus parámetros hemodinámicos se mantienen estables (FC $110\\text{ x'}$, llene capilar de 2 segundos, rosado, satura $94\\%$ al aire ambiente). ¿Cuál es la sospecha diagnóstica y el manejo indicado de urgencia para este recién nacido?",
+    "hint": "A diferencia de la emergencia del \"neumotórax a tensión\" (que aplasta los grandes vasos y el corazón, causando shock inmediato), el \"neumotórax simple\" cursa sin compromiso de la hemodinamia porque la fuga de aire no genera una presión masiva valvular acumulativa intratorácica que desvíe el mediastino. El paciente permite un estudio radiológico previo seguro.",
+    "options": [
+      {
+        "text": "Neumotórax a tensión con colapso cardiovascular inminente; requiere punción descompresiva inmediata ciega con aguja en la fosa ilíaca derecha en la misma camilla.",
+        "isCorrect": false,
+        "explanation": "El paciente está hemodinámicamente estable, por lo que no cursa con un neumotórax \"a tensión\" con colapso vascular que obligue a una punción con aguja a ciegas sin radiografía previa (la cual puede causar daño pulmonar iatrogénico si se pincha un neumotórax simple estable). Además, la fosa ilíaca derecha es abdominal y no es el sitio de punción torácico para descomprimir el tórax."
+      },
+      {
+        "text": "Hernia diafragmática derecha congénita; requiere laparotomía exploradora de urgencia sin radiografía.",
+        "isCorrect": false,
+        "explanation": "No cursa con signos de hernia diafragmática (la cual es congénita y produce distrés inmediato en sala de partos con abdomen excavado y ruidos hidroaéreos en tórax), y la cirugía exploradora sin radiografía es un error grave."
+      },
+      {
+        "text": "Neumotórax simple (no a tensión) secundario a la rotura de un neumatocele; se debe confirmar mediante una radiografía de tórax portátil de urgencia y, de confirmarse colapso pulmonar significativo, proceder a la instalación de un tubo de drenaje pleural conectado a trampa de agua (pleurostomía) bajo sedación y analgesia adecuadas de forma controlada.",
+        "isCorrect": true,
+        "explanation": "La rotura de un neumatocele puede causar un neumotórax simple (aire en el espacio pleural sin mecanismo de válvula de alta presión). El paciente presenta disnea y asimetría auscultatoria pero con estabilidad hemodinámica conservada (perfusión normal, frecuencia normal, sin cianosis profunda). Esto permite tomar una radiografía de tórax de urgencia para confirmar el diagnóstico y planificar de forma controlada e higiénica la instalación de un tubo de pleurostomía simple en pabellón o sala de procedimientos bajo analgesia."
+      },
+      {
+        "text": "Neumonía condensativa por Mycoplasma; requiere amoxicilina y alta para tratamiento domiciliario con paracetamol.",
+        "isCorrect": false,
+        "explanation": "El neumotórax es una complicación mecánica supurativa pleural aguda; clasificarlo como neumonía por Mycoplasma y enviarlo a casa con paracetamol expone al lactante a un colapso respiratorio grave en domicilio."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 10 años es llevado a urgencias por presentar dolor en la pared torácica anterior izquierda que aumenta característicamente de intensidad con la inspiración profunda, la tos o los movimientos de rotación del tronco, de 24 horas de evolución. Al examen físico destaca temperatura de $38.9^\\circ\\text{C}$ axilar, tos frecuente, taquipnea leve de $28\\text{ rpm}$ y se ausculta un frote pleural localizado en la región media del hemitórax izquierdo. ¿Cuál es el diagnóstico diferencial prioritario de este dolor torácico pediátrico y cuál es el examen confirmatorio de primera línea?",
+    "hint": "El dolor de tipo \"pleurítico\" (punzada de costado que aumenta al respirar hondo o toser) refleja la irritación directa de la pleura somática sensitiva. Si se acompaña de fiebre alta y tos, la causa más común en pediatría es un foco infeccioso bacteriano pulmonar subyacente que compromete la superficie de la pleura.",
+    "options": [
+      {
+        "text": "Infarto agudo al miocardio por ateroesclerosis coronaria; requiere angioplastia coronaria de urgencia y suspender el estudio respiratorio.",
+        "isCorrect": false,
+        "explanation": "El infarto de miocardio coronario por ateroesclerosis es una patología de adultos mayores extremadamente excepcional en escolares de 10 años sin cardiopatías congénitas o anomalías coronarias metabólicas severas previas, y cursa sin frote pleural ni fiebre alta de origen respiratorio."
+      },
+      {
+        "text": "Costocondritis benigna (Síndrome de Tietze); se confirma mediante la toma de ecografía abdominal.",
+        "isCorrect": false,
+        "explanation": "La costocondritis (inflamación de los cartílagos costales) produce dolor que se reproduce de forma exquisita a la palpación directa de las uniones condroesternales, típicamente cursa sin fiebre alta ni frote pleural auscultatorio, y la ecografía abdominal no evalúa el tórax anterior de forma útil para este fin."
+      },
+      {
+        "text": "Neumonía con Pleuritis asociada (derrame pleural paraneumónico inicial); se confirma de forma rápida mediante una radiografía de tórax anteroposterior y lateral, debiendo iniciarse de forma prioritaria antibioterapia empírica dirigida.",
+        "isCorrect": true,
+        "explanation": "El dolor pleurítico asociado a fiebre alta y tos en un escolar de 10 años es un signo de alarma mayor de neumonía o pleuroneumonía bacteriana (pleuritis). El frote pleural auscultado confirma la inflamación de las hojas de la pleura en contacto mecánico directo. Se debe tomar una radiografía de tórax de primera línea para documentar el foco parenquimatoso o la presencia de líquido libre (derrame) y guiar de forma decisiva el tratamiento antibiótico."
+      },
+      {
+        "text": "Espasmo muscular por ejercicio vigoroso; se trata de forma exclusiva con reposo en cama por 14 días sin exámenes.",
+        "isCorrect": false,
+        "explanation": "Atribuir el cuadro a espasmo muscular en presencia de fiebre de $38.9^\\circ\\text{C}$ y frote pleural auscultatorio es un error de diagnóstico que retrasa de forma peligrosa la antibioterapia dirigida de una neumonía bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 3 meses, cuyos padres por motivos religiosos omitieron su vacunación Hexavalente de los 2 meses, ingresa hospitalizado por presentar un cuadro de 10 días de evolución caracterizado por accesos de tos repetidos que terminan con un sonido inspiratorio estridente (\"gallito\"), cianosis peribucal durante las crisis y un episodio de apnea de 20 segundos de duración presenciado en la sala de espera. Al hemograma destaca una leucocitosis extrema de $52.000/\\text{mm}^3$ con un $80\\%$ de linfocitos maduros. ¿Cuál es el diagnóstico de sospecha de este síndrome coqueluchoideo y qué tratamiento antimicrobiano específico de primera línea está indicado por la guía del MINSAL?",
+    "hint": "La tos quintosa en accesos con cianosis y \"gallito\" asociada a una linfocitosis masiva en un lactante no vacunado es patognomónica de esta enfermedad bacteriana. El tratamiento debe actuar inhibiendo la síntesis proteica de este cocobacilo Gram negativo exigente.",
+    "options": [
+      {
+        "text": "Tuberculosis miliar diseminada; se trata con isoniacida y rifampicina por 6 meses de forma hospitalizada de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis pulmonar miliar cursa con compromiso radiológico difuso en grano de mijo, fiebre prolongada y baja de peso, sin la reacción leucemoide linfocítica específica reactiva y accesos de tos quintosa típicos del coqueluche agudo."
+      },
+      {
+        "text": "Neumonía neumocócica típica; se trata con penicilina sódica endovenosa de alta dosis.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica cursa con condensación lobar única, fiebre alta persistente y leucocitosis con neutrofilia (desviación izquierda), no con accesos paroxísticos quintosos clásicos con linfocitosis extrema en lactantes sanos sin vacunas."
+      },
+      {
+        "text": "Coqueluche o Tos Convulsiva severa (infección por Bordetella pertussis); el tratamiento de elección es con un macrólido, prefiriéndose en lactantes pequeños la Azitromicina por vía oral a dosis de $10\\text{ mg/kg/d\\u00eda}$ en dosis única diaria por un periodo de 5 días, para erradicar la bacteria y limitar el contagio epidemiológico.",
+        "isCorrect": true,
+        "explanation": "El cuadro clínico con lactante de 3 meses sin vacunas, tos espasmódica quintosa con gallito, tendencia a las apneas y marcada reacción leucemoide linfocítica ($52.000/\\text{mm}^3$ con linfocitos dominantes) es patognomónico de Coqueluche severo por Bordetella pertussis. El tratamiento antibiótico de elección recomendado en menores de un mes y lactantes pequeños en Chile es la Azitromicina oral por 5 días (un macrólido con excelente penetración mucosa y menor tasa de estenosis pilórica hipertrófica secundaria que la eritromicina clásica). El tratamiento erradica la bacteria de la nasofaringe, disminuyendo el contagio a contactos sanos vulnerables."
+      },
+      {
+        "text": "Bronquiolitis por VRS severa; se trata con ampicilina endovenosa por 10 días de forma universal.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis por VRS se asocia a sibilancias e insuficiencia respiratoria obstructiva difusa, pero no cursa característicamente con reacción leucemoide linfocítica masiva de esta magnitud en ausencia de desviación a la izquierda."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 12 meses se encuentra hospitalizado en la UCIN cursando su cuarto día por una Neumonía Adquirida en la Comunidad Grado III severa con requerimientos de ventilación mecánica no invasiva (VMNI). De forma brusca presenta un cuadro caracterizado por decaimiento del sensorio, palidez cutánea fría con moteado reticular, taquicardia severa desproporcionada de $190\\text{ x'}$ (que no varía con el manejo de la fiebre), hepatomegalia dolorosa de $3\\text{ cm}$ bajo el reborde costal derecho y galope audible a la auscultación cardíaca. Se sospecha una Miocarditis o disfunción miocárdica severa asociada a sepsis respiratoria. ¿Cuál es la conducta diagnóstica y terapéutica prioritaria de soporte en la UCIN?",
+    "hint": "La miocarditis infecciosa por invasión directa viral o la disfunción miocárdica por sepsis bacteriana neumocócica provoca un corazón que \"falla en bombear\" la sangre (insuficiencia cardíaca congestiva aguda). Los bolos de volumen agresivos sobrecargarán un corazón débil, pudiendo gatillar un edema pulmonar masivo fatal.",
+    "options": [
+      {
+        "text": "Indicar tratamiento oral con claritromicina por 14 días y derivar a su domicilio de forma de alta inmediata.",
+        "isCorrect": false,
+        "explanation": "El alta hospitalaria de un paciente en shock cardiogénico con miocarditis activa es una negligencia médica de alta gravedad; el paciente fallecerá por colapso cardiovascular en domicilio de forma rápida."
+      },
+      {
+        "text": "Solicitar de forma prioritaria un Electrocardiograma (ECG), niveles plasmáticos de Troponina I o CK-MB, un Ecocardiograma transtorácico de urgencia (para evaluar la contractilidad miocárdica y descifrar la fracción de eyección), e iniciar de forma controlada soporte inotrópico con Milrinona o Dopamina/Dobutamina bajo monitorización hemodinámica continua.",
+        "isCorrect": true,
+        "explanation": "El paciente presenta signos de insuficiencia cardíaca aguda/shock cardiogénico secundario a miocarditis infecciosa concomitante o sepsis (taquicardia persistente no febril, hepatomegalia congestiva por falla derecha, galope audible e hipoperfusión periférica). Se debe monitorizar la función cardíaca mediante ECG, biomarcadores de injuria celular de miocardio (troponinas) y ecocardiograma para ajustar la terapia inotrópica (milrinona o dobutamina) que disminuya la poscarga y mejore la contractilidad del corazón de forma de soporte hemodinámico."
+      },
+      {
+        "text": "Administrar un bolo intravenoso rápido de solución fisiológica de $50\\text{ ml/kg}$ de alta velocidad por vía periférica.",
+        "isCorrect": false,
+        "explanation": "La administración agresiva de volumen ($50\\text{ ml/kg}$ en bolo rápido) en un corazón con disfunción miocárdica severa o miocarditis está contraindicada de forma absoluta; causará de forma inmediata una falla cardíaca descompensada severa con edema agudo de pulmón fatal."
+      },
+      {
+        "text": "Solicitar una ecografía de caderas para evaluar la presencia de displasia acetabular concomitante.",
+        "isCorrect": false,
+        "explanation": "Solicitar una ecografía de caderas para displasia en el contexto de un shock cardiogénico con miocarditis aguda es una mala priorización médica que desvía la reanimación vital del menor."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 4 años asiste al vacunatorio con su calendario de vacunas al día. Su madre refiere con angustia que hace una semana el menor presentó un cuadro de varicela cutánea típica. Inicialmente el menor evolucionó de forma favorable, pero al sexto día post-erupción comenzó de forma súbita con fiebre de $39.5^\\circ\\text{C}$ de difícil manejo, tos productiva intensa y dificultad respiratoria progresiva moderada-severa. La radiografía de tórax revela una condensación lobar derecha extensa que contiene en su interior dos cavidades aéreas delgadas compatibles con neumatoceles. ¿Cuál es el diagnóstico de sospecha prioritario de esta complicación y qué tratamiento empírico de elección está indicado?",
+    "hint": "Al igual que con el estreptococo del grupo A, las lesiones cutáneas de la varicela son una puerta de entrada común para el Staphylococcus aureus (SAMR o SAMS). La sobreinfección bacteriana secundaria se sospecha ante un \"rebote febril\" (el niño estaba mejorando de su varicela y de pronto vuelve a hacer fiebre alta, tos productiva y dificultad respiratoria con condensación destructiva/neumatoceles).",
+    "options": [
+      {
+        "text": "Pleuroneumonía varicelosa sobreinfectada por Staphylococcus aureus; requiere hospitalización inmediata para iniciar antibioterapia endovenosa de amplio espectro que cubra a la bacteria oportunista (como Cloxacilina asociada a Cefotaxima, o Vancomicina si hay sospecha de resistencia/SAMR nosocomial).",
+        "isCorrect": true,
+        "explanation": "El rebote febril en la varicela asociado a síntomas respiratorios bajos severos y radiología destructiva con condensación y neumatoceles es patognomónico de una sobreinfección bacteriana secundaria grave por Staphylococcus aureus (o Streptococcus pyogenes). Exige hospitalización para terapia intravenosa combinada (Cloxacilina/Cefotaxima) para prevenir la progresión rápida a pioneumotórax o sepsis sistémica."
+      },
+      {
+        "text": "Tuberculosis miliar post-varicela; requiere tratamiento inmediato con isoniacida y rifampicina por vía oral por un periodo de un año.",
+        "isCorrect": false,
+        "explanation": "Aunque la varicela puede deprimir transitoriamente la inmunidad celular y favorecer la reactivación de TBC, el cuadro con condensación lobar aguda destructiva con neumatoceles post-varicela es típico de S. aureus, no de una TBC miliar difusa de grano de mijo."
+      },
+      {
+        "text": "Croup espasmódico severo; requiere nebulizaciones continuas de adrenalina y alta a domicilio con paracetamol.",
+        "isCorrect": false,
+        "explanation": "El croup espasmódico es una obstrucción laringea de inicio brusco nocturno paroxístico que cursa sin fiebre y sin condensaciones ni neumatoceles pulmonares en la radiografía de tórax."
+      },
+      {
+        "text": "Neumonía química asintomática por óxido de zinc inhalado de las cremas de varicela; requiere alta inmediata sin antibióticos.",
+        "isCorrect": false,
+        "explanation": "La neumonía química por óxido de zinc es inexistente de esta forma clínica febril consolidativa destructiva; el paciente cursa con una infección bacteriana invasora real que compromete su vida si no recibe tratamiento oportuno."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 3 años se encuentra hospitalizado por un empiema pleural izquierdo. Se colocó un tubo de pleurostomía y se inició tratamiento con Ceftriaxona + Cloxacilina. Al quinto día de hospitalización, el paciente persiste febril, con regular estado general y la ecografía pleural muestra colecciones pleurales loculadas persistentes que no drenan por el tubo. El equipo médico discute la indicación de realizar una Tomografía Computada (TC) de tórax con contraste. Según las pautas clínicas de la UC y del HCSBA, ¿cuál de las siguientes situaciones constituye una indicación formal para realizar una TC de tórax en el contexto de una neumonía complicada?",
+    "hint": "La TC de tórax en pediatría expone al menor a dosis de radiación ionizante no despreciables y a menudo requiere sedación profunda o anestesia para evitar artefactos por movimiento. Por lo tanto, no se utiliza de forma rutinaria y solo se reserva para cuando hay dudas diagnósticas graves o falla de respuesta terapéutica que sugiera complicaciones quirúrgicas complejas.",
+    "options": [
+      {
+        "text": "Se indica de forma universal cada 48 horas como parte del monitoreo diario de la neumonía en todos los preescolares.",
+        "isCorrect": false,
+        "explanation": "Tomar TC cada 48 horas de forma rutinaria es una mala práctica que expone al menor a niveles acumulados intolerables de radiación ionizante de forma injustificada."
+      },
+      {
+        "text": "Solo se realiza si el paciente presenta antecedentes personales de alergia al huevo de forma concomitante.",
+        "isCorrect": false,
+        "explanation": "La alergia al huevo no tiene ninguna relación con las indicaciones médicas o de imagen torácica de la neumonía complicada en el preescolar."
+      },
+      {
+        "text": "Está indicada formalmente ante la falla de respuesta terapéutica al tratamiento estándar (fiebre persistente o deterioro respiratorio tras 72-96 horas de antibióticos y drenaje adecuado), sospecha de complicaciones complejas difíciles de delimitar por ecografía (como fístula broncopleural, necrosis pulmonar masiva, abscesos intraparenquimatosos múltiples, o sospecha de malformación congénita subyacente como secuestro pulmonar o quiste broncogénico infectado).",
+        "isCorrect": true,
+        "explanation": "La TC de tórax con contraste se reserva exclusivamente para NAC complicadas refractarias a terapia de primera línea. Permite delimitar de forma precisa la presencia de necrosis parenquimatosa (neumonía necrotizante), colecciones purulentas intraparenquimatosas (abscesos) no drenadas por el tubo de pleurostomía, o sospechar malformaciones anatómicas subyacentes que actúan como foco de infección persistente (como quiste broncogénico o secuestro pulmonar), guiando la decisión quirúrgica de decorticación o resección segmentaria."
+      },
+      {
+        "text": "Solicitar una TC de tórax de forma rutinaria y obligatoria a todo preescolar con NAC no complicada para confirmar la curación al momento del alta.",
+        "isCorrect": false,
+        "explanation": "Tomar una TC de rutina para alta de NAC no complicada viola los estándares de protección radiológica infantil (ALARA) y es completamente innecesario ante un paciente que ha respondido de forma favorable a la clínica."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante una auditoría de infecciones asociadas a la atención de salud, se discute el aumento en la tasa de hospitalizaciones por pleuroneumonías necrotizantes y empiemas graves en preescolares chilenos de la red pública de salud. Se destaca que este aumento se asocia a la emergencia de cepas de Streptococcus pneumoniae de serotipos específicos que no se encontraban cubiertos de forma óptima por la vacuna conjugada de menor valencia disponible previamente en el país. ¿Cuál de los siguientes serotipos de neumococo destaca por su alta agresividad, capacidad supurativa, empiemas severos y resistencia a penicilina en Chile post-introducción de la PCV10?",
+    "hint": "El fenómeno de \"reemplazo de serotipos\" es un desafío en inmunizaciones. Al erradicar los serotipos comunes con la vacuna neumocócica original, otros serotipos \"liberados\" de la competencia en la nasofaringe comenzaron a proliferar e invadir. Uno de ellos es conocido internacionalmente por ser multirresistente y altamente empiematógeno.",
+    "options": [
+      {
+        "text": "Serotipos 1 y 5.",
+        "isCorrect": false,
+        "explanation": "Los serotipos 1 y 5 causaban empiemas epidémicos clásicos y estaban cubiertos por la formulación original, habiendo disminuido de forma drástica de forma sostenida tras el inicio del PNI neumocócico."
+      },
+      {
+        "text": "Serotipo 19A (y en menor medida el serotipo 3), ambos incluidos actualmente en la vacuna Neumocócica Conjugada 13-valente (PCV13) del calendario programático vigente.",
+        "isCorrect": true,
+        "explanation": "Tras la vacunación universal masiva con la vacuna de menor valencia (PCV10, la cual cubría 10 serotipos), se observó una rápida emergencia epidemiológica del serotipo 19A y del serotipo 3 como causantes de las formas más invasoras, destructivas y empiematógenas de pleuroneumonías necrotizantes en lactantes. Debido a esto, Chile migró de forma exitosa a la vacuna Neumocócica Conjugada 13-valente (PCV13) en su calendario PNI para dar cobertura directa y controlar a estos dos serotipos altamente empiematógenos y agresivos."
+      },
+      {
+        "text": "Serotipo 4.",
+        "isCorrect": false,
+        "explanation": "El serotipo 4 era una de las cepas clásicas de la vacuna original que se encuentra controlada de forma constante con excelentes coberturas y no destaca por la emergencia actual de empiemas multirresistentes post-PCV10."
+      },
+      {
+        "text": "Serotipo 23F.",
+        "isCorrect": false,
+        "explanation": "El serotipo 23F está cubierto por la vacuna básica y no es el causante de la emergencia de pleuroneumonías necrotizantes invasoras que motivó el cambio de pautas sanitarias."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Usted atiende a un preescolar de 3 años hospitalizado por un empiema pleural de lóbulo inferior izquierdo. El médico residente del servicio de pediatría sugiere de forma rutinaria asociar una dosis de Prednisona o Dexametasona por vía oral al tratamiento de antibióticos y drenaje pleural con el fin de \"desinflamar rápidamente la pleura y disminuir el dolor pleurítico\". ¿Cuál es la recomendación correcta basada en la evidencia de infectología y neumología pediátrica respecto al uso de corticoides en el empiema paraneumónico?",
+    "hint": "La pleura está infectada de forma activa (pus cerrado). Introducir un potente fármaco inmunosupresor (corticoides) en un espacio cerrado con bacterias viables puede disminuir la capacidad del sistema inmune local de fagocitar y depurar los gérmenes, enmascarando la fiebre (la cual es un marcador clave de si el pus se está drenando bien o no).",
+    "options": [
+      {
+        "text": "Los corticoides por vía oral están recomendados de forma obligatoria y rutinaria en todos los empiemas paraneumónicos para acortar el tiempo de estancia hospitalaria de forma universal.",
+        "isCorrect": false,
+        "explanation": "Sugiere una recomendación de rutina falsa que no está respaldada por la medicina basada en la evidencia y puede comprometer la seguridad infecciosa del menor."
+      },
+      {
+        "text": "No se recomienda el uso rutinario ni sistemático de corticoides sistémicos en el tratamiento del empiema pleural paraneumónico complicado en pediatría, debido a que la evidencia clínica de alta calidad es insuficiente para demostrar un beneficio sostenido relevante, y su uso indiscriminado puede retrasar el aclaramiento bacteriano, enmascarar la persistencia de fiebre por fallas terapéuticas locales de drenaje, y aumentar el riesgo de sobreinfección o complicaciones metabólicas asociadas, limitándose su consideración a casos muy seleccionados de pleuresía inflamatoria estéril refractaria tras descartar infección bacteriana activa.",
+        "isCorrect": true,
+        "explanation": "Las guías de consenso internacionales y nacionales desaconsejan el uso rutinario de corticoides sistémicos (Dexametasona, Prednisona) en el empiema pleural paraneumónico. Al deprimir la inmunidad local, pueden prolongar la viabilidad bacteriana en el pus pleural y retrasar la curación. Adicionalmente, el efecto antipirético potente del corticoide enmascara la fiebre del empiema, la cual es la clave del clínico para monitorizar la permeabilidad y eficacia del tubo de drenaje pleural, generando una falsa sensación de mejoría clínica. Su uso se limita a casos de pleuresía inflamatoria de curso estéril post-infecciosa controlada."
+      },
+      {
+        "text": "Está demostrado que el uso de corticoides orales cura de forma instantánea el empiema sin necesidad de colocar tubos de pleurostomía.",
+        "isCorrect": false,
+        "explanation": "El corticoide no tiene la capacidad de drenar mecánicamente las colecciones de pus purulentas de la cavidad pleural; el drenaje físico mecánico (tubo de tórax) sigue siendo indispensable en empiemas complicados."
+      },
+      {
+        "text": "Los corticoides están contraindicados en derrames debido a que provocan la calcificación instantánea de las hojas pleurales.",
+        "isCorrect": false,
+        "explanation": "No causan de forma característica la calcificación instantánea de las hojas pleurales, pero sí presentan los riesgos infecciosos y de monitorización descritos en la justificación D."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 14 meses con antecedentes de constipación crónica pertinaz en tratamiento en su hogar, asiste por presentar tos húmeda persistente, sibilancias que no responden a broncodilatadores y regular incremento ponderal. Al examen físico destaca taquipnea leve de $40\\text{ rpm}$ y se auscultan crépitos bilaterales difusos. Al revisar el tratamiento de su constipación, la madre refiere administrarle de forma habitual vaselina líquida (aceite mineral) antes de dormir. La radiografía de tórax muestra infiltrados intersticiales bilaterales difusos de predominio en lóbulos inferiores. ¿Cuál es el diagnóstico de sospecha prioritario de esta complicación respiratoria y qué hallazgo histológico en el lavado broncoalveolar lo confirma?",
+    "hint": "La vaselina líquida es un aceite mineral inodoro e insípido. Al ingerirse por lactantes pequeños, debido a su consistencia oleosa, debilita el reflejo tusígeno protector de la glotis y se \"desliza\" de forma silenciosa hacia la vía aérea (microaspiraciones repetidas). En el pulmón, actúa como un cuerpo extraño que es fagocitado por las células de defensa alveolares, causando una inflamación crónica severa.",
+    "options": [
+      {
+        "text": "Alergia digestiva a la vaselina; se trata con antihistamínicos orales por 3 meses de forma exclusiva.",
+        "isCorrect": false,
+        "explanation": "No se trata de una alergia digestiva sistémica, sino de una neumonitis química directa por aspiración de lípidos minerales hacia el árbol respiratorio profundo."
+      },
+      {
+        "text": "Neumoconiosis por inhalación de polvo de talco; se trata con lavados gástricos con carbón activado de urgencia.",
+        "isCorrect": false,
+        "explanation": "El talco es un silicato de magnesio insoluble que causa talcosis/neumoconiosis por inhalación, completamente diferente a la neumonía lipoidea por aspiración enteral de aceites de vaselina líquida, y el carbón activado es inútil para el pulmón."
+      },
+      {
+        "text": "Neumonía condensativa por Neumococo; se trata con amoxicilina a dosis de $90\\text{ mg/kg/d\\u00eda}$ por 7 días de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica es una condensación bacteriana aguda y febril; no guarda relación con la microaspiración crónica de vaselina líquida y los antibióticos son inútiles contra los depósitos físicos minerales grasos en los alveolos."
+      },
+      {
+        "text": "Neumonía Lipoidea por aspiración silenciosa de vaselina líquida; se confirma en el lavado broncoalveolar mediante la presencia de macrófagos cargados de lípidos (lipófagos o vacuolas lipídicas intracitoplasmáticas) teñidos de forma específica con tinción de Sudán III o Rojo de metilo.",
+        "isCorrect": true,
+        "explanation": "La Neumonía Lipoidea es una forma poco común de neumonía química producida por la microaspiración crónica de lípidos o aceites minerales (como la vaselina usada como laxante infantil). Los aceites ingeridos pasan silenciosamente al árbol bronquial porque no gatillan el reflejo de la tos debido a su viscosidad y nula irritabilidad local al nacer. Los macrófagos alveolares los fagocitan pero no pueden metabolizar los lípidos minerales, acumulándolos en su citoplasma (células espumosas o lipófagos) e induciendo una reacción inflamatoria crónica fibrótica. Se confirma detectando estos macrófagos cargados de grasa con tinciones lipídicas específicas (como Sudán) en el lavado broncoalveolar."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un niño de 3 años, con antecedentes de haber presentado 4 episodios de neumonía lobar bacteriana por neumococo documentados por radiografía en el último año, asiste a evaluación en inmunología infantil. En el examen físico se destaca que presenta un regular incremento ponderal (percentil de peso bajo el promedio) pero tiene amígdalas y ganglios linfáticos cervicales de tamaño normal. Se solicita estudio de inmunoglobulinas plasmáticas de control. ¿Cuál es el tipo de Inmunodeficiencia Primaria (IDP) más común caracterizada por cursar con infecciones bacterianas sinopulmonares recurrentes (como neumonías, OMA o sinusitis recurrentes) secundarias a un déficit específico de anticuerpos?",
+    "hint": "La gran mayoría de las inmunodeficiencias primarias que debutan en la primera infancia se deben a defectos en la producción de anticuerpos (inmunidad humoral), representando más del $50\\text{-}60\\%$ de todos los casos de IDP en el mundo. Cursan típicamente con infecciones respiratorias bacterianas de repetición tras el desgaste de los anticuerpos maternos pasivos a los 6 meses de vida.",
+    "options": [
+      {
+        "text": "Síndrome de DiGeorge por microdelección del cromosoma 22q11.",
+        "isCorrect": false,
+        "explanation": "El síndrome de DiGeorge cursa con aplasia tímica (déficit de células T), hipocalcemia neonatal por hipoparatiroidismo y cardiopatías congénitas troncoconales complejas (como tronco arterioso o Tetralogía de Fallot), no típicamente con un patrón selectivo de neumonías lobares recurrentes estables en un niño de 3 años con amígdalas normales."
+      },
+      {
+        "text": "Neutropenia congénita cíclica familiar de transmisión autosómica recesiva.",
+        "isCorrect": false,
+        "explanation": "La neutropenia cíclica cursa con fiebre y úlceras orales recurrentes graves de forma periódica cada 21 días asociadas al nadir de neutrófilos, no selectivamente como pleuroneumonías neumocócicas localizadas recurrentes aisladas con amígdalas conservadas."
+      },
+      {
+        "text": "Inmunodeficiencia Común Variable (IDCV) o el Déficit Selectivo de IgA, caracterizados por una alteración en la producción y maduración de anticuerpos que vulnerabiliza la superficie mucosa respiratoria alta y baja ante bacterias encapsuladas comunes.",
+        "isCorrect": true,
+        "explanation": "Las inmunodeficiencias humorales (como la Inmunodeficiencia Común Variable, el Déficit de anticuerpos específicos, o el Déficit Selectivo de IgA) son las IDP más frecuentes en la práctica clínica infantil. Se caracterizan por presentar niveles plasmáticos deficientes de inmunoglobulinas IgG, IgA o IgM que impiden la opsonización y aclaramiento eficaz de bacterias capsulares (neumococo, meningococo, H. influenzae), resultando en neumonías recurrentes, sinusitis y OMA de repetición."
+      },
+      {
+        "text": "Inmunodeficiencia Combinada Severa (SCID) ligada al X por mutación de la cadena gamma.",
+        "isCorrect": false,
+        "explanation": "La SCID es la forma más grave (\"niños burbuja\"), pero es extremadamente rara, debuta de forma muy precoz en los primeros 6 meses de vida con infecciones oportunistas graves (como neumonía por Pneumocystis, candidiasis oral masiva, diarrea intratable y falla de medro extrema), y los pacientes fallecen de forma rápida en el primer año si no reciben trasplante de médula ósea."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 14 meses con diagnóstico de Leucemia Linfoblástica Aguda en tratamiento de quimioterapia intensiva activa (con recuento de linfocitos CD4 $<200/\\text{mm}^3$) desarrolla de forma progresiva un cuadro de neumonía intersticial grave con insuficiencia respiratoria severa rápidamente progresiva. No presenta antecedentes de exantema maculopapular ni coriza. El estudio virológico molecular por PCR en secreciones respiratorias resulta positivo para el virus del Sarampión. ¿Cómo se conoce esta manifestación pulmonar grave y atípica del sarampión en pacientes con inmunodepresión celular grave y cuál es su correlación patológica?",
+    "hint": "El exantema característico del sarampión no es producido de forma directa por el virus en la piel; es el resultado de la lucha inmunológica (hipersensibilidad tipo IV) de las células T del propio paciente contra los capilares cutáneos infectados por el virus. Si un paciente carece de células T (por quimioterapia), no puede montar esta respuesta cutánea (no hará exantema), permitiendo que el virus se replique libremente en los pulmones, destruyendo los alveolos de forma masiva.",
+    "options": [
+      {
+        "text": "Neumonía de células gigantes (o de Hecht); es una complicación pulmonar oportunista grave y frecuentemente mortal causada por la replicación citopática directa del virus del sarampión en el parénquima pulmonar de pacientes con inmunodeficiencia celular T grave, caracterizada histopatológicamente por la presencia de células gigantes multinucleadas (sincitios) con inclusiones intranucleares e intracitoplasmáticas, y que típicamente cursa sin la presencia del exantema típico del sarampión (ya que el exantema requiere una inmunidad celular T intacta para manifestarse como respuesta inflamatoria capilar).",
+        "isCorrect": true,
+        "explanation": "La Neumonía de Células Gigantes de Hecht es una complicación oportunista del sarampión en pacientes con inmunocompromiso grave de la serie celular (leucemias, trasplantados, VIH avanzado). Al no haber linfocitos T funcionales, el virus invade el epitelio pulmonar alveolar formando sincitios gigantes de células fusionadas que causan una neumonía intersticial necrotizante de alta mortalidad. Clásicamente cursa sin el sarpullido típico del sarampión (sarampión anexantemático), lo que dificulta y retrasa de forma marcada el diagnóstico oportuno."
+      },
+      {
+        "text": "Síndrome cardiopulmonar agudo por virus papiloma.",
+        "isCorrect": false,
+        "explanation": "El virus del papiloma humano (VPH) causa verrugas o cáncer cervicouterino/orofaríngeo a largo plazo; no produce síndromes de neumonía intersticial pulmonar destructiva aguda de células gigantes en pacientes oncológicos."
+      },
+      {
+        "text": "Neumonía bacteriana necrotizante por Pseudomonas productora de gas.",
+        "isCorrect": false,
+        "explanation": "Es una patología de origen puramente viral por mixovirus; no corresponde a una infección bacteriana piógena nosocomial por pseudomonas productora de gas de la UCIN."
+      },
+      {
+        "text": "Neumonía de Hecht por micoplasma gigante.",
+        "isCorrect": false,
+        "explanation": "La neumonía de Hecht es de etiología puramente viral (virus del Sarampión), no es causada de ninguna manera por el Mycoplasma pneumoniae ni por bacterias gigantes atípicas de esta naturaleza."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un lactante de 20 meses cursa con diagnóstico de pleuroneumonía bacteriana de base derecha y se encuentra hospitalizado recibiendo ampicilina intravenosa. Al ingresar, presentaba un derrame pleural menor de $1\\text{ cm}$ de espesor en la radiografía de tórax lateral decúbito. En las últimas 24 horas, el lactante ha respondido de forma excelente: se encuentra afebril, activo, de muy buen ánimo, respirando normalmente sin taquipnea ni tiraje, y con disminución de los requerimientos de oxígeno. ¿Cómo se conoce fisiopatológicamente este derrame pleural menor transitorio asociado a una neumonía de respuesta clínica excelente y cuál es el análisis correcto?",
+    "hint": "Al igual que una quemadura en la piel genera una ampolla de agua limpia a su alrededor por simple calor e inflamación de vecindad, un foco de neumonía pegado a la pleura produce una exudación reactiva de líquido claro libre en la pleura sin que signifique que las bacterias hayan invadido y supurado de forma activa ese espacio.",
+    "options": [
+      {
+        "text": "Hernia diafragmática de aparición tardía; requiere cirugía de descompresión abdominal de urgencia.",
+        "isCorrect": false,
+        "explanation": "No guarda ninguna relación fisiopatológica con una hernia diafragmática (la cual implica el paso de vísceras abdominales al tórax por un defecto del desarrollo diafragmático embrionario), siendo un acúmulo transitorio de líquido libre periférico."
+      },
+      {
+        "text": "Tuberculosis pleural de rápida diseminación; requiere aislamiento respiratorio inmediato y tratamiento por un año.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis pleural se presenta típicamente como un exudado linfocítico de larga evolución en adolescentes, no como un derrame paraneumónico simpático leve de reabsorción espontánea en un lactante de 20 meses con neumonía aguda en resolución."
+      },
+      {
+        "text": "Derrame Pleural Paraneumónico No Complicado (o \"Derrame Simpático\"); representa una respuesta inflamatoria de vecindad de la pleura visceral ante la neumonía alveolar adyacente (con líquido de aspecto claro, pH $>7.20$, glucosa $>60\\text{ mg/dl}$ y cultivos estériles). La conducta correcta ante la excelente evolución clínica es la observación clínica expectante, ya que este tipo de líquido pleural no complicado se reabsorbe de forma espontánea y fisiológica en pocos días a medida que sana el parénquima pulmonar, sin requerir punciones ni la colocación de un tubo de tórax.",
+        "isCorrect": true,
+        "explanation": "El derrame pleural paraneumónico no complicado (simpático) es una acumulación reactiva estéril de líquido pleural en respuesta a la inflamación local del parénquima pulmonar. Al no estar el espacio pleural invadido activamente por bacterias, el líquido es anecoico, tiene pH y glucosa normales y se reabsorbe por sí solo en el seguimiento clínico, sin que se beneficie de intervenciones invasivas como toracocentesis repetidas o pleurostomías si el paciente está clínicamente asintymptomatico y respondiendo al tratamiento antibiótico."
+      },
+      {
+        "text": "Derrame pulmonar metastásico; requiere quimioterapia intratorácica de forma prioritaria de urgencia.",
+        "isCorrect": false,
+        "explanation": "Es una complicación reactiva benigna de vecindad de la neumonía bacteriana; clasificarlo como un proceso neoplásico tumoral metastásico es un grave error de diagnóstico diferencial que genera pánico familiar injustificado."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 12 años que reside en una zona rural forestal de la Región del Biobío es traído al servicio de urgencias por presentar fiebre de $39.5^\\circ\\text{C}$ de 3 días de evolución, dolores musculares intensos (mialgias marcadas de predominio en muslos y espalda), cefalea, decaimiento masivo y síntomas digestivos vagos caracterizados por náuseas y dolor abdominal. En las últimas 6 horas de forma brusca se asocia tos seca persistente, taquipnea marcada ($44\\text{ rpm}$), desaturación rápida de hasta $88\\%$ al aire ambiente e hipotensión sistémica compensada. La radiografía de tórax muestra un infiltrado intersticial bilateral difuso de rápida progresión simétrica. Se solicita hemograma de control que revela una marcada trombocitopenia ($50.000\\text{ plaquetas/mm}^3$) asociada a hemoconcentración marcada e inmunoblastos en sangre periférica. ¿Cuál es el diagnóstico de sospecha prioritario de esta patología respiratoria zoonótica de alta letalidad en Chile?",
+    "hint": "Se trata de una de las zoonosis virales más temidas en Chile. Su fase respiratoria cardiopulmonar debuta de forma fulminante con un aumento masivo de la permeabilidad vascular pulmonar que inunda de líquido los alveolos (edema pulmonar no cardiogénico grave) con shock cardiogénico secundario de alta letalidad, caracterizado típicamente por fiebre, mialgias previas, plaquetopenia extrema y hemoconcentración.",
+    "options": [
+      {
+        "text": "Bronquiolitis aguda obstructiva por virus respiratorio sincicial estacional común.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis por VRS es una patología obstructiva catarral con sibilancias típica de lactantes pequeños de forma estacional comunitaria, no un cuadro de distrés respiratorio con edema alveolar no cardiogénico masivo y shock en escolares de 12 años del Biobío."
+      },
+      {
+        "text": "Síndrome Cardiopulmonar por Hantavirus (SCPH); el contagio ocurre clásicamente por la inhalación de aerosoles de orina, saliva o deposiciones de roedores silvestres portadores (ratón de cola larga o Oligoryzomys longicaudatus) en zonas rurales, bodegas o establos cerrados.",
+        "isCorrect": true,
+        "explanation": "El cuadro con pródromo febril mialgico rústico rural, seguido de distrés respiratorio agudo fulminante (edema pulmonar no cardiogénico), inestabilidad hemodinámica y un hemograma con plaquetopenia extrema ($50.000/\\text{mm}^3$) e inmunoblastos, es patognomónico del Síndrome Cardiopulmonar por Hantavirus (SCPH, virus Andes en Chile). La fuente de contagio es la inhalación de aerosoles de excretas del ratón colilargo. Exige traslado inmediato bajo medidas de aislamiento a un centro de alta complejidad con capacidad de soporte cardiorrespiratorio avanzado con membrana de oxigenación extracorpórea (ECMO) y notificación obligatoria inmediata."
+      },
+      {
+        "text": "Tuberculosis cavitaria apical activa post-exposición de la Región del Biobío de urgencia.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis pulmonar es de curso subagudo crónico y cursa de forma silente con baja de peso consuntiva, sudoración y tos productiva prolongada; no debuta como un síndrome cardiopulmonar agudo fulminante en 48 horas tras contacto con excretas de ratón."
+      },
+      {
+        "text": "Neumonía condensativa bacteriana neumocócica típica de rápida diseminación.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica típica cursa con condensación lobar única localizada con broncograma aéreo, fiebre y neutrofilia con leucocitosis marcada, no con infiltrados intersticiales bilaterales fulminantes simétricos con plaquetopenia severa y hemoconcentración marcada de origen zoonótico."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Durante un seminario de fisiología respiratoria aplicada, se discute el mecanismo por el cual los pacientes con neumonía condensativa de gran extensión desarrollan hipoxemia arterial severa. ¿Cuál es el principal fenómeno o mecanismo fisiopatológico de intercambio gaseoso responsable de la hipoxemia en la neumonía bacteriana?",
+    "hint": "La hipoxemia puede ocurrir por varias causas. En la neumonía, hay alveolos \"apagados\" e inundados de agua de pus, pero la sangre de las arterias pulmonares sigue pasando por el costado de esos alveolos. Esa sangre pasa de largo \"de largo\" sin captar oxígeno porque el alveolo no tiene aire que ofrecerle.",
+    "options": [
+      {
+        "text": "Hiperventilación alveolar central que deprime la presión parcial de oxígeno por capilaridad.",
+        "isCorrect": false,
+        "explanation": "La hiperventilación alveolar es una respuesta compensadora ante la hipoxia, que disminuye el $CO_2$ (hipocapnia), pero no es la causa primaria de la hipoxemia pulmonar en la neumonía condensativa."
+      },
+      {
+        "text": "Bloqueo mecánico físico selectivo de la arteria pulmonar principal por tapones de moco bacteriano.",
+        "isCorrect": false,
+        "explanation": "La oclusión de la arteria pulmonar describe al tromboembolismo pulmonar (TEP), un cuadro obstructivo vascular mecánico puro extremadamente raro en pediatría, no el mecanismo alveolar neumónico supurativo difuso de la NAC común."
+      },
+      {
+        "text": "Efecto Cortocircuito o Shunt intrapulmonar (V/Q = 0), debido a que existen unidades alveolares pulmonares consolidativas que se encuentran completamente ocupadas de exudado inflamatorio/pus y por lo tanto no son ventiladas, pero que continúan estando perfundidas por la sangre de los capilares alveolares, resultando en que la sangre desoxigenada retorna directamente al ventrículo izquierdo sin haber realizado intercambio de gases.",
+        "isCorrect": true,
+        "explanation": "El shunt intrapulmonar (cortocircuito de derecha a izquierda) es el mecanismo clave de la hipoxemia en neumonía. Los alveolos consolidados están ocupados por detritos y pus, por lo que su ventilación es nula ($V=0$). Sin embargo, la perfusión pulmonar se mantiene activa en esa zona ($Q>0$). La sangre pasa por estas unidades y retorna a las venas pulmonares sin oxigenarse, mezclándose con la sangre oxigenada del pulmón sano y disminuyendo la $PaO_2$ sistémica. Este tipo de hipoxemia por shunt verdadero no corrige de forma completa al administrar oxígeno de bajo flujo por cánula si la fracción de pulmón consolidado es muy amplia."
+      },
+      {
+        "text": "Disminución fisiológica de la afinidad de la hemoglobina por el oxígeno debida a la hipotermia refleja del lactante.",
+        "isCorrect": false,
+        "explanation": "La fiebre alta (no la hipotermia) es el hallazgo común en la neumonía, y desplaza la curva de disociación de la hemoglobina hacia la derecha (disminuyendo la afinidad para facilitar la entrega de $O_2$ a los tejidos inflamados), pero el mecanismo de shunt intrapulmonar es el que causa la hipoxemia arterial de base."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un escolar de 10 años, previamente sano, es hospitalizado por una NAC bacteriana neumocócica grave que evolucionó de forma favorable tras completar 10 días de antibióticos endovenosos de forma hospitalizada. Sin embargo, en su seguimiento ambulatorio a los 2 meses del alta, el menor persiste con tos seca intermitente leve, disnea de esfuerzo moderada que le impide realizar actividad física en su colegio y una radiografía de tórax que muestra persistencia de infiltrados alveolares migratorios parahiliares bilaterales con áreas de \"vidrio esmerilado\". El estudio de LCR y cultivos es normal. Se sospecha una Neumonía Organizativa como secuela post-infecciosa. ¿Cuál es el tratamiento de elección para esta secuela pulmonar inflamatoria crónica?",
+    "hint": "La neumonía organizativa no representa una infección bacteriana persistente activa que requiera más antibióticos de mayor espectro. Se trata de una cicatrización inflamatoria desorganizada e hiperreactiva del pulmón ante el daño masivo previo. Como toda patología inflamatoria proliferativa estéril, su interruptor molecular de apagado es un potente inmunosupresor sistémico.",
+    "options": [
+      {
+        "text": "Retirar toda indicación médica y prohibir de forma permanente la realización de cualquier esfuerzo de por vida.",
+        "isCorrect": false,
+        "explanation": "Suspender el manejo y restringir de forma definitiva toda actividad física invalidará al menor de forma innecesaria; los corticoides resuelven la inflamación de forma excelente permitiendo que el escolar recupere su capacidad ventilatoria normal y vuelva a correr y jugar de forma segura en pocos meses."
+      },
+      {
+        "text": "Indicar tratamiento inmediato con quimioterapia intrapulmonar con doxorrubicina por un año.",
+        "isCorrect": false,
+        "explanation": "La quimioterapia antineoplásica está contraindicada; la neumonía organizativa es un proceso inflamatorio proliferativo benigno post-infección, no un cáncer pulmonar maligno primario."
+      },
+      {
+        "text": "Corticoides sistémicos (Prednisona oral a dosis de $1\\text{ a }2\\text{ mg/kg/d\\u00eda}$) de forma prolongada por semanas o meses con disminución progresiva gradual, ya que la Neumonía Organizativa representa una respuesta fibroproliferativa e inflamatoria crónica aberrante del parénquima pulmonar post-infección que presenta una excelente y rápida respuesta a los corticoides de mantención.",
+        "isCorrect": true,
+        "explanation": "La Neumonía Organizativa (secuela post-infecciosa o criptogénica) es una entidad clínica inflamatoria crónica caracterizada por el llenado de los conductos alveolares y espacios aéreos por brotes de tejido conectivo laxo (cuerpos de Masson) post-daño alveolar neumónico bacteriano o viral grave. Al ser un proceso puramente inflamatorio proliferativo no infeccioso activo, no responde a antibióticos y su tratamiento de elección son los corticoides sistémicos (Prednisona), los cuales inducen una rápida mejoría de los síntomas y de las imágenes radiológicas en el seguimiento a largo plazo."
+      },
+      {
+        "text": "Mantener esquemas alternados semanales de cefalosporinas intravenosas de por vida.",
+        "isCorrect": false,
+        "explanation": "Mantener ciclos de antibióticos potentes intravenosos de por vida es una mala práctica clínica que no trata la inflamación fibrótica de la neumonía organizativa y expone al escolar a riesgos de nefrotoxicidad severa y multirresistencia de forma injustificada."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un adolescente de 15 años que reside en una zona pecuaria de la Región de Los Lagos (Osorno) consulta en la urgencia por presentar un cuadro de 10 días de evolución de fiebre alta de hasta $39.8^\\circ\\text{C}$, calofríos, cefalea retroorbitaria muy intensa, sudoración nocturna, dolores musculares severos y tos seca moderada. Al examen físico destaca excelente estado general residual, pero se palpa hepatomegalia de $2\\text{ cm}$ bajo el reborde costal derecho. El laboratorio destaca transaminasas hepáticas elevadas moderadamente, y la radiografía de tórax muestra una consolidación de lóbulo inferior izquierdo de curso atípico. Durante la anamnesis social, refiere ayudar a su padre en las labores de parto y ordeña de vacas lecheras de forma habitual. ¿Cuál es el diagnóstico de sospecha prioritario de esta patología respiratoria zoonótica de interés nacional en el sur de Chile?",
+    "hint": "Se trata de una bacteria intracelular obligada que causa la conocida \"Fiebre Q\", una zoonosis endémica en el sur de Chile con brotes asociados a trabajadores del sector lechero y ganadero. Cursa de forma característica como un síndrome febril agudo de alta intensidad con cefalea retroocular severa, neumonía atípica y hepatitis o elevación de enzimas hepáticas (transaminasitis) concomitante de origen zoonótico.",
+    "options": [
+      {
+        "text": "Neumonía asintomática por aspiración de vaselina líquida.",
+        "isCorrect": false,
+        "explanation": "La neumonía lipoidea por aspiración de vaselina cursa de forma afebril insidiosa en lactantes con sibilancias refractarias a broncodilatadores, sin relación con el contacto de partos bovinos ni transaminasitis febril aguda en adolescentes de 15 años."
+      },
+      {
+        "text": "Neumonía bacteriana típica por Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica típica es una infección respiratoria baja bacteriana aguda que no cursa típicamente con hepatitis/transaminasitis masiva concomitante ni se relaciona de forma ocupacional epidemiológica con partos ganaderos en el sur del país."
+      },
+      {
+        "text": "Neumonía necrotizante destructiva con pioneumotórax por Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "El S. aureus causa neumonía necrotizante fulminante grave con rápido colapso respiratorio y neumatoceles gigantes al ingreso, incompatible con el curso subagudo febril hepatolítico sistémico de dos semanas de evolución descrito."
+      },
+      {
+        "text": "Fiebre Q o neumonía por Coxiella burnetii; el contagio ocurre clásicamente por la inhalación de aerosoles o polvo seco contaminado con fluidos de parto (líquido amniótico, placenta), orina o leche de animales de granja infectados de forma asintomática (vacas, ovejas, cabras).",
+        "isCorrect": true,
+        "explanation": "El cuadro clínico con pródromo febril intenso, cefalea retroorbitaria severa, neumonía de patrón atípico consolidativo basal, transaminasas elevadas (hepatitis por Fiebre Q) y el antecedente epidemiológico laboral de contacto con partos de vacas o ganado en el sur de Chile (Región de Los Lagos/Osorno) es patognomónico de la Fiebre Q (infección por Coxiella burnetii). Es una enfermedad de notificación obligatoria. El tratamiento de elección en adolescentes es la Doxiciclina por vía oral por 14 días."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un adolescente de 15 años consulta en urgencias por un cuadro de tres semanas de evolución caracterizado por dolor torácico sordo del costado izquierdo que aumenta al inspirar profundo, tos no productiva, fiebre moderada nocturna de hasta $38.3^\\circ\\text{C}$, sudoración nocturna profusa y baja de peso no explicada de $4\\text{ kg}$ en el último mes. Al examen segmentario destaca silencio auscultatorio con matidez hídrica en la base pulmonar izquierda compatible con derrame pleural. Se realiza una toracocentesis diagnóstica: el análisis del líquido pleural revela un exudado de predominio linfocítico ($>80\\%$), con una glucosa moderadamente disminuida ($50\\text{ mg/dl}$), un Adenosina Deaminasa (ADA) elevado de $52\\text{ U/L}$ (rango normal $<40\\text{ U/L}$) y nulo crecimiento bacteriano a las 48 horas de cultivo común. ¿Cuál es el diagnóstico de sospecha prioritario de este derrame pleural exudativo?",
+    "hint": "La tuberculosis pleural es la causa más común de derrame pleural unilateral exsudativo en adolescentes y adultos jóvenes en Chile. El líquido se caracteriza por una respuesta de hipersensibilidad de tipo celular (muchos linfocitos) con nula presencia de bacterias comunes, y la enzima ADA (un marcador de activación de linfocitos T) resulta de forma característica elevada por encima de $40\\text{ U/L}$.",
+    "options": [
+      {
+        "text": "Trasudado simple por insuficiencia renal nefrótica; requiere diálisis de urgencia inmediata y suspender el estudio de tuberculosis.",
+        "isCorrect": false,
+        "explanation": "Los trasudados nefróticos cursan con baja de proteínas y LDH normales en líquido pleural bilateral simétrico asociado a edema generalizado (anasarca), y no presentan características de exudado linfocítico unilateral con ADA elevado de origen infeccioso de semanas de evolución."
+      },
+      {
+        "text": "Derrame simpático no complicado por Neumococo; se trata con ampicilina endovenosa sola de forma ambulatoria por 5 días.",
+        "isCorrect": false,
+        "explanation": "El derrame simpático paraneumónico es reactivo y agudo, cursa con fiebre alta persistente de corta evolución, resolución espontánea rápida con antibióticos comunes y no se asocia de ninguna manera a baja de peso severa de 4 kg ni a sudoración nocturna de tres semanas con ADA elevado en líquido."
+      },
+      {
+        "text": "Derrame Pleural Tuberculoso (tuberculosis pleural); se asocia de forma característica a un exudado linfocítico de curso subagudo con ADA elevado, requiriendo confirmar mediante cultivo de Koch (Löwenstein-Jensen) o PCR para Mycobacterium tuberculosis en líquido/biopsia pleural, e iniciar tratamiento antituberculoso completo normado.",
+        "isCorrect": true,
+        "explanation": "El dolor pleural subagudo de tres semanas de evolución asociado a baja de peso, sudoración nocturna (síndrome consuntivo de impregnación bacilar) y un líquido pleural de tipo exudado con marcado predominio linfocítico y ADA elevado ($>40\\text{ U/L}$) es altamente sugestivo de tuberculosis pleural. El ADA es un biomarcador con un excelente Valor Predictivo Positivo para TBC en zonas con prevalencia endémica. El diagnóstico se confirma por la biopsia pleural (la cual es más sensible que el cultivo de líquido pleural) buscando granulomas caseificantes y bacilos de Koch. Requiere iniciar terapia de cuatro drogas normada por el Programa de Control de la Tuberculosis (PROCET) del MINSAL."
+      },
+      {
+        "text": "Empiema agudo supurado por Staphylococcus aureus resistente a meticilina; requiere pleurostomía inmediata de alta presión.",
+        "isCorrect": false,
+        "explanation": "El empiema agudo supurado por S. aureus es un exudado turbio/purulento con marcado predominio de polimorfonucleares (PMN $>80\\text{-}90\\%$) y pH ácido $<7.20$, con glucosa extremadamente baja ($<20\\text{ mg/dl}$), lo cual difiere del predominio linfocítico y curso subagudo sin pus libre de la TBC pleural."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía",
+    "text": "Un preescolar de 3 años, hospitalizado por un empiema pleural derecho complicado secundario a una neumonía necrotizante por neumococo serotipo 3, se encuentra cursando con un tubo de pleurostomía conectado a una trampa de agua (frasco de drenaje pleural). El equipo de enfermería advierte de forma constante que el frasco de drenaje pleural presenta un burbujeo continuo e intenso de aire a través de la columna de agua (tanto en inspiración como en espiración y durante la tos), asociado a una incapacidad persistente para lograr la reexpansión del pulmón derecho en radiografías sucesivas de control a pesar de una succión negativa adecuada. ¿Cuál es el diagnóstico de sospecha de esta complicación mecánica y de soporte en la UCIN?",
+    "hint": "El aire que entra por la tráquea y los bronquios debería ir exclusivamente a los alveolos para inflar el pulmón. Si una porción del parénquima pulmonar se \"rompe\" y se necrosa, se abre un túnel directo que comunica las vías aéreas con el espacio pleural. El aire se escapará por ese agujero hacia la pleura, saliendo de forma continua en forma de burbujas a través del tubo de tórax sin permitir que el pulmón retenga la presión y se infle de forma normal.",
+    "options": [
+      {
+        "text": "Simple paso de aire ambiental normal por la piel del estoma que no requiere intervenciones ni monitorización.",
+        "isCorrect": false,
+        "explanation": "Si bien puede haber una fuga menor de aire por la piel del estoma del tubo (fuga externa), el burbujeo continuo masivo bilateral e incapacidad persistente de expandir el pulmón colapsado reflejan un cortocircuito aéreo interno por fístula broncopleural que compromete gravemente la ventilación y requiere monitorización crítica."
+      },
+      {
+        "text": "Fístula Broncopleural (FBP); representa una comunicación física anómala y persistente entre el árbol bronquial (vía aérea) y el espacio pleural de origen necrótico secundario a la destrucción del parénquima por la neumonía necrotizante, requiriendo un estrecho soporte ventilatorio y eventual resolución quirúrgica.",
+        "isCorrect": true,
+        "explanation": "El burbujeo continuo de aire a través del sistema de drenaje de pleurostomía asociado a un pulmón colapsado persistente que no expande es el signo clínico clásico de una Fístula Broncopleural. Ocurre por necrosis supurativa localizada del tejido pulmonar que abre una vía de paso anómala entre las vías aéreas (bronquios) y el espacio pleural periférico. El manejo en la UCIN exige un soporte ventilatorio con presiones bajas para evitar perpetuar el flujo de la fístula, pudiendo requerir selladores de fibrina endoscópicos o decorticación/cierre quirúrgico directo de la fístula por toracoscopia."
+      },
+      {
+        "text": "Calcificación traumática del mediastino medio post-infección.",
+        "isCorrect": false,
+        "explanation": "No existe relación fisiopatológica entre el burbujeo continuo de aire en la trampa de agua del drenaje con una \"calcificación mediastínica traumática\" pos-infecciosa de esta naturaleza en el periodo agudo del preescolar."
+      },
+      {
+        "text": "Rotura iatrogénica de la arteria mamaria interna por el tubo de tórax.",
+        "isCorrect": false,
+        "explanation": "La rotura de la arteria mamaria interna se manifestaría como un hemotórax masivo agudo con sangrado rojo rutilante continuo por el tubo de tórax y shock hipovolémico severo progresivo, no como un escape y burbujeo aéreo persistente continuo puro sin sangrado."
+      }
+    ]
+  }
+]
