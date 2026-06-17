@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Durante la entrega de turno en el Servicio de Neonatología del Hospital Luis Tisné, se discuten los criterios diagnósticos y de intervención para la hipoglicemia neonatal. De acuerdo con el Manual de Neonatología de Tapia (4ª Edición) y los consensos nacionales vigentes, ¿cuál es el umbral de glicemia plasmática que define de forma estricta la hipoglicemia en un recién nacido de término sano durante sus primeras 24 horas de vida, independientemente de si presenta sintomatología clínica?",
+    "hint": "En las primeras horas de vida existe una caída fisiológica normal de la glicemia (nadir fisiológico a las 1-2 horas). Sin embargo, para evitar el riesgo de neurotoxicidad y optimizar la intervención, las guías clínicas chilenas fijan un límite operacional estricto para actuar.",
+    "options": [
+      {
+        "text": "Todo valor de glicemia plasmática que se encuentre por debajo de los 45 mg/dL.",
+        "isCorrect": true,
+        "explanation": "En Chile, de acuerdo con el Manual de Tapia y las normas técnicas ministeriales, se define hipoglicemia neonatal en las primeras 24 horas de vida a todo valor de glicemia plasmática inferior a 45 mg/dL en recién nacidos de riesgo o con sospecha clínica, umbral a partir del cual se deben iniciar medidas correctivas (enterales o parenterales) para asegurar el metabolismo cerebral."
+      },
+      {
+        "text": "Todo valor de glicemia plasmática que se encuentre por debajo de los 35 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Aunque en las primeras dos horas de vida algunos recién nacidos sanos asintomáticos pueden presentar glicemias fisiológicamente más bajas (alrededor de 35 mg/dL), el límite de intervención operacional seguro adoptado por el MINSAL para prevenir daño neurológico se fija en 45 mg/dL."
+      },
+      {
+        "text": "Todo valor de glicemia plasmática que se encuentre por debajo de los 25 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Mantener una conducta expectante o considerar la hipoglicemia solo bajo los 25 mg/dL expone de forma inaceptable al neonato a sufrir crisis convulsivas metabólicas, edema cerebral iatrogénico y daño cerebral permanente irreversible."
+      },
+      {
+        "text": "Todo valor de glicemia plasmática que se encuentre por debajo de los 55 mg/dL.",
+        "isCorrect": false,
+        "explanation": "Un valor de 55 mg/dL se considera dentro de los rangos de normalidad o de transición segura para el recién nacido sano, no constituyendo una indicación de intervención correctiva metabólica de urgencia en la maternidad."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de 2 horas de vida, adecuado para la edad gestacional (AEG) y término, hijo de madre con Diabetes Gestacional controlada con dieta, se encuentra asintomático en alojamiento conjunto. El hemoglucotest de tamizaje de rutina a las 2 horas (nadir fisiológico) reporta un valor de 38 mg/dL. ¿Cuál es el tratamiento inicial correcto y la conducta inmediata en la maternidad?",
+    "hint": "Ante un recién nacido con factores de riesgo (hijo de madre diabética) que presenta una hipoglicemia leve a moderada pero se mantiene completamente asintomático, la vía de elección inicial debe ser la más fisiológica y menos invasiva.",
+    "options": [
+      {
+        "text": "Iniciar de inmediato la alimentación con pecho materno directo o fórmula, y controlar la glicemia en 30 a 60 minutos.",
+        "isCorrect": true,
+        "explanation": "Para recién nacidos asintomáticos con niveles de glicemia entre 35 y 45 mg/dL durante las primeras horas, el protocolo chileno indica iniciar de inmediato la alimentación enteral, idealmente con pecho materno directo o, si no es posible, con leche materna extraída o fórmula de inicio. Se debe controlar la glicemia mediante hemoglucotest 30 a 60 minutos después de la toma para confirmar la recuperación de los niveles por sobre los 45 mg/dL."
+      },
+      {
+        "text": "Trasladar de urgencia a la Unidad de Cuidados Intensivos Neonatales para iniciar una infusión de insulina rápida.",
+        "isCorrect": false,
+        "explanation": "La insulina está contraindicada en la hipoglicemia, ya que su administración exacerbaría de forma catastrófica la caída de la glicemia, provocando convulsiones, coma y muerte del neonato."
+      },
+      {
+        "text": "Administrar un bolo rápido de Suero Fisiológico al 0,9% por vía intravenosa umbilical periférica y reevaluar.",
+        "isCorrect": false,
+        "explanation": "Los bolos de suero fisiológico no aportan glucosa y no corrigen la hipoglicemia, y los accesos endovenosos invasivos se reservan para fallas de la vía oral o hipoglicemias sintomáticas severas."
+      },
+      {
+        "text": "Indicar régimen cero absoluto por 4 horas para estimular la neoglucogénesis hepática autónoma del recién nacido.",
+        "isCorrect": false,
+        "explanation": "El ayuno absoluto en un recién nacido con hiperinsulinismo latente (hijo de madre diabética) promueve una caída rápida y severa de la glicemia, aumentando críticamente el riesgo de daño neurológico."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, de 40 semanas, presenta a las 3 horas de vida temblores marcados (jitteriness) de las extremidades en reposo, hipotonía generalizada y succión débil. El hemoglucotest de control revela una glicemia de 28 mg/dL. ¿Cuál es la terapia farmacológica de elección y la conducta inmediata indicada en la sala de reanimación?",
+    "hint": "La presencia de sintomatología neurológica (temblores, hipotonía) asociada a hipoglicemia severa es una emergencia neonatal que exige la corrección rápida del aporte de glucosa por vía endovenosa directa para restaurar el sustrato energético cerebral.",
+    "options": [
+      {
+        "text": "Administrar un bolo endovenoso de Suero Fisiológico al 0,9% a razón de 10 mL/kg a pasar en un período de 5 minutos.",
+        "isCorrect": false,
+        "explanation": "El suero fisiológico no contiene glucosa y no corrige el déficit de sustrato energético cerebral que provoca los síntomas neurológicos del recién nacido."
+      },
+      {
+        "text": "Forzar la alimentación enteral con mamadera de fórmula láctea a alta presión, manteniendo al recién nacido en prono.",
+        "isCorrect": false,
+        "explanation": "Forzar la vía oral en un recién nacido hipotónico y sintomático está contraindicado por el altísimo riesgo de broncoaspiración de la leche hacia la vía aérea, empeorando el pronóstico del paciente."
+      },
+      {
+        "text": "Administrar una dosis de glucagón por vía intramuscular profunda y suspender temporalmente todo aporte de leche.",
+        "isCorrect": false,
+        "explanation": "El glucagón es un fármaco de rescate secundario para movilizar depósitos de glucógeno en casos refractarios o hiperinsulinismo severo, pero no reemplaza al bolo de SG 10% endovenoso de primera línea en la urgencia."
+      },
+      {
+        "text": "Administrar un bolo endovenoso de Suero Glucosado al 10% (SG 10%) en dosis de 2 mL/kg (200 mg/kg), seguido de una infusión continua de glucosa con una VIG de 6 a 8 mg/kg/minuto.",
+        "isCorrect": true,
+        "explanation": "Toda hipoglicemia neonatal sintomática es una emergencia médica. El tratamiento consiste en administrar de inmediato un bolo endovenoso de Suero Glucosado al 10% (SG 10%) de 2 mL/kg (equivalente a 200 mg/kg de glucosa) administrado lentamente en 5 a 10 minutos. Este bolo debe continuarse obligatoriamente con una infusión continua de glucosa a una Velocidad de Infusión de Glucosa (VIG) inicial de 6 a 8 mg/kg/min para mantener la estabilidad y evitar la hipoglicemia de rebote."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Usted se encuentra de turno en la Unidad de Neonatología y debe calcular la Velocidad de Infusión de Glucosa (VIG) para un recién nacido de término que pesa 3,0 kg y que requiere una fleboclisis de mantención con un volumen total de 80 mL/kg/día utilizando Suero Glucosado al 10% (SG 10%). Aplicando la fórmula estándar de VIG, ¿cuál es el resultado del cálculo en mg/kg/minuto?",
+    "hint": "Utilice la fórmula simplificada clásica para el cálculo de la VIG en neonatología: VIG (mg/kg/min) = (% Concentración de Glucosa x Volumen total diario (mL/kg/día)) / 144.",
+    "options": [
+      {
+        "text": "Velocidad de Infusión de Glucosa de 8,5 mg/kg/minuto.",
+        "isCorrect": false,
+        "explanation": "Una VIG de 8,5 mg/kg/min se obtendría con una concentración de glucosa o un volumen total diario significativamente mayor, lo cual podría inducir hiperglicemia iatrogénica en un neonato estable."
+      },
+      {
+        "text": "Velocidad de Infusión de Glucosa de 12,0 mg/kg/minuto.",
+        "isCorrect": false,
+        "explanation": "12 mg/kg/min es una VIG excesiva, habitualmente reservada de forma terapéutica para neonatos con hiperinsulinismo severo refractario, y su administración por vía periférica puede causar flebitis química por alta osmolaridad."
+      },
+      {
+        "text": "Velocidad de Infusión de Glucosa de 5,5 mg/kg/minuto.",
+        "isCorrect": true,
+        "explanation": "Reemplazando en la fórmula de la VIG: VIG = (10 * 80) / 144 = 800 / 144 ≈ 5,55 mg/kg/min. Este aporte de 5,5 mg/kg/min se encuentra dentro de los rangos de inicio fisiológicos normales recomendados para la mantención de la homeostasis de la glucosa en el recién nacido de término."
+      },
+      {
+        "text": "Velocidad de Infusión de Glucosa de 3,5 mg/kg/minuto.",
+        "isCorrect": false,
+        "explanation": "Un valor de 3,5 mg/kg/min es equivalente a un aporte subfisiológico de glucosa que se sitúa por debajo de la tasa de producción de glucosa hepática basal neonatal, arriesgando hipoglicemia recurrente."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido prematuro extremo de 27 semanas de gestación, con un peso de 850 gramos, se encuentra hospitalizado en la Unidad de Cuidados Intensivos Neonatales en ventilación mecánica. Los controles de laboratorio revelan una hiperglicemia persistente de 185 mg/dL asociada a glucosuria en el examen de orina. Al analizar la patogenia y el manejo de esta condición, ¿cuál es la conducta inicial correcta y la complicación fisiopatológica que se busca prevenir?",
+    "hint": "En prematuros extremos, la hiperglicemia se asocia a la inmadurez de los receptores de insulina y a la persistencia de la producción hepática autónoma de glucosa. La elevación de la glicemia aumenta la osmolaridad sérica, lo que puede causar cambios bruscos de volumen en los vasos cerebrales inmaduros de la matriz germinal.",
+    "options": [
+      {
+        "text": "Disminuir de forma gradual el aporte de la VIG y monitorizar; se busca prevenir la deshidratación por diuresis osmótica y el riesgo de hemorragia intraventricular (HIV).",
+        "isCorrect": true,
+        "explanation": "La hiperglicemia neonatal (glicemia > 150 mg/dL) es frecuente en prematuros extremos debido a la inmadurez de la respuesta insulínica y la infusión de nutrientes. El manejo inicial consiste en reducir gradualmente el aporte de glucosa (VIG) disminuyendo la concentración del suero. Se debe vigilar estrechamente la aparición de glucosuria, ya que esta supera el umbral renal del prematuro, provocando diuresis osmótica, deshidratación grave y fluctuaciones de la osmolaridad plasmática que aumentan críticamente el riesgo de hemorragia intraventricular (HIV)."
+      },
+      {
+        "text": "Iniciar de inmediato un bolo endovenoso de insulina rápida a dosis de 1 UI/kg; se busca prevenir el desarrollo de cetoacidosis diabética neonatal.",
+        "isCorrect": false,
+        "explanation": "El inicio de insulina en bolos rápidos está proscrito en neonatología debido al altísimo riesgo de hipoglicemia refractaria grave; la insulina se usa en infusión continua muy diluida y lenta solo si la glicemia persiste > 250 mg/dL a pesar de haber reducido la VIG a niveles mínimos."
+      },
+      {
+        "text": "Aumentar el volumen de hidratación parenteral con suero fisiológico sin glucosa; se busca prevenir la necrosis tubular aguda por nefrocalcinosis.",
+        "isCorrect": false,
+        "explanation": "Aumentar bruscamente el volumen de suero fisiológico puede provocar sobrecarga de volumen diastólico e insuficiencia cardíaca, sin corregir de forma directa la causa fisiopatológica de la hiperglicemia del prematuro."
+      },
+      {
+        "text": "Suspender por completo todo tipo de aporte hídrico o endovenoso; se busca prevenir la rotura esplénica espontánea inducida por la hiperosmolaridad.",
+        "isCorrect": false,
+        "explanation": "Suspender los fluidos parenterales en un recién nacido de 850 gramos expone al paciente a una deshidratación hipernatrémica severa e inestabilidad hemodinámica letal en pocas horas."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Durante la visita médica en la Unidad de Neonatología, se analiza el caso de un recién nacido prematuro de 31 semanas que presenta una hipocalcemia confirmada en su segundo día de vida. Al clasificar este trastorno según su momento de aparición, ¿cuál es el criterio cronológico y los factores de riesgo asociados a la hipocalcemia neonatal de \"inicio precoz\"?",
+    "hint": "La hipocalcemia de inicio precoz refleja una claudicación o retraso en la respuesta compensatoria del eje paratiroideo del recién nacido ante la interrupción brusca del traspaso placentario masivo de calcio materno al momento del nacimiento.",
+    "options": [
+      {
+        "text": "Se presenta después de las dos semanas de vida, asociada de forma clásica a una hernia diafragmática congénita no operada.",
+        "isCorrect": false,
+        "explanation": "El inicio precoz se restringe al periodo transicional de los primeros tres días de vida; un trastorno que debuta después de las dos semanas es crónico o tardío y no se relaciona con la hernia de Bochdalek."
+      },
+      {
+        "text": "Se presenta después del quinto día de vida, asociada de forma clásica a la ingesta excesiva de leche de vaca no modificada o hipoparatiroidismo.",
+        "isCorrect": false,
+        "explanation": "Esta descripción corresponde a la hipocalcemia de \"inicio tardío\" (ocurre después del tercer o quinto día de vida), que se debe de forma habitual a una sobrecarga de fósforo dietético (leche de vaca), deficiencia de vitamina D o hipoparatiroidismo congénito."
+      },
+      {
+        "text": "Se presenta de forma exclusiva en las primeras 2 horas postparto, asociada de forma clásica a la administración profiláctica de vitamina K.",
+        "isCorrect": false,
+        "explanation": "Limitar el inicio precoz de la hipocalcemia a las primeras 2 horas de vida es un error cronológico, y la vitamina K intramuscular profiláctica no interfiere en la homeostasis del calcio ni en la función paratiroidea."
+      },
+      {
+        "text": "Se presenta en las primeras 72 horas de vida, asociada de forma clásica a prematurez, asfixia perinatal e hijo de madre diabética.",
+        "isCorrect": true,
+        "explanation": "La hipocalcemia neonatal de inicio precoz ocurre en las primeras 72 horas de vida. Se debe a un retraso transitorio en la secreción de paratohormona (PTH) o a una resistencia del órgano diana. Sus factores de riesgo principales son la prematurez (los depósitos de calcio se acumulan en el tercer trimestre), la asfixia perinatal (que eleva el fósforo y bloquea la PTH) y el hijo de madre diabética (por hipomagnesemia materna que altera la función de la paratiroides fetal)."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término de 7 días de vida, alimentado con fórmula láctea de vaca entera reconstituida en el hogar sin indicación médica, es llevado a urgencias por presentar temblores y rechazo alimentario. Los exámenes confirman una hipocalcemia con un Calcio total de 6,5 mg/dL y un Fósforo sérico de 9,5 mg/dL (marcadamente elevado). ¿Cuál es la explicación fisiopatológica de esta hipocalcemia de \"inicio tardío\"?",
+    "hint": "El fósforo y el calcio mantienen una estrecha relación regulada por la paratohormona y el riñón. El exceso de fósforo sérico disminuye de forma refleja los niveles de calcio plasmático libre por precipitación y suprime la activación de la Vitamina D en el riñón.",
+    "options": [
+      {
+        "text": "El exceso de lactosa presente en la fórmula artesanal estimula la excreción renal de calcio a nivel de la rama ascendente de Henle.",
+        "isCorrect": false,
+        "explanation": "La lactosa favorece y estimula la absorción intestinal fisiológica de calcio, no teniendo acción de inducir pérdidas de calcio por la vía urinaria a nivel del asa de Henle."
+      },
+      {
+        "text": "La baja concentración de proteínas de la leche de vaca reduce de forma artificial la unión de la albúmina al calcio ionizado plasmático.",
+        "isCorrect": false,
+        "explanation": "La leche de vaca contiene un exceso de proteínas (no un déficit), y este factor no explica la caída del calcio iónico libre que provoca la sintomatología neuromuscular en el recién nacido."
+      },
+      {
+        "text": "La alta concentración de fósforo en la leche de vaca entera provoca una hiperfosfatemia que excede el producto fosfocálcico, induciendo precipitación de calcio en tejidos y supresión de la síntesis de calcitriol.",
+        "isCorrect": true,
+        "explanation": "La hipocalcemia de inicio tardío se asocia al uso de fórmulas con alta relación de fósforo/calcio como la leche de vaca entera. El exceso de fósforo es absorbido en el intestino, provocando hiperfosfatemia. El fósforo sérico elevado se une al calcio libre, formando complejos de fosfato de calcio que precipitan en los tejidos blandos (disminuyendo el calcio ionizado). Además, el fósforo alto inhibe directamente a la enzima 1-alfa-hidroxilasa renal, bloqueando la activación de la vitamina D (calcitriol) y perpetuando la hipocalcemia por mala absorción enteral de calcio."
+      },
+      {
+        "text": "La presencia de anticuerpos IgG activos de origen bovino que destruyen de forma selectiva las células principales de las glándulas paratiroides.",
+        "isCorrect": false,
+        "explanation": "No existe un mecanismo autoinmune mediado por inmunoglobulinas de la leche de vaca que destruya o cause agenesia de las glándulas paratiroideas del recién nacido en el período transicional."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, de 3 días de vida, hospitalizado por asfixia perinatal, presenta una crisis convulsiva tónico-clónica generalizada activa en la Unidad de Neonatología. Los exámenes confirman una hipocalcemia severa sintomática con un Calcio iónico de 3,2 mg/dL y un intervalo QTc prolongado de 0,52 segundos en el monitor. ¿Cuál es el tratamiento de elección inmediato para el control de esta crisis metabólica?",
+    "hint": "El tratamiento de la hipocalcemia severa sintomática requiere aportar calcio por vía endovenosa directa de forma controlada. La infusión rápida de calcio puede causar bradicardia severa, asistolia o necrosis tisular masiva si existe extravasación.",
+    "options": [
+      {
+        "text": "Iniciar una infusión continua de fósforo endovenoso a razón de 50 mg/kg/día para forzar el balance iónico intracelular.",
+        "isCorrect": false,
+        "explanation": "Administrar fósforo endovenoso a un paciente con hipocalcemia severa está estrictamente contraindicado, ya que la hiperfosfatemia resultante empeorará de forma crítica la hipocalcemia por precipitación mineral."
+      },
+      {
+        "text": "Administrar una dosis masiva de Vitamina D activa (calcitriol) por vía intramuscular profunda y suspender la monitorización.",
+        "isCorrect": false,
+        "explanation": "El calcitriol oral o intramuscular no actúa de forma inmediata para detener una crisis convulsiva metabólica en curso, reservándose para el tratamiento de mantención crónico posterior."
+      },
+      {
+        "text": "Administrar una infusión endovenosa lenta de Gluconato de Calcio al 10% en dosis de 1 a 2 mL/kg (100 a 200 mg/kg), diluido en partes iguales con suero glucosado, a pasar en 10 a 30 minutos bajo monitorización de la frecuencia cardíaca.",
+        "isCorrect": true,
+        "explanation": "La hipocalcemia sintomática (convulsiones, tetania, prolongación del QT) se trata con la administración de Gluconato de Calcio al 10% en dosis de 1 a 2 mL/kg (100-200 mg/kg) por vía endovenosa. Se debe diluir 1:1 con agua destilada o suero glucosado y pasarse lentamente en un periodo de 10 a 30 minutos. El procedimiento exige obligatoriamente monitorización electrocardiográfica continua para suspender la infusión si se presenta bradicardia (< 100 lpm) o arritmias por toxicidad de calcio."
+      },
+      {
+        "text": "Administrar un bolo endovenoso de Cloruro de Sodio al 3% en dosis de 3 a 5 mL/kg de forma rápida.",
+        "isCorrect": false,
+        "explanation": "El cloruro de sodio al 3% es el tratamiento de primera línea para crisis convulsivas secundarias a hiponatremia severa sintomática, no teniendo utilidad en la corrección de la hipocalcemia."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Durante la administración de Gluconato de Calcio al 10% a través de una vía venosa periférica en el dorso de la mano de un recién nacido, el interno de enfermería nota eritema, edema local marcado y blanqueamiento de la piel circundante al sitio de punción, lo que confirma la extravasación de la solución. ¿Cuál es el riesgo de esta complicación y la medida correctiva inicial inmediata?",
+    "hint": "El gluconato de calcio es una solución altamente osmótica y cáustica para los tejidos blandos. La extravasación daña las células subcutáneas, provocando necrosis celular química severa y el depósito de cristales de calcio en el tejido (calcificación distrófica).",
+    "options": [
+      {
+        "text": "Riesgo de trombosis venosa profunda mediastínica; se debe elevar la extremidad y administrar un bolo de heparina sódica de bajo peso molecular.",
+        "isCorrect": false,
+        "explanation": "La extravasación en el dorso de la mano provoca un daño de vecindad local (necrosis de partes blandas), no existiendo riesgo directo de trombosis venosa profunda del mediastino por este evento."
+      },
+      {
+        "text": "Riesgo de necrosis tisular química y calcificación subcutánea; se debe detener la infusión de inmediato, aspirar el remanente de calcio a través del catéter y evitar la aplicación de calor local directo.",
+        "isCorrect": true,
+        "explanation": "La extravasación de gluconato de calcio es una complicación grave en neonatología que puede provocar celulitis química, necrosis cutánea profunda y calcificación de los tejidos subcutáneos. Ante la sospecha, la primera medida es detener inmediatamente la infusión, aspirar de forma sutil la mayor cantidad de líquido a través del mismo catéter antes de retirarlo, y elevar la extremidad. No se debe aplicar calor local, ya que este exacerba la inflamación y la necrosis tisular."
+      },
+      {
+        "text": "No presenta riesgos clínicos significativos; se debe aplicar vaselina líquida estéril y continuar la administración por la misma vía periférica.",
+        "isCorrect": false,
+        "explanation": "La extravasación de calcio es una emergencia dermatológica y quirúrgica neonatal que puede requerir debridamiento, infiltración con hialuronidasa o lavado con solución salina, no pudiendo desestimarse como inocua."
+      },
+      {
+        "text": "Riesgo de infección bacteriana por bacterias anaerobias; se debe aplicar povidona yodada al 10% de forma oclusiva y mantener la infusión a menor goteo.",
+        "isCorrect": false,
+        "explanation": "Aplicar povidona yodada oclusiva está contraindicado debido al riesgo de absorción masiva de yodo que deprime la tiroides neonatal, y mantener la infusión por la misma vía extravasada destruirá irreversiblemente el tejido de la mano."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "De acuerdo con la norma técnica del Ministerio de Salud de Chile para la pesquisa de enfermedades metabólicas congénitas, ¿cuál es el momento cronológico óptimo y las condiciones requeridas para la recolección de la muestra de sangre en papel filtro para el screening de Fenilquetonuria (PKU) e Hipotiroidismo Congénito en el recién nacido?",
+    "hint": "El tamizaje busca medir la TSH (para hipotiroidismo) y la fenilalanina (para PKU). Inmediatamente al nacer ocurre un pico fisiológico de TSH que daría falsos positivos. Para la PKU se requiere que el niño haya ingerido proteínas (leche) para acumular fenilalanina detectable si existe el déficit enzimático.",
+    "options": [
+      {
+        "text": "Tomar la muestra de forma exclusiva si el recién nacido presenta letargia o ictericia prolongada documentada por el pediatra al alta.",
+        "isCorrect": false,
+        "explanation": "El screening neonatal es un programa de tamizaje universal y gratuito para todos los recién nacidos en Chile, aplicándose de forma sistemática a niños sanos asintomáticos, no limitándose a pacientes con clínica ya establecida."
+      },
+      {
+        "text": "Tomar la muestra entre las 40 horas y las 72 horas de vida (mínimo 40 horas de alimentación láctea efectiva) para asegurar un metabolismo de proteínas estable y evitar el pico fisiológico transitorio de TSH.",
+        "isCorrect": true,
+        "explanation": "La guía nacional chilena de screening neonatal estipula que la muestra en papel filtro debe tomarse entre las 40 y 72 horas de vida. Se requiere un mínimo de 40 horas de alimentación láctea efectiva para que el neonato con PKU haya ingerido suficiente fenilalanina como para elevar sus niveles séricos a rangos detectables. Además, tomarla después de las 40 horas evita el pico neonatal fisiológico de TSH que ocurre en las primeras 24 horas de vida, reduciendo drásticamente los falsos positivos para hipotiroidismo."
+      },
+      {
+        "text": "Tomar la muestra de cordón umbilical inmediatamente al nacer en el pabellón de partos de forma sistemática y universal, antes del apego directo de 30 minutos.",
+        "isCorrect": false,
+        "explanation": "Tomar la muestra de cordón umbilical daría resultados falsos positivos masivos de TSH debido al pico hormonal transitorio del parto, y la fenilalanina estaría en rangos normales reflejando el aclaramiento materno transplacentario de la gestación."
+      },
+      {
+        "text": "Tomar la muestra al cumplir el primer mes de vida en el control de niño sano de APS para permitir la maduración de las vellosidades intestinales.",
+        "isCorrect": false,
+        "explanation": "Retrasar la toma de la muestra al mes de vida es inaceptable, ya que el diagnóstico y tratamiento del hipotiroidismo y de la PKU deben iniciarse antes de los 15-21 días de vida para prevenir el daño cerebral y cognitivo irreversible."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Usted recibe el resultado del tamizaje metabólico neonatal en papel filtro de un recién nacido de 5 días de vida, el cual reporta un valor de TSH de 42 uUI/mL (marcadamente elevado). De acuerdo con la norma técnica de Chile, ¿cuál es la conducta clínica mandatoria ante este resultado de sospecha?",
+    "hint": "En el hipotiroidismo congénito, cada día sin hormona tiroidea daña el neurodesarrollo de forma irreversible. Si el valor de tamizaje es marcadamente patológico (TSH > 40 uUI/mL), el tratamiento con levotiroxina debe iniciarse de forma inmediata tras tomar la muestra venosa de confirmación, para no dilatar el tiempo de inicio de la terapia sustitutiva.",
+    "options": [
+      {
+        "text": "Citar al lactante para una nueva toma de muestra en papel filtro en un plazo de 30 días para evaluar la variación de la tendencia hormonal.",
+        "isCorrect": false,
+        "explanation": "Esperar 30 días para repetir la prueba de papel filtro retrasa de forma negligente el diagnóstico de hipotiroidismo, condenando al lactante a sufrir secuelas neurológicas permanentes (cretinismo bocio)."
+      },
+      {
+        "text": "Tranquilizar a los padres explicando que se trata de un falso positivo común inducido por el tabaquismo materno pasivo durante el tercer trimestre.",
+        "isCorrect": false,
+        "explanation": "Un valor de TSH de 42 uUI/mL en papel filtro nunca es una variante normal ni es inducido por tabaquismo materno, debiendo manejarse de forma estricta como una emergencia endocrinológica neonatal de alta sospecha."
+      },
+      {
+        "text": "Solicitar de urgencia una muestra de sangre venosa para confirmar el diagnóstico con niveles de TSH y Tiroxina libre (T4L) plasmáticas, e iniciar de inmediato el tratamiento con Levotiroxina oral sin esperar los resultados si el valor de TSH del filtro es mayor a 40.",
+        "isCorrect": true,
+        "explanation": "Ante un screening alterado con TSH de filtro > 40 uUI/mL, la sospecha es extrema. Se debe tomar una muestra venosa inmediata para confirmar con TSH y T4L, pero el tratamiento con Levotiroxina (10-15 mcg/kg/día por vía oral) debe iniciarse de inmediato en el momento de la toma venosa, sin esperar el resultado del laboratorio. El objetivo es asegurar el inicio de la terapia antes de los 14 a 21 días de vida para prevenir el retraso mental y del crecimiento irreversible."
+      },
+      {
+        "text": "Derivar al recién nacido de forma directa a cirugía infantil para la extirpación quirúrgica de un probable bocio tiroideo obstructivo neonatal.",
+        "isCorrect": false,
+        "explanation": "La extirpación quirúrgica no está indicada en el hipotiroidismo congénito (el cual suele deberse a disgenesia tiroidea o ectopia con ausencia o hipoplasia glandular), requiriendo tratamiento médico sustitutivo de por vida, no cirugías de bocio."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "¿Cuál es la dosis inicial recomendada y la vía de administración de la Levotiroxina (L-T4) para el tratamiento de confirmación del Hipotiroidismo Congénito en el recién nacido, y cuál es la meta de tiempo recomendada para el inicio terapéutico seguro?",
+    "hint": "En el hipotiroidismo neonatal, la dosis de levotiroxina es proporcionalmente mayor que la del adulto debido a la alta tasa de metabolismo basal y crecimiento cerebral acelerado de los primeros meses de vida, requiriendo un aporte oral rápido y seguro.",
+    "options": [
+      {
+        "text": "Dosis intravenosa de 50 mcg/kg/día; el inicio debe realizarse de forma obligatoria en la sala de partos en las primeras dos horas de vida.",
+        "isCorrect": false,
+        "explanation": "La vía endovenosa no es la de elección ni la recomendada para el manejo ambulatorio del hipotiroidismo, y una dosis de 50 mcg/kg/día endovenosa es masiva e induciría tirotoxicosis aguda grave con arritmias cardíacas severas."
+      },
+      {
+        "text": "Dosis intramuscular de 100 mcg/kg; administrada en dosis única mensual de forma universal durante todo el primer año de vida del menor.",
+        "isCorrect": false,
+        "explanation": "La levotiroxina no se administra por vía intramuscular ni en dosis mensuales únicas debido a su vida media y la necesidad de mantener un nivel plasmático constante y estable de hormonas tiroideas para el cerebro."
+      },
+      {
+        "text": "Dosis oral de 2 a 3 mcg/kg/día; el inicio debe programarse de forma electiva una vez que el lactante cumpla los tres meses de vida en APS.",
+        "isCorrect": false,
+        "explanation": "Una dosis de 2 a 3 mcg/kg/día es la recomendada para adultos o niños mayores, pero es insuficiente para cubrir la alta demanda metabólica del recién nacido, y postergar el inicio a los tres meses de vida asocia retraso mental irreversible establecido."
+      },
+      {
+        "text": "Dosis oral de 10 a 15 mcg/kg/día; el inicio debe realizarse idealmente antes de los 14 a 21 días de vida para asegurar un desarrollo cerebral normal.",
+        "isCorrect": true,
+        "explanation": "Para asegurar la eutiroidización rápida y el desarrollo neurológico normal, el tratamiento de elección es la Levotiroxina (L-T4) por vía oral a dosis iniciales elevadas de 10 a 15 mcg/kg/día (administrada aplastada en una cucharita con unas gotas de agua o leche, nunca mezclada en la mamadera completa). La meta de inicio terapéutico seguro es antes de los 14 a 21 de vida del recién nacido."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, hijo de madre con diagnóstico de Diabetes Gestacional mal controlada, presenta a las 3 horas de vida un cuadro de temblores finos en las extremidades. Al evaluar el hemoglucotest se registra un valor de 22 mg/dL. El neonato se alimenta activamente al pecho. ¿Cuál es el mecanismo fisiopatológico principal que explica el desarrollo de la hipoglicemia en el hijo de madre diabética (HMD)?",
+    "hint": "El páncreas del feto responde al exceso de glucosa que atraviesa la placenta desde la madre diabética produciendo niveles elevados de insulina. Al nacer, el aporte masivo de glucosa se interrumpe de golpe, pero el páncreas hiperplásico sigue secretando insulina en exceso.",
+    "options": [
+      {
+        "text": "Hiperinsulinismo fetal secundario provocado por la exposición continua a la hiperglicemia materna intrauterina, que causa un aclaramiento rápido de la glucosa tras el corte del cordón umbilical.",
+        "isCorrect": true,
+        "explanation": "El paso continuo de glucosa materna por la placenta estimula al páncreas fetal, provocando hiperplasia de las células beta e hiperinsulinismo fetal. Al nacer y cortarse el cordón, cesa el aporte masivo de glucosa materna de forma brusca, pero persisten niveles elevados de insulina en el recién nacido. Esta insulina promueve la captación masiva de glucosa por los tejidos periféricos e inhibe la lipólisis y la neoglucogénesis, gatillando una caída rápida de la glicemia en las primeras horas."
+      },
+      {
+        "text": "Insuficiencia suprarrenal transitoria con supresión de la secreción de cortisol fetal por influjo hormonal materno androgénico.",
+        "isCorrect": false,
+        "explanation": "El cortisol se encuentra normal o elevado ante el estrés del parto y no existe una supresión suprarrenal androgénica que sea la causa primaria de la hipoglicemia transicional del hijo de madre diabética."
+      },
+      {
+        "text": "Agotamiento absoluto de los depósitos hepáticos de glucógeno debido a un cortocircuito placentario restrictivo durante el expulsivo del parto.",
+        "isCorrect": false,
+        "explanation": "El HMD suele ser macrosómico o adecuado y tiene depósitos de glucógeno hepático y grasa corporal normales o elevados; el problema no es la falta de depósitos, sino la incapacidad de movilizarlos debido al bloqueo metabólico que ejerce el exceso de insulina."
+      },
+      {
+        "text": "Mala absorción intestinal congénita de disacáridos lácteos provocada por la hiperviscosidad sanguínea y poliglobulia secundaria.",
+        "isCorrect": false,
+        "explanation": "El HMD tiene una función intestinal normal y la poliglobulia (que puede ocurrir) exacerba el consumo de glucosa periférico, pero el mecanismo patogénico central de la hipoglicemia es el hiperinsulinismo fetal de base."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Durante el examen físico de un recién nacido pequeño para la edad gestacional (PEG) de 36 semanas, el interno nota temblores y succión débil a las 4 horas de vida. El control de glicemia es de 31 mg/dL. ¿Cuál es la causa fisiopatológica de la hipoglicemia en el recién nacido con restricción del crecimiento intrauterino (RCIU) o PEG en comparación con el hijo de madre diabética?",
+    "hint": "A diferencia del hijo de madre diabética (que tiene reservas pero no las puede usar por exceso de insulina), el recién nacido PEG o con RCIU sufrió una desnutrición intrauterina crónica, por lo que nace con depósitos mínimos de energía de reserva.",
+    "options": [
+      {
+        "text": "Pérdida masiva de glucosa por vía urinaria debido a un defecto transitorio del cotransportador SGLT2 tubular renal proximal.",
+        "isCorrect": false,
+        "explanation": "El riñón del recién nacido PEG retiene adecuadamente la glucosa y no existe un defecto tubular de transporte de SGLT2 que cause glucosuria y pérdida de azúcar urinaria como causa de su hipoglicemia."
+      },
+      {
+        "text": "Hiperplasia de las células beta del páncreas fetal inducida por el aumento del flujo sanguíneo útero-placentario en el tercer trimestre.",
+        "isCorrect": false,
+        "explanation": "El PEG no presenta hiperplasia de células beta del páncreas ni hiperinsulinismo primario; al contrario, sus niveles de insulina suelen ser fisiológicamente bajos en respuesta a la desnutrición intrauterina crónica."
+      },
+      {
+        "text": "Insuficiencia de los depósitos de grasa corporal y glucógeno hepático acumulados de forma subóptima durante la gestación, asociada a inmadurez de las enzimas de gluconogénesis.",
+        "isCorrect": true,
+        "explanation": "Los recién nacidos PEG o con RCIU sufren de hipoglicemia debido a una causa de \"depósitos disminuidos\". El retraso o insuficiencia placentaria durante el tercer trimestre impide el depósito adecuado de glucógeno en el hígado y de grasa parda corporal. Al nacer, el neonato agota rápidamente sus escasas reservas, y la inmadurez de las enzimas hepáticas para realizar gluconeogénesis exacerba la caída de la glicemia, requiriendo monitorización y aportes precoces."
+      },
+      {
+        "text": "Supresión del eje tiroideo fetal provocado por la acumulación masiva de hormonas tiroideas maternas transplacentarias.",
+        "isCorrect": false,
+        "explanation": "El hipotiroidismo puede asociar hipoglicemia, pero el eje tiroideo del prematuro o PEG no se encuentra suprimido de forma masiva por hormonas maternas transplacentarias como causa primaria de la baja de glucosa."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término presenta una hipocalcemia persistente que resulta refractaria a la administración de dos dosis sucesivas de Gluconato de Calcio al 10% por vía endovenosa. Los exámenes revelan un Calcio iónico bajo de 3,0 mg/dL y un Magnesio sérico de 1,1 mg/dL (marcadamente disminuido). ¿Cuál es la explicación de esta refractariedad y cuál es el tratamiento indicado?",
+    "hint": "El magnesio es un cofactor indispensable para el funcionamiento de la glándula paratiroides. Su deficiencia severa bloquea mecánicamente tanto la secreción de PTH como la respuesta de los receptores óseos y renales a esta hormona.",
+    "options": [
+      {
+        "text": "Se trata de un error de laboratorio y se debe suspender toda terapia hídrica, citando a control electivo en APS en un plazo de dos meses.",
+        "isCorrect": false,
+        "explanation": "Ignorar la refractariedad y suspender el aporte de iones en un neonato con hipomagnesemia e hipocalcemia severas expone al paciente a sufrir crisis convulsivas intratables, arritmias ventriculares y muerte."
+      },
+      {
+        "text": "La hipomagnesemia aumenta la filtración glomerular de calcio de forma transitoria; se debe indicar el uso de furosemida endovenosa a alta dosis.",
+        "isCorrect": false,
+        "explanation": "La furosemida es un diurético de asa que promueve la excreción urinaria de calcio y magnesio, por lo que su administración agravaría de forma grave y potencialmente mortal tanto la hipocalcemia como la hipomagnesemia de base."
+      },
+      {
+        "text": "El magnesio bajo destruye los depósitos óseos de calcio de forma irreversible; se debe derivar de urgencia a traumatología infantil para tracción tibial.",
+        "isCorrect": false,
+        "explanation": "El magnesio bajo no causa destrucción ósea estructural que requiera tracción por traumatólogo, siendo un desbalance metabólico químico reversible de la conducción celular de la paratiroides."
+      },
+      {
+        "text": "La hipomagnesemia severa altera la secreción de paratohormona (PTH) e induce resistencia periférica a su acción; se debe corregir la hipomagnesemia administrando Sulfato de Magnesio al 10% por vía intravenosa lenta antes de insistir con el calcio.",
+        "isCorrect": true,
+        "explanation": "El magnesio es necesario para la liberación de paratohormona (PTH) por la glándula paratiroides y para la respuesta periférica a esta. La hipomagnesemia severa (Mg < 1,2-1,5 mg/dL) causa un estado de hipoparatiroidismo funcional y resistencia ósea a la PTH. Por lo tanto, la hipocalcemia asociada es refractaria al tratamiento con calcio aislado si no se corrige primero la hipomagnesemia de base mediante la administración de Sulfato de Magnesio al 10% (50 mg/kg o 0,2-0,5 mL/kg EV lento en 30-60 minutos)."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "En el contexto del screening metabólico nacional en Chile, ¿cuál de las siguientes anomalías genéticas del metabolismo de los aminoácidos se pesquisa mediante la medición cuantitativa de fenilalanina en la muestra de papel filtro, y qué consecuencias neurológicas previene su detección y tratamiento dietoterapéutico precoz?",
+    "hint": "El déficit de la enzima fenilalanina hidroxilasa impide transformar la fenilalanina en tirosina. La acumulación de este aminoácido y sus metabolitos alternos en el cerebro en desarrollo del lactante ejerce una potente acción neurotóxica mielinizante destructiva.",
+    "options": [
+      {
+        "text": "Tirosinemia tipo I infantil; previene de forma eficaz el desarrollo de insuficiencia hepática aguda y raquitismo hipofosfatémico terminal.",
+        "isCorrect": false,
+        "explanation": "Aunque la tirosinemia es grave, no se pesquisa de forma universal mediante el examen de fenilalanina del programa tradicional chileno, teniendo una patogenia hepatorrenal diferente."
+      },
+      {
+        "text": "Alcaptonuria hereditaria; previene de forma eficaz la coloración oscura de la orina y la artrosis de grandes articulaciones al año de vida.",
+        "isCorrect": false,
+        "explanation": "La alcaptonuria es un trastorno del ácido homogentísico de curso crónico tardío en el adulto, no siendo la patología de tamizaje universal del programa infantil del recién nacido del MINSAL."
+      },
+      {
+        "text": "Homocistinuria congénita; previene de forma eficaz la luxación del cristalino y el riesgo de accidentes vasculares trombóticos.",
+        "isCorrect": false,
+        "explanation": "La homocistinuria es un defecto del metabolismo de la metionina, no relacionándose con la acumulación de fenilalanina evaluada en las tarjetas de papel filtro del tamizaje neonatal nacional."
+      },
+      {
+        "text": "Fenilquetonuria (PKU); previene de forma eficaz el desarrollo de retraso mental progresivo severo, microcefalia y trastornos motores.",
+        "isCorrect": true,
+        "explanation": "La Fenilquetonuria (PKU) es un trastorno autosómico recesivo del metabolismo de los aminoácidos pesquisado en el screening nacional de Chile. El déficit de la enzima fenilalanina hidroxilasa provoca la acumulación de fenilalanina en el organismo. Si no se trata precozmente mediante una dieta estricta restringida en fenilalanina (fórmula libre de fenilalanina), se produce daño neurológico progresivo grave caracterizado por retraso mental severo e irreversible, microcefalia y convulsiones."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, de 5 días de vida, sin antecedentes mórbidos de importancia y nacido de un embarazo normal controlado, es llevado de urgencia por presentar rechazo alimentario, vómitos explosivos abundantes, letargia progresiva, hipotonía y un olor corporal muy dulce y característico que asocia a jarabe de arce. Los exámenes revelan una acidosis metabólica severa con un aumento de cetonas en orina. ¿Cuál es el diagnóstico de sospecha de este error congénito del metabolismo?",
+    "hint": "El olor dulzón característico de la orina y del cerumen del conducto auditivo, que imita al jarabe de arce o azúcar quemada, asociado a un deterioro neurológico grave precoz tras el inicio de la alimentación láctea, es patognomónico del déficit de descarboxilación de aminoácidos de cadena ramificada.",
+    "options": [
+      {
+        "text": "Defecto de la beta-oxidación de ácidos grasos de cadena larga.",
+        "isCorrect": false,
+        "explanation": "Los defectos de beta-oxidación causan hipoglicemia hipocetósica severa ante el ayuno con compromiso muscular y hepático, cuadro bioquímico diferente al de la leucinosis cetósica clásica descrita."
+      },
+      {
+        "text": "Glucogenosis tipo I (Enfermedad de Von Gierke) de debut tardío.",
+        "isCorrect": false,
+        "explanation": "La glucogenosis tipo I cursa con hepatomegalia masiva, hipoglicemia severa en ayuno y acidosis láctica, manifestándose de forma más tardía a los 3-4 meses y no con el patrón de leucinosis aguda."
+      },
+      {
+        "text": "Acidemia metilmalónica por déficit de cobalamina neonatal.",
+        "isCorrect": false,
+        "explanation": "La acidemia metilmalónica causa un cuadro de gran toxicidad y acidosis metabólica similar, pero no se asocia de forma característica al olor a azúcar quemada/jarabe de arce en los fluidos del lactante."
+      },
+      {
+        "text": "Enfermedad de la orina con olor a jarabe de arce (leucinosis).",
+        "isCorrect": true,
+        "explanation": "La Enfermedad del Jarabe de Arce (o Leucinosis) es un error congénito del metabolismo de herencia autosómica recesiva, provocado por el déficit de la enzima deshidrogenasa de alfa-cetoácidos de cadena ramificada, lo que acumula los aminoácidos Leucina, Isoleucina y Valina. Cursa clínicamente en la primera semana con rechazo alimentario, vómitos, letargia progresiva, movimientos coreicos extrapiramidales y el olor característico de la orina a jarabe de arce o azúcar quemada. Exige manejo médico y dietoterapéutico de alta complejidad para evitar el edema cerebral mortal."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Se sospecha la presencia de un Error Congénito del Metabolismo (ECM) de tipo intoxicación en un recién nacido de término de 4 días de vida que presenta un deterioro neurológico progresivo rápido, letargia y convulsiones refractarias tras el inicio de la lactancia materna. Los exámenes generales revelan una alcalosis respiratoria marcada asociada a un nivel de Amonio plasmático de 650 uMol/L (marcadamente elevado) con una brecha aniónica (anion gap) y glicemia normales. ¿Cuál de los siguientes grupos patológicos es la sospecha diagnóstica prioritaria?",
+    "hint": "La combinación de hiperammonemia severa (> 150-200 uMol/L en el recién nacido) asociada a alcalosis respiratoria (provocada por la estimulación directa del centro respiratorio central por el amonio) y sin acidosis metabólica (anion gap normal) es el sello de los defectos en la depuración del nitrógeno a través de la vía de la urea.",
+    "options": [
+      {
+        "text": "Glucogenosis neonatal hepática por deficiencia de glucosa-6-fosfatasa.",
+        "isCorrect": false,
+        "explanation": "La glucogenosis neonatal causa hipoglicemia sintomática y acidosis láctica severa en ayuno, sin cursar de forma característica con hiperammonemia extrema de 650 uMol/L asociada a alcalosis respiratoria en el cuarto día."
+      },
+      {
+        "text": "Acidemia orgánica de cadena ramificada (como la acidemia propiónica).",
+        "isCorrect": false,
+        "explanation": "Las acidemias orgánicas (como la propiónica o metilmalónica) cursan típicamente con hiperammonemia moderada, pero asociada de forma obligatoria a una acidosis metabólica severa con brecha aniónica (anion gap) marcadamente elevada debido a la acumulación de ácidos orgánicos tóxicos."
+      },
+      {
+        "text": "Trastorno del ciclo de la urea (como el déficit de ornitina transcarbamilasa).",
+        "isCorrect": true,
+        "explanation": "Los trastornos del ciclo de la urea (ej: déficit de ornitina transcarbamilasa, OTC) se caracterizan bioquímicamente por una hiperammonemia extrema y aislada. El amonio elevado actúa como un estimulante directo del centro respiratorio en el tronco encefálico, provocando hiperventilación central que se manifiesta en los gases arteriales como alcalosis respiratoria pura. El anion gap y el pH metabólico son inicialmente normales, a diferencia de las acidemias orgánicas que cursan con acidosis metabólica severa con anion gap elevado."
+      },
+      {
+        "text": "Defecto de la fosforilación oxidativa mitocondrial de cadena respiratoria alta.",
+        "isCorrect": false,
+        "explanation": "Los defectos mitocondriales cursan con acidosis láctica extrema de curso refractario con disfunción multiorgánica progresiva de mal pronóstico, sin presentarse con alcalosis respiratoria e hiperammonemia pura aislada."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término presenta al nacer en el examen físico un área de catarata nuclear bilateral simétrica discreta, ictericia prolongada de predominio biliar directo, hepatomegalia moderada firme y episodios de hipoglicemia en sus primeros días. El coprocultivo resulta positivo para Escherichia coli. Se sospecha una Galactosemia Congénita. ¿Cuál es el tratamiento de primera línea que se debe indicar de forma prioritaria para frenar la toxicidad celular y cuál es la contraindicación de oro respecto a la lactancia?",
+    "hint": "En la galactosemia clásica (déficit de GALT), la galactosa proveniente de la digestión de la lactosa (azúcar de la leche materna) se acumula en forma de metabolitos altamente tóxicos para el hígado, el cerebro y el cristalino del recién nacido. El cese de la ingesta de lactosa y galactosa es una medida de salvataje que debe ser inmediata.",
+    "options": [
+      {
+        "text": "Se indica la administración profiláctica de neomicina oral diaria para desinfectar el colon de cepas de enterobacterias mutadas galactosa-positivas.",
+        "isCorrect": false,
+        "explanation": "La sepsis por E. coli se maneja con antibióticos sistémicos endovenosos de amplio espectro, y el uso de neomicina oral no detiene la acumulación metabólica celular de la galactosa en el hígado."
+      },
+      {
+        "text": "Se debe continuar con la lactancia materna exclusiva a libre demanda para aportar las inmunoglobulinas protectoras contra la sepsis por E. coli biliar.",
+        "isCorrect": false,
+        "explanation": "Mantener la lactancia materna es una conducta catastrófica en la galactosemia, ya que la leche humana contiene grandes cantidades de lactosa, lo que exacerbará el daño hepático y neurológico del neonato, precipitando la muerte."
+      },
+      {
+        "text": "Se debe suspender de forma definitiva e inmediata la lactancia materna (contraindicación absoluta) e iniciar alimentación exclusiva con fórmulas libres de lactosa (fórmula de soya), para evitar la acumulación de galactosa-1-fosfato.",
+        "isCorrect": true,
+        "explanation": "La Galactosemia es un error congénito del metabolismo provocado por el déficit de la enzima galactosa-1-fosfato uridiltransferasa (GALT). Al ingerir leche (humana o fórmula estándar, ricas en lactosa que se hidroliza a glucosa y galactosa), la galactosa no puede metabolizarse y acumula galactosa-1-fosfato, altamente tóxica para el parénquima hepático (cirrosis), cerebro (retraso mental) y cristalino (cataratas). Además, altera la función bactericida del leucocito, lo que predispone de forma clásica a sepsis fulminante por E. coli. El tratamiento de urgencia es la suspensión absoluta de la lactancia materna y el uso de fórmulas libres de lactosa y galactosa (a base de aislado proteico de soya)."
+      },
+      {
+        "text": "Se debe realizar una extirpación quirúrgica del cristalino en las primeras 24 horas y mantener la alimentación mixta con Leche Purita Fortificada.",
+        "isCorrect": false,
+        "explanation": "La cirugía de cataratas es diferida si se requiere, pero la primera prioridad es metabólica sistémica para frenar la toxicidad biliar, y la Leche Purita contiene lactosa, por lo que está contraindicada."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Durante el control en la Unidad de Neonatología del Hospital Clínico La Serena, se evalúa a un recién nacido prematuro de 34 semanas que presenta temblores finos en las extremidades. Al realizar el hemoglucotest de tamizaje se registra una glicemia de 35 mg/dL. El niño succiona débilmente pero está reactivo. De acuerdo con las guías locales, ¿cuál de los siguientes es un factor de riesgo biológico de primer orden para presentar hipoglicemia neonatal que obliga a realizar un tamizaje preventivo rutinario en la maternidad?",
+    "hint": "El tamizaje de glicemia no se realiza de forma universal a todos los recién nacidos sanos de término, sino que se restringe de forma sistemática a aquellos grupos que por su inmadurez, bajo peso o exceso ponderal tienen riesgo de agotar sus depósitos o presentar hiperinsulinismo.",
+    "options": [
+      {
+        "text": "Recién nacidos hijos de madres primigestas que recibieron suplementación de ácido fólico en el primer trimestre.",
+        "isCorrect": false,
+        "explanation": "El antecedente de primiparidad materna y la ingesta profiláctica correcta de ácido fólico en el embarazo previenen defectos del tubo neural pero no condicionan ni aumentan el riesgo de hipoglicemia en el recién nacido."
+      },
+      {
+        "text": "Recién nacidos pequeños para la edad gestacional (PEG), grandes para la edad gestacional (GEG), hijos de madre diabética (HMD) y prematuros menores de 37 semanas.",
+        "isCorrect": true,
+        "explanation": "Los protocolos de tamizaje de glicemia en maternidades (Chile) exigen monitorizar activamente mediante hemoglucotest en las primeras horas de vida a los siguientes grupos de riesgo: recién nacidos prematuros (< 37 semanas), pequeños para la edad gestacional (PEG), grandes para la edad gestacional (GEG o macrosómicos), hijos de madre diabética (pregestacional o gestacional) y aquellos con historia de asfixia perinatal o hipotermia severa, por el alto riesgo de hipoglicemia asintomática."
+      },
+      {
+        "text": "Recién nacidos nacidos por parto vaginal en presentación de vértice con APGAR de 9 al primer minuto.",
+        "isCorrect": false,
+        "explanation": "Los recién nacidos de término nacidos por parto normal, con APGAR normal y de peso adecuado no constituyen un grupo de riesgo para hipoglicemia transicional de urgencia que amerite tamizaje rutinario de glicemia."
+      },
+      {
+        "text": "Recién nacidos con ictericia leve de cara o que presentan mancha mongólica lumbosacra al nacer.",
+        "isCorrect": false,
+        "explanation": "La ictericia leve transicional y la mancha mongólica son hallazgos semiológicos normales comunes de la transición neonatal que no alteran la homeostasis de la glucosa ni imponen riesgos de hipoglicemia."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Usted controla en control sano de los 15 días a un recién nacido de término cuyo tamizaje neonatal para PKU y TSH fue tomado correctamente a las 44 horas de vida. El resultado del laboratorio ministerial reporta una TSH de confirmación venosa de 24 uUI/mL (moderadamente elevada) con una Tiroxina libre (T4L) de 0,6 ng/dL (disminuida). Se confirma el diagnóstico de Hipotiroidismo Congénito primario permanente. ¿Cuál es la etiología anatómica del desarrollo de la glándula tiroides más frecuente responsable de esta condición en Chile?",
+    "hint": "En la inmensa mayoría de los casos de hipotiroidismo congénito detectados por tamizaje, el defecto no es químico ni de síntesis hormonal, sino una falla embrionaria de la migración o del desarrollo anatómico de la propia glándula.",
+    "options": [
+      {
+        "text": "Dishormonogénesis tiroidea congénita, caracterizada por un defecto autosómico recesivo en la síntesis de tiroglobulina.",
+        "isCorrect": false,
+        "explanation": "La dishormonogénesis tiroidea (defectos enzimáticos en la biosíntesis de hormonas tiroideas como en la peroxidasa o tiroglobulina) es menos común, representando solo el 10-15% de los casos, y cursa con bocio tiroideo familiar de herencia recesiva."
+      },
+      {
+        "text": "Disgenesia tiroidea, caracterizada predominantemente por ectopia tiroidea o agenesia glandular de herencia esporádica.",
+        "isCorrect": true,
+        "explanation": "La disgenesia tiroidea (anomalías del desarrollo de la glándula tiroides que incluyen agenesia, hipoplasia o ectopia tiroidea, siendo la tiroides ectópica la más común, localizada típicamente en la base de la lengua) representa el 85% a 90% de todas las causas de hipotiroidismo congénito permanente en Chile y el mundo. Es de carácter predominantemente esporádico y no hereditario recurrente."
+      },
+      {
+        "text": "Tiroiditis autoinmune neonatal transitoria por traspaso pasivo de anticuerpos bloqueadores del receptor de TSH de la madre.",
+        "isCorrect": false,
+        "explanation": "La tiroiditis neonatal por anticuerpos maternos es una causa de hipotiroidismo transitorio que resuelve espontáneamente en pocas semanas a medida que los anticuerpos IgG de la madre se depuran de la circulación del recién nacido."
+      },
+      {
+        "text": "Bocio endémico por deficiencia ambiental masiva de yodo en la dieta alimentaria de la zona central de Chile.",
+        "isCorrect": false,
+        "explanation": "El bocio endémico por deficiencia de yodo ha sido prácticamente erradicado en Chile gracias a la política de yodación universal obligatoria de la sal de mesa para consumo humano establecida por ley."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, de 4 días de vida, es hospitalizado en la Unidad de Neonatología por sospecha de un Error Congénito del Metabolismo debido a rechazo alimentario y letargia. Al evaluar el perfil metabólico de urgencia, usted busca determinar si existe sospecha de una acidemia orgánica. ¿Cuál es el desbalance ácido-base clásico que caracteriza a las acidemias orgánicas en fase de descompensación aguda?",
+    "hint": "El acúmulo de ácidos orgánicos tóxicos (metilmalónico, propiónico, isovalérico) en la sangre introduce aniones no medidos, modificando la diferencia entre los cationes y aniones principales de forma drástica.",
+    "options": [
+      {
+        "text": "Acidosis metabólica severa con una brecha aniónica (anion gap) marcadamente elevada, acompañada de cetonuria y acidosis láctica secundaria.",
+        "isCorrect": true,
+        "explanation": "Las acidemias orgánicas (ej: acidemia propiónica, metilmalónica) se caracterizan por una marcada acidosis metabólica con brecha aniónica (anion gap) elevada. Esto se debe a la acumulación de ácidos orgánicos que aportan aniones no medidos al plasma. Se acompaña de forma frecuente de cetonuria (debido al estado catabólico y alteración de la beta-oxidación) e hiperlactatemia (acidosis láctica) secundaria a la toxicidad mitocondrial."
+      },
+      {
+        "text": "Alcalosis metabólica hipoclorémica con potasio sérico bajo, asociada a estenosis hipertrófica del píloro de origen metabólico.",
+        "isCorrect": false,
+        "explanation": "La alcalosis metabólica hipoclorémica con potasio bajo se asocia a la pérdida selectiva de ácido clorhídrico por vómitos digestivos altos obstructivos (estenosis pilórica), no a un error congénito del metabolismo destructivo celular."
+      },
+      {
+        "text": "Acidosis tubular renal proximal tipo II con anion gap normal y orinas de pH persistentemente alcalinas.",
+        "isCorrect": false,
+        "explanation": "La acidosis tubular renal cursa con acidosis metabólica hiperclorémica de brecha aniónica o anion gap normal (pérdida de bicarbonato), cuadro diferente al acúmulo de ácidos orgánicos exógenos."
+      },
+      {
+        "text": "Alcalosis respiratoria descompensada con anion gap normal, asociada a hipernatremia extrema por pérdida de agua libre.",
+        "isCorrect": false,
+        "explanation": "La alcalosis respiratoria con anion gap normal es el patrón característico de los defectos del ciclo de la urea debido a la hiperventilación central inducida por el amonio elevado, no de las acidemias orgánicas."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Se evalúa la radiografía de tórax de un recién nacido que presenta convulsiones refractarias a los 2 días de vida asociadas a una hipocalcemia persistente. Se detecta una silueta cardíaca con una anomalía conotruncal (tetralogía de Fallot) y la ausencia del timo en el mediastino superior derecho. Se sospecha una inmunodeficiencia primaria compleja. ¿De qué síndrome genético se trata?",
+    "hint": "Esta deleción genética asocia una tríada clásica de: anomalías cardíacas conotruncales, hipoplasia o agenesia de glándulas paratiroides (provocando hipocalcemia neonatal severa refractaria) y aplasia o hipoplasia tímica (causando inmunodeficiencia celular).",
+    "options": [
+      {
+        "text": "Síndrome de Down por trisomía libre del cromosoma veintiuno.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Down asocia cardiopatías de canal AV común e hipotonía, pero no cursa característicamente con agenesia tímica ni hipocalcemia refractaria del desarrollo paratiroideo del recién nacido."
+      },
+      {
+        "text": "Síndrome de Turner por monosomía del cromosoma X.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Turner cursa con linfedema, cuello alado y coartación de la aorta en el período neonatal, sin asociar de forma típica aplasia del timo e hipocalcemia por microdeleciones de las bolsas faríngeas."
+      },
+      {
+        "text": "Síndrome de Beckwith-Wiedemann por disomía uniparental del cromosoma once.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Beckwith-Wiedemann es un trastorno de sobrecrecimiento genético caracterizado por macrosomía, macroglosia, onfalocele e hipoglicemia neonatal hiperinsulinémica severa refractaria, sin compromiso del calcio ni timo."
+      },
+      {
+        "text": "Síndrome de DiGeorge (microdeleción 22q11.2).",
+        "isCorrect": true,
+        "explanation": "El síndrome de DiGeorge (o síndrome de deleción 22q11.2) se debe a un defecto en el desarrollo de la tercera y cuarta bolsas faríngeas. Cursa clínicamente con una tríada clásica: 1) Hipoplasia paratiroidea que se manifiesta con hipocalcemia neonatal severa y refractaria al tratamiento convencional, 2) Aplasia o hipoplasia tímica que condiciona inmunodeficiencia celular por ausencia de linfocitos T viables, y 3) Cardiopatías congénitas conotruncales (tetralogía de Fallot, tronco arterioso, arco aórtico interrumpido)."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Durante el estudio de un recién nacido con hipoglicemia severa persistente que requiere de forma constante una VIG superior a 15 mg/kg/minuto para mantener glicemias mayores a 45 mg/dL, usted sospecha un Hiperinsulinismo Congénito (nesidioblastosis). ¿Cuál de los siguientes perfiles de laboratorio y de respuesta terapéutica es confirmatorio de un estado hiperinsulinémico?",
+    "hint": "La insulina es una hormona anabólica potente. Su presencia inhibe de forma absoluta la lipólisis y la cetogénesis; por lo tanto, el recién nacido con exceso de insulina presenta hipoglicemia sin cetonas ni ácidos grasos en plasma. Además, al haber depósitos de glucógeno hepático acumulados por la insulina, administrar glucagón movilizará de inmediato esta reserva, elevando la glicemia.",
+    "options": [
+      {
+        "text": "Cetonas y ácidos grasos libres suprimidos en plasma en el momento de la hipoglicemia, niveles de insulina detectable y una respuesta glicémica positiva rápida tras la administración de glucagón.",
+        "isCorrect": true,
+        "explanation": "El diagnóstico de hiperinsulinismo se establece mediante la \"muestra crítica\" tomada en el momento de la hipoglicemia (glicemia < 40 mg/dL). El perfil característico es: niveles de insulina detectable (en teoría debiera estar suprimida), niveles de cuerpos cetónicos y ácidos grasos libres suprimidos o muy bajos en plasma (por el bloqueo anabólico de la insulina), y un aumento del nivel de glicemia > 30 mg/dL tras la administración intramuscular de 1 mg de glucagón, que moviliza el glucógeno que la insulina ayudó a acumular en el hígado."
+      },
+      {
+        "text": "Niveles de hormona de crecimiento y cortisol plasmático disminuidos con glicemia capilar normalizada que no varía con el ayuno.",
+        "isCorrect": false,
+        "explanation": "La deficiencia de hormona del crecimiento y de cortisol (panhipopituitarismo) causa hipoglicemia neonatal grave, pero cursa con cetonas elevadas (fisiológico en ayuno) y niveles de insulina plasmática adecuadamente suprimidos."
+      },
+      {
+        "text": "Cetonuria masiva con acidosis láctica refractaria en el examen de orina, niveles de insulina indetectables y respuesta negativa a la administración de glucagón.",
+        "isCorrect": false,
+        "explanation": "La cetonuria masiva con acidosis metabólica orienta a un error congénito del metabolismo de tipo acidemia orgánica o defecto de la neoglucogénesis, descartando el bloqueo anabólico hipocetósico del hiperinsulinismo."
+      },
+      {
+        "text": "Presencia de cuerpos cetónicos suprimidos con elevación extrema de triglicéridos periféricos, y ausencia de respuesta cardíaca tras el uso de gluconato de calcio.",
+        "isCorrect": false,
+        "explanation": "Aunque los cuerpos cetónicos están suprimidos, la elevación aislada de triglicéridos y la arreflexia al calcio no constituyen criterios hormonales ni moleculares de confirmación diagnóstica para nesidioblastosis."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, de 24 horas de vida, hijo de madre con sospecha de hiperparatiroidismo primario no tratado durante el embarazo, presenta temblores finos en las extremidades. Los exámenes revelan una hipocalcemia con un Calcio iónico de 3,4 mg/dL. ¿Cuál es el mecanismo fisiopatológico que explica la hipocalcemia neonatal en el hijo de madre hiperparatiroidea?",
+    "hint": "El calcio atraviesa activamente la placenta hacia el feto. Si la madre tiene niveles de calcio extremadamente altos debido a un exceso de PTH materna, el feto estará expuesto a una hipercalcemia sostenida intrauterina. Analice el efecto de esta hipercalcemia sobre la paratiroides en desarrollo del feto.",
+    "options": [
+      {
+        "text": "La hipercalcemia materna inhibe de forma continua la síntesis y secreción de paratohormona (PTH) en la glándula paratiroides fetal, provocando un hipoparatiroidismo neonatal transitorio al nacer.",
+        "isCorrect": true,
+        "explanation": "El calcio materno cruza activamente la placenta. Si la madre tiene hiperparatiroidismo, cursa con hipercalcemia severa, lo que expone al feto a niveles muy altos de calcio. Esta hipercalcemia intrauterina suprime de forma prolongada la función y el desarrollo de las glándulas paratiroides del feto. Al nacer e interrumpirse bruscamente el traspaso placentario de calcio, la paratiroides fetal está suprimida y es incapaz de secretar PTH de forma oportuna, provocando un hipoparatiroidismo transitorio con hipocalcemia severa en los primeros días de vida."
+      },
+      {
+        "text": "La destrucción inmunológica pasiva de las glándulas paratiroides del feto mediada por el traspaso transplacentario de anticuerpos IgG anti-PTH de origen materno.",
+        "isCorrect": false,
+        "explanation": "No se trata de un mecanismo autoinmune mediado por inmunoglobulinas IgG de la madre, sino de un fenómeno puramente fisiológico de retroalimentación negativa por hipercalcemia transplacentaria sostenida."
+      },
+      {
+        "text": "El bloqueo mecánico de los receptores de vitamina D del enterocito fetal por el exceso de hormona tiroidea circulante en la gestación.",
+        "isCorrect": false,
+        "explanation": "El exceso de hormona tiroidea de la gestación no tiene la propiedad de bloquear mecánicamente los receptores de la vitamina D (VDR) de la mucosa del intestino del feto en desarrollo."
+      },
+      {
+        "text": "La pérdida de calcio a través de las vellosidades de la placenta inducida por la hiperfiltración osmótica de la arteria uterina en el tercer trimestre.",
+        "isCorrect": false,
+        "explanation": "La placenta no filtra el calcio de forma pasiva a través de pérdidas arteriales osmóticas; el transporte de calcio del compartimento materno al fetal se realiza de forma activa en contra de gradiente por bombas de membrana."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Usted atiende en el consultorio a una madre que asiste angustiada porque el control sano de los 15 días de su hijo reveló que la tarjeta de papel filtro del tamizaje neonatal (screening PKU/TSH) fue rechazada por el laboratorio de referencia por \"muestra insuficiente o de mala calidad\". ¿Cuál es el procedimiento técnico correcto ante un rechazo de muestra y su implicancia clínica?",
+    "hint": "El rechazo de una tarjeta de tamizaje retrasa de forma crítica el diagnóstico del hipotiroidismo y de la PKU. Cada semana que pasa sin tratamiento con levotiroxina o fórmula libre de fenilalanina reduce irreversiblemente el coeficiente intelectual del menor. La toma de la nueva muestra es de máxima prioridad en APS.",
+    "options": [
+      {
+        "text": "Tranquilizar a los padres indicando que el examen puede postergarse de forma segura hasta el control sano de los 6 meses de vida, cuando se administren las vacunas Hexavalente.",
+        "isCorrect": false,
+        "explanation": "Postergar el tamizaje a los 6 meses es una conducta negligente que condena de forma irreversible al lactante con hipotiroidismo congénito o PKU a sufrir daño intelectual severo permanente (cretinismo establecido)."
+      },
+      {
+        "text": "Solicitar una muestra de orina completa del pañal para realizar la pesquisa de aminoácidos mediante tiras reactivas rápidas en el box.",
+        "isCorrect": false,
+        "explanation": "Las tiras reactivas rápidas en orina no están validadas ni tienen la sensibilidad ni especificidad requeridas para el tamizaje universal de PKU ni detectan los niveles de TSH séricos de sospecha."
+      },
+      {
+        "text": "Emitir una denuncia por negligencia contra el laboratorio y suspender de forma temporal todo tipo de controles médicos del menor en APS.",
+        "isCorrect": false,
+        "explanation": "Aunque se deben auditar los procesos de toma de muestras para evitar errores técnicos de enfermería, suspender los controles de APS vulnera la salud del menor y agrava de forma crítica el retraso diagnóstico."
+      },
+      {
+        "text": "Citar al recién nacido de forma prioritaria e inmediata al CESFAM para repetir la toma de la muestra en papel filtro, explicando que el retraso en el diagnóstico pone en riesgo su neurodesarrollo.",
+        "isCorrect": true,
+        "explanation": "El rechazo de la muestra de papel filtro es un evento crítico que posterga el diagnóstico de dos patologías graves. La conducta mandatoria en APS es citar e ingresar al recién nacido de forma prioritaria para repetir la muestra de talón en papel filtro de inmediato. Se debe educar a los padres sobre la importancia del examen, ya que iniciar el tratamiento después de los 21 días de vida en caso de enfermedad asocia secuelas neurológicas irreversibles (retraso mental progresivo)."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término presenta a las 6 horas de vida una hipocalcemia asintomática con un Calcio iónico de 3,8 mg/dL. El recién nacido se encuentra reactivo, de buen aspecto general y alimentándose con lactancia materna. ¿Cuál es el tratamiento de primera elección recomendado en las guías chilenas para el manejo de la hipocalcemia asintomática en la transición?",
+    "hint": "En la hipocalcemia neonatal leve a moderada (Calcio iónico entre 3,0 y 4,0 mg/dL) que no cursa con síntomas neurológicos, la administración de calcio endovenoso asocia más riesgos que beneficios (arritmias, necrosis tisular, flebitis). El aporte de calcio por vía enteral (leche) es fisiológico y seguro.",
+    "options": [
+      {
+        "text": "Favorecer y optimizar la alimentación enteral frecuente (idealmente con leche materna) y reevaluar los niveles de calcio iónico en un plazo de 12 a 24 horas, evitando la administración endovenosa de calcio si se mantiene asintomático.",
+        "isCorrect": true,
+        "explanation": "Para la hipocalcemia neonatal asintomática de nivel leve a moderado (Calcio iónico entre 3,0 y 4,0 mg/dL), el tratamiento de primera línea de las guías clínicas de neonatología en Chile es conservador. Se debe favorecer e intensificar la alimentación enteral (leche materna o fórmula), ya que la leche aporta una cantidad de calcio fisiológica y segura que estimula de forma natural el eje paratiroideo del neonato, debiendo controlarse el calcio iónico en 12 a 24 horas. Se evita la vía endovenosa por los riesgos asociados del calcio parenteral."
+      },
+      {
+        "text": "Administrar un bolo endovenoso directo de Gluconato de Calcio al 10% en dosis de 5 mL/kg de forma rápida por vía venosa central.",
+        "isCorrect": false,
+        "explanation": "Administrar un bolo rápido de gluconato de calcio al 10% a dosis de 5 mL/kg en un paciente asintomático es una conducta iatrogénica de alto riesgo que puede provocar paro cardíaco por asistolia, necrosis de la mano o calcificaciones subcutáneas graves."
+      },
+      {
+        "text": "Prescribir de forma obligatoria un curso de diuréticos tiazídicos por vía oral a dosis máxima para retener el calcio a nivel renal.",
+        "isCorrect": false,
+        "explanation": "Los diuréticos tiazídicos no se recomiendan de forma rutinaria para el manejo agudo de la hipocalcemia transicional del recién nacido sano, reservándose para patologías de insuficiencia renal crónica o tubulopatías específicas."
+      },
+      {
+        "text": "Iniciar una infusión continua de fósforo endovenoso de forma prioritaria para forzar el aclaramiento urinario del calcio.",
+        "isCorrect": false,
+        "explanation": "El fósforo endovenoso está contraindicado y disminuirá aún más los niveles de calcio iónico libre plasmático, empeorando la hipocalcemia y arriesgando crisis convulsivas metabólicas refractarias."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "¿Cuál de los siguientes Errores Congénitos del Metabolismo (ECM) de tipo déficit de energía se caracteriza clínicamente por presentar hipoglicemia grave de ayuno que cursa con niveles de cuerpos cetónicos plasmáticos y urinarios indetectables o suprimidos (hipoglicemia hipocetósica), asociada a compromiso hepático (hepatomegalia, esteatosis) y muscular secundario?",
+    "hint": "El ayuno normal agota la glucosa, lo que activa la lipólisis y la beta-oxidación mitocondrial para producir cuerpos cetónicos como combustible alternativo para el cerebro. Si la vía de la beta-oxidación está dañada, el niño sufrirá hipoglicemia pero será incapaz de sintetizar cetonas (hipocetosis).",
+    "options": [
+      {
+        "text": "Trastorno de la beta-oxidación de los ácidos grasos de cadena larga (ej: déficit de MCAD).",
+        "isCorrect": true,
+        "explanation": "Los trastornos de la beta-oxidación de los ácidos grasos (como el déficit de deshidrogenasa de acil-CoA de cadena media, MCAD) se manifiestan clínicamente ante períodos de ayuno prolongado. Al no poder oxidar las grasas para obtener energía, el neonato sufre de hipoglicemia severa. Fisiopatológicamente se caracteriza por ser hipocetósica (hipoglicemia sin cetonas en plasma ni orina) debido a que la síntesis de cuerpos cetónicos está bloqueada por el defecto enzimático. Asocia hepatomegalia, esteatosis hepática y cardiomiopatía por acumulación de ácidos grasos libres no metabolizados."
+      },
+      {
+        "text": "Acidemia orgánica de cadena ramificada de curso descompensado agudo.",
+        "isCorrect": false,
+        "explanation": "Las acidemias orgánicas causan acidosis metabólica severa con una cetonuria masiva (hipercetósica) y anion gap elevado, cuadro bioquímico opuesto a la hipocetosis de los defectos de beta-oxidación."
+      },
+      {
+        "text": "Galactosemia clásica por deficiencia congénita de la enzima uridiltransferasa.",
+        "isCorrect": false,
+        "explanation": "La galactosemia causa toxicidad celular directa hepatorrenal catarata tras la ingesta de leche (galactosa), no manifestándose como una hipoglicemia hipocetósica severa inducida exclusivamente por ayuno prolongado."
+      },
+      {
+        "text": "Glucogenosis tipo I o enfermedad de Von Gierke de debut inmediato neonatal.",
+        "isCorrect": false,
+        "explanation": "La glucogenosis tipo I (enfermedad de Von Gierke) cursa con hipoglicemia de ayuno pero con una cetosis marcadamente elevada (hipercetosis) y acidosis láctica extrema debido a la acumulación y desvío de los metabolitos de la glicólisis anaerobia."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "Un recién nacido de término, de 3 días de vida, presenta una glicemia persistente de 38 mg/dL a pesar de recibir alimentación enteral frecuente de leche materna de excelente volumen. Se decide su ingreso a la Unidad de Neonatología para iniciar aporte de glucosa endovenoso. Al planificar la Velocidad de Infusión de Glucosa (VIG), ¿cuál es el rango de aporte inicial recomendado en mg/kg/minuto para un recién nacido de término con hipoglicemia asintomática?",
+    "hint": "La VIG inicial busca igualar la tasa de producción de glucosa hepática fisiológica del recién nacido de término sano, la cual permite mantener la glicemia en rangos normales sin inducir sobrecarga de volumen ni hiperglicemia iatrogénica por exceso de solutos.",
+    "options": [
+      {
+        "text": "Iniciar con una Velocidad de Infusión de Glucosa de 1 a 2 mg/kg/minuto de forma continua.",
+        "isCorrect": false,
+        "explanation": "Un aporte de 1 a 2 mg/kg/min es subfisiológico e insuficiente para cubrir las demandas metabólicas mínimas del recién nacido, perpetuando la hipoglicemia y el riesgo de crisis convulsivas en alojamiento conjunto."
+      },
+      {
+        "text": "Iniciar con una Velocidad de Infusión de Glucosa de 12 a 15 mg/kg/minuto de forma continua.",
+        "isCorrect": false,
+        "explanation": "Una VIG de 12 a 15 mg/kg/min de inicio es muy elevada para un recién nacido de término estable y se asocia a riesgo de hiperglicemia severa, reservándose para casos confirmados de hiperinsulinismo refractario persistente en la UCI."
+      },
+      {
+        "text": "Iniciar con una Velocidad de Infusión de Glucosa de 4 a 6 mg/kg/minuto de forma continua.",
+        "isCorrect": true,
+        "explanation": "Para recién nacidos de término que requieren hidratación parenteral por hipoglicemia refractaria a la vía oral, la velocidad de infusión de glucosa (VIG) inicial recomendada es de 4 a 6 mg/kg/min. Este rango de aporte se asemeja a la producción de glucosa hepática basal del recién nacido (4-6 mg/kg/min), permitiendo mantener glicemias estables por sobre los 45 mg/dL."
+      },
+      {
+        "text": "Iniciar con una Velocidad de Infusión de Glucosa de 20 a 25 mg/kg/minuto de forma continua.",
+        "isCorrect": false,
+        "explanation": "Una velocidad de 20 a 25 mg/kg/min excede los límites de tolerancia biológica del neonato, sobrecarga la microcirculación por alta osmolaridad y está contraindicada por vía venosa periférica o central de forma rutinaria."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Trastornos metabólicos",
+    "text": "En el Centro de Salud Familiar, se evalúa en control de los 7 días de vida a un recién nacido. Durante la revisión del carné de control sano de la maternidad, el médico constata que no se ha registrado la toma de la muestra de papel filtro para el tamizaje de TSH/PKU, debido a que el binomio se fugó de la maternidad a las 24 horas del parto. ¿Cuál es la conducta inmediata y correcta en APS?",
+    "hint": "La omisión del screening neonatal es un error grave del sistema de salud. Al tener ya 7 días de vida, el neonato está en el límite superior del período óptimo para la detección de Hipotiroidismo y PKU. Se debe proceder a la toma del examen de inmediato en APS.",
+    "options": [
+      {
+        "text": "Solicitar una ecografía de cuello tiroidea de forma universal antes de realizar cualquier tipo de examen de sangre de talón.",
+        "isCorrect": false,
+        "explanation": "La ecografía tiroidea no es un examen de tamizaje universal de primera línea y su realización no detecta de ninguna manera el error metabólico de la fenilalanina (PKU) ni los niveles de hormonas tiroideas."
+      },
+      {
+        "text": "Proceder a la toma inmediata de la muestra de papel filtro por punción del talón en el vacunatorio del CESFAM, registrar minuciosamente los datos de contacto verídicos de los padres y enviar con carácter de urgencia al laboratorio de referencia.",
+        "isCorrect": true,
+        "explanation": "Ante la omisión o fuga del recién nacido antes del screening en la maternidad, la toma de la muestra en papel filtro (tamizaje de PKU y TSH) debe realizarse de forma inmediata al momento del contacto en la APS. Es crítico registrar correctamente los datos de dirección y número de teléfono de la familia en la tarjeta, ya que en caso de resultar alterado, la citación para confirmación venosa debe ser inmediata (antes de los 15-21 días de vida) para evitar el retraso mental irreversible."
+      },
+      {
+        "text": "Postergar la toma del screening de forma electiva hasta el control de los dos meses, argumentando que la leche materna bloquea de forma natural la expresión de la fenilalanina.",
+        "isCorrect": false,
+        "explanation": "Postergar el tamizaje a los dos meses es una conducta negligente que condena al menor con hipotiroidismo o PKU a sufrir secuelas cognitivas y de neurodesarrollo severas permanentes (cretinismo irreversible establecido)."
+      },
+      {
+        "text": "Indicar el uso de fórmulas lácteas de soya de forma profiláctica y suspender temporalmente el apego directo con la madre.",
+        "isCorrect": false,
+        "explanation": "Suspender el apego e iniciar fórmulas de soya profilácticas sin diagnóstico fundado carece de base científica y vulnera de forma injustificada el fomento de la lactancia materna exclusiva en APS."
+      }
+    ]
+  }
+]
