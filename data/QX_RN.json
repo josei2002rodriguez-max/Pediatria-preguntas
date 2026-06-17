@@ -1,0 +1,897 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de 39 semanas, peso adecuado, cuya madre presentó polihidramnios moderado detectado por ecografía del tercer trimestre. Al nacer, se aprecia con abundante salivación mucosa en boca y faringe (sialorrea) que requiere aspiraciones frecuentes. Durante su primera alimentación al pecho materno, presenta episodios de tos, sofocación y cianosis perioral que cede al suspender la mamada. Se intenta pasar una sonda nasogástrica (SNG), la que se detiene de forma infranqueable a 10 cm de la arcada dentaria superior. La radiografía de tórax y abdomen simple de control muestra la sonda enrollada en un cabo esofágico proximal ciego, con presencia de gas en el estómago y el tracto gastrointestinal distal. ¿Cuál es el diagnóstico anatomoclínico correcto de esta malformación y su clasificación según la nomenclatura clásica?",
+    "hint": "Es la variante anatómica más común de atresia esofágica, representando más del 85% de los casos. La presencia de abundante aire en el estómago confirma de forma indirecta la comunicación o fístula permeable entre la vía aérea (tráquea) y la porción inferior del esófago (distal).",
+    "options": [
+      {
+        "text": "Atresia esofágica tipo III (o C); saco proximal ciego y fístula traqueoesofágica distal.",
+        "isCorrect": true,
+        "explanation": "La Atresia Esofágica Tipo III (o Tipo C de la clasificación de Vogt) consiste en un esófago proximal que termina en un saco ciego cerrado (lo que impide el paso de la sonda nasogástrica y genera sialorrea o broncoaspiración de saliva al alimentar) y un cabo esofágico distal que está comunicado con la tráquea a través de una fístula traqueoesofágica distal. La presencia de gas en el estómago e intestinos en la radiografía confirma esta fístula distal, ya que el aire inspirado pasa desde la tráquea hacia el estómago a través de ella de forma constante."
+      },
+      {
+        "text": "Atresia esofágica tipo I (o A); atresia pura sin fístula traqueoesofágica.",
+        "isCorrect": false,
+        "explanation": "El Tipo I (atresia pura, sin fístula) se caracteriza por sacos superior e inferior ciegos sin comunicación con la tráquea. Al no haber fístula, la radiografía muestra un abdomen completamente opaco, sin gas o aire en el estómago ni intestinos (\"abdomen silente\" u \"opaco\")."
+      },
+      {
+        "text": "Atresia esofágica tipo II (o B); saco proximal con fístula traqueoesofágica proximal aislada.",
+        "isCorrect": false,
+        "explanation": "El Tipo II cursa con fístula proximal aislada, por lo que el aire gástrico distal está ausente en la radiografía y el saco ciego superior es difícil de ventilar de forma espontánea."
+      },
+      {
+        "text": "Atresia esofágica tipo IV (o D); saco proximal y distal con doble fístula traqueoesofágica.",
+        "isCorrect": false,
+        "explanation": "El Tipo IV cursa con doble fístula (proximal y distal) y representa menos del 1-2% de las atresias esofágicas en Chile, caracterizándose por una inmediata y masiva broncoaspiración de secreciones gástricas y saliva directamente al árbol bronquial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, nacido mediante cesárea electiva con diagnóstico prenatal ecográfico de hernia diafragmática congénita (HDC) posterolateral izquierda (de Bochdalek). En la sala de atención inmediata de recién nacidos, inicia de forma hiperaguda con dificultad respiratoria severa, cianosis generalizada que no recupera con aporte de oxígeno libre, polipnea con FR de 76 rpm y retracción costal profunda. Al examen físico destaca un abdomen excavado (en batea) y la auscultación revela murmullo pulmonar izquierdo abolido con tonos cardíacos desplazados a la derecha. ¿Cuál es la conducta inicial prioritaria de soporte ventilatorio recomendada de forma obligatoria en la sala de partos para este neonato?",
+    "hint": "En la HDC, el soporte ventilatorio en sala de partos debe evitar a toda costa inflar o distender el estómago o las asas herniados dentro del tórax, lo que comprimiría de forma letal el poco parénquima pulmonar contralateral viable.",
+    "options": [
+      {
+        "text": "Iniciar de inmediato ventilación asistida manual con bolsa autoinflable y máscara facial (Ambu) conectada a FiO<sub>2</sub> al 100% para revertir la hipoxemia.",
+        "isCorrect": false,
+        "explanation": "La ventilación con bolsa y máscara (Ambu) está absolutamente contraindicada en esta patología. Al ventilar con máscara, gran parte del aire insuflado ingresa de forma mecánica por el esófago hacia el estómago e intestinos herniados dentro del tórax. Esto distiende rápidamente las asas intestinales intratorácicas, comprimiendo de forma masiva el pulmón derecho e izquierdo contralateral sano y desplazando el mediastino, provocando un cortocircuito de derecha a izquierda irreversible."
+      },
+      {
+        "text": "Realizar intubación orotraqueal (IOT) inmediata de forma directa para ventilación mecánica controlada, asociando la colocación de una sonda nasogástrica (SNG) de doble lumen gruesa a permanencia para descompresión gástrica continua.",
+        "isCorrect": true,
+        "explanation": "El manejo estándar y mandatorio del recién nacido con HDC e insuficiencia respiratoria aguda exige la intubación orotraqueal inmediata de forma directa en sala de partos para proteger la vía aérea y ventilar de forma selectiva el parénquima pulmonar sin introducir aire al tubo digestivo, asociando la colocación de una sonda nasogástrica gruesa a permanencia para descomprimir continuamente el estómago de cualquier gas retenido."
+      },
+      {
+        "text": "Colocar cánula nasal de alto flujo a 3 L/kg/min y administrar surfactante exógeno profiláctico por vía endotraqueal de forma no invasiva.",
+        "isCorrect": false,
+        "explanation": "El alto flujo o el CPAP nasal están contraindicados de primera línea por el mismo riesgo de insuflar aire de forma pasiva a través del esófago hacia las asas intratorácicas, empeorando el colapso pulmonar."
+      },
+      {
+        "text": "Realizar una punción torácica descompresiva de urgencia en el segundo espacio intercostal izquierdo con aguja gruesa por sospecha de neumotórax a tensión.",
+        "isCorrect": false,
+        "explanation": "No se trata de un neumotórax, sino de la presencia normal de vísceras en el tórax; la punción de urgencia provocaría una perforación catastrófica de asas intestinales o estómago herniados."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Usted es el interno a cargo de la recepción de recién nacidos en el Hospital Luis Tisné. Recibe a un neonato de término con un defecto congénito mayor de la pared abdominal anterior. Al examen físico segmentario del abdomen, observa que las asas intestinales (delgado y colon) y el estómago se encuentran completamente expuestos y herniados, localizándose el defecto a la derecha de la inserción del cordón umbilical, el cual es de implantación normal. Las asas intestinales se aprecian despulidas, edematosas, cubiertas por membranas de fibrina y sin saco de cobertura peritoneal ni amniótica. ¿Cuál es el diagnóstico correcto de este defecto y con qué patologías se asocia con mayor frecuencia en comparación con el onfalocele?",
+    "hint": "Es una malformación de la pared abdominal donde las asas están expuestas directamente al líquido amniótico y al medio ambiente exterior. La inflamación prolongada de la serosa por el líquido amniótico genera una gruesa capa de fibrina, pero el defecto suele ser un hallazgo aislado y no asocia grandes malformaciones sistémicas.",
+    "options": [
+      {
+        "text": "Onfalocele; asociado frecuentemente a cardiopatías congénitas complejas graves y trisomías cromosómicas.",
+        "isCorrect": false,
+        "explanation": "El onfalocele es un defecto de la línea media con saco membranoso donde el cordón umbilical se inserta en su cúpula y asocia anomalías graves cardíacas y cromosómicas en el 50-60%."
+      },
+      {
+        "text": "Hernia umbilical gigante; asociado a anomalías nefrourológicas de grado irreversible y obstrucción uretral.",
+        "isCorrect": false,
+        "explanation": "La hernia umbilical está cubierta por piel sana normal y no es un defecto abierto de asas expuestas."
+      },
+      {
+        "text": "Gastrosquisis; caracterizada por baja asociación con malformaciones extraintestinales o cromosomopatías, pero con alta prevalencia de atresias intestinales secundarias por isquemia del asa expuesta.",
+        "isCorrect": true,
+        "explanation": "La gastrosquisis es un defecto congénito de la pared abdominal anterior localizado típicamente a la derecha del cordón umbilical (el cual se inserta de forma normal en el abdomen). Se caracteriza por la herniación de asas intestinales sin saco de cobertura peritoneal protector, lo que expone al intestino expuesto a daño químico por contacto con el líquido amniótico. A diferencia del onfalocele, tiene muy baja tasa de asociación con malformaciones sistémicas mayores (cardiacas o cromosómicas), pero asocia de forma común atresias o estenosis intestinales de tipo isquémico segmentario en el 10-15% de los casos."
+      },
+      {
+        "text": "Extrofia cloacal; asociado a displasias esqueléticas generalizadas y mielomeningocele.",
+        "isCorrect": false,
+        "explanation": "La extrofia cloacal es una malformación pélvica compleja que no se presenta de forma paraumbilical aislada conservando cordón normal."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido prematuro de 30 semanas de gestación, de peso adecuado al nacer, cursando su 10° día de vida en la Unidad de Neonatología del Hospital de La Serena. Comienza con regular tolerancia alimentaria, presentando distensión abdominal moderada con eritema periumbilical, aumento de la retención de residuos gástricos biliosos de más del 50% de la toma anterior, y un episodio de deposiciones de consistencia mucosa con sangre roja fresca en el pañal. Se solicita una radiografía de abdomen de pie que reporta neumatosis intestinal difusa y presencia de gas en la vena porta (neumatosis portal), sin evidencia de neumoperitoneo. De acuerdo con la clasificación de Bell modificada y las guías de manejo de la enterocolitis necrotizante (ECN), ¿cuál es el diagnóstico de severidad y la conducta inicial más adecuada?",
+    "hint": "La presencia de neumatosis intestinal más gas portal clasifica a la ECN en un estadio de severidad moderado. El manejo a este nivel sigue siendo estrictamente médico-conservador agresivo, reservándose la cirugía de urgencia ante la perforación libre.",
+    "options": [
+      {
+        "text": "ECN Estadio IA (Sospecha); iniciar régimen cero por 3 días y antibióticos por vía oral de forma profiláctica.",
+        "isCorrect": false,
+        "explanation": "El Estadio IA es sospecha leve (sangre oculta, sin neumatosis ni gas portal) y no requiere de antibióticos por vía oral de primera línea."
+      },
+      {
+        "text": "ECN Estadio IIIA (Avanzada grave con perforación); derivación inmediata a pabellón para laparotomía exploradora de urgencia con resección intestinal amplia.",
+        "isCorrect": false,
+        "explanation": "El Estadio IIIA es grave intacto (requiere manejo médico de shock), la cirugía se reserva de urgencia ante el Estadio IIIB con perforación (neumoperitoneo) o si hay deterioro refractario al manejo médico en la UCIN."
+      },
+      {
+        "text": "ECN Estadio IIB (Moderada con neumatosis intestinal aislada); mantener alimentación enteral trófica a bajas dosis y control radiológico semanal.",
+        "isCorrect": false,
+        "explanation": "Alimentar enteralmente trófico está contraindicado y la neumatosis más gas portal define el Estadio IIB y no IIA."
+      },
+      {
+        "text": "ECN Estadio IIB (Moderada con gas portal); suspender completamente la alimentación enteral (régimen cero), descompresión gástrica con SNG a caída libre, toma de hemocultivos y cultivos, iniciar antibioterapia endovenosa de amplio espectro (Ampicilina + Amikacina + Metronidazol) por 10-14 días y monitorización clínica y radiográfica cada 6-8 horas.",
+        "isCorrect": true,
+        "explanation": "La presencia de neumatosis intestinal asociada a gas en la vena porta define la ECN en Estadio IIB (moderada con cambios sistémicos leves). El pilar del tratamiento es el manejo médico conservador intrahospitalario: régimen cero estricto por 10-14 días con soporte nutricional parenteral completo, descompresión por SNG, antibióticos de amplio espectro para cubrir Gram negativos y anaerobios intestinales y control radiográfico seriado cada 6-8 horas para detectar de forma precoz una perforación intestinal."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 24 horas de vida, cuya madre presentó polihidramnios en las ecografías prenatales. Al nacer, inicia de forma precoz con vómitos de contenido bilioso neto (color verde oscuro) tras cada alimentación, asociados a distensión epigástrica localizada y ausencia de eliminación de meconio. Al examen físico destaca fenotipo compatible con Síndrome de Down (Trisomía 21). Se toma una radiografía de abdomen de pie que revela el signo patognomónico de la \"doble burbuja\" (dilatación con gas del estómago y la primera porción del duodeno, con ausencia completa de gas en el resto del abdomen). ¿Cuál es el diagnóstico clínico más probable y la conducta preoperatoria obligatoria?",
+    "hint": "La atresia duodenal se asocia fuertemente al Síndrome de Down (30%). Al ser una anomalía de la organogénesis temprana, el riesgo de asociar otras malformaciones graves sistémicas exige un tamizaje de imágenes cardíacas obligatorio antes de la anestesia general.",
+    "options": [
+      {
+        "text": "Atresia duodenal completa; régimen cero, instalar SNG a caída, expandir volumen si hay deshidratación y realizar ecocardiograma Doppler color urgente debido a la altísima asociación de malformaciones cardíacas en la Trisomía 21.",
+        "isCorrect": true,
+        "explanation": "La atresia duodenal es una causa clásica de obstrucción intestinal alta en el recién nacido. Se caracteriza por vómitos biliosos tempranos y distensión epigástrica. El signo radiográfico patognomónico es la \"doble burbuja\".传 Aproximadamente el 30% de los recién nacidos con atresia duodenal padecen Síndrome de Down (Trisomía 21). El manejo preoperatorio requiere descompresión con SNG, corrección hidroelectrolítica y la realización de ecocardiograma Doppler porque los pacientes con Down y atresia duodenal asocian cardiopatías congénitas severas (como canal AV común) en un alto porcentaje."
+      },
+      {
+        "text": "Estenosis hipertrófica del píloro; piloromiotomía de urgencia inmediata de Fredet-Ramstedt sin necesidad de otros estudios sistémicos.",
+        "isCorrect": false,
+        "explanation": "La estenosis hipertrófica del píloro debuta más tardíamente (entre la 2ª y 8ª semana de vida, raramente al nacer), cursa con vómitos no biliosos de contenido lácteo puro y la radiografía muestra distensión gástrica aislada (\"burbuja única\") con escaso aire distal."
+      },
+      {
+        "text": "Atresia yeyunoileal segmentaria tipo IV; resección intestinal de urgencia en diamante sin SNG descompresiva previa.",
+        "isCorrect": false,
+        "explanation": "La atresia yeyunoileal segmentaria muestra múltiples burbujas con niveles en escalera (triple burbuja o más), no doble burbuja fija, y requiere descompresión por SNG previa obligatoria."
+      },
+      {
+        "text": "Íleo meconial por Fibrosis Quística; enema de contraste hiperosmolar rectal urgente (Gastrografin) de forma ambulatoria.",
+        "isCorrect": false,
+        "explanation": "El íleo meconial cursa con microcolon y dilatación difusa de asas delgadas con signo de Neuhauser."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, sexo masculino, de 3 días de vida, permanece hospitalizado en sala de alojamiento conjunto debido a que no ha eliminado meconio de forma espontánea desde el nacimiento. Presenta distensión abdominal progresiva moderada, rechazo alimentario y episodios de vómitos biliosos desde hace 12 horas. Al realizar un examen rectal suave con el dedo meñique, se aprecia un esfínter anal normotónico y tras la retirada del dedo se produce la salida explosiva de gases y meconio líquido con alivio clínico inmediato del paciente. ¿Cuál es el diagnóstico de sospecha y el método confirmatorio de elección (Estándar de Oro)?",
+    "hint": "La falla congénita en la migración de las células de la cresta neural resulta en la ausencia completa de los plexos parasimpáticos en el colon distal. El tacto rectal estimula mecánicamente el segmento espástico, liberando la obstrucción funcional de forma temporal.",
+    "options": [
+      {
+        "text": "Atresia anal con fístula perineal; invertograma simple de Wangensteen-Rice pasadas las 24 horas del nacimiento.",
+        "isCorrect": false,
+        "explanation": "La atresia anal con fístula perineal se diagnostica de forma directa a la inspección y examen físico anal inicial al nacer, no requiriendo biopsias rectales por aspiración."
+      },
+      {
+        "text": "Enfermedad de Hirschsprung (Megacolon aganglionar); biopsia rectal por aspiración para certificar la ausencia completa de células ganglionares en los plexos de Meissner y Auerbach, asociada a tinción para acetilcolinesterasa.",
+        "isCorrect": true,
+        "explanation": "La Enfermedad de Hirschsprung se caracteriza por una obstrucción intestinal funcional debida a la falta de relajación del colon distal (aganglionar). Clínicamente debuta con retraso de la eliminación de meconio (>90% no elimina en las primeras 24-48 horas de vida), distensión abdominal progresiva y el clásico signo de salida explosiva de meconio al retirar el tacto rectal (desobstrucción mecánica del segmento contraído). El estándar de oro para confirmar de forma absoluta el diagnóstico es la biopsia rectal por aspiración, que demuestra de forma histológica la ausencia completa de células ganglionares e hipertrofia de fibras colinérgicas."
+      },
+      {
+        "text": "Íleo meconial simple; dosificación de cloruros en sudor por iontoforesis con pilocarpina al nacer.",
+        "isCorrect": false,
+        "explanation": "El íleo meconial cursa con obstrucción por meconio espeso y microcolon de desuso, pero no presenta de forma característica el signo de la espita al tacto rectal ni su diagnóstico confirmatorio histológico es por biopsia ganglionar rectal."
+      },
+      {
+        "text": "Tapón meconial por diabetes materna; enema rectal opaco con bario diluido de colon completo de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "El tapón meconial puede tratarse con enema simple de suero fisiológico, pero ante la sospecha de aganglionosis del megacolon, la biopsia histológica rectal es la regla de confirmación."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacida de 12 horas de vida, de término, nacida mediante cesárea por indicación obstétrica materna. En su primer examen físico en la transición, el neonatólogo constata la ausencia completa del orificio anal en el periné (ano imperforado), sin fístulas visibles de meconio en la horquilla vulvar o región perineal. Para evaluar la altura de la malformación anorrectal (MAR) respecto al músculo elevador del ano y planificar la cirugía de reconstrucción, ¿cuál es el examen radiológico e indicación de tiempo correcta, y qué asociación malformativa sistémica debe descartar de forma prioritaria?",
+    "hint": "El invertograma debe realizarse idealmente pasadas las 24 horas de vida para que el aire deglutido por el recién nacido complete su tránsito y distienda de forma fidedigna el saco rectal ciego distal, permitiendo medir la distancia exacta. Las MAR asocian una altísima tasa de malformaciones sistémicas complejas.",
+    "options": [
+      {
+        "text": "Invertograma inmediato en las primeras 2 horas de vida; descartar síndrome de Down de inicio precoz.",
+        "isCorrect": false,
+        "explanation": "El invertograma inmediato en las primeras horas reportará una falsa altura alta debido a que el gas intestinal aún no alcanza la porción terminal del recto, y la asociación de MAR no es con el Síndrome de Down de forma típica, sino con el espectro VACTERL."
+      },
+      {
+        "text": "Ecotomografía de fosa ilíaca derecha a las 6 horas de vida; descartar estenosis pilórica concurrente.",
+        "isCorrect": false,
+        "explanation": "La ecotomografía de fosa ilíaca derecha no evalúa de forma dinámica la altura anal ni asocia estenosis pilórica de forma característica."
+      },
+      {
+        "text": "Invertograma o radiografía lateral de pelvis con el RN en posición invertida, con una marca radiopaca en la foseta anal, pasadas las 24 horas del nacimiento; descartar la asociación VACTERL mediante ecografía renal, ecocardiograma Doppler y radiografía de columna.",
+        "isCorrect": true,
+        "explanation": "El invertograma o radiografía en posición invertida se realiza para determinar la distancia entre el fondo de saco rectal ciego (delineado por el aire) y la piel del periné (marcada con una pieza metálica en la foseta anal), clasificando a la MAR como de altura alta, intermedia o baja. Debe realizarse después de las 24 horas de vida para garantizar que el gas intestinal haya completado su tránsito hasta el recto. Es obligatorio descartar el espectro malformativo VACTERL (Vertebral, Anal, Cardíaco, Traqueoesofágico, Renal, Extremidades) mediante ecografía renal, ecocardiograma y radiografía de columna vertebral completa."
+      },
+      {
+        "text": "TAC de pelvis de urgencia inmediato con doble contraste; descartar displasia de caderas luxante bilateral.",
+        "isCorrect": false,
+        "explanation": "El TAC de pelvis no está indicado de primera línea en neonatos por el riesgo de radiación innecesaria y dificultad para coordinar el estudio de urgencia."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Lactante de 4 semanas de vida, de término, previamente sano y alimentado con lactancia exclusiva. Es traído al Servicio de Urgencia Infantil por sus padres por presentar un cuadro de 5 días de evolución de vómitos lácteos abundantes, explosivos, de contenido no bilioso (color blanco-amarillento de leche digerida), que ocurren inmediatamente después de cada mamada. El lactante se encuentra con apetito voraz e irritable tras vomitar. Al examen físico destaca deshidratación moderada y una masa firme de 1,5 cm palpable en el epigastrio (oliva pilórica). Se solicitan gases venosos y electrolitos plasmáticos. ¿Cuál es el trastorno ácido-base e hidroelectrolítico patognomónico que se espera encontrar en este paciente debido a las pérdidas gástricas repetidas?",
+    "hint": "La pérdida repetida de ácido clorhídrico (HCl) en el jugo gástrico y la respuesta renal compensatoria de conservación de sodio a expensas de la excreción activa de hidrógeno y potasio configuran una alteración metabólica clásica de esta obstrucción de salida gástrica.",
+    "options": [
+      {
+        "text": "Acidosis metabólica hiperclorémica e hiperpotasémica.",
+        "isCorrect": false,
+        "explanation": "La acidosis metabólica hiperclorémica se asocia a diarreas profusas por pérdidas de bicarbonato intestinal, cuadro opuesto al vómito ácido de la EHP."
+      },
+      {
+        "text": "Acidosis láctica severa asociada a hiponatremia dilucional grave.",
+        "isCorrect": false,
+        "explanation": "La acidosis láctica refleja shock e hipoperfusión tisular masiva, lo cual no es el trastorno hidroelectrolítico de base de la estenosis pilórica no complicada."
+      },
+      {
+        "text": "Alcalosis respiratoria compensada asociada a hipernatremia deshidratante.",
+        "isCorrect": false,
+        "explanation": "El trastorno es de origen puramente metabólico primario (digestivo) y no respiratorio, y cursa con hipocloremia, no con variaciones del sodio que generen hipernatremia pura aislada."
+      },
+      {
+        "text": "Alcalosis metabólica hipoclorémica e hipopotasémica.",
+        "isCorrect": true,
+        "explanation": "El píloro hipertrófico es una obstrucción de salida gástrica. Los vómitos repetidos contienen grandes cantidades de ácido clorhídrico (HCl). Esto genera de forma directa una alcalosis metabólica por pérdida de iones hidrógeno (H+) y una hipocloremia por pérdida de cloro (Cl-). Frente a la deshidratación y la hipovolemia, el riñón activa el sistema aldosterona para reabsorber sodio; para conservar sodio en el túbulo distal, el riñón intercambia hidrógeno y potasio, lo que produce una hipopotasemia severa y perpetúa la alcalosis de base (aciduria paradójica)."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Usted asiste al nacimiento de un recién nacido de 38 semanas con diagnóstico prenatal de Hernia Diafragmática Congénita (HDC) izquierda de Bochdalek. Al nacer, el neonato presenta llanto débil, polipnea con FR de 82 rpm, cianosis central refractaria y un abdomen marcadamente excavado en batea. De acuerdo con las guías nacionales de reanimación e hidratación en sala de partos del recién nacido crítico con HDC, ¿cuál es el procedimiento inmediato mandatorio y qué intervención está absolutamente CONTRAINDICADA?",
+    "hint": "En la HDC, el soporte ventilatorio en sala de partos debe evitar a toda costa inflar o distender el estómago o las asas herniados dentro del tórax, lo que comprimiría de forma letal el poco parénquima pulmonar contralateral viable.",
+    "options": [
+      {
+        "text": "Mandatorio: Intubación orotraqueal (IOT) inmediata de forma directa para ventilación controlada y colocación de sonda nasogástrica gruesa para aspiración continua; Contraindicado: Ventilación manual asistida con bolsa y máscara facial (Ambu) por riesgo de sobredistensión gástrica e intestinal intratorácica.",
+        "isCorrect": true,
+        "explanation": "En la HDC, la ventilación asistida manual con bolsa y máscara (Ambu) está absolutamente contraindicada en la sala de partos. El gas insuflado pasa de forma pasiva por el esófago hacia el estómago e intestinos herniados dentro del tórax, distendiéndolos mecánicamente y comprimiendo el poco parénquima pulmonar contralateral viable, lo que provoca colapso ventilatorio inmediato. El protocolo exige intubación traqueal directa inmediata para ventilar selectivamente la tráquea sin pasar gas al tubo digestivo, y descompresión gástrica por SNG gruesa."
+      },
+      {
+        "text": "Mandatorio: Ventilación asistida manual enérgica con bolsa y máscara conectada a oxígeno al 100% hasta alcanzar saturación del 95%; Contraindicado: Intubación traqueal precoz en menores de 1 hora.",
+        "isCorrect": false,
+        "explanation": "La ventilación asistida manual con bolsa y máscara está contraindicada en sala de partos por el riesgo de distensión de asas intestinales intratorácicas."
+      },
+      {
+        "text": "Mandatorio: Compresión torácica externa inmediata coordinada 3:1 con ventilaciones; Contraindicado: Uso de catéter venoso umbilical de urgencia.",
+        "isCorrect": false,
+        "explanation": "El masaje cardíaco está indicado en paro o bradicardia menor a 60 lpm refractaria a ventilación, no es la medida prioritaria ventilatoria de HDC."
+      },
+      {
+        "text": "Mandatorio: Colocación de CPAP nasal a alta presión (10 cm H2O) en la sala de atención inmediata; Contraindicado: Aspiración nasolaríngea.",
+        "isCorrect": false,
+        "explanation": "El CPAP nasal a alta presión en sala de partos está contraindicado por el mismo riesgo de insuflar aire de forma pasiva a través del esófago hacia las asas."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, nacido mediante cesárea electiva por defecto de la pared abdominal anterior. Al examen físico segmentario se aprecia una gran masa en la línea media abdominal que contiene asas intestinales y lóbulo hepático izquierdo, rodeada por un saco membranoso translúcido y firme de tres capas (amnios, gelatina de Wharton y peritoneo). El cordón umbilical se inserta directamente en la cúpula de esta membrana. ¿Cuál es el diagnóstico correcto de este defecto y con qué síndromes genéticos o malformaciones mayores asocia una alta tasa de coexistencia en pediatría?",
+    "hint": "A diferencia de la gastrosquisis, este defecto de la línea media está cubierto por un saco membranoso y el cordón umbilical se inserta en su cúpula. Al ser un defecto temprano del desarrollo embrionario, asocia un porcentaje muy elevado de malformaciones cardíacas y genéticas graves.",
+    "options": [
+      {
+        "text": "Gastrosquisis; asociado a atresias intestinales múltiples y malrotación aislada, con cariotipo normal en la gran mayoría.",
+        "isCorrect": false,
+        "explanation": "La gastrosquisis no presenta saco membranoso protector, el cordón se inserta a la derecha de forma normal y tiene baja tasa de malformaciones extraintestinales asociadas, exceptuando la atresia intestinal."
+      },
+      {
+        "text": "Onfalocele; asociado en un 50-60% a cardiopatías congénitas mayores (CIV, Tetralogía de Fallot), cromosomopatías (Trisomía 13, 18, 21) y Síndrome de Beckwith-Wiedemann (onfalocele, macrosomía, macroglosia e hipoglicemia).",
+        "isCorrect": true,
+        "explanation": "El onfalocele es un defecto de la línea media en el cual los órganos intraabdominales se hernian a través del anillo umbilical abierto, permaneciendo cubiertos por un saco de tres capas (amnios, gelatina de Wharton y peritoneo). El cordón umbilical se inserta en su cúpula. Tiene una asociación sumamente alta (50-60%) con otras malformaciones sistémicas graves: cardiopatías congénitas mayores, anomalías del tubo neural, cromosomopatías (Trisomía 13, 18, 21) y síndromes de sobrecrecimiento como el Síndrome de Beckwith-Wiedemann."
+      },
+      {
+        "text": "Hernia umbilical gigante; asociado de forma prioritaria a hipotiroidismo congénito de inicio precoz y fisura palatina.",
+        "isCorrect": false,
+        "explanation": "La hernia umbilical simple está cubierta por piel sana normal y no es un defecto abierto de saco translúcido que contenga hígado."
+      },
+      {
+        "text": "Extrofia vesical clásica; asociado a displasia de caderas luxante bilateral y mielomeningocele lumbosacro.",
+        "isCorrect": false,
+        "explanation": "La extrofia vesical clásica cursa con exposición de la pared posterior de la vejiga y sínfisis púbica abierta, patología completamente ajena al curso del onfalocele."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Usted asiste al nacimiento de un recién nacido de 36 semanas con diagnóstico prenatal de gastrosquisis. En la sala de atención inmediata de recién nacidos, se observan múltiples asas de intestino delgado y colon expuestas fuera de la cavidad abdominal, localizadas a la derecha de la inserción del cordón umbilical. Las asas están edematosas, despulidas y sin saco de cobertura. Para evitar de forma prioritaria las pérdidas masivas de agua por evaporación, la hipotermia y proteger el intestino de infecciones secundarias antes de su traslado a la UCIN, ¿cuál es la conducta inmediata recomendada de forma universal?",
+    "hint": "El intestino expuesto en la gastrosquisis pierde rápidamente calor y agua por evaporación. La conducta en sala de partos debe evitar la desecación, la pérdida de temperatura y la compresión de los vasos de la arteria mesentérica superior.",
+    "options": [
+      {
+        "text": "Aplicar talco estéril y cubrir las asas de forma firme con gasas secas estériles bien apretadas.",
+        "isCorrect": false,
+        "explanation": "Las gasas secas se adhieren a la serosa del intestino y rasgan la pared al retirarse, lo que está proscrito por su alta iatrogenia."
+      },
+      {
+        "text": "Forzar la introducción manual de las asas mediante compresión directa en el periné sin anestesia en la cuna de procedimientos.",
+        "isCorrect": false,
+        "explanation": "Intentar reducir a la fuerza el intestino sin silo y sin anestesia genera un síndrome compartimental abdominal fulminante."
+      },
+      {
+        "text": "Cubrir las asas con compresas estériles humedecidas con suero fisiológico templado e introducir la mitad inferior del recién nacido dentro de una bolsa protectora de polietileno transparente estéril de alta densidad (bolsa de Bogota), colocando al RN en decúbito lateral derecho o posición neutra para evitar la torsión de los vasos mesentéricos.",
+        "isCorrect": true,
+        "explanation": "La gastrosquisis es un defecto paraumbilical derecho sin saco. El intestino expuesto pierde rápidamente calor y agua por evaporación. La conducta en sala de partos es cubrir el defecto con compresas estériles tibias húmedas e introducir la parte inferior del neonato en una bolsa de polietileno estéril de alta densidad para frenar la evaporación. Colocarlo en decúbito lateral evita que la gravedad tuerza o estrangule los vasos de la arteria mesentérica superior."
+      },
+      {
+        "text": "Pincelar las asas con povidona yodada y dejarlas expuestas al aire de la cuna radiante a alta temperatura para su secado rápido.",
+        "isCorrect": false,
+        "explanation": "La povidona yodada es nefrotóxica y deshidratante; dejar las asas expuestas al aire libre de la cuna acelera la hipotermia y la desecación de forma grave."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 24 horas de vida, comienza de forma progresiva con distensión abdominal difusa importante, residuos gástricos biliosos de color verde oscuro abundantes y ausencia de eliminación de meconio desde el nacimiento. Se solicita una radiografía de abdomen simple de pie que revela múltiples niveles hidroaéreos en \"escalera\" distribuidos de forma simétrica por todo el hemiabdomen con ausencia completa de gas a nivel de la ampolla rectal. ¿Cuál es el diagnóstico clínico más probable de este cuadro y qué examen de imágenes dinámico confirma su etiología?",
+    "hint": "La atresia intestinal baja cursa con distensión abdominal generalizada y niveles hidroaéreos en escalera en la radiografía simple. Al no haber tránsito de contenido hacia el colon distal durante la vida fetal, este permanece con un calibre muy pequeño por desuso.",
+    "options": [
+      {
+        "text": "Atresia duodenal completa; signo de la doble burbuja sin niveles en escalera.",
+        "isCorrect": false,
+        "explanation": "La atresia duodenal se caracteriza por el signo de la doble burbuja en la radiografía simple, sin presentar los niveles múltiples en escalera difusos de fosa ilíaca."
+      },
+      {
+        "text": "Estenosis pilórica congénita; oliva pilórica palpable con ecografía confirmatoria normal.",
+        "isCorrect": false,
+        "explanation": "La estenosis pilórica cursa con vómitos no biliosos lácteos de aparición más tardía."
+      },
+      {
+        "text": "Enfermedad de Hirschsprung de segmento corto; megauréter bilateral por reflujo.",
+        "isCorrect": false,
+        "explanation": "El megacolon de Hirschsprung muestra una zona de transición de estrechez anal-rectal con dilatación proximal, no microcolon por desuso completo liso de calibre disminuido difuso."
+      },
+      {
+        "text": "Atresia yeyunoileal congénita (obstrucción intestinal baja); el enema baritado o con contraste soluble revelará la presencia de un microcolon por desuso (debido a la ausencia de paso de meconio y líquido amniótico deglutido hacia el colon distal durante la vida fetal).",
+        "isCorrect": true,
+        "explanation": "La atresia intestinal baja (yeyunoileal) cursa con distensión abdominal generalizada, vómitos biliosos y niveles hidroaéreos múltiples en escalera en la radiografía simple. El enema baritado muestra la presencia de un microcolon (colon de calibre muy pequeño pero estructuralmente normal) debido al desuso, ya que el meconio y líquido deglutido por el feto nunca alcanzaron el colon para dilatarlo de forma fisiológica durante el desarrollo intrauterino."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 21 días de vida, previamente sano. Su madre consulta en el policlínico porque nota que su hijo presenta ictericia progresiva en piel y escleras que comenzó a las 2 semanas de vida. Al interrogar de forma dirigida, la madre de forma clara describe que las deposiciones del lactante son de color blanco-amarillento pálido (acolia franca) y la orina mancha el pañal de un color amarillo oscuro que tiñe los bordes (coluria). Al examen físico destaca activo, eutrófico, ictericia cutánea generalizada y hepatomegalia firme de 3 cm bajo el reborde costal derecho. ¿Cuál es la principal sospecha de esta patología de resolución quirúrgica urgente y qué cirugía de rescate se debe realizar antes de las 8 semanas de vida para evitar el desarrollo de cirrosis biliar irreversible?",
+    "hint": "La atresia de vías biliares es la causa más común de ictericia colestásica neonatal. El daño progresivo de las vías biliares extrahepáticas exige una intervención de bypass quirúrgico precoz para evitar la fibrosis del parénquima hepático.",
+    "options": [
+      {
+        "text": "Atresia de vías biliares extrahepáticas; portoenterostomía de Kasai (anastomosis en Y de Roux de un asa yeyunal al porta hepatis desprovisto de conductos).",
+        "isCorrect": true,
+        "explanation": "La atresia de vías biliares es la causa más común de ictericia colestásica neonatal (ictericia progresiva tardía, coluria, acolia e hiperbilirrubinemia directa). Es una urgencia quirúrgica progresiva; el tratamiento de elección es la portoenterostomía de Kasai (anastomosis biliar al porta hepatis) que debe realizarse idealmente antes de los 60 días de vida (8 semanas) para restablecer el drenaje biliar, disminuyendo drásticamente la progresión a cirrosis biliar y la necesidad de trasplante hepático temprano en el lactante."
+      },
+      {
+        "text": "Quiste de colédoco tipo I; colecistectomía laparoscópica profiláctica con derivación cistogástrica de intervalo.",
+        "isCorrect": false,
+        "explanation": "El quiste de colédoco cursa con dilatación quística visible y el Kasai es específico para la atresia biliar obstructiva difusa neonatal."
+      },
+      {
+        "text": "Coledocolitiasis neonatal por hemólisis; esfinterotomía endoscópica retrógrada urgente (ERCP).",
+        "isCorrect": false,
+        "explanation": "La litiasis es rara a esta edad y la colestasis obstructiva neonatal por atresia biliar es de elección quirúrgica reconstructiva hepática profunda."
+      },
+      {
+        "text": "Hepatitis neonatal por CMV; trasplante hepático de urgencia inmediato en los primeros 15 días de vida de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "La hepatitis viral se maneja de forma médica; el trasplante se reserva para cirrosis tardía establecida, no de primera línea sin Kasai previo."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de 10 días de vida, previamente sano, comienza de forma súbita con dolor abdominal severo manifestado por llanto inconsolable y flexión de extremidades sobre el abdomen, asociado a vómitos de contenido bilioso neto abundante. Al examen físico destaca pálido, frío, taquicárdico a 180 lpm, hipotenso y con abdomen moderadamente distendido, doloroso a la palpación difusa. Se plantea sospecha diagnóstica de malrotación intestinal complicada con Vólvulo de intestino medio. Fisiopatológicamente, ¿cuál es el vaso sanguíneo principal que sufre de torsión mecánica obstructiva en su base durante este evento catastrófico, comprometiendo de forma letal la viabilidad de la totalidad de las asas delgadas?",
+    "hint": "El vólvulo de intestino medio por malrotación es la catástrofe quirúrgica más temida en neonatología. La torsión del intestino medio se produce sobre la base del mesenterio estrecho que contiene el vaso de aporte arterial principal de todo el intestino medio.",
+    "options": [
+      {
+        "text": "Tronco celíaco del estómago.",
+        "isCorrect": false,
+        "explanation": "El tronco celíaco irriga esófago, estómago y duodeno proximal, no estando implicado en la torsión rotacional de la malrotación."
+      },
+      {
+        "text": "Arteria mesentérica superior (AMS).",
+        "isCorrect": true,
+        "explanation": "En la malrotación intestinal, la base del mesenterio es sumamente estrecha debido a la falta de fijación normal del colon y duodeno a la pared posterior. El intestino medio puede rotar o torsionarse sobre este eje estrecho de fijación, el cual contiene a la arteria mesentérica superior. La torsión de la AMS interrumpe por completo el flujo sanguíneo arterial hacia todo el intestino medio (desde el duodeno distal hasta el tercio medio del colon transverso), provocando isquemia masiva, gangrena, perforación y muerte del neonato si no se realiza detorsión inmediata (operación de Ladd) en pabellón."
+      },
+      {
+        "text": "Arteria renal izquierda.",
+        "isCorrect": false,
+        "explanation": "Las arterias renales no forman parte de la base móvil del mesenterio que rota en el vólvulo de intestino medio."
+      },
+      {
+        "text": "Arteria mesentérica inferior (AMI).",
+        "isCorrect": false,
+        "explanation": "La AMI irriga el tercio distal del colon transverso, colon descendente y recto; no se compromete en la torsión selectiva del asa del intestino medio y su torsión aislada no explica este cuadro de vólvulo masivo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido prematuro de 28 semanas de gestación, hospitalizado en la UCIN por Enterocolitis Necrotizante (ECN) Estadio IIB bajo tratamiento médico activo. Al sexto día de evolución, presenta de forma brusca hipotensión severa que requiere soporte con drogas vasoactivas, marcado aumento de la distensión abdominal con piel brillante de aspecto violáceo y apneas repetitivas. Se solicita una radiografía de abdomen portátil que revela aire libre peritoneal masivo (neumoperitoneo), visualizándose el signo del \"aire libre bajo el diafragma\". ¿Cuál es la conducta de elección inmediata recomendada por los consensos de neonatología y cirugía infantil?",
+    "hint": "La presencia de neumoperitoneo (Estadio IIIB de Bell) es una indicación absoluta y de urgencia de intervención quirúrgica por perforación intestinal confirmada. En prematuros de extremo bajo peso e inestables, se puede realizar una medida temporal salvavidas en la cuna.",
+    "options": [
+      {
+        "text": "Mantener el tratamiento médico conservador aumentando la dosis de antibióticos endovenosos e iniciar alimentación enteral a permanencia.",
+        "isCorrect": false,
+        "explanation": "Mantener el tratamiento médico conservador en presencia de perforación libre está contraindicado y es de pronóstico letal por shock séptico e insuficiencia multiorgánica."
+      },
+      {
+        "text": "Realizar punción de la neumatosis intestinal bajo control ecográfico continuo en la cuna de procedimientos.",
+        "isCorrect": false,
+        "explanation": "No se realiza punción de la neumatosis con aguja de forma aislada y el gas portal no se maneja de este modo."
+      },
+      {
+        "text": "Derivación inmediata a pabellón para laparotomía exploradora urgente (con resección de asas necróticas y confección de ostomía de descarga) o, alternativamente, en prematuros de extremo bajo peso (<1.000 g) inestables, realizar un drenaje peritoneal primario con catéter (procedimiento de paracentesis de descompresión) en la misma cuna de la UCIN.",
+        "isCorrect": true,
+        "explanation": "La presencia de neumoperitoneo (Estadio IIIB de Bell) indica perforación intestinal libre por necrosis y constituye una indicación absoluta de tratamiento quirúrgico. En recién nacidos de término o prematuros estables, se indica laparotomía exploradora con resección de asas no viables y ostomía de descarga. En prematuros de extremo bajo peso (<1.000 g) clínicamente inestables, el drenaje peritoneal primario con catéter en la misma cuna de la UCIN es una alternativa válida de salvataje inmediato que descomprime el neumoperitoneo y drena la peritonitis, postergando la cirugía definitiva."
+      },
+      {
+        "text": "Indicar enema rectal de bario hiperosmolar a alta presión de forma inmediata para disolver la neumatosis intestinal.",
+        "isCorrect": false,
+        "explanation": "El enema baritado está estrictamente contraindicado en presencia de sospecha o confirmación de perforación intestinal por el riesgo de peritonitis química masiva severa por bario."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 36 horas de vida, previamente sano. Presenta desde el nacimiento ausencia de eliminación de meconio, asociado a distensión abdominal progresiva y vómitos biliosos. Al examen físico se palpan asas intestinales firmes, de consistencia pastosa en la fosa ilíaca derecha. Se toma una radiografía de abdomen de control que revela dilatación de asas proximales y una imagen característica de \"vidrio esmerilado\" o \"burbujas de jabón\" (signo de Neuhauser) en la fosa ilíaca derecha, sin niveles hidroaéreos marcados. ¿Cuál es el diagnóstico más probable de esta obstrucción intestinal neonatal, a qué patología genética sistémica grave se asocia clásicamente y cuál es el tratamiento inicial no quirúrgico de elección?",
+    "hint": "Es una causa de obstrucción intestinal neonatal baja por meconio espeso e insolubilizado. Es la manifestación de debut común en un porcentaje importante de niños con un trastorno genético de los canales de cloro.",
+    "options": [
+      {
+        "text": "Atresia duodenal completa; Síndrome de Down; duodenoduodenoanastomosis urgente.",
+        "isCorrect": false,
+        "explanation": "La atresia duodenal se caracteriza por el signo de la doble burbuja en la radiografía simple, sin presentar la imagen en burbujas de jabón de fosa ilíaca típica del íleo meconial."
+      },
+      {
+        "text": "Enfermedad de Hirschsprung; mutación del gen RET; dilataciones anales digitales progresivas.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de Hirschsprung se confirma por biopsia rectal por aspiración y cursa con dilatación proximal difusa sin el signo radiográfico de Neuhauser."
+      },
+      {
+        "text": "Tapón meconial simple; hipotiroidismo congénito; administración oral de laxantes osmóticos.",
+        "isCorrect": false,
+        "explanation": "El tapón meconial simple es más distal (colónico), se disuelve con enemas suaves de suero fisiológico templado y no asocia el signo radiológico específico de Neuhauser."
+      },
+      {
+        "text": "Íleo meconial por Fibrosis Quística (mutación del gen CFTR); el tratamiento inicial no quirúrgico en ausencia de peritonitis consiste en la reducción mediante enema rectal con medio de contraste hiperosmolar soluble en agua (como Gastrografin) bajo control radioscópico para disolver y arrastrar el meconio impactado.",
+        "isCorrect": true,
+        "explanation": "El íleo meconial es una causa de obstrucción por impactación de meconio desecado y denso en el íleon distal, siendo la manifestación de debut del 15-20% de los niños con Fibrosis Quística. La radiografía muestra dilatación de asas y el signo de Neuhauser (aire mezclado con meconio espeso, que simula burbujas de jabón). El tratamiento inicial no complicado es el enema con contraste hiperosmolar (como Gastrografin), que arrastra agua al lumen del colon para ablandar y arrastrar el tapón de meconio deshidratado de forma segura."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Un recién nacido de término, de 48 horas de vida, hijo de madre diabética insulinorresistente mal controlada durante la gestación. Permanece en alojamiento conjunto sin eliminar meconio, asociándose a distensión abdominal leve y vómitos alimenticios intermitentes. La radiografía simple de abdomen revela distensión moderada de múltiples asas colónicas de forma difusa con niveles hidroaéreos escasos. Se realiza un enema rectal con solución fisiológica templada que resulta en la expulsión de una masa cilíndrica espesa de meconio deshidratado cubierto por moco, con resolución completa de la distensión y reanudación normal del tránsito intestinal. ¿Cuál es el diagnóstico clínico más probable de este cuadro obstructivo benigno?",
+    "hint": "Es una causa obstructiva transitoria y benigna colónica por un cilindro denso de moco y meconio. Tiene fuerte asociación con el embarazo de madre diabética y se resuelve de forma completa y definitiva tras un enema simple de suero fisiológico.",
+    "options": [
+      {
+        "text": "Tapón meconial; asociado frecuentemente a prematurez, hijo de madre diabética y síndrome de colon izquierdo hipoplásico.",
+        "isCorrect": true,
+        "explanation": "El tapón meconial es una causa benigna de retraso de meconio por la presencia de un cilindro espeso y denso de moco en el colon. Es frecuente en prematuros, hijos de madres diabéticas y se asocia al síndrome de colon izquierdo hipoplásico. Resuelve de forma completa y curativa tras la administración de enemas suaves de suero fisiológico templado que ablandan y evacuan el tapón, sin la morbilidad de la Fibrosis Quística."
+      },
+      {
+        "text": "Íleo meconial por Fibrosis Quística complicado; requiere resección del íleon de urgencia.",
+        "isCorrect": false,
+        "explanation": "El íleo meconial es proximal (íleon terminal), se asocia a Fibrosis Quística y requiere reducción hiperosmolar con Gastrografin enema, no resolviendo de forma completa con enemas simples de suero templado por vía rectal."
+      },
+      {
+        "text": "Enfermedad de Hirschsprung ultra-corta; requiere de forma obligatoria una colectomía total inmediata.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de Hirschsprung cursa con aganglionosis y es progresiva, no resolviendo de forma permanente tras una sola evacuación meconial de suero fisiológico templado."
+      },
+      {
+        "text": "Atresia yeyunal intrínseca congénita tipo I; requiere de forma mandatoria derivación para anastomosis en diamante.",
+        "isCorrect": false,
+        "explanation": "La atresia yeyunal es una obstrucción orgánica neonatal que no se comunica con el recto y no se resuelve mediante la administración de enemas distales."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 12 horas de vida, presenta desde el nacimiento abundante sialorrea, tos y cianosis al intentar succionar el pecho materno. Durante la evaluación física, se consta la imposibilidad de pasar una sonda nasogástrica (SNG) que se detiene de forma infranqueable a 9 cm de la arcada dentaria superior. Se toma una radiografía simple de tórax y abdomen de control que muestra la sonda acodada en un saco esofágico proximal ciego, con un abdomen completamente opaco y libre de gas. ¿A qué tipo de Atresia Esofágica corresponde este trazado y qué complicación reconstructiva importante representa?",
+    "hint": "En la atresia pura, el esófago está completamente interrumpido y no hay ninguna fístula traqueoesofágica. Al no haber comunicación con el árbol traqueal, el estómago e intestinos se visualizan opacos y libres de aire en la radiografía de abdomen de control.",
+    "options": [
+      {
+        "text": "Atresia esofágica tipo III; saco proximal ciego con fístula distal que cursa con abundante gas gástrico.",
+        "isCorrect": false,
+        "explanation": "La atresia tipo III asocia fístula distal y gas gástrico e intestinal en la radiografía simple de abdomen."
+      },
+      {
+        "text": "Atresia esofágica tipo I (o A); atresia pura sin fístula traqueoesofágica, caracterizada clínicamente por ser una anomalía de \"brecha larga\" (long gap) que dificulta la anastomosis primaria precoz y requiere gastrostomía de alimentación y reparación diferida.",
+        "isCorrect": true,
+        "explanation": "La atresia esofágica tipo I (o A, pura sin fístula, 8-10%) se caracteriza radiográficamente por la ausencia total de gas en el tracto digestivo distal (\"abdomen opaco o silente\"), ya que el esófago está completamente interrumpido y no hay comunicación con la tráquea. Al no tener fístula, la distancia entre el cabo esofágico proximal y distal suele ser muy amplia (\"brecha larga\" o long gap), impidiendo la anastomosis directa inicial y requiriendo gastrostomía para alimentar al lactante mientras los cabos crecen de forma diferida."
+      },
+      {
+        "text": "Atresia esofágica tipo IV; doble fístula con alto riesgo de neumonía por aspiración química.",
+        "isCorrect": false,
+        "explanation": "La tipo IV tiene doble fístula y se acompaña de gas distal."
+      },
+      {
+        "text": "Atresia esofágica tipo V (fístula en H); fístula traqueoesofágica sin atresia de esófago.",
+        "isCorrect": false,
+        "explanation": "La fístula en H (tipo V) cursa sin atresia, por lo que la sonda ingresa sin dificultad al estómago, aunque presenta sintomatología respiratoria obstructiva grave y persistente al alimentar."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacida de término, de 24 horas de vida, permanece hospitalizada en la maternidad del Hospital Luis Tisné. Al examen físico perineal se constata ausencia de orificio anal en su localización anatómica normal, visualizándose de forma prolija la salida de meconio espeso a través de un pequeño orificio situado en el vestíbulo vaginal (inmediatamente por detrás del himen). ¿Cuál es la sospecha diagnóstica más probable de esta malformación anorrectal y cuál es la conducta quirúrgica inicial estándar recomendada?",
+    "hint": "Es la malformación anorrectal más común en niñas. Al abrirse el recto en el vestíbulo vaginal de forma muy estrecha, el riesgo de retención fecal y megacolon es elevado. El tratamiento inicial busca proteger y desviar el tránsito antes de la cirugía plástica reconstructiva compleja posterior.",
+    "options": [
+      {
+        "text": "Fístula rectovaginal alta; requiere de forma obligatoria una anoplastía perineal de urgencia en las primeras 2 horas de vida sin colostomía.",
+        "isCorrect": false,
+        "explanation": "La anoplastía directa inmediata en fístulas rectovestibulares asocia un alto riesgo de dehiscencia y estenosis anal severa debido al tejido inflamatorio neonatal, requiriendo colostomía previa protectora."
+      },
+      {
+        "text": "Fístula perineal baja; requiere dilatación digital diaria y alta ambulatoria inmediata sin controles.",
+        "isCorrect": false,
+        "explanation": "La fístula perineal baja se sitúa en el periné cutáneo (fuera del vestíbulo vulvar) y puede tratarse con anoplastía directa en el período neonatal inmediato sin colostomía, diferenciándose de la vestibular."
+      },
+      {
+        "text": "Fístula rectovestibular (malformación anorrectal de altura intermedia/alta en niñas); requiere régimen cero inicial, descompresión con SNG, y derivación para realización de una colostomía de descarga en dos cabos de forma programada como primer paso, difiriendo la reconstrucción definitiva (anorrectoplastía sagital posterior de Peña) para los 3 a 6 meses de vida.",
+        "isCorrect": true,
+        "explanation": "La fístula rectovestibular es la MAR más común en niñas. Se clasifica de forma clásica como de altura intermedia o alta. Debido a que el orificio fístuloso vestibular suele ser estrecho e insuficiente para garantizar una evacuación colónica libre sin riesgo de megacolon obstructivo o impactación, el manejo inicial estándar recomendado es realizar una colostomía de descarga en dos cabos separados para proteger la vía urinaria y desviar el tránsito, difiriendo la reconstrucción definitiva (Anorrectoplastía Sagital Posterior de Peña) para los 3 a 6 meses de vida."
+      },
+      {
+        "text": "Extrofia de cloaca severa; requiere de forma prioritaria derivación inmediata para amputación abdominal de urgencia de pabellón.",
+        "isCorrect": false,
+        "explanation": "La extrofia cloacal es una malformación pélvica compleja que no se presenta de forma paraumbilical aislada conservando cordón normal."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Lactante de 2 días de vida, hospitalizado en la UCI Neonatal del Hospital Clínico San Borja Arriarán por una Hernia Diafragmática Congénita izquierda operada de forma exitosa mediante parche quirúrgico. Sin embargo, cursa con insuficiencia respiratoria severa e hipoxemia refractaria severa a pesar de ventilación mecánica de alta frecuencia (VAFO). El ecocardiograma Doppler color revela una presión sistólica de arteria pulmonar de 75 mmHg (hipertensión pulmonar severa) que genera un cortocircuito (shunt) persistente de derecha a izquierda a través del ductus arterioso permeable y del foramen oval. Fisiopatológicamente, ¿cuál es la causa estructural de esta hipertensión pulmonar severa en la HDC?",
+    "hint": "En la HDC, la compresión de los pulmones fetales en desarrollo por las vísceras herniadas impide el crecimiento estructural del parénquima y de sus vasos sanguíneos, reduciendo de forma irreversible el área transversal del lecho vascular.",
+    "options": [
+      {
+        "text": "Estenosis de la válvula pulmonar de origen congénito por tracción quirúrgica local.",
+        "isCorrect": false,
+        "explanation": "La estenosis pulmonar es una cardiopatía congénita valvular intrínseca y no es la causa de la HTP sistémica secundaria de la HDC."
+      },
+      {
+        "text": "Hipoplasia del ventrículo izquierdo por falta de llenado diastólico.",
+        "isCorrect": false,
+        "explanation": "Aunque el ventrículo izquierdo puede estar comprimido, la causa fisiopatológica primaria de la HTP radica en el lecho vascular pulmonar disminuido por la hipoplasia."
+      },
+      {
+        "text": "Presencia de una fístula arteriovenosa pulmonar difusa bilateral secundaria.",
+        "isCorrect": false,
+        "explanation": "No existen fístulas arteriovenosas difusas de forma característica en el parénquima pulmonar de los pacientes con hernia diafragmática congénita."
+      },
+      {
+        "text": "Hipoplasia pulmonar marcada con reducción grave del número de generaciones bronquiales y alvéolos, asociada a un menor lecho vascular pulmonar total con hipertrofia de la musculatura lisa arteriolar de forma bilateral.",
+        "isCorrect": true,
+        "explanation": "La hipertensión pulmonar (HTP) y la hipoplasia pulmonar son los dos factores que determinan la gravedad y la mortalidad en la HDC. La compresión intratorácica por el estómago y las asas intestinales durante el periodo crítico de la organogénesis pulmonar fetal (4 a 17 semanas) provoca hipoplasia pulmonar severa bilateral (más severa en el lado izquierdo). Esto se traduce en un número reducido de ramas bronquiales y alvéolos, y de forma crítica, en un menor número de vasos sanguíneos pulmonares totales. Los vasos remanentes presentan una marcada hipertrofia y engrosamiento de la musculatura lisa arteriolar que dota a la vasculatura de un comportamiento hiperreactivo."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, nacido con antecedentes de ecografías prenatales que mostraban múltiples asas intestinales dilatadas y sospecha de obstrucción intestinal. Al nacer, presenta distensión abdominal progresiva y vómitos biliosos abundantes desde las primeras horas. Se realiza una laparotomía exploradora que confirma la presencia de una Atresia Ileal tipo II (los dos cabos intestinales están ciegos y separados por un cordón fibroso del mesenterio). Fisiopatológicamente, ¿cuál es el mecanismo etiopatogénico aceptado como causante de la gran mayoría de las atresias intestinales yeyunoileales durante la vida fetal?",
+    "hint": "A diferencia de la atresia duodenal (que se produce por una falla en la recanalización del lumen duodenal en la 8ª-10ª semana de gestación), las atresias yeyunoileales se producen de forma típica y tardía en el embarazo por un evento mecánico local que corta el riego de un vaso clave.",
+    "options": [
+      {
+        "text": "Accidente vascular isquémico focal intrauterino (como vólvulo segmentario, intususcepción fetal, estrangulamiento herniario o embolia) que compromete una rama de la arteria mesentérica, provocando necrosis y reabsorción aséptica del segmento intestinal fetal afectado.",
+        "isCorrect": true,
+        "explanation": "A diferencia de la atresia duodenal (que se debe a un fallo de recanalización epitelial en el período embrionario temprano), las atresias yeyunoileales se deben a un accidente vascular segmentario en la vida fetal tardía (como vólvulo de asa, intususcepción o estrangulamiento). El cese focal de la perfusión arterial (arteria mesentérica superior o sus ramas) causa isquemia y posterior reabsorción aséptica del segmento intestinal necrosado, dejando cabos intestinales ciegos y mesenterio ausente o interrumpido de forma localizada."
+      },
+      {
+        "text": "Falla en la recanalización de la luz intestinal que permanece sólida de forma congénita durante el período de organogénesis embrionaria temprana.",
+        "isCorrect": false,
+        "explanation": "La falla de recanalización o de vacuolización del lumen es el mecanismo fisiopatológico clásico de la atresia duodenal, no de las yeyunoileales segmentarias distales."
+      },
+      {
+        "text": "Infección connatal intrauterina por Citomegalovirus que destruye las células mientéricas de la pared del intestino.",
+        "isCorrect": false,
+        "explanation": "El CMV congénito produce microcefalia, calcificaciones cerebrales e ictericia colestásica, pero no provoca de forma directa accidentes vasos mecánicos locales e isquemia intestinal que causen atresias óseas intestinales segmentarias."
+      },
+      {
+        "text": "Exposición fetal a dosis inmunosupresoras de betabloqueadores maternos administrados durante el primer trimestre de la gestación.",
+        "isCorrect": false,
+        "explanation": "El uso de betabloqueadores maternos puede asociarse a bradicardia o hipoglicemia en el recién nacido prematuro de bajo peso, pero no se asocia de forma causal a la reabsorción isquémica segmentaria intrauterina de las asas delgadas descrita."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 24 horas de vida, de sexo masculino, permanece hospitalizado en sala de alojamiento conjunto. Al examen físico perineal se constata ausencia completa de orificio anal en su localización anatómica normal (ano imperforado), sin fístulas perineales cutáneas visibles. Sin embargo, se observa de forma pertinente en la hoja de enfermería la presencia de manchas oscuras verdosas de aspecto de meconio mezcladas en la orina (meconiosuria). ¿Cuál es la sospecha diagnóstica más probable de esta malformación anorrectal en varones, su nivel de altura y qué examen complementario confirma la comunicación urinaria?",
+    "hint": "La presencia de meconio en la orina de un varón con ano imperforado es un signo cardinal que dota de gravedad a la malformación. Confirma de forma inequívoca la existencia de una fístula profunda hacia la uretra o la vejiga, clasificándola como una MAR alta.",
+    "options": [
+      {
+        "text": "Ano imperforado con fístula recto-perineal baja; uretrocistografía miccional diferida.",
+        "isCorrect": false,
+        "explanation": "Las fístulas rectoperineales de nivel bajo se abren al periné anterior o escroto, conservando indemne el tracto urinario de forma completa, por lo que no cursan con meconio en la orina."
+      },
+      {
+        "text": "Ano imperforado con fístula recto-urinaria (recto-uretral o recto-vesical, malformación de altura alta/intermedia en varones); se debe solicitar sedimento de orina completa (para certificar presencia de meconio) y realizar ecografía renal-vesical y posterior uretrocistografía miccional de control para delimitar el trayecto de la fístula.",
+        "isCorrect": true,
+        "explanation": "La presencia de meconiosuria confirma la fístula a la vía urinaria (recto-uretral prostática, recto-uretral bulbar o recto-vesical) y dota de alta/intermedia complejidad a la MAR en varones. Exige la toma de ecografía de riñón y vejiga para descartar reflujo urinario de orina con deposiciones, y uretrocistografía miccional para trazar la fístula antes de la colostomía de descarga inmediata requerida de urgencia neonatal para evitar urosepsis severa."
+      },
+      {
+        "text": "Atresia duodenal complicada con fístula urinaria congénita de Meckel.",
+        "isCorrect": false,
+        "explanation": "La atresia duodenal es una causa de obstrucción duodenal que no tiene relación de vecindad ni embriología con el ano imperforado ni las fístulas urinarias del recto."
+      },
+      {
+        "text": "Megacolon de Hirschsprung ultra-largo con fístula rectovaginal masculina atípica.",
+        "isCorrect": false,
+        "explanation": "El Hirschsprung tiene ano permeable normal y las fístulas vaginales masculinas no existen anatómicamente en varones."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Durante una clase de seminario de cirugía pediátrica neonatal, el docente interroga sobre las diferencias pronósticas a largo plazo entre el Onfalocele y la Gastrosquisis. De acuerdo con la literatura y la experiencia clínica acumulada, ¿cuál de las siguientes afirmaciones resume de forma precisa el perfil de sobrevida y complicaciones de ambos defectos de la pared abdominal?",
+    "hint": "En la gastrosquisis, las asas del intestino sufren inflamación química severa al nacer, condicionando una importante parálisis del tránsito intestinal. Sin embargo, carece de grandes malformaciones asociadas, a diferencia del onfalocele.",
+    "options": [
+      {
+        "text": "El onfalocele tiene un pronóstico digestivo inicial mucho más tórpido que la gastrosquisis debido a la rotura sistemática de su saco membranoso neonatal.",
+        "isCorrect": false,
+        "explanation": "El saco del onfalocele protege de forma muy eficaz las asas intestinales del daño químico durante el embarazo, por lo que el pronóstico digestivo inicial es excelente tras el cierre gradual."
+      },
+      {
+        "text": "La gastrosquisis tiene una alta tasa de mortalidad global tardía debido a anomalías cromosómicas severas y malformaciones cardíacas asociadas en más del 60% de los casos.",
+        "isCorrect": false,
+        "explanation": "La gastrosquisis no asocia de forma característica cromosomopatías ni malformaciones cardíacas congénitas mayores complejas."
+      },
+      {
+        "text": "El onfalocele presenta una mayor tasa de mortalidad global debida de forma casi exclusiva a la gravedad de las malformaciones congénitas mayores asociadas (cardíacas, renales y cromosomopatías); mientras que la gastrosquisis presenta una excelente sobrevida global (>90%), pero cursa con una alta morbilidad digestiva en el postoperatorio inmediato caracterizada por dismotilidad intestinal severa, íleo prolongado y retraso del inicio de la alimentación enteral.",
+        "isCorrect": true,
+        "explanation": "El pronóstico de sobrevida global del onfalocele está condicionado y disminuido de forma prioritaria por la alta coexistencia de malformaciones mayores asociadas (especialmente cardíacas, renales y síndromes genéticos letales). Por su parte, la gastrosquisis es un defecto aislado de excelente sobrevida a largo plazo, pero con una alta tasa de complicaciones digestivas postoperatorias inmediatas: íleo paralítico prolongado, peritonitis química mucosa con edema de asas, y dismotilidad que requiere ayuno y nutrición parenteral prolongada."
+      },
+      {
+        "text": "Ambas patologías tienen un pronóstico idéntico con una sobrevida inferior al 10% en la era intensiva neonatal moderna de Chile.",
+        "isCorrect": false,
+        "explanation": "Con el desarrollo de la medicina intensiva neonatal moderna y el uso de técnicas de reducción progresiva mediante silo, la sobrevida de ambos defectos aislados supera el 85-90% en Chile."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "RN de término, portador de un onfalocele gigante que contiene el estómago, bazo y la totalidad del hígado y asas intestinales. El saco membranoso está intacto, de 10 cm de diámetro. Se evalúa la resolución quirúrgica. Fisiopatológicamente, ¿cuál es el principal riesgo de intentar un cierre primario inmediato (reintroducción de todo el contenido y cierre directo de la fascia de la pared abdominal) en un onfalocele gigante y cuál es la técnica de elección recomendada para evitar esta complicación?",
+    "hint": "En defectos gigantes, la cavidad abdominal es sumamente pequeña y no se ha desarrollado para albergar las vísceras herniadas. Introducir todo el contenido a la fuerza en una sola cirugía reduce el volumen pulmonar y el gasto cardíaco de forma drástica.",
+    "options": [
+      {
+        "text": "Estenosis de la vena cava superior; requiere colocación de un shunt derivativo.",
+        "isCorrect": false,
+        "explanation": "La compresión por la presión abdominal comprometida afecta de forma selectiva a la vena cava inferior y venas ilíacas, no a la vena cava superior."
+      },
+      {
+        "text": "Neumotórax a tensión bilateral por hiperinsuflación diafragmática.",
+        "isCorrect": false,
+        "explanation": "Aunque hay restricción de la excursión diafragmática, no se produce de forma típica un neumotórax a tensión por barotrauma por la elevación del diafragma."
+      },
+      {
+        "text": "Peritonitis bacteriana espontánea fulminante por rotura del saco intraoperatorio.",
+        "isCorrect": false,
+        "explanation": "El riesgo principal del cierre forzado primario inmediato en onfalocele gigante es hemodinámico y ventilatorio sistémico secundario a la presión, no la infección de peritonitis primaria."
+      },
+      {
+        "text": "Síndrome compartimental abdominal (debido al aumento masivo de la presión intraabdominal que comprime la vena cava inferior, disminuye el retorno venoso, altera la perfusión renal y restringe la excursión diafragmática provocando colapso ventilatorio); se debe realizar un cierre progresivo o diferido utilizando un silo de Schuster de polietileno suspendido sobre el defecto para reducir paulatinamente el contenido hacia el abdomen por gravedad.",
+        "isCorrect": true,
+        "explanation": "Intentar reintroducir forzadamente un volumen visceral gigante hacia una cavidad abdominal pequeña hipoplásica eleva drásticamente la presión intraabdominal, comprimiendo la vena cava inferior (reducción drástica de retorno venoso y colapso circulatorio), disminuyendo la perfusión renal (oligoanuria) y elevando el diafragma (falla ventilatoria aguda restrictiva grave), lo que configura un Síndrome Compartimental Abdominal. La técnica de elección consiste en colocar un silo de silicona (silo de Schuster) suspendido de la pared del onfalocele y realizar una compresión manual diaria suave y gradual para que el contenido descienda lentamente hacia el abdomen en el transcurso de días antes del cierre fascial definitivo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "RN de término con sospecha de atresia esofágica tipo III de brecha corta. Se encuentra hospitalizado en la Unidad de Neonatología del Hospital Tisné en régimen cero, con SNG descompresiva y cabecera elevada a 45° para evitar broncoaspiración de saliva y jugo gástrico. Antes de programar y trasladar al recién nacido a pabellón para la reparación definitiva, ¿cuál es el estudio de imágenes y de descarte malformativo prioritario que debe realizarse de forma obligatoria?",
+    "hint": "Las anomalías congénitas de vecindad tienen una altísima tasa de coexistencia. Antes de proceder a una toracotomía neonatal de gran envergadura anestésica, se deben pesquisar de forma mandatoria defectos que comprometan de forma vital la homeostasis circulatoria o renal intraoperatoria.",
+    "options": [
+      {
+        "text": "Ecocardiograma Doppler color y ecografía renal; para descartar cardiopatías congénitas severas y malformaciones nefrourológicas de la asociación VACTERL, las cuales tienen un impacto pronóstico crítico e inmediato en el manejo intraoperatorio.",
+        "isCorrect": true,
+        "explanation": "La atresia esofágica se asocia en el 50% de los casos a las anomalías de la asociación VACTERL. De forma crítica, las cardiopatías congénitas mayores (como comunicación interventricular, persistencia de la circulación fetal o arco aórtico derecho) y las malformaciones renales (como agenesia renal unilateral o ectopia vesicular) modifican de forma directa y de urgencia el plan anestésico intraoperatorio, la dosificación de fluidos y drogas vasoactivas, exigiendo un ecocardiograma Doppler y ecografía renal previa de descarte obligatorios."
+      },
+      {
+        "text": "Ecotomografía de caderas bilateral; para descartar de forma dirigida displasia de caderas subclínica.",
+        "isCorrect": false,
+        "explanation": "La ecotomografía de caderas no tiene ninguna urgencia ni utilidad en el preoperatorio inmediato del recién nacido con atresia esofágica, realizándose como tamizaje selectivo ambulatorio."
+      },
+      {
+        "text": "TAC de cerebro sin contraste; para evaluar la madurez de la matriz germinal y descartar hemorragia intraventricular.",
+        "isCorrect": false,
+        "explanation": "La tomografía computada de cerebro se reserva ante sospecha de asfixia grave, asimetría neurológica o convulsiones, no siendo de tamizaje universal preoperatorio en el RN de término."
+      },
+      {
+        "text": "Radiografía de ambas extremidades superiores AP; para descartar de forma prioritaria agenesia de radio proximal.",
+        "isCorrect": false,
+        "explanation": "La agenesia de radio es parte de las anomalías de extremidades del VACTERL, pero su diagnóstico es clínico visual y su confirmación por radiografía simple no tiene ninguna urgencia de pabellón."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Durante una laparotomía exploradora en un recién nacido con obstrucción intestinal baja y microcolon por desuso, el cirujano infantil constata una Atresia Yeyunoileal severa caracterizada por: un cabo proximal yeyunal que termina en saco ciego cónico, un defecto extenso en V del mesenterio que expone al duodeno, y un cabo distal de íleon terminal de muy pequeño calibre que se encuentra enrollado de forma helicoidal en espiral alrededor de una única rama arterial colateral mesentérica. ¿A qué tipo específico de la clasificación de Grosfeld corresponde esta presentación anatómica y cómo se conoce comúnmente?",
+    "hint": "Es una variante muy específica y de alta gravedad de atresia yeyunoileal de origen vascular, donde la interrupción de la arteria mesentérica superior distal provoca la reabsorción mesentérica y el enrollamiento helicoidal del asa remanente sobre una única colateral.",
+    "options": [
+      {
+        "text": "Tipo I (Atresia membranosa simple con pared mesentérica indemne).",
+        "isCorrect": false,
+        "explanation": "El Tipo I es una membrana intraluminal con pared muscular y mesenterio intactos, sin reabsorción de tejidos ni enrollamiento helicoidal."
+      },
+      {
+        "text": "Tipo IIIb (Atresia en \"cáscara de manzana\" o \"apple-peel deformity\"); caracterizada por la ausencia de la arteria mesentérica superior distal y alta tasa de intestino corto secundario.",
+        "isCorrect": true,
+        "explanation": "La atresia yeyunoileal tipo IIIb de Grosfeld se conoce clásicamente como deformidad en \"cáscara de manzana\", \"en espiral\" o \"apple-peel\". Se produce por la oclusión intrauterina de la arteria mesentérica superior distal, lo que provoca la reabsorción de gran parte del mesenterio medio. El yeyuno distal termina de forma ciega y el íleon distal remanente se nutre de forma precaria de una sola rama arterial colateral (habitualmente la arteria ileocólica), enrollándose alrededor de ella de forma helicoidal. Cursa con alta morbimortalidad y riesgo de intestino corto."
+      },
+      {
+        "text": "Tipo IV (Atresias intestinales múltiples en \"sarta de salchichas\").",
+        "isCorrect": false,
+        "explanation": "El Tipo IV se caracteriza por múltiples segmentos de atresia separados que simulan una \"sarta de salchichas\", sin el enrollamiento sobre una sola arteria colateral."
+      },
+      {
+        "text": "Tipo II (Atresia con cordón fibroso de interconexión mesentérica normal).",
+        "isCorrect": false,
+        "explanation": "El Tipo II tiene un cordón fibroso de unión entre ambos cabos con mesenterio normal sin defectos mesentéricos en V ni giros helicoidales."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Un recién nacido de sexo masculino con diagnóstico de ano imperforado neonatal es evaluado para definir el tipo de fístula urinaria. Se consta la presencia de abundante meconio en la orina (meconiosuria) y la cistografía miccional revela que el recto se comunica de forma directa a nivel del cuello de la vejiga (fístula recto-vesical). De acuerdo con la clasificación de las malformaciones anorrectales en varones, ¿cuál es el nivel de altura de esta fístula y qué implicancia reconstructiva asocia?",
+    "hint": "La meconiosuria confirma el paso directo de deposición hacia el tracto urinario profundo, asociando de forma característica una marcada debilidad del complejo del esfínter.",
+    "options": [
+      {
+        "text": "Fístula de nivel bajo; anoplastía perineal directa sin necesidad de colostomía neonatal de descarga.",
+        "isCorrect": false,
+        "explanation": "Las fístulas de nivel bajo se abren al periné cutáneo y no comprometen la vía urinaria ni asocian meconiosuria de forma clásica."
+      },
+      {
+        "text": "Fístula recto-uretral bulbar de nivel bajo; dilataciones anales digitales progresivas de forma ambulatoria.",
+        "isCorrect": false,
+        "explanation": "La fístula recto-uretral bulbar es intermedia/baja, se abre a la uretra y drena meconiosuria, pero asocia mejor desarrollo muscular de base en comparación con las fístulas vesicales puras."
+      },
+      {
+        "text": "Fístula de nivel alto (la de mayor altura y complejidad en varones); requiere colostomía de descarga inmediata en el período neonatal para proteger la vía urinaria profunda, asociando un alto riesgo de incontinencia fecal y urinaria postoperatoria tardía debido a la pobre formación de los músculos del esfínter anal y del sacro (índice sacro bajo).",
+        "isCorrect": true,
+        "explanation": "La fístula recto-vesical (al cuello vesical) es la MAR más alta y compleja en varones. Exige la realización de una colostomía de descarga en el período neonatal de forma obligatoria para derivar el tránsito y proteger la vía urinaria profunda de urosepsis graves. Estas fístulas altas asocian de forma característica una gran hipoplasia del complejo muscular del esfínter y mal desarrollo del sacro (índice sacro bajo), lo que condiciona un pronóstico pobre de continencia fecal a largo plazo y exige reconstrucción compleja diferida por especialista (ARPSP de Peña)."
+      },
+      {
+        "text": "Atresia anal simple membranosa; requiere extirpación de la membrana del saco de forma ambulatoria por el pediatra general.",
+        "isCorrect": false,
+        "explanation": "La atresia anal membranosa es de nivel bajo y se soluciona con una incisión de la membrana perineal fina sin necesidad de colostomías complejas."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Durante un debate clínico en la UCIN del Hospital Luis Tisné sobre la prevención de la Enterocolitis Necrotizante (ECN), se analizan los factores de riesgo y la fisiopatología de la enfermedad. De acuerdo con la evidencia científica actual de la neonatología, ¿cuál de las siguientes combinaciones de factores fisiopatológicos representa la \"tríada\" clásica indispensable para el desarrollo de la ECN del prematuro?",
+    "hint": "La ECN casi no se presenta en fetos in utero y es sumamente rara en recién nacidos alimentados de forma exclusiva con calostro o leche materna exclusiva. La confluencia de inmadurez mucosa, injuria hipóxica y un sustrato de fermentación bacteriana es clave.",
+    "options": [
+      {
+        "text": "Incompatibilidad de grupo clásico ABO, fototerapia prolongada y uso de fórmulas de inicio de soya.",
+        "isCorrect": false,
+        "explanation": "La incompatibilidad ABO produce ictericia neonatal hemolítica de inicio precoz, pero no forma parte de los factores de riesgo de la ECN."
+      },
+      {
+        "text": "Diabetes gestacional materna, macrosomía neonatal y alimentación enteral trófica lenta con calostro.",
+        "isCorrect": false,
+        "explanation": "La macrosomía y la diabetes materna predisponen a hipoglicemia e insuficiencia respiratoria, pero la ECN es patognomónica del prematuro de bajo peso de nacimiento y el calostro es un factor protector de alto peso."
+      },
+      {
+        "text": "Vacunación incompleta con la vacuna Hexavalente, hipotermia neonatal moderada e hiperbilirrubinemia por incompatibilidad de Rh.",
+        "isCorrect": false,
+        "explanation": "Las vacunas no se asocian de ninguna forma a la ECN y el calendario PNI inicia a los 2 meses de vida, etapa en la que la incidencia de ECN ya ha descendido drásticamente en el lactante."
+      },
+      {
+        "text": "Inmadurez de la barrera mucosa intestinal y del sistema inmune del prematuro, isquemia o injuria hipóxica-isquémica de la pared intestinal (consecuencia de asfixia o redistribución de flujo), asociada a la colonización bacteriana patológica (translocación bacteriana favorecida por la alimentación enteral rápida con fórmulas lácteas artificiales hiperosmolares).",
+        "isCorrect": true,
+        "explanation": "La enterocolitis necrotizante (ECN) es una patología multifactorial. Su fisiopatología radica en la confluencia de tres pilares fundamentales: 1) Inmadurez del prematuro (barrera mucosa intestinal permeable e inmuno-inmadurez), 2) Injuria isquémica de la pared intestinal (vasoconstricción esplácnica refleja secundaria a hipoxia, persistencia del ductus, asfixia), y 3) Sustrato bacteriano patológico, cuya translocación se ve facilitada por la alimentación enteral artificial rápida con fórmulas hiperosmolares que lesionan el enterocito."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Lactante de 2 meses, nacido de término, previamente sano. Cursa con antecedentes de hospitalización en dos ocasiones por cuadros de neumonía bacteriana por aspiración química de difícil manejo, asociados a episodios de tos y cianosis al mamar desde las primeras semanas de vida. Al examen físico destaca activo, con marcada distensión abdominal timpánica que aumenta de forma progresiva después de cada episodio de llanto forzado. El esófago es permeable de calibre normal (se logra pasar sonda de forma fácil al estómago). ¿Cuál es el diagnóstico de sospecha de esta anomalía esofágica congénita oculta y qué examen de imágenes dinámico confirma su etiología?",
+    "hint": "Es una fístula traqueoesofágica congénita sin atresia. Al ser permeable el esófago, el diagnóstico suele ser muy tardío y cursa con aspiración química respiratoria recurrente y distensión gástrica masiva por paso de aire pulmonar al esófago durante el llanto.",
+    "options": [
+      {
+        "text": "Fístula traqueoesofágica en \"H\" (Atresia esofágica Tipo V o E, sin atresia de esófago); se confirma mediante un estudio de tránsito esofágico de contraste dinámico por fluoroscopia (esofagograma) con el paciente en decúbito prono lateral, o broncoscopía directa rígida.",
+        "isCorrect": true,
+        "explanation": "La fístula en \"H\" (Tipo V o E, sin atresia de esófago, 4-5%) cursa sin atresia, por lo que las sondas pasan de forma normal y el diagnóstico suele retrasarse semanas o meses. El lactante presenta episodios de atragantamiento, tos y cianosis con la alimentación líquida (por paso de leche a la tráquea) y neumonías químicas recurrentes por aspiración. La distensión abdominal es un hallazgo clásico por paso masivo de aire desde la vía aérea hacia el estómago a través de la fístula cuando el lactante aumenta la presión intratraqueal al llorar o toser de forma vigorosa. El diagnóstico se confirma por tránsito esofágico con contraste hidrosoluble en decúbito prono o por broncoscopía/esofagoscopía directa."
+      },
+      {
+        "text": "Atresia esofágica tipo I descompensada; tránsito de bario convencional de colon completo de urgencia.",
+        "isCorrect": false,
+        "explanation": "En la atresia tipo I no es posible pasar la SNG (saco ciego) y no habría aire gástrico en la radiografía simple."
+      },
+      {
+        "text": "Estenosis pilórica de inicio tardío; ecografía gástrica estática en ayuno prolongado.",
+        "isCorrect": false,
+        "explanation": "La estenosis gástrica cursa con vómitos explosivos no biliosos y se descarta con la presencia de neumonías recurrentes asociadas a la deglución."
+      },
+      {
+        "text": "Hernia diafragmática derecha de Morgagni; radiografía simple de pie AP.",
+        "isCorrect": false,
+        "explanation": "La hernia de Morgagni es anterior y menos frecuente, cursa con síntomas respiratorios crónicos leves pero no explica la aspiración química directa y ahogo con la deglución líquida ni la distensión abdominal post-llanto descrita."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Patología Quirúrgica del Recién Nacido",
+    "text": "Recién nacido de término, de 24 horas de vida, de sexo masculino, permanece hospitalizado en sala de alojamiento conjunto. Al examen físico anal se constata un periné de características normales con presencia de una foseta anal evidente en su localización normal, pero sin orificio anal permeable. Inmediatamente por delante de la foseta anal, sobre el rafe perineal medio (por detrás de la base del escroto), se observa un pequeño orificio fistuloso permeable que elimina meconio espeso de forma espontánea. ¿Cuál es el diagnóstico de sospecha de esta malformación anorrectal en varones, su nivel de altura y la conducta de elección de primera línea?",
+    "hint": "Es la malformación anorrectal más común de nivel bajo en varones. La fístula se abre directamente a la piel del periné, lo que mantiene indemne el tracto urinario interno y asocia un excelente desarrollo del complejo esfinteriano de base.",
+    "options": [
+      {
+        "text": "Fístula recto-uretral bulbar de nivel alto; colostomía de descarga neonatal de urgencia e invertograma diferido.",
+        "isCorrect": false,
+        "explanation": "La fístula recto-uretral bulbar es intermedia/alta, se abre a la uretra y drena meconiosuria, requiriendo colostomía protectora de urgencia."
+      },
+      {
+        "text": "Fístula recto-perineal (malformación de nivel bajo); el tratamiento de elección es la Anoplastía Perineal Directa (operación de corte local o transposición anal) en el período neonatal inmediato sin necesidad de realizar colostomía de descarga previa, asociando un excelente profeso a largo plazo de continencia fecal (>95%).",
+        "isCorrect": true,
+        "explanation": "La fístula rectoperineal es la MAR más común de nivel bajo en varones. Al abrirse de forma directa al periné cutáneo anterior por fuera del complejo muscular del esfínter, conserva indemne el tracto urinario de forma completa. Debido a su baja altura, puede reconstruirse de forma exitosa en el período neonatal inmediato mediante anoplastía perineal directa simple sin necesidad de colostomía de descarga previa. Al conservar indemne el sacro y los músculos del periné, asocia un excelente pronóstico de continencia fecal permanente a largo plazo en más del 95% de los niños."
+      },
+      {
+        "text": "Atresia intestinal tipo IV complicada con fístula escrotal masculina.",
+        "isCorrect": false,
+        "explanation": "No se asocian las atresias yeyunoileales con fístulas escrotales de forma clásica en el recién nacido."
+      }
+    ]
+  }
+]
