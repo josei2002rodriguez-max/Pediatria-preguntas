@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "De acuerdo con las normativas técnicas y operacionales del Programa Infantil de Infecciones Respiratorias Agudas (IRA) del Ministerio de Salud de Chile, ¿cuál es la definición clínica y epidemiológica estricta para diagnosticar un Síndrome Bronquial Obstructivo (SBO) en el lactante?",
+    "hint": "Recuerde el carácter recurrente y el límite de edad cronológica establecido por el MINSAL para diferenciar esta entidad de las infecciones respiratorias del niño mayor o preescolar.",
+    "options": [
+      {
+        "text": "La presencia de un único episodio de sibilancias de inicio brusco que asocie fiebre alta y consolidación lobar en la radiografía de tórax en un menor de un año de edad.",
+        "isCorrect": false,
+        "explanation": "Un único episodio de sibilancias de inicio agudo en un menor de 2 años se cataloga clínicamente como Bronquiolitis Aguda, la cual se maneja bajo directrices diferentes de soporte no invasivo."
+      },
+      {
+        "text": "La presencia de un cuadro respiratorio caracterizado por sibilancias recurrentes, definidas como tres o más episodios de obstrucción bronquial en un menor de dos años de edad.",
+        "isCorrect": true,
+        "explanation": "En Chile, el SBO del lactante se define como un conjunto de manifestaciones clínicas caracterizadas por sibilancias, espiración prolongada y tiraje, de intensidad variable. Cuando se presentan 3 o más episodios de obstrucción bronquial en un niño menor de 2 años (24 meses), se clasifica formalmente como Síndrome Bronquial Obstructivo Recurrente (SBOR)."
+      },
+      {
+        "text": "La presencia de tos disneizante asociada a estridor inspiratorio persistente de predominio nocturno y disfonía marcada en un recién nacido prematuro de término.",
+        "isCorrect": false,
+        "explanation": "La tos muscular disfónica, el estridor inspiratorio y la disfonía nocturna son los signos patognomónicos de la laringitis aguda obstructiva (Croup viral), cuadro que compromete la vía aérea alta."
+      },
+      {
+        "text": "La presencia de secreción mucosa abundante en la vía aérea superior con retracción costal transitoria que responde de forma inmediata al aseo nasal con solución fisiológica.",
+        "isCorrect": false,
+        "explanation": "La obstrucción nasal mecánica por moco (resfrío común) puede simular ruidos de transmisión (estertores), pero resuelve por completo tras el aseo nasal con suero, no correspondiendo a una obstrucción intrínseca bronquial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 2 meses de edad, nacido de término, asiste al SAPU de su comuna en el mes de junio por un cuadro de tos y dificultad respiratoria progresiva de 2 días. El panel viral resulta positivo para Virus Respiratorio Sincicial (VRS). Al analizar la epidemiología y patogenia de este virus en Chile, ¿cuál de las siguientes opciones describe de forma correcta su comportamiento?",
+    "hint": "Asocie al VRS con la gran campaña de invierno chilena. Su daño no es predominantemente un broncoespasmo muscular reversible en los primeros meses de vida, sino un daño celular estructural del bronquiolo.",
+    "options": [
+      {
+        "text": "Es el agente etiológico más común de SBO y bronquiolitis en Chile; su mecanismo lesivo principal es la necrosis del epitelio bronquiolar con edema y tapones de moco.",
+        "isCorrect": true,
+        "explanation": "El VRS es el principal agente causante de infecciones respiratorias bajas en lactantes en Chile. Fisiopatológicamente, el virus invade las células del epitelio respiratorio bronquiolar, provocando necrosis celular, edema de la pared, infiltrado inflamatorio y una gran producción de moco con restos celulares (detritos), lo que obstruye mecánicamente el lumen bronquiolar y causa atrapamiento aéreo."
+      },
+      {
+        "text": "Es el agente etiológico más común en el período de primavera tardía; su mecanismo lesivo principal es el espasmo agudo mediado exclusivamente por anticuerpos IgE.",
+        "isCorrect": false,
+        "explanation": "Su pico de circulación es invernal y el daño en el lactante pequeño es inflamatorio y obstructivo estructural, difiriendo del espasmo de la fibra muscular lisa bronquial mediado por IgE típico del asma atópica."
+      },
+      {
+        "text": "Es el agente etiológico más severo debido a su potencial de inducir bronquiolitis obliterante crónica con patrón radiológico de pulmón hiperlúcido unilateral.",
+        "isCorrect": false,
+        "explanation": "El virus que asocia una mayor gravedad destructiva con necrosis de la vía aérea y potencial desarrollo de bronquiolitis obliterante crónica (Síndrome de Swyer-James-MacLeod o Sauce) es el Adenovirus, no el VRS."
+      },
+      {
+        "text": "Es el agente etiológico de menor contagiosidad en salas cunas debido a que su transmisión se restringe exclusivamente a fómites inanimados secos de metal.",
+        "isCorrect": false,
+        "explanation": "El VRS es altamente contagioso, transmitiéndose con extrema facilidad a través de gotitas respiratorias (aerosoles de corta distancia) y por contacto directo con manos o superficies contaminadas."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Durante la evaluación de un lactante con sospecha de SBO en el consultorio, el clínico aplica el \"Score de Riesgo de Morir por Neumonía\" del MINSAL para guiar el seguimiento y la intensidad del control en APS. ¿Cuál de las siguientes combinaciones de variables representa factores de riesgo biológicos y sociales contemplados de forma directa en este score chileno?",
+    "hint": "El score de riesgo de morir por neumonía (Puntaje de IRA) estratifica a los lactantes en riesgo leve, moderado o grave. Los antecedentes maternos de escolaridad, la prematurez/bajo peso y la desnutrición son pilares de este cálculo.",
+    "options": [
+      {
+        "text": "Edad menor a tres meses, antecedentes de asma parental, parto por cesárea electiva y nivel de ingresos económicos alto.",
+        "isCorrect": false,
+        "explanation": "Aunque la edad menor a 3 meses es de riesgo, el parto por cesárea electiva y el nivel de ingresos alto no son variables ponderadas cuantitativamente dentro de la cartilla oficial del score."
+      },
+      {
+        "text": "Hospitalización previa por SBO, lactancia artificial desde el nacimiento, sexo femenino y procedencia urbana central.",
+        "isCorrect": false,
+        "explanation": "El sexo femenino se considera de menor riesgo relativo en comparación con el sexo masculino para el desarrollo de patología obstructiva severa, y el origen urbano común no califica como factor de vulnerabilidad."
+      },
+      {
+        "text": "Malformación congénita mayor, tabaquismo materno en el hogar, desnutrición severa y baja escolaridad de la madre.",
+        "isCorrect": true,
+        "explanation": "El Score de Riesgo de Morir por Neumonía del MINSAL evalúa variables de alto impacto epidemiológico: 1) Antecedente de hospitalización previa por causa respiratoria, 2) Malformaciones congénitas, 3) Tabaquismo materno, 4) Nivel educacional de la madre (baja escolaridad), 5) Estado nutricional de desnutrición, y 6) Edad menor a 3 meses o bajo peso de nacimiento. Un puntaje ≥ 10 define riesgo grave."
+      },
+      {
+        "text": "Uso previo de corticoides inhalatorios, peso de nacimiento normal, antecedentes de reflujo y asistencia a sala cuna privada.",
+        "isCorrect": false,
+        "explanation": "El peso de nacimiento normal y la asistencia a salas cuna privadas se asocian a factores de protección o menor riesgo relativo en comparación con el bajo peso y el hacinamiento crítico."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Usted evalúa a un lactante de 5 meses de edad que consulta en la sala IRA por tos y sibilancias. Al examen físico en reposo se registra: Frecuencia cardíaca de 135 latidos por minuto, Frecuencia respiratoria de 42 respiraciones por minuto, sibilancias espiratorias audibles exclusivamente con fonendoscopio, y retracción subcostal leve intermitente. Aplicando el Score de Tal modificado por el MINSAL, ¿cuál es el puntaje obtenido y su respectiva clasificación de gravedad?",
+    "hint": "Recuerde los parámetros de frecuencia cardíaca y frecuencia respiratoria para menores de 6 meses. La FC de 121-140 lpm y la FR de 41-55 rpm otorgan un puntaje específico.",
+    "options": [
+      {
+        "text": "Puntaje de 3 puntos, clasificado clínicamente en rango de crisis obstructiva de carácter leve.",
+        "isCorrect": false,
+        "explanation": "Este cálculo ignora los puntos asignados al parámetro de la frecuencia cardíaca, el cual se sitúa por sobre 120 latidos por minuto añadiendo un valor a la sumatoria."
+      },
+      {
+        "text": "Puntaje de 5 puntos, clasificado clínicamente en rango de crisis obstructiva de carácter leve.",
+        "isCorrect": false,
+        "explanation": "Un puntaje de 5 puntos corresponde a una crisis leve, pero la sumatoria matemática exacta de los parámetros clínicos del paciente arroja un valor inferior."
+      },
+      {
+        "text": "Puntaje de 4 puntos, clasificado clínicamente en rango de crisis obstructiva de carácter leve.",
+        "isCorrect": true,
+        "explanation": "Desglose del Score de Tal modificado para este lactante de 5 meses (<6 meses): Frecuencia respiratoria de 42 rpm = 1 punto (rango 41-55). Frecuencia cardíaca de 135 lpm = 1 punto (rango 121-140). Sibilancias con fonendoscopio = 1 punto. Retracción subcostal leve = 1 punto. Suma total = 1 + 1 + 1 + 1 = 4 puntos. Un puntaje menor o igual a 5 se clasifica como crisis LEVE."
+      },
+      {
+        "text": "Puntaje de 7 puntos, clasificado clínicamente en rango de crisis obstructiva de carácter moderada.",
+        "isCorrect": false,
+        "explanation": "Clasificar como moderado (rango de 6 a 8 puntos) sobreestima los hallazgos tónicos del lactante, quien mantiene una polipnea y una taquicardia moderadas estables."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 8 meses de edad acude al consultorio por un cuadro obstructivo bronquial agudo. Al examen físico se registra: Frecuencia cardíaca de 155 latidos por minuto, Frecuencia respiratoria de 52 respiraciones por minuto, sibilancias espiratorias audibles a distancia sin fonendoscopio, y retracción subcostal e intercostal moderada asociada a aleteo nasal discreto. ¿Cuál es el Score de Tal modificado de este paciente y su clasificación?",
+    "hint": "Utilice los cortes del Score de Tal para un lactante de 8 meses (grupo de edad ≥ 6 meses, donde el rango de FR de 46 a 60 rpm equivale a 2 puntos, y la FC de 141 a 160 lpm equivale a 2 puntos).",
+    "options": [
+      {
+        "text": "Puntaje de 5 puntos, clasificado clínicamente en rango de crisis obstructiva leve.",
+        "isCorrect": false,
+        "explanation": "Un puntaje de 5 puntos se clasifica como leve, lo cual subestima la gravedad de un lactante con sibilancias audibles a distancia y retracciones moderadas evidentes."
+      },
+      {
+        "text": "Puntaje de 8 puntos, clasificado clínicamente en rango de crisis obstructiva moderada.",
+        "isCorrect": true,
+        "explanation": "Desglose del Score de Tal para un lactante de 8 meses (≥ 6 meses): Frecuencia respiratoria de 52 rpm = 2 puntos (rango 46-60). Frecuencia cardíaca de 155 lpm = 2 puntos (rango 141-160). Sibilancias audibles a distancia = 2 puntos. Retracción moderada con aleteo nasal = 2 puntos. Suma total = 2 + 2 + 2 + 2 = 8 puntos. El rango de 6 a 8 puntos se clasifica como crisis MODERADA."
+      },
+      {
+        "text": "Puntaje de 10 puntos, clasificado clínicamente en rango de crisis obstructiva grave.",
+        "isCorrect": false,
+        "explanation": "El rango grave (9 a 12 puntos) requeriría un compromiso respiratorio extremo, con cianosis o quejido audible y retracciones generalizadas severas con letargia."
+      },
+      {
+        "text": "Puntaje de 3 puntos, clasificado clínicamente en rango de crisis obstructiva de carácter mínimo.",
+        "isCorrect": false,
+        "explanation": "Un puntaje de 3 puntos representaría una obstrucción leve que dista de los signos objetivos de taquicardia, polipnea y retracciones demostrados por el lactante."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 10 meses de edad, previamente sano, presenta un cuadro obstructivo bronquial agudo que es catalogado como una crisis leve con un Score de Tal de 3 puntos en el consultorio. De acuerdo con el flujograma del programa IRA del MINSAL de Chile, ¿cuál es el tratamiento farmacológico inmediato y la conducta a seguir?",
+    "hint": "En crisis leves de SBO en APS se aplica la terapia de rescate estándar de primera línea en la primera hora de observación antes de decidir el alta a domicilio con indicaciones de control.",
+    "options": [
+      {
+        "text": "Administrar Salbutamol 2 puffs (200 µg) con aerocámara, repitiendo la dosis cada 10 minutos por 3 veces (1 hora), y reevaluar clínicamente en la sala IRA.",
+        "isCorrect": true,
+        "explanation": "Para crisis obstructivas leves (Score de Tal ≤ 5), la norma técnica del MINSAL indica iniciar rescate con Salbutamol (2 puffs de 100 mcg cada uno) con aerocámara, repitiendo la dosis cada 10 minutos por 3 veces en una hora (un ciclo de rescate). Tras completar la hora, se reevalúa el Score de Tal: si el puntaje se mantiene bajo, se puede otorgar el alta con indicaciones."
+      },
+      {
+        "text": "Administrar nebulización con adrenalina corriente en dosis de 4 mL y hospitalizar de urgencia en la unidad de intermedios.",
+        "isCorrect": false,
+        "explanation": "La nebulización con adrenalina no está indicada en crisis leves estables de SBO y se reserva preferentemente para bronquiolitis severas en menores de 1 año bajo régimen hospitalario selectivo."
+      },
+      {
+        "text": "Iniciar amoxicilina oral a dosis de 90 mg/kg/día fraccionada en dos tomas y enviar al domicilio sin necesidad de reevaluación.",
+        "isCorrect": false,
+        "explanation": "El SBO agudo del lactante es de origen viral en más del 95% de los casos; el uso rutinario de antibióticos como la amoxicilina está contraindicado y no altera la evolución del cuadro obstructivo."
+      },
+      {
+        "text": "Indicar de forma inmediata un curso oral de prednisona a dosis de 2 mg/kg/día por un mínimo de 10 días continuos.",
+        "isCorrect": false,
+        "explanation": "Los corticoides sistémicos (prednisona) no se indican de forma rutinaria en crisis obstructivas catalogadas como puramente leves en el primer episodio de un lactante previamente sano."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 8 meses ingresa a la sala IRA cursando con una crisis obstructiva moderada (Score de Tal de 7 puntos). Se inicia el primer ciclo de rescate con Salbutamol de 2 puffs cada 10 minutos por 3 veces. Al completar la primera hora de observación, el Score de Tal persiste en 7 puntos y se constata una saturación de oxígeno de 91% ambiental. ¿Cuál es el siguiente paso correcto en el manejo del paciente?",
+    "hint": "La persistencia de una crisis moderada tras el primer rescate, asociada a hipoxia (Sat < 93%), obliga a intensificar el manejo médico en APS incorporando el uso de oxígeno y antiinflamatorios sistémicos.",
+    "options": [
+      {
+        "text": "Indicar el alta domiciliaria de forma inmediata para continuar el uso de Salbutamol cada dos horas en el hogar por vía oral pura.",
+        "isCorrect": false,
+        "explanation": "Otorgar el alta a un lactante desaturado con un score moderado persistente es una conducta contraindicada que expone al menor a sufrir una falla respiratoria severa aguda en su domicilio."
+      },
+      {
+        "text": "Administrar un segundo ciclo de rescate con Salbutamol (2 puffs cada 10 min por 1 hora) asociado a oxígeno suplementario por naricera y una dosis de corticoide sistémico oral.",
+        "isCorrect": true,
+        "explanation": "Ante una crisis moderada persistente tras la primera hora de rescate o si asocia desaturación (Sat < 93%), la norma técnica chilena indica administrar un segundo ciclo de rescate con Salbutamol complementado con oxígeno suplementario para mantener una saturación ≥ 93%, y administrar una dosis de corticoide sistémico (Prednisona oral 1-2 mg/kg)."
+      },
+      {
+        "text": "Proceder de urgencia a la realización de una intubación endotraqueal y ventilación mecánica invasiva de alta frecuencia en el box.",
+        "isCorrect": false,
+        "explanation": "La intubación se reserva para fallas respiratorias catastróficas refractarias al tratamiento médico o paro respiratorio inminente, no estando indicada en crisis moderadas que apenas inician el segundo escalón terapéutico."
+      },
+      {
+        "text": "Suspender el Salbutamol por fracaso terapéutico aparente e iniciar una infusión endovenosa de aminofilina a dosis de carga masiva.",
+        "isCorrect": false,
+        "explanation": "La aminofilina es un fármaco en desuso debido a su estrecho margen terapéutico y alta tasa de toxicidad grave (arritmias, convulsiones), no formando parte del algoritmo de rescate del programa IRA."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Usted asiste en el servicio de urgencias a un lactante de 4 meses de edad que ingresa cursando con una crisis obstructiva severa, evidenciada por un Score de Tal de 10 puntos y una saturación de oxígeno de 88% ambiental. Al reevaluar el ABC respiratorio en el box, ¿cuál es la conducta terapéutica inmediata y correcta según las guías chilenas?",
+    "hint": "La crisis grave (Score de Tal 9-12) representa un riesgo inminente de paro respiratorio por fatiga muscular. Requiere hospitalización perentoria, administración de oxígeno continuo y terapia antiinflamatoria y broncodilatadora agresiva.",
+    "options": [
+      {
+        "text": "Hospitalizar de inmediato, administrar oxígeno para mantener saturación ≥ 93%, nebulizar con Salbutamol e incorporar Bromuro de Ipratropio, y administrar corticoides endovenosos.",
+        "isCorrect": true,
+        "explanation": "Una crisis grave (Score de Tal 9 a 12) constituye una indicación absoluta de hospitalización. El manejo de urgencia inmediato incluye: hospitalizar, administrar oxígeno para asegurar saturación ≥ 93%, nebulizar con Salbutamol (e incorporar Bromuro de Ipratropio) y administrar corticoides sistémicos por vía endovenosa (Metilprednisolona o Hidrocortisona) debido a la gravedad."
+      },
+      {
+        "text": "Realizar tres ciclos sucesivos de nebulización con suero salino hipertónico al 7% de forma exclusiva sin aporte de oxígeno suplementario.",
+        "isCorrect": false,
+        "explanation": "El suero salino hipertónico puede tener utilidad en el manejo de la bronquiolitis hospitalizada para fluidificar secreciones, pero su uso aislado sin oxígeno ni broncodilatadores en una crisis severa hipóxica es deletéreo."
+      },
+      {
+        "text": "Indicar un curso oral de antibióticos macrólidos por sospecha de neumonía por Mycoplasma y derivar a domicilio con Salbutamol en aerosol seco.",
+        "isCorrect": false,
+        "explanation": "El uso de macrólidos es inútil en cuadros obstructivos agudos virales, más aún en un lactante de 4 meses donde Mycoplasma pneumoniae es un patógeno sumamente infrecuente."
+      },
+      {
+        "text": "Administrar una infusión endovenosa rápida de bicarbonato de sodio para corregir la acidosis respiratoria antes de ventilar al lactante.",
+        "isCorrect": false,
+        "explanation": "La corrección de la acidosis respiratoria secundaria a hipoventilación obstructiva se logra optimizando de forma mecánica la ventilación y permeabilidad de la vía aérea, no infundiendo bicarbonato de sodio."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 14 meses de edad presenta antecedentes de hospitalizaciones reiteradas por cuadros obstructivos bronquiales graves desde los 4 meses de vida, gatillados por Adenovirus confirmado por inmunofluorescencia. Al examen físico actual en el consultorio destaca sibilancias espiratorias fijas bilaterales en reposo de carácter persistente y cianosis perioral al llanto. La tomografía computarizada de tórax revela zonas de perfusión en mosaico, atrapamiento aéreo marcado y bronquiectasias cilíndricas bilaterales. ¿Cuál es el diagnóstico crónico más probable de esta complicación respiratoria?",
+    "hint": "Piense en la secuela respiratoria crónica obstructiva clásica en Chile provocada por la infección destructiva necrotizante de la vía aérea inferior por ciertos serotipos de Adenovirus en el primer año de vida.",
+    "options": [
+      {
+        "text": "Bronquiolitis Obliterante (BO) post-infecciosa.",
+        "isCorrect": true,
+        "explanation": "La Bronquiolitis Obliterante (BO) post-infecciosa es una complicación respiratoria crónica descrita tras una infección pulmonar grave por Adenovirus (serotipos 7 y 21) en lactantes. Fisiopatológicamente se caracteriza por la obstrucción fibrosa de la vía aérea pequeña. Clínicamente cursa con obstrucción bronquial persistente, hipoxia crónica, y se confirma por TC con el patrón clásico de \"atrapamiento aéreo en mosaico\" y bronquiectasias."
+      },
+      {
+        "text": "Fibrosis Quística de debut tardío y presentación respiratoria dominante.",
+        "isCorrect": false,
+        "explanation": "Aunque la Fibrosis Quística causa bronquiectasias e infecciones recurrentes, no tiene una asociación patogénica directa y cronológica con una infección aguda por Adenovirus documentada previa."
+      },
+      {
+        "text": "Asma infantil atópica grave con remodelación de la vía aérea persistente.",
+        "isCorrect": false,
+        "explanation": "El asma se manifiesta con sibilancias recurrentes reversibles que responden favorablemente a broncodilatadores, sin cursar típicamente con bronquiectasias ni BO post-viral a los 14 meses de forma estable."
+      },
+      {
+        "text": "Displasia Broncopulmonar clásica secundaria a asfixia perinatal del lactante.",
+        "isCorrect": false,
+        "explanation": "La Displasia Broncopulmonar (DBP) se define por el antecedente de prematurez extrema (<32 semanas) y requerimiento de soporte de oxígeno por más de 28 días de vida, historia ausente en este lactante."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Durante la evaluación de un lactante con Síndrome Bronquial Obstructivo Recurrente (SBOR) en la sala IRA, usted busca clasificar el fenotipo del paciente según los estudios de Martínez (Tucson) para guiar el pronóstico. ¿Cuál de las siguientes descripciones describe de forma fidedigna al fenotipo de \"Sibilante Temprano Transitorio\"?",
+    "hint": "Este fenotipo de sibilancias representa a niños nacidos con un calibre de la vía aérea más estrecho que sibilan con resfríos comunes en los primeros años de vida, pero que resuelven espontáneamente al crecer.",
+    "options": [
+      {
+        "text": "Lactantes que inician sibilancias después de los 3 años de vida, asocian de forma severa dermatitis atópica y persisten con síntomas de asma.",
+        "isCorrect": false,
+        "explanation": "Describe al fenotipo de \"Sibilante Persistente Atópico\" o asmático verdadero, el cual inicia sibilancias temprano, asocia atopia, tiene antecedentes familiares de asma y persiste sibilando en la etapa escolar."
+      },
+      {
+        "text": "Lactantes que presentan un cuadro respiratorio caracterizado por sibilancias gatilladas únicamente por infecciones virales que desaparecen progresivamente hacia los 3 años de vida, sin antecedentes familiares de atopia.",
+        "isCorrect": true,
+        "explanation": "El fenotipo de \"Sibilante Temprano Transitorio\" comprende a niños que presentan episodios de sibilancias gatillados por infecciones respiratorias virales exclusivamente en los primeros 3 años de vida, desapareciendo después de esta edad. Se asocia a menor calibre de la vía aérea que mejora con el crecimiento, sin atopia personal ni familiar."
+      },
+      {
+        "text": "Lactantes que presentan crisis obstructivas recurrentes gatilladas de forma exclusiva por la exposición al tabaquismo pasivo y que resuelven tras el retiro de la noxa.",
+        "isCorrect": false,
+        "explanation": "Aunque el tabaquismo pasivo es un factor de riesgo irritante mayor para SBO, no define de forma aislada a las sibilancias transitorias bajo una variable conductual exclusiva de retiro de noxa."
+      },
+      {
+        "text": "Lactantes con antecedentes de prematurez extrema que sibilan de forma persistente y refractaria a corticoides a lo largo de toda la etapa escolar.",
+        "isCorrect": false,
+        "explanation": "Las sibilancias del prematuro extremo con displasia broncopulmonar corresponden a una secuela estructural del desarrollo pulmonar y el soporte ventilatorio, ajena a los fenotipos de Tucson."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Usted aplica el Índice Predictor de Asma Modificado (mAPI) en un lactante de 18 meses con historia de SBOR para estimar la probabilidad de que desarrolle asma en la etapa escolar de forma activa. ¿Cuál de las siguientes opciones describe de forma correcta la combinación de criterios diagnósticos mayores del mAPI?",
+    "hint": "El mAPI cuenta con 3 criterios mayores y 3 criterios menores. Cumplir con al menos un criterio mayor o dos criterios menores define un índice positivo.",
+    "options": [
+      {
+        "text": "Diagnóstico de rinitis alérgica en el lactante, eosinofilia periférica mayor a un cuatro por ciento, y sibilancias no asociadas a resfríos comunes.",
+        "isCorrect": false,
+        "explanation": "La rinitis alérgica, la eosinofilia periférica ≥ 4% y las sibilancias no asociadas a resfríos son criterios menores del mAPI, requiriéndose la presencia de al menos dos de ellos para positividad en ausencia de mayores."
+      },
+      {
+        "text": "Diagnóstico de alergia alimentaria documentada por inmunólogo, sexo masculino y antecedente de prematurez extrema menor de treinta semanas.",
+        "isCorrect": false,
+        "explanation": "El sexo masculino y la prematurez no son criterios constitutivos del mAPI modificado, y la alergia alimentaria aislada sin sensibilización específica no estructura el cálculo."
+      },
+      {
+        "text": "Diagnóstico de asma en alguno de los padres, presencia de dermatitis atópica en el lactante, y sensibilización alérgica a al menos un aeroalérgeno.",
+        "isCorrect": true,
+        "explanation": "Los criterios mayores del mAPI (Modified Asthma Predictive Index) son: 1) Antecedente de asma en alguno de los padres, 2) Diagnóstico médico de dermatitis atópica en el lactante, y 3) Sensibilización alérgica a al menos un aeroalérgeno. Cumplir con un criterio mayor en un niño con sibilancias recurrentes predice un riesgo alto de asma escolar."
+      },
+      {
+        "text": "Diagnóstico de asma en el lactante confirmado por espirometría con broncodilatador, y tabaquismo materno activo en el hogar.",
+        "isCorrect": false,
+        "explanation": "Realizar espirometría con prueba de broncodilatador es técnicamente imposible en un lactante de 18 meses de edad debido a la falta de cooperación voluntaria, técnica utilizable recién a partir de los 5 a 6 años."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "En el contexto del control de un lactante de 15 meses en la sala IRA con diagnóstico de Síndrome Bronquial Obstructivo Recurrente (SBOR) severo y mAPI positivo, usted decide iniciar terapia controladora o de mantención. De acuerdo con las guías nacionales e internacionales, ¿cuál es el fármaco de elección para el tratamiento preventivo de mantención?",
+    "hint": "Los corticoides inhalados actúan sobre el componente inflamatorio crónico de la vía aérea en el fenotipo asmático de SBOR, disminuyendo la frecuencia de exacerbaciones.",
+    "options": [
+      {
+        "text": "Corticoides inhalados de forma diaria y regular (ej: Fluticasona o Budesonida) utilizando aerocámara con válvula.",
+        "isCorrect": true,
+        "explanation": "Los corticoides inhalados de forma diaria y continua son el tratamiento controlador de primera línea y de elección para el SBOR de fenotipo atópico/persistente (mAPI positivo) en lactantes. Reducen de forma potente la inflamación crónica de la vía aérea, disminuyendo la frecuencia y gravedad de las crisis."
+      },
+      {
+        "text": "Salbutamol inhalado de forma diaria a dosis de mantenimiento de 2 puffs cada 12 horas de forma permanente por 6 meses.",
+        "isCorrect": false,
+        "explanation": "El Salbutamol es un broncodilatador de acción corta (SABA) y su uso diario regular está contraindicado como terapia de control debido a que genera taquifilaxia (tolerancia del receptor beta-2) y no trata la inflamación."
+      },
+      {
+        "text": "Montelukast granulado oral de forma intermitente, administrado exclusivamente durante los fines de semana de invierno.",
+        "isCorrect": false,
+        "explanation": "El Montelukast es una alternativa útil, pero su administración debe ser diaria y continua (no intermitente fines de semana) y su eficacia antiinflamatoria es inferior a la de los corticoides inhalados de primera línea."
+      },
+      {
+        "text": "Antihistamínicos orales de segunda generación de forma continua asociados a jarabes expectorantes.",
+        "isCorrect": false,
+        "explanation": "Los antihistamínicos orales no tienen eficacia demostrada para prevenir las sibilancias recurrentes del lactante y los mucolíticos están desaconsejados por riesgo de aumentar secreciones luminales en un bronquio obstruido."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 14 meses de edad ingresa al servicio de urgencias por dificultad respiratoria. La madre refiere que el cuadro clínico se inició de forma brusca hace pocas horas, mientras el niño jugaba con legos pequeños en su habitación, presentando un acceso de tos seco intenso seguido de sibilancias. Al examen pulmonar se constata asimetría en la ventilación con sibilancias localizadas y disminución marcada del murmullo pulmonar en el hemitórax derecho. ¿Cuál es la sospecha diagnóstica prioritaria?",
+    "hint": "Preste atención al \"debut brusco\", la presencia de un \"acceso de tos sofocante\" previo mientras manipulaba objetos pequeños, y el hallazgo físico de una \"asimetría de ruidos respiratorios localizada\" de forma unilateral.",
+    "options": [
+      {
+        "text": "Aspiración de cuerpo extraño en la vía aérea inferior (bronquio principal derecho).",
+        "isCorrect": true,
+        "explanation": "La presentación clínica de tos de inicio súbito (síndrome de penetración), sibilancias localizadas unilaterales y disminución focal del murmullo pulmonar es patognomónica de la aspiración de un cuerpo extraño. Debido a la anatomía del árbol bronquial (bronquio principal derecho más ancho y vertical), la mayoría de los cuerpos extraños se impactan de este lado, requiriendo broncoscopía rígida para su remoción."
+      },
+      {
+        "text": "Neumonía bacteriana lobar aguda complicada con empiema pleural localizado.",
+        "isCorrect": false,
+        "explanation": "La neumonía lobar con empiema cursa con fiebre alta persistente, compromiso del estado general marcado, polipnea y dolor pleurítico, de instalación lenta y progresiva en días, no de forma brusca en minutos."
+      },
+      {
+        "text": "Primer episodio de asma infantil atópica de debut asimétrico por broncoespasmo focal.",
+        "isCorrect": false,
+        "explanation": "El broncoespasmo asmático es una patología sistémica difusa y bilateral; aunque puede haber asimetrías menores, un murmullo pulmonar abolido unilateral brusco tras acceso de tos es un cuerpo extraño hasta demostrar lo contrario."
+      },
+      {
+        "text": "Bronquiolitis aguda por Virus Respiratorio Sincicial con atelectasia segmentaria refleja.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis cursa de forma típica con pródromos respiratorios altos previos (coriza, tos leve) con evolución de días y examen físico bilateral simétrico generalizado, no con abolición focal de ruidos de inicio súbito."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 15 meses de edad es evaluado en el policlínico por sibilancias recurrentes severas desde los 3 meses de vida. Al examen físico destaca un marcado retraso estaturo-ponderal con peso por debajo del percentil 3, piel seca áspera, y la madre reporta que el menor presenta deposiciones abundantes, de olor fétido y consistencia grasosa (esteatorrea) de forma crónica. ¿Cuál es el diagnóstico diferencial prioritario y qué examen solicita?",
+    "hint": "En un niño con sibilancias recurrentes asociadas a síntomas digestivos de malabsorción crónica (grasa en deposiciones) y retraso pondoestatural severo, se debe descartar una alteración del canal de cloro epitelial.",
+    "options": [
+      {
+        "text": "Fibrosis Quística (FQ); se debe solicitar una medición de la concentración de Cloro en el sudor (Test del Sudor).",
+        "isCorrect": true,
+        "explanation": "La combinación de patología respiratoria obstructiva crónica o recurrente (SBOR) asociada a insuficiencia pancreática exocrina (esteatorrea) y desnutrición severa configura el espectro clínico clásico de sospecha de Fibrosis Quística (FQ) en el lactante. El método diagnóstico de elección estándar es el Test del Sudor, considerándose positivo valores de Cloro en el sudor superiores a 60 mEq/L."
+      },
+      {
+        "text": "Enfermedad Celíaca de debut neonatal; se debe solicitar anticuerpos antitransglutaminasa IgA séricos.",
+        "isCorrect": false,
+        "explanation": "La enfermedad celíaca cursa con diarrea crónica, distensión abdominal y desnutrición tras la introducción del gluten, pero no se asocia de forma típica a sibilancias recurrentes y patología obstructiva pulmonar crónica severa."
+      },
+      {
+        "text": "Síndrome de Inmunodeficiencia Combinada Grave; se debe solicitar subpoblaciones linfocitarias de urgencia.",
+        "isCorrect": false,
+        "explanation": "Las inmunodeficiencias graves se manifiestan con infecciones bacterianas invasoras recurrentes de mal pronóstico (meningitis, sepsis, neumonías graves), pero no cursan característicamente con esteatorrea aislada."
+      },
+      {
+        "text": "Alergia a la Proteína de Leche de Vaca; se debe iniciar dieta de exclusión de lácteos y solicitar Prick Test cutáneo.",
+        "isCorrect": false,
+        "explanation": "Aunque la APLV causa enteropatía con retraso estaturo-ponderal, no provoca esteatorrea fétida franca con sibilancias obstructivas masivas de causa viscosa respiratoria crónica en el lactante."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "¿A qué grupo de la población infantil y bajo qué modalidad se indica de forma prioritaria la inmunización contra el Virus Respiratorio Sincicial (VRS) mediante Nirsevimab en Chile de acuerdo con el calendario PNI 2026?",
+    "hint": "Nirsevimab brinda inmunidad pasiva inmediata contra el VRS y es un anticuerpo monoclonal de vida media prolongada incorporado de forma universal para lactantes en su primera temporada de exposición.",
+    "options": [
+      {
+        "text": "Se administra exclusivamente a niños preescolares mayores de 4 años de edad que presenten asma bronquial activa.",
+        "isCorrect": false,
+        "explanation": "No se indica en preescolares mayores de 4 años ni requiere confirmación de asma para su uso, ya que el grupo de máximo riesgo de morbimortalidad por VRS son los lactantes menores de un año de vida."
+      },
+      {
+        "text": "Se administra de forma universal a todos los recién nacidos en las maternidades y lactantes elegibles antes de su primera temporada de alta circulación del VRS, mediante una dosis única.",
+        "isCorrect": true,
+        "explanation": "En Chile, la inmunización universal con Nirsevimab (anticuerpo monoclonal de vida media prolongada contra la proteína F del VRS) se administra de forma gratuita en dosis única a todos los recién nacidos en las maternidades antes del alta, y a los lactantes en los centros de APS antes o durante la temporada invernal de alta circulación del VRS."
+      },
+      {
+        "text": "Se administra de forma mensual a todos los recién nacidos sanos durante todo el año, suspendiendo la vacuna Hexavalente.",
+        "isCorrect": false,
+        "explanation": "Debido a su alta afinidad y vida media prolongada, una dosis única otorga inmunidad pasiva protectora por un período de al menos 5 meses, cubriendo la temporada de invierno, y no reemplaza a la vacuna Hexavalente."
+      },
+      {
+        "text": "Se administra únicamente por indicación de especialista infectólogo infantil tras documentar una crisis obstructiva severa.",
+        "isCorrect": false,
+        "explanation": "Nirsevimab es un inmunobiológico profiláctico y preventivo de salud pública universal, no utilizándose como terapia de rescate curativo una vez que la crisis obstructiva severa por VRS ya está instalada clínicamente."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Durante la evaluación de un lactante de 8 meses con SBO moderado, usted busca signos radiológicos indirectos de atrapamiento aéreo en una radiografía de tórax de control. ¿Cuál de los siguientes hallazgos describe de forma fidedigna la hiperinsuflación pulmonar en pediatría?",
+    "hint": "El atrapamiento aéreo secundario a la obstrucción valvular del bronquiolo por moco y edema impide la espiración normal del aire, lo cual dilata los pulmones modificando los reparos anatómicos de la caja torácica.",
+    "options": [
+      {
+        "text": "Visualización de costillas horizontalizadas, aplanamiento de las cúpulas diafragmáticas, aumento de los espacios intercostales e hiperlucidez del parénquima.",
+        "isCorrect": true,
+        "explanation": "Los signos radiológicos de hiperinsuflación pulmonar o atrapamiento aéreo (muy comunes en SBO y bronquiolitis) son: horizontalización de las costillas, aplanamiento de ambos hemidiafragmas (cúpulas diafragmáticas), aumento y ensanchamiento de los espacios intercostales, e hiperlucidez bilateral difusa del parénquima."
+      },
+      {
+        "text": "Consolidación de un lóbulo completo con bronquograma aéreo marcado y borramiento del contorno de la silueta cardíaca derecha.",
+        "isCorrect": false,
+        "explanation": "Describe el patrón de condensación parenquimatosa con bronquograma aéreo típico de la neumonía bacteriana lobar aguda, que asocia el signo de la silueta cardíaca."
+      },
+      {
+        "text": "Desviación del mediastino y de la tráquea hacia el lado afectado con elevación del hemidiafragma ipsilateral y pinzamiento costal.",
+        "isCorrect": false,
+        "explanation": "Describe los signos radiológicos de una atelectasia masiva (pérdida de volumen), donde el mediastino se desvía hacia el lado de la lesión y el diafragma se eleva por colapso del tejido pulmonar."
+      },
+      {
+        "text": "Presencia de múltiples cavidades aéreas de pared fina (neumatoceles) con niveles hidroaéreos bilaterales en la base del tórax.",
+        "isCorrect": false,
+        "explanation": "Los neumatoceles son complicaciones quísticas de la neumonía bacteriana (especialmente por S. aureus o S. pneumoniae), no siendo signos indirectos de atrapamiento aéreo difuso por SBO simple."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 7 meses, cursando con su segundo episodio de SBO, presenta al examen pulmonar de control en el consultorio una marcada disminución del murmullo pulmonar en la base del hemitórax derecho. La radiografía de tórax confirma una opacidad homogénea en dicha zona con desviación de la silueta cardíaca hacia la derecha y elevación del diafragma ipsilateral. ¿Cuál es el diagnóstico de esta complicación obstructiva y su manejo kinésico correcto?",
+    "hint": "El colapso alveolar por oclusión de un bronquio por moco es la complicación segmentaria no infecciosa más frecuente en lactantes con SBO. El tratamiento busca movilizar las secreciones obstruidas.",
+    "options": [
+      {
+        "text": "Atelectasia segmentaria por tapón de moco; se indica de forma prioritaria kinesioterapia respiratoria (KTR) para favorecer el reclutamiento alveolar.",
+        "isCorrect": true,
+        "explanation": "La atelectasia (colapso de un segmento o lóbulo pulmonar debido a la obstrucción total por un tapón de moco) es una complicación frecuente del SBO. Radiológicamente cursa con opacidad homogénea y pérdida de volumen (desviación mediastínica e ipsilateral). A diferencia del SBO agudo simple (donde la KTR rutinaria está desaconsejada), la presencia de atelectasia es una indicación formal de KTR."
+      },
+      {
+        "text": "Empiema pleural paraneumónico derecho; se contraindica la KTR y se indica la instalación de un tubo de drenaje pleural de urgencia.",
+        "isCorrect": false,
+        "explanation": "El empiema pleural cursa con derrame que desplaza el mediastino hacia el lado contrario (efecto de masa), no se asocia a pérdida de volumen pulmonar y su manejo requiere drenaje y antibióticos, no KTR de entrada."
+      },
+      {
+        "text": "Neumotórax a tensión derecho de origen obstructivo; se indica de inmediato una punción por aspiración con aguja en el segundo espacio intercostal.",
+        "isCorrect": false,
+        "explanation": "El neumotórax se caracteriza radiológicamente por hiperlucidez extrema unilateral con ausencia de trama vascular y colapso pulmonar hacia el hilio, desplazando el mediastino al lado opuesto."
+      },
+      {
+        "text": "Neumatocele gigante de la base derecha; se indica reposo absoluto y oxigenoterapia de urgencia en APS.",
+        "isCorrect": false,
+        "explanation": "El neumatocele es una cavidad aérea de pared fina que aparece tras neumonías necrosantes; no cursa con opacidad homogénea total que desvíe el mediastino hacia el mismo lado, ni el manejo es ambulatorio simple."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 2 meses de edad es traído al servicio de urgencias por presentar tos y dificultad respiratoria leve. Al realizar el examen clínico, el pediatra diagnostica un primer episodio de Bronquiolitis Aguda leve por VRS. ¿Cuál es el tratamiento de elección recomendado por la \"Orientación Técnica para el Manejo de la Bronquiolitis\" del MINSAL de Chile para este paciente?",
+    "hint": "La bronquiolitis aguda es un cuadro inflamatorio viral obstructivo de la vía aérea terminal. La evidencia científica demuestra que los broncodilatadores y los corticoides no alteran el curso clínico de forma rutinaria.",
+    "options": [
+      {
+        "text": "Tratamiento de soporte basado en asegurar una hidratación adecuada (vía oral o enteral), aseo nasal frecuente con solución fisiológica y monitorización de signos de alarma, evitando el uso rutinario de Salbutamol o corticoides.",
+        "isCorrect": true,
+        "explanation": "Según la Orientación Técnica de Bronquiolitis del MINSAL de Chile, el pilar terapéutico de la bronquiolitis aguda leve es el soporte: asegurar hidratación, nutrición, aseo nasal frecuente con suero fisiológico para desobstruir la vía aérea alta (los lactantes son respiradores nasales obligados) y monitorizar. Se desaconseja el uso rutinario de Salbutamol, corticoides o antibióticos."
+      },
+      {
+        "text": "Inicio de un curso de metilprednisolona endovenosa asociado a nebulizaciones intermitentes con bromuro de ipratropio cada 4 horas.",
+        "isCorrect": false,
+        "explanation": "Los corticoides y los anticolinérgicos (ipratropio) no han demostrado utilidad clínica en la bronquiolitis aguda por VRS, aumentando los costos y efectos secundarios sin beneficio demostrado."
+      },
+      {
+        "text": "Prescribir amoxicilina oral a alta dosis por un mínimo de 7 días de forma profiláctica universal para prevenir sobreinfecciones.",
+        "isCorrect": false,
+        "explanation": "El uso profiláctico de antibióticos está contraindicado en cuadros virales puros y no previene las sobreinfecciones bacterianas, favoreciendo el desarrollo de resistencia bacteriana."
+      },
+      {
+        "text": "Indicar kinesioterapia respiratoria diaria en el domicilio y uso de Salbutamol en aerosol seco de forma rutinaria por 14 días.",
+        "isCorrect": false,
+        "explanation": "La kinesioterapia respiratoria (KTR) rutinaria está desaconsejada en la bronquiolitis aguda simple no complicada sin atelectasia, ya que puede aumentar el distrés respiratorio y agitar al lactante."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Durante la hospitalización de un lactante con SBO moderado en el servicio de pediatría, se evalúa el uso de soporte respiratorio no invasivo. De acuerdo con las guías chilenas de manejo de infecciones respiratorias bajas, ¿cuál es la saturación de oxígeno objetivo (rango terapéutico) que se debe mantener mediante la titulación de oxígeno suplementario?",
+    "hint": "El aporte de oxígeno debe ser el mínimo necesario para evitar la hipoxia tisular de forma segura, previniendo los efectos lesivos del exceso de oxígeno (hiperoxia) sobre el parénquima pulmonar inmaduro.",
+    "options": [
+      {
+        "text": "Mantener una saturación de oxígeno por sobre el 99% de forma constante para acelerar la curación epitelial del bronquiolo.",
+        "isCorrect": false,
+        "explanation": "Forzar una saturación del 99% exige administrar altas concentraciones de oxígeno que inducen daño oxidativo celular directo e hiperoxia, sin beneficio clínico demostrado."
+      },
+      {
+        "text": "Mantener una saturación de oxígeno estable mayor o igual a 93% (habitualmente en un rango seguro entre 93% y 97% en aire suplementario).",
+        "isCorrect": true,
+        "explanation": "Las guías de enfermedades respiratorias del lactante del MINSAL en Chile recomiendan administrar oxígeno suplementario para mantener una saturación de oxígeno objetivo de ≥ 93% (rango seguro entre 93% y 97%). Esto asegura una adecuada oxigenación tisular, previniendo la hiperoxia."
+      },
+      {
+        "text": "Mantener una saturación de oxígeno en un límite bajo de 88% a 90% para forzar el estímulo respiratorio central.",
+        "isCorrect": false,
+        "explanation": "Una saturación de 88-90% es patológica en el lactante e indica hipoxia que, de mantenerse en el tiempo, puede gatillar vasoconstricción pulmonar o crisis de apnea."
+      },
+      {
+        "text": "No titular el oxígeno, aportando de forma rígida una fracción inspirada del cien por ciento mediante máscara de alta concentración.",
+        "isCorrect": false,
+        "explanation": "Aportar oxígeno al 100% por tiempo prolongado sin titulación está proscrito en pediatría debido al riesgo de atelectasias por absorción y toxicidad celular directa sobre el alvéolo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 3 meses, hospitalizado por un SBO moderado-grave refractario a terapia convencional de rescate, presenta signos de claudicación respiratoria progresiva y fatiga muscular. Se decide iniciar ventilación no invasiva con Cánula Nasal de Alto Flujo (CNAF). De acuerdo con los protocolos clínicos de la red pediátrica chilena, ¿cuál es el flujo de inicio recomendado para este dispositivo según el peso del paciente?",
+    "hint": "El mecanismo de acción de la CNAF exige una tasa de flujo de gases calculada de forma estricta según los kilogramos del niño para ser eficaz y generar presiones de reclutamiento moderadas.",
+    "options": [
+      {
+        "text": "Programar un flujo inicial de 2,0 Litros/kg/minuto de mezcla de gases calentada y humidificada, titulando según la respuesta clínica.",
+        "isCorrect": true,
+        "explanation": "El protocolo estandarizado de Cánula Nasal de Alto Flujo (CNAF) en las unidades de pediatría chilenas indica programar un flujo inicial de 2,0 L/kg/min (con mezclas calentadas y humidificadas). Este flujo reduce el trabajo respiratorio y disminuye la tasa de intubación en lactantes con SBO o bronquiolitis severa."
+      },
+      {
+        "text": "Programar un flujo inicial de 0,5 Litros/kg/minuto de oxígeno seco frío de forma continua a través de una naricera rígida.",
+        "isCorrect": false,
+        "explanation": "Aportar 0,5 L/kg/min de oxígeno seco y frío corresponde al uso de una naricera de bajo flujo convencional, lo cual no genera los efectos biofísicos de la CNAF e irrita la mucosa."
+      },
+      {
+        "text": "Programar un flujo inicial rígido de 25 Litros/minuto de forma lineal e independiente del peso o tamaño del lactante menor.",
+        "isCorrect": false,
+        "explanation": "Un flujo rígido de 25 L/min en un lactante de 3 meses es excesivo, supera la capacidad del espacio nasofaringeo e incrementa peligrosamente el riesgo de escape aéreo (neumotórax)."
+      },
+      {
+        "text": "Programar un flujo inicial alterno que oscile entre 5 y 10 Litros/kg/minuto de forma mecánica.",
+        "isCorrect": false,
+        "explanation": "La oscilación de flujos no forma parte de los parámetros de inicio de la CNAF, cuya estabilidad de flujo continuo es indispensable para mantener el reclutamiento alveolar."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Durante la reanimación de un lactante de 18 meses cursando con una crisis obstructiva grave en el servicio de urgencias, el médico de turno decide adicionar Bromuro de Ipratropio al esquema de Salbutamol durante la primera hora de rescate. ¿Cuál es el fundamento farmacológico y la sinergia que justifica esta combinación de broncodilatadores?",
+    "hint": "La combinación terapéutica aprovecha el bloqueo de dos vías autónomas distintas (simpática y parasimpática) para lograr un efecto relajante del músculo liso bronquial superior.",
+    "options": [
+      {
+        "text": "El Salbutamol estimula los receptores beta-2 adrenérgicos (broncodilatación por AMPc) y el Bromuro de Ipratropio bloquea los receptores muscarínicos M3 (antagoniza la bronconstricción colinérgica).",
+        "isCorrect": true,
+        "explanation": "El Salbutamol es un agonista beta-2 adrenérgico que eleva el AMPc intracelular en las células musculares lisas bronquiales para inducir relajación. El Bromuro de Ipratropio es un anticolinérgico que bloquea competitivamente los receptores muscarínicos M3 de la vía colinérgica parasimpática, previniendo el broncoespasmo reflejo mediado por el vago."
+      },
+      {
+        "text": "El Salbutamol bloquea los canales de sodio cardíacos y el Bromuro de Ipratropio activa la liberación masiva de histamina pulmonar.",
+        "isCorrect": false,
+        "explanation": "El Salbutamol no bloquea los canales de sodio como mecanismo primario, ni el Bromuro de Ipratropio estimula la liberación de histamina, lo cual agravaría el broncoespasmo."
+      },
+      {
+        "text": "Ambos fármacos estimulan los mismos receptores beta-2 de forma simultánea, duplicando la tasa de AMPc intracelular de manera aditiva.",
+        "isCorrect": false,
+        "explanation": "El Bromuro de Ipratropio no tiene afinidad ni actúa sobre los receptores beta-2 adrenérgicos, por lo que su sinergia no se basa en la estimulación de los mismos receptores que el Salbutamol."
+      },
+      {
+        "text": "El Salbutamol actúa como un antiinflamatorio genómico directo y el Bromuro de Ipratropio es un mucolítico que licúa los tapones.",
+        "isCorrect": false,
+        "explanation": "Ninguno de los dos fármacos es un corticoide con acción antiinflamatoria genómica directa ni posee propiedades químicas mucolíticas sobre las secreciones bronquiales."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 2 años de edad, portador de un SBOR severo bajo tratamiento controlador regular, ingresa al servicio de urgencias por una crisis obstructiva grave refractaria al segundo ciclo de rescate con Salbutamol e Ipratropio y corticoides sistémicos. Se decide administrar una dosis de Sulfato de Magnesio (MgSO4) por vía endovenosa. ¿Cuál es el mecanismo de acción de este fármaco y la principal complicación hemodinámica que se debe monitorizar durante su infusión?",
+    "hint": "El magnesio compite con el calcio en los sitios de entrada celular, impidiendo la contracción del músculo liso (broncodilatación potente) y de la pared de los vasos sanguíneos (vasodilatación sistémica).",
+    "options": [
+      {
+        "text": "Bloquea los canales de calcio dependientes de voltaje en el músculo liso bronquial provocando relajación celular, y se debe vigilar el desarrollo de hipotensión arterial severa.",
+        "isCorrect": true,
+        "explanation": "El Sulfato de Magnesio actúa como un antagonista del calcio en las células musculares lisas; al bloquear los canales de calcio de voltaje, inhibe la entrada de calcio indispensable para la contracción, induciendo broncodilatación. Su principal efecto adverso derivado de la relajación del músculo liso vascular es la vasodilatación, lo que puede provocar hipotensión arterial, requiriendo infusión lenta."
+      },
+      {
+        "text": "Activa los canales de potasio dependientes de ATP forzando la contracción muscular lisa, y se debe vigilar la aparición de crisis hipertensivas.",
+        "isCorrect": false,
+        "explanation": "El magnesio no induce crisis de hipertensión arterial; al contrario, es un vasodilatador y depresor miocárdico leve a dosis elevadas que puede inducir hipotensión y bradicardia."
+      },
+      {
+        "text": "Actúa como un antagonista irreversible de los receptores de leucotrienos en la mucosa, y se debe vigilar la insuficiencia renal.",
+        "isCorrect": false,
+        "explanation": "El mecanismo de acción del MgSO4 no se relaciona con la vía de los leucotrienos, y su excreción es renal pero no provoca de forma típica necrosis tubular aguda ni anuria directa."
+      },
+      {
+        "text": "Estimula de forma selectiva las glándulas salivales aumentando la diuresis osmótica, y se debe vigilar la aparición de hipoglicemia.",
+        "isCorrect": false,
+        "explanation": "El magnesio endovenoso no estimula la diuresis osmótica a nivel renal ni tiene injerencia directa sobre la homeostasis de la glucosa o el riesgo de hipoglicemia convulsiva."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Lactante de 14 meses, diagnosticado de SBOR, asiste a control. La madre refiere que el niño presenta sibilancias recurrentes de predominio nocturno y tos de intensidad variable que ocurren de forma constante después de alimentarse o al acostarse, mostrando mala respuesta clínica al uso de corticoides inhalados y Salbutamol. ¿Cuál es el diagnóstico diferencial no respiratorio prioritario que explica la persistencia de esta sintomatología?",
+    "hint": "La presencia de sibilancias de difícil control que se exacerban de noche, asociadas a la ingesta alimenticia o cambios de posición (decúbito), sugiere irritación química traqueobronquial por regurgitación.",
+    "options": [
+      {
+        "text": "Reflujo Gastroesofágico (RGE) con microaspiración de contenido gástrico a la vía aérea.",
+        "isCorrect": true,
+        "explanation": "El Reflujo Gastroesofágico (RGE) es una causa conocida de SBO recurrente refractario a tratamiento convencional. El paso del ácido gástrico estimula receptores vagales que gatillan broncoespasmo reflejo, o bien la microaspiración directa hacia el árbol traqueobronquial causa inflamación química y edema de la mucosa, manifestándose con tos y sibilancias de predominio nocturno o postprandial."
+      },
+      {
+        "text": "Alergia alimentaria no IgE mediada por sensibilidad selectiva a la proteína del arroz.",
+        "isCorrect": false,
+        "explanation": "La alergia alimentaria no IgE puede causar síntomas digestivos y proctocolitis, pero no se manifiesta característicamente de forma exclusiva con sibilancias nocturnas postprandiales sin compromiso gastrointestinal."
+      },
+      {
+        "text": "Insuficiencia pancreática congénita benigna de inicio tardío en el lactante mayor.",
+        "isCorrect": false,
+        "explanation": "La insuficiencia pancreática en lactantes se asocia de forma clásica a la esteatorrea y malabsorción típicas de la Fibrosis Quística, patología orgánica mayor que cursa con compromiso multisistémico."
+      },
+      {
+        "text": "Cardiopatía congénita acianótica con cortocircuito de izquierda a derecha de bajo flujo.",
+        "isCorrect": false,
+        "explanation": "Las cardiopatías con cortocircuito de izquierda a derecha de alto flujo pueden causar sibilancias por congestión pulmonar, pero asocian soplos, taquicardia persistente, hepatomegalia y retraso pondoestatural."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Durante una auditoría de calidad clínica en el Centro de Salud Familiar, se analiza el uso de la kinesioterapia respiratoria (KTR) en el manejo del Síndrome Bronquial Obstructivo (SBO) agudo del lactante. De acuerdo con la medicina basada en evidencia y las directrices del programa IRA en Chile, ¿cuál es la recomendación correcta respecto a las indicaciones de la KTR?",
+    "hint": "En un bronquio inflamado y estrechado por edema y broncoespasmo, las maniobras de compresión torácica y vibración física de la KTR convencional no resuelven el problema y pueden agitar inútilmente al niño.",
+    "options": [
+      {
+        "text": "Está formalmente contraindicada en la fase aguda de la crisis obstructiva simple debido al riesgo de agitación e incremento del broncoespasmo reflejo, reservándose para casos con atelectasia confirmada o hipersecreción abundante.",
+        "isCorrect": true,
+        "explanation": "La kinesioterapia respiratoria (KTR) rutinaria está desaconsejada en las crisis obstructivas agudas de SBO simple y en la bronquiolitis aguda no complicada. Las maniobras de KTR en una vía aérea hiperreactiva pueden aumentar el broncoespasmo reflejo y fatigar al lactante. Sus indicaciones se restringen a lactantes con atelectasia documentada o hipersecreción masiva persistente."
+      },
+      {
+        "text": "Se debe indicar de forma obligatoria y diaria a todo lactante desde el primer episodio de sibilancias leves para acelerar la curación.",
+        "isCorrect": false,
+        "explanation": "Indicar KTR de forma universal en SBO leve expone al lactante a un estrés innecesario, puede aumentar las consultas y no ha demostrado acortar el tiempo de evolución de la crisis."
+      },
+      {
+        "text": "Es el tratamiento de primera línea de elección en la bronquiolitis aguda leve por VRS, debiendo preceder al uso de aseo nasal.",
+        "isCorrect": false,
+        "explanation": "En la bronquiolitis aguda, la KTR de rutina está desaconsejada por las guías ministeriales de Chile debido al riesgo demostrado de exacerbar la obstrucción y el distrés respiratorio."
+      },
+      {
+        "text": "Debe administrarse de forma profiláctica universal cada 12 horas en el hogar de todo recién nacido sano durante los meses de invierno.",
+        "isCorrect": false,
+        "explanation": "Administrar KTR de forma profiláctica en recién nacidos sanos carece de fundamento fisiológico y constituye una intervención médica inapropiada que puede generar distrés."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 18 meses, cursando con una neumonía viral complicada con SBO severo, requiere la indicación de oxígeno suplementario en el servicio de pediatría. De acuerdo con los estándares de la red de salud en Chile, ¿cuál es el dispositivo de primera línea recomendado para la administración de oxígeno de bajo flujo y cuál es el flujo máximo seguro que se puede programar?",
+    "hint": "El lactante tolera de forma óptima la naricera convencional para aportes de oxígeno de bajo flujo. Flujos excesivos por este dispositivo irritan y lesionan la mucosa por sequedad si falta humidificación adecuada.",
+    "options": [
+      {
+        "text": "Naricera convencional; con un flujo máximo seguro de 2 a 3 Litros/minuto para evitar lesión por sequedad de la mucosa nasal.",
+        "isCorrect": true,
+        "explanation": "La naricera o cánula nasal convencional es el dispositivo de elección para aportar oxígeno de bajo flujo en lactantes debido a su comodidad. El flujo máximo recomendado en menores de 2 años por esta vía es de 2 a 3 L/min, ya que flujos superiores provocan sequedad extrema de la mucosa, dolor local y epistaxis."
+      },
+      {
+        "text": "Máscara de no recirculación con reservorio; con un flujo fijo de 15 Litros/minuto de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "La máscara con reservorio se reserva para situaciones de emergencia, shock o transporte en insuficiencia respiratoria severa que exigen flujos altos transitorios, no siendo de uso continuo en piso por SBO moderado."
+      },
+      {
+        "text": "Cánula de traqueostomía pediátrica; con un flujo continuo de 8 Litros/minuto de oxígeno seco y frío.",
+        "isCorrect": false,
+        "explanation": "La traqueostomía exige un procedimiento quirúrgico invasivo mayor con indicaciones de patología estructural u obstructiva fija, no siendo de uso en SBO agudo común."
+      },
+      {
+        "text": "Halo de oxígeno (Hood); con un flujo mínimo de 25 Litros/minuto para forzar la ventilación alveolar mecánica.",
+        "isCorrect": false,
+        "explanation": "El halo se utilizaba en neonatología para evitar la reinhalación de CO2 (flujos de 5-8 L/min), pero se encuentra en desuso clínico y no se indica a los 18 meses debido a la movilidad del lactante."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Usted controla en la sala IRA a un lactante de 9 meses con sospecha de SBOR secundario a un probable reflujo gastroesofágico (RGE). Para confirmar la sospecha de microaspiración ácida y su relación con las crisis de sibilancias recurrentes de predominio nocturno, ¿cuál es el examen de referencia (estándar de oro) que se debe solicitar?",
+    "hint": "Se requiere medir tanto el número y la duración de los episodios de reflujo ácido como los no ácidos, correlacionándolos con la aparición de la tos o sibilancias registradas por los cuidadores.",
+    "options": [
+      {
+        "text": "pH-metría esofágica de 24 horas con impedanciometría intraluminal de canal múltiple.",
+        "isCorrect": true,
+        "explanation": "El examen estándar de oro para diagnosticar y caracterizar el reflujo gastroesofágico en pediatría es la pH-metría esofágica de 24 horas, idealmente acoplada a Impedanciometría intraluminal de canal múltiple. Permite detectar tanto el reflujo ácido como el no ácido, correlacionando temporalmente los episodios con los síntomas respiratorios."
+      },
+      {
+        "text": "Radiografía de esófago, estómago y duodeno (EED) con bario líquido de alta densidad.",
+        "isCorrect": false,
+        "explanation": "La radiografía con bario (EED) es útil para descartar anomalías anatómicas estructurales (malrotación, hernia hiatal), pero tiene muy baja sensibilidad y especificidad para el diagnóstico de RGE dinámico continuo."
+      },
+      {
+        "text": "Ecografía abdominal de tránsito esofágico en tiempo real con medición de reflujos gástricos.",
+        "isCorrect": false,
+        "explanation": "La ecografía puede detectar reflujos transitorios en el momento de la prueba, pero carece de valor diagnóstico cuantitativo para evaluar la gravedad del reflujo a lo largo de 24 horas ni mide la acidez."
+      },
+      {
+        "text": "Endoscopía digestiva alta con biopsia de la mucosa del fondo gástrico de urgencia.",
+        "isCorrect": false,
+        "explanation": "La endoscopía digestiva alta con biopsia evalúa las complicaciones mucosas de la esofagitis péptica o descarta patología eosinofílica, pero no cuantifica la frecuencia ni duración de los reflujos diarios."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 11 meses de edad es traído al servicio de urgencias por presentar tos y polipnea progresiva de 3 días de evolución. Al examen físico destaca: Frecuencia respiratoria de 55 respiraciones por minuto, retracciones subcostales moderadas evidentes y sibilancias espiratorias difusas bilaterales. Se diagnostica un primer episodio de Bronquiolitis Aguda moderada (Score de Tal de 7 puntos). ¿Cuál de las siguientes es una indicación formal para la hospitalización del lactante?",
+    "hint": "En la bronquiolitis moderada, la seguridad del manejo ambulatorio depende del estado de hidratación/alimentación y de la oxigenación objetiva del niño. La incapacidad de alimentarse por la polipnea es crítica.",
+    "options": [
+      {
+        "text": "Presentar una saturación de oxígeno menor a 93% en aire ambiental de forma persistente o registrar dificultad alimentaria con ingesta menor al cincuenta por ciento.",
+        "isCorrect": true,
+        "explanation": "Según las directrices del MINSAL, los criterios clínicos de hospitalización en bronquiolitis y SBO son: hipoxia persistente (saturación < 93% en aire ambiental), dificultad alimentaria severa (ingesta oral < 50% de lo habitual debido a la polipnea que arriesga aspiración y deshidratación), historia de apneas, o factores de riesgo graves."
+      },
+      {
+        "text": "Presentar un antecedente de lactancia artificial desde los 6 meses de vida o residir en un área urbana industrializada.",
+        "isCorrect": false,
+        "explanation": "El antecedente de lactancia artificial posterior a los 6 meses y la residencia urbana son factores de riesgo epidemiológicos generales, pero no constituyen de forma aislada criterios clínicos de hospitalización obligatoria."
+      },
+      {
+        "text": "Registrar un recuento de leucocitos normales en el hemograma rápido sin desviación a la izquierda.",
+        "isCorrect": false,
+        "explanation": "El hemograma normal con leucocitos conservados es el hallazgo típico de infecciones virales como la bronquiolitis y confirma la ausencia de sospecha bacteriana severa, favoreciendo el manejo ambulatorio."
+      },
+      {
+        "text": "No contar con vacunas complementarias extras del calendario PNI como la vacuna contra el Rotavirus.",
+        "isCorrect": false,
+        "explanation": "No contar con vacunas optativas que no pertenecen al esquema programático obligatorio del PNI (como el Rotavirus) no condiciona la necesidad de hospitalizar a un lactante con bronquiolitis."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "¿Cuál de los siguientes virus respiratorios, identificados en el panel viral, asocia de forma clásica un curso clínico caracterizado por fiebre muy elevada persistente de difícil control, conjuntivitis bilateral, faringitis exudativa y obstrucción bronquial de evolución prolongada?",
+    "hint": "Este virus es conocido por causar infecciones respiratorias bajas de gran toxicidad sistémica, con fiebre alta que simula una infección bacteriana y alto riesgo de daño secuelar de la vía aérea en el primer año.",
+    "options": [
+      {
+        "text": "Adenovirus.",
+        "isCorrect": true,
+        "explanation": "El Adenovirus es un virus respiratorio de gran virulencia en lactantes. Clínicamente cursa de forma clásica con: fiebre muy alta y prolongada (de hasta 5-7 días), conjuntivitis, faringoamigdalitis y un cuadro de SBO severo de evolución tórpida. Su replicación lítica causa necrosis de la vía aérea, asociando el mayor riesgo de secuelas crónicas como la bronquiolitis obliterante."
+      },
+      {
+        "text": "Rhinovirus.",
+        "isCorrect": false,
+        "explanation": "El Rhinovirus es la causa más común del resfrío común y un desencadenante de sibilancias recurrentes, pero típicamente cursa sin fiebre alta persistente, faringitis exudativa ni conjuntivitis bilateral severa."
+      },
+      {
+        "text": "Virus de la Influenza A.",
+        "isCorrect": false,
+        "explanation": "La Influenza causa fiebre y postración importante, pero no asocia de forma típica la constelación característica de faringitis exudativa con conjuntivitis folicular y SBO secuelar destructivo característico del Adenovirus."
+      },
+      {
+        "text": "Metapneumovirus humano.",
+        "isCorrect": false,
+        "explanation": "El Metapneumovirus humano causa un cuadro obstructivo clínicamente indistinguible de las infecciones por VRS, pero no se presenta de forma clásica con el perfil de gran toxicidad y conjuntivitis que define al Adenovirus."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Lactante de 18 meses, sibilante recurrente (SBOR) severo con antecedente de dermatitis atópica, presenta un cuadro obstructivo respiratorio severo. A pesar de completar dos horas de rescate, el paciente persiste polipneico, con Score de Tal de 9 puntos y desaturación moderada. Se realiza una radiografía de tórax por sospecha de complicación mecánica de escape aéreo. ¿Cuál de los siguientes hallazgos radiológicos es indicativo de un neumotórax?",
+    "hint": "El neumotórax representa aire libre atrapado en el espacio pleural que ejerce un efecto de compresión restrictivo sobre el pulmón afectado y los vasos sanguíneos mediastínicos.",
+    "options": [
+      {
+        "text": "Presencia de una zona de hiperlucidez extrema unilateral con ausencia completa de trama vascular pulmonar, colapso del parénquima pulmonar hacia el hilio (muñón pulmonar) y desviación del mediastino hacia el lado contralateral.",
+        "isCorrect": true,
+        "explanation": "El neumotórax se manifiesta radiológicamente por: hiperlucidez periférica unilateral (espacio negro) sin trama broncovascular visible, una línea nítida que corresponde al borde del pulmón colapsado (muñón pulmonar) y, si es a tensión, se acompaña de desviación del mediastino hacia el lado contralateral."
+      },
+      {
+        "text": "Opacidad homogénea de bordes bien delimitados que borra el contorno de la silueta cardíaca izquierda y presenta bronquograma aéreo marcado.",
+        "isCorrect": false,
+        "explanation": "Describe el patrón de condensación parenquimatosa con bronquograma aéreo característico de una neumonía bacteriana lobar aguda del lactante, que no cursa con aire libre en la pleura."
+      },
+      {
+        "text": "Infiltrados intersticiales bilaterales difusos de aspecto \"en vidrio esmerilado\" que respetan las bases pulmonares de forma simétrica.",
+        "isCorrect": false,
+        "explanation": "Infiltrados en vidrio esmerilado bilaterales son el hallazgo típico de neumonitis virales generalizadas o infecciones atípicas (ej: por Chlamydia), sin compromiso de la pleura."
+      },
+      {
+        "text": "Visualización de múltiples opacidades micronodulares finas distribuidas de forma homogénea en ambos campos pulmonares.",
+        "isCorrect": false,
+        "explanation": "Describe un patrón micronodular difuso característico de la tuberculosis biliar/miliar o de micosis sistémicas, cuadro infeccioso diseminado alejado del escape aéreo agudo."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Bronquial Obstructivo",
+    "text": "Un lactante de 11 meses de edad se encuentra hospitalizado en el servicio de pediatría recuperándose de una crisis obstructiva severa de SBO por VRS que requirió soporte con cánula nasal de alto flujo (CNAF). Al evaluar los criterios de seguridad clínica para otorgar el alta domiciliaria de forma segura, ¿cuál de las siguientes opciones describe las condiciones que debe cumplir el paciente?",
+    "hint": "El alta hospitalaria de un paciente respiratorio exige garantizar la estabilidad ventilatoria de forma autónoma sin oxígeno suplementario, la capacidad de alimentarse adecuadamente y el seguimiento garantizado.",
+    "options": [
+      {
+        "text": "Que el lactante mantenga una saturación de oxígeno mayor o igual a 93% de forma estable en aire ambiental por al menos 12 a 24 horas, con alimentación oral conservada, Score de Tal menor o igual a 5 puntos sin tiraje marcado, y cuidadores capacitados con control programado en sala IRA en 24-48 horas.",
+        "isCorrect": true,
+        "explanation": "Los criterios de alta hospitalaria para SBO y bronquiolitis son: estabilidad clínica con un Score de Tal ≤ 5 (crisis leve, sin tiraje marcado), saturación de oxígeno ≥ 93% en aire ambiental (sin oxígeno suplementario) sostenida por al menos 12-24 horas, alimentación oral adecuada, cuidadores educados, y control garantizado en la sala IRA en 24-48 horas."
+      },
+      {
+        "text": "Que el lactante complete un mínimo de 14 días de hospitalización y reciba un curso oral profiláctico de amoxicilina por 10 días.",
+        "isCorrect": false,
+        "explanation": "Forzar un tiempo rígido de hospitalización en un niño estable aumenta el riesgo de infecciones intrahospitalarias (IAAS) y el uso de antibióticos profilácticos en un cuadro viral no está indicado."
+      },
+      {
+        "text": "Que la madre se comprometa a administrar Salbutamol y corticoides inhalados cada 1 hora de forma ininterrumpida en el hogar.",
+        "isCorrect": false,
+        "explanation": "El alta con indicación de Salbutamol cada 1 hora en el hogar es incompatible con la seguridad y denota inestabilidad ventilatoria severa que contraindica el egreso hospitalario de la unidad."
+      },
+      {
+        "text": "Que la saturación se mantenga en 90% con naricera de bajo flujo intermitente, y el menor mantenga llanto irritable constante.",
+        "isCorrect": false,
+        "explanation": "El alta con requerimiento de oxígeno o saturando 90% ambiental es de alto riesgo para un lactante de 11 meses, exponiéndolo a crisis de apnea o recaídas severas en el domicilio."
+      }
+    ]
+  }
+]
