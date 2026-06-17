@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 2 meses ingresa al Servicio de Urgencia Infantil por un cuadro de rechazo alimentario, palidez marcada y polipnea de inicio brusco. Al examen físico destaca pálido, frío al tacto, eupneico en reposo con sibilancias espiratorias ausentes, pulsos arteriales simétricos pero débiles, llene capilar de 2 segundos. Presión arterial dentro de rangos normales para la edad. El monitor cardíaco y el ECG revelan una taquicardia regular con QRS estrecho (0,06 s) a una frecuencia cardíaca persistente de 240 lpm, sin ondas P visibles. ¿Cuál es el diagnóstico más probable de esta arritmia y la primera medida de manejo recomendada de forma inmediata?",
+    "hint": "En lactantes menores, una frecuencia cardíaca regular y sin variabilidad superior a 220 lpm con QRS estrecho y ondas P ausentes o retrógradas es el sello clínico de una TSV. Si el paciente se encuentra hemodinámicamente estable (presión arterial normal, perfusión aceptable), la primera línea terapéutica consiste en intervenciones no farmacológicas específicas.",
+    "options": [
+      {
+        "text": "Taquicardia Supraventricular (TSV); aplicar de inmediato una compresa o bolsa con hielo/agua helada sobre la cara (maniobra vagal) por 15 a 20 segundos sin obstruir la respiración.",
+        "isCorrect": true,
+        "explanation": "La Taquicardia Supraventricular (TSV) es la arritmia sintomática más frecuente en lactantes y niños pequeños. En lactantes, se define típicamente por una frecuencia cardíaca >220 lpm de inicio súbito, QRS estrecho (<0,09 s) y ausencia de ondas P sinusales normales. Al encontrarse el paciente hemodinámicamente estable (PA normal, llene capilar de 2 segundos), la primera línea de tratamiento consiste en realizar maniobras vagales. En lactantes y niños pequeños no colaboradores, la aplicación de hielo en la cara (cubriendo frente, ojos y nariz por 15-20 segundos mediante una bolsa plástica con agua helada) estimula intensamente el nervio vago y disminuye la conducción a nivel del nodo auriculoventricular (AV), logrando revertir la arritmia en un alto porcentaje de casos."
+      },
+      {
+        "text": "Taquicardia sinusal secundaria a shock séptico; administrar un bolo rápido de suero fisiológico a 20 ml/kg endovenoso.",
+        "isCorrect": false,
+        "explanation": "Aunque cursa con taquicardia, la taquicardia sinusal es una respuesta fisiológica adaptativa con variabilidad en el tiempo y rara vez supera los 220 lpm en lactantes. Además, no presenta ondas P ausentes y el tratamiento con volumen empeoraría la función cardíaca si existe una miocardiopatía de base."
+      },
+      {
+        "text": "Taquicardia ventricular monomórfica; realizar cardioversión eléctrica sincronizada de urgencia con 2 J/kg.",
+        "isCorrect": false,
+        "explanation": "La taquicardia ventricular es extremadamente infrecuente en lactantes sin cardiopatía estructural y se caracteriza por complejos QRS anchos (>0,09 s), lo que descarta este diagnóstico."
+      },
+      {
+        "text": "Flutter auricular con conducción 1:1; iniciar infusión continua de Amiodarona a dosis de 5 mg/kg endovenosa.",
+        "isCorrect": false,
+        "explanation": "El flutter auricular cursa electrocardiográficamente con las clásicas ondas en \"dientes de sierra\" (ondas F) y el manejo de primera línea estable no es la amiodarona endovenosa de forma directa sin antes intentar maniobras vagales o adenosina."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Preescolar de 4 años, previamente sano, es llevado al Servicio de Urgencia Infantil por palpitaciones y mareos de 1 hora de evolución. Al examen físico destaca reactivo, hidratado, bien perfundido, con PA de 95/60 mmHg y FC de 205 lpm. El ECG confirma una Taquicardia Supraventricular (TSV) con complejos QRS estrechos. Se realizan maniobras vagales activas (soplar una jeringa de 10 ml) sin lograr revertir la arritmia. ¿Cuál es el siguiente paso terapéutico recomendado por las guías PALS y de la Sociedad Chilena de Cardiología?",
+    "hint": "Cuando las maniobras vagales fracasan en revertir una TSV en un paciente hemodinámicamente estable, el algoritmo internacional indica el uso inmediato de un fármaco con vida media ultracorta capaz de bloquear de forma transitoria el nodo AV.",
+    "options": [
+      {
+        "text": "Administrar una dosis de Amiodarona endovenosa (5 mg/kg) en infusión lenta por 30 minutos.",
+        "isCorrect": false,
+        "explanation": "La amiodarona es un antiarrítmico de amplio espectro de segunda línea que se reserva para TSV refractarias a adenosina o taquicardias ventriculares estables, pero no se indica como primer paso tras el fallo de maniobras vagales."
+      },
+      {
+        "text": "Administrar Adenosina endovenosa en bolo rápido a dosis de 0,1 mg/kg a través de una vía venosa periférica proximal, seguido de un lavado inmediato con bolo de suero fisiológico.",
+        "isCorrect": true,
+        "explanation": "En una TSV hemodinámicamente estable donde las maniobras vagales iniciales no logran la reversión a ritmo sinusal, el fármaco de elección absoluto es la Adenosina. La primera dosis recomendada es de 0,1 mg/kg (máximo 6 mg) en bolo endovenoso extremadamente rápido debido a su vida media ultracorta de menos de 10 segundos, seguido inmediatamente de un lavado rápido con 5-10 ml de suero fisiológico utilizando una llave de tres pasos. Si es ineficaz, se puede administrar una segunda dosis de 0,2 mg/kg (máximo 12 mg)."
+      },
+      {
+        "text": "Realizar cardioversión eléctrica sincronizada con 1 J/kg previo uso de sedoanalgesia profunda en el box de reanimación.",
+        "isCorrect": false,
+        "explanation": "La cardioversión eléctrica sincronizada es el tratamiento de primera línea de elección para TSV hemodinámicamente inestables (shock, hipotensión severa, alteración de conciencia), no estando indicada de inicio en un paciente estable y normotenso de 4 años."
+      },
+      {
+        "text": "Indicar Verapamilo endovenoso (0,1 mg/kg) lento por 10 minutos bajo monitorización continua de presión arterial.",
+        "isCorrect": false,
+        "explanation": "El Verapamilo es un bloqueador de los canales de calcio que está contraindicado en lactantes menores de 1 año y se utiliza con extrema precaución en niños mayores debido al alto riesgo de hipotensión severa y colapso cardiovascular. No es de primera elección frente a la adenosina."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Neonato de 1 día de vida, de término, hijo de madre con diagnóstico de Lupus Eritematoso Sistémico (LES) activo sin controles médicos regulares durante el embarazo. Se constata al nacer una frecuencia cardíaca persistente de 55-60 lpm. Al examen físico destaca activo, reactivo, normoperfundido, sin signos de dificultad respiratoria ni hepatomegalia. El ECG de doce derivaciones revela una disociación auriculoventricular completa entre las ondas P y los complejos QRS. ¿Cuál es la etiología más probable de esta bradiarritmia neonatal y qué autoanticuerpos maternos específicos están directamente implicados en su fisiopatología?",
+    "hint": "Existe una asociación inmunológica y perinatal clásica entre las conectivopatías maternas (Lupus, Sjögren) y el desarrollo de bloqueo AV completo irreversible en el feto y recién nacido por destrucción fibrosa del tejido de conducción.",
+    "options": [
+      {
+        "text": "Bloqueo AV de primer grado secundario a miocarditis connatal por virus Coxsackie B; anticuerpos anti-DNA de doble cadena (dsDNA).",
+        "isCorrect": false,
+        "explanation": "La miocarditis por Coxsackie puede causar bloqueos transitorios, pero el BAVc crónico congénito clásico con disociación en un recién nacido de madre lúpica está mediado por anticuerpos anti-Ro/La, no anti-dsDNA."
+      },
+      {
+        "text": "Disfunción del nodo sinusal secundaria a hipoxia perinatal severa; anticuerpos anti-fosfolípidos (anticoagulante lúpico).",
+        "isCorrect": false,
+        "explanation": "La disfunción del nodo sinusal genera bradicardia sinusal o paros sinusales con ondas P ausentes o lentas, pero no cursa con disociación auriculoventricular completa constante entre aurículas y ventrículos."
+      },
+      {
+        "text": "Bloqueo auriculoventricular completo (3er grado) congénito secundario a la transferencia transplacentaria de anticuerpos maternos IgG anti-Ro (SSA) y anti-La (SSB).",
+        "isCorrect": true,
+        "explanation": "El bloqueo auriculoventricular completo congénito (BAVc) se asocia fuertemente (en el 80-90% de los casos no estructurales) a la presencia de conectivopatías maternas, principalmente Lupus Eritematoso Sistémico o Síndrome de Sjögren. El paso transplacentario activo de anticuerpos maternos IgG de tipo anti-Ro (SSA) y anti-La (SSB) a partir de la semana 16 de gestación genera una respuesta inflamatoria (miocarditis autoinmune) seguida de calcificación y fibrosis irreversible de las células del nodo auriculoventricular fetal en desarrollo. Se manifiesta clínicamente como bradicardia extrema fetal y neonatal con disociación AV completa en el ECG."
+      },
+      {
+        "text": "Miocardiopatía hipertrófica por diabetes materna no controlada; anticuerpos anti-insulina endógenos.",
+        "isCorrect": false,
+        "explanation": "La miocardiopatía hipertrófica neonatal secundaria a la diabetes materna produce típicamente soplos cardíacos, obstrucción del tracto de salida ventricular e insuficiencia cardíaca, pero no se asocia de forma característica a bloqueo AV completo ni está mediada por anticuerpos anti-insulina."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Escolar de 12 años, deportista de alto rendimiento, consulta en el CESFAM por antecedente de síncope brusco durante una carrera de atletismo de 400 metros. Al interrogar sobre los antecedentes familiares, la madre refiere que dos tíos maternos fallecieron de forma súbita antes de los 30 años. Se realiza un ECG de reposo que muestra ritmo sinusal regular, con un intervalo QTc medido y calculado de 510 ms. ¿Cuál es el diagnóstico clínico de sospecha, qué arritmia ventricular letal corre el riesgo de desarrollar este paciente ante esfuerzos físicos y cuál es el tratamiento farmacológico profiláctico de primera línea?",
+    "hint": "Un síncope gatillado por ejercicio físico o estrés emocional asociado a historia familiar de muerte súbita y un intervalo QTc >460-470 ms en el ECG basal representa una canalopatía arritmogénica cardíaca clásica altamente letal si no se interviene con bloqueadores adrenérgicos.",
+    "options": [
+      {
+        "text": "Síndrome de Brugada; fibrilación ventricular rápida; amiodarona vía oral.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Brugada cursa electrocardiográficamente con elevación persistente del segmento ST en derivaciones precordiales derechas (V1-V2) con patrón de aleta de tiburón, y sus eventos arrítmicos ocurren clásicamente durante el sueño o el reposo febril, no durante el ejercicio intenso."
+      },
+      {
+        "text": "Síndrome de Wolff-Parkinson-White; taquicardia ortodrómica por haz anómalo; adenosina EV profiláctica.",
+        "isCorrect": false,
+        "explanation": "El WPW se caracteriza por PR corto y onda delta en el ECG de reposo, y aunque puede causar TSV paroxísticas rápidas, la prolongación del intervalo QT no forma parte de sus criterios diagnósticos."
+      },
+      {
+        "text": "Displasia arritmogénica del ventrículo derecho; insuficiencia cardíaca progresiva; digoxina oral.",
+        "isCorrect": false,
+        "explanation": "La displasia arritmogénica cursa con inversión de la onda T en precordiales y ondas épsilon en el ECG, y la digoxina está contraindicada en estas patologías arritmogénicas debido a su potencial proarrítmico."
+      },
+      {
+        "text": "Síndrome de QT Largo Congénito; Taquicardia ventricular polimórfica en entorchado (Torsades de Pointes); Betabloqueadores (Propranolol o Nadolol).",
+        "isCorrect": true,
+        "explanation": "El Síndrome de QT Largo (SQTL) congénito es una canalopatía cardíaca producida por mutaciones en los canales de potasio o sodio cardíacos que prolongan la repolarización ventricular (QTc >440 ms en niños y >460-470 ms en adolescentes). El síncope inducido por ejercicio físico intenso (clásico de SQTL tipo 1) se produce debido a que el aumento del tono simpático gatilla una taquicardia ventricular polimórfica helicoidal conocida como Torsades de Pointes (en entorchado) que puede degenerar en fibrilación ventricular y muerte súbita. El tratamiento de elección son los Betabloqueadores no selectivos (como Propranolol o Nadolol) que atenúan la estimulación adrenérgica, disminuyendo drásticamente el riesgo de eventos cardíacos letales."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 9 meses es llevado a control de niño sano en el CESFAM. Durante la auscultación cardíaca, el médico constata una irregularidad en el ritmo cardíaco que llama su atención: la frecuencia cardíaca aumenta de forma cíclica y notable durante la inspiración, disminuyendo progresivamente durante la fase espiratoria. El lactante se encuentra en excelentes condiciones generales, activo, creciendo adecuadamente. El ECG de doce derivaciones de reposo muestra un ritmo sinusal normal con variaciones del intervalo R-R superiores al 12%, con morfología de onda P e intervalo PR constantes y normales. ¿Cuál es el diagnóstico y la conducta más apropiada?",
+    "hint": "Es una variación fisiológica del ritmo cardíaco sumamente frecuente en la población pediátrica y adolescentes sanos, asociada de forma directa a las fluctuaciones normales del tono autonómico (vagal) inducidas por los movimientos respiratorios.",
+    "options": [
+      {
+        "text": "Arritmia sinusal respiratoria (fisiológica); no requiere estudios adicionales, se debe tranquilizar y educar a los padres sobre su naturaleza normal.",
+        "isCorrect": true,
+        "explanation": "La arritmia sinusal respiratoria es un hallazgo fisiológico normal y muy frecuente en pediatría. Se produce por la modulación cíclica del tono vagal a nivel del nodo sinusal inducida por la respiración: durante la inspiración se produce una inhibición refleja del tono vagal (aumentando la FC) y durante la espiración se restablece el tono vagal (disminuyendo la FC). En el ECG se observa como una variación del intervalo R-R mayor al 10% con ondas P y PR normales de morfología constante. Al ser una variante normal del corazón sano, no requiere ningún estudio invasivo, derivación ni tratamiento farmacológico."
+      },
+      {
+        "text": "Bloqueo auriculoventricular de segundo grado Mobitz I (fenómeno de Wenckebach); requiere derivación prioritaria a cardiología infantil para estudio Holter de 24 horas.",
+        "isCorrect": false,
+        "explanation": "El bloqueo Mobitz I cursa con prolongación progresiva del PR hasta bloquear un latido QRS, lo cual no ocurre en este ECG que mantiene el PR totalmente constante y normal en todos los latidos."
+      },
+      {
+        "text": "Disfunción sintomática del nodo sinusal; requiere hospitalización preventiva inmediata para colocación de marcapasos endocárdico transitorio.",
+        "isCorrect": false,
+        "explanation": "La disfunción del nodo sinusal es patológica, cursa con bradicardia marcada fija e inapropiada para el estado de actividad del niño, paros sinusales prolongados o fatiga extrema, lo cual se aleja de este lactante vigoroso con arritmia respiratoria fisiológica."
+      },
+      {
+        "text": "Extrasistolia auricular unifocal frecuente; requiere iniciar de forma inmediata tratamiento farmacológico profiláctico con Propranolol oral.",
+        "isCorrect": false,
+        "explanation": "Las extrasístoles auriculares se observan en el ECG como latidos adelantados (prematuros) con ondas P de morfología anómala (diferentes a la onda P sinusal basal), lo que no coincide con la descripción de ondas P totalmente normales y simétricas descritas."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 10 meses ingresa al Servicio de Urgencia Infantil por un cuadro de deshidratación severa secundaria a gastroenteritis aguda de 3 días de evolución. Durante la monitorización continua se constata taquicardia extrema. Al examen físico destaca decaído, pálido, ojos hundidos, llene capilar de 4 segundos, temperatura rectal de 39,2°C y una frecuencia cardíaca que oscila continuamente entre 185 y 200 lpm según los estímulos físicos y el llanto. El ECG muestra ondas P normales de eje entre 0° y +90° seguidas de complejos QRS estrechos con intervalo PR constante de 0,09 s. ¿Cuál es el diagnóstico de la taquicardia y la conducta terapéutica más adecuada según las pautas de reanimación?",
+    "hint": "La taquicardia sinusal es una respuesta compensatoria que cursa con ondas P normales en el ECG y fluctuaciones continuas de la frecuencia cardíaca al estímulo o reposo, a diferencia de la TSV que es de frecuencia fija, muy elevada y brusca.",
+    "options": [
+      {
+        "text": "Taquicardia Supraventricular (TSV); administrar de inmediato Adenosina endovenosa rápida a dosis de 0,1 mg/kg por llave de tres pasos.",
+        "isCorrect": false,
+        "explanation": "Administrar adenosina a un paciente en shock hipovolémico con taquicardia sinusal compensatoria es un error clínico que puede provocar hipotensión severa catastrófica al interferir transitoriamente con el gasto cardíaco compensatorio del lactante deshidratado."
+      },
+      {
+        "text": "Taquicardia sinusal secundaria a shock hipovolémico y fiebre; iniciar de inmediato reanimación hídrica agresiva con bolo de suero fisiológico a 20 ml/kg EV y administrar antipiréticos.",
+        "isCorrect": true,
+        "explanation": "La taquicardia sinusal es una respuesta adaptativa normal ante estímulos fisiológicos que exigen un aumento del gasto cardíaco (como fiebre, dolor, anemia, hipoxia, shock hipovolémico o sepsis). Electrocardiográficamente se caracteriza por ondas P de eje y morfología normal (onda P positiva en I, II y aVF) seguidas de QRS estrechos con una frecuencia que varía continuamente con el estímulo o la hidratación (rara vez excede los 220 lpm en lactantes). El tratamiento debe dirigirse de forma prioritaria a corregir la causa subyacente: reanimación hídrica con suero fisiológico para el shock hipovolémico y antipiréticos para la fiebre, lo que disminuirá progresivamente la frecuencia cardíaca sin requerir fármacos antiarrítmicos."
+      },
+      {
+        "text": "Flutter auricular con conducción rápida; realizar cardioversión eléctrica sincronizada inmediata con 1 J/kg en el box de reanimación.",
+        "isCorrect": false,
+        "explanation": "No se realiza cardioversión eléctrica en taquicardias sinusales compensatorias ya que la arritmia no se debe a un bucle de reentrada eléctrico intrínseco del corazón, y la descarga no disminuirá la frecuencia cardíaca si persiste el shock hipovolémico de base."
+      },
+      {
+        "text": "Taquicardia ectópica de la unión (JET) refractaria; derivar de urgencia para colocación de marcapasos transitorio.",
+        "isCorrect": false,
+        "explanation": "La JET es una arritmia postoperatoria muy específica caracterizada por disociación AV e inestabilidad hemodinámica que no tiene relación con el curso clínico de esta deshidratación aguda de origen comunitario."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Escolar de 8 años es evaluado en el Servicio de Urgencias por un cuadro respiratorio agudo. En la toma del ECG de reposo de control se evidencia de forma incidental un ritmo sinusal regular que muestra una prolongación progresiva del intervalo PR en los latidos sucesivos hasta que una onda P se bloquea (no es seguida de su respectivo complejo QRS), tras lo cual se restablece el intervalo PR basal más corto y se reinicia el ciclo. El paciente se encuentra asintomático desde el punto de vista cardiovascular y realiza actividad física habitual sin limitaciones. ¿A qué alteración del sistema de conducción auriculoventricular corresponde este hallazgo y cuál es el manejo de elección indicado?",
+    "hint": "La prolongación progresiva del intervalo PR hasta que un latido se bloquea (fenómeno de Wenckebach) suele ser una manifestación de tono vagal elevado en reposo en niños y deportistas sanos, de carácter benigno si se mantiene asintomático.",
+    "options": [
+      {
+        "text": "Bloqueo AV de primer grado; requiere hospitalización inmediata en UCI Pediátrica para monitorización invasiva y suspender el deporte de por vida.",
+        "isCorrect": false,
+        "explanation": "El bloqueo de primer grado muestra prolongación constante del intervalo PR en todos los latidos, sin omitir o bloquear ningún complejo QRS, diferenciándose de esta alteración Mobitz I."
+      },
+      {
+        "text": "Bloqueo AV de segundo grado Mobitz II; requiere implante urgente de marcapasos definitivo.",
+        "isCorrect": false,
+        "explanation": "El bloqueo Mobitz II se caracteriza por ondas P bloqueadas de forma súbita sin prolongación previa del PR (PR constante). Es siempre patológico (asociado a daño infranodal del sistema de Purkinje) y tiene alto riesgo de progresión a BAV completo, requiriendo marcapasos."
+      },
+      {
+        "text": "Bloqueo AV de segundo grado Mobitz I o fenómeno de Wenckebach (fisiológico en niños sanos en reposo); no requiere tratamiento activo ni estudios invasivos, solo control clínico regular.",
+        "isCorrect": true,
+        "explanation": "El bloqueo auriculoventricular de segundo grado Mobitz I (fenómeno de Wenckebach) se caracteriza por la prolongación progresiva del intervalo PR latido a latido hasta que una onda P no se conduce a través del nodo AV (onda P bloqueada) y se omite un complejo QRS. En pediatría y deportistas jóvenes, este hallazgo suele deberse a un tono vagal (parasimpático) muy aumentado durante el reposo o el sueño, considerándose una variante fisiológica benigna que no progresa a bloqueos de mayor gravedad. Al encontrarse el escolar completamente asintomático, la conducta correcta es expectante y no requiere marcapasos ni restricciones físicas."
+      },
+      {
+        "text": "Bloqueo AV de tercer grado o completo; requiere terapia endovenosa inmediata con infusión continua de Isoproterenol para evitar la asistolia.",
+        "isCorrect": false,
+        "explanation": "El bloqueo de tercer grado o completo cursa con disociación auriculoventricular absoluta entre aurículas (ondas P) y ventrículos (QRS) con frecuencias independientes, lo que no coincide con el alargamiento cíclico progresivo del PR descrito."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Adolescente de 15 años consulta en el policlínico infantil por episodios recurrentes de palpitaciones súbitas asociadas a mareos leves. Se realiza un ECG basal de reposo que muestra ritmo sinusal, un intervalo PR acortado de 0,09 s (normal para la edad >0,12 s), presencia de una deflexión o empastamiento inicial en la rama ascendente del complejo QRS (onda delta) y un complejo QRS discretamente ensanchado de 0,11 s. ¿A qué síndrome de preexcitación corresponden estos hallazgos electrocardiográficos y cuál es su sustrato anatómico subyacente?",
+    "hint": "Es el síndrome de preexcitación ventricular más común e importante en pediatría. El acortamiento del PR y el empastamiento inicial del QRS (onda delta) reflejan la despolarización ventricular precoz mediada por un haz anómalo.",
+    "options": [
+      {
+        "text": "Síndrome de Lown-Ganong-Levine; vía accesoria de conducción que conecta de forma directa la aurícula con el haz de His (fibras de James).",
+        "isCorrect": false,
+        "explanation": "El síndrome de Lown-Ganong-Levine cursa con PR corto pero sin onda delta y con QRS normal, ya que el bypass de conducción conecta directamente con el haz de His y despolariza los ventrículos por las vías normales de Purkinje de forma simultánea."
+      },
+      {
+        "text": "Síndrome de Brugada; mutación de los canales de sodio miocárdicos regulados por voltaje (SCN5A).",
+        "isCorrect": false,
+        "explanation": "El síndrome de Brugada cursa con patrón de bloqueo de rama derecha y elevación del ST en precordiales derechas (V1-V2), sin presentar PR corto ni onda delta de preexcitación clásica."
+      },
+      {
+        "text": "Síndrome de QT Largo congénito; alteración estructural del colágeno en el lecho vascular coronario.",
+        "isCorrect": false,
+        "explanation": "El síndrome de QT largo prolonga el intervalo QT pero no altera la conducción auriculoventricular ni genera preexcitación ventricular en el ECG de reposo."
+      },
+      {
+        "text": "Síndrome de Wolff-Parkinson-White (WPW); presencia de una vía de conducción muscular accesoria auriculoventricular anómala que esquiva el nodo AV (Haz de Kent).",
+        "isCorrect": true,
+        "explanation": "El Síndrome de Wolff-Parkinson-White (WPW) es una patología congénita caracterizada por la presencia de una vía de conducción accesoria muscular anómala (conocida como Haz de Kent) que conecta directamente aurículas y ventrículos sin pasar por el nodo AV. Debido a que el Haz de Kent no tiene el retraso fisiológico característico del nodo AV, los impulsos auriculares despolarizan precozmente una porción del ventrículo, manifestándose en el ECG de reposo con la tríada clásica de: 1) Intervalo PR corto (<0,12 s), 2) Presencia de onda delta (empastamiento inicial de la rama ascendente del QRS) y 3) Ensanchamiento secundario del complejo QRS. Este haz anómalo favorece el desarrollo de taquicardias supraventriculares de reentrada auriculoventricular (ortodrómicas o antidrómicas)."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 11 meses es hospitalizado en la UCI Pediátrica tras cursar con un paro cardiorrespiratorio secundario a asfixia por inmersión accidental. Tras iniciar maniobras de reanimación cardiopulmonar básicas de forma inmediata y proveer ventilación efectiva con bolsa-mascarilla conectada a oxígeno a alta tasa, el monitor cardíaco revela bradicardia severa con una frecuencia cardíaca de 45 lpm de QRS estrecho. Al examen destaca pálido, hiporreactivo, con llene capilar de 4 segundos y pulso femoral apenas palpable. ¿Cuál es la primera intervención terapéutica recomendada por el algoritmo de bradicardia pediátrica de PALS en este paciente?",
+    "hint": "En pediatría, la bradicardia suele ser secundaria a hipoxia tisular severa. Si a pesar de asegurar una adecuada oxigenación y ventilación, la frecuencia cardíaca se mantiene por debajo de 60 lpm con mala perfusión periférica, se deben iniciar maniobras de masaje cardíaco inmediato.",
+    "options": [
+      {
+        "text": "Iniciar de inmediato compresiones torácicas coordinadas con ventilación (RCP avanzada), debido a la bradicardia persistente menor a 60 lpm con compromiso severo de perfusión sistémica refractaria a oxigenación y ventilación adecuadas.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con las guías de reanimación cardiopulmonar avanzada pediátrica (PALS de la AHA), en todo lactante o niño que presente bradicardia severa (frecuencia cardíaca menor a 60 lpm) asociada a signos de mala perfusión periférica (palidez, pulsos débiles, llene capilar prolongado, compromiso de conciencia) que sea refractaria a una ventilación y oxigenación efectivas, se deben iniciar compresiones torácicas de alta calidad de forma inmediata. Esto se debe a que a frecuencias inferiores a 60 lpm, el gasto cardíaco en lactantes pequeños es totalmente insuficiente para mantener la viabilidad de los órganos vitales, independientemente del ritmo de QRS estrecho."
+      },
+      {
+        "text": "Administrar un bolo rápido de Adrenalina endovenosa (0,01 mg/kg) antes de reanudar el masaje cardíaco externo.",
+        "isCorrect": false,
+        "explanation": "La Adrenalina es el fármaco de elección si la bradicardia y mala perfusión persisten a pesar de iniciar el masaje cardíaco y ventilación coordinados, pero nunca debe retrasar el inicio físico inmediato de las compresiones torácicas."
+      },
+      {
+        "text": "Realizar una desfibrilación eléctrica de urgencia no sincronizada con una carga inicial de 4 J/kg.",
+        "isCorrect": false,
+        "explanation": "La desfibrilación no sincronizada está indicada de forma exclusiva ante ritmos de paro desfibrilables (Fibrilación Ventricular y Taquicardia Ventricular sin pulso), estando proscrita en ritmos de bradicardia organizada de QRS estrecho."
+      },
+      {
+        "text": "Administrar un bolo rápido de Atropina endovenosa (0,02 mg/kg) de forma rutinaria como primer paso.",
+        "isCorrect": false,
+        "explanation": "La Atropina se reserva específicamente para bradicardias causadas por un aumento del tono vagal intrínseco (por ejemplo, tras intubación orotraqueal) o en presencia de bloqueos AV completos de causa estructural, pero no es el primer paso de elección en bradicardias por asfixia/hipoxia tisular severa frente al masaje cardíaco directo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Preescolar de 5 años con antecedente de cardiopatía congénita compleja (operado de Tetralogía de Fallot hace 1 año) ingresa de urgencia al hospital regional por palpitaciones, disnea de reposo y compromiso del estado general. Al examen físico destaca pálido, sudoroso, con frecuencia cardíaca de 210 lpm, pulsos periféricos muy débiles y llene capilar de 4 segundos, con una presión arterial limítrofe de 70/45 mmHg (hipotensión arterial para la edad). Se conecta a monitor y se realiza un ECG urgente que muestra una taquicardia regular de complejos QRS anchos (0,12 s), con disociación auriculoventricular evidente. ¿Cuál es el diagnóstico de la arritmia y la conducta inmediata recomendada dada la inestabilidad hemodinámica?",
+    "hint": "En presencia de una taquicardia de complejos QRS anchos asociada a signos de inestabilidad hemodinámica (hipotensión, shock, perfusión enlentecida), el algoritmo de PALS prohíbe el uso de fármacos endovenosos iniciales y ordena la cardioversión eléctrica sincronizada inmediata.",
+    "options": [
+      {
+        "text": "Taquicardia Supraventricular con conducción aberrante; realizar maniobras vagales con compresa de hielo en la cara y compresión ocular.",
+        "isCorrect": false,
+        "explanation": "Las maniobras vagales y el uso de fármacos endovenosos están contraindicados de primera línea en taquicardias inestables debido al riesgo de inducir asistolia o retrasar la terapia eléctrica de soporte vital. Además, la compresión ocular está proscrita en pediatría por riesgo oftálmico."
+      },
+      {
+        "text": "Taquicardia Ventricular (TV) monomórfica inestable; realizar cardioversión eléctrica sincronizada inmediata con una carga de 0,5-1,0 J/kg (previo uso de sedoanalgesia si el estado de conciencia lo permite).",
+        "isCorrect": true,
+        "explanation": "El paciente presenta una Taquicardia Ventricular (TV) con pulso pero con inestabilidad hemodinámica (hipotensión arterial de 70/45 mmHg para un niño de 5 años, signos de shock y llene capilar prolongado). El ECG confirma la arritmia al mostrar complejos QRS anchos (>0,09 s en niños) y disociación auriculoventricular. En presencia de una TV inestable con pulso, el tratamiento de elección absoluto e inmediato es la cardioversión eléctrica sincronizada a una dosis inicial de 0,5-1,0 J/kg (pudiendo aumentarse a 2 J/kg si es refractaria). Sincronizar la descarga con la onda R del QRS es crítico para evitar descargar durante la fase vulnerable de la repolarización ventricular (onda T), lo que induciría una Fibrilación Ventricular."
+      },
+      {
+        "text": "Fibrilación Ventricular; realizar de inmediato una desfibrilación eléctrica no sincronizada de urgencia con 4 J/kg.",
+        "isCorrect": false,
+        "explanation": "La desfibrilación no sincronizada se reserva estrictamente para ritmos de paro sin pulso (Fibrilación Ventricular o TV sin pulso), donde la desorganización del trazado impide al monitor sincronizar la descarga con una onda R."
+      },
+      {
+        "text": "Taquicardia ectópica de la unión (JET) refractaria; iniciar infusión continua de Sulfato de Magnesio de forma intrahospitalaria.",
+        "isCorrect": false,
+        "explanation": "El Sulfato de Magnesio es el tratamiento específico para la taquicardia ventricular polimórfica (Torsades de Pointes), no estando indicado como terapia empírica de una TV monomórfica inestable con complejos uniformes."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Escolar de 7 años, portador de insuficiencia renal crónica secundaria a uropatía obstructiva compleja, ingresa al Servicio de Urgencias por debilidad muscular extrema, parestesias y letargia progresiva. Al ingreso se conecta a monitor de ECG de control que revela: ondas T picudas, estrechas y simétricas de gran amplitud, intervalo PR prolongado de 0,22 s y un ensanchamiento difuso del complejo QRS (0,12 s). ¿Cuál es el trastorno electrolítico que con mayor probabilidad explica estos hallazgos electrocardiográficos clásicos y qué fármaco estabilizador de membrana miocárdica debe administrar de inmediato?",
+    "hint": "La combinación de ondas T altas y picudas (\"en tienda de campaña\") seguida de prolongación del PR y ensanchamiento del QRS es el patrón secuencial clásico de toxicidad cardíaca por elevación sérica de un catión abundante, común en la falla renal.",
+    "options": [
+      {
+        "text": "Hipocalcemia grave; administrar de inmediato Gluconato de Calcio al 10% endovenoso rápido en bolo.",
+        "isCorrect": false,
+        "explanation": "Aunque el gluconato de calcio se utiliza, la causa de estas alteraciones electrocardiográficas (ondas T picudas y ensanchamiento del QRS) no es la hipocalcemia, sino la hiperpotasemia secundaria a su insuficiencia renal. La hipocalcemia se manifiesta en el ECG principalmente por prolongación del segmento ST e intervalo QT prolongado."
+      },
+      {
+        "text": "Hipopotasemia severa; administrar Cloruro de Potasio endovenoso diluido en suero fisiológico por infusión continua.",
+        "isCorrect": false,
+        "explanation": "La hipopotasemia severa produce aplanamiento de la onda T, depresión del segmento ST y aparición de ondas U prominentes, lo que representa el patrón opuesto al descrito en el caso clínico."
+      },
+      {
+        "text": "Hiperpotasemia (hiperkalemia) grave; administrar de inmediato Gluconato de Calcio al 10% (0,5-1,0 ml/kg EV lento en 5 a 10 minutos) para estabilizar la membrana miocárdica antes de forzar la entrada del potasio al espacio intracelular.",
+        "isCorrect": true,
+        "explanation": "El paciente presenta signos clásicos de Hiperpotasemia (hiperkalemia) grave en el ECG. El potasio sérico elevado disminuye el potencial de membrana de reposo de las células cardíacas, lo que se manifiesta secuencialmente en el ECG como: 1) Ondas T altas, simétricas y picudas, 2) Prolongación del intervalo PR y aplanamiento de la onda P, y 3) Ensanchamiento progresivo del complejo QRS que puede evolucionar a un patrón sinusoidal y asystolia. El primer paso prioritario ante cambios electrocardiográficos por hiperpotasemia es la administración de Gluconato de Calcio al 10% endovenoso lento. El calcio antagoniza directamente los efectos de la hiperpotasemia en el potencial umbral de membrana del miocardio, estabilizándolo y reduciendo el riesgo de arritmias ventriculares letales de forma inmediata, aunque no disminuye los niveles séricos de potasio por sí mismo."
+      },
+      {
+        "text": "Hiponatremia dilucional extrema; administrar solución salina hipertónica al 3% endovenosa.",
+        "isCorrect": false,
+        "explanation": "La hiponatremia no produce de forma clásica ondas T picudas ni ensanchamiento del QRS de forma aislada en el ECG de reposo de estos pacientes."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 6 meses, portador de una cardiopatía congénita con defecto septal ventricular (CIV) grande en curso de insuficiencia cardíaca congestiva severa, se encuentra recibiendo tratamiento ambulatorio con Digoxina y Furosemida en su domicilio. Es traído por su madre por presentar rechazo alimentario completo, náuseas, vómitos repetidos e hipoactividad marcada de 24 horas de evolución. Se realiza un ECG que muestra bradicardia sinusal de 70 lpm, prolongación del intervalo PR, depresión del segmento ST de aspecto cóncavo (cubeta digitálica) y extrasístoles ventriculares frecuentes. ¿Cuál es la sospecha diagnóstica más probable y la alteración hidroelectrolítica que potencia de forma crítica esta complicación farmacológica?",
+    "hint": "Los síntomas digestivos (vómitos, rechazo alimentario) asociados a bradicardia y extrasístoles en un paciente que usa digitálicos y diuréticos de asa deben hacer sospechar de inmediato una toxicidad acumulada favorecida por niveles bajos de un electrolito clave.",
+    "options": [
+      {
+        "text": "Síndrome de QT largo inducido por digoxina; potenciada por hiperpotasemia severa.",
+        "isCorrect": false,
+        "explanation": "La digoxina no prolonga el intervalo QT; de hecho, tiende a acortarlo en el trazado ECG normal. Además, la hiperpotasemia disminuye la unión de la digoxina a la bomba, atenuando parcialmente su toxicidad."
+      },
+      {
+        "text": "Gastroenteritis viral aguda de adquisición comunitaria; potenciada por hiponatremia extrema por pérdidas.",
+        "isCorrect": false,
+        "explanation": "Aunque presenta vómitos, la presencia de bradicardia severa con extrasístoles y cubeta digitálica en un paciente bajo tratamiento activo con digoxina orienta de forma mandatoria a toxicidad por fármacos antes de catalogarlo como gastroenteritis común."
+      },
+      {
+        "text": "Miocarditis aguda viral sobre agregada; potenciada por hipocalcemia refractaria.",
+        "isCorrect": false,
+        "explanation": "La miocarditis viral se presenta con insuficiencia cardíaca aguda de novo, fiebre y shock cardiogénico, pero no explica la signología electrocardiográfica de cubeta digitálica y extrasistolia típica del tratamiento crónico."
+      },
+      {
+        "text": "Intoxicación digitálica (toxicidad por digoxina); potenciada de forma crítica por la hipopotasemia (hipokalemia) secundaria al uso del diurético de asa Furosemida sin suplementación adecuada.",
+        "isCorrect": true,
+        "explanation": "El paciente cursa con un cuadro clásico de Intoxicación Digitálica. La digoxina tiene un estrecho margen terapéutico en pediatría y sus síntomas de toxicidad incluyen manifestaciones gastrointestinales (rechazo alimentario, náuseas, vómitos de difícil manejo) y arritmias cardíacas (bradicardia sinusal, bloqueos AV de diversos grados, extrasístoles ventriculares o taquiarritmias). El uso concomitante de Furosemida (un diurético de asa) sin suplemento de potasio induce hipopotasemia (hipokalemia). El potasio y la digoxina compiten por los sitios de unión en la bomba Na⁺/K⁺ ATPasa celular miocárdica; al existir hipopotasemia, la digoxina se une de forma masiva a la bomba, lo que eleva drásticamente su toxicidad celular de forma independiente a sus niveles plasmáticos totales."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Durante la evaluación de un ECG pediátrico en un escolar de 10 años, usted necesita calcular de forma precisa el intervalo QT corregido (QTc) para evaluar el riesgo de arritmias ventriculares. ¿Cuál es la fórmula matemática clásica utilizada para este cálculo y cuál es el valor de corte superior considerado patológico en niños y adolescentes?",
+    "hint": "Es la fórmula más utilizada en la práctica clínica para corregir la duración del intervalo QT según la frecuencia cardíaca del paciente pediátrico, utilizando la raíz cuadrada del intervalo R-R precedente.",
+    "options": [
+      {
+        "text": "Fórmula de Bazett (QTc = QT / √RR); patológico si es mayor a 440-450 ms en niños (>460 ms en lactantes y >470 ms en adolescentes mujeres).",
+        "isCorrect": true,
+        "explanation": "La Fórmula de Bazett (QTc = QT / √RR) es el método estándar clásico utilizado para corregir el intervalo QT medido según la frecuencia cardíaca, dividiendo el intervalo QT (en segundos) por la raíz cuadrada del intervalo R-R precedente (en segundos). Debido a que la frecuencia cardíaca varía ampliamente en pediatría, esta corrección es obligatoria. Un valor de QTc mayor a 440 ms en niños menores de 12 años, mayor a 460 ms en lactantes y mayor a 470 ms en adolescentes de sexo femenino se considera formalmente prolongado y constituye un criterio mayor de riesgo para el desarrollo de arritmias graves como Torsades de Pointes."
+      },
+      {
+        "text": "Fórmula de Holliday-Segar; patológico si es mayor a 500 ms constantes.",
+        "isCorrect": false,
+        "explanation": "La fórmula de Holliday-Segar se utiliza exclusivamente para el cálculo de los requerimientos de hidratación basal (fleboclisis de mantención) según el peso corporal del paciente pediátrico, careciendo de relación con la cardiología o el ECG."
+      },
+      {
+        "text": "Fórmula de Friedericia; patológico si el QTc es menor a 350 ms basales.",
+        "isCorrect": false,
+        "explanation": "La fórmula de Friedericia utiliza la raíz cúbica del intervalo R-R y aunque es útil a frecuencias extremas, el valor patológico de QT largo se define por valores aumentados y no menores a 350 ms."
+      },
+      {
+        "text": "Fórmula de Schwartz; patológico si el intervalo PR es menor a 120 ms en reposo.",
+        "isCorrect": false,
+        "explanation": "La fórmula de Schwartz se emplea para la estimación de la velocidad de filtración glomerular (depuración de creatinina) en pediatría basada en la talla y creatinina sérica del paciente, sin relación con el intervalo QT."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 3 meses, previamente sano, ingresa al Servicio de Urgencias en paro cardiorrespiratorio. Tras iniciar maniobras de RCP básica avanzada efectiva y colocar los parches de monitorización-desfibrilación, se visualiza en la pantalla un ritmo desorganizado, caótico, de amplitud variable, sin complejos QRS ni ondas T identificables. El paciente no tiene pulsos palpables. ¿Cuál es el ritmo de paro identificado, qué energía inicial de descarga eléctrica debe programar de inmediato y bajo qué modalidad de entrega del monitor?",
+    "hint": "Es un ritmo de paro desfibrilable. Al no existir complejos QRS organizados que el monitor pueda identificar, se debe programar una descarga eléctrica inmediata de tipo asincrónica (no sincronizada) con la menor dosis de energía inicial según el peso del lactante.",
+    "options": [
+      {
+        "text": "Actividad eléctrica sin pulso; programar cardioversión sincronizada a una dosis inicial de 1 J/kg.",
+        "isCorrect": false,
+        "explanation": "La Actividad Eléctrica Sin Pulso (AESP) se caracteriza por mostrar un ritmo organizado en la pantalla (como ritmo sinusal o taquicardia) pero en un paciente sin pulsos detectables. Es un ritmo no desfibrilable que requiere RCP de calidad y Adrenalina, estando proscrito el choque eléctrico."
+      },
+      {
+        "text": "Fibrilación Ventricular (FV); programar desfibrilación eléctrica no sincronizada inmediata a una dosis de 2 J/kg.",
+        "isCorrect": true,
+        "explanation": "El ritmo descrito en la pantalla es una Fibrilación Ventricular (FV), el cual se caracteriza electrocardiográficamente por ondas caóticas y desorganizadas de amplitud y frecuencia variable, sin complejos QRS ni ondas T identificables, asociándose a la ausencia total de pulso central detectable. Es un ritmo de paro desfibrilable. El algoritmo de RCP avanzada pediátrica (PALS) establece que la primera descarga de desfibrilación no sincronizada debe administrarse de inmediato a una dosis de 2 J/kg (pudiendo aumentarse a 4 J/kg en la segunda descarga y ≥ 4 J/kg hasta un máximo de 10 J/kg o dosis de adulto en choques sucesivos si es refractaria). Debe entregarse de modo asincrónico ya que el monitor es incapaz de sincronizarse con un trazado desorganizado carente de ondas R."
+      },
+      {
+        "text": "Taquicardia Ventricular sin pulso; programar cardioversión sincronizada de urgencia a una dosis de 4 J/kg.",
+        "isCorrect": false,
+        "explanation": "Aunque la TV sin pulso es desfibrilable, cursa con complejos QRS anchos pero regulares y monomórficos organizados en la pantalla, diferenciándose del trazado caótico de la FV. Además, al no haber pulso, la descarga debe ser no sincronizada para evitar retrasos de censado del monitor."
+      },
+      {
+        "text": "Asistolia verdadera; programar estimulación con marcapasos externo inmediato a una dosis de 10 J/kg.",
+        "isCorrect": false,
+        "explanation": "La asistolia se observa como una línea plana horizontal en el monitor (sin actividad eléctrica). No es un ritmo desfibrilable y el marcapasos externo no tiene indicación de rutina en el paro por asistolia pediátrico."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Adolescente de 14 años, con antecedentes de asma bronquial atópica moderada en tratamiento regular, es traído al Servicio de Urgencia Infantil por palpitaciones de inicio súbito asociadas a disnea leve. Al examen físico destaca reactivo, normoperfundido, eupneico en reposo con PA de 105/70 mmHg y FC de 190 lpm. El ECG confirma una Taquicardia Supraventricular estable de QRS estrecho. Tras fallar las maniobras de Valsalva, se decide el uso de Adenosina endovenosa. ¿Qué precaución respiratoria importante debe considerar al administrar Adenosina en un paciente asmático?",
+    "hint": "Además de sus potentes efectos sobre los canales de potasio y calcio del nodo AV cardíaco, este nucleósido endógeno actúa sobre receptores purinérgicos presentes en los mastocitos y músculo liso bronquial, induciendo una respuesta obstructiva en vías aéreas hiperreactivas.",
+    "options": [
+      {
+        "text": "Ninguna; la adenosina es un broncodilatador potente de la vía aérea que alivia de forma paralela las crisis asmáticas.",
+        "isCorrect": false,
+        "explanation": "La adenosina es un potente broncoconstrictor en pacientes con vía aérea hiperreactiva, no un broncodilatador, lo que descarta de plano esta afirmación."
+      },
+      {
+        "text": "La adenosina induce una parálisis difusa del diafragma que requiere intubación profiláctica obligatoria en pacientes asmáticos.",
+        "isCorrect": false,
+        "explanation": "El fármaco no tiene efectos de bloqueo neuromuscular ni parálisis diafragmática, por lo que la intubación profiláctica de rutina no tiene justificación clínica ni fisiológica."
+      },
+      {
+        "text": "La adenosina puede provocar broncoespasmo severo y agudo al estimular la liberación de mediadores inflamatorios (histamina) y unirse a receptores purinérgicos pulmonares, por lo que debe administrarse con precaución y tener terapia de rescate (Salbutamol inhalado) disponible.",
+        "isCorrect": true,
+        "explanation": "La Adenosina actúa uniéndose a receptores purinérgicos. Aunque en el corazón se une a receptores A1 para enlentecer la conducción nodal, en el pulmón estimula de forma paralela los receptores A2B y A3 presentes en la superficie de los mastocitos y músculo liso bronquial. Esto gatilla la degranulación de mastocitos con liberación de histamina y mediadores inflamatorios, induciendo de forma secundaria una contracción del músculo liso bronquial que puede provocar un broncoespasmo severo y agudo en pacientes con asma o hiperreactividad bronquial severa de base. Se debe usar con extrema precaución en asmáticos activos, teniendo siempre listo un inhalador de rescate (como Salbutamol en aerosol o nebulización) para tratar cualquier crisis obstructiva secundaria."
+      },
+      {
+        "text": "La adenosina está formalmente contraindicada en asmáticos, debiendo preferirse de forma absoluta el uso de Verapamilo endovenoso rápido.",
+        "isCorrect": false,
+        "explanation": "El asma bronquial representa una precaución relativa importante, pero no una contraindicación absoluta para el uso de adenosina en una urgencia arrítmica estable si no hay otras alternativas viables. Además, el Verapamilo está contraindicado en lactantes menores y no es el tratamiento de primera línea general en preescolares estables."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 1 mes y 15 días (45 días de vida), ingresa hospitalizado en la Unidad de Neonatología por un cuadro de Taquicardia Supraventricular paroxística persistente que revirtió de forma exitosa tras la administración de Adenosina endovenosa. Al examen físico actual destaca asintomático, activo, normoperfundido. Se decide iniciar profilaxis de mantenimiento para evitar recurrencias de la arritmia antes de su alta domiciliaria. ¿Cuál es el fármaco de elección recomendado por las guías nacionales e internacionales y cuál está formalmente contraindicado en lactantes menores de 1 año debido al riesgo de colapso cardiovascular y shock refractario?",
+    "hint": "En menores de 1 año, el miocardio es altamente dependiente del influjo de calcio extracelular a través de canales tipo L para mantener su contractilidad. El uso de bloqueadores de calcio EV en este grupo puede inducir hipotensión fulminante.",
+    "options": [
+      {
+        "text": "Primera elección: Verapamilo vía oral; contraindicado: Propranolol.",
+        "isCorrect": false,
+        "explanation": "El Verapamilo es precisamente el fármaco contraindicado a esta edad por su alto riesgo de toxicidad hemodinámica, mientras que el Propranolol es la primera línea y no presenta contraindicación sistémica similar en corazones sanos."
+      },
+      {
+        "text": "Primera elección: Amiodarona; contraindicado: Digoxina.",
+        "isCorrect": false,
+        "explanation": "La Amiodarona es un fármaco de segunda o tercera línea con un perfil de efectos adversos acumulados importante (hipotiroidismo, fibrosis pulmonar, depósito corneal) que se reserva para TSV refractarias a betabloqueadores o digoxina."
+      },
+      {
+        "text": "Primera elección: Adenosina oral a permanencia; contraindicado: Sulfato de Magnesio.",
+        "isCorrect": false,
+        "explanation": "La adenosina oral no existe como formulación terapéutica de mantenimiento debido a su nula estabilidad biológica y absorción enteral periférica."
+      },
+      {
+        "text": "Primera elección: Betabloqueadores (Propranolol vía oral); contraindicado de forma absoluta: Verapamilo endovenoso en menores de 1 año debido a inmadurez miocárdica.",
+        "isCorrect": true,
+        "explanation": "Para la profilaxis a largo plazo de la TSV paroxística en lactantes menores de 1 año con corazón estructuralmente normal, los Betabloqueadores (como el Propranolol por vía oral) constituyen el tratamiento de primera línea por su excelente perfil de seguridad y eficacia. Por el contrario, el Verapamilo endovenoso (bloqueador de canales de calcio) está absolutamente contraindicado en menores de 1 año. A esta edad, el retículo sarcoplásmico miocárdico se encuentra inmaduro y el corazón del lactante depende casi de forma exclusiva del influjo de calcio extracelular a través de la membrana celular para mantener su fuerza de contracción (inotropismo). La administración de Verapamilo bloquea de forma masiva este influjo, provocando depresión miocárdica severa, bradicardia profunda, hipotensión refractaria y paro cardiorrespiratorio por colapso cardiovascular."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 3 meses es llevado a la consulta de cardiología infantil del hospital regional por sospecha de cardiopatía. Al realizar el ECG basal se constata un ritmo sinusal regular a una frecuencia de 120 lpm con un intervalo PR de 0,14 s constante en todos los latidos, complejos QRS estrechos de morfología normal, sin fallas en la conducción intraventricular. El lactante se encuentra asintomático, activo y en excelentes condiciones generales. ¿Cómo se define electrocardiográficamente el Bloqueo AV de primer grado en pediatría y cuál es el manejo de elección indicado en este paciente?",
+    "hint": "En esta alteración del sistema de conducción auriculoventricular, la conducción se retrasa pero todos los impulsos auriculares logran pasar al ventrículo, manifestándose como un intervalo PR constante pero prolongado según los rangos normales por edad.",
+    "options": [
+      {
+        "text": "Prolongación constante del intervalo PR para la edad y la frecuencia cardíaca (en lactantes >0,12 s, preescolares >0,14 s y escolares >0,18 s); en pacientes asintomáticos sin cardiopatía estructural no requiere tratamiento activo, solo control clínico regular.",
+        "isCorrect": true,
+        "explanation": "El bloqueo auriculoventricular de primer grado se caracteriza por un retraso en la conducción del impulso eléctrico desde las aurículas a los ventrículos, manifestándose electrocardiográficamente como una prolongación del intervalo PR constante latido a latido, sin que se bloquee ningún complejo QRS (todas las ondas P son conducidas y seguidas de un QRS). Dado que la duración del PR aumenta de forma fisiológica con la edad y disminuye con frecuencias cardíacas elevadas, los cortes varían: se considera prolongado si supera los 0,12 s en lactantes, 0,14 s en preescolares, 0,16 s en escolares y 0,18-0,20 s en adolescentes. En niños sanos sin cardiopatía estructural ni síntomas de bajo gasto, constituye un hallazgo benigno que solo requiere observación clínica de seguimiento, sin intervenciones activas."
+      },
+      {
+        "text": "Variación progresiva cíclica del intervalo PR hasta que se bloquea un QRS; requiere colocación urgente de marcapasos definitivo.",
+        "isCorrect": false,
+        "explanation": "Esta descripción corresponde al bloqueo AV de segundo grado Mobitz I (fenómeno de Wenckebach), que se caracteriza por la variación y prolongación progresiva del PR hasta bloquear un latido QRS, ausente en este caso de PR constante de 0,14 s."
+      },
+      {
+        "text": "Disociación auriculoventricular completa entre ondas P y complejos QRS; requiere hospitalización inmediata para infusión continua de Dopamina.",
+        "isCorrect": false,
+        "explanation": "La disociación completa es patognomónica del bloqueo AV de tercer grado o completo, donde no existe ninguna relación entre ondas P y QRS, cursando habitualmente con bradicardia severa y síntomas de gasto cardíaco bajo."
+      },
+      {
+        "text": "Presencia de un intervalo PR muy acortado asociado a onda delta; requiere derivación para ablación por radiofrecuencia urgente.",
+        "isCorrect": false,
+        "explanation": "El intervalo PR corto asociado a onda delta es característico del síndrome de preexcitación ventricular WPW, representando una conducción acelerada (opuesta al retraso del BAV de primer grado)."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Escolar de 10 años, en control por soplo cardíaco inocuo en el policlínico de cardiología infantil del HCSBA, cursa con un ECG que revela ondas P sinusales normales a una frecuencia de 75 lpm con intervalos PR constantes de 0,15 s en la gran mayoría de los latidos. Sin embargo, de forma súbita y sin prolongación previa del PR, se produce la omisión de un complejo QRS completo (bloqueo súbito de una onda P), tras lo cual se restablece el ciclo PR basal de 0,15 s de forma idéntica. ¿Cuál es el diagnóstico de esta alteración de la conducción auriculoventricular y cuál es el riesgo implícito que justifica su derivación urgente al especialista?",
+    "hint": "A diferencia del fenómeno de Wenckebach, esta arritmia infranodal bloquea súbitamente los complejos QRS sin previo aviso (manteniendo el PR constante), lo que refleja una patología severa del sistema de conducción de Purkinje.",
+    "options": [
+      {
+        "text": "Bloqueo AV de primer grado benigno; riesgo nulo de complicaciones o progresión a corto plazo.",
+        "isCorrect": false,
+        "explanation": "El bloqueo de primer grado no cursa con pérdida de complejos QRS (todas las ondas P se conducen al ventrículo, solo que con un retraso constante), descartándose en este caso clínico que muestra un bloqueo neto."
+      },
+      {
+        "text": "Bloqueo AV de segundo grado Mobitz II (siempre patológico); alto riesgo de progresión espontánea e impredecible a Bloqueo AV de tercer grado (completo), crisis de Stokes-Adams y muerte súbita, por lo que requiere estudio Holter y eventual implante de marcapasos definitivo.",
+        "isCorrect": true,
+        "explanation": "El bloqueo auriculoventricular de segundo grado Mobitz II se define por la presencia de una o más ondas P que súbita e impredeciblemente no son seguidas de complejos QRS (ondas P bloqueadas) sin prolongación previa del intervalo PR (el cual permanece rigurosamente constante en los latidos conducidos). A diferencia del Mobitz I, el Mobitz II es siempre patológico, reflejando una enfermedad severa del sistema de conducción infranodal (bloqueo en el haz de His o ramas de Purkinje). Presenta un alto riesgo de progresar de forma súbita a bloqueo AV completo de tercer grado o asistolia, lo que puede causar síncopes (crisis de Stokes-Adams) o muerte súbita. Requiere de forma obligatoria la derivación urgente al cardiólogo infantil para estudio y evaluación de implante de marcapasos."
+      },
+      {
+        "text": "Bloqueo AV de segundo grado Mobitz I (Wenckebach); riesgo mínimo limitado únicamente a la infancia precoz.",
+        "isCorrect": false,
+        "explanation": "El fenómeno de Wenckebach (Mobitz I) cursa con prolongación progresiva del PR previo al bloqueo y suele ser de origen nodal benigno, con baja tasa de progresión a bloqueo completo en comparación con el Mobitz II."
+      },
+      {
+        "text": "Bloqueo AV de tercer grado congénito; riesgo asociado a neumonía bacteriana recurrente por aspiración silenciosa.",
+        "isCorrect": false,
+        "explanation": "El bloqueo de tercer grado cursa con una desconexión total permanente entre aurículas y ventrículos (ninguna onda P conduce, mostrando disociación total), no con bloqueos episódicos intermitentes de ondas P sobre una base conducida estable como el Mobitz II."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 75 días de vida es traído al Servicio de Urgencia Infantil por presentar un síndrome febril sin foco de 38,6°C rectal. Al examen segmentario destaca activo, normoperfundido, hidratado, de buen aspecto general. Se solicitan exámenes generales que muestran: leucocitos 12.500/μL, PCR de 5 mg/L y sedimento urinario normal sin leucocituria. De acuerdo con el protocolo clásico de Boston para el manejo del lactante febril de bajo riesgo menor de 90 días, ¿cuál de las siguientes opciones terapéuticas representa una conducta válida y segura contemplada por dicho protocolo?",
+    "hint": "Las pautas de bajo riesgo en lactantes menores estables permiten evitar la hospitalización y el uso indiscriminado de antibióticos parenterales de amplio espectro, promoviendo la observación estrecha y el control en 24 horas.",
+    "options": [
+      {
+        "text": "Realizar punción lumbar de forma obligatoria antes de iniciar Amoxicilina oral en el domicilio.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina oral no está indicada como terapia empírica del lactante febril sin foco en este grupo de edad debido a su nulo espectro contra patógenos invasivos de sepsis comunitaria neonatal tardía y mala penetración tisular."
+      },
+      {
+        "text": "Decidir el alta y manejo expectante sin antibióticos en su hogar, bajo estricta educación a los padres y asegurando un control clínico obligatorio a las 24 horas.",
+        "isCorrect": true,
+        "explanation": "El protocolo de Boston (1993) para lactantes febriles de 28 a 89 días de bajo riesgo (buen aspecto general, sin focos en el examen físico, leucocitos <20.000/μL, sedimento de orina normal, LCR normal con <10 leucocitos/mm³ e inmunoflorescencia directa para virus nasofaríngeos negativa si se realiza) contempla como opción estándar el alta del paciente para manejo expectante sin antibióticos en su hogar. Esta opción requiere de forma obligatoria una excelente educación de los padres sobre pautas de alarma de sepsis y garantizar un control clínico presencial estricto en las siguientes 24 horas."
+      },
+      {
+        "text": "Indicar una dosis intramuscular de Ceftriaxona 50 mg/kg en la urgencia y dar de alta ambulatoria inmediata, previa toma de cultivos de LCR y sangre.",
+        "isCorrect": false,
+        "explanation": "Aunque el protocolo de Boston permitía el uso de Ceftriaxona IM (50 mg/kg) ambulatoria, esto exigía de forma obligatoria la toma previa de hemocultivos y punción lumbar para garantizar la seguridad del paciente antes de esterilizar el LCR de forma parcial, descartándose el alta directa sin estudios invasivos bajo este brazo del algoritmo."
+      },
+      {
+        "text": "Hospitalizar para iniciar terapia endovenosa profiláctica con penicilina sódica más gentamicina por 7 días.",
+        "isCorrect": false,
+        "explanation": "La hospitalización para doble terapia endovenosa de amplio espectro por 7 días se reserva de forma exclusiva para lactantes menores de 28 días, o bien para aquellos mayores con aspecto tóxico o marcadores inflamatorios alterados de alto riesgo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Un lactante de 80 días de vida es hospitalizado en la Unidad de Pediatría del Hospital Luis Tisné por síndrome febril sin foco con sospecha clínica de Infección del Tracto Urinario. Se inicia tratamiento antibiótico empírico con Ceftriaxona endovenosa. Al recibir los resultados del urocultivo tomado por cateterismo vesical al tercer día, se reporta desarrollo de Escherichia coli con un recuento de 120.000 UFC/mL sensible a Cefazolina, Cefadroxilo, Amikacina y Ciprofloxacino, pero resistente a Ampicilina. Clínicamente el paciente se encuentra afebril hace 48 horas, activo y de excelente aspecto general. ¿Cuál es la conducta de desescalamiento antibiótico y plan de alta más adecuada según la Norma Técnica chilena?",
+    "hint": "El uso racional de antibióticos en pediatría exige desescalar a la alternativa por vía oral de menor espectro posible según el patrón de sensibilidad del antibiograma, una vez lograda la estabilidad clínica del paciente.",
+    "options": [
+      {
+        "text": "Continuar con Ceftriaxona endovenosa intrahospitalaria hasta completar 14 días totales de tratamiento.",
+        "isCorrect": false,
+        "explanation": "Mantener la ceftriaxona endovenosa por 14 días en un lactante clínicamente estable y asintomático con una bacteria sensible representa un uso inadecuado de antibióticos de amplio espectro, aumentando costos e iatrogenia por vías venosas."
+      },
+      {
+        "text": "Suspender la ceftriaxona de forma inmediata e indicar de alta con tratamiento oral ambulatorio con Ampicilina 100 mg/kg/día por 10 días más.",
+        "isCorrect": false,
+        "explanation": "La ampicilina oral está formalmente desaconsejada debido a que el reporte del antibiograma del urocultivo confirmó de forma microbiológica que la bacteria es resistente a este fármaco."
+      },
+      {
+        "text": "Desescalar de inmediato a Ciprofloxacino oral para garantizar un alta rápida sin riesgos de recurrencia urinaria.",
+        "isCorrect": false,
+        "explanation": "El ciprofloxacino oral no se considera de primera línea en pediatría debido a potenciales riesgos de toxicidad articular (cartílago de crecimiento) y debe reservarse de forma exclusiva para patógenos multirresistentes confirmados que carezcan de otras alternativas orales viables."
+      },
+      {
+        "text": "Desescalar el tratamiento antibiótico endovenoso y proceder al alta hospitalaria indicando Cefadroxilo oral (30-50 mg/kg/día fraccionado en 2 dosis) hasta completar un total de 7 a 10 días de tratamiento efectivo, asociando educación de pautas preventivas a la madre.",
+        "isCorrect": true,
+        "explanation": "En un lactante mayor de 2 meses que cursa con una ITU bacteriana, la excelente respuesta clínica (afebril por más de 24-48 horas, buena tolerancia oral y excelente estado general) permite de forma segura realizar la terapia secuencial de desescalamiento de la vía endovenosa a la vía oral. El desescalamiento debe dirigirse hacia un antibiótico de menor espectro posible según los resultados del antibiograma (Cefadroxilo en este caso, al confirmarse la sensibilidad a cefalosporinas de primera generación), completando un esquema de tratamiento total de 7 a 10 días. Esto permite el alta hospitalaria temprana, disminuyendo riesgos asociados a hospitalizaciones prolongadas."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Usted se encuentra reanimando a un lactante de 8 meses en shock séptico refractario a volumen en el Servicio de Urgencia Infantil. De forma súbita, se visualiza en el monitor cardíaco una arritmia ventricular caracterizada por complejos QRS muy anchos, caóticos, totalmente irregulares en forma y amplitud, sin ondas P ni complejos QRS discernibles. No se palpan pulsos centrales (femorales ni carotídeos) y el lactante no respira. ¿Cuál es el diagnóstico de este ritmo de paro cardiorrespiratorio y la conducta inmediata prioritaria?",
+    "hint": "Es un ritmo de paro desfibrilable. Al no existir complejos QRS organizados que el monitor pueda identificar, se debe programar una descarga eléctrica inmediata de tipo asincrónica con la menor dosis de energía inicial según el peso del lactante.",
+    "options": [
+      {
+        "text": "Fibrilación Ventricular (FV); iniciar RCP de alta calidad, cargar y aplicar de inmediato una descarga eléctrica no sincronizada (desfibrilación) con 2 J/kg utilizando parches pediátricos adecuados.",
+        "isCorrect": true,
+        "explanation": "El ritmo descrito en la pantalla es una Fibrilación Ventricular (FV), el cual se caracteriza por ondas caóticas y desorganizadas de amplitud y frecuencia variable, sin complejos QRS ni ondas T identificables, asociándose a la ausencia total de pulso central detectable. Es un ritmo de paro desfibrilable. El algoritmo de RCP avanzada pediátrica (PALS) establece que la primera descarga de desfibrilación no sincronizada debe administrarse de inmediato a una dosis de 2 J/kg (pudiendo aumentarse a 4 J/kg en la segunda descarga y ≥ 4 J/kg hasta un máximo de 10 J/kg o dosis de adulto en choques sucesivos si es refractaria). Debe entregarse de modo asincrónico ya que el monitor es incapaz de sincronizarse con un trazado desorganizado carente de ondas R."
+      },
+      {
+        "text": "Actividad Eléctrica Sin Pulso; administrar de inmediato una dosis de Atropina endovenosa.",
+        "isCorrect": false,
+        "explanation": "La Actividad Eléctrica Sin Pulso (AESP) se caracteriza por mostrar un ritmo organizado en la pantalla pero en un paciente sin pulsos detectables. Es un ritmo no desfibrilable que requiere RCP de calidad y Adrenalina, estando proscrito el choque eléctrico."
+      },
+      {
+        "text": "Taquicardia Supraventricular inestable; realizar cardioversión eléctrica sincronizada inmediata con 1 J/kg.",
+        "isCorrect": false,
+        "explanation": "Aunque la TV sin pulso es desfibrilable, cursa con complejos QRS anchos pero regulares y monomórficos organizados en la pantalla, de modo que la descarga debe ser no sincronizada para evitar retrasos de censado del monitor."
+      },
+      {
+        "text": "Asistolia verdadera; administrar de inmediato una dosis endovenosa de Gluconato de Calcio.",
+        "isCorrect": false,
+        "explanation": "La asistolia se observa como una línea plana horizontal en el monitor (sin actividad eléctrica). No es un ritmo desfibrilable y el gluconato de calcio no tiene indicación de rutina en el paro por asistolia pediátrico."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Preescolar de 3 años, diagnosticado de Síndrome de QT Largo congénito, ingresa al Servicio de Urgencias por presentar un síncope brusco presenciado en su hogar mientras lloraba con intensidad. Al ingreso destaca activo, reactivo, FC de 105 lpm, normotenso. Durante la toma de exámenes en la sala de observación, el paciente presenta un episodio súbito de convulsión tónico-clónica generalizada autolimitada de 15 segundos de duración. El monitor de ECG del box de urgencias registra durante el episodio una taquicardia ventricular polimórfica caracterizada por una variación cíclica continua del eje del complejo QRS que parece \"retorcerse\" sobre la línea de base (Torsades de Pointes). ¿Cuál es el tratamiento farmacológico endovenoso de elección de primera línea para detener y prevenir esta arritmia ventricular letal?",
+    "hint": "Es el tratamiento de elección para la taquicardia ventricular polimórfica en entorchado (Torsades de Pointes). Este ion bloquea el influjo celular de calcio y estabiliza el potencial de membrana.",
+    "options": [
+      {
+        "text": "Amiodarona endovenosa en bolo lento a 5 mg/kg.",
+        "isCorrect": false,
+        "explanation": "La Amiodarona está formalmente contraindicada en las Torsades de Pointes asociadas a QT largo, debido a que tiene un efecto intrínseco bloqueador de canales de potasio que prolonga aún más la repolarización ventricular y el intervalo QT basal, empeorando y perpetuando la arritmia de forma letal."
+      },
+      {
+        "text": "Sulfato de Magnesio (MgSO₄) endovenoso a dosis de 25-50 mg/kg (máximo 2 g) diluido en suero glucosado administrado de forma lenta en 5 a 10 minutos.",
+        "isCorrect": true,
+        "explanation": "La arritmia descrita (taquicardia ventricular polimórfica que parece girar o retorcerse sobre la línea basal) corresponde de forma clásica a la taquicardia ventricular en Torsades de Pointes (Torsión de Puntas), muy frecuente en pacientes con Síndrome de QT Largo. El tratamiento de elección absoluto de primera línea es la administración endovenosa de Sulfato de Magnesio a dosis de 25-50 mg/kg (máximo 2 g por dosis). El magnesio actúa bloqueando los canales de calcio tipo L del sarcolema, reduciendo la amplitud de las posdespolarizaciones tempranas que gatillan la arritmia, logrando estabilizar la membrana miocárdica de forma rápida y segura, incluso en pacientes con niveles séricos basales normales de magnesio."
+      },
+      {
+        "text": "Lidocaína endovenosa en bolo rápido a dosis de 1 mg/kg.",
+        "isCorrect": false,
+        "explanation": "La lidocaína es un antiarrítmico del grupo Ib que puede usarse como segunda línea en arritmias ventriculares por isquemia, pero carece de la efectividad inmediata del sulfato de magnesio en este escenario."
+      },
+      {
+        "text": "Adenosina endovenosa en bolo rápido seguido de maniobras de Valsalva con soplo de jeringa.",
+        "isCorrect": false,
+        "explanation": "La adenosina y las maniobras vagales están dirigidas exclusivamente a revertir arritmias supraventriculares estables por reentrada nodal, careciendo de indicación o efectividad alguna en taquicardias ventriculares polimórficas letales de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Adolescente de 16 años, previamente sana, consulta en el Servicio de Urgencias por un cuadro de 2 horas de evolución de palpitaciones rápidas de inicio brusco y opresión retroesternal leve. Al examen segmentario destaca lúcida, hidratada, bien perfundida, eupneica en reposo con PA normal. Se realiza ECG que muestra una Taquicardia Supraventricular (TSV) regular de QRS estrecho a una frecuencia cardíaca de 195 lpm. ¿Cuál de las siguientes maniobras vagales está formalmente CONTRAINDICADA en pediatría debido al alto riesgo de complicaciones oftálmicas severas?",
+    "hint": "Aunque clásicamente descrita en textos antiguos, esta maniobra estimula el nervio vago de forma refleja al comprimir una estructura oftálmica delicada, pero su uso moderno en pediatría está proscrito por iatrogenia severa.",
+    "options": [
+      {
+        "text": "Inducir el reflejo de náuseas estimulando suavemente la faringe posterior con un baja lenguas.",
+        "isCorrect": false,
+        "explanation": "La inducción del reflejo nauseoso estimula el nervio glosofaríngeo y el vago de forma segura y refleja, siendo una maniobra vagal válida aunque incómoda en pediatría."
+      },
+      {
+        "text": "Aplicar una bolsa plástica con agua helada y hielo triturado sobre la cara cubriendo frente, ojos y nariz por 15 segundos sin obstruir la respiración.",
+        "isCorrect": false,
+        "explanation": "El reflejo de inmersión por hielo en la cara es el método de maniobra vagal de elección más efectivo y seguro en lactantes y niños pequeños con TSV estable, no teniendo la contraindicación descrita si se realiza adecuadamente."
+      },
+      {
+        "text": "Presión digital bilateral firme sobre los globos oculares (maniobra de Ashner) por el riesgo de provocar desprendimiento de retina, rotura capilar intraocular o bradicardia refleja por reflejo óculo-cardíaco incontrolable.",
+        "isCorrect": true,
+        "explanation": "La maniobra de compresión ocular bilateral (Maniobra de Ashner) estimula los receptores de estiramiento oftálmicos de la retina y las ramas del nervio trigémino, gatillando de forma refleja una descarga parasimpática vagal (Reflejo Óculo-Cardíaco) que disminuye la conducción AV cardíaca. Sin embargo, en la práctica pediátrica moderna está absolutamente contraindicada debido al riesgo de causar daños estructurales oftálmicos permanentes (como desprendimiento de retina, rotura capilar con hemorragia intraocular o luxación del cristalino) y al peligro de inducir una respuesta vagal extrema e incontrolable con asistolia o bradicardia profunda refractaria."
+      },
+      {
+        "text": "Realizar maniobra de Valsalva activa indicando al paciente soplar con fuerza a través de una jeringa de 10 ml por 15 segundos.",
+        "isCorrect": false,
+        "explanation": "La maniobra de Valsalva activa con el soplado de jeringa es de primera elección y alta seguridad en escolares y adolescentes colaboradores, no teniendo contraindicaciones oftálmicas relevantes descritas."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Durante la administración de Adenosina endovenosa a un escolar de 8 años para revertir una Taquicardia Supraventricular paroxística estable, usted prepara dos jeringas conectadas a una llave de tres pasos (three-way stopcock). ¿Cuál es la técnica de administración correcta recomendada y cuál es la justificación fisiológica de esta técnica específica en pediatría?",
+    "hint": "La adenosina tiene una vida media extremadamente corta en sangre periférica. Si se inyecta lentamente o a través de vías distales de calibre pequeño, el fármaco se degrada de forma completa antes de alcanzar su sitio de acción.",
+    "options": [
+      {
+        "text": "Administrar la adenosina de forma lenta y pausada en 5 minutos para evitar fluctuaciones bruscas del flujo de la vena cava superior.",
+        "isCorrect": false,
+        "explanation": "La infusión lenta de adenosina es completamente ineficaz, ya que el fármaco se degradaría en la sangre mucho antes de alcanzar el corazón, impidiendo el bloqueo transitorio necesario para revertir la TSV."
+      },
+      {
+        "text": "Diluir la adenosina en una infusión de suero glucosado al 5% a pasar en 2 horas para evitar el riesgo de hemólisis intravascular en el sitio de inyección.",
+        "isCorrect": false,
+        "explanation": "Diluir y pasar en infusión lenta anula de plano el efecto terapéutico de la adenosina por su rápida depuración fisiológica."
+      },
+      {
+        "text": "Inyectar la adenosina en una vía venosa periférica muy distal (dorso de la mano) de calibre pequeño para enlentecer la llegada del fármaco al nodo AV.",
+        "isCorrect": false,
+        "explanation": "Las vías venosas distales retrasan el tránsito sanguíneo periférico del fármaco favoreciendo su aclaramiento prematuro en los eritrocitos antes de ingresar a la circulación coronaria, lo que genera fallos terapéuticos frecuentes."
+      },
+      {
+        "text": "Inyectar la adenosina en un bolo extremadamente rápido (en menos de 1-2 segundos) a través de un acceso venoso periférico grande y proximal (fosa antecubital), seguido de inmediato del paso de un bolo rápido de suero fisiológico, debido a la vida media ultracorta de la adenosina en sangre (<10 segundos) secundaria a su rápida recaptación por eritrocitos y células endoteliales.",
+        "isCorrect": true,
+        "explanation": "La adenosina tiene una vida media extremadamente corta en el torrente circulatorio de menos de 10 segundos, debido a que es rápidamente captada por las células endoteliales de los vasos sanguíneos y metabolizada por los eritrocitos circulantes. Para que alcance concentraciones terapéuticas efectivas y logre bloquear temporalmente el nodo auriculoventricular (AV), debe administrarse en un bolo endovenoso extremadamente rápido (en 1-2 segundos). Se requiere un acceso venoso periférico de gran calibre lo más proximal posible al corazón (habitualmente la vena cubital anterior). La técnica clásica de dos jeringas conectadas a una llave de tres pasos permite inyectar el fármaco e inmediatamente después pasar un bolo de lavado rápido de suero fisiológico (10 ml en niños) para \"empujar\" de forma acelerada la adenosina hacia la aurícula derecha."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 5 meses de vida, ingresa a la Unidad de Paciente Crítico Cardiológico en el postoperatorio de cirugía de corrección de canal auriculoventricular común. Al segundo día postoperatorio, el monitor de ECG alerta sobre una taquicardia regular de complejo QRS estrecho a 210 lpm con ondas P retrógradas ocultas dentro del QRS y disociación auriculoventricular intermitente. La arritmia no responde a la administración repetida de Adenosina ni a maniobras vagales. Se realiza el diagnóstico de Taquicardia Ectópica de la Unión (JET - Junctional Ectopic Tachycardia). Fisiopatológicamente, ¿cuál es el origen celular de esta arritmia postoperatoria clásica y cuál es una de las estrategias de manejo de elección?",
+    "hint": "Es la arritmia postoperatoria más característica en la cirugía cardíaca pediátrica que compromete la región septal y el nodo AV. No es una arritmia por reentrada clásica, por lo que la cardioversión eléctrica o la adenosina no tienen utilidad como manejo definitivo.",
+    "options": [
+      {
+        "text": "Foco de automatismo anormal aumentado localizado en el nodo auriculoventricular o haz de His proximal debido al trauma quirúrgico, edema o tracción local; el manejo incluye enfriamiento activo (hipotermia inducida leve 35°C), optimización de sedoanalgesia, disminución de dosis de inótropos adrenérgicos y uso de Amiodarona endovenosa.",
+        "isCorrect": true,
+        "explanation": "La Taquicardia Ectópica de la Unión (JET) es una de las arritmias postoperatorias más frecuentes y complejas en cirugía cardíaca infantil (por ejemplo, corrección de canal AV, CIV o Tetralogía de Fallot). Su fisiopatología radica en un aumento anormal del automatismo del tejido de conducción localizado en el nodo AV o el haz de His proximal, gatillado por el trauma quirúrgico directo, la inflamación, el edema, o el estiramiento tisular por las suturas. Al ser un foco ectópico automatizado y no una reentrada, la adenosina y la cardioversión eléctrica son ineficaces. El manejo se dirige a disminuir la automaticidad de este foco mediante enfriamiento activo (hipotermia leve a 35-35,5°C), sedoanalgesia profunda, disminución de catecolaminas infusivas y el uso de Amiodarona endovenosa, que es el fármaco más eficaz en este escenario."
+      },
+      {
+        "text": "Vía accesoria retrógrada auriculoventricular derecha; el manejo requiere cardioversión eléctrica sincronizada inmediata con 4 J/kg.",
+        "isCorrect": false,
+        "explanation": "La JET no se debe a una vía accesoria anómala como el Haz de Kent de reentrada y la cardioversión eléctrica no logra erradicar los focos ectópicos de automaticidad anormal, estando contraindicada si no hay colapso extremo."
+      },
+      {
+        "text": "Reentrada de rama a rama del haz de His por isquemia miocárdica persistente; el manejo requiere bolo rápido de sulfato de magnesio y colocación de marcapasos auricular rápido permanente.",
+        "isCorrect": false,
+        "explanation": "El mecanismo de reentrada de rama a rama no es el sustrato celular de la JET neonatal o del lactante y el magnesio no es el agente preventivo o reversor específico de elección."
+      },
+      {
+        "text": "Hipocalcemia postoperatoria severa por hemodilución; el manejo de elección es la administración endovenosa rápida de gluconato de calcio al 20%.",
+        "isCorrect": false,
+        "explanation": "Aunque la hipocalcemia debe corregirse por su impacto inotrópico negativo, no constituye la causa directa de JET postoperatoria ni su corrección revierte la arritmia de forma selectiva."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Adolescente de 16 años, previamente sano y deportista recreacional, consulta en el consultorio por episodios intermitentes de palpitaciones rápidas autolimitadas. Se realiza un registro electrocardiográfico de reposo que muestra ritmo sinusal, con extrasístoles auriculares (latidos prematuros con onda P de morfología diferente a la sinusal seguidos de QRS estrecho con pausa compensatoria incompleta) muy esporádicas. El ecocardiograma Doppler reporta un corazón estructuralmente normal, sin valvulopatías ni dilatación de cavidades. ¿Cuál es el significado clínico de este hallazgo electrocardiográfico y cuál es la conducta médica más adecuada?",
+    "hint": "Los latidos adelantados supraventriculares (extrasístoles auriculares) aislados en corazones estructuralmente normales y pacientes asintomáticos son un hallazgo benigno sumamente común que no se asocia a patología cardíaca degenerativa ni riesgo de muerte súbita.",
+    "options": [
+      {
+        "text": "Constituye una arritmia maligna con alto riesgo de muerte súbita arritmogénica precoz; requiere derivación urgente para implante de desfibrilador automático (DAI).",
+        "isCorrect": false,
+        "explanation": "Las extrasístoles auriculares no representan un ritmo arritmogénico letal ni se asocian a muerte súbita, por lo que indicar un desfibrilador implantable (DAI) es un error de manejo con sobretratamiento grave."
+      },
+      {
+        "text": "Es una alteración benigna frecuente y asintomática en niños y adolescentes sanos con corazón estructuralmente normal; no requiere tratamiento farmacológico ni restricciones deportivas, solo educación y control clínico si se agregan síntomas de alarma.",
+        "isCorrect": true,
+        "explanation": "Las extrasístoles auriculares (latidos prematuros supraventriculares) se observan con frecuencia de forma incidental en el ECG de niños y adolescentes sanos. En presencia de un corazón estructuralmente normal confirmado por ecocardiografía y ausencia de síntomas cardiovasculares mayores (como síncope durante el esfuerzo o dolor torácico), se consideran de carácter benigno. No requieren ningún tratamiento con fármacos antiarrítmicos ni limitaciones para la realización de actividades deportivas o de alta intensidad. La conducta adecuada consiste en tranquilizar al paciente y sus padres, educando sobre la consulta si aparecen síntomas."
+      },
+      {
+        "text": "Es el signo precursor de un bloqueo AV de tercer grado congénito tardío; requiere derivación para implante de marcapasos definitivo.",
+        "isCorrect": false,
+        "explanation": "No existe relación patogénica ni clínica entre la presencia de extrasístoles auriculares benignas en un corazón sano y el desarrollo tardío de un bloqueo auriculoventricular completo irreversible de tercer grado."
+      },
+      {
+        "text": "Se asocia de forma directa a la ingesta excesiva de carbohidratos simples refinados; requiere restricción calórica estricta por nutricionista infantil.",
+        "isCorrect": false,
+        "explanation": "Si bien el consumo excesivo de estimulantes (cafeína, bebidas energéticas) puede gatillar extrasístoles de forma esporádica, la restricción de carbohidratos no es una medida terapéutica de base ni está demostrada su asociación fisiopatológica."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Escolar de 9 años, con antecedente de asma moderada en tratamiento activo con Budesonida inhalada, es evaluado en urgencias por palpitaciones rápidas. Se realiza ECG de doce derivaciones que revela una frecuencia ventricular regular de 200 lpm, con ondas de despolarización auricular muy rápidas en forma de \"dientes de sierra\" u ondas F con una frecuencia auricular de 400 lpm y conducción auriculoventricular con bloqueo variable (2:1). El paciente se encuentra estable hemodinámicamente, con PA normal y bien perfundido. ¿Cuál es el diagnóstico electrocardiográfico de esta arritmia auricular poco común en pediatría y cuál es el manejo médico inicial de elección?",
+    "hint": "Las ondas regulares rápidas de aurícula en \"dientes de sierra\" (ondas F) asociadas a una relación de bloqueo AV fija o variable es el hallazgo electrocardiográfico patognomónico de esta arritmia por macro-reentrada auricular.",
+    "options": [
+      {
+        "text": "Fibrilación Auricular paroxística; requiere cardioversión eléctrica inmediata a 2 J/kg.",
+        "isCorrect": false,
+        "explanation": "La Fibrilación Auricular se caracteriza por ondas f totalmente desorganizadas, caóticas e irregulares con complejos QRS de frecuencia ventricular completamente irregular (intervalos R-R variables), lo que no coincide con las ondas regulares en dientes de sierra descritas. Además, al estar estable, no requiere cardioversión eléctrica inmediata."
+      },
+      {
+        "text": "Taquicardia Supraventricular por reentrada nodal típica; requiere maniobras vagales continuas con bolsas de hielo en los ojos por 5 minutos de forma sostenida.",
+        "isCorrect": false,
+        "explanation": "La reentrada nodal clásica produce taquicardias con ondas P ausentes o retrógradas muy próximas al QRS sin el patrón característico de dientes de sierra de gran frecuencia auricular del flutter. Además, la compresión ocular está contraindicada."
+      },
+      {
+        "text": "Flutter (aleteo) auricular; el manejo inicial en un paciente estable requiere derivación urgente a cardiología infantil para control de la frecuencia cardíaca (Betabloqueadores o Digoxina) o cardioversión farmacológica con Amiodarona o sobreestimulación auricular mediante marcapasos esofágico transitorio.",
+        "isCorrect": true,
+        "explanation": "El paciente presenta un Flutter (aleteo) auricular, caracterizado electrocardiográficamente por ondas auriculares regulares y rápidas en forma de \"dientes de sierra\" u ondas F (habitualmente a frecuencias de 300-450 lpm en niños) asociadas a una conducción auriculoventricular fraccionada o con bloqueo (2:1, 3:1 o 4:1) para proteger al ventrículo de frecuencias extremas. Al encontrarse el escolar hemodinámicamente estable, la conducta inmediata debe ser conservadora, derivando al especialista (cardiólogo infantil) para evaluar el control de la respuesta ventricular mediante betabloqueadores o digoxina, realizar cardioversión farmacológica (con amiodarona) o mediante sobreestimulación auricular rápida (marcapasos transitorio esofágico o auricular), disminuyendo riesgos asociados a cardioversiones eléctricas innecesarias."
+      },
+      {
+        "text": "Taquicardia sinusal extrema por uso excesivo de Salbutamol inhalado de rescate; requiere tratamiento sintomático con aporte de oxígeno humidificado a alta tasa.",
+        "isCorrect": false,
+        "explanation": "La taquicardia sinusal por uso de salbutamol no presenta de forma característica el patrón regular de macro-reentrada de ondas F auriculares a frecuencias de 400 lpm con bloqueo de conducción nodal."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Un lactante de 2 meses y 20 días es evaluado en el box de urgencias infantil por un síndrome febril sin foco de 38,6°C rectal de 18 horas de evolución. Al examen segmentario destaca reactivo, normoperfundido, hidratado, de buen aspecto general (Yale Observation Scale: 6 puntos, bajo riesgo). El médico decide aplicar los criterios de Boston para definir el bajo riesgo. El estudio de laboratorio reporta: leucocitos 15.500/μL, orina completa normal, citoquímico de LCR claro con 12 leucocitos/mm³ (predominio linfocitario) y proteínas de 60 mg/dL. ¿Cuál es la clasificación del paciente según el protocolo de Boston y la conducta recomendada?",
+    "hint": "En menores de 3 meses, la composición del LCR tolera recuentos celulares y proteínas normales sustancialmente más elevados que en niños mayores. Es crucial conocer estos límites de referencia fisiológicos para evitar categorizaciones erróneas de alto riesgo.",
+    "options": [
+      {
+        "text": "Alto riesgo por sospecha de pleocitosis y meningitis aguda incipiente; requiere hospitalización inmediata en UPC Pediátrica para repetición de punción lumbar e inicio de vancomicina más ceftriaxona endovenosa.",
+        "isCorrect": false,
+        "explanation": "Considerar el LCR como patológico para esta edad es un error que puede guiar a estudios invasivos repetitivos innecesarios y a hospitalizaciones prolongadas injustificadas."
+      },
+      {
+        "text": "Alto riesgo por sospecha de meningitis de etiología tuberculosa; requiere derivación de urgencia para inicio inmediato de esquema de cuatro fármacos anti-TBC.",
+        "isCorrect": false,
+        "explanation": "No existe indicación diagnóstica ni sospecha fundada de meningitis tuberculosa en un lactante menor previamente sano con LCR fisiológico sin hipoglicorraquia marcada ni epidemiología de contacto compatible."
+      },
+      {
+        "text": "Riesgo moderado debido al recuento de leucocitos en sangre periférica; requiere hospitalización preventiva en sala de aislamiento para observación clínica por 48 horas sin antibioterapia activa.",
+        "isCorrect": false,
+        "explanation": "La categorización como \"riesgo moderado\" no está contemplada en los flujogramas de toma de decisiones de bajo o alto riesgo del lactante de Boston."
+      },
+      {
+        "text": "Bajo riesgo; los valores del LCR son normales y fisiológicos para la edad del paciente (menor de 3 meses) y cumple con el resto de los criterios de Boston, permitiendo el alta hospitalaria para manejo ambulatorio con o sin Ceftriaxona IM, previa educación de signos de alarma de sepsis a los padres y control presencial estricto a las 24 horas.",
+        "isCorrect": true,
+        "explanation": "Un recuento de 12 leucocitos/mm³ en el LCR con proteínas de 60 mg/dL es completamente fisiológico y normal en un lactante menor de 3 meses (donde el límite superior de la normalidad se acepta clásicamente en 15-20 leucocitos/mm³ debido a la inmadurez de la barrera hematoencefálica). Por ende, el LCR se clasifica como normal. Al cumplir con el resto de las variables clínicas y de laboratorio de bajo riesgo del protocolo de Boston, el lactante se clasifica como de Bajo Riesgo. La conducta correcta es el manejo ambulatorio seguro, ya sea sin antibióticos o con una dosis de Ceftriaxona IM (50 mg/kg), siempre con control clínico presencial obligatorio a las 24 horas y pautas estrictas de consulta ante signos de alarma de sepsis."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Lactante de 14 meses, previamente sano y con vacunas al día. Acude al Servicio de Urgencia Infantil por un síndrome febril sin foco de 39,2°C rectal de 24 horas de evolución. Al examen físico destaca reactivo, normoperfundido, hidratado, de excelente aspecto general, sin focos clínicos evidentes de infección. Se realiza tira reactiva de orina en muestra de cateterismo vesical que reporta normal (nitritos negativos, sin leucocituria). Fisiopatológicamente, ¿cuál de los siguientes virus respiratorios o gastrointestinales de alta circulación estacional en Chile es la causa más común de fiebre aguda de origen indeterminado en este grupo de edad y presentación clínica?",
+    "hint": "Son virus de gran prevalencia estacional que colonizan el aparato respiratorio o de forma sistémica, cursando típicamente con fiebre muy alta aislada de corta evolución en niños pequeños antes de manifestar otros signos diagnósticos cardinales.",
+    "options": [
+      {
+        "text": "Adenovirus, enterovirus o herpes virus humano 6 (HHV-6).",
+        "isCorrect": true,
+        "explanation": "Los virus respiratorios no sinciciales y virus sistémicos de alta prevalencia infantil como Adenovirus, Enterovirus (por ejemplo, Coxsackievirus o Echovirus) y el Herpes Virus Humano 6 (HHV-6) son por amplio margen las causas más comunes de síndrome febril sin foco (SFSF) de excelente aspecto general en lactantes mayores de 3 meses. Adenovirus puede cursar con picos febriles muy elevados de hasta 40°C por 4-5 días antes de manifestar síntomas respiratorios, conjuntivitis o diarrea franca. HHV-6 causa la clásica fiebre alta sin foco del exantema súbito que cede de forma brusca al aparecer el exantema maculopapular benigno no pruriginoso característico."
+      },
+      {
+        "text": "Virus Respiratorio Sincicial (VRS).",
+        "isCorrect": false,
+        "explanation": "El VRS cursa desde el inicio de su clínica de forma característica con síntomas obstructivos respiratorios evidentes (coriza, obstrucción nasal, tos, polipnea, sibilancias bilaterales difusas y tirajes subcostales), constituyendo un foco bronquial definido de bronquiolitis y no un SFSF."
+      },
+      {
+        "text": "Rotavirus de alta patogenicidad enteral.",
+        "isCorrect": false,
+        "explanation": "Rotavirus causa de forma característica un foco digestivo sumamente evidente desde las primeras horas, con diarrea acuosa profusa de gran volumen deshidratante y vómitos explosivos postprandiales marcados."
+      },
+      {
+        "text": "Virus de la Influenza A subtipo H1N1.",
+        "isCorrect": false,
+        "explanation": "La Influenza A cursa típicamente en niños mayores con un compromiso del estado general marcado (aspecto decaído profundo), mialgias intensas, cefalea y odinofagia, alejándose del perfil de excelente aspecto general y actividad vigorosa del paciente pediátrico descrito."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Arritmia Pediátrica",
+    "text": "Un interno de medicina evalúa el algoritmo para el Síndrome Febril Sin Foco de un hospital pediátrico chileno en 2026. Al analizar el grupo de edad de 61 a 90 días de vida, de acuerdo con las directrices y guías modernas de la AAP y de la SOCHIPE, ¿cuál es la principal diferencia de manejo de este grupo frente al grupo de 29 a 60 días en un paciente bien aspectado y normoperfundido?",
+    "hint": "A medida que el lactante crece, el sistema inmunitario celular madura y la barrera hematoencefálica se consolida, disminuyendo drásticamente el riesgo de translocación hematógena o bacteriemia oculta al espacio subaracnoideo de forma asintomática.",
+    "options": [
+      {
+        "text": "El grupo de 61 a 90 días de vida tiene indicación absoluta de punción lumbar rutinaria de forma mandatoria en todos los casos, independientemente del aspecto clínico o marcadores.",
+        "isCorrect": false,
+        "explanation": "La realización de punción lumbar obligatoria en este grupo de edad representaría un sobreestudio innecesario que expone al lactante estable a riesgos de punción."
+      },
+      {
+        "text": "En el grupo de 61 a 90 días se puede omitir por completo el análisis del sedimento de orina y urocultivo al tener una prevalencia de ITU nula por encima de los 2 meses.",
+        "isCorrect": false,
+        "explanation": "La ITU es sumamente frecuente en menores de 1 año, por lo que omitir el examen urinario y urocultivo representa un grave error de omisión clínica."
+      },
+      {
+        "text": "En el grupo de 61 a 90 días febril de buen aspecto clínico, la punción lumbar (PL) para análisis de LCR no se realiza de forma rutinaria, enfocándose el estudio principalmente en descartar una ITU (orina y urocultivo por cateterismo) y permitiendo el manejo ambulatorio expectante sin antibióticos si el examen urinario es normal.",
+        "isCorrect": true,
+        "explanation": "En lactantes de 61 a 90 días de vida (2 a 3 meses) que se presentan de buen aspecto general y hemodinámicamente estables, el riesgo de meningitis bacteriana asintomática es extremadamente bajo (<0,1%). Las guías modernas de la AAP (2021) y de la SOCHIPE establecen que en este grupo etario no está indicada la punción lumbar de forma sistemática ni de rutina. El esfuerzo diagnóstico prioritario debe dirigirse a descartar una Infección del Tracto Urinario (mediante orina completa y urocultivo por cateterismo), que es la causa bacteriana grave más común. Si el examen de orina es normal y el paciente se mantiene de excelente aspecto clínico, se puede decidir el manejo ambulatorio expectante sin antibióticos con control presencial estrecho."
+      },
+      {
+        "text": "En el grupo de 61 a 90 días de vida se debe iniciar de forma sistemática profilaxis antiviral endovenosa con Aciclovir.",
+        "isCorrect": false,
+        "explanation": "El aciclovir empírico profiláctico sistemático carece por completo de fundamento científico en un lactante mayor estable de buen aspecto general febril sin lesiones herpéticas activas ni convulsiones asociadas."
+      }
+    ]
+  }
+]
