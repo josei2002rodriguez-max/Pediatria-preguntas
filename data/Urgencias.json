@@ -1,0 +1,903 @@
+
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un lactante de 10 meses de edad es llevado al servicio de urgencias por presentar un cuadro de deposiciones líquidas abundantes. Al realizar la evaluación inicial mediante el Triángulo de Evaluación Pediátrica (TEP), usted constata: el lactante se encuentra reactivo, conecta con el examinador, presenta un esfuerzo respiratorio normal sin retracciones, pero se observa intensamente pálido y con la piel moteada en las extremidades. ¿Cuál es la interpretación fisiopatológica del TEP en este paciente?",
+    "hint": "Analice de forma sistemática los tres lados del TEP (Apariencia, Trabajo Respiratorio, Circulación Cutánea) y determine cuál es el único eje alterado en este lactante reactivo.",
+    "options": [
+      {
+        "text": "Dificultad respiratoria de manejo ambulatorio.",
+        "isCorrect": false,
+        "explanation": "La dificultad respiratoria se caracteriza por un aumento del trabajo respiratorio con apariencia y circulación cutánea completamente normales, lo cual no coincide con los signos de mala perfusión distal descritos."
+      },
+      {
+        "text": "Falla respiratoria aguda con requerimiento de ventilación.",
+        "isCorrect": false,
+        "explanation": "La falla respiratoria aguda se define en el TEP por la alteración simultánea del trabajo respiratorio (esfuerzo aumentado) y de la apariencia (compromiso de conciencia secundario a hipoxia o hipercapnia)."
+      },
+      {
+        "text": "Shock compensado con requerimiento de expansión de volumen.",
+        "isCorrect": true,
+        "explanation": "El TEP de este paciente revela una Apariencia normal (reactivo, conecta con el medio) y un Trabajo Respiratorio normal, pero presenta una Circulación Cutánea alterada (palidez y piel moteada). La alteración aislada del lado circulatorio en el TEP define el estado de \"Shock compensado\", donde los mecanismos simpáticos periféricos mantienen la perfusión de órganos nobles a expensas de la vasoconstricción cutánea. Exige rehidratación activa endovenosa."
+      },
+      {
+        "text": "Shock descompensado con requerimiento de soporte vasoactivo.",
+        "isCorrect": false,
+        "explanation": "El shock descompensado se traduce en el TEP por la afectación combinada de la circulación cutánea (vasoconstricción/hipoperfusión) y de la apariencia (letargia o estupor debido a la hipoperfusión cerebral), lo cual no se cumple al estar el paciente aún reactivo."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un preescolar de 3 años, con antecedentes de asma bronquial, ingresa al servicio de urgencias con dificultad respiratoria. Mediante el Triángulo de Evaluación Pediátrica (TEP) usted observa: el niño se encuentra somnoliento, responde de forma lenta a los estímulos verbales, presenta un quejido espiratorio audible a distancia asociado a tiraje subcostal severo, y su piel se encuentra rosada y con llene capilar de 2 segundos. ¿Cómo clasifica el TEP de este paciente?",
+    "hint": "Identifique cómo el compromiso secundario de la conciencia (somnolencia por fatiga o hipoxia) modifica la categorización del TEP cuando se asocia a un aumento extremo del trabajo respiratorio.",
+    "options": [
+      {
+        "text": "Falla respiratoria aguda, requiriendo oxigenoterapia de alto flujo o ventilación asistida de urgencia.",
+        "isCorrect": true,
+        "explanation": "Este preescolar presenta alteración del Trabajo Respiratorio (quejido y tiraje) y de la Apariencia (somnoliento, hiporreactivo), con una Circulación Cutánea normal. La combinación de trabajo respiratorio alterado más apariencia alterada define de forma estricta la \"Falla respiratoria aguda\". Indica que los mecanismos compensatorios de la ventilación han claudicado, comprometiendo la oxigenación cerebral, lo que exige soporte ventilatorio inmediato."
+      },
+      {
+        "text": "Dificultad respiratoria severa, requiriendo nebulización con salbutamol y corticoides endovenosos.",
+        "isCorrect": false,
+        "explanation": "La dificultad respiratoria se define por la alteración exclusiva del trabajo de respiración, manteniendo la apariencia (conciencia) y la circulación cutánea preservadas, estado ya superado por este paciente debido a su somnolencia."
+      },
+      {
+        "text": "Falla cardiopulmonar inminente, requiriendo intubación endotraqueal inmediata y compresiones.",
+        "isCorrect": false,
+        "explanation": "La falla cardiopulmonar inminente se caracteriza en el TEP por la alteración simultánea de los tres lados (apariencia deprimida, trabajo respiratorio agónico o nulo por fatiga, y circulación cutánea alterada con cianosis o palidez extrema)."
+      },
+      {
+        "text": "Shock compensado de origen respiratorio, requiriendo un bolo de solución salina isotónica al 0,9%.",
+        "isCorrect": false,
+        "explanation": "El shock compensado muestra alteración exclusiva de la perfusión cutánea, sin compromiso respiratorio primario ni alteración del estado de alerta en el TEP inmediato."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un lactante de 11 meses de edad es traído al servicio de urgencias tras presentar múltiples episodios de vómitos y deposiciones líquidas con sangre. Al evaluarlo con el Triángulo de Evaluación Pediátrica (TEP), se constata: el menor está letárgico, no fija la mirada, presenta un esfuerzo respiratorio normal, pero se observa marcadamente pálido, frío y con un llene capilar central de 5 segundos. ¿Cuál es el estado clínico según el TEP y su prioridad de categorización en Chile?",
+    "hint": "El compromiso de la conciencia (letargia) secundario a una mala perfusión sistémica (palidez, frío, llene capilar prolongado) define un estado crítico de claudicación hemodinámica.",
+    "options": [
+      {
+        "text": "Shock compensado; corresponde a una categorización de urgencia mediana de nivel C3 o ESI-3.",
+        "isCorrect": false,
+        "explanation": "El shock compensado mantiene una apariencia (conciencia) intacta; la presencia de letargia por hipoperfusión cerebral eleva la gravedad al rango de descompensación hemodinámica."
+      },
+      {
+        "text": "Shock descompensado; corresponde a una categorización de urgencia inmediata de nivel C1 o ESI-1.",
+        "isCorrect": true,
+        "explanation": "El TEP muestra una Apariencia alterada (letárgico) y una Circulación Cutánea alterada (pálido, frío, llene capilar de 5 segundos) con una respiración normal. Esta combinación define el \"Shock descompensado\", donde la vasoconstricción periférica es insuficiente para mantener la perfusión cerebral. Al ser una emergencia con riesgo vital inmediato, califica normativamente en Chile como Categoría C1 (reanimación inmediata)."
+      },
+      {
+        "text": "Falla cardiopulmonar; corresponde a una categorización de urgencia inmediata de nivel C2 o ESI-2.",
+        "isCorrect": false,
+        "explanation": "La falla cardiopulmonar requiere compromiso evidente y simultáneo de la respiración (apnea, respiración agónica o bradipnea extrema), lo cual no se describe en este lactante que respira de forma regular."
+      },
+      {
+        "text": "Dificultad circulatoria leve; corresponde a una categorización de urgencia de nivel C4 o ESI-4.",
+        "isCorrect": false,
+        "explanation": "La presencia de compromiso cualitativo de conciencia y llene capilar de 5 segundos es incompatible con estados de baja prioridad (C4 o C5), los cuales se reservan para patologías estables de baja complejidad."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante el proceso de triage (categorización DAU) en un hospital de alta complejidad en Chile, se presenta un preescolar de 2 años de edad que es traído por su madre por presentar fiebre de 39,2°C de 12 horas de evolución. Al examen físico en triage se observa activo, con adecuada perfusión, pero destaca la presencia de petequias y pequeñas equimosis distribuidas de forma difusa en el tronco y las extremidades superiores. ¿Cuál es la categorización correcta de este paciente?",
+    "hint": "Aunque el paciente se encuentre temporalmente con un TEP normal (activo, bien perfundido), la asociación de fiebre con un exantema petequial es un signo de alarma de infección bacteriana invasiva fulminante.",
+    "options": [
+      {
+        "text": "Categorización C1; requiere atención médica diferida previa realización de un hemograma capilar rápido en sala de espera.",
+        "isCorrect": false,
+        "explanation": "La categoría C1 se reserva de forma estricta para pacientes con riesgo vital evidente al momento del ingreso que exigen maniobras de reanimación cardiopulmonar inmediatas en el box de reanimación."
+      },
+      {
+        "text": "Categorización C3; requiere atención médica de mediana urgencia, pudiendo esperar el turno de atención general en la sala común.",
+        "isCorrect": false,
+        "explanation": "Clasificar como C3 e indicar esperar en la sala de espera general expone de forma peligrosa al menor a sufrir un shock séptico fulminante o CID en la sala de espera sin monitorización."
+      },
+      {
+        "text": "Categorización C2; requiere atención médica de alta urgencia debido al riesgo inminente de sepsis meningocócica progresiva.",
+        "isCorrect": true,
+        "explanation": "La combinación de fiebre con exantema petequial en pediatría es una sospecha altamente sugestiva de meningococcemia u otra bacteremia invasora. Aunque el paciente se observe estable (TEP Normal), existe un riesgo inminente de deterioro hemodinámico rápido y shock séptico refractario, por lo que califica de forma perentoria como C2 (atención de alta urgencia con evaluación médica prioritaria en menos de 30 minutos)."
+      },
+      {
+        "text": "Categorización C4; requiere derivación a la red de atención primaria (SAPU) por tratarse de un cuadro febril de origen viral.",
+        "isCorrect": false,
+        "explanation": "La derivación a SAPU o categorización de baja complejidad (C4/C5) está absolutamente contraindicada ante la sospecha de una púrpura febril infecciosa invasiva de manejo hospitalario de alta complejidad."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "¿Cuál de los siguientes escenarios clínicos pediátricos en el servicio de urgencias se clasifica normativamente como una categoría C1 (Atención Médica Inmediata de Reanimación) según las directrices de categorización chilenas?",
+    "hint": "La categoría C1 se activa ante la pérdida de funciones vitales o estados patológicos activos de riesgo de muerte donde cada segundo de retraso terapéutico compromete la vida.",
+    "options": [
+      {
+        "text": "Lactante de 18 meses de edad que ingresa convulsionando de forma activa y tónica en los brazos de sus cuidadores en el mostrador de triage.",
+        "isCorrect": true,
+        "explanation": "Una crisis convulsiva activa al momento del ingreso representa una emergency neurológica con riesgo de compromiso respiratorio, hipoxia cerebral y progresión a estado de mal epiléptico. Requiere de forma perentoria e inmediata el ingreso al box de reanimación (Categorización C1) para asegurar la vía aérea, administrar oxígeno e iniciar anticonvulsivantes endovenosos."
+      },
+      {
+        "text": "Escolar de 8 años con sospecha de apendicitis aguda que presenta dolor abdominal moderado y un episodio de vómitos biliosos.",
+        "isCorrect": false,
+        "explanation": "El abdomen agudo sospechoso de apendicitis sin signos de shock séptico se categoriza de forma estándar como C2 o C3, requiriendo evaluación médica rápida y exámenes, pero sin necesidad de maniobras de reanimación inmediata en el box."
+      },
+      {
+        "text": "Preescolar de 3 años con historia de ingesta accidental de una dosis estándar de paracetamol infantil, clínicamente asintomático.",
+        "isCorrect": false,
+        "explanation": "La ingesta de fármacos asintomática sin signos de toxicidad sistémica inmediata se categoriza como C2 o C3 para vigilancia de toxicología y eventual descontaminación gástrica controlada, no requiriendo RCP."
+      },
+      {
+        "text": "Lactante de 6 meses con tos disfónica y estridor inspiratorio intermitente al llorar, activo y con saturación de oxígeno del 95%.",
+        "isCorrect": false,
+        "explanation": "La laringitis con estridor intermitente al llanto y buena saturación representa un cuadro de obstrucción alta leve a moderado que califica de forma habitual como C3, respondiendo a la administración de corticoides orales."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Usted es el único reanimador presente en el box de urgencias cuando ingresa un lactante de 8 meses en paro cardiorrespiratorio secundario a inmersión accidental. De acuerdo con las guías internacionales de reanimación cardiopulmonar pediátrica (PALS/AHA), ¿cuál es la relación de compresiones y ventilaciones que debe aplicar de forma correcta?",
+    "hint": "La relación de eventos varía en reanimación pediátrica según el número de operadores presentes en la escena, priorizando el volumen minuto cardíaco de masaje cuando se encuentra un reanimador único aislado.",
+    "options": [
+      {
+        "text": "Relación de 15 compresiones por cada 2 ventilaciones (15:2), coordinando de forma estricta los ciclos de reanimación.",
+        "isCorrect": false,
+        "explanation": "La relación 15:2 es la recomendada en pediatría únicamente cuando hay dos o más reanimadores presentes en la escena para permitir ventilaciones más frecuentes sin interrumpir prolongadamente el masaje."
+      },
+      {
+        "text": "Relación de 30 compresiones por cada 2 ventilaciones (30:2), coordinando de forma estricta los ciclos de reanimación.",
+        "isCorrect": true,
+        "explanation": "Para la reanimación cardiopulmonar (RCP) en lactantes y niños (excluyendo recién nacidos en sala de partos), la guía PALS/AHA establece que si el reanimador se encuentra solo (único operador), la relación de compresiones y ventilaciones debe ser de 30:2 para optimizar el flujo circulatorio continuo y disminuir la fatiga. Si se cuenta con dos reanimadores, la relación cambia a 15:2."
+      },
+      {
+        "text": "Relación de 3 compresiones por cada 1 ventilación (3:1), coordinando de forma estricta los ciclos de reanimación.",
+        "isCorrect": false,
+        "explanation": "La relación 3:1 es de uso exclusivo en la reanimación neonatal inmediata en la sala de partos (RCP neonatal), donde la causa del paro es casi exclusivamente respiratoria primaria."
+      },
+      {
+        "text": "Relación de 5 compresiones por cada 1 ventilación (5:1), coordinando de forma estricta los ciclos de reanimación.",
+        "isCorrect": false,
+        "explanation": "Una relación de 5:1 no forma parte de los algoritmos de reanimación cardiopulmonar pediátrica ni neonatal validados por los consensos internacionales vigentes."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Se realiza la reanimación cardiopulmonar avanzada de un lactante de 10 meses de edad en la sala de reanimación del servicio de urgencias por dos profesionales de la salud. De acuerdo con las guías vigentes de la AHA/PALS, ¿cuál es la técnica de elección recomendada para realizar las compresiones torácicas en este paciente y la profundidad mínima del masaje?",
+    "hint": "En lactantes menores de 1 año, la técnica de los pulgares ofrece mejores flujos de perfusión central que la de dos dedos. El límite de profundidad se define proporcionalmente al tamaño del tórax del niño para evitar traumas óseos.",
+    "options": [
+      {
+        "text": "Técnica de los dos dedos (índice y medio); comprimiendo el centro exacto del tórax a una profundidad mínima de la mitad del diámetro anteroposterior del tórax (~6 cm).",
+        "isCorrect": false,
+        "explanation": "La técnica de dos dedos se reserva para cuando el reanimador se encuentra solo, y una profundidad de la mitad del tórax (~6 cm) es excesiva en lactantes, pudiendo provocar fracturas costales, laceración hepática o neumotórax."
+      },
+      {
+        "text": "Técnica de los dos pulgares rodeando el tórax; comprimiendo el tercio inferior del esternón a una profundidad mínima de un tercio del diámetro anteroposterior del tórax (~4 cm).",
+        "isCorrect": true,
+        "explanation": "Para lactantes (menores de 1 año), la técnica recomendada con dos reanimadores es la de los dos pulgares rodeando el tórax con las manos. Se debe comprimir el tercio inferior del esternón (evitando la xifoides) a una profundidad de al menos un tercio del diámetro anteroposterior del tórax (aproximadamente 4 cm),iniendo un retorno elástico torácico completo después de cada compresión."
+      },
+      {
+        "text": "Técnica con el talón de una mano; comprimiendo la región precordial izquierda del tórax a una profundidad mínima de 2 centímetros de forma rígida.",
+        "isCorrect": false,
+        "explanation": "La compresión con el talón de una mano se utiliza en niños mayores de 1 año (preescolares y escolares), y limitar la profundidad a 2 cm es insuficiente para lograr una eyección cardíaca eficaz en el lactante."
+      },
+      {
+        "text": "Técnica de los dos pulgares superpuestos; comprimiendo el apófisis xifoides del esternón a una profundidad mínima de 5 centímetros de forma rígida.",
+        "isCorrect": false,
+        "explanation": "Comprimir la apófisis xifoides está contraindicado por el riesgo de desgarro hepático y hemoperitoneo masivo, y 5 cm es la profundidad de compresión mínima para niños mayores, no para lactantes."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante la reanimación cardiopulmonar avanzada de un preescolar de 4 años de edad, se decide asegurar la vía aérea mediante intubación endotraqueal. Al calcular el diámetro interno del tubo endotraqueal con balón (cuffed) adecuado para este paciente utilizando la fórmula estandarizada, ¿cuál es el calibre teórico que se debe seleccionar?",
+    "hint": "Aplique la fórmula clásica de PALS para el cálculo de tubos endotraqueales con balón en pediatría: Diámetro interno (mm) = (Edad en años / 4) + 3,5.",
+    "options": [
+      {
+        "text": "Tubo endotraqueal con balón de diámetro interno de 3,5 mm.",
+        "isCorrect": false,
+        "explanation": "Un tubo de 3,5 mm es excesivamente estrecho para un preescolar de 4 años, lo cual aumentará drásticamente la resistencia de la vía aérea y dificultará la ventilación eficaz en fase de reanimación avanzada."
+      },
+      {
+        "text": "Tubo endotraqueal con balón de diámetro interno de 5,5 mm.",
+        "isCorrect": false,
+        "explanation": "Un diámetro de 5,5 mm con balón es demasiado grueso para la laringe de un niño de 4 años, arriesgando trauma directo de la mucosa glótica, isquemia y estenosis subglótica posterior."
+      },
+      {
+        "text": "Tubo endotraqueal con balón de diámetro interno de 4,5 mm.",
+        "isCorrect": true,
+        "explanation": "Aplicando la fórmula oficial para tubos con balón: Diámetro interno = (Edad / 4) + 3,5 = (4 / 4) + 3,5 = 1 + 3,5 = 4,5 mm. Si se utilizara un tubo sin balón (uncuffed), la fórmula es (Edad / 4) + 4, lo que daría un tubo de 5,0 mm. El uso de tubos con balón es preferido actualmente en reanimación porque previene fugas de volumen y optimiza la ventilación a presión positiva."
+      },
+      {
+        "text": "Tubo endotraqueal con balón de diámetro interno de 4,0 mm.",
+        "isCorrect": false,
+        "explanation": "Corresponde al cálculo erróneo de restar una constante de forma inadecuada, resultando en un tubo subóptimo de 4,0 mm para la contextura anatómica del paciente de 4 años."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un preescolar de 5 años es traído en paro cardiorrespiratorio al servicio de urgencias tras sufrir una descarga eléctrica domiciliaria. Al conectar el monitor del desfibrilador, se constata un ritmo de Fibrilación Ventricular (FV). ¿Cuál es la primera descarga eléctrica recomendada (dosis de energía de desfibrilación) y cuál es la secuencia a seguir de inmediato según las guías PALS?",
+    "hint": "En ritmos desfibrilables (FV y TV sin pulso), la desfibrilación eléctrica precoz es la medida terapéutica más eficaz para restaurar el ritmo sinusal. Se debe administrar la primera dosis y reanudar el masaje al instante sin perder tiempo evaluando el ritmo o pulso.",
+    "options": [
+      {
+        "text": "Aplicar una descarga de 2 Joules/kg utilizando un desfibrilador manual y reanudar de forma inmediata las compresiones torácicas por 2 minutos.",
+        "isCorrect": true,
+        "explanation": "Para ritmos desfibrilables (FV/TV sin pulso), la dosis de energía inicial recomendada por PALS/AHA es de 2 J/kg de peso estimado (las dosis posteriores son de 4 J/kg, pudiendo incrementarse hasta un máximo de 10 J/kg). Posterior a la descarga, no se debe perder tiempo evaluando el ritmo o el pulso en el monitor; se debe reanudar de forma inmediata e ininterrumpida la RCP (masaje cardíaco) por un ciclo completo de 2 minutos antes de la siguiente evaluación."
+      },
+      {
+        "text": "Aplicar una descarga de 4 Joules/kg utilizando un desfibrilador manual y detener el RCP para constatar el pulso por 1 minuto.",
+        "isCorrect": false,
+        "explanation": "4 J/kg es la dosis indicada para la segunda descarga eléctrica y las posteriores si la FV persiste refractaria, y detener la RCP para tomar el pulso inmediatamente post-descarga es deletéreo debido al colapso de la perfusión coronaria generado por la interrupción del masaje."
+      },
+      {
+        "text": "Administrar una ampolla de adrenalina endovenosa directa antes de aplicar la primera descarga eléctrica de 1 Joule/kg.",
+        "isCorrect": false,
+        "explanation": "La desfibrilación precoz es prioritaria sobre los fármacos; la adrenalina se administra únicamente después de que el ritmo persiste en FV tras la segunda descarga eléctrica y durante el RCP activo, no antes del primer choque."
+      },
+      {
+        "text": "Sincronizar el desfibrilador para aplicar una cardioversión eléctrica de 0,5 Joules/kg en fase refractaria de la onda T.",
+        "isCorrect": false,
+        "explanation": "La desfibrilación es una descarga asincrónica (no sincronizada) indicada para el colapso ventricular desorganizado; la cardioversión sincronizada se reserva para taquiarritmias con pulso (como la TSV inestable) para evitar gatillar una FV iatrogénica por el fenómeno de R sobre T."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante la reanimación cardiopulmonar avanzada de un escolar de 6 años que pesa aproximadamente 20,0 kg, se constata un ritmo de asfixia en el monitor que corresponde a una Asistolia. Tras asegurar la vía aérea e iniciar ventilación con oxígeno al 100%, ¿cuál es la dosis exacta de adrenalina (dilución de 1:10.000) que debe indicar y por qué vía prioritaria?",
+    "hint": "La dosis estándar recomendada de adrenalina en reanimación cardiopulmonar avanzada pediátrica es de 0,01 mg/kg. Esto equivale en volumen a 0,1 mL/kg de la dilución al 1:10.000. Calcule la dosis total para 20 kg.",
+    "options": [
+      {
+        "text": "Administrar 0,2 mL de adrenalina 1:10.000 (0,01 mL/kg / equivalente a 0,02 mg) por vía subcutánea profunda de forma lenta.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 0,2 mL asume de forma errónea una dosificación diez veces menor a la recomendada para la RCP activa, resultando en una dosis subterapéutica ineficaz, y la vía subcutánea no tiene absorción en contexto de paro."
+      },
+      {
+        "text": "Administrar 2,0 mL de adrenalina 1:10.000 (0,1 mL/kg / equivalente a 0,2 mg) por vía endovenosa o intraósea de forma rápida.",
+        "isCorrect": true,
+        "explanation": "Para la reanimación cardiopulmonar en pediatría se utiliza la adrenalina en dilución al 1:10.000 (0,1 mg/mL). La dosis endovenosa o intraósea estándar es de 0,01 mg/kg de peso corporal. En términos de volumen de la dilución 1:10.000, esto corresponde exactamente a 0,1 mL/kg de peso. Para un niño de 20 kg: 0,1 mL/kg x 20 kg = 2,0 mL de la solución. Debe administrarse rápidamente por vía venosa o intraósea, repitiéndose cada 3 a 5 minutos si persiste el paro."
+      },
+      {
+        "text": "Administrar 2,0 mL de adrenalina 1:1.000 (0,1 mL/kg / equivalente a 2,0 mg) por vía endotraqueal directa con lavado de suero fisiológico.",
+        "isCorrect": false,
+        "explanation": "Utilizar la dilución 1:1.000 (ampolla directa sin diluir) a dosis de 0,1 mL/kg representa una sobredosificación masiva de adrenalina que causará isquemia miocárdica letal, necrosis cardíaca y arritmias ventriculares refractarias si se administra de forma directa por vía sistémica."
+      },
+      {
+        "text": "Administrar 0,5 mL de adrenalina 1:10.000 (0,025 mL/kg / equivalente a 0,05 mg) por vía intramuscular en el vasto lateral del muslo.",
+        "isCorrect": false,
+        "explanation": "La vía intramuscular en el muslo carece de absorción sistémica útil durante el paro cardiorrespiratorio debido al cese de la perfusión periférica por la vasoconstricción extrema compensatoria, estando proscrita en RCP avanzada."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Usted se encuentra reanimando a un lactante de 12 meses de edad, previamente sano, que ingresa en shock séptico severo refractario a volumen. Se decide establecer un acceso intraóseo de urgencia al no lograr una vía venosa periférica en 90 segundos. ¿Cuál es la localización anatómica de elección para la punción de la aguja intraósea en este lactante y qué reparos anatómicos debe buscar?",
+    "hint": "Busque la superficie ósea cortical más delgada, fácilmente accesible y segura en lactantes menores, que cuenta con una amplia médula ósea vascularizada alejada de estructuras vasos o articulares de riesgo.",
+    "options": [
+      {
+        "text": "En la cara lateral de la diáfisis del fémur distal; aproximadamente 5 cm por encima de la rótula en el borde externo muscular.",
+        "isCorrect": false,
+        "explanation": "El fémur distal es un sitio alternativo útil, pero su inserción es más compleja técnicamente debido al mayor grosor de la musculatura y del tejido adiposo suprayacente de los muslos en lactantes, quedando como segunda línea."
+      },
+      {
+        "text": "En la cara anteromedial de la tibia proximal; aproximadamente de 1 a 2 cm por debajo de la tuberosidad anterior de la tibia, en su superficie plana.",
+        "isCorrect": true,
+        "explanation": "La localización de elección para el acceso intraóseo en pediatría (especialmente en menores de 6 años) es la cara anteromedial de la tibia proximal. Se debe palpar la tuberosidad anterior de la tibia e insertar la aguja aproximadamente de 1 a 2 cm por debajo (distal) y medial a esta, en la superficie ósea plana, dirigiendo la aguja a 90° o ligeramente angulada lejos de la placa de crecimiento epifisiaria."
+      },
+      {
+        "text": "En el tercio medio de la clavícula izquierda; justo por encima del borde superior del manubrio esternal del lactante.",
+        "isCorrect": false,
+        "explanation": "La clavícula está estrictamente contraindicada para la punción intraósea debido al riesgo extremo de provocar un neumotórax apical, hemotórax masivo o lesión de la arteria subclavia y del plexo braquial central."
+      },
+      {
+        "text": "En la cresta ilíaca anterosuperior derecha; aproximadamente 2 cm por debajo del ligamento inguinal en la fosa ilíaca.",
+        "isCorrect": false,
+        "explanation": "La cresta ilíaca es un sitio de punción utilizado preferentemente en adultos por hematología para biopsias de médula, pero carece de un acceso fácil, rápido y seguro para infusiones de volumen de urgencia en lactantes menores de 1 año."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un escolar de 10 años, que pesa 30,0 kg, se presenta en paro cardiorrespiratorio secundario a ahogamiento por inmersión. Tras 10 minutos de reanimación avanzada con masaje cardíaco ininterrumpido y ventilación efectiva por tubo endotraqueal, el monitor revela Fibrilación Ventricular (FV) persistente y refractaria a tres descargas eléctricas sucesivas y dos dosis de adrenalina. ¿Cuál es el fármaco antiarrítmico de elección y la dosis exacta indicada en este escenario de FV refractaria?",
+    "hint": "La dosis recomendada de Amiodarona en paro cardíaco por FV/TV sin pulso refractaria a choque es de 5 mg/kg de peso corporal. Calcule la dosis exacta para un escolar de 30 kg.",
+    "options": [
+      {
+        "text": "Administrar un bolo rápido de Amiodarona en dosis de 150 mg por vía intravenosa o intraósea.",
+        "isCorrect": true,
+        "explanation": "La Amiodarona es el fármaco antiarrítmico de primera elección según PALS para ritmos desfibrilables (FV/TV sin pulso) refractarios a la desfibrilación inicial y adrenalina. La dosis en bolo en paro es de 5 mg/kg (con un máximo de 300 mg por dosis). Para este escolar de 30 kg: 5 mg/kg x 30 kg = 150 mg de Amiodarona. Se puede repetir una segunda dosis si persiste refractario. Alternativamente se puede usar Lidocaína a 1 mg/kg si no hay amiodarona."
+      },
+      {
+        "text": "Administrar un bolo rápido de Adenosina en dosis de 6 mg por vía intravenosa o intraósea.",
+        "isCorrect": false,
+        "explanation": "La adenosina es un fármaco bloqueador del nodo AV de acción ultracorta que se indica para la revisión de taquicardias supraventriculares estables o inestables con pulso, estando contraindicada y siendo inútil en la FV."
+      },
+      {
+        "text": "Administrar una infusión lenta de Sulfato de Magnesio en dosis de 3,0 gramos por vía endovenosa.",
+        "isCorrect": false,
+        "explanation": "El sulfato de magnesio se indica en paro cardíaco únicamente si se documenta una taquicardia ventricular tipo Torsida de Puntas (torsades de pointes) o ante hipomagnesemia documentada, no como tratamiento universal de la FV común."
+      },
+      {
+        "text": "Administrar un bolo rápido de Atropina en dosis de 0,6 miligramos por vía intravenosa o intraósea.",
+        "isCorrect": false,
+        "explanation": "La atropina se utiliza para el manejo de bradicardias sintomáticas mediadas por tono vagal aumentado o bloqueos AV, no teniendo propiedades antiarrítmicas eficaces frente a un paro ventricular en fibrilación."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un lactante de 14 meses que ingresa en paro cardiorrespiratorio. El monitor cardíaco revela una Actividad Eléctrica Sin Pulso (AESP). Tras iniciar RCP de alta calidad, ¿cuál es el fármaco prioritario que debe administrarse lo antes posible en este ritmo no desfibrilable?",
+    "hint": "En ritmos no desfibrilables (Asistolia y AESP), no hay indicación de choques eléctricos. El único fármaco que ha demostrado aumentar la sobrevida al alta hospitalaria cuando se administra de forma muy precoz (en los primeros minutos del paro) es el vasopresor estándar.",
+    "options": [
+      {
+        "text": "Amiodarona EV/IO en dosis de 5 mg/kg; administrada de forma prioritaria tras realizar la primera descarga eléctrica.",
+        "isCorrect": false,
+        "explanation": "La amiodarona está estrictamente reservada para ritmos desfibrilables (FV/TV sin pulso) refractarios a descargas, estando contraindicada y careciendo de utilidad en ritmos no desfibrilables como la AESP o asistolia."
+      },
+      {
+        "text": "Adrenalina EV/IO en dosis de 0,01 mg/kg; administrada de forma prioritaria de inmediato en el primer ciclo del algoritmo.",
+        "isCorrect": true,
+        "explanation": "Para ritmos no desfibrilables (Asistolia/AESP), la administración precoz de adrenalina es el factor pronóstico más importante de supervivencia. Las guías PALS enfatizan que la adrenalina debe administrarse tan pronto como se establezca el acceso vascular (EV o IO) en el primer minuto de la reanimación, sin esperar a completar ciclos adicionales, repitiéndose cada 3-5 minutos."
+      },
+      {
+        "text": "Bicarbonato de Sodio al 8,4% en dosis de 1 mEq/kg; administrado de forma rutinaria al inicio de la reanimación.",
+        "isCorrect": false,
+        "explanation": "El bicarbonato de sodio no se recomienda de forma rutinaria en el paro cardíaco agudo; se reserva para paros prolongados con sospecha de acidosis metabólica severa preexistente o sobredosis de antidepresivos tricíclicos."
+      },
+      {
+        "text": "Atropina EV/IO en dosis de 0,02 mg/kg; administrada de forma sistemática ante la sospecha de bloqueo auriculoventricular.",
+        "isCorrect": false,
+        "explanation": "La atropina fue retirada del algoritmo de paro neonatal y pediátrico sistemático debido a la falta de evidencia de beneficio clínico sobre los resultados finales de reanimación, prefiriéndose el uso exclusivo de adrenalina."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Al realizar la monitorización capnográfica cuantitativa continua (EtCO2) mediante el sensor del tubo endotraqueal durante la reanimación avanzada de un preescolar, usted nota un aumento brusco y sostenido del valor del EtCO2, el cual se eleva rápidamente desde 12 mmHg hasta 42 mmHg. ¿Cuál es el significado clínico de este cambio capnográfico en la RCP?",
+    "hint": "Durante el paro, el EtCO2 es bajo debido al escaso flujo sanguíneo pulmonar que genera el masaje. Si el corazón del paciente recupera el latido autónomo, se produce un lavado masivo de dióxido de carbono hacia los pulmones.",
+    "options": [
+      {
+        "text": "Indica que el tubo endotraqueal se ha desplazado accidentalmente hacia el esófago, requiriendo su retiro inmediato.",
+        "isCorrect": false,
+        "explanation": "El desplazamiento del tubo al esófago se manifestaría con la caída abrupta del EtCO2 a cero o valores indetectables debido a la ausencia de producción de dióxido de carbono en la cámara gástrica."
+      },
+      {
+        "text": "Indica la necesidad de aumentar la frecuencia de compresiones por fatiga muscular de los operadores del box.",
+        "isCorrect": false,
+        "explanation": "El aumento del EtCO2 confirma que el gasto cardíaco y la perfusión pulmonar han mejorado sustancialmente, cuadro opuesto a la fatiga del operador (la cual provocaría un descenso progresivo del EtCO2 bajo 10 mmHg)."
+      },
+      {
+        "text": "Indica el Retorno de la Circulación Espontánea (RCE); el corazón ha recuperado el latido eficaz y se debe detener momentáneamente el RCP para constatar pulso.",
+        "isCorrect": true,
+        "explanation": "Un aumento brusco y sostenido del EtCO2 (generalmente por encima de 35-40 mmHg) durante la RCP avanzada es un indicador altamente confiable del Retorno de la Circulación Espontánea (RCE). El restablecimiento de un gasto cardíaco autónomo y eficaz aumenta drásticamente la entrega de CO2 a los pulmones, lo cual se registra en el capnógrafo de forma instantánea. Permite confirmar el éxito de la reanimación sin necesidad de interrumpir masajes de forma prolongada para palpar el pulso."
+      },
+      {
+        "text": "Indica que la presión intratorácica ha aumentado críticamente por un neumotórax a tensión iatrogénico.",
+        "isCorrect": false,
+        "explanation": "El neumotórax a tensión comprometería el gasto cardíaco, disminuyendo de forma severa el flujo de perfusión pulmonar y provocando la caída del valor del EtCO2 registrado en el capnógrafo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un lactante de 9 meses de edad presenta una taquicardia sinusal marcada con una frecuencia cardíaca registrada en el monitor de 195 latidos por minuto. El paciente se encuentra febril y deshidratado por diarrea. ¿Cuál es la conducta recomendada respecto a su manejo hemodinámico?",
+    "hint": "En la taquicardia sinusal, el aumento del pulso es una respuesta compensatoria fisiológica ante noxas sistémicas (fiebre, hipovolemia, dolor). El tratamiento se dirige a la causa y no al nodo sinusal de forma directa.",
+    "options": [
+      {
+        "text": "Tratar la causa subyacente mediante la administración de antipiréticos orales y un bolo de solución salina isotónica al 0,9%, vigilando el descenso progresivo de la frecuencia cardíaca.",
+        "isCorrect": true,
+        "explanation": "La taquicardia sinusal en lactantes (<1 año) típicamente se presenta con frecuencias menores a 220 lpm (en niños mayores menores de 180 lpm), con historia compatible (fiebre, deshidratación, shock), ondas P normales presentes en el ECG y variabilidad de la FC ante estímulos. El tratamiento correcto consiste en manejar la causa de base (enfriar al paciente febril, rehidratar enérgicamente), lo cual normalizará progresivamente el pulso sin intervenciones directas sobre el corazón."
+      },
+      {
+        "text": "Administrar un bolo rápido de Adenosina a razón de 0,1 mg/kg por vía intravenosa para bloquear la conducción del nodo AV.",
+        "isCorrect": false,
+        "explanation": "La adenosina está contraindicada en la taquicardia sinusal; el nodo sinusal no responde de forma permanente al bloqueo del nodo AV y su uso expone de forma injustificada al paciente a hipotensión e inestabilidad."
+      },
+      {
+        "text": "Aplicar maniobras vagales mecánicas mediante la colocación de hielo molido en una bolsa plástica sobre la cara del lactante por 15 segundos.",
+        "isCorrect": false,
+        "explanation": "Las maniobras vagales están reservadas de forma exclusiva para el manejo de taquicardias supraventriculares (TSV) de mecanismo de reentrada nodal, siendo inútiles e ineficaces en el automatismo del nodo sinusal."
+      },
+      {
+        "text": "Preparar el equipo de desfibrilación para realizar una cardioversión eléctrica sincronizada a razón de 1 Joule/kg de urgencia.",
+        "isCorrect": false,
+        "explanation": "La cardioversión eléctrica sincronizada está contraindicada en taquicardias sinusales; aplicar descargas a un corazón taquicárdico por hipovolemia puede gatillar arritmias letales y colapso cardiovascular."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante el control en el box de urgencias de un preescolar de 3 años de edad con sospecha de taquicardia supraventricular (TSV) inestable (frecuencia cardíaca fija de 240 lpm, monitor muestra ausencia de ondas P, y el paciente se encuentra somnoliento con pulsos débiles y llene capilar de 4 segundos). Al no contar con un acceso vascular inmediato para adenosina, ¿cuál es el procedimiento indicado de primera elección?",
+    "hint": "Ante taquiarritmias con pulso pero que asocian signos severos de hipoperfusión (shock / inestabilidad hemodinámica), si no se dispone de una vía endovenosa de inserción rápida para fármacos, la terapia eléctrica sincrónica de urgencia es el estándar de oro de rescate.",
+    "options": [
+      {
+        "text": "Aplicar masajes enérgicos de la arteria carótida bilateral de forma simultánea por 30 segundos continuos.",
+        "isCorrect": false,
+        "explanation": "El masaje carotídeo bilateral simultáneo está contraindicado debido al riesgo de oclusión del flujo cerebral y síncope letal vagal, y las maniobras vagales no deben retrasar la terapia eléctrica en pacientes francamente inestables."
+      },
+      {
+        "text": "Realizar una cardioversión eléctrica sincronizada inmediata utilizando un desfibrilador manual a dosis de 1 a 2 Joules/kg.",
+        "isCorrect": true,
+        "explanation": "Ante una TSV con pulso pero con signos de inestabilidad (compromiso de conciencia, llene capilar prolongado, hipotensión), si no hay acceso vascular endovenoso inmediato para pasar adenosina de forma perentoria, se debe realizar de forma prioritaria una cardioversión eléctrica sincronizada a dosis inicial de 0,5 a 1 J/kg (pudiendo subir a 2 J/kg en la segunda descarga). El desfibrilador debe estar configurado de forma estricta en modo \"sincrónico\"."
+      },
+      {
+        "text": "Iniciar de inmediato compresiones cardíacas coordenadas con ventilación a presión positiva al 100%.",
+        "isCorrect": false,
+        "explanation": "Las compresiones cardíacas en taquiarritmias estables o inestables con pulso detectable están contraindicadas, indicándose el masaje únicamente si hay paro verdadero o bradicardia sintomática menor a 60 lpm con perfusión ineficaz."
+      },
+      {
+        "text": "Administrar una dosis de adrenalina por vía endotraqueal para aumentar la resistencia vascular periférica.",
+        "isCorrect": false,
+        "explanation": "La adrenalina aumentará la frecuencia de descarga sinusal y de reentrada, lo que exacerbará la arritmia de base y precipitará una fibrilación ventricular isquémica de alta mortalidad."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un lactante de 12 meses de edad, cursando con una gastroenteritis aguda, es evaluado por el equipo de urgencias. Al control de signos vitales, destaca una frecuencia cardíaca persistente de 45 latidos por minuto en el monitor, asociada a un esfuerzo respiratorio muy débil con periodos de apnea central y un llene capilar de 4 segundos. Se inicia ventilación a presión positiva con bolsa y máscara con oxígeno al 100% por 30 segundos. Al reevaluar, el paciente persiste con una frecuencia de 48 lpm y mala perfusión. ¿Cuál es el siguiente paso terapéutico indicado por el algoritmo PALS?",
+    "hint": "En pediatría, la bradicardia sintomática con compromiso hemodinámico que persiste a pesar de haber asegurado una adecuada oxigenación y ventilación se maneja clínicamente como un paro cardiorrespiratorio inminente.",
+    "options": [
+      {
+        "text": "Iniciar compresiones cardíacas externas coordinadas con la ventilación asistida, manteniendo una monitorización continua.",
+        "isCorrect": true,
+        "explanation": "El algoritmo de bradicardia pediátrica sintomática con pulso de PALS estipula que si la frecuencia cardíaca es menor a 60 latidos por minuto asociada a signos de mala perfusión sistémica (hipotensión, llene capilar lento, alteración de conciencia) y persiste a pesar de haber aportado una adecuada ventilación y oxigenación (con oxígeno al 100%) por al menos 30 segundos, se debe iniciar de inmediato el masaje cardíaco (compresiones torácicas)."
+      },
+      {
+        "text": "Administrar un bolo rápido de Atropina a razón de 0,02 mg/kg por vía intravenosa o intraósea de urgencia.",
+        "isCorrect": false,
+        "explanation": "La atropina se reserva para bradicardias causadas por tono vagal aumentado (como intubación o estímulo faríngeo) o bloqueos AV primarios congénitos, pero la primera medida ante bradicardia hipóxica refractaria al oxígeno es el masaje."
+      },
+      {
+        "text": "Continuar de forma exclusiva con la ventilación a presión positiva por otros 5 minutos continuos antes de reevaluar.",
+        "isCorrect": false,
+        "explanation": "Limitar el manejo a la VPP aislada en un lactante con frecuencia cardíaca menor a 50 lpm sin iniciar masajes perpetúa la hipoxia miocárdica y cerebral, precipitando rápidamente una parada asistólica."
+      },
+      {
+        "text": "Iniciar una infusión continua de Noradrenalina de forma periférica para elevar la resistencia sistémica.",
+        "isCorrect": false,
+        "explanation": "Los vasopresores como la noradrenalina se indican para el shock distributivo vasopléjico compensado posterior, no teniendo indicación como primera línea en la bradicardia asfíctica aguda en fase de reanimación."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Se asiste en el reanimador de urgencias a un lactante de 14 meses que presenta una obstrucción completa de la vía aérea por cuerpo extraño (ingesta accidental de una uva entera). El menor se encuentra consciente, pero presenta una tos ineficaz afónica, imposibilidad de emitir sonidos y cianosis perioral de rápida progresión. ¿Cuál es la maniobra física inmediata recomendada para la desobstrucción según las pautas de PALS?",
+    "hint": "En menores de 1 año (lactantes), la maniobra de Heimlich (compresión abdominal) está estrictamente contraindicada debido al riesgo de romper o lesionar gravemente el hígado de gran tamaño o el bazo inmaduros. Se utiliza una técnica gravitacional y de impacto torácico alterna.",
+    "options": [
+      {
+        "text": "Alternar ciclos de 5 golpes en la espalda (palmadas interescapulares) y 5 compresiones torácicas (empujones de pecho) de forma vigorosa con el lactante boca abajo.",
+        "isCorrect": true,
+        "explanation": "Para lactantes conscientes con obstrucción completa de la vía aérea por cuerpo extraño, el manejo consiste en alternar ciclos de 5 golpes en la espalda (con el lactante boca abajo sobre el antebrazo del reanimador, apoyando la cabeza hacia abajo) y 5 compresiones torácicas (con el lactante boca arriba sobre el antebrazo opuesto). Se repite el ciclo hasta que el objeto sea expulsado o el lactante quede inconsciente."
+      },
+      {
+        "text": "Realizar la maniobra de Heimlich clásica de forma repetitiva presionando el abdomen por debajo del apéndice xifoides con el lactante de pie.",
+        "isCorrect": false,
+        "explanation": "La maniobra de Heimlich (compresiones abdominales subxifoideas) se reserva para niños mayores de 1 año; en lactantes menores su uso está estrictamente contraindicado por el alto riesgo de rotura esplénica o laceración hepática severa."
+      },
+      {
+        "text": "Introducir de forma a ciegas el dedo índice en la cavidad oral del lactante para realizar un barrido digital y enganchar el objeto.",
+        "isCorrect": false,
+        "explanation": "El barrido digital a ciegas en la cavidad oral está proscrito en pediatría debido a que la lengua u dedos pueden empujar de forma accidental el cuerpo extraño aún más profundamente hacia la vía subglótica, provocando una obstrucción total irreversible."
+      },
+      {
+        "text": "Colocar al lactante en decúbito supino e iniciar compresiones cardíacas directas sin evaluar el estado de la conciencia.",
+        "isCorrect": false,
+        "explanation": "Las compresiones cardíacas exclusivas se inician únicamente si el lactante pierde la conciencia y cae en paro, momento en el cual se inicia la RCP modificada de urgencia."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "El lactante de 14 meses con obstrucción de la vía aérea por cuerpo extraño de la pregunta anterior pierde la conciencia de forma brusca en sus brazos a pesar de las maniobras físicas de palmadas. De acuerdo con las guías de reanimación, ¿cuál es la conducta correcta que debe adoptar de inmediato?",
+    "hint": "Ante la pérdida de conciencia por obstrucción, se activa el algoritmo de RCP pediátrico modificado para cuerpo extraño, donde la compresión torácica genera presiones intratorácicas mecánicas que ayudan a expulsar el objeto.",
+    "options": [
+      {
+        "text": "Colocar al lactante en una superficie rígida e iniciar ciclos de RCP (comenzando con 30 compresiones); antes de dar las ventilaciones, mirar el interior de la boca y remover el cuerpo extraño únicamente si es visible de forma directa.",
+        "isCorrect": true,
+        "explanation": "Si un lactante o niño con obstrucción de vía aérea por cuerpo extraño pierde la conciencia, se le debe colocar sobre una superficie dura e iniciar de inmediato las compresiones torácicas (RCP). Cada vez que se abra la vía aérea para administrar las 2 ventilaciones del ciclo, el reanimador debe abrir la boca del niño e inspeccionar visualmente la cavidad oral; si el objeto es visible, se retira con los dedos de forma sutil, pero si no se ve, no se realiza barrido a ciegas y se continúa con la RCP."
+      },
+      {
+        "text": "Continuar con el ciclo de golpes en la espalda y compresiones torácicas con el menor boca abajo por otros 10 minutos continuos.",
+        "isCorrect": false,
+        "explanation": "Continuar con los golpes en la espalda en un lactante inconsciente e hipotónico es técnicamente ineficaz, retarda el inicio de la RCP y no permite asegurar la perfusión coronaria del miocardio hipóxico."
+      },
+      {
+        "text": "Realizar un barrido digital a ciegas vigoroso en la faringe y proceder a dar ventilaciones continuas sin realizar masajes.",
+        "isCorrect": false,
+        "explanation": "El barrido digital a ciegas sigue estando estrictamente contraindicado por el riesgo de impactar más profundamente el objeto en la laringe, y dar ventilaciones aisladas sin masaje en un paciente en paro respiratorio acelera la asistolia."
+      },
+      {
+        "text": "Colocar un catéter intraóseo de urgencia para infundir adrenalina antes de intentar cualquier tipo de ventilación pulmonar.",
+        "isCorrect": false,
+        "explanation": "El manejo de la vía aérea y la remoción mecánica del objeto obstructivo mediante las presiones generadas por el masaje es la máxima prioridad; los fármacos como la adrenalina no resuelven la obstrucción de la tráquea."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante el control de reanimación de un lactante en shock séptico grave, usted se dispone a expandir la volemia. De acuerdo con las últimas directrices del consenso de sepsis pediátrica vigentes en Chile, ¿cuál es el volumen y tipo de fluido recomendado para el primer bolo de reanimación y en qué tiempo se debe pasar?",
+    "hint": "La reanimación del shock distributivo o séptico exige el uso de cristaloides isotónicos de fácil distribución que expandan el espacio intravascular sin generar edema intersticial masivo de novo por volumen excesivo en una sola toma.",
+    "options": [
+      {
+        "text": "Administrar un bolo de Suero Glucosado al 10% de forma rápida en dosis de 30 mL/kg, a pasar en menos de 1 minuto continuo.",
+        "isCorrect": false,
+        "explanation": "El suero glucosado al 10% no tiene propiedades de expansión de volumen intravascular y su administración rápida a alta dosis causará hiperglicemia severa con diuresis osmótica secundaria, empeorando el shock deshidratante."
+      },
+      {
+        "text": "Administrar un bolo de Suero Fisiológico al 0,9% o Ringer Lactato en dosis de 10 a 20 mL/kg, a pasar en un período de 10 a 20 minutos de forma controlada.",
+        "isCorrect": true,
+        "explanation": "Las guías actuales para el manejo del shock séptico en pediatría recomiendan la administración de bolos iniciales de cristaloides isotónicos (como Suero Fisiológico al 0,9% o soluciones balanceadas como Ringer Lactato) a razón de 10 a 20 mL/kg de peso corporal. El bolo debe pasarse de forma controlada pero rápida en un periodo de 10 a 20 minutos, evaluando estrechamente la perfusión, la diuresis y vigilando signos de sobrecarga de volumen (aparición de hepatomegalia o crépitos pulmonares)."
+      },
+      {
+        "text": "Administrar un bolo de albúmina humana al 5% en dosis de 40 mL/kg, a pasar en un período de 1 hora en infusión lenta.",
+        "isCorrect": false,
+        "explanation": "El uso rutinario de coloides como la albúmina al 5% para la reanimación inicial no se recomienda debido a que asocia mayor morbimortalidad respiratoria por fuga capilar, prefiriéndose el uso de cristaloides comunes."
+      },
+      {
+        "text": "Administrar un bolo de solución salina hipertónica al 3% en dosis de 15 mL/kg, a pasar de forma prioritaria en 5 minutos.",
+        "isCorrect": false,
+        "explanation": "Las soluciones hipertónicas al 3% se reservan exclusivamente para emergencias metabólicas neurológicas específicas (hiponatremia aguda convulsiva) o para reducir la hipertensión endocraneana refractaria, no para expandir volumen en shock séptico."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Al ingresar a un lactante de 1 año en shock al box de reanimación, el TEP muestra una Apariencia deprimida y una Circulación Cutánea alterada con piel moteada. Usted administra el primer bolo de cristaloides isotónicos a 20 mL/kg. ¿Cuál de los siguientes hallazgos clínicos le confirma que el paciente presenta signos de sobrecarga hídrica y obliga a suspender la fluidoterapia de expansión?",
+    "hint": "En la reanimación con fluidos, se debe monitorizar de forma estrecha y continua la tolerancia pulmonar y hepática ante la carga de volumen para evitar el desarrollo de edema pulmonar agudo.",
+    "options": [
+      {
+        "text": "La aparición de crépitos pulmonares bilaterales finos al examen respiratorio o una hepatomegalia palpable de novo.",
+        "isCorrect": true,
+        "explanation": "Los signos clínicos cardinales de sobrecarga hídrica o falla ventricular secundaria durante la reanimación con fluidos en pediatría son la aparición de dificultad respiratoria de novo con crépitos pulmonares bilaterales (edema intersticial de pulmón) y/o el desarrollo de hepatomegalia de novo (por congestión venosa pasiva sistémica). Ante cualquiera de estos hallazgos, se debe suspender inmediatamente la infusión de fluidos y evaluar el uso de diuréticos o soporte inotrópico."
+      },
+      {
+        "text": "El aumento de la diuresis a un volumen estimado de 2,0 mL/kg/hora con orina clara en el pañal de control.",
+        "isCorrect": false,
+        "explanation": "El aumento de la diuresis a 2 mL/kg/h es un indicador de éxito terapéutico y buena perfusión renal, que confirma una respuesta favorable a la hidratación sin sobrecarga tisular."
+      },
+      {
+        "text": "El descenso de la frecuencia cardíaca desde 180 lpm hasta un rango estabilizado de 120 lpm en el monitor.",
+        "isCorrect": false,
+        "explanation": "El descenso de la frecuencia cardíaca hacia rangos normales refleja una estabilización hemodinámica exitosa gracias a la recuperación del volumen sistólico aportado por el bolo."
+      },
+      {
+        "text": "La recuperación de un llene capilar distal de 2 segundos de forma simétrica con extremidades tibias.",
+        "isCorrect": false,
+        "explanation": "La recuperación del llene capilar normal y extremidades tibias son signos clínicos clásicos de salida del shock compensado que confirman la perfusión sistémica adecuada lograda por la terapia."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante el RCP avanzado de un preescolar, se busca de forma sistemática identificar y tratar las causas reversibles del paro cardiorrespiratorio, conocidas como las \"H\" y las \"T\". ¿Cuál de las siguientes combinaciones representa de forma correcta tres de las \"H\" evaluadas en el algoritmo PALS?",
+    "hint": "Las causas reversibles del paro describen desórdenes fisiológicos agudos corregibles en la sala de reanimación mediante intervenciones terapéuticas específicas.",
+    "options": [
+      {
+        "text": "Hipernatremia, Hipertermia e Hidrocefalia obstructiva.",
+        "isCorrect": false,
+        "explanation": "La hipernatremia y la hidrocefalia no forman parte de la nemotecnia clásica de causas reversibles de paro en la sala de reanimación pediátrica, y la hipertermia es un estado de calor opuesto a la hipotermia patológica del algoritmo."
+      },
+      {
+        "text": "Hemorragia, Hiperviscosidad e Hipoglicemia refractaria.",
+        "isCorrect": false,
+        "explanation": "Aunque la hemorragia causa hipovolemia, la hiperviscosidad no constituye un pilar primario de las \"H\" fisiológicas reversibles evaluadas sistemáticamente en fase de RCP avanzado."
+      },
+      {
+        "text": "Hipovolemia, Hipoxia e Hidrógeno-iones (Acidosis).",
+        "isCorrect": true,
+        "explanation": "Las \"H\" de las causas reversibles en PALS son: Hipovolemia (corregir con fluidos), Hipoxia (oxigenación/ventilación), Hidrógeno-iones o Acidosis (bicarbonato o ventilación), Hipo/Hiperpotasemia (corregir potasio) e Hipotermia (recalentamiento activo). Las \"T\" corresponden a Neumotórax a Tensión, Taponamiento Cardíaco, Toxinas, Trombosis Coronaria y Trombosis Pulmonar."
+      },
+      {
+        "text": "Herniación, Hipoacusia e Hiperpotasemia crónica.",
+        "isCorrect": false,
+        "explanation": "La herniación cerebral es una complicación neurológica y la hipoacusia es un déficit sensorial que no se relacionan con la nemotecnia del paro cardiorrespiratorio pediátrico."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Se presenta en el servicio de urgencias un preescolar de 3 años de edad que sufrió una quemadura por fuego directo en su hogar. Al realizar el TEP inicial, usted constata: el niño se encuentra irritable y con llanto inconsolable, presenta una respiración ronca con estridor inspiratorio y hollín visible en las fosas nasales, y su piel está moteada y pálida de forma generalizada. ¿Cuál es el orden prioritario de manejo en la sala de reanimación?",
+    "hint": "En víctimas de quemaduras por fuego o explosiones en espacios cerrados, la inhalación de humo y gases supercalientes daña de forma directa la mucosa de la laringe, lo que provoca un edema de glotis rápido e irreversible. Priorice la permeabilidad de la vía aérea en el ABCDE.",
+    "options": [
+      {
+        "text": "Asegurar la vía aérea mediante intubación endotraqueal precoz debido al riesgo inminente de edema de glotis por inhalación de humo, seguido de acceso vascular y fluidoterapia enérgica.",
+        "isCorrect": true,
+        "explanation": "Este paciente presenta signos de sospecha de lesión por inhalación de vía aérea (estridor respiratorio, respiración ronca, hollín en fosas nasales) en el contexto de quemadura por fuego directo. El edema de la vía respiratoria alta progresa de forma muy rápida en las primeras horas, lo que dificultará de forma extrema la intubación posterior. La prioridad absoluta según el ABCDE es asegurar la vía aérea mediante intubación endotraqueal precoz por un operador experimentado, antes de que se produzca una obstrucción total irreversible."
+      },
+      {
+        "text": "Aplicar cremas antibióticas tópicas y vendajes estériles en las quemaduras corporales de forma prioritaria antes de evaluar la respiración.",
+        "isCorrect": false,
+        "explanation": "El cuidado local de la herida por quemadura es una prioridad secundaria que se realiza en el paso \"E\" (Exposición) una vez estabilizado por completo el ABC de la reanimación vital del preescolar."
+      },
+      {
+        "text": "Administrar un bolo endovenoso de analgésicos opioides a alta dosis y trasladar al paciente para una radiografía de tórax de urgencia de pie.",
+        "isCorrect": false,
+        "explanation": "Trasladar a un paciente inestable con estridor y sospecha de edema de glotis a la sala de radiología sin haber asegurado previamente la vía aérea de forma invasiva es una negligencia médica con riesgo de muerte en el trayecto."
+      },
+      {
+        "text": "Iniciar nebulizaciones continuas con salbutamol combinado con adrenalina racémica y posponer la colocación de accesos vasculares de urgencia.",
+        "isCorrect": false,
+        "explanation": "Aunque la adrenalina racémica puede ayudar temporalmente en laringitis leves, no detiene el edema mecánico progresivo por quemadura térmica de la vía aérea, y posponer los accesos vasculares retrasa la reanimación con fluidos requerida para el gran quemado."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante la evaluación con el TEP de un escolar de 7 años que cursa con un síndrome febril prolongado, usted observa: el niño se encuentra somnoliento, responde incoherencias al interrogarlo, presenta una respiración rápida y superficial sin uso de musculatura accesoria, y se encuentra intensamente pálido con llene capilar central de 4 segundos. ¿Cómo interpreta este TEP y cuál es el diagnóstico sindrómico?",
+    "hint": "El compromiso neurológico cualitativo de conciencia (somnolencia, incoherencia) gatillado por signos objetivos de hipoperfusión (palidez, llene capilar prolongado) define un colapso circulatorio descompensado.",
+    "options": [
+      {
+        "text": "Trabajo Respiratorio y Apariencia alteradas; corresponde a una Falla respiratoria aguda por neumonía lobar.",
+        "isCorrect": false,
+        "explanation": "La falla respiratoria requeriría alteración evidente del trabajo mecánico de la respiración (retractilidad marcada, aleteo, quejido), signos ausentes en la evaluación respiratoria del paciente."
+      },
+      {
+        "text": "Apariencia y Circulación Cutánea alteradas; corresponde a un Shock descompensado de probable origen séptico.",
+        "isCorrect": true,
+        "explanation": "El TEP de este escolar muestra una Apariencia alterada (somnoliento, incoherente) y una Circulación Cutánea alterada (pálido, llene capilar lento), con una respiración que, aunque rápida (taquipnea compensatoria por acidosis láctica), no muestra aumento del trabajo mecánico respiratorio (sin retracciones). La afectación simultánea de apariencia y circulación en el TEP define el \"Shock descompensado\", sugiriendo un origen séptico (shock séptico) dado el antecedente de síndrome febril prolongado."
+      },
+      {
+        "text": "Apariencia alterada únicamente; corresponde a una Meningitis viral bacteriana en fase de incubación del lactante.",
+        "isCorrect": false,
+        "explanation": "Limitar la clasificación a la apariencia alterada ignora la presencia de palidez intensa y el retraso significativo del llene capilar de 4 segundos, signos que objetivan una claudicación hemodinámica circulatoria."
+      },
+      {
+        "text": "Circulación Cutánea alterada únicamente; corresponde a un Shock compensado de origen deshidratante puro.",
+        "isCorrect": false,
+        "explanation": "El shock compensado mantiene una apariencia (conciencia) intacta; la presencia de compromiso cualitativo de conciencia indica que la presión de perfusión cerebral ha claudicado, descompensando el shock."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Se realiza la reanimación cardiopulmonar avanzada de un escolar de 9 años en el servicio de urgencias. Se ha intubado exitosamente al paciente y se confirma el correcto posicionamiento del tubo endotraqueal. Al continuar con el RCP avanzado con vía aérea avanzada ya establecida, ¿cómo se debe programar la frecuencia de compresiones y de ventilaciones de forma correcta según las guías PALS?",
+    "hint": "Una vez que la vía aérea está asegurada de forma definitiva con un tubo endotraqueal con balón, ya no es necesario realizar ciclos coordinados con pausas. Las compresiones y las ventilaciones se realizan de forma continua e independiente.",
+    "options": [
+      {
+        "text": "Administrar compresiones torácicas continuas a una frecuencia de 100 a 120 por minuto, y administrar de forma simultánea e independiente 1 ventilación cada 2 a 3 segundos (20 a 30 ventilaciones por minuto) sin pausar el masaje.",
+        "isCorrect": true,
+        "explanation": "Según las guías PALS vigentes, una vez establecida una vía aérea avanzada (tubo endotraqueal o máscara laríngea) durante el RCP, las compresiones torácicas se realizan de forma continua a una frecuencia de 100 a 120 por minuto, sin realizar pausas para ventilar. Al mismo tiempo y de manera independiente, el reanimador a cargo de la ventilación administra 1 respiración cada 2 a 3 segundos (lo que equivale a 20-30 ventilaciones por minuto), evitando la hiperventilación por riesgo de barotrauma y caída del retorno venoso."
+      },
+      {
+        "text": "Mantener de forma estricta los ciclos coordinados de 15 compresiones por 2 ventilaciones, deteniendo momentáneamente el masaje para permitir la entrada del volumen de la jeringa.",
+        "isCorrect": false,
+        "explanation": "Detener las compresiones para ventilar una vez intubado el paciente es innecesario, disminuye la fracción de compresión torácica y reduce de forma deletérea la presión de perfusión coronaria lograda por el masaje continuo."
+      },
+      {
+        "text": "Administrar compresiones torácicas a una frecuencia de 80 por minuto, y administrar 1 ventilación cada 6 segundos de forma sincronizada con el ciclo del desfibrilador.",
+        "isCorrect": false,
+        "explanation": "Una frecuencia de 80 compresiones por minuto es subóptima (se exige 100-120/min), y 1 ventilación cada 6 segundos (10/min) es el ritmo indicado para adultos, siendo insuficiente para la tasa ventilatoria requerida por el preescolar o lactante."
+      },
+      {
+        "text": "Suspender por completo las compresiones torácicas para permitir la ventilación mecánica de alta frecuencia exclusiva por 5 minutos continuos.",
+        "isCorrect": false,
+        "explanation": "Suspender las compresiones en un paciente en paro para usar ventilación mecánica exclusiva detiene por completo el flujo de perfusión sistémico, provocando muerte celular cerebral inmediata por isquemia."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Usted atiende a un lactante de 2 meses de edad que ingresa al SAPU de su comuna en paro respiratorio puro (presenta apnea central persistente pero con un pulso central palpable y vigoroso de 115 latidos por minuto en la arteria braquial). ¿Cuál es la conducta terapéutica de urgencia indicada de inmediato?",
+    "hint": "En el paro respiratorio puro (apnea con pulso conservado >60 lpm), no está indicado iniciar el masaje cardíaco de entrada. Se debe aportar de forma prioritaria la oxigenación y ventilación mediante respiraciones de rescate para evitar la claudicación miocárdica secundaria.",
+    "options": [
+      {
+        "text": "Iniciar de inmediato compresiones cardíacas externas coordinadas en ciclos de 30 compresiones por 2 ventilaciones de rescate.",
+        "isCorrect": false,
+        "explanation": "Iniciar compresiones cardíacas en un lactante que mantiene un pulso enérgico de 115 lpm es innecesario y puede provocar trauma esquelético costal o laceraciones intratorácicas iatrogénicas evitables."
+      },
+      {
+        "text": "Iniciar ventilaciones de rescate a razón de 1 respiración cada 2 a 3 segundos (20 a 30 respiraciones por minuto) utilizando bolsa y máscara, reevaluando el pulso cada 2 minutos.",
+        "isCorrect": true,
+        "explanation": "Ante un paro respiratorio aislado con pulso conservado (FC > 60 lpm con signos de perfusión conservada), la indicación estricta de PALS es administrar ventilaciones de rescate utilizando bolsa y máscara conectadas a oxígeno. La frecuencia de rescate es de 1 ventilación cada 2 a 3 segundos (20 a 30 por minuto). Se debe reevaluar el pulso y la respiración cada 2 minutos; si el pulso cae bajo 60 lpm con mala perfusión, se inicia el masaje cardíaco."
+      },
+      {
+        "text": "Administrar un bolo rápido de adrenalina endovenosa directa y colocar un catéter intraóseo antes de iniciar cualquier tipo de ventilación.",
+        "isCorrect": false,
+        "explanation": "El soporte farmacológico con adrenalina no tiene ninguna cabida en un paciente que mantiene un latido cardíaco vigoroso y requiere de forma prioritaria la permeabilización y ventilación de su vía aérea."
+      },
+      {
+        "text": "Mantener una conducta expectante de observación bajo monitor, asumiendo un periodo de respiración periódica fisiológica normal del lactante menor.",
+        "isCorrect": false,
+        "explanation": "La apnea central persistente con paro respiratorio es una emergencia vital; considerarla respiración periódica normal (la cual cursa con pausas de apnea de pocos segundos sin repercusión hemodinámica ni cianosis) expone al lactante a muerte asfíctica."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un escolar de 8 años de edad, previamente sano, ingresa de urgencia por sospecha de shock anafiláctico secundario a una picadura de avispa. Al examen físico destaca: edema labial importante, estridor inspiratorio moderado, sibilancias espiratorias difusas y una presión arterial en el límite inferior de la normalidad para su edad, con un llene capilar de 3 segundos. ¿Cuál es el fármaco de primera línea que debe indicarse de inmediato en este escenario clínico?",
+    "hint": "En la anafilaxia con compromiso respiratorio o hemodinámico, no existe ningún fármaco que reemplace o deba preceder a la administración rápida del agonista adrenérgico alfa-1 y beta-2 por vía intramuscular.",
+    "options": [
+      {
+        "text": "Adrenalina intramuscular en dosis de 0,01 mg/kg (ampolla 1:1.000 sin diluir) aplicada en la cara anterolateral del muslo de forma prioritaria.",
+        "isCorrect": true,
+        "explanation": "La adrenalina intramuscular es el tratamiento de primera línea, indiscutible y de máxima urgencia para la anafilaxia. Se debe administrar de inmediato ante compromiso de la vía aérea (estridor), respiratorio (sibilancias) o circulatorio (hipotensión/llene capilar lento). La dosis es de 0,01 mg/kg de la ampolla directa al 1:1.000 (0,01 mL/kg), con un máximo de 0,3 mg en niños, inyectada en la región del vasto lateral del muslo para asegurar una absorción rápida y predecible."
+      },
+      {
+        "text": "Metilprednisolona endovenosa directa en dosis de 2 mg/kg para estabilizar de forma inmediata la membrana de los mastocitos.",
+        "isCorrect": false,
+        "explanation": "Los corticoides (metilprednisolona) tardan varias horas en ejercer su efecto antiinflamatorio genómico, por lo que su administración es una medida secundaria para prevenir la fase tardía de la anafilaxia, nunca la primera línea de emergencia."
+      },
+      {
+        "text": "Clorfenamina endovenosa en dosis de 0,5 mg/kg para bloquear los receptores de histamina a nivel capilar cutáneo.",
+        "isCorrect": false,
+        "explanation": "Los antihistamínicos como la clorfenamina alivian los síntomas cutáneos (eritema, prurito), pero no tienen la capacidad de revertir el angioedema de la vía aérea ni de mejorar la hipotensión sistémica provocada por la vasodilatación anafiláctica."
+      },
+      {
+        "text": "Nebulización con salbutamol asociado a bromuro de ipratropio para revertir el broncoespasmo antes de administrar otros fármacos.",
+        "isCorrect": false,
+        "explanation": "El broncodilatador nebulizado ayuda al broncoespasmo, pero no soluciona el edema laríngeo (estridor) ni la vasodilatación sistémica que arriesgan el colapso del escolar, debiendo ser complementario a la adrenalina intramuscular previa."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "¿Cuál de los siguientes desórdenes del ritmo cardíaco registrados en el monitor del desfibrilador pediátrico durante un paro cardiorrespiratorio avanzado se clasifica de forma correcta como un \"ritmo desfibrilable\" y exige la administración inmediata de una descarga eléctrica asincrónica?",
+    "hint": "Los ritmos desfibrilables se caracterizan por una actividad eléctrica ventricular caótica y desorganizada o una taquiarritmia ventricular rápida que imposibilita el gasto cardíaco y no genera pulso, respondiendo a la despolarización masiva de la desfibrilación.",
+    "options": [
+      {
+        "text": "Actividad Eléctrica Sin Pulso (AESP) y Asistolia ventricular completa.",
+        "isCorrect": false,
+        "explanation": "La Asistolia y la Actividad Eléctrica Sin Pulso (AESP) son ritmos \"no desfibrilables\" que se manejan exclusivamente con RCP de alta calidad ininterrumpida y administración precoz de adrenalina, estando contraindicada la desfibrilación."
+      },
+      {
+        "text": "Taquicardia Ventricular sin pulso (TVSP) y Fibrilación Ventricular (FV).",
+        "isCorrect": true,
+        "explanation": "Los únicos dos ritmos que se clasifican como \"desfibrilables\" en el algoritmo de RCP avanzado pediátrico y adulto son la Fibrilación Ventricular (FV) y la Taquicardia Ventricular sin pulso (TVSP). En ambos casos, la terapia eléctrica de desfibrilación asincrónica busca silenciar temporalmente todos los focos ectópicos para permitir que el nodo sinusal retome el control del ritmo."
+      },
+      {
+        "text": "Taquicardia Supraventricular inestable (TSV) y Bloqueo AV de tercer grado.",
+        "isCorrect": false,
+        "explanation": "La TSV inestable con pulso se maneja con cardioversión eléctrica sincronizada (no desfibrilación asincrónica), y el bloqueo AV de tercer grado inestable con pulso requiere marcapasos externo o atropina, nunca descargas ciegas de desfibrilación."
+      },
+      {
+        "text": "Bradicardia sinusal sintomática persistente con bloqueo de rama derecha.",
+        "isCorrect": false,
+        "explanation": "La bradicardia sintomática con pulso se maneja optimizando la ventilación, masaje si la FC cae bajo 60 lpm con mala perfusión, y adrenalina o atropina según la causa, estando contraindicada la terapia eléctrica de desfibrilación."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Durante la reanimación cardiopulmonar de un escolar en el box de urgencias del Hospital San Borja Arriarán, se discute la importancia de optimizar la calidad de las compresiones torácicas para asegurar la perfusión miocárdica y cerebral. De acuerdo con las guías PALS, ¿cuál de los siguientes parámetros describe de forma correcta una RCP de \"alta calidad\" en pediatría?",
+    "hint": "Busque la opción que maximice el tiempo de compresión efectiva (fracción de compresión torácica), facilite el llenado de las cámaras ventriculares durante la diástole pasiva y prevenga los efectos nocivos de la hiperventilación.",
+    "options": [
+      {
+        "text": "Comprimir a una frecuencia fija de 80 por minuto, mantener el tórax parcialmente deprimido de forma continua para asegurar la presión y realizar pausas de 30 segundos para evaluar el pulso en cada ciclo.",
+        "isCorrect": false,
+        "explanation": "Comprimir a 80/min es insuficiente, mantener el tórax parcialmente deprimido (sin descompresión completa) bloquea la diástole ventricular e impide la perfusión coronaria, y detenerse 30 segundos para tomar pulso destruye la efectividad del masaje."
+      },
+      {
+        "text": "Comprimir a una frecuencia de 150 por minuto, hiperventilar activamente al paciente a razón de 40 ventilaciones por minuto para barrer el CO2 y mantener el monitor cardíaco desconectado.",
+        "isCorrect": false,
+        "explanation": "Una frecuencia de 150/min es excesivamente rápida y no permite un llenado ventricular mínimo, y la hiperventilación de 40/min causa barotrauma, vasoconstricción cerebral por hipocapnia y caída extrema de la presión de perfusión coronaria."
+      },
+      {
+        "text": "Comprimir a una frecuencia de 100 a 120 por minuto, permitir una descompresión (recoil) torácica completa después de cada compresión, minimizar las interrupciones del masaje a menos de 10 segundos y evitar la hiperventilación.",
+        "isCorrect": true,
+        "explanation": "Los pilares de una RCP de alta calidad según PALS son: 1) Frecuencia de compresión de 100 a 120 por minuto, 2) Profundidad adecuada (al menos 1/3 del diámetro AP del tórax), 3) Permitir la expansión torácica completa después de cada compresión para permitir el llenado coronario, 4) Minimizar las interrupciones del masaje a menos de 10 segundos, y 5) Evitar la hiperventilación por riesgo de aumentar la presión intratorácica, lo cual disminuye el retorno venoso y el gasto cardíaco de la reanimación."
+      },
+      {
+        "text": "Comprimir alternando de forma errática el centro del tórax con la región abdominal izquierda para masajear simultáneamente la aorta abdominal del escolar.",
+        "isCorrect": false,
+        "explanation": "El sitio de masaje debe ser estrictamente sobre el esternón (tercio inferior); comprimir el abdomen de forma errática está proscrito debido al nulo efecto circulatorio y al altísimo riesgo de rotura esplénica, hepática o gástrica en niños."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Urgencias Pediátricas",
+    "text": "Un preescolar de 3 años de edad, previamente sano, ingresa de urgencia tras sufrir un traumatismo encéfalo-craneano (TEC) por caída de altura en su hogar. Al realizar el TEP inicial, usted constata: el niño se encuentra irritable y llorando activamente, con pupilas isocóricas y reactivas a la luz, presenta una respiración periódica normal sin dificultad respiratoria y su piel está rosada y perfundida de forma simétrica. De acuerdo con las guías de trauma y triage chilenas, ¿cuál es la categorización correcta de este paciente?",
+    "hint": "Aunque el TEP inicial sea normal (activo, bien perfundido, sin dificultad respiratoria), el antecedente de un mecanismo de alta energía (caída de altura) obliga a clasificarlo como de alta sospecha de riesgo de lesión interna, requiriendo monitorización neurológica y aplicación de reglas de decisión clínica.",
+    "options": [
+      {
+        "text": "Categorización C1; requiere intubación endotraqueal inmediata y colocación de un monitor de presión intracraneana de urgencia en el box.",
+        "isCorrect": false,
+        "explanation": "El paciente se encuentra consciente, isocórico, reactivo y respirando de forma estable, por lo que no presenta ninguna indicación de reanimación cardiopulmonar inmediata (C1) ni de intubación invasiva de urgencia."
+      },
+      {
+        "text": "Categorización C2; requiere atención médica de alta urgencia con indicación de observación clínica según criterios de PECARN para descartar lesión intracraneana.",
+        "isCorrect": true,
+        "explanation": "Todo preescolar que ingresa por un traumatismo de cráneo secundario a un mecanismo de alta energía (caída de altura, accidente vehicular) califica de forma mandatoria como categoría de alta urgencia (C2 / ESI-2) a pesar de un TEP inicialmente normal. El objetivo es asegurar una evaluación médica rápida en menos de 30 minutos, aplicar criterios de decisión clínica (como las reglas de PECARN para riesgo de LTI) y mantener en observación neurológica en el servicio de urgencia por un mínimo de 4 a 6 horas."
+      },
+      {
+        "text": "Categorización C3; requiere atención médica deferred de baja complejidad y alta a domicilio inmediata sin indicación de vigilancia neurológica.",
+        "isCorrect": false,
+        "explanation": "Categorizar como C3 e indicar alta a domicilio inmediata sin un periodo mínimo de observación o sin pautas de alarma neurológica estructuradas es una conducta de alto riesgo que expone al menor a sufrir complicaciones hemorrágicas intracraneales inadvertidas."
+      },
+      {
+        "text": "Categorización C4; requiere derivación al policlínico de atención ambulatoria general para control electivo en un plazo de dos semanas.",
+        "isCorrect": false,
+        "explanation": "El TEC por caída de altura no es una patología de baja complejidad pasible de ser derivada a atención ambulatoria general electiva en semanas, requiriendo de forma obligatoria el descarte de lesiones agudas en el servicio de urgencia."
+      }
+    ]
+  }
+]
