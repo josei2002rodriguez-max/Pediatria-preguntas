@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Antes de la llegada de la paciente gestante a la sala de partos, el equipo de reanimación neonatal se reúne para realizar la preparación preparto. De acuerdo con las directrices internacionales del Programa de Reanimación Neonatal (PRN 8ª Edición), ¿cuál es la combinación exacta de las cuatro preguntas críticas que se deben formular al equipo gineco-obstétrico para evaluar los factores de riesgo del nacimiento?",
+    "hint": "Recuerde las cuatro preguntas de preparación preparto estandarizadas en el algoritmo de la 8ª Edición del PRN para determinar el número de reanimadores y el equipamiento necesario en la sala.",
+    "options": [
+      {
+        "text": "¿Existe antecedente de cesárea previa?, ¿el líquido amniótico tiene meconio?, ¿cuál es el peso fetal estimado? y ¿hay sospecha de infección?",
+        "isCorrect": false,
+        "explanation": "Aunque el meconio y el peso son factores relevantes, esta combinación omite la pregunta del número de bebés esperados, que es crítica para duplicar o triplicar el personal y los equipos en caso de partos múltiples."
+      },
+      {
+        "text": "¿Cuál es la edad gestacional estimada?, ¿las membranas están rotas?, ¿se administraron corticoides antenatales? y ¿cuál es el canal de parto?",
+        "isCorrect": false,
+        "explanation": "Los corticoides antenatales y la rotura de membranas son datos clínicos valiosos del historial obstétrico, pero no forman parte de la nemotecnia oficial de cuatro preguntas estructuradas al momento del nacimiento."
+      },
+      {
+        "text": "¿Cuál es la edad gestacional estimada?, ¿el líquido amniótico está claro?, ¿cuántos bebés se esperan? y ¿hay algún factor de riesgo adicional?",
+        "isCorrect": true,
+        "explanation": "Las cuatro preguntas estandarizadas preparto de la 8ª Edición del PRN son: 1) ¿Edad gestacional estimada?, 2) ¿Líquido amniótico claro?, 3) ¿Número de bebés esperados? y 4) ¿Factores de riesgo adicionales? Estas permiten prever el nivel de complejidad y el personal requerido en el pabellón."
+      },
+      {
+        "text": "¿Se realizó tamizaje para Streptococo B?, ¿el líquido amniótico es claro?, ¿cuántos bebés se esperan? y ¿existe registro de monitor altered?",
+        "isCorrect": false,
+        "explanation": "El tamizaje de Streptococo del grupo B y el estado de la monitorización fetal son factores de riesgo específicos que entran en la cuarta pregunta genérica, pero no constituyen pilares individuales de la terna oficial de preparación."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted asiste el parto vaginal de un recién nacido pretérmino de 31 semanas de gestación. Al nacer, el neonato se encuentra con esfuerzo respiratorio débil y tono muscular disminuido. En base a las recomendaciones actuales para la estabilización térmica del prematuro menor a 32 semanas, ¿cuál es el procedimiento correcto respecto al secado y la termorregulación en la sala de partos?",
+    "hint": "En prematuros menores a 32 semanas, la pérdida de agua por evaporación a través de la piel inmadura es masiva y rápida, por lo que el secado convencional no es la primera medida hídrica ni térmica de elección.",
+    "options": [
+      {
+        "text": "Envolver al recién nacido inmediatamente en una bolsa o envoltura plástica de polietileno sin secar previamente el cuerpo, bajo calor radiante.",
+        "isCorrect": true,
+        "explanation": "Para prematuros menores de 32 semanas de gestación, la norma del PRN estipula no secar al neonato al nacer. Se le debe envolver de inmediato en una bolsa o sábana de plástico de polietileno hasta el cuello y colocarlo bajo una cuna de calor radiante con gorro para evitar pérdidas por evaporación y convección."
+      },
+      {
+        "text": "Secar enérgicamente todo el cuerpo con compresas templadas y colocarlo bajo una fuente de calor radiante con gorro de lana precalentado.",
+        "isCorrect": false,
+        "explanation": "El secado enérgico en prematuros extremos daña la barrera epidérmica inmadura y favorece un enfriamiento rápido por evaporación si las corrientes de aire o el ambiente de la sala de partos no están perfectamente controlados."
+      },
+      {
+        "text": "Colocar de forma directa un colchón térmico de gel activado sobre la espalda del neonato seco, prescindiendo del uso de la cuna radiante.",
+        "isCorrect": false,
+        "explanation": "Los colchones térmicos de gel son complementos de utilidad, pero su uso directo sin protección o prescindiendo de la cuna de calor radiante y la envoltura plástica es insuficiente y puede causar quemaduras o hipotermia severa."
+      },
+      {
+        "text": "Aplicar un secado rápido solo en el cráneo para colocar un gorro térmico y mantener el resto del cuerpo húmedo en contacto con el pecho materno.",
+        "isCorrect": false,
+        "explanation": "Dejar el cuerpo húmedo fuera de la bolsa plástica y en contacto materno interrumpe el protocolo estandarizado de reanimación y estabilización térmica en la cuna radiante requerido para prematuros moderados y extremos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Un recién nacido de término nace flácido, apneico y deprimido tras un desprendimiento prematuro de placenta normoinserta. Tras ser colocado en la cuna de calor radiante, se realizan los pasos iniciales de estabilización por 30 segundos. Al reevaluar, el paciente persiste en apnea y su frecuencia cardíaca es de 76 latidos por minuto. ¿Cuál es la conducta terapéutica inmediata indicada?",
+    "hint": "Identifique el síntoma o signo de alarma hemodinámico que marca el paso decisivo hacia la ventilación asistida. La apnea o frecuencia cardíaca menor a 100 lpm tras los pasos iniciales es la indicación de oro.",
+    "options": [
+      {
+        "text": "Iniciar compresiones cardíacas coordinadas con administración de oxígeno de flujo libre al 100% mediante máscara.",
+        "isCorrect": false,
+        "explanation": "Las compresiones cardíacas están estrictamente contraindicadas en este punto, ya que solo se inician si la frecuencia cardíaca persiste menor a 60 lpm después de al menos 30 segundos de ventilación correctiva efectiva que expanda los pulmones."
+      },
+      {
+        "text": "Administrar una ampolla de adrenalina por vía endotraqueal de urgencia antes de iniciar cualquier tipo de soporte respiratorio.",
+        "isCorrect": false,
+        "explanation": "La adrenalina es una medida farmacológica avanzada que requiere de forma mandatoria haber optimizado la ventilación y las compresiones torácicas con oxígeno al 100% sin respuesta, no usándose como manejo inicial."
+      },
+      {
+        "text": "Aplicar estimulación táctil enérgica en la planta de los pies y frotar la espalda del paciente por otros 30 segundos adicionales.",
+        "isCorrect": false,
+        "explanation": "Continuar con la estimulación táctil en un recién nacido apneico con bradicardia (<100 lpm) prolonga de forma peligrosa la hipoxia y retrasa el inicio de la ventilación, que es la medida más importante para la transición exitosa."
+      },
+      {
+        "text": "Iniciar ventilación a presión positiva (VPP) con bolsa y máscara conectadas a un mezclador de gases fijado al 21% de oxígeno.",
+        "isCorrect": true,
+        "explanation": "Las indicaciones formales para iniciar Ventilación a Presión Positiva (VPP) son apnea, respiración jadeante (gasping) o una frecuencia cardíaca menor a 100 latidos por minuto dentro de los primeros 60 segundos de vida. Dado que el RN tiene 39 semanas (término), la VPP debe iniciarse con oxígeno al 21% (aire ambiental)."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Durante la reanimación de un recién nacido prematuro de 30 semanas de gestación en la cuna radiante, usted se dispone a iniciar ventilación a presión positiva (VPP) debido a que presenta un esfuerzo respiratorio ineficaz y una frecuencia cardíaca de 80 latidos por minuto. De acuerdo con las guías vigentes, ¿cuál es la concentración inicial de oxígeno con la que debe programar el mezclador (blender)?",
+    "hint": "En prematuros menores de 35 semanas, iniciar con oxígeno muy bajo (21%) o muy alto (100%) asocia resultados clínicos desfavorables. Se debe elegir un rango intermedio seguro para regular la saturación progresivamente.",
+    "options": [
+      {
+        "text": "Iniciar la ventilación con oxígeno al 100% para revertir rápidamente la hipoxia y acelerar la recuperación miocárdica.",
+        "isCorrect": false,
+        "explanation": "El inicio con oxígeno al 100% está proscrito en reanimación neonatal debido al daño oxidativo masivo que genera en órganos del prematuro, asociando mayor riesgo de displasia broncopulmonar, retinopatía y daño neurológico."
+      },
+      {
+        "text": "Iniciar la ventilación con una concentración de oxígeno entre el 21% y el 30%, ajustando según la oximetría de pulso pre-ductal.",
+        "isCorrect": true,
+        "explanation": "Para recién nacidos menores de 35 semanas de gestación que requieren VPP, el PRN 8ª Edición recomienda iniciar con una concentración de oxígeno del 21% al 30%. El ajuste posterior de la fracción inspirada de oxígeno (FiO<sub>2</sub>) se guiará por la saturación de oxígeno pre-ductal medida minuto a minuto."
+      },
+      {
+        "text": "Iniciar la ventilación con una concentración de oxígeno fija al 50%, incrementando de forma lineal cada 10 segundos de manejo.",
+        "isCorrect": false,
+        "explanation": "Programar una FiO<sub>2</sub> del 50% de entrada excede las recomendaciones de rango inicial del PRN y no sigue la lógica de titulación fisiológica por oximetría pre-ductal en extremidad superior derecha."
+      },
+      {
+        "text": "Iniciar la ventilación con oxígeno al 21% para evitar la toxicidad tisular por radicales libres de oxígeno en el prematuro.",
+        "isCorrect": false,
+        "explanation": "Iniciar con 21% (aire ambiental) se reserva preferentemente para recién nacidos de término o prematuros tardíos de 35 semanas o más, ya que en menores de 35 semanas puede retrasar la recuperación hemodinámica."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "En la sala de partos de un hospital de la red pública chilena, se realiza la evaluación continua de la frecuencia cardíaca durante un procedimiento de reanimación neonatal compleja. ¿Cuál es el método de elección recomendado por el PRN actual para obtener una medición rápida, continua y precisa de la frecuencia cardíaca en los primeros minutos de vida?",
+    "hint": "Busque el método electrónico que entrega información en tiempo real de forma instantánea sin verse afectado por el estado de la perfusión periférica en un recién nacido en shock o bradicárdico.",
+    "options": [
+      {
+        "text": "Auscultación directa del latido cardíaco con un fonendoscopio neonatal por un tiempo continuo de 30 segundos.",
+        "isCorrect": false,
+        "explanation": "La auscultación con fonendoscopio es un pilar clínico clave, pero es intermitente, no permite la monitorización visual continua en tiempo real y requiere que el reanimador interrumpa momentáneamente otras acciones."
+      },
+      {
+        "text": "Palpación intermitente de la base del cordón umbilical por al menos 10 segundos de forma manual.",
+        "isCorrect": false,
+        "explanation": "La palpación del cordón umbilical es útil en los primeros segundos de transición normal, pero tiende a subestimar significativamente la frecuencia cardíaca real del neonato en shock o bradicárdico, perdiendo precisión."
+      },
+      {
+        "text": "Monitorización electrocardiográfica (ECG) de tres derivaciones colocada de forma rápida sobre el tórax del recién nacido.",
+        "isCorrect": true,
+        "explanation": "Aunque la auscultación sigue siendo el método clínico inicial preferido, el PRN establece que el monitor electrocardiográfico (ECG) es el método de elección para una medición rápida, continua y precisa de la frecuencia cardíaca durante la reanimación activa, especialmente cuando se requiere VPP o compresiones."
+      },
+      {
+        "text": "Lectura exclusiva del valor digital de la oximetría de pulso colocada en el pie izquierdo del paciente en transición.",
+        "isCorrect": false,
+        "explanation": "La oximetría de pulso tarda minutos en entregar una señal confiable durante el nacimiento y es muy susceptible al flujo de perfusión; además, el sensor se debe colocar estrictamente en la mano o muñeca derecha (pre-ductal)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted ha iniciado ventilación a presión positiva (VPP) en un recién nacido de término apneico. Transcurridos los primeros 15 segundos de ventilación, su asistente le informa que la frecuencia cardíaca no está aumentando y que no se observa expansión torácica. Usted decide aplicar los primeros pasos correctivos de la ventilación (MR. SOPA). ¿Cuáles son las dos primeras acciones que debe realizar?",
+    "hint": "Corresponde a las letras \"M\" y \"R\" de la nemotecnia MR. SOPA. Busque corregir las fallas técnicas más comunes de la interfaz máscara-rostro y la posición del cuello del neonato.",
+    "options": [
+      {
+        "text": "Ajuste de la máscara facial para asegurar un buen sello y reposicionamiento de la vía aérea en posición de olfateo.",
+        "isCorrect": true,
+        "explanation": "Los primeros dos pasos de la nemotecnia correctiva MR. SOPA son la M (Mascara: ajustar para asegurar un sello hermético sobre la cara del neonato) y la R (Reposicionar la vía aérea: colocar la cabeza en posición neutra o de \"olfateo\"). Tras realizarlos, se aplican 5 ventilaciones de prueba evaluando el movimiento del tórax."
+      },
+      {
+        "text": "Succión en la boca y la nariz, seguida de la apertura sutil de la boca del recién nacido con los dedos.",
+        "isCorrect": false,
+        "explanation": "Corresponde a los pasos S (Succión de boca y nariz) y O (Open mouth: abrir la boca), los cuales constituyen el segundo bloque correctivo si los pasos M y R no logran expandir el tórax del paciente."
+      },
+      {
+        "text": "Aumento de la presión de ventilación de forma gradual y colocación de un tubo endotraqueal de urgencia en la vía.",
+        "isCorrect": false,
+        "explanation": "Corresponde a los pasos finales P (Presión: incrementar de forma gradual hasta 30-40 cm H<sub>2</sub>O) y A (Vía aérea alternativa: intubación o máscara laríngea), indicados solo si los anteriores fallaron en lograr ventilación efectiva."
+      },
+      {
+        "text": "Retiro completo de la máscara para reevaluar la permeabilidad de la laringe con un laringoscopio de hoja recta.",
+        "isCorrect": false,
+        "explanation": "Retirar la máscara de forma completa interrumpe de manera brusca el ciclo de ventilación y no se condice con los pasos estructurados y lógicos de resolución de problemas establecidos en el algoritmo internacional."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Al continuar con el ciclo correctivo MR. SOPA en un neonato bradicárdico cuya vía aérea no ventila eficazmente tras ajustar la máscara y reposicionar la cabeza, usted se dispone a aplicar las acciones correspondientes a las letras \"S\" y \"O\". ¿En qué consiste exactamente este bloque correctivo intermedio?",
+    "hint": "Siga el orden lógico de las letras: \"S\" de succión (recuerde el orden clásico de cavidades: boca antes que nariz para evitar aspiración refleja) y \"O\" de Open mouth (boca abierta).",
+    "options": [
+      {
+        "text": "Colocar una sonda orogástrica de descompresión y administrar oxígeno de flujo libre con la boca cerrada herméticamente.",
+        "isCorrect": false,
+        "explanation": "El uso de sonda orogástrica se indica para descompresión gástrica tras ventilación prolongada con máscara, pero no forma parte del ciclo agudo de permeabilización de la vía aérea en el MR. SOPA."
+      },
+      {
+        "text": "Succionar la boca y luego la nariz utilizando una pera de goma o sonda de aspiración, y ventilar con la boca del recién nacido ligeramente abierta.",
+        "isCorrect": true,
+        "explanation": "La S corresponde a succionar la vía aérea (primero la boca y luego la nariz con pera de goma o sonda a presión negativa controlada de 80-100 mmHg) para remover secreciones. La O corresponde a Open (abrir la boca del neonato ligeramente y desplazar la mandíbula hacia adelante antes de reaplicar la máscara). Ambos buscan despejar la vía aérea obstructiva alta."
+      },
+      {
+        "text": "Instalar un tubo endotraqueal de calibre reducido y abrir la boca mediante tracción mandibular asimétrica forzada.",
+        "isCorrect": false,
+        "explanation": "La intubación es el paso \"A\" (vía alternativa) que se realiza al final de todo el ciclo correctivo si los pasos S y O (que son no invasivos) resultaron ineficaces para ventilar al paciente."
+      },
+      {
+        "text": "Solicitar la presencia de un cirujano infantil para traqueostomía y ocluir la fosa nasal izquierda de forma mecánica.",
+        "isCorrect": false,
+        "explanation": "La traqueostomía o intervenciones quirúrgicas de la laringe no constituyen el manejo estándar de obstrucción por secreciones y la oclusión nasal exacerba la resistencia ventilatoria."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted ha completado los pasos \"M\", \"R\", \"S\" y \"O\" de la nemotecnia correctiva MR. SOPA sin lograr que el tórax del recién nacido se expanda con la ventilación a presión positiva. Se dispone a realizar los pasos finales correspondientes a las letras \"P\" y \"A\" del algoritmo. ¿Cuál es la conducta correcta que debe adoptar?",
+    "hint": "Analice el significado de \"P\" (Presión: incrementar de forma segura) y \"A\" (Vía aérea alternativa: asegurar la permeabilidad traqueal de forma definitiva).",
+    "options": [
+      {
+        "text": "Prescribir adrenalina intravenosa directa y suspender de forma transitoria toda maniobra de ventilación activa.",
+        "isCorrect": false,
+        "explanation": "La adrenalina no tiene indicación sin antes haber establecido una vía aérea permeable con ventilación efectiva confirmada por expansión torácica simétrica, por lo que suspender la ventilación es letal."
+      },
+      {
+        "text": "Disminuir la presión de ventilación por riesgo de barotrauma y acoplar al paciente a un sistema de CPAP nasal de burbuja de urgencia.",
+        "isCorrect": false,
+        "explanation": "Disminuir la presión en un pulmón colapsado que no ventila perpetúa la hipoxia y el paro, y el CPAP requiere que el recién nacido presente un esfuerzo respiratorio espontáneo y regular del cual carece este paciente apneico."
+      },
+      {
+        "text": "Aplicar presión cricoidea sostenida (maniobra de Sellick) y administrar surfactante pulmonar a través de una sonda de alimentación.",
+        "isCorrect": false,
+        "explanation": "La presión cricoidea no está indicada de forma sistemática en el algoritmo de reanimación y el surfactante se administra de forma diferida en la UCIN, nunca en la fase aguda de obstrucción de vía aérea en sala de partos."
+      },
+      {
+        "text": "Aumentar la presión de ventilación en incrementos de 5 a 10 cm H<sub>2</sub>O hasta un máximo de 40 cm H<sub>2</sub>O, y si no hay expansión, colocar una vía aérea alternativa.",
+        "isCorrect": true,
+        "explanation": "El paso P del MR. SOPA estipula aumentar la presión de ventilación (PIP) en incrementos de 5 a 10 cm H<sub>2</sub>O (comenzando habitualmente en 20-25, subiendo hasta un máximo de 40 cm H<sub>2</sub>O en recién nacidos de término). El paso A consiste en establecer de inmediato una vía aérea alternativa (intubación endotraqueal o colocación de una máscara laríngea) ante el fracaso persistente de la máscara facial."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "¿Cuál es el indicador clínico y fisiológico más importante para determinar que la ventilación a presión positiva (VPP) está siendo efectiva y que se ha logrado reclutar el parénquima pulmonar durante la reanimación de un recién nacido?",
+    "hint": "En el recién nacido deprimido, el miocardio es altamente sensible a la hipoxia. La restauración de la oxigenación miocárdica mediante ventilación eficaz se manifiesta de forma casi instantánea en el nodo sinusal.",
+    "options": [
+      {
+        "text": "La aparición de llanto enérgico espontáneo y movimientos vigorosos de las cuatro extremidades.",
+        "isCorrect": false,
+        "explanation": "Aunque deseable, la aparición de llanto y movimientos motores voluntarios es un signo de recuperación neurológica secundaria que puede tardar en presentarse en pacientes moderadamente deprimidos."
+      },
+      {
+        "text": "La visualización de una coloración intensamente rosada en la región del tronco y mucosas centrales.",
+        "isCorrect": false,
+        "explanation": "La coloración rosada de la piel tarda varios minutos en establecerse y no refleja de forma fidedigna ni inmediata el éxito del reclutamiento pulmonar agudo en la cuna de procedimientos."
+      },
+      {
+        "text": "El aumento rápido y sostenido de la frecuencia cardíaca por encima de los 100 latidos por minuto.",
+        "isCorrect": true,
+        "explanation": "El indicador más importante de una ventilación exitosa y efectiva durante la reanimación neonatal es el aumento rápido de la frecuencia cardíaca. Si la FC aumenta por sobre 100 lpm, se confirma el éxito de la ventilación; si no sube, la ventilación se asume como ineficaz y obliga a reevaluar la técnica de inmediato."
+      },
+      {
+        "text": "El registro de un valor de saturación de oxígeno superior al 95% en la oximetría pre-ductal al primer minuto.",
+        "isCorrect": false,
+        "explanation": "La saturación de oxígeno fisiológica al primer minuto de vida oscila entre 60% y 65%. Exigir un valor superior al 95% a los 60 segundos es patológico y suele asociarse a hiperoxia iatrogénica peligrosa."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Durante un procedimiento de reanimación neonatal en el hospital, el interno coloca un sensor de oximetría de pulso para guiar la administration de oxígeno. Para obtener un registro clínicamente válido y útil (saturación de oxígeno pre-ductal), ¿en qué sitio anatómico del recién nacido se debe instalar de forma obligatoria el sensor?",
+    "hint": "La sangre que irriga el cerebro y el miocardio proviene de la aorta ascendente, antes del nacimiento del ductus arterioso. El sensor debe colocarse en el territorio arterial irrigado por vasos pre-ductales.",
+    "options": [
+      {
+        "text": "En la muñeca o la palma de la mano derecha del recién nacido.",
+        "isCorrect": true,
+        "explanation": "El sensor de oximetría de pulso debe colocarse en la extremidad superior derecha (muñeca o palma derecha) del recién nacido. Esta localización asegura la medición de la saturación pre-ductal de la sangre que irriga directamente el cerebro y el corazón, evitando la interferencia de la sangre desoxigenada que puede cortocircuitar a través del conducto arterioso (ductus) hacia el hemicuerpo inferior e izquierdo."
+      },
+      {
+        "text": "En la muñeca o la palma de la mano izquierda del recién nacido.",
+        "isCorrect": false,
+        "explanation": "La mano izquierda recibe un flujo sanguíneo de carácter post-ductal o transicional variable, por lo que su lectura puede subestimar significativamente la oxigenación que está recibiendo el miocardio del paciente."
+      },
+      {
+        "text": "En el lóbulo de la oreja izquierda o en la región nasal media del recién nacido.",
+        "isCorrect": false,
+        "explanation": "El lóbulo de la oreja o la nariz no son sitios estandarizados ni validados para la colocación de sensores de oximetría neonatal en la sala de partos durante la reanimación aguda."
+      },
+      {
+        "text": "En la región plantar o maleolar de cualquiera de los dos pies del recién nacido.",
+        "isCorrect": false,
+        "explanation": "Ambos pies reciben sangre que proviene de la aorta descendente después de la inserción del ductus arterioso, representando flujos netamente post-ductales que no reflejan la oxigenación cerebral real."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted controla la oximetría de pulso pre-ductal de un recién nacido de término sano que se encuentra en transición normal a los 5 minutos de vida. De acuerdo con la tabla de saturación de oxígeno objetivo del PRN (8ª Edición), ¿cuál es el rango de saturación fisiológico esperado para este tiempo específico de vida?",
+    "hint": "Recuerde que el ascenso de la saturación de oxígeno tras el nacimiento es un proceso paulatino. El recién nacido tarda aproximadamente 10 minutos en alcanzar una saturación de oxígeno similar a la del adulto (>90%).",
+    "options": [
+      {
+        "text": "Rango de saturación entre 60% y 65%.",
+        "isCorrect": false,
+        "explanation": "Un rango de 60-65% es el objetivo fisiológico estricto al primer minuto de vida; constatarlo a los 5 minutos indica hipoxia persistente que requiere evaluación o soporte de oxígeno."
+      },
+      {
+        "text": "Rango de saturación entre 90% y 95%.",
+        "isCorrect": false,
+        "explanation": "Un rango de 90-95% es la meta final que se alcanza habitualmente a partir de los 10 minutos de vida; forzar este valor a los 5 minutos mediante el uso de oxígeno suplementario alto induce hiperoxia."
+      },
+      {
+        "text": "Rango de saturación entre 80% y 85%.",
+        "isCorrect": true,
+        "explanation": "Las metas de saturación de oxígeno pre-ductal según el PRN son: 1 min: 60-65%; 2 min: 65-70%; 3 min: 70-75%; 4 min: 75-80%; 5 min: 80-85%; y 10 min: 85-95%. A los 5 minutos, el rango normal esperado para un neonato en transición fisiológica es de 80% a 85%."
+      },
+      {
+        "text": "Rango de saturación entre 70% y 75%.",
+        "isCorrect": false,
+        "explanation": "70-75% es el rango esperado entre el tercer y cuarto minuto de vida extrauterina, quedando por debajo de la meta de transición para los 5 minutos."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "A pesar de haber realizado una ventilación a presión positiva (VPP) efectiva con expansión torácica confirmada y vía aérea alternativa (intubación endotraqueal) por un período de 30 segundos utilizando oxígeno al 100%, usted constata mediante auscultación que la frecuencia cardíaca del recién nacido es de 48 latidos por minuto. ¿Cuál es el siguiente paso correcto en el algoritmo de reanimación?",
+    "hint": "Las compresiones cardíacas externas se indican únicamente cuando la frecuencia cardíaca es menor a 60 latidos por minuto a pesar de al menos 30 segundos de ventilación efectiva que expanda el tórax.",
+    "options": [
+      {
+        "text": "Continuar con la ventilación a presión positiva aislada por otros 2 minutos antes de reevaluar el pulso.",
+        "isCorrect": false,
+        "explanation": "Prolongar la VPP aislada sin iniciar compresiones en un paciente con frecuencia cardíaca menor a 60 lpm profundiza de forma crítica la isquemia miocárdica y cerebral, precipitando la asistolia."
+      },
+      {
+        "text": "Administrar un bolo rápido de solución fisiológica al 0,9% a razón de 20 mL/kg a través de una vía periférica.",
+        "isCorrect": false,
+        "explanation": "Los expansores de volumen se indican ante sospecha de shock hipovolémico o pérdida aguda de sangre que no responde a la ventilación y compresiones, no siendo la medida inmediata de inicio ante bradicardia extrema aislada."
+      },
+      {
+        "text": "Aplicar choque de desfibrilación monofásica externa a razón de 2 Joules/kg de peso estimado del paciente.",
+        "isCorrect": false,
+        "explanation": "La desfibrilación externa no forma parte del algoritmo de reanimación neonatal agudo para bradicardia hipóxica; el corazón neonatal claudica por hipoxia y responde a la ventilación y masaje, no a choques eléctricos."
+      },
+      {
+        "text": "Iniciar de forma inmediata compresiones torácicas coordinadas con la ventilación a presión positiva con oxígeno al 100%.",
+        "isCorrect": true,
+        "explanation": "Ante una frecuencia cardíaca menor a 60 latidos por minuto que persiste tras al menos 30 segundos de ventilación a presión positiva efectiva que logre expandir el tórax (idealmente habiendo asegurado la vía aérea con tubo endotraqueal), se debe iniciar el masaje cardíaco. Las compresiones deben coordinarse con la ventilación en una relación 3:1, incrementando el oxígeno de la mezcla al 100%."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted se dispone a iniciar el masaje cardíaco en un recién nacido de término con bradicardia severa refractaria. De acuerdo con las guías del PRN actual, ¿cuál es la técnica de elección recomendada para realizar las compresiones torácicas y dónde se deben posicionar los dedos del reanimador?",
+    "hint": "Busque la técnica que genera mejores presiones de perfusión coronaria y cerebral, minimizando el cansancio del reanimador. El sitio de presión debe resguardar la integridad del apéndice xifoides.",
+    "options": [
+      {
+        "text": "Técnica de los dos dedos (índice y medio); se posicionan verticalmente en el centro exacto del manubrio esternal del recién nacido.",
+        "isCorrect": false,
+        "explanation": "La técnica de los dos dedos (índice y medio) es una alternativa útil únicamente si se carece de espacio (por ejemplo, al colocar un catéter umbilical), pero genera menor fuerza de compresión y fatiga más rápido al operador."
+      },
+      {
+        "text": "Técnica de compresión con la palma de la mano; se posiciona el talón de la mano derecha en la región cardíaca izquierda del tórax.",
+        "isCorrect": false,
+        "explanation": "La técnica con el talón de una sola mano es de uso exclusivo en lactantes mayores y niños (reanimación pediátrica), estando proscrita en neonatología debido al riesgo de fracturas costales y trauma cardíaco."
+      },
+      {
+        "text": "Técnica de los dos pulgares; se posicionan ambos pulgares en el tercio inferior del esternón, justo por debajo de una línea imaginaria intermamilar.",
+        "isCorrect": true,
+        "explanation": "La técnica de los dos pulgares es la de elección en RCP neonatal debido a que genera mayor presión de perfusión coronaria y cerebral de manera sostenida. Los pulgares se colocan sobre el tercio inferior del esternón (justo por debajo de la línea intermamilar, evitando presionar sobre la apófisis xifoides para prevenir la rotura hepática) y los dedos restantes rodean el tórax del paciente para dar soporte a la columna."
+      },
+      {
+        "text": "Técnica de los dos pulgares; se posicionan ambos pulgares sobre la región del apófisis xifoides para forzar el vaciamiento del ventrículo.",
+        "isCorrect": false,
+        "explanation": "Presionar directamente sobre la apófisis xifoides está contraindicado debido al riesgo crítico de fractura ósea y laceración traumática del lóbulo izquierdo del hígado, lo que puede causar hemoperitoneo masivo letal."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Durante el ciclo de reanimación cardiopulmonar neonatal que incluye compresiones torácicas y ventilación coordinada, ¿cuál es la relación de eventos (compresión-ventilación) que se debe mantener y cuál es el número total de eventos por minuto que se deben programar?",
+    "hint": "El ritmo de reanimación neonatal busca priorizar la oxigenación debido a que la causa primaria de la parada cardíaca neonatal es respiratoria (hipoxia), manteniendo una coordinación estricta sin compresiones simultáneas con la insuflación.",
+    "options": [
+      {
+        "text": "Relación de 3 compresiones por 1 ventilación, completando un total de 90 compresiones y 30 ventilaciones (120 eventos en total) por minuto.",
+        "isCorrect": true,
+        "explanation": "En la reanimación neonatal, el ciclo de compresión-ventilación es de 3:1. En un minuto se deben realizar 90 compresiones y 30 ventilaciones (completando 120 eventos por minuto), utilizando el ritmo guiado: \"Y-uno-y-dos-y-tres-y-ventila-y-uno...\". Las compresiones se suspenden momentáneamente durante la ventilación para evitar barotrauma y asegurar el volumen corriente."
+      },
+      {
+        "text": "Relación de 30 compresiones por 2 ventilaciones, completando un total de 90 compresiones y 6 ventilaciones (96 eventos en total) por minuto.",
+        "isCorrect": false,
+        "explanation": "La relación 30:2 se reserva para la reanimación de adultos o en pediatría con un solo reanimador, lo cual no aporta la frecuencia ventilatoria necesaria para reclutar los alvéolos del recién nacido apneico."
+      },
+      {
+        "text": "Relación de 15 compresiones por 2 ventilaciones, completando un total de 100 compresiones y 15 ventilaciones (115 eventos en total) por minuto.",
+        "isCorrect": false,
+        "explanation": "La relación 15:2 se utiliza en reanimación pediátrica (fuera de la sala de partos) por dos reanimadores en lactantes y niños, pero no es la recomendada para el período neonatal inmediato en pabellón."
+      },
+      {
+        "text": "Relación de 5 compresiones por 1 ventilación, completando un total de 100 compresiones y 20 ventilaciones (120 eventos en total) por minuto.",
+        "isCorrect": false,
+        "explanation": "Una relación de 5:1 no forma parte de los consensos internacionales de reanimación cardiopulmonar de la AHA o de la AAP para ninguna cohorte de edad en la actualidad."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted se encuentra realizando compresiones torácicas coordinadas con ventilación a presión positiva (VPP) en un recién nacido de término bradicárdico. Al iniciar las compresiones, ¿cuál es la conducta correcta respecto a la concentración de oxígeno suplementario que debe administrar a través del mezclador (blender)?",
+    "hint": "Al llegar a la etapa de masaje cardíaco, el neonato se encuentra en un estado de hipoxia tisular extrema. Se requiere maximizar la entrega de oxígeno al miocardio para restablecer la contractilidad sin dilación.",
+    "options": [
+      {
+        "text": "Mantener la concentración de oxígeno en un rango intermedio del 40% al 50%, titulando según el llene capilar.",
+        "isCorrect": false,
+        "explanation": "Los rangos intermedios no están indicados durante las compresiones cardíacas neonatales debido a que la prioridad inmediata es rescatar la función contráctil miocárdica mediante el máximo aporte de oxígeno sistémico."
+      },
+      {
+        "text": "Ajustar el mezclador para administrar de forma perentoria e inmediata una concentración de oxígeno al 100%.",
+        "isCorrect": true,
+        "explanation": "El PRN estipula que al momento de iniciar las compresiones torácicas, la concentración de oxígeno administrada por la ventilación debe aumentarse de inmediato al 100% (FiO<sub>2</sub> = 1.0). Esto se debe a que el neonato se encuentra bajo una severa claudicación miocárdica por hipoxia y requiere la máxima concentración disponible para optimizar el transporte de oxígeno a los tejidos vitales. Cuando el corazón se recupere (>60 lpm), el oxígeno se titulará a la baja guiado por oximetría."
+      },
+      {
+        "text": "Suspender por completo el flujo de oxígeno suplementario y ventilar con aire ambiental puro para forzar el estímulo respiratorio.",
+        "isCorrect": false,
+        "explanation": "Suspender el oxígeno suplementario durante una parada cardíaca respiratoria es incompatible con la supervivencia del paciente y acelera la asistolia de forma irreversible."
+      },
+      {
+        "text": "Mantener la concentración de oxígeno al 21% para proteger al miocardio del estrés oxidativo agudo por perfusión.",
+        "isCorrect": false,
+        "explanation": "Mantener un aporte de oxígeno al 21% en fase de masaje cardíaco es insuficiente para revertir la hipoxia miocárdica crítica que sostiene la bradicardia menor a 60 lpm."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "¿En cuál de los siguientes escenarios clínicos que se pueden presentar en la sala de partos está indicada la intubación endotraqueal inmediata como primer paso de manejo, antes de intentar cualquier ventilación con máscara facial?",
+    "hint": "En ciertas malformaciones congénitas, la insuflación con máscara y bolsa introduce aire al tubo digestivo, comprimiendo los pulmones hipoplásicos y provocando un colapso respiratorio agudo irreversible.",
+    "options": [
+      {
+        "text": "Recién nacido prematuro de 34 semanas con quejido respiratorio audible y retracción xifoidea discreta.",
+        "isCorrect": false,
+        "explanation": "Un prematuro de 34 semanas con distrés respiratorio leve (Silverman-Andersen bajo) se beneficia del uso de CPAP nasal en la sala de transición para reclutar alvéolos, no requiriendo intubación invasiva inmediata."
+      },
+      {
+        "text": "Recién nacido con diagnóstico prenatal de hernia diafragmática congénita que presenta dificultad respiratoria al nacer.",
+        "isCorrect": true,
+        "explanation": "La presencia de una hernia diafragmática congénita es una indicación absoluta de intubación endotraqueal inmediata al nacer si el paciente requiere soporte respiratorio. Se debe evitar estrictamente la ventilación con bolsa y máscara facial, ya que esta introduce aire al estómago y las asas intestinales herniadas en el tórax, comprimiendo el pulmón contralateral y desplazando de forma letal el mediastino."
+      },
+      {
+        "text": "Recién nacido de término por cesárea que presenta un APGAR de 6 al primer minuto con acrocianosis distal.",
+        "isCorrect": false,
+        "explanation": "Un APGAR de 6 al primer minuto con acrocianosis es un cuadro común de transición transitoria que responde a los pasos iniciales y abrigo, sin indicación alguna de invasión de la vía aérea."
+      },
+      {
+        "text": "Recién nacido de 39 semanas con líquido amniótico meconial espeso que nace vigoroso y llorando.",
+        "isCorrect": false,
+        "explanation": "Un neonato vigoroso con meconio no requiere intubación ni succión traqueal; debe permanecer en contacto piel con piel con su madre recibiendo los cuidados de rutina."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted se dispone a realizar una intubación endotraqueal de urgencia en un recién nacido de 26 semanas de gestación que pesa aproximadamente 800 gramos en la cuna de procedimientos. De acuerdo con las pautas de reanimación neonatal, ¿cuál es el diámetro interno (calibre) del tubo endotraqueal adecuado para este paciente?",
+    "hint": "El tamaño del tubo endotraqueal se selecciona en base al peso de nacimiento y la edad gestacional del neonato. Los recién nacidos prematuros extremos tienen una laringe y tráquea estrechas que se dañan con tubos gruesos. Los tubos neonatales no usan balón para evitar la estenosis subglótica.",
+    "options": [
+      {
+        "text": "Tubo endotraqueal de diámetro interno de 4,0 mm, con balón (con manguito).",
+        "isCorrect": false,
+        "explanation": "El calibre de 4,0 mm es de uso en lactantes mayores de más de 1 año y cuenta habitualmente con manguito, estando absolutamente proscrito su uso en la sala de partos para la reanimación del recién nacido."
+      },
+      {
+        "text": "Tubo endotraqueal de diámetro interno de 3,5 mm, con balón (con manguito).",
+        "isCorrect": false,
+        "explanation": "Un tubo de 3,5 mm es excesivamente grueso y está reservado exclusivamente para recién nacidos de término que pesan más de 3.000 gramos, siendo imposible de pasar a través de las cuerdas vocales de un prematuro de 800 gramos sin causar un trauma severo de la vía aérea."
+      },
+      {
+        "text": "Tubo endotraqueal de diámetro interno de 3,0 mm, sin balón (sin manguito).",
+        "isCorrect": false,
+        "explanation": "El diámetro de 3,0 mm es el indicado para neonatos que pesan entre 1.000 y 2.000 gramos o que tienen entre 28 y 34 semanas de edad gestacional, quedando grande para un prematuro extremo de 26 semanas."
+      },
+      {
+        "text": "Tubo endotraqueal de diámetro interno de 2,5 mm, sin balón (sin manguito).",
+        "isCorrect": true,
+        "explanation": "Para recién nacidos con un peso menor a 1.000 gramos o menores de 28 semanas de gestación, el diámetro interno recomendado del tubo endotraqueal es de 2,5 mm. Estos tubos son de pared lisa y sin balón (sin manguito) debido a que la mucosa subglótica neonatal es extremadamente susceptible a la isquemia por presión, lo cual provocaría estenosis laríngea cicatrizal posterior."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Se asiste el nacimiento de un recién nacido de 35 semanas de gestación que presenta dificultad respiratoria grave y bradicardia menor a 100 lpm refractaria a VPP con máscara. El interno de pediatría intenta intubar al paciente en tres ocasiones consecutivas sin lograr visualizar la glotis por anatomía difícil del paciente. ¿Cuál es el dispositivo de vía aérea alternativo que está indicado colocar de forma inmediata en este escenario?",
+    "hint": "En situaciones de \"no puedo intubar, no puedo ventilar\" en recién nacidos de más de 34 semanas o de más de 1.500 gramos, la máscara laríngea es el dispositivo de rescate ideal.",
+    "options": [
+      {
+        "text": "Un catéter percutáneo de cricotiroidotomía por punción percutánea directa.",
+        "isCorrect": false,
+        "explanation": "La cricotiroidotomía por punción es un procedimiento invasivo extremo de muy difícil ejecución técnica en neonatología que asocia una altísima tasa de complicaciones graves, prefiriéndose el uso de la máscara laríngea."
+      },
+      {
+        "text": "Una máscara laríngea de tamaño 1 colocada en la cuna de procedimientos.",
+        "isCorrect": true,
+        "explanation": "La máscara laríngea (dispositivo supraglótico de rescate) de tamaño 1 está indicada en situaciones de intubación fallida o anatomía difícil de la vía aérea en recién nacidos con un peso igual o mayor a 1.500 gramos o de más de 34 semanas de gestación. Su colocación es rápida, no requiere la visualización de las cuerdas vocales con laringoscopio y permite una ventilación efectiva de salvataje."
+      },
+      {
+        "text": "Una sonda nasofaríngea fenestrada de silicona conectada a un flujo continuo de helio.",
+        "isCorrect": false,
+        "explanation": "La sonda nasofaríngea y la mezcla de gases con helio (Heliox) no forman parte del algoritmo agudo de reanimación ni resuelven el escenario crítico de intubación fallida en sala de partos."
+      },
+      {
+        "text": "Una cánula mayo orofaríngea rígida acoplada a un sistema de ventilación de alta frecuencia.",
+        "isCorrect": false,
+        "explanation": "La cánula de Mayo solo evita que la lengua obstruya la faringe, pero no asegura la vía aérea ni permite la ventilación a presión positiva efectiva en un paciente con intubación fallida y bradicardia severa persistente."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Durante un procedimiento de reanimación cardiopulmonar neonatal que se prolonga en el pabellón, usted ha completado un ciclo de 60 segundos de compresiones torácicas coordinadas con ventilación a presión positiva efectiva al 100% a través de un tubo endotraqueal correctamente posicionado. Al detener momentáneamente las maniobras para auscultar, constata que la frecuencia cardíaca persiste en 45 latidos por minuto. ¿Cuál es la indicación de primera línea a seguir?",
+    "hint": "La persistencia de una frecuencia cardíaca menor a 60 lpm tras al menos 60 segundos de compresiones efectivas coordinadas con VPP con oxígeno al 100% es la indicación de oro para el uso de adrenalina.",
+    "options": [
+      {
+        "text": "Administrar la primera dosis de adrenalina por vía intravenosa a través de un catéter venoso umbilical.",
+        "isCorrect": true,
+        "explanation": "La indicación estricta para administrar adrenalina es una frecuencia cardíaca menor a 60 latidos por minuto que persiste tras al menos 60 segundos de compresiones torácicas de alta calidad coordinadas con ventilación efectiva con oxígeno al 100%. La vía de elección preferencial para su administración es la intravenosa (a través de un catéter venoso umbilical de inserción rápida)."
+      },
+      {
+        "text": "Administrar un bolo endovenoso rápido de Bicarbonato de Sodio al 8,4% para corregir la acidosis láctica.",
+        "isCorrect": false,
+        "explanation": "El bicarbonato de sodio no se recomienda de forma rutinaria en la fase de bradicardia aguda persistente debido a que empeora la acidosis intracelular por acumulación de CO<sub>2</sub> si la ventilación no es óptima."
+      },
+      {
+        "text": "Suspender de forma definitiva todo tipo de maniobras de reanimación activa por futilidad terapéutica.",
+        "isCorrect": false,
+        "explanation": "La suspensión de la reanimación por futilidad se considera únicamente si no hay latido cardíaco detectable tras un tiempo de 20 minutos de maniobras óptimas, no estando indicada la detención en esta fase inicial de soporte farmacológico."
+      },
+      {
+        "text": "Retirar el tubo endotraqueal por sospecha de obstrucción mecánica e iniciar ventilación con máscara facial.",
+        "isCorrect": false,
+        "explanation": "Si el tubo endotraqueal está correctamente posicionado y ventila (se constata entrada simétrica de aire y expansión), retirarlo de forma rutinaria interrumpe la oxigenación miocárdica crítica que sostiene el pulso del paciente."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Se dispone a preparar la primera dosis de adrenalina para ser administrada por vía intravenosa de urgencia a un recién nacido de término que pesa 3,0 kg. De acuerdo con el PRN (8ª Edición), ¿cuál es la dilución requerida de adrenalina, la dosis intravenosa exacta y la velocidad recomendada de administración?",
+    "hint": "En neonatología se utiliza exclusivamente la dilución de adrenalina al 1:10.000 (0,1 mg/mL). La dosis recomendada por vía intravenosa/intraósea es de 0,01 a 0,03 mg/kg, lo que equivale en volumen a 0,1 a 0,3 mL/kg de la solución diluida.",
+    "options": [
+      {
+        "text": "Dilución 1:1.000 (1,0 mg/mL); administrar entre 0,3 y 0,9 mL de forma intravenosa rápida seguida de un lavado con suero fisiológico.",
+        "isCorrect": false,
+        "explanation": "La dilución 1:1.000 (ampolla directa sin diluir) está contraindicada por vía endovenosa debido al riesgo extremo de provocar arritmias letales, crisis hipertensivas con hemorragia cerebral masiva y vasoespasmo coronario."
+      },
+      {
+        "text": "Dilución 1:1.000 (1,0 mg/mL); administrar entre 0,05 y 0,1 mL de forma intravenosa rápida mediante una jeringa de tuberculina fina.",
+        "isCorrect": false,
+        "explanation": "Combina erróneamente el uso de la ampolla directa al 1:1.000 con un rango de volumen muy bajo que no asegura la entrega del fármaco a los receptores cardíacos sin un vehículo de lavado."
+      },
+      {
+        "text": "Dilución 1:10.000 (0,1 mg/mL); administrar entre 0,1 y 0,3 mL de forma intravenosa rápida seguida de un lavado con suero fisiológico.",
+        "isCorrect": true,
+        "explanation": "Para la reanimación neonatal se debe emplear únicamente la dilución de adrenalina al 1:10.000 (0,1 mg/mL). La dosis recomendada para administración intravenosa o intraósea es de 0,1 a 0,3 mL/kg de esta solución (equivalente a 0,01-0,03 mg/kg). Para un recién nacido de 3,0 kg, la dosis en volumen oscila entre 0,3 y 0,9 mL (o 0,1 a 0,3 mL de forma genérica para la tasa por kg, siendo la dosis total exacta de 0,3-0,9 mL para este peso, pero respetando la tasa de volumen descrita de 0,1 a 0,3 mL por kilogramo de peso del paciente). Debe administrarse de forma rápida y seguirse de un bolo de suero fisiológico para asegurar su llegada a la circulación central."
+      },
+      {
+        "text": "Dilución 1:10.000 (0,1 mg/mL); administrar entre 1,5 y 3,0 mL de forma intravenosa lenta a pasar en un período de 10 minutos continuos.",
+        "isCorrect": false,
+        "explanation": "La adrenalina en reanimación cardiopulmonar por bradicardia extrema o asistolia se administra siempre en bolo rápido; una infusión lenta a pasar en 10 minutos dilata de forma letal el tiempo de isquemia miocárdica."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Para la administración de adrenalina y expansores de volumen en la sala de partos de un hospital de la red chilena de salud, se requiere establecer un acceso vascular de urgencia con la máxima celeridad. ¿Cuál es el procedimiento de elección recomendado por la lex artis para lograr este objetivo en menos de un minuto?",
+    "hint": "En un recién nacido con colapso hemodinámico bradicárdico, los vasos periféricos están colapsados. El cordón umbilical ofrece una vena de gran calibre, fácilmente accesible y permeable de forma inmediata.",
+    "options": [
+      {
+        "text": "Canalización percutánea guiada por ecografía de la vena yugular interna en la región cervical.",
+        "isCorrect": false,
+        "explanation": "La canalización percutánea ecoguida de la vena yugular interna requiere equipamiento especializado y tiempo de preparación que excede con creces la urgencia de asegurar un acceso en fase de RCP neonatal avanzada."
+      },
+      {
+        "text": "Disección quirúrgica directa de la arteria radial derecha a nivel de la muñeca del paciente.",
+        "isCorrect": false,
+        "explanation": "La disección arterial radial es un procedimiento invasivo lento, técnicamente complejo, reservado para monitorización invasiva en la UCI neonatal, no teniendo indicación en la fase de reanimación cardiopulmonar de urgencia."
+      },
+      {
+        "text": "Punación venosa periférica mediante teflón en la vena del dorso de la mano izquierda del neonato.",
+        "isCorrect": false,
+        "explanation": "Intentar canalizar una vena periférica en un neonato en shock o parada cardíaca es sumamente difícil debido a la intensa vasoconstricción periférica, lo que retrasa de forma peligrosa la administración de los fármacos."
+      },
+      {
+        "text": "Cateterismo venoso umbilical de emergencia utilizando una técnica de inserción parcial rápida.",
+        "isCorrect": true,
+        "explanation": "El acceso vascular de elección en la reanimación neonatal de urgencia es el cateterismo de la vena umbilical. Se introduce un catéter venoso umbilical (calibre 3,5 Fr o 5 Fr) solo la distancia suficiente (habitualmente de 2 a 4 cm, justo hasta que se observe retorno libre de sangre) para evitar infundir soluciones hipertónicas de forma directa en el parénquima hepático. Esto permite disponer de una vía central segura en menos de un minuto."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted asiste el parto de una gestante que sufrió un desprendimiento de placenta normoinserta con hemorragia masiva en el trayecto al hospital. Al nacer, el neonato se encuentra con palidez extrema, llene capilar mayor a 4 segundos, pulsos débiles y bradicardia persistente menor a 80 lpm que no responde a VPP adecuada ni a masaje cardíaco. ¿Cuál es el expansor de volumen indicado de primera elección y su respectivo esquema de administración?",
+    "hint": "Ante shock hipovolémico documentado por historia de pérdida de sangre, se requiere expandir la volemia de forma controlada y segura utilizando soluciones isotónicas puras para evitar la insuficiencia de bomba cardíaca transitoria.",
+    "options": [
+      {
+        "text": "Solución de albúmina humana al 5% o plasma fresco congelado, en dosis de 20 mL/kg por vía intravenosa rápida a pasar en 1 minuto.",
+        "isCorrect": false,
+        "explanation": "La albúmina al 5% ya no se recomienda debido a que asocia mayor mortalidad y daño pulmonar por fuga capilar, y el plasma fresco congelado se reserva para el manejo de coagulopatías en la UCI, no para expansión rápida."
+      },
+      {
+        "text": "Solución salina normal (Suero Fisiológico al 0,9%) o sangre O-negativa, en dosis de 10 mL/kg por vía intravenosa umbilical a pasar en 5 a 10 minutos.",
+        "isCorrect": true,
+        "explanation": "Para la expansión de volumen en recién nacidos con shock hipovolémico o pérdida de sangre aguda que no responde a la reanimación convencional, el fluido de primera línea es el Suero Fisiológico al 0,9% (cristaloide isotónico) o sangre tipo O-negativa si la hemorragia fetal masiva está confirmada. La dosis recomendada es de 10 mL/kg de peso por vía intravenosa (catéter venoso umbilical) administrada de forma controlada en un período de 5 a 10 minutos."
+      },
+      {
+        "text": "Solución de almidón sintético o coloides de alto peso molecular, en dosis de 15 mL/kg por vía intramuscular profunda de urgencia.",
+        "isCorrect": false,
+        "explanation": "Los coloides de alto peso molecular (almidones) asocian disfunción renal en pediatría, y la vía intramuscular está estrictamente contraindicada para la expansión de volumen debido a la nula absorción en contexto de shock."
+      },
+      {
+        "text": "Suero Glucosado al 10% enriquecido con calcio, en dosis de 5 mL/kg por vía intraósea a pasar en 30 minutos continuos.",
+        "isCorrect": false,
+        "explanation": "El suero glucosado al 10% no tiene propiedades de expansión de volumen intravascular y su infusión rápida provoca hiperglicemia severa y diuresis osmótica secundaria, agravando de forma grave la deshidratación del paciente."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Durante la reanimación avanzada con ventilación a presión positiva efectiva mediante tubo endotraqueal en un recién nacido de término, el reanimador constata un colapso hemodinámico brusco. Al examen físico se aprecia disminución unilateral de los ruidos respiratorios en el hemitórax izquierdo con desviación del choque de la punta hacia la derecha, y distensión de la pared torácica ipsilateral. ¿Cuál es el diagnóstico más probable de esta complicación aguda?",
+    "hint": "La tríada clásica de colapso hemodinámico abrupto, abolición de ruidos respiratorios unilaterales y asimetría del tórax con desviación de los latidos cardíacos es patognomónica de la acumulación de aire a presión en el espacio pleural.",
+    "options": [
+      {
+        "text": "Neumotórax a tensión izquierdo secundario a barotrauma por ventilación a alta presión.",
+        "isCorrect": true,
+        "explanation": "El neumotórax a tensión es una complicación grave de la reanimación con VPP, especialmente ante presiones de ventilación elevadas. Se caracteriza por la entrada de aire al espacio pleural que colapsa el pulmón afectado (izquierdo), desplaza el mediastino y los vasos sanguíneos hacia el lado contralateral (derecho), lo que reduce críticamente el retorno venoso al corazón y provoca shock obstructivo agudo. El tratamiento requiere punción por aspiración con aguja de urgencia."
+      },
+      {
+        "text": "Intubación selectiva del bronquio principal derecho por deslizamiento profundo del tubo.",
+        "isCorrect": false,
+        "explanation": "La intubación selectiva del bronquio derecho (muy común por la anatomía bronquial) disminuye los ruidos en el pulmón izquierdo, pero no cursa con shock hemodinámico abrupto, distensión de la pared del tórax izquierdo ni desviación marcada del latido cardíaco."
+      },
+      {
+        "text": "Hernia diafragmática congénita con incarceración aguda de asas de intestino delgado.",
+        "isCorrect": false,
+        "explanation": "Aunque la hernia diafragmática comparte signos de asimetría y desplazamiento, el colapso hemodinámico brusco de un paciente que venía ventilando adecuadamente con tubo endotraqueal orienta a un escape aéreo agudo por barotrauma."
+      },
+      {
+        "text": "Hemorragia pulmonar masiva secundaria a coagulopatía de consumo neonatal precoz.",
+        "isCorrect": false,
+        "explanation": "La hemorragia pulmonar masiva se presentaría de forma característica con la salida de sangre fluida de color rojo brillante por el interior del tubo endotraqueal y no cursa con abolición unilateral de ruidos sin secreciones."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "De acuerdo con las guías actuales del PRN (8ª Edición), ¿en qué momento se debe considerar de forma seria la redirección del esfuerzo terapéutico o la suspensión definitiva de las maniobras de reanimación cardiopulmonar en un recién nacido con asistolia persistente en la sala de partos?",
+    "hint": "En las ediciones anteriores el límite temporal para considerar la futilidad terapéutica era de 10 minutos, pero la evidencia reciente de sobrevida libre de secuelas neurológicas severas justificó extender este período de maniobras efectivas.",
+    "options": [
+      {
+        "text": "Si no se detecta frecuencia cardíaca (asistolia confirmada) tras 5 minutos de maniobras de reanimación óptimas y continuas.",
+        "isCorrect": false,
+        "explanation": "5 minutos es un período excesivamente corto que no permite completar de forma adecuada los pasos básicos e intermedios del algoritmo, menos aún la colocación de un acceso umbilical y la administración de drogas efectivas."
+      },
+      {
+        "text": "Si no se detecta frecuencia cardíaca (asistolia confirmada) tras 10 minutos de maniobras de reanimación óptimas y continuas.",
+        "isCorrect": false,
+        "explanation": "10 minutos era el límite de tiempo recomendado por las guías previas (7ª Edición), pero fue modificado debido a evidencia de mejores resultados de sobrevida con secuelas neurológicas aceptables en casos seleccionados reanimados por más tiempo."
+      },
+      {
+        "text": "Si no se detecta frecuencia cardíaca (asistolia confirmada) tras 20 minutos de maniobras de reanimación óptimas y continuas.",
+        "isCorrect": true,
+        "explanation": "El PRN 8ª Edición establece que si el latido cardíaco del recién nacido permanece indetectable (asistolia) después de 20 minutos de maniobras de reanimación neonatal completas, continuas y óptimas (asegurando ventilación efectiva, compresiones de alta calidad y soporte de adrenalina), es razonable considerar la detención de las maniobras por futilidad, discutiendo la decisión con el equipo y la familia."
+      },
+      {
+        "text": "Si no se detecta frecuencia cardíaca (asistolia confirmada) tras 45 minutos de maniobras de reanimación óptimas y continuas.",
+        "isCorrect": false,
+        "explanation": "Prolongar la reanimación en asistolia confirmada por 45 minutos asocia una probabilidad de sobrevida menor al 1% y se correlaciona de forma casi absoluta con daño neurológico isquémico masivo irreversible en los sobrevivientes."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted asiste el parto de término de una gestante cuyo líquido amniótico presenta meconio de consistencia espesa (\"en puré de arvejas\"). Tan pronto se produce la salida del neonato por el canal vaginal, se constata que este se encuentra flácido, apneico y deprimido (no vigoroso). De acuerdo con las pautas de reanimación vigentes, ¿cuál es la conducta correcta que debe adoptar de forma inmediata?",
+    "hint": "El manejo del meconio en recién nacidos no vigorosos cambió sustancialmente. La evidencia demuestra que retrasar la ventilación para realizar intubación y succión traqueal rutinaria no previene el SAM y empeora la hipoxia.",
+    "options": [
+      {
+        "text": "Realizar un laringoscopio directo en el canal de parto e intubar la tráquea para succionar el meconio con una sonda de aspiración antes de que respire.",
+        "isCorrect": false,
+        "explanation": "La intubación y succión traqueal sistemática previa a la ventilación en el neonato no vigoroso es una práctica desaconsejada por la evidencia debido a que retrasa el inicio de la ventilación efectiva y puede causar daño laringotraqueal directo."
+      },
+      {
+        "text": "Realizar un lavado gástrico con solución fisiológica fría de forma inmediata para eliminar el meconio deglutido.",
+        "isCorrect": false,
+        "explanation": "El lavado gástrico no tiene ninguna cabida en el algoritmo agudo de reanimación ni permeabiliza la vía aérea ni trata la aspiración de meconio en el alvéolo pulmonar."
+      },
+      {
+        "text": "Administrar surfactante pulmonar de urgencia a través de la vía venosa umbilical para disolver las partículas de meconio.",
+        "isCorrect": false,
+        "explanation": "El surfactante pulmonar es un lípido y no se puede administrar por vía intravenosa, ya que provocaría embolía grasa pulmonar masiva letal instantánea en el recién nacido."
+      },
+      {
+        "text": "Trasladar de inmediato al paciente bajo calor radiante para iniciar la ventilación a presión positiva (VPP) con máscara facial si persiste apneico.",
+        "isCorrect": true,
+        "explanation": "Para recién nacidos no vigorosos expuestos a líquido amniótico meconial, la norma actual del PRN dictamina no realizar de forma rutinaria la intubación y aspiración traqueal. El neonato debe colocarse bajo calor radiante, realizar los pasos iniciales y, si persiste apneico o bradicárdico, iniciar ventilación a presión positiva (VPP) precoz con máscara dentro de los primeros 60 segundos para revertir la hipoxia."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Durante la reanimación neonatal, se busca evitar la exposición de los tejidos sensibles a la toxicidad celular por especies reactivas de oxígeno. ¿Cuál de las siguientes es una consecuencia fisiopatológica directa de la hiperoxia transitoria (uso indiscriminado de oxígeno al 100%) en el recién nacido prematuro?",
+    "hint": "El oxígeno es un potente regulador del tono vascular. La hiperoxia en prematuros daña el endotelio de vasos inmaduros del ojo y pulmón por fenómenos de vasoconstricción y posterior neovascularización aberrante.",
+    "options": [
+      {
+        "text": "Cierre prematuro y brusco de las suturas craneales con desarrollo de craneosinostosis en el primer mes de vida.",
+        "isCorrect": false,
+        "explanation": "El cierre de las suturas craneales (craneosinostosis) es un defecto del desarrollo óseo craneofacial o genético independiente de los niveles de saturación transitoria de oxígeno en sala de partos."
+      },
+      {
+        "text": "Vasoespasmo de los vasos retinianos con isquemia secundaria, que promueve el desarrollo de retinopatía del prematuro (ROP) severa.",
+        "isCorrect": true,
+        "explanation": "La hiperoxia transitoria o sostenida en prematuros inmaduros genera radicales libres de oxígeno que provocan vasoconstricción severa de los vasos de la retina en desarrollo. Esta isquemia induce la secreción excesiva de factores de crecimiento vascular endotelial (VEGF) al volver a la normoxia, gatillando una neovascularización aberrante que define la retinopatía del prematuro (ROP), con riesgo de desprendimiento de retina y ceguera."
+      },
+      {
+        "text": "Rotura traumática de las fibras del músculo cardíaco con desarrollo de estenosis aórtica subvalvular transitoria.",
+        "isCorrect": false,
+        "explanation": "La estenosis aórtica es una malformación estructural cardíaca congénita del tracto de salida ventricular izquierdo que se origina en las primeras semanas del desarrollo embrionario del corazón."
+      },
+      {
+        "text": "Hipertrofia de las glándulas suprarrenales con sobreproducción sistémica de andrógenos y virilización genital precoz.",
+        "isCorrect": false,
+        "explanation": "La hiperoxia no tiene acción sobre la corteza adrenal ni promueve la virilización de los genitales, cuadro que es de causa endocrino-genética (hiperplasia suprarrenal congénita)."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Se planifica el parto por cesárea electiva de un prematuro extremo de 26 semanas de gestación por preeclampsia severa materna. Para asegurar una termorregulación óptima y evitar el enfriamiento en el pabellón de reanimación, ¿cuál es el rango de temperatura ambiente recomendado para la sala de partos y cuál es la meta de temperatura corporal que se debe mantener en el recién nacido?",
+    "hint": "La sala de atención del recién nacido prematuro debe estar precalentada de forma confortable. La meta de temperatura axilar corporal neonatal normal de la OMS es idéntica para prematuros y recién nacidos de término.",
+    "options": [
+      {
+        "text": "Temperatura de la sala entre 23°C y 25°C, con una meta de temperatura corporal en el prematuro de 36,5°C a 37,5°C.",
+        "isCorrect": true,
+        "explanation": "El PRN y la OMS estipulan que para la atención de prematuros extremos, la temperatura de la sala de partos debe precalentarse entre 23°C y 25°C. La meta de temperatura corporal axilar que se debe lograr mantener de forma estable en el neonato durante y después de la reanimación es de 36,5°C a 37,5°C para minimizar el metabolismo basal de consumo."
+      },
+      {
+        "text": "Temperatura de la sala entre 18°C y 20°C, con una meta de temperatura corporal en el prematuro de 35,0°C a 36,0°C.",
+        "isCorrect": false,
+        "explanation": "Una sala a 18-20°C enfriará rápidamente al prematuro extremo por convección y radiación, induciendo hipotermia moderada que asocia un incremento lineal de la mortalidad neonatal."
+      },
+      {
+        "text": "Temperatura de la sala entre 15°C y 17°C, con una meta de temperatura corporal en el prematuro de 34,5°C a 35,5°C.",
+        "isCorrect": false,
+        "explanation": "Corresponde a salas de cirugía general de adultos de clima frío, lo cual es incompatible con la sobrevida de un prematuro de 26 semanas sin reservas grasas corporales."
+      },
+      {
+        "text": "Temperatura de la sala entre 28°C y 30°C, con una meta de temperatura corporal en el prematuro de 37,5°C a 38,5°C.",
+        "isCorrect": false,
+        "explanation": "Aunque evita el frío, calentar la sala de partos a 28-30°C dificulta el trabajo del equipo de salud y la meta corporal superior descrita (37,5-38,5°C) representa hipertermia, la cual exacerba el daño neurológico tras hipoxia."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Usted asiste a un recién nacido de término con diagnóstico prenatal de Hernia Diafragmática Congénita izquierda. Al nacer, el neonato se encuentra con esfuerzo respiratorio débil y cianosis central generalizada. Se inicia el protocolo de intubación endotraqueal inmediata de urgencia. De acuerdo con las guías de reanimación neonatal, ¿cuál es el tiempo máximo recomendado por intento de intubación que se debe respetar para evitar hipoxia severa?",
+    "hint": "El procedimiento de intubación interrumpe de forma transitoria la ventilación y la oxigenación del neonato. Se debe limitar el tiempo de cada intento clínico, ventilando con máscara entre intentos si es posible o reanudando maniobras básicas si hay bradicardia progresiva.",
+    "options": [
+      {
+        "text": "Un tiempo máximo de 10 segundos por cada intento de intubación.",
+        "isCorrect": false,
+        "explanation": "10 segundos es un intervalo de tiempo técnicamente insuficiente para realizar la laringoscopia directa, identificar las cuerdas vocales, aspirar secreciones y pasar el tubo a través de la glotis de forma segura."
+      },
+      {
+        "text": "Un tiempo máximo de 60 segundos por cada intento de intubación.",
+        "isCorrect": false,
+        "explanation": "Prolongar la intubación por 60 segundos expone al recién nacido bradicárdico a hipoxia cerebral y miocárdica crítica, promoviendo el desarrollo de parada cardíaca asistólica iatrogénica por el laringoespasmo prolongado."
+      },
+      {
+        "text": "Un tiempo máximo de 30 segundos por cada intento de intubación.",
+        "isCorrect": true,
+        "explanation": "El PRN establece que cada intento de intubación endotraqueal no debe durar más de 30 segundos. Si no se logra posicionar el tubo en este tiempo, se debe retirar el laringoscopio, estabilizar y ventilar al recién nacido con presión positiva mediante máscara facial (salvo contraindicaciones absolutas) hasta recuperar frecuencia y saturación, antes de volver a intentar."
+      },
+      {
+        "text": "Un tiempo máximo de 90 segundos por cada intento de intubación.",
+        "isCorrect": false,
+        "explanation": "90 segundos constituye un retraso inaceptable en el restablecimiento de la oxigenación que viola los estándares de seguridad y de entrenamiento de todas las unidades neonatales del país."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Al reanimar a un recién nacido que presenta bradicardia persistente menor a 60 lpm no respondedora a ventilación efectiva, usted realiza el cateterismo de la vena umbilical. Al posicionar el catéter, constata que no hay retorno de sangre. ¿Cuál es el error técnico común más probable de la inserción y cuál es la medida correctora correcta?",
+    "hint": "En el cateterismo umbilical de urgencia, si se introduce el catéter más de lo necesario, este suele topar con estructuras hepáticas portales o ductales obstructivas, bloqueando el retorno. Siga la regla de inserción parcial de seguridad.",
+    "options": [
+      {
+        "text": "El catéter se introdujo de forma accidental en una de las arterias umbilicales; se debe empujar con fuerza para romper el espasmo arterial.",
+        "isCorrect": false,
+        "explanation": "Si se ingresa a una arteria umbilical (que se caracteriza por su menor calibre y pared muscular rígida gruesa), forzar la inserción contra resistencia puede provocar disección vascular, rotura arterial o vasoespasmo severo de vasos ilíacos que comprometa la perfusión de las extremidades inferiores."
+      },
+      {
+        "text": "El cordón umbilical se encuentra completamente trombosado; se debe suspender la vía umbilical e iniciar una punción venosa del dorso de la mano.",
+        "isCorrect": false,
+        "explanation": "La trombosis masiva de la vena umbilical en un recién nacido de término sano es sumamente infrecuente; suspender la vía umbilical de rescate para forzar vías periféricas colapsadas retrasa drásticamente el manejo farmacológico avanzado."
+      },
+      {
+        "text": "El catéter se desvió hacia la vena cava superior del mediastino; se debe rotar 180 grados y fijar a la piel con sutura de seda de alta tensión.",
+        "isCorrect": false,
+        "explanation": "Es anatómicamente imposible que un catéter venoso alcance la vena cava superior en las primeras maniobras de inserción inicial de seguridad a nivel del ombligo, y rotar el catéter de forma forzada no soluciona el posicionamiento."
+      },
+      {
+        "text": "El catéter se introdujo excesivamente profundo hacia el interior de la vena porta hepática; se debe retirar sutilmente hasta lograr retorno libre.",
+        "isCorrect": true,
+        "explanation": "En la colocación de un catéter venoso umbilical de emergencia, este debe introducirse de forma parcial (generalmente entre 2 y 4 cm de profundidad o justo hasta que refluya sangre libremente). Si se introduce demasiado profundo, el catéter puede impactarse en una bifurcación de la vena porta o en el ducto venoso hepatico, impidiendo el retorno de sangre. La conducta correcta es retirar el catéter suavemente en incrementos milimétricos hasta que se compruebe un flujo continuo libre y espontáneo de sangre."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "RCP Neonatal",
+    "text": "Se asiste el nacimiento domiciliario accidental de un recién nacido extremadamente inmaduro de peso estimado menor a 400 gramos, con una edad gestacional calculada de 21 semanas completas, que no presenta latido cardíaco detectable ni esfuerzo respiratorio. De acuerdo con el marco ético y la lex artis de la pediatría en Chile, ¿cuál es la conducta recomendada?",
+    "hint": "Analice los límites éticos internacionales y nacionales de la viabilidad neonatal (típicamente establecidos a partir de las 22 o 23 semanas de gestación con un peso mayor a 500 gramos). Por debajo de estos umbrales, el desarrollo pulmonar (fase canalicular muy temprana) imposibilita el intercambio gaseoso mecánico.",
+    "options": [
+      {
+        "text": "Realizar una intubación endotraqueal y trasladar de urgencia al neonato en un ventilador mecánico portátil sin control de temperatura central.",
+        "isCorrect": false,
+        "explanation": "Intentar la intubación y el traslado de un feto inviable a las 21 semanas prolonga el estrés familiar y expone al menor a maniobras traumáticas que no alteran el pronóstico de futilidad ya establecido de antemano."
+      },
+      {
+        "text": "Adoptar una conducta de futilidad terapéutica preparto basada en los límites de viabilidad biológica, brindando cuidados de confort y apoyo a la madre.",
+        "isCorrect": true,
+        "explanation": "Los límites de viabilidad biológica actuales se sitúan en torno a las 22 o 23 semanas de gestación en unidades de alta complejidad tecnológica. Un recién nacido de 21 semanas de gestación y con un peso de 400 gramos carece de la madurez anatómica del desarrollo pulmonar (desarrollo alveolar y capilar prácticamente inexistente) para permitir el intercambio gaseoso de oxígeno y la vida extrauterina. La conducta ética correcta y humana consiste en evitar la reanimación fútil o ensañamiento terapéutico, priorizando el abrigo del niño, el contacto íntimo con la madre (cuidados de fin de vida/confort) y el soporte psicológico de la familia."
+      },
+      {
+        "text": "Iniciar maniobras de reanimación cardiopulmonar avanzadas de forma agresiva utilizando colchones térmicos y adrenalina endovenosa directa.",
+        "isCorrect": false,
+        "explanation": "Iniciar RCP avanzada en un recién nacido no viable constituye un ensañamiento terapéutico que causa daño y sufrimiento tisular innecesario, sin posibilidades médicas reales de sobrevida debido a la inmadurez biológica de la vía aérea."
+      },
+      {
+        "text": "Administrar un bolo de bicarbonato de sodio en la vena umbilical y mantener al paciente en incubadora seca cerrada por 48 horas sin alimentación.",
+        "isCorrect": false,
+        "explanation": "Administrar fluidos o bicarbonato no resuelve la inmadurez estructural irreversible de la barrera alvéolo-capilar pulmonar, resultando en un manejo clínico erróneo que contraviene la ética médica neonatal nacional."
+      }
+    ]
+  }
+]
