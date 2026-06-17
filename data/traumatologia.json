@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 8 años es llevado al Servicio de Urgencia Infantil por presentar dolor abdominal de 18 horas de evolución. Inicialmente el dolor se localizaba de forma difusa en la región periumbilical, asociándose a náuseas y un episodio de vómito alimenticio. En las últimas 6 horas, el dolor se ha localizado e intensificado en la fosa ilíaca derecha (FID), aumentando de intensidad con la deambulación y la tos. Al examen físico se constata temperatura axilar de 37,9°C, dolor marcado a la palpación profunda en fosa ilíaca derecha con signo de Blumberg (rebote) positivo. Fisiopatológicamente, ¿cuál es el factor desencadenante primario más frecuente de esta patología en la edad escolar?",
+    "hint": "La apendicitis aguda es la urgencia quirúrgica más común en pediatría. Aunque la hiperplasia linfoide es la causa predominante en lactantes y preescolares, la causa obstructiva mecánica por detritos fecales deshidratados predomina en escolares, adolescentes y adultos jóvenes.",
+    "options": [
+      {
+        "text": "Hiperplasia masiva de los folículos linfoides submucosos (folículos de asmáticos de la pared apendicular).",
+        "isCorrect": false,
+        "explanation": "La hiperplasia linfoide (especialmente post-infecciones virales por Adenovirus o Enterovirus) es el principal factor obstructivo en lactantes mayores y preescolares pequeños, pero no en escolares de 8 años donde priman los fecalitos."
+      },
+      {
+        "text": "Obstrucción de la luz apendicular por un coprolito o fecalito compactado.",
+        "isCorrect": true,
+        "explanation": "En la población de escolares y adolescentes, el mecanismo fisiopatológico primario y desencadenante de la apendicitis aguda es la obstrucción mecánica de la luz apendicular debido a la presencia de un coprolito o fecalito (masa de materia fecal endurecida y calcificada). Al obstruirse la luz, se produce una acumulación continua de secreción mucoide, aumento de la presión intraluminal, compromiso del drenaje venoso y linfático con isquemia mucosa consecuente y proliferación bacteriana oportunista."
+      },
+      {
+        "text": "Invasión de la pared apendicular por larvas de Enterobius vermicularis.",
+        "isCorrect": false,
+        "explanation": "Aunque los parásitos intestinales como Enterobius vermicularis o Ascaris lumbricoides pueden colonizar el apéndice y obstruir la luz de forma infrecuente, representan menos del 1-2% de las causas etiológicas de apendicitis en Chile."
+      },
+      {
+        "text": "Angulación congénita del apéndice cecal secundaria a bridas peritoneales de Ladd.",
+        "isCorrect": false,
+        "explanation": "Las bridas de Ladd se asocian a malrotación intestinal congénita y vólvulo de intestino medio en el recién nacido, no constituyendo una causa anatómica ni fisiopatológica clásica de apendicitis aguda en escolares."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante de 7 meses, previamente sano y con vacunas al día, es traído al Servicio de Urgencia del Hospital Tisné por presentar episodios recurrentes de llanto inconsolable y flexión de extremidades inferiores sobre el abdomen. La madre refiere que los episodios duran entre 10 y 15 minutos, cesan de forma espontánea y el lactante se aprecia adormecido y pálido entre las crisis. Hace 2 horas presentó un episodio de vómito alimenticio y una deposición de consistencia mucosa con estrías de sangre rojo oscuro (\"jalea de grosella\"). Al examen físico destaca abdomen blando, doloroso a la palpación del flanco derecho donde se esboza una masa alargada. ¿Cuál es el método de imágenes de primera elección para el diagnóstico de esta sospecha clínica y qué signo ecográfico clásico confirma la patología?",
+    "hint": "Nos encontramos ante una invaginación intestinal (intususcepción), la causa más frecuente de obstrucción intestinal en lactantes de 3 meses a 2 años. El estudio con ultrasonido presenta una sensibilidad y especificidad cercanas al 100% en manos experimentadas, evitando la radiación ionizante.",
+    "options": [
+      {
+        "text": "Radiografía simple de abdomen de pie; presencia de niveles hidroaéreos en escalera con ausencia de aire distal en el recto.",
+        "isCorrect": false,
+        "explanation": "La radiografía simple de abdomen puede mostrar signos indirectos inespecíficos (escasez de aire en fosa ilíaca derecha, masa de partes blandas o signos de obstrucción mecánica tardía), pero carece de sensibilidad para confirmar el diagnóstico de forma precoz."
+      },
+      {
+        "text": "Enema baritado rectal de urgencia; visualización del signo del \"resorte\" o de la \"copa invertida\" al paso del medio de contraste.",
+        "isCorrect": false,
+        "explanation": "El enema baritado fue históricamente diagnóstico y terapéutico, pero ha sido abandonado de primera línea diagnóstica debido al riesgo de perforación peritoneal por bario (peritonitis química gravísima) y la alta radiación, prefiriéndose la ecografía guiada y reducción neumática/hidrostática con suero fisiológico o aire."
+      },
+      {
+        "text": "Ecotomografía abdominal; presencia de una imagen de doble anillo o signo del \"blanco/diana\" en el corte transversal, y de \"pseudorriñón\" en el corte longitudinal.",
+        "isCorrect": true,
+        "explanation": "La ecografía abdominal es el estándar de oro (Gold Standard) de imágenes para el diagnóstico de invaginación intestinal en pediatría. En el corte transversal muestra la clásica imagen de \"diana\" o \"tiro al blanco\" (formada por las capas concéntricas del asa invaginada o intususceptum dentro del asa invaginante o intususcipiens). En el corte longitudinal se aprecia el signo del \"pseudorriñón\" debido a la apariencia lobulada que simula el parénquima renal."
+      },
+      {
+        "text": "Tomografía Computada (TAC) de abdomen y pelvis con contraste endovenoso; visualización de la arteria mesentérica superior rotando sobre la vena mesentérica.",
+        "isCorrect": false,
+        "explanation": "El TAC de abdomen no se indica de rutina en el abdomen agudo obstructivo del lactante por el exceso de radiación innecesaria, reservándose para casos atípicos o sospecha de masas tumorales específicas como puntos de partida secundarios en niños mayores de 2 años."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Un recién nacido de 21 días de vida, de término, sexo masculino, es llevado al policlínico de seguimiento del Hospital Clínico San Borja Arriarán por presentar vómitos de 4 días de evolución. La madre refiere que los vómitos ocurren inmediatamente después de cada mamada, son abundantes, explosivos, de contenido lácteo neto (no biliosos) y el lactante se muestra con apetito voraz (\"hambre dolorosa\") tras vomitar. Al examen físico destaca deshidratación moderada, llene capilar de 3 segundos, y una masa dura y móvil de 1-2 cm en el epigastrio (oliva pilórica). ¿Cuál es el trastorno hidroelectrolítico y ácido-base característico de esta patología y qué conducta prioritaria debe adoptar antes de la resolución quirúrgica?",
+    "hint": "La estenosis hipertrófica del píloro (EHP) no representa una urgencia quirúrgica de minutos; es una urgencia médica. Operar a un lactante con alteraciones electrolíticas graves e inestabilidad de pH eleva exponencialmente el riesgo de apneas intraoperatorias y paro cardiorrespiratorio por anestesia.",
+    "options": [
+      {
+        "text": "Alcalosis metabólica hipoclorémica e hipopotasémica; la prioridad absoluta es corregir la deshidratación y los trastornos electrolíticos mediante fleboclisis con solución salina y potasio antes de ingresar a pabellón.",
+        "isCorrect": true,
+        "explanation": "La pérdida repetida de ácido clorhídrico (HCl) y agua en los vómitos gástricos de la estenosis hipertrófica del píloro genera un estado de alcalosis metabólica hipoclorémica. Para intentar compensar la deshidratación y conservar sodio, el riñón intercambia hidrógeno y potasio por sodio, lo que sumado a la aldosterona activa, genera una excreción renal masiva de potasio, produciendo hipopotasemia (aciduria paradójica). El tratamiento quirúrgico (piloromiotomía de Fredet-Ramstedt) es sencillo, pero jamás debe realizarse hasta haber corregido de forma completa la deshidratación, la alcalosis y el potasio sérico (K ≥ 4,0 mEq/L, Cl ≥ 100 mEq/L y bicarbonato < 28 mEq/L), lo que disminuye drásticamente el riesgo de apneas post-anestésicas."
+      },
+      {
+        "text": "Acidosis metabólica hiperclorémica e hiperpotasémica; derivación inmediata a pabellón de urgencia para piloromiotomía directa sin retrasos por hidratación.",
+        "isCorrect": false,
+        "explanation": "La acidosis metabólica no es el trastorno de la EHP (esta cursa con alcalosis por pérdida de protones gástricos) y la cirugía inmediata sin corrección hidroelectrolítica previa es un grave error de manejo clínico."
+      },
+      {
+        "text": "Alcalosis respiratoria compensada por hiponatremia dilucional; régimen cero estricto e infusión endovenosa de solución salina hipertónica al 3% para evitar convulsiones.",
+        "isCorrect": false,
+        "explanation": "El trastorno es de origen metabólico primario (digestivo) y no respiratorio, y el uso de soluciones hipertónicas al 3% no está indicado de rutina y representa un riesgo iatrogénico neurológico severo."
+      },
+      {
+        "text": "Acidosis láctica severa por necrosis pilórica; hospitalización para inicio inmediato de antibióticos de amplio espectro y colocación de sonda nasogástrica descompresiva.",
+        "isCorrect": false,
+        "explanation": "El píloro hipertrófico es viable y no sufre de necrosis isquémica típica, por lo que el uso de antibióticos de amplio espectro y el planteamiento de acidosis láctica son erróneos."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante de 9 meses es ingresado al Servicio de Urgencias por un cuadro de 12 horas de evolución compatible con Invaginación Intestinal Ileo-cólica, confirmado mediante ecografía abdominal. Se encuentra hemodinámicamente estable, reactivo, con abdomen blando y sin signos clínicos de irritación peritoneal (Blumberg o rigidez ausentes) ni neumoperitoneo en la radiografía simple de control. ¿Cuál es el tratamiento inicial de elección y de mayor seguridad recomendado para este paciente?",
+    "hint": "En ausencia de contraindicaciones absolutas (como shock refractario, peritonitis o perforación intestinal con neumoperitoneo), la reducción no quirúrgica es el procedimiento de elección por presentar bajas tasas de complicaciones y evitar una cirugía invasiva.",
+    "options": [
+      {
+        "text": "Laparotomía exploradora urgente para desinvaginación manual y apendicectomía profiláctica obligatoria.",
+        "isCorrect": false,
+        "explanation": "La laparotomía se reserva de forma estricta para casos con contraindicaciones del enema (peritonitis, shock, perforación), sospecha de necrosis intestinal, puntos de partida anatómicos secundarios (como pólipos o divertículo de Meckel) o fracaso del intento de reducción no quirúrgica repetido. La apendicectomía profiláctica no está indicada."
+      },
+      {
+        "text": "Observación clínica expectante en régimen cero por 24 horas y administración de antiespasmódicos (pinaverio) oral.",
+        "isCorrect": false,
+        "explanation": "La conducta expectante y el uso de antiespasmódicos están contraindicados debido a que la obstrucción intestinal progresará rápidamente a isquemia intestinal, necrosis y perforación si no se reduce activamente de forma precoz."
+      },
+      {
+        "text": "Resección intestinal segmentaria de la unión ileocecal y anastomosis primaria término-terminal por sospecha de necrosis.",
+        "isCorrect": false,
+        "explanation": "La resección intestinal es un procedimiento agresivo reservado únicamente para aquellos casos quirúrgicos donde se demuestre de forma intraoperatoria la presencia de necrosis de asa no viable o gangrena intestinal irreversible."
+      },
+      {
+        "text": "Reducción no quirúrgica mediante enema hidrostático (con suero fisiológico guiado por ecografía) o neumático (con aire bajo control fluoroscópico).",
+        "isCorrect": true,
+        "explanation": "En pacientes con invaginación intestinal de corta evolución (< 24-48 horas) que se encuentran hemodinámicamente estables y libres de signos de peritonitis o perforación intestinal, el tratamiento de elección es la reducción no quirúrgica. Puede realizarse mediante enema neumático (insuflación de aire controlada con manómetro, vigilando por radioscopia) o enema hidrostático (infusión de suero fisiológico templado guiado por ecografía en tiempo real). Este procedimiento tiene una tasa de éxito superior al 80-90% y evita la morbilidad de una intervención quirúrgica mayor."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Recién nacido de 24 horas de vida, de término, nacido por parto cesárea debido a sospecha prenatal de anomalía congénita. Presenta vómitos biliosos repetidos desde las primeras horas de vida y distensión abdominal localizada estrictamente en el epigastrio, sin eliminación de meconio. Destaca en el examen físico características anatómicas sugerentes de Síndrome de Down. Se realiza una radiografía de abdomen simple de pie que muestra el clásico signo de la \"doble burbuja\" (presencia de dos grandes colecciones gaseosas en hemiabdomen superior con ausencia completa de aire distal). ¿Cuál es el diagnóstico clínico más probable de este abdomen agudo obstructivo neonatal?",
+    "hint": "El signo de la \"doble burbuja\" refleja la distensión simultánea del estómago y de la primera porción del duodeno, separadas por el píloro, con un bloqueo completo al paso del aire distal. Esta malformación tiene una fortísima asociación epidemiológica con la trisomía 21.",
+    "options": [
+      {
+        "text": "Estenosis hipertrófica del píloro.",
+        "isCorrect": false,
+        "explanation": "La estenosis hipertrófica del píloro debuta más tardíamente (entre la 2ª y 8ª semana de vida, raramente al nacer), cursa con vómitos no biliosos de contenido lácteo puro y la radiografía muestra distensión gástrica aislada (\"burbuja única\") con escaso aire distal."
+      },
+      {
+        "text": "Atresia duodenal completa.",
+        "isCorrect": true,
+        "explanation": "La atresia duodenal es una causa clásica de obstrucción intestinal alta en el recién nacido. Se caracteriza por vómitos biliosos tempranos (ya que la obstrucción suele ser distal a la ampolla de Vater) y distensión epigástrica. El signo radiográfico patognomónico es la \"doble burbuja\" (una burbuja representa el estómago distendido con aire y la otra representa el duodeno proximal dilatado, con ausencia de gas en el resto del intestino delgado y colon). Aproximadamente el 30% de los recién nacidos con atresia duodenal padecen Síndrome de Down (Trisomía 21), requiriendo corrección quirúrgica mediante duodenoduodenoanastomosis (operación de Diamond)."
+      },
+      {
+        "text": "Íleo meconial secundario a Fibrosis Quística.",
+        "isCorrect": false,
+        "explanation": "El íleo meconial produce una obstrucción intestinal baja (a nivel de íleon terminal), por lo que la radiografía muestra múltiples asas distendidas de forma difusa con niveles hidroaéreos y una imagen \"en vidrio esmerilado\" o signo de Neuhauser en fosa ilíaca derecha, no el patrón de doble burbuja aislada."
+      },
+      {
+        "text": "Atresia esofágica con fístula traqueoesofágica distal.",
+        "isCorrect": false,
+        "explanation": "La atresia esofágica cursa clínicamente con sialorrea abundante e imposibilidad de pasar una sonda nasogástrica al nacer; la presencia de aire distal gástrico depende de la fístula traqueoesofágica, pero no produce el signo de la doble burbuja duodenal."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Usted se encuentra de turno en el Servicio de Urgencia Infantil del SAPU de San Fernando. Recibe a un preescolar de 5 años que presenta dolor abdominal de 24 horas de evolución, febrícula de 37,8°C axilar y dolor a la palpación en la fosa ilíaca derecha con ruidos hidroaéreos disminuidos. Se plantea sospecha clínica de apendicitis aguda. De acuerdo con las guías clínicas nacionales de urgencias pediátricas, ¿cuál es el examen de imágenes de primera elección para el estudio de este paciente y cuál es su principal ventaja?",
+    "hint": "En pediatría, la protección contra la radiación ionizante acumulada es prioritaria. Los algoritmos diagnósticos ordenan utilizar el ultrasonido como paso inicial, reservando métodos más invasivos para casos de duda diagnóstica post-ecográfica o sospecha de complicaciones específicas.",
+    "options": [
+      {
+        "text": "Ecotomografía abdominal; excelente rendimiento diagnóstico para confirmar apendicitis (sensibilidad > 85%) y visualizar líquido libre, libre de radiación ionizante para el niño.",
+        "isCorrect": true,
+        "explanation": "La ecotomografía abdominal y pelviana es el examen de imágenes de primera elección ante la sospecha de apendicitis aguda en pediatría. En manos experimentadas, presenta una sensibilidad del 85-90% y especificidad > 90%, visualizando el apéndice como una estructura tubular aperistáltica, no compresible, con un diámetro de pared externa ≥ 6 mm o aumento de la ecogenicidad de la grasa periapendicular. Su mayor ventaja es que es un examen no invasivo y libre de radiación ionizante, disminuyendo el riesgo a largo plazo de neoplasias inducidas por radiación en niños."
+      },
+      {
+        "text": "Tomografía Computada (TAC) de abdomen y pelvis con contraste endovenoso; de elección universal por su rapidez y total independencia de la experiencia del operador.",
+        "isCorrect": false,
+        "explanation": "Aunque el TAC de abdomen tiene una sensibilidad y especificidad discretamente superiores a la ecografía (> 95%), implica una dosis muy alta de radiación ionizante y requiere el uso de contraste iodado endovenoso con riesgo de nefrotoxicidad o alergia. Se reserva únicamente como examen de segunda línea cuando la ecografía es informada como no concluyente o de visualización difícil y persiste una alta sospecha clínica."
+      },
+      {
+        "text": "Radiografía simple de abdomen de pie y decúbito; método de elección por su alta sensibilidad para visualizar el coprolito calcificado en el 95% de los casos.",
+        "isCorrect": false,
+        "explanation": "La radiografía de abdomen tiene un rendimiento muy bajo en apendicitis; el coprolito calcificado (apendicolito) se visualiza en menos del 10-15% de los casos y los signos de íleo regional o borramiento del psoas son sumamente inespecíficos."
+      },
+      {
+        "text": "Resonancia Magnética (RM) de abdomen de urgencia; método de elección absoluto inicial en atención primaria por su excelente definición de partes blandas.",
+        "isCorrect": false,
+        "explanation": "La Resonancia Magnética no está disponible de forma rápida ni oportuna de urgencia en la gran mayoría de los centros de salud de Chile, requiriendo además sedación profunda o anestesia general en preescolares debido a la duración del examen."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Recién nacido de 12 horas de vida, de término, presenta desde el nacimiento abundante salivación mucosa en la boca (sialorrea) y episodios repetidos de tos, ahogo, dificultad respiratoria con tiraje y cianosis perioral al intentar la alimentación al pecho materno. Durante la evaluación física, se intenta pasar una sonda nasogástrica número 8, la cual se detiene e incurva de forma infranqueable a 10 cm de la arcada dentaria superior. En la radiografía simple de tórax y abdomen de control se observa el extremo de la sonda enrollado en un saco esofágico ciego superior y presencia moderada de gas en el estómago e intestino delgado. ¿A qué tipo de Atresia Esofágica corresponde esta presentación de acuerdo con la clasificación anatómica clásica?",
+    "hint": "Es la variante anatómica más común de atresia esofágica, representando más del 85% de los casos. La presencia de aire en el estómago confirma de forma indirecta la comunicación o fístula permeable entre la vía aérea (tráquea) y la porción inferior del esófago (distal).",
+    "options": [
+      {
+        "text": "Tipo I (Atresia esofágica aislada, sin fístula traqueoesofágica).",
+        "isCorrect": false,
+        "explanation": "El Tipo I (atresia pura, sin fístula) se caracteriza por saco superior e inferior ciegos sin comunicación con la tráquea. Al no haber fístula, la radiografía muestra un abdomen completamente opaco, sin gas o aire en el estómago ni intestinos (\"abdomen \"silente\" o \"sin aire\")."
+      },
+      {
+        "text": "Tipo II (Atresia esofágica con fístula traqueoesofágica proximal aislada).",
+        "isCorrect": false,
+        "explanation": "El Tipo II cursa con fístula proximal aislada, por lo que el aire gástrico distal está ausente en la radiografía y el saco ciego superior es difícil de ventilar."
+      },
+      {
+        "text": "Tipo III o C (Atresia esofágica con saco superior ciego y fístula traqueoesofágica distal).",
+        "isCorrect": true,
+        "explanation": "La Atresia Esofágica Tipo III (o Tipo C de la clasificación de Vogt) consiste en un esófago proximal que termina en un saco ciego cerrado (lo que impide el paso de la sonda nasogástrica y genera sialorrea o broncoaspiración al alimentar) y un cabo esofágico distal que está comunicado con la tráquea a través de una fístula traqueoesofágica distal. La presencia de gas en el estómago e intestinos en la radiografía confirma esta fístula distal, ya que el aire inspirado pasa desde la tráquea hacia el estómago a través de ella. Es por amplio margen la malformación esofágica más prevalente en la práctica clínica (> 85%)."
+      },
+      {
+        "text": "Tipo IV o D (Atresia esofágica con doble fístula traqueoesofágica, proximal y distal).",
+        "isCorrect": false,
+        "explanation": "El Tipo IV cursa con doble fístula (proximal y distal) y representa menos del 1-2% de las atresias esofágicas en Chile, caracterizándose por una severa e inmediata broncoaspiración de secreciones gástricas y saliva directamente al árbol bronquial bilateral."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Preescolar de 5 años es evaluado en el Servicio de Urgencia Infantil por dolor abdominal de 2 días de evolución localizado en fosa ilíaca derecha, fiebre de 38,5°C axilar, anorexia y la presencia de 3 deposiciones de consistencia pastosa con mucosidad escasa. Al examen destaca reactivo, hidratado, dolor a la palpación en fosa ilíaca derecha pero con abdomen blando y Blumberg negativo. Se solicita ecografía abdominal que descarta apendicitis aguda (apéndice visible normal de 4 mm, compresible) pero constata múltiples imágenes ganglionares aumentadas de tamaño (≥ 10 mm en su diámetro menor) agrupadas en el mesenterio del cuadrante inferior derecho. ¿Cuál es el diagnóstico clínico más probable de este cuadro y qué agente zoonótico bacteriano ingerido por alimentos contaminados se asocia clásicamente a su etiología?",
+    "hint": "Es el principal diagnóstico diferencial médico de la apendicitis aguda en preescolares y escolares. Cursa clínicamente con una presentación similar de dolor en FID y fiebre, pero se asocia clásicamente a antecedente de cuadro respiratorio alto reciente o diarrea, con hallazgo de adenopatías retroperitoneales mesentéricas de carácter benigno en la ecografía.",
+    "options": [
+      {
+        "text": "Linfoma de Burkitt abdominal primario; virus de Epstein-Barr (VEB).",
+        "isCorrect": false,
+        "explanation": "El linfoma de Burkitt cursa con una masa tumoral abdominal de rápido crecimiento, distensión abdominal severa, baja de peso marcada y ascitis, no como un cuadro inflamatorio agudo benigno con ganglios reactivos aislados de 10 mm sin masa infiltrante."
+      },
+      {
+        "text": "Enfermedad de Crohn fistulizante; Escherichia coli enteroadherente.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de Crohn es una patología inflamatoria intestinal crónica sistémica con un curso crónico de diarreas recurrentes con sangre, fístulas perianales y retraso pondoestatural severo, no con este curso autolimitado de 2 días."
+      },
+      {
+        "text": "Peritonitis bacteriana espontánea; Streptococcus pneumoniae.",
+        "isCorrect": false,
+        "explanation": "La peritonitis bacteriana espontánea ocurre casi exclusivamente en niños con ascitis previa secundaria a síndrome nefrótico o cirrosis hepática con daño de barrera, cursando con dolor abdominal difuso severo e irritación peritoneal franca."
+      },
+      {
+        "text": "Adenitis mesentérica; Yersinia enterocolitica (o Campylobacter jejuni).",
+        "isCorrect": true,
+        "explanation": "La adenitis mesentérica es una inflamación benigna autolimitada de los ganglios linfáticos del mesenterio del cuadrante inferior derecho. Es la causa no quirúrgica más común que simula una apendicitis aguda en niños pequeños. Puede ser de origen viral o bacteriano primario. El patógeno bacteriano zoonótico clásicamente asociado a adenitis mesentérica e ileítis terminal severa por consumo de leche o carne de cerdo mal cocida es la Yersinia enterocolitica. El diagnóstico se confirma ecográficamente al visualizar ganglios linfáticos mesentéricos hipertróficos (≥ 10 mm de diámetro menor) con un apéndice cecal completamente normal. El manejo es expectante y sintomático."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Recién nacido de 15 días de vida, de término, previamente sano y alimentado con lactancia exclusiva, es traído al Servicio de Urgencia por presentar vómitos de contenido bilioso neto (color verde oscuro) de inicio brusco y llanto persistente con actitud de dolor abdominal severo. Al examen físico destaca pálido, decaído, taquicárdico a 180 lpm, con abdomen moderadamente distendido y doloroso a la palpación difusa. Se plantea de forma prioritaria la sospecha de malrotación intestinal complicada con Vólvulo de intestino medio. ¿Cuál es el procedimiento quirúrgico de elección de urgencia para resolver esta grave y letal patología?",
+    "hint": "El vólvulo de intestino medio por malrotación es la catástrofe quirúrgica más temida en neonatología, ya que la rotura de la arteria mesentérica superior puede necrosar todo el intestino en pocas horas. El procedimiento quirúrgico busca detorcer, seccionar bridas obstructivas y reorganizar las asas en una posición no rotatoria estable.",
+    "options": [
+      {
+        "text": "Piloromiotomía extramucosa de Fredet-Ramstedt para liberar el canal obstructivo del píloro.",
+        "isCorrect": false,
+        "explanation": "La piloromiotomía de Fredet-Ramstedt es el tratamiento de elección específico para la estenosis hipertrófica del píloro, patología no obstructiva biliosa que cursa con vómitos lácteos puros en lactantes mayores."
+      },
+      {
+        "text": "Resección del divertículo de Meckel anómalo y anastomosis íleo-ileal primaria.",
+        "isCorrect": false,
+        "explanation": "La resección del divertículo de Meckel está indicada en casos de hemorragia digestiva masiva o diverticulitis de Meckel obstructiva, pero no resuelve la torsión generalizada de la arteria mesentérica superior del vólvulo de intestino medio."
+      },
+      {
+        "text": "Procedimiento de Ladd (detorsión del asa en sentido antihorario, sección de las bridas peritoneales de Ladd, posicionamiento del colon a la izquierda e intestino delgado a la derecha, y apendicectomía complementaria).",
+        "isCorrect": true,
+        "explanation": "El vólvulo de intestino medio secundario a malrotación intestinal requiere una intervención quirúrgica de urgencia inmediata. El procedimiento quirúrgico de elección es la operación o procedimiento de Ladd. Consta de los siguientes pasos críticos: 1) Evisceración y detorsión del intestino delgado en sentido antihorario (contrario a las agujas del reloj) para restablecer la perfusión de la arteria mesentérica superior, 2) Sección o liberación de las bridas peritoneales anómalas de Ladd (que cruzan y obstruyen el duodeno), 3) Ensanchamiento de la base del mesenterio, 4) Posicionamiento de las asas de forma no rotacional (el colon se sitúa a la izquierda y el intestino delgado a la derecha del abdomen) y 5) Apendicectomía profiláctica de intervalo debido a que la malposición del ciego dificultaría un diagnóstico de apendicitis en el futuro."
+      },
+      {
+        "text": "Duodenoduodenoanastomosis término-lateral en diamante para corregir el defecto obstructivo.",
+        "isCorrect": false,
+        "explanation": "La anastomosis en diamante es la técnica de elección para reparar la atresia duodenal intrínseca congénita, no teniendo indicación ni efectividad en la detorsión mecánica del vólvulo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante de 18 meses de vida es traído a la urgencia por presentar un episodio de rectorragia indolora, abundante, de sangre color rojo oscuro o vinoso que tiñó por completo el pañal en su hogar. No refiere fiebre, diarrea, dolor abdominal, vómitos ni constipación previa. Al examen físico destaca en buenas condiciones generales, pálido pero hemodinámicamente estable (FC 115 lpm, PA normal, llene capilar < 2 s). El examen anal externo es normal. Hemoglobina de ingreso de 9,2 g/dL. ¿Cuál es el diagnóstico clínico más probable de este abdomen agudo hemorrágico y cuál es el examen confirmatorio de elección recomendado?",
+    "hint": "La rectorragia masiva, indolora y autolimitada (\"sin compromiso del estado general inicial\") en un lactante de aproximadamente 2 años de vida es la presentación típica de la complicación hemorrágica de una anomalía congénita del conducto onfalomesentérico que contiene tejido gástrico productor de ácido.",
+    "options": [
+      {
+        "text": "Divertículo de Meckel; Cintigrafía de abdomen con pertecnetato de Tecnecio-99m (<sup>99m</sup>Tc), también conocida como \"Meckel scan\" para detectar mucosa gástrica ectópica.",
+        "isCorrect": true,
+        "explanation": "El divertículo de Meckel es la anomalía congénita más común del tracto gastrointestinal (remanente del conducto onfalomesentérico). La hemorragia rectal indolora de color rojo oscuro o vinoso se produce por ulceración péptica de la mucosa ileal adyacente debido a la secreción de ácido clorhídrico proveniente de mucosa gástrica ectópica presente dentro del divertículo. El examen de elección para su confirmación es la cintigrafía con pertecnetato de Tecnecio-99m, la cual tiene una afinidad específica por las células muco-secretoras de la mucosa gástrica, visualizándose como una zona de captación anormal en el cuadrante inferior derecho concomitante con la captación del estómago normal."
+      },
+      {
+        "text": "Fisura anal aguda; rectosigmoidoscopía flexible de urgencia bajo anestesia general.",
+        "isCorrect": false,
+        "explanation": "La fisura anal es la causa más común de sangrado rectal en lactantes pequeños, pero cursa típicamente con sangre roja brillante escasa (estrías) en la superficie de la deposición y dolor marcado con el esfuerzo de la defecación (llanto al evacuar), ausente en este caso."
+      },
+      {
+        "text": "Síndrome Hemolítico Urémico (SHU); ecocardiografía Doppler color cardíaca para evaluar microangiopatía.",
+        "isCorrect": false,
+        "explanation": "El SHU cursa de forma clásica con diarrea mucosanguinolenta severa previa, compromiso severo del estado general, anemia hemolítica microangiopática, trombocitopenia y falla renal aguda (oligoanuria), alejándose de esta rectorragia indolora masiva aislada."
+      },
+      {
+        "text": "Pólipo juvenil rectal solitario; colonoscopía izquierda con polipectomía endoscópica inmediata.",
+        "isCorrect": false,
+        "explanation": "Los pólipos juveniles pueden sangrar de forma indolora, pero el sangrado suele ser escaso, intermitente, asociado a la defecación prolongada y no cursa de forma característica con rectorragias masivas de volumen que causen anemia aguda moderada como el divertículo de Meckel."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Recién nacido de 32 semanas de gestación, de peso adecuado al nacer, cursando su 7° día de vida en la Unidad de Neonatología del Hospital Tisné. Comienza con distensión abdominal progresiva, retención de residuos gástricos de contenido bilioso y deposiciones de consistencia mucosa con estrías de sangre fresca en el pañal. Al examen físico destaca decaído, irritable, con abdomen globuloso, ruidos hidroaéreos disminuidos y eritema en la pared abdominal. Se toma una radiografía de abdomen de control que muestra de forma difusa imágenes lineales radiolúcidas paralelas a la pared intestinal (neumatosis intestinal). ¿Cuál es el diagnóstico clínico de este abdomen agudo neonatal y qué estadio de la escala de Bell modificada le asigna?",
+    "hint": "Es la emergencia gastrointestinal más común y temida en prematuros hospitalizados en la UCIN. La presencia de neumatosis intestinal (aire dentro de la pared del intestino producido por bacterias productoras de gas) confirma la enfermedad y define de forma clásica un estadio específico de gravedad moderada en la clasificación de Bell.",
+    "options": [
+      {
+        "text": "Vólvulo intestinal tardío del prematuro; Estadio III (complicado).",
+        "isCorrect": false,
+        "explanation": "El vólvulo es una patología obstructiva mecánica hiperaguda que no cursa típicamente con neumatosis intestinal difusa en la pared y su clasificación no se rige por los criterios o escala de Bell."
+      },
+      {
+        "text": "Enterocolitis Necrotizante (ECN); Estadio IIA (ECN moderada con neumatosis intestinal).",
+        "isCorrect": true,
+        "explanation": "La Enterocolitis Necrotizante (ECN) es una patología inflamatoria multifactorial severa del intestino del recién nacido prematuro. El hallazgo radiográfico patognomónico es la neumatosis intestinal (presencia de burbujas de gas o bandas radiolúcidas dentro de la pared muscular del intestino producido por la translocación de bacterias anaerobias). De acuerdo con la clasificación de Bell modificada, la presencia de síntomas sistémicos leves (decaimiento), signos abdominales definidos (distensión, dolor, sangre en deposiciones) asociados al hallazgo radiográfico de neumatosis intestinal (sin gas en la vena porta ni neumoperitoneo) clasifica al paciente en el Estadio IIA (Enfermedad moderada). El tratamiento de este estadio es médico: régimen cero estricto, nutrición parenteral, descompresión gástrica y antibióticos de amplio espectro por 7-10 días."
+      },
+      {
+        "text": "Megacolon aganglionar congénito; Estadio IA (sospecha clínica de Hirschsprung).",
+        "isCorrect": false,
+        "explanation": "El megacolon aganglionar (Hirschsprung) cursa con retraso de la eliminación de meconio en recién nacidos de término sanos, no asociándose a neumatosis intestinal en la radiografía de control."
+      },
+      {
+        "text": "Perforación intestinal espontánea por corticoides; Estadio IIIB (perforación con neumoperitoneo).",
+        "isCorrect": false,
+        "explanation": "El estadio IIIB de Bell se define de forma estricta por la presencia de neumoperitoneo (aire libre en la cavidad peritoneal bajo el diafragma), lo que indica perforación intestinal confirmada que exige resolución quirúrgica inmediata, hallazgo ausente en la descripción de este paciente."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Preescolar de 6 años es traído al Servicio de Urgencia Infantil por dolor abdominal de tipo cólico muy severo, de inicio agudo, localizado en epigastrio y flancos de 12 horas de evolución. Al examen físico destaca activo, reactivo, con artralgias bilaterales moderadas en rodillas y tobillos, dolor abdominal a la palpación difusa sin defensa muscular involuntaria, y la presencia de múltiples lesiones máculo-papulares y purpúricas de distribución simétrica palpables en glúteos y extremidades inferiores. ¿Cuál es el diagnóstico sindrómico subyacente y qué complicación obstructiva de abdomen agudo corre el riesgo de desarrollar este paciente?",
+    "hint": "Es la vasculitis sistémica más frecuente en la edad pediátrica. El depósito de complejos inmunes de IgA en la microvasculatura del intestino delgado produce isquemia segmentaria y hematomas submucosos que actúan como \"puntos de partida\" mecánicos para que un asa intestinal se introduzca dentro de otra.",
+    "options": [
+      {
+        "text": "Sepsis meningocócica fulminante; gangrena húmeda de colon derecho.",
+        "isCorrect": false,
+        "explanation": "La sepsis meningocócica cursa con fiebre alta, inestabilidad hemodinámica profunda (shock distributivo severo) y el púrpura es de tipo equimótico irregular necrótico diseminado, no respetando la distribución simétrica palpable benigna de este escolar."
+      },
+      {
+        "text": "Síndrome de Kawasaki atípico; aneurismas de las arterias mesentéricas con trombosis aguda.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Kawasaki se presenta con fiebre alta de ≥ 5 días, conjuntivitis no purulenta bilateral, cambios en cavidad oral (lengua frambuesa), exantema polimorfo y adenopatía cervical unilateral, sin la púrpura simétrica palpable clásica descrita en las piernas."
+      },
+      {
+        "text": "Lupus Eritematoso Sistémico de inicio infantil; pancreatitis necrotizante lúpica.",
+        "isCorrect": false,
+        "explanation": "El lupus infantil puede causar dolor abdominal por vasculitis mesentérica, pero su debut cursa con un perfil inmunológico crónico, nefritis activa, eritema malar en alas de mariposa y no es la causa clásica de púrpura palpable simétrico con riesgo de invaginación en niños de 6 años."
+      },
+      {
+        "text": "Vasculitis por IgA (Púrpura de Henoch-Schönlein); Invaginación intestinal ileo-ileal secundaria a hematomas intramurales de la pared intestinal.",
+        "isCorrect": true,
+        "explanation": "La Vasculitis por IgA (antes Púrpura de Henoch-Schönlein) es una vasculitis de vasos pequeños caracterizada por la tétrada clásica de: púrpura palpable no trombocitopénico simétrico en extremidades inferiores, artralgias/artritis, compromiso gastrointestinal y compromiso renal. El edema y la hemorragia submucosa focal en la pared intestinal pueden actuar como una masa o \"cabeza de invaginación\", gatillando una invaginación intestinal ileo-ileal (a diferencia de la idiopática común que es ileocólica). El dolor abdominal agudo cólico severo es el reflejo de esta complicación obstructiva que requiere evaluación ecográfica dirigida y tratamiento quirúrgico de urgencia si hay sospecha de isquemia o perforación."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Recién nacido de término, varón de 3 días de vida, permanece hospitalizado en la Unidad de Puerperio debido a que no ha eliminado meconio de forma espontánea desde el nacimiento (retraso en la eliminación de meconio > 48 horas). Presenta distensión abdominal marcada, rechazo alimentario y vómitos alimenticios ocasionales. Al realizar un examen rectal suave con el dedo meñique, se constata un esfínter anal normotónico, observándose tras retirar el dedo la salida explosiva de meconio líquido y gases (\"signo de la espita/válvula\") con alivio clínico inmediato de la distensión. ¿Cuál es la sospecha diagnóstica más probable de este abdomen agudo obstructivo neonatal y cuál es el estándar de oro para confirmar el diagnóstico definitivo?",
+    "hint": "La falla congénita en la migración craneocaudal de las células de la cresta neural resulta en la ausencia completa de los plexos parasimpáticos mientéricos en el colon distal. El tacto rectal estimula mecánicamente el segmento espástico aganglionar, liberando la obstrucción funcional de forma temporal.",
+    "options": [
+      {
+        "text": "Tapón meconial simple; enema de bario de colon completo para disolver el tapón de meconio deshidratado.",
+        "isCorrect": false,
+        "explanation": "El tapón meconial se asocia a retraso de la evacuación en hijos de madres diabéticas o prematuros, pero no cursa con la descompresión explosiva característica ni requiere biopsias rectales patológicas de aganglionosis demostrada de por vida."
+      },
+      {
+        "text": "Atresia ileal congénita; ecografía abdominal con Doppler color del eje mesentérico.",
+        "isCorrect": false,
+        "explanation": "La atresia ileal es una obstrucción mecánica orgánica intrínseca insuperable; el tacto rectal es infructuoso (abdomen ciego) y el tratamiento requiere duodenoduodeno o íleo-anastomosis quirúrgica de urgencia sin alivio por tacto anal."
+      },
+      {
+        "text": "Enfermedad de Hirschsprung (Megacolon aganglionar); Biopsia rectal por aspiración demostrando de forma histológica la ausencia completa de células ganglionares en los plexos mientérico (Auerbach) y submucoso (Meissner), junto a hipertrofia de fibras nerviosas colinérgicas.",
+        "isCorrect": true,
+        "explanation": "La Enfermedad de Hirschsprung se caracteriza por una obstrucción intestinal funcional debida a la falta de relajación del colon distal (aganglionar). Clínicamente debuta con retraso de la eliminación de meconio (> 90% no elimina en las primeras 24-48 horas de vida), distensión abdominal progresiva y el clásico signo de salida explosiva de meconio al retirar el tacto rectal (desobstrucción mecánica del segmento contraído). El estándar de oro (Gold Standard) para confirmar de forma absoluta el diagnóstico es la biopsia rectal por aspiración, la cual debe tomarse al menos a 2 cm por encima de la línea pectínea para evitar la aganglionosis fisiológica del esfínter anal interno. El análisis histológico con tinciones especiales (como Acetilcolinesterasa) demuestra de forma categórica la ausencia completa de células ganglionares y la hipertrofia de los filetes nerviosos."
+      },
+      {
+        "text": "Estenosis anal intrínseca; dilatación anal digital seriada progresiva ambulatoria por cirujano infantil.",
+        "isCorrect": false,
+        "explanation": "La estenosis anal es una anomalía anatómica fija detectable de forma directa a la inspección y tacto anal, impidiendo físicamente el paso del dedo explorador sin asociarse de forma primaria a la aganglionosis histológica proximal."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 10 años con antecedentes de dolor abdominal de 3 días de evolución, ingresa febril (38,9°C axilar) con marcado aspecto tóxico, deshidratación grave, ruidos hidroaéreos ausentes y abdomen en tabla con Blumberg positivo generalizado. Se sospecha una apendicitis aguda rota perforada complicada con peritonitis apendicular. De acuerdo con las guías nacionales de manejo antimicrobiano pediátrico intrahospitalario chileno, ¿cuál es el esquema de antibioterapia empírica endovenosa de amplio espectro de primera línea de elección recomendado?",
+    "hint": "En la peritonitis apendicular, la flora bacteriana es polimicrobiana mixta (Gram negativos entéricos como E. coli y anaerobios como Bacteroides fragilis). El esquema antibiótico debe proveer una potente sinergia bactericida para evitar la formación de abscesos intraabdominales postoperatorios.",
+    "options": [
+      {
+        "text": "Ceftriaxona (50-100 mg/kg/día EV una vez al día) asociada a Metronidazol (30 mg/kg/día EV fraccionado cada 8 horas).",
+        "isCorrect": true,
+        "explanation": "De acuerdo con los protocolos nacionales de la SOCHINF y de la mayoría de los hospitales pediátricos en Chile (HCSBA, Tisné, Exequiel González Cortés), el tratamiento de primera línea para la apendicitis aguda complicada con peritonitis local o generalizada es la combinación de Ceftriaxona más Metronidazol por vía endovenosa (o alternativamente Cefotaxime + Clindamicina o Amikacina + Clindamicina según patrones de resistencia local). La Ceftriaxona otorga una excelente cobertura bactericida contra bacilos Gram negativos facultativos (E. coli, Klebsiella), mientras que el Metronidazol es el fármaco de elección contra la flora anaerobia estricta de origen colónico (Bacteroides fragilis)."
+      },
+      {
+        "text": "Penicilina G sódica (200.000 UI/kg/día) asociada a Gentamicina endovenosa.",
+        "isCorrect": false,
+        "explanation": "El esquema con Penicilina y Gentamicina es ineficaz contra anaerobios colónicos resistentes productores de betalactamasas como Bacteroides, lo que expone al paciente a un alto riesgo de sepsis abdominal persistente y abscesos intraabdominales."
+      },
+      {
+        "text": "Amoxicilina/Ácido Clavulánico oral a dosis altas administrada por sonda nasogástrica descompresiva.",
+        "isCorrect": false,
+        "explanation": "La administración por vía enteral de antibióticos está absolutamente contraindicada en pacientes con abdomen agudo peritonítico o íleo paralítico debido a la nula absorción gastrointestinal y alto riesgo de broncoaspiración."
+      },
+      {
+        "text": "Cloxacilina endovenosa asociada a Amikacina por 14 días.",
+        "isCorrect": false,
+        "explanation": "La cloxacilina está dirigida a cubrir Staphylococcus aureus (infecciones de piel y partes blandas u osteoarticulares), careciendo por completo de utilidad clínica empírica contra la flora bacteriana entérica Gram negativa y anaerobia causante de la peritonitis apendicular."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante de 4 meses de vida, de sexo masculino, es traído al Servicio de Urgencia Infantil por su madre debido a que nota un \"bulto\" duro y doloroso en la región inguinal derecha de 4 horas de evolución. Refiere que el lactante está muy irritable, con llanto inconsolable y ha presentado 2 episodios de vómitos de contenido alimenticio. Al examen físico destaca un aumento de volumen inguinal derecho firme, que se extiende hacia el escroto ipsilateral, muy doloroso al tacto, que no se logra reducir de forma espontánea ni manual suave. ¿Cuál es el diagnóstico clínico más probable de este abdomen agudo obstructivo y la conducta más adecuada a seguir?",
+    "hint": "La hernia inguinal en lactantes tiene un altísimo riesgo de atascamiento y estrangulación debido a la estrechez del anillo inguinal. El dolor y los vómitos reflejan una obstrucción de asa de curso rápido. El primer paso es intentar la reducción suave controlada; de lo contrario, la isquemia del asa exige cirugía de urgencia.",
+    "options": [
+      {
+        "text": "Hidrocele comunicante simple; control clínico ambulatorio en el CESFAM al año de vida.",
+        "isCorrect": false,
+        "explanation": "El hidrocele comunicante es indoloro, de consistencia quística blanda, transiluminación positiva y reducible de forma muy lenta al decúbito, no cursando con vómitos, dolor agudo ni compromiso obstructivo."
+      },
+      {
+        "text": "Hernia inguinal atascada; se debe intentar una reducción manual suave bajo sedación analgésica oportuna si no hay signos de estrangulación (cambios de coloración, shock); si falla la reducción o hay sospecha de sufrimiento de asa, se debe proceder a intervención quirúrgica de urgencia de inmediato.",
+        "isCorrect": true,
+        "explanation": "La hernia inguinal atascada es una causa común de obstrucción y dolor abdominal en lactantes menores. El asa intestinal herniada queda atrapada dentro del saco herniario debido al espasmo o estrechez del anillo inguinal externo. Clínicamente se presenta como una masa inguinal firme, dolorosa e irreductible, asociada a síntomas obstructivos (vómitos, llanto). Si el paciente está estable y no hay signos clínicos de sufrimiento de asa (eritema local, fiebre alta, acidosis, shock), la conducta inicial adecuada es intentar la reducción manual dirigida (maniobra de taxis) bajo sedación suave y analgesia en el box de urgencias. Si la reducción resulta exitosa, se puede programar la cirugía (hernioplastia inguinal) de forma diferida en las siguientes 24-48 horas. Si la reducción manual falla tras varios intentos o si existen signos de estrangulación isquémica, se debe ingresar de inmediato a pabellón para una cirugía de urgencia."
+      },
+      {
+        "text": "Criptorquidia derecha persistente; derivación prioritaria ambulatoria para orquidopexia a los 12 meses de edad.",
+        "isCorrect": false,
+        "explanation": "La criptorquidia consiste en la ausencia del testículo dentro de la bolsa escrotal (testículo no descendido), pero es indolora y no produce una masa inguinal obstructiva de inicio hiperagudo asociada a vómitos alimenticios."
+      },
+      {
+        "text": "Quiste del cordón espermático infectado; inicio inmediato de Amoxicilina oral por 10 días de forma ambulatoria.",
+        "isCorrect": false,
+        "explanation": "El quiste del cordón es un defecto benigno y su infección primaria es una complicación extremadamente rara que no explica los vómitos mecánicos y el compromiso obstructivo agudo del lactante de 4 meses."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 11 años, portador de Síndrome Nefrótico idiopático en tratamiento activo con Prednisona oral de forma crónica, ingresa al Servicio de Urgencia del Hospital Clínico San Borja Arriarán por un cuadro de dolor abdominal de inicio súbito, difuso, muy intenso, asociado a fiebre de 39,4°C axilar y decaimiento severo. Al examen físico destaca pálido, taquicárdico, con abdomen globuloso con ascitis moderada previa, dolor generalizado a la palpación profunda con signo de rebote (Blumberg) positivo difuso bilateral y ausencia de ruidos hidroaéreos. ¿Cuál es el diagnóstico más probable de este cuadro y el agente bacteriano clásico responsable de esta patología peritonítica no quirúrgica?",
+    "hint": "En pacientes pediátricos inmunocomprometidos o con patologías que cursan con ascitis importante (como el síndrome nefrótico o cirrosis), las bacterias piógenas capsuladas pueden colonizar el líquido peritoneal por translocación hematógena o linfática, generando una peritonitis sin un foco infeccioso visceral quirúrgico primario.",
+    "options": [
+      {
+        "text": "Apendicitis aguda perforada; Bacteroides fragilis.",
+        "isCorrect": false,
+        "explanation": "La apendicitis aguda es una causa de peritonitis secundaria (quirúrgica) por perforación apendicular, pero en un paciente nefrótico con ascitis el debut peritonítico difuso hiperagudo se asocia prioritariamente a peritonitis espontánea y el agente más común de la PBP no es el anaerobio Bacteroides."
+      },
+      {
+        "text": "Colecistitis aguda alitiásica; Salmonella enterica.",
+        "isCorrect": false,
+        "explanation": "La colecistitis alitiásica es rara y cursa con dolor localizado en el hipocondrio derecho con signo de Murphy positivo y distensión vesicular ecográfica, no con peritonitis difusa generalizada desde el debut."
+      },
+      {
+        "text": "Peritonitis bacteriana primaria (espontánea); Streptococcus pneumoniae (Neumococo).",
+        "isCorrect": true,
+        "explanation": "La peritonitis bacteriana primaria (PBP) o espontánea se define como la infección bacteriana de la cavidad peritoneal en ausencia de una fuente de contaminación intraabdominal (como una víscera perforada). Es una complicación grave bien descrita en niños con síndrome nefrótico activo o cirrosis hepática debido a la pérdida urinaria de inmunoglobulinas y factores de complemento que altera la inmunidad humoral. El agente etiológico más común implicado clásicamente en la peritonitis primaria del nefrótico en Chile es el Streptococcus pneumoniae (Neumococo), seguido de enterobacterias como E. coli. Se caracteriza clínicamente por dolor difuso, fiebre muy alta e irritación peritoneal generalizada. Su tratamiento es puramente médico (antibioterapia endovenosa con Cefotaxime o Ceftriaxona), estando contraindicada la laparotomía exploradora rutinaria."
+      },
+      {
+        "text": "Perforación gástrica por úlcera péptica inducida por corticoides; Helicobacter pylori.",
+        "isCorrect": false,
+        "explanation": "Aunque los corticoides predisponen a úlceras, la perforación es infrecuente y el diagnóstico de sospecha primario ante un nefrótico febril con líquido libre es la peritonitis espontánea por neumococo."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Durante la evaluación de un lactante de 6 semanas con sospecha clínica de Estenosis Hipertrófica del Píloro en el CESFAM, usted solicita una Ecotomografía abdominal pilórica de control para confirmar el diagnóstico. De acuerdo con los criterios ecográficos universales y de la Sociedad Chilena de Cirugía Infantil, ¿cuál de las siguientes combinaciones de mediciones de las dimensiones pilóricas confirma de forma ecográfica el diagnóstico de estenosis?",
+    "hint": "La ecografía pilórica demuestra de forma física la hipertrofia de la fibra muscular circular del píloro y el alargamiento anormal de su canal estrechado. Las mediciones diagnósticas de corte representan valores milimétricos específicos que impiden mecánicamente el vaciamiento.",
+    "options": [
+      {
+        "text": "Espesor del músculo pilórico ≥ 3-4 mm (grosor de una sola pared muscular) y longitud total del canal pilórico ≥ 14-15 mm.",
+        "isCorrect": true,
+        "explanation": "Los criterios ecográficos diagnósticos clásicos para la confirmación de la Estenosis Hipertrófica del Píloro son: 1) Espesor o grosor del músculo pilórico ≥ 3 mm (en algunos textos se acepta ≥ 4 mm como confirmación absoluta) en un corte transversal, y 2) Longitud del canal pilórico ≥ 14 mm (o ≥ 15 mm según guías específicas) en un corte longitudinal. La ecografía también revela una imagen en \"doble riel\" por la mucosa pilórica colapsada y la ausencia completa de vaciamiento de líquido gástrico hacia el duodeno."
+      },
+      {
+        "text": "Espesor del píloro menor a 1 mm asociado a vaciamiento gástrico ultra rápido en 5 minutos.",
+        "isCorrect": false,
+        "explanation": "Un espesor menor a 1 mm con vaciamiento rápido es un hallazgo completamente fisiológico de un píloro normal de funcionamiento adecuado en un recién nacido sano."
+      },
+      {
+        "text": "Diámetro pilórico transversal de 5 mm con ausencia de reflujo gastroesofágico.",
+        "isCorrect": false,
+        "explanation": "Un diámetro de 5 mm no cumple con los criterios milimétricos del grosor del músculo circular de la estenosis y la presencia de reflujo no define el defecto obstructivo pilórico primario."
+      },
+      {
+        "text": "Longitud del canal pilórico de 6 mm y grosor muscular de 1,5 mm.",
+        "isCorrect": false,
+        "explanation": "Estas dimensiones corresponden a un píloro de calibre normal y morfología conservada en un lactante de esa edad, descartándose la estenosis."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 7 años es traído a la urgencia infantil por dolor en fosa ilíaca derecha de 4 días de evolución, de tipo sordo, asociado a fiebre moderada de 38,1°C axilar de predominio vespertino, anorexia y decaimiento leve. Al examen físico destaca activo, cooperador, hidratado, con abdomen blando y depresible en su gran mayoría, pero a la palpación de la fosa ilíaca derecha se palpa de forma clara una masa firme, de límites imprecisos, discretamente dolorosa, sin signos de irritación peritoneal generalizada ni Blumberg. La ecografía confirma la presencia de un plastrón apendicular en FID (apéndice perforado bloqueado por epiplón y asas de intestino adyacentes), sin absceso fluido gigante drenable. ¿Cuál es el manejo inicial de elección recomendado para este paciente?",
+    "hint": "En presencia de un plastrón apendicular consolidado en un paciente clínicamente estable y sin peritonitis generalizada, la cirugía inmediata es altamente riesgosa debido a que la disección de los tejidos inflamados y friables aumenta sustancialmente las tasas de fístulas fecales, perforación del ciego y necesidad de resección intestinal compleja. El manejo estándar actual prioriza enfriar el proceso inflamatorio.",
+    "options": [
+      {
+        "text": "Cirugía de urgencia de inmediato para apendicectomía forzada abriendo el plastrón peritoneal.",
+        "isCorrect": false,
+        "explanation": "La apendicectomía forzada inmediata en un plastrón consolidado es un error quirúrgico que asocia una altísima tasa de complicaciones postoperatorias (daño de asas intestinales adyacentes, sangrado masivo, fístulas cecales de difícil manejo)."
+      },
+      {
+        "text": "Alta domiciliaria inmediata con analgésicos orales potentes (tramadol) y reposo relativo sin antibióticos.",
+        "isCorrect": false,
+        "explanation": "El alta domiciliaria sin cobertura antibiótica en un paciente con apéndice perforado y plastrón inflamatorio activo expone al escolar al riesgo inminente de sepsis sistémica y formación de abscesos pelvianos profundos graves."
+      },
+      {
+        "text": "Resección de colon derecho (hemicolectomía derecha) urgente debido a necrosis del ciego asociada.",
+        "isCorrect": false,
+        "explanation": "La hemicolectomía derecha se reserva para patologías oncológicas o necrosis masivas cecales demostradas, constituyendo una mutilación quirúrgica innecesaria y desproporcionada en el manejo de un plastrón apendicular reactivo inflamatorio común."
+      },
+      {
+        "text": "Tratamiento médico conservador intrahospitalario (régimen cero inicial, hidratación parenteral y antibioterapia endovenosa de amplio espectro por 7-10 días); seguido de control clínico ambulatorio y evaluación de apendicectomía diferida o de intervalo en 8 a 12 semanas si presenta síntomas recurrentes.",
+        "isCorrect": true,
+        "explanation": "El manejo de elección actual del plastrón apendicular no complicado (sin sepsis sistémica refractaria ni absceso gigante que requiera drenaje percutáneo) en un paciente estable es el tratamiento médico conservador intrahospitalario. Consta de hospitalización, reposo intestinal, hidratación endovenosa y antibioterapia sistémica de amplio espectro (por ejemplo, ceftriaxona + metronidazol o ampicilina + gentamicina + clindamicina) por 7-10 días hasta la resolución de los parámetros inflamatorios y el dolor. Posteriormente, se realiza seguimiento clínico ecográfico y se evalúa la realización de una apendicectomía diferida o de intervalo en 8 a 12 semanas de forma programada, disminuyendo significativamente la morbilidad quirúrgica en comparación con la cirugía de urgencia inicial sobre un tejido severamente inflamado."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "En el Servicio de Maternidad del Hospital Luis Tisné, se asiste el parto vaginal de un recién nacido de término con diagnóstico ecográfico prenatal de defecto de la pared abdominal anterior. Al nacer, se evidencia de forma directa la herniación de múltiples asas de intestino delgado y colon expuestas hacia la derecha de la inserción del cordón umbilical. Las asas se aprecian edematosas, engrosadas y cubiertas por una fina capa de fibrina. No existe ningún saco de cobertura peritoneal ni amniótica sobre los intestinos herniados. ¿Cuál es el diagnóstico correcto de esta malformación congénita y qué medida de protección física prioritaria de las asas intestinales debe realizar en la sala de atención inmediata de forma inmediata?",
+    "hint": "Es una malformación de la pared abdominal donde las asas están expuestas directamente al líquido amniótico y al medio ambiente exterior. La evaporación rápida de agua a través de las asas produce hipotermia y deshidratación severas en minutos. El manejo inmediato debe evitar la desecación, la pérdida de temperatura y la compresión del flujo de la arteria mesentérica.",
+    "options": [
+      {
+        "text": "Onfalocele; cubrir las asas con gasas secas estériles y aplicar talco salicilado de forma tópica para promover la desecación.",
+        "isCorrect": false,
+        "explanation": "El talco y las gasas secas están estrictamente contraindicados debido a que deshidratan la serosa de la pared de las asas intestinales, promoviendo la adherencia irreversible y facilitando la perforación del asa al retirar el material. Además, la descripción (asas expuestas sin saco a la derecha del cordón) corresponde de forma patognomónica a gastrosquisis y no a onfalocele."
+      },
+      {
+        "text": "Gastrosquisis; cubrir de inmediato las asas intestinales expuestas con compresas o gasas estériles humedecidas con suero fisiológico tibio, envolver el abdomen y las asas en una bolsa de plástico estéril transparente de alta densidad (bolsa de Bogota o de polietileno) para evitar la pérdida de calor y agua por evaporación, y colocar al recién nacido en decúbito lateral derecho para evitar la torsión del pedículo mesentérico.",
+        "isCorrect": true,
+        "explanation": "La Gastrosquisis es un defecto congénito de la pared abdominal anterior localizado típicamente a la derecha del cordón umbilical (el cual se inserta de forma normal en el abdomen). Se caracteriza por la herniación de asas intestinales sin saco de cobertura peritoneal protector, lo que expone al intestino expuesto a daño químico por contacto con el líquido amniótico y a un alto riesgo de deshidratación, hipotermia o infección al nacer. La conducta inmediata en la sala de partos es cubrir las asas con compresas estériles humedecidas con suero fisiológico templado e introducir la mitad inferior del neonato dentro de una bolsa protectora de polietileno transparente estéril. Esto previene de forma muy eficaz las pérdidas masivas de calor y agua por evaporación. Colocar al RN en decúbito lateral evita la angulación de los vasos mesentéricos y previene la isquemia del asa herniada antes de su cirugía de cierre primario o colocación de silo."
+      },
+      {
+        "text": "Hernia umbilical gigante complicada; realizar compresión manual firme de las asas para forzar su introducción hacia la cavidad abdominal.",
+        "isCorrect": false,
+        "explanation": "Forzar la reducción manual de asas en la sala de atención inmediata de forma ciega y sin anestesia eleva la presión intraabdominal de forma drástica, induciendo un síndrome compartimental abdominal fatal con colapso ventilatorio y necrosis intestinal refleja."
+      },
+      {
+        "text": "Extrofia vesical congénita; cubrir la mucosa con una sonda Foley transuretral permanente de tres vías.",
+        "isCorrect": false,
+        "explanation": "La extrofia vesical cursa con la exposición de la pared posterior de la vejiga y sínfisis púbica abierta, patología completamente ajena al curso clínico y anatómico de la gastrosquisis descrita."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Recién nacido de término cursa con un defecto congénito mayor de la pared abdominal en la línea media. Al examen segmentario destaca un gran aumento de volumen localizado en el anillo umbilical, cubierto por un saco membranoso translúcido y firme de tres capas (compuesto por peritoneo en el interior, gelatina de Wharton en el medio y amnios en el exterior), a través del cual se visualiza la herniación de múltiples asas intestinales y gran parte del lóbulo hepático izquierdo. El cordón umbilical se inserta directamente sobre el ápex de esta estructura membranosa. ¿Cuál es el diagnóstico de este defecto y con qué anomalías congénitas de relevancia pronóstica se asocia de forma prioritaria en pediatría?",
+    "hint": "A diferencia de la gastrosquisis, este defecto de la línea media está cubierto por un saco membranoso y el cordón umbilical se inserta en su cúpula. Al ser un defecto temprano del desarrollo embrionario de los pliegues de la pared, asocia un porcentaje muy elevado de malformaciones sistémicas mayores asociadas (especialmente cardíacas).",
+    "options": [
+      {
+        "text": "Gastrosquisis; asociado a atresias intestinales secundarias por isquemia del conducto.",
+        "isCorrect": false,
+        "explanation": "La gastrosquisis no presenta saco membranoso protector (las asas están libres y flotando en líquido amniótico), el cordón se inserta normal a la izquierda del defecto y tiene baja tasa de malformaciones extraintestinales asociadas, exceptuando la atresia intestinal segmentaria por isquemia focal del asa expuesta."
+      },
+      {
+        "text": "Hernia umbilical gigante; asociado a hipotiroidismo congénito de inicio precoz.",
+        "isCorrect": false,
+        "explanation": "La hernia umbilical simple es benigna, cubierta por piel normal sana y su asociación con hipotiroidismo es de carácter endocrino metabólico menor, no constituyendo una malformación estructural peritonítica severa de saco visible translúcido que contenga hígado."
+      },
+      {
+        "text": "Onfalocele; asociado en un 50-60% de los casos a anomalías cromosómicas (Trisomías 13, 18, 21), cardiopatías congénitas complejas graves y Síndrome de Beckwith-Wiedemann (onfalocele, macrosomía, macroglosia e hipoglicemia).",
+        "isCorrect": true,
+        "explanation": "El Onfalocele es un defecto de la línea media de la pared abdominal anterior en el cual los órganos intraabdominales se hernian a través del anillo umbilical abierto, permaneciendo cubiertos por un saco de tres capas (amnios, gelatina de Wharton y peritoneo). El cordón umbilical se inserta directamente en el ápex de la membrana del saco. El onfalocele tiene una asociación sumamente alta (50-60%) con otras malformaciones congénitas sistémicas graves: cardiopatías congénitas mayores (como comunicación interventricular, Tetralogía de Fallot), anomalías del tubo neural, anomalías cromosómicas (Trisomía 13 o Síndrome de Patau, Trisomía 18 o Síndrome de Edwards) y síndromes específicos de sobrecrecimiento como el Síndrome de Beckwith-Wiedemann. Es obligatorio realizar un ecocardiograma Doppler precoz en todo onfalocele neonatal antes de cualquier intervención."
+      },
+      {
+        "text": "Extrofia cloacal; asociado a displasia renal bilateral de grado irreversible.",
+        "isCorrect": false,
+        "explanation": "La extrofia cloacal es una anomalía pélvica masiva que compromete la vejiga, recto y periné, con una presentación anatómica desestructurada e incompatible con este saco umbilical clásico de onfalocele."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 12 años, de sexo femenino, con antecedentes de Anemia de Células Falciformes en control especialista. Acude al Servicio de Urgencia por un cuadro de 24 horas de evolución de dolor abdominal de tipo cólico recurrente localizado en el hipocondrio derecho, irradiado al hombro derecho y dorso, gatillado tras la ingesta de alimentos grasos (coledociano). Al examen destaca afebril, ictericia leve de escleras y dolor moderado a la palpación del cuadrante superior derecho con signo de Murphy negativo. Se realiza ecografía de abdomen que muestra vesícula biliar de paredes finas que contiene múltiples cálculos milimétricos móviles con sombra acústica posterior y colédoco de calibre normal. ¿Cuál es el tipo de cálculo vesicular más probable en este escenario y cuál es la conducta de elección de primera línea?",
+    "hint": "En la edad pediátrica, la colelitiasis es infrecuente. Cuando se presenta en escolares pequeños, la causa más común son los trastornos hematológicos de tipo hemolítico crónico (anemia falciforme, esferocitosis hereditaria) debido a la sobreproducción y precipitación biliar de bilirrubina indirecta no conjugada.",
+    "options": [
+      {
+        "text": "Cálculos de pigmento negro (bilirrubinato de calcio) secundarios a hemólisis crónica; derivación prioritaria para Colecistectomía programada por el riesgo latente de complicaciones obstructivas (pancreatitis biliar, coledocolitiasis).",
+        "isCorrect": true,
+        "explanation": "La colelitiasis pediátrica tiene causas específicas. En niños menores de 10-12 años, el principal factor de riesgo son las enfermedades hemolíticas crónicas (como la anemia de células falciformes o drepanocitosis). La hemólisis intravascular persistente eleva la secreción de bilirrubina indirecta en la bilis, lo que facilita la precipitación de bilirrubinato de calcio en forma de cálculos pigmentarios negros. Estos cálculos son típicamente pequeños, múltiples y con una alta propensión a migrar hacia la vía biliar común, provocando coledocolitiasis o pancreatitis biliar aguda. La conducta recomendada en pacientes sintomáticos es la colecistectomía programada (por vía laparoscópica) de forma electiva para evitar complicaciones quirúrgicas agudas obstructivas graves."
+      },
+      {
+        "text": "Cálculos de colesterol puro secundarios a obesidad infantil; inicio inmediato de tratamiento disolutivo oral con ácido ursodesoxicólico por 5 años.",
+        "isCorrect": false,
+        "explanation": "Los cálculos de colesterol son típicos de adolescentes mujeres con obesidad o uso de anticonceptivos, pero no son la causa primaria en escolares con patología de anemia de células falciformes de base. El tratamiento farmacológico con ácido ursodesoxicólico es poco eficaz en cálculos pigmentarios negros duros."
+      },
+      {
+        "text": "Cálculos mixtos de carbonato de calcio secundarios a infección por Salmonella; antibioterapia endovenosa de amplio espectro por 14 días totales de tratamiento.",
+        "isCorrect": false,
+        "explanation": "La colelitiasis infecciosa por salmonela es una causa anecdótica que no explica la patogenia de base en este trastorno falciforme sistémico de alta hemólisis y no requiere antibioticoterapia prolongada en ausencia de colecistitis supurativa."
+      },
+      {
+        "text": "Barro biliar pseudolitiasico; colecistostomía percutánea de urgencia guiada por radiología intervencional.",
+        "isCorrect": false,
+        "explanation": "La colecistostomía es un drenaje paliativo de urgencia reservado para adultos mayores críticos con colecistitis alitiásica gangrenosa severa que no toleran anestesia, careciendo de indicación o justificación terapéutica en este escolar estable sintomático."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 5 años es llevado por sus padres al Servicio de Urgencia Infantil por presentar dolor abdominal de inicio brusco en la región del epigastrio, de carácter continuo, muy intenso, irradiado en \"faja\" hacia ambos flancos y dorso, acompañado de náuseas y 4 episodios de vómitos de contenido alimenticio y bilioso. Al interrogar de forma dirigida sobre antecedentes recientes, el padre relata que hace 48 horas el niño sufrió una caída de su bicicleta, golpeándose el abdomen directamente con el manubrio de la misma. Al examen físico destaca dolor marcado a la palpación epigástrica con moderada distensión abdominal y ruidos hidroaéreos disminuidos. Amilasa sérica de 450 U/L (rango normal < 110 U/L) y Lipasa sérica de 820 U/L (rango normal < 60 U/L). ¿Cuál es el diagnóstico clínico más probable de este abdomen agudo médico postoperatorio?",
+    "hint": "El antecedente de un traumatismo abdominal directo \"en botón de camisa\" o por el manubrio de una bicicleta en niños es la causa clásica de lesiones por compresión del páncreas contra los cuerpos vertebrales lumbares rígidos, manifestándose como un cuadro obstructivo pancreático agudo con elevación de enzimas específicas de tres veces el valor de corte superior normal.",
+    "options": [
+      {
+        "text": "Duplicación duodenal traumática con hematoma de pared.",
+        "isCorrect": false,
+        "explanation": "El hematoma duodenal cursa con obstrucción intestinal alta marcada y vómitos biliosos incoercibles, pero no eleva de forma tan masiva y simultánea la lipasa sérica a niveles de ocho veces el rango normal como ocurre en la pancreatitis."
+      },
+      {
+        "text": "Pancreatitis aguda de origen traumático (secundaria a compresión del páncreas sobre la columna vertebral).",
+        "isCorrect": true,
+        "explanation": "La pancreatitis aguda postraumática representa una causa bien descrita de abdomen agudo de origen pancreático en pediatría. El mecanismo clásico es el traumatismo cerrado por el manubrio de una bicicleta (u otros traumatismos directos sobre el epigastrio). Debido a la elasticidad de la pared abdominal infantil y a que el cuerpo del páncreas cruza directamente la columna vertebral lumbar rígida, el golpe comprime el páncreas contra las vértebras, provocando contusión, tracción, ruptura ductal y pancreatitis por autodigestión enzimática secundaria. Clínicamente cursa con dolor epigástrico irradiado en faja y elevación diagnóstica típica de amilasa y lipasa sérica (esta última es más específica y de mayor duración). El manejo inicial es médico de soporte (reposo digestivo, hidratación endovenosa enérgica y monitorización)."
+      },
+      {
+        "text": "Perforación traumática de víscera hueca (yeyuno proximal).",
+        "isCorrect": false,
+        "explanation": "La perforación traumática de víscera hueca cursa con un cuadro agudo de peritonitis química y bacteriana severa hiperaguda desde las primeras horas, con aire libre intraabdominal abundante detectable (neumoperitoneo franco) en la radiografía de pie, lo que no coincide con este cuadro subagudo con enzimas elevadas estables."
+      },
+      {
+        "text": "Apendicitis aguda retrocecal traumática atípica.",
+        "isCorrect": false,
+        "explanation": "La apendicitis aguda no se gatilla de forma traumática por compresión vertebral epigástrica ni asocia de ninguna forma la elevación sistémica masiva de amilasa y lipasa pancreáticas descrita."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 9 años es traído a la consulta de pediatría del CESFAM por su madre. Refiere que desde hace 1 año presenta episodios recurrentes de dolor abdominal difuso de tipo cólico que cede parcialmente tras la defecación, asociado a la emisión de deposiciones muy duras, caprinas, que le causan dolor al evacuar, con una frecuencia de una evacuación cada 4 o 5 días. Además, refiere que en las últimas dos semanas ha presentado pérdidas involuntarias de deposiciones semilíquidas que manchan su ropa interior de forma diaria, lo que los padres interpretaban como episodios de diarrea. Al examen físico destaca abdomen blando con una masa alargada, dura y móvil palpable en el flanco e fosa ilíaca izquierda. ¿Cuál es el diagnóstico clínico más probable de este cuadro y el manejo inicial prioritario de elección?",
+    "hint": "La constipación crónica funcional es la causa más común de masa abdominal palpable y de dolor recurrente difuso en preescolares y escolares. El manchado de la ropa (encopresis) no refleja diarrea verdadera, sino el escurrimiento de materia fecal líquida alrededor de una gran masa de fecaloma duro impactado en la ampolla rectal. El tratamiento exige vaciar primero el fecaloma antes de usar laxantes de mantención.",
+    "options": [
+      {
+        "text": "Megacolon tóxico por colitis ulcerosa activa; hospitalización inmediata para colectomía total de urgencia.",
+        "isCorrect": false,
+        "explanation": "El megacolon tóxico es una complicación aguda inflamatoria gravísima que cursa con fiebre alta, dolor abdominal insoportable, inestabilidad hemodinámica y distensión abdominal masiva con asas colonicas gigantes dilatadas en la radiografía, alejándose por completo de este cuadro de constipación crónica."
+      },
+      {
+        "text": "Giardiasis crónica recidivante; tratamiento antibiótico con Metronidazol oral por 10 días a toda la familia.",
+        "isCorrect": false,
+        "explanation": "La giardiasis puede causar dolor y diarrea crónica intermitente o malabsorción, pero no explica la palpación de una masa fecal colónica izquierda dura ni la presencia de encopresis obstructiva asociada."
+      },
+      {
+        "text": "Síndrome de colon irritable tipo diarreico; dieta libre de fibra dietaria e inicio de laxantes osmóticos de forma continua de por vida.",
+        "isCorrect": false,
+        "explanation": "El colon irritable es un diagnóstico de descarte infrecuente a esta edad y la constipación de base se maneja aumentando el aporte de fibra dietaria y agua en la dieta de forma prioritaria, no limitándola."
+      },
+      {
+        "text": "Constipación funcional crónica con Encopresis (escurrimiento/incontinencia fecal por rebosamiento) y Fecaloma rectal palpable; el manejo inicial prioritario consiste en la desimpactación del fecaloma (preferentemente con Polietilenglicol oral a dosis altas de 1-1,5 g/kg/día por 3 a 5 días o enemas de limpieza suaves), seguido de terapia de mantenimiento prolongada con ablandadores de deposición y reeducación de hábitos defecatorios.",
+        "isCorrect": true,
+        "explanation": "La constipación funcional es la causa del dolor abdominal recurrente en más del 90-95% de los escolares derivados. El fecaloma rectal palpable en fosa ilíaca izquierda es un hallazgo común que refleja retención crónica de heces. La encopresis o incontinencia fecal no orgánica se produce debido a que el colon distal se dilata progresivamente (megacolon adquirido) perdiendo la sensibilidad de la ampolla rectal, facilitando que la deposición líquida del colon proximal escurra mecánicamente por gravedad alrededor del fecaloma duro e impactado, manchando la ropa interior de forma involuntaria. El tratamiento correcto siempre exige desimpactar el fecaloma como primer paso prioritario utilizando Polietilenglicol (PEG 3350) a dosis altas por vía oral o enemas rectales si es necesario. Posteriormente, se inicia la mantención prolongada con PEG a dosis habituales para asegurar deposiciones blandas y se reeduca el hábito defecatorio del escolar."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante de 14 meses es evaluado en el box de urgencias por un cuadro de dolor abdominal agudo, irritabilidad y llanto intermitente de 12 horas de evolución. Al realizar el examen físico segmentario del abdomen, el lactante llora con fuerza de forma continua debido al frío de las manos del examinador y la manipulación, dificultando la palpación para diferenciar un abdomen blando de una defensa muscular voluntaria. De acuerdo a la semiología pediátrica aplicada, ¿cuál de las siguientes maniobras o signos semiológicos es el más fiable y recomendado para detectar de forma indirecta un abdomen agudo con irritación peritoneal en un lactante no colaborador?",
+    "hint": "En lactantes pequeños, la palpación directa forzada gatilla rigidez muscular voluntaria refleja por miedo o llanto. Las maniobras indirectas (percutir suavemente el abdomen, interponer la propia mano del niño o provocar la movilización pasiva del peritoneo mediante un salto o movimiento de la camilla) permiten certificar la presencia de peritonitis química/bacteriana con alta fidelidad clínica.",
+    "options": [
+      {
+        "text": "Presión digital firme y sostenida sobre el punto de McBurney hasta provocar el llanto forzado que despierte al lactante de la somnolencia.",
+        "isCorrect": false,
+        "explanation": "Comprimir de forma enérgica el apéndice inflamado en un lactante que llora por miedo solo incrementará la tensión voluntaria de la musculatura abdominal de forma inespecífica, careciendo de especificidad semiológica."
+      },
+      {
+        "text": "Tacto rectal digital anal profundo para percutir de forma retrógrada la pared del ciego inflamado.",
+        "isCorrect": false,
+        "explanation": "El tacto rectal de rutina en dolor abdominal agudo infantil no está indicado y representa una maniobra altamente traumática y dolorosa que puede generar iatrogenia local en menores de 2 años sin un foco obstructivo evidente que lo justifique."
+      },
+      {
+        "text": "Evaluar la defensa muscular involuntaria palpando el abdomen del lactante con su propia mano interpuesta bajo la mano del examinador durante la fase de inspiración forzada del llanto, o bien percutir de forma muy suave el abdomen (\"dolor a la percusión abdominal\") o movilizar la camilla del paciente de forma brusca para evaluar si el movimiento genera dolor peritoneal agudo que gatille llanto.",
+        "isCorrect": true,
+        "explanation": "La evaluación semiológica del abdomen del lactante menor no colaborador es un gran desafío clínico. Para diferenciar la rigidez muscular voluntaria (llanto por miedo) de la rigidez involuntaria (defensa peritoneal por inflamación visceral), se recomienda interponer la mano del propio niño debajo de la mano del examinador; el lactante no lucha contra su propia mano y permite que el examinador palpe profundamente los tejidos. Asimismo, el dolor a la percusión abdominal suave (que genera una mínima vibración peritoneal muy dolorosa en peritonitis) o el dolor al golpear suavemente el talón del lactante con la pierna extendida (prueba del talón o talopercusión) o la sacudida de la camilla, son signos indirectos altamente fiables y de menor agresividad para certificar un abdomen agudo quirúrgico."
+      },
+      {
+        "text": "Realizar la maniobra de Murphy vesicular comprimiendo el reborde costal derecho de forma vigorosa hasta interrumpir el sollozo del lactante.",
+        "isCorrect": false,
+        "explanation": "La maniobra de Murphy vesicular busca comprimir la vesícula biliar inflamada en patología litiásica aguda, afección extremadamente infrecuente en lactantes de 14 meses sanos que se presentan con dolor difuso paroxístico compatible con invaginación o apendicitis."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante menor de 1 hora de vida, nacido de término mediante cesárea electiva por sospecha prenatal de hernia diafragmática. En la sala de atención inmediata de recién nacidos, destaca desde el nacimiento por presentar un cuadro de dificultad respiratoria severa progresiva, caracterizado por cianosis perioral y generalizada refractaria a aporte de oxígeno, polipnea marcada con FR de 78 rpm, retracción costal e intercostal profunda, tórax abombado y un abdomen excavado o en batea (abdomen escafoide). A la auscultación se constata abolición completa del murmullo pulmonar en el hemitórax izquierdo, con presencia de ruidos hidroaéreos audibles dentro del tórax izquierdo y desplazamiento del latido cardíaco hacia el hemitórax derecho. De acuerdo con el manejo de reanimación avanzado de esta patología neonatal de alta mortalidad, ¿cuál de las siguientes intervenciones terapéuticas está ABSOLUTAMENTE CONTRAINDICADA en este recién nacido?",
+    "hint": "Es una malformación congénita grave caracterizada por el paso de las asas intestinales y el estómago al tórax a través de un defecto diafragmático posterolateral izquierdo (Hernia de Bochdalek). El soporte ventilatorio debe evitar a toda costa inflar o distender el estómago herniado dentro del tórax, lo que comprimiría de forma letal el poco parénquima pulmonar contralateral viable.",
+    "options": [
+      {
+        "text": "Ventilación asistida manual con bolsa y máscara de reanimación (Ambu) por el riesgo crítico de distensión gástrica y colapso pulmonar.",
+        "isCorrect": true,
+        "explanation": "La Hernia Diafragmática Congénita (HDC) es una emergencia neonatal grave caracterizada por la herniación de vísceras abdominales al tórax (la de Bochdalek, posterolateral izquierda, representa el 85-90% de los casos). Al nacer, el recién nacido sufre de insuficiencia respiratoria severa e hipertensión pulmonar debido a hipoplasia pulmonar ipsilateral y contralateral secundaria. La ventilación con bolsa y máscara (Ambu) está absolutamente contraindicada en esta patología. Al ventilar con máscara, gran parte del aire insuflado ingresa de forma mecánica por el esófago hacia el estómago e intestinos herniados dentro del tórax. Esto distiende rápidamente las asas intestinales intratorácicas, comprimiendo de forma masiva el pulmón derecho e izquierdo contralateral sano y desplazando el mediastino, provocando un cortocircuito irreversible y muerte del neonato por colapso cardiovascular."
+      },
+      {
+        "text": "Intubación orotraqueal inmediata y colocación de una sonda nasogástrica de doble lumen a aspiración continua (descompresiva).",
+        "isCorrect": false,
+        "explanation": "El manejo estándar y mandatorio del recién nacido con HDC e insuficiencia respiratoria aguda exige la intubación orotraqueal inmediata de forma directa en sala de partos para proteger la vía aérea y ventilar de forma selectiva el parénquima pulmonar sin introducir aire al tubo digestivo, asociando la colocación de una sonda nasogástrica gruesa a permanencia para descomprimir continuamente el estómago de cualquier gas retenido."
+      },
+      {
+        "text": "Monitorización continua de saturación pre y post-ductal para evaluar hipertensión pulmonar.",
+        "isCorrect": false,
+        "explanation": "La monitorización pre y post-ductal (mano derecha vs pie) permite cuantificar el grado de cortocircuito de derecha a izquierda secundario a hipertensión pulmonar y guiar el uso de vasodilatadores pulmonares como el óxido nítrico inhalado, constituyendo una medida correcta y recomendada."
+      },
+      {
+        "text": "Inicio precoz de soporte ventilatorio de alta frecuencia (VAFO) o conexión a membrana de oxigenación extracorpórea (ECMO).",
+        "isCorrect": false,
+        "explanation": "El uso de ventilación de alta frecuencia y el soporte circulatorio avanzado mediante ECMO (oxigenación por membrana extracorpórea) son las estrategias terapéuticas modernas recomendadas para estabilizar al neonato críticamente enfermo antes de proceder a la reparación diafragmática quirúrgica programada de intervalo."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 9 años es traído por sus padres al Servicio de Urgencia Infantil por un cuadro de 12 horas de evolución de dolor abdominal difuso muy intenso, náuseas, vómitos repetidos de contenido alimenticio y deshidratación moderada. Al examen físico destaca pálido, ojeroso, muy decaído, con un patrón respiratorio caracterizado por respiraciones rápidas, profundas y ruidosas (respiración de Kussmaul), aliento con olor cetónico (\"frutal\") marcado, abdomen doloroso a la palpación profunda difusa, con ruidos hidroaéreos conservados y sin Blumberg ni rigidez real. Se plantea la posibilidad de un pseudabdomen agudo. ¿Cuál es el diagnóstico metabólico subyacente y la conducta prioritaria para descartar este cuadro antes de realizar cualquier interconsulta al equipo de cirugía infantil?",
+    "hint": "Ciertos trastornos metabólicos graves que cursan con acidosis metabólica severa y deshidratación extrema en niños pueden simular perfectamente un abdomen agudo quirúrgico (con dolor difuso importante y defensa muscular voluntaria). El aliento cetónico y la respiración compensatoria profunda de Kussmaul orientan al debut de una endocrinopatía frecuente.",
+    "options": [
+      {
+        "text": "Apendicitis retrocecal ascendente obstructiva; TAC de abdomen y pelvis de urgencia inmediato con contraste.",
+        "isCorrect": false,
+        "explanation": "Derivar de forma ciega para un examen de TAC de abdomen por sospecha de apendicitis sin antes evaluar las constantes metabólicas y respiratorias del escolar representa una omisión diagnóstica grave que puede comprometer la vida del paciente al retrasar la terapia de la CAD."
+      },
+      {
+        "text": "Insuficiencia suprarrenal aguda de inicio pediátrico; administración urgente de un bolo de Dexametasona endovenosa.",
+        "isCorrect": false,
+        "explanation": "La crisis suprarrenal aguda es infrecuente, asocia hipotensión profunda intratable y choque hipovolémico marcado, y aunque cursa con dolor abdominal difuso, no se asocia clásicamente al aliento cetónico frutal y respiración profunda de Kussmaul del debut diabético."
+      },
+      {
+        "text": "Cetoacidosis Diabética (CAD) como debut de Diabetes Mellitus Tipo 1; medición inmediata de glicemia capilar (Hemoglucotest), gases arteriales/venosos y cetonemia/cetonuria. El dolor abdominal se asocia a la acidosis metabólica severa, deshidratación de las serosas y trastornos electrolíticos, resolviendo de forma completa tras el inicio de la terapia médica de hidratación endovenosa e infusión continua de insulina.",
+        "isCorrect": true,
+        "explanation": "El dolor abdominal agudo en un escolar con decaimiento profundo, deshidratación, respiración de Kussmaul (compensatoria de una acidosis metabólica de brecha aniónica elevada) y aliento cetónico es la presentación clásica del debut de una Diabetes Mellitus Tipo 1 complicada con Cetoacidosis Diabética (CAD). El dolor abdominal se conoce como \"pseudabdomen agudo metabólico\" y se produce por deshidratación e inflamación inespecífica de las serosas peritoneales debido a la acidosis sistémica y las alteraciones electrolíticas. La conducta correcta y prioritaria es tomar un Hemoglucotest de urgencia (que reportará glicemia > 250 mg/dL), gases venosos (acidosis metabólica con pH < 7,3 y bicarbonato < 15 mEq/L) y certificar cetonuria, iniciando el protocolo médico de rehidratación enérgica y posterior infusión continua de insulina. El dolor abdominal se resuelve de forma completa en pocas horas de corregida la acidosis metabólica, evitando cirugías innecesarias iatrogénicas catastróficas."
+      },
+      {
+        "text": "Intoxicación aguda por plomo; derivación prioritaria a toxicología clínica de referencia.",
+        "isCorrect": false,
+        "explanation": "El loxoscelismo o la intoxicación por metales pesados (plomo) pueden causar dolor abdominal (\"cólico saturnino\"), pero cursan con un curso de evolución crónico ocupacional o antecedentes de picadura local, sin asociarse al cuadro metabólico hiperagudo con respiración de Kussmaul descrito."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Un interno de medicina analiza los criterios diagnósticos clínicos para evaluar la probabilidad de apendicitis aguda en preescolares y escolares que se presentan con dolor abdominal en fosa ilíaca derecha. Al repasar el Pediatric Appendicitis Score (PAS) de Samuel y el Score de Alvarado clásico, ¿cuáles son las variables clínicas del examen físico que presentan el mayor peso diagnóstico y asignación de puntaje en estas escalas predictivas?",
+    "hint": "Las escalas diagnósticas de apendicitis se basan en signos cardinales que reflejan la localización progresiva de la inflamación del peritoneo visceral al peritoneo parietal localizado sobre el ciego en la fosa ilíaca derecha.",
+    "options": [
+      {
+        "text": "Presencia de diarrea líquida mucosa, distensión abdominal difusa e hiporreactividad.",
+        "isCorrect": false,
+        "explanation": "La diarrea mucosa y la distensión abdominal difusa son síntomas inespecíficos que alejan el diagnóstico de una apendicitis simple no complicada, sugiriendo gastroenteritis infecciosa enteral."
+      },
+      {
+        "text": "Dolor localizado a la palpación de la fosa ilíaca derecha (FID), dolor al rebote (descompresión dolorosa en fosa ilíaca derecha o Blumberg) y leucocitosis con desviación a la izquierda.",
+        "isCorrect": true,
+        "explanation": "En las escalas predictivas de apendicitis pediátrica, como el Pediatric Appendicitis Score (PAS) y el Score de Alvarado, las variables que tienen la mayor asignación de puntaje (2 puntos cada una, a diferencia de los otros parámetros que asignan 1 punto) son: el dolor localizado a la palpación en la fosa ilíaca derecha, el dolor con la descompresión o tos (rebote positivo o signo de Blumberg) y el hallazgo de leucocitosis (con neutrofilia o desviación a la izquierda) en el hemograma. Un puntaje acumulado de ≥ 7-8 puntos en el PAS tiene una probabilidad predictiva de apendicitis superior al 90%, indicando derivación quirúrgica directa para resolución, mientras que puntajes intermedios (4-6 puntos) sugieren mantener en observación u obtener ecografía confirmatoria de control."
+      },
+      {
+        "text": "Fiebre alta intermitente mayor a 39°C axilar asociada a hepatoesplenomegalia palpable.",
+        "isCorrect": false,
+        "explanation": "La fiebre en apendicitis no complicada es típicamente moderada o febrícula (37,5-38,2°C); fiebres altísimas y visceromegalias masivas orientan a cuadros de tipo oncohematológicos, mononucleosis infecciosa o sepsis generalizada."
+      },
+      {
+        "text": "Presencia de disuria dolorosa, orina turbia con nitritos positivos y dolor costovertebral derecho (puño percusión).",
+        "isCorrect": false,
+        "explanation": "La disuria y nitritos en la orina confirman una Infección del Tracto Urinario (ITU) con dolor lumbar por pielonefritis aguda, representando un diagnóstico diferencial médico de descarte que no forma parte de las variables diagnósticas de sospecha de apendicitis."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Lactante de 10 meses con sospecha de Invaginación Intestinal. Al realizar la ecografía de abdomen con Doppler color, el radiólogo infantil informa el hallazgo de líquido libre moderado tabicado en la fosa ilíaca derecha, ausencia de flujo al Doppler en la pared del asa intestinal invaginada (intususceptum) y engrosamiento marcado de la pared intestinal con pérdida de la estratificación normal de las capas. Clínicamente, el lactante se encuentra letárgico, pálido, taquicárdico, febril a 38,6°C rectal y con signos de defensa muscular generalizada (abdomen en tabla). ¿Cuál es la conducta terapéutica de elección indicada para este paciente?",
+    "hint": "La presencia de signos de isquemia o necrosis intestinal (ausencia de flujo al Doppler de la pared intestinal, fiebre, letargia y defensa peritoneal) constituye una contraindicación absoluta para la reducción hidrostática o neumática por el alto riesgo de perforar el asa necrótica e inducir peritonitis estercorácea y shock séptico.",
+    "options": [
+      {
+        "text": "Proceder de inmediato a la reducción no quirúrgica mediante enema de aire a alta presión para intentar liberar el asa viable.",
+        "isCorrect": false,
+        "explanation": "Intentar la reducción neumática bajo presión en un intestino isquémico o necrótico es un grave error de manejo clínico que conlleva una perforación masiva del colon intrahospitalaria con peritonitis fecal secundaria e incremento drástico de la mortalidad."
+      },
+      {
+        "text": "Indicar el alta domiciliaria con antibióticos orales potentes (amoxicilina + metronidazol) por sospecha de invaginación resuelta de forma espontánea.",
+        "isCorrect": false,
+        "explanation": "El alta domiciliaria en un lactante letárgico, febril y con obstrucción intestinal mecánica complicada con necrosis es de altísimo riesgo y representa una negligencia médica inexcusable."
+      },
+      {
+        "text": "Instalar una sonda rectal para descompresión e indicar alimentación enteral con fórmula libre de lactosa.",
+        "isCorrect": false,
+        "explanation": "La alimentación enteral y el uso de sondas rectales simples no resuelven la causa obstructiva mecánica de la invaginación ni revierten la isquemia vascular establecida de la pared intestinal."
+      },
+      {
+        "text": "Suspender de inmediato cualquier intento de reducción no quirúrgica por enema (debido a contraindicación absoluta por riesgo inminente de perforación y peritonitis fecal), iniciar reanimación enérgica con fluidos endovenosos y antibióticos de amplio espectro, y derivar a pabellón para exploración quirúrgica de urgencia de forma inmediata.",
+        "isCorrect": true,
+        "explanation": "En pacientes con invaginación intestinal, la presencia de signos clínicos de peritonitis (abdomen en tabla, Blumberg generalizado), inestabilidad hemodinámica (shock, taquicardia severa), letargia, fiebre o hallazgos ecográficos de compromiso vascular isquémico en el Doppler color o pérdida de la estratificación normal de la pared, representan una contraindicación absoluta para la reducción no quirúrgica por enema neumático o hidrostático. El asa intestinal se encuentra friable y despulida; la presión generada por el enema provocará la ruptura mecánica y perforación del intestino con volcado de deposiciones a la cavidad abdominal (peritonitis fecal letal). La conducta correcta es suspender el intento de enema, iniciar reanimación hemodinámica vigorosa con suero fisiológico endovenoso, instalar sonda nasogástrica, prescribir antibióticos endovenosos de amplio espectro y derivar de inmediato a pabellón para exploración quirúrgica abierta o laparoscópica."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 14 años es traído a urgencias por un dolor abdominal agudo de 12 horas de evolución que inició de forma sorda en el epigastrio y migró progresivamente hacia la fosa ilíaca derecha, asociándose a febrícula de 37,8°C axilar, anorexia y náuseas. Se plantea el diagnóstico de apendicitis aguda congestiva simple no complicada. ¿Cuál es el principal factor etiológico implicado en la obstrucción inicial de la luz apendicular en la edad de escolares y adolescentes sanos en Chile?",
+    "hint": "Aunque la fisiopatología inflamatoria linfoide es común en lactantes y preescolares pequeños, en el grupo de escolares mayores y adolescentes la causa más común de apendicitis es la retención mecánica de materia fecal impactada en la luz.",
+    "options": [
+      {
+        "text": "Obstrucción intraluminal mecánica por un apendicolito o fecalito.",
+        "isCorrect": true,
+        "explanation": "En escolares mayores y adolescentes, la obstrucción mecánica por un fecalito o apendicolito (depósitos duros de materia fecal calcificada mezclados con moco) constituye el factor desencadenante primario y más frecuente de la apendicitis aguda. Al ocluir de forma insuperable la luz apendicular, se genera un aumento progresivo de la presión interna, comprometiendo de forma secuencial la perfusión de la pared, facilitando la invasión bacteriana y desencadenando el cuadro clínico clásico."
+      },
+      {
+        "text": "Invaginación del apéndice dentro del ciego secundario a un pólipo cecal cecal.",
+        "isCorrect": false,
+        "explanation": "La intususcepción del apéndice es una entidad de extrema rareza que se presenta en el contexto de patologías tumorales o pólipos de gran tamaño y no representa el factor etiológico clásico del preescolar o adolescente sano."
+      },
+      {
+        "text": "Torsión aguda sobre el eje del mesoapéndice debido a un mesenterio excesivamente largo.",
+        "isCorrect": false,
+        "explanation": "La torsión sobre el mesoapéndice es una anomalía mecánica anecdótica y la causa de apendicitis radica de forma universal en la obstrucción interna luminal por fecalito o hiperplasia linfoide reactiva."
+      },
+      {
+        "text": "Isquemia primaria de la arteria apendicular por depósitos de colesterol.",
+        "isCorrect": false,
+        "explanation": "La ateroesclerosis o isquemia primaria arterial no forma parte de la patogenia de la apendicitis infantil y el compromiso vascular arterial ocurre de forma puramente secundaria a la compresión extrínseca por el aumento de la presión intraluminal de la luz apendicular obstruida."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Traumatología",
+    "text": "Escolar de 6 años es traído al Servicio de Urgencia Infantil por dolor abdominal agudo severo localizado en el hipogastrio y fosa ilíaca derecha de 6 horas de evolución, asociado a náuseas y llanto inconsolable. Al realizar el examen físico segmentario del abdomen, el pediatra constata un abdomen blando, depresible, sin Blumberg real en fosa ilíaca derecha. Sin embargo, al completar de forma sistemática el examen físico genital obligatorio, se constata asimetría testicular derecha con eritema y edema del escrotal ipsilateral, testículo derecho elevado y horizontalizado con dolor extremo al tacto que no cede con la elevación de la gónada (signo de Prehn negativo) y ausencia del reflejo cremasteriano derecho. ¿Cuál es el diagnóstico clínico de sospecha y la conducta terapéutica de elección prioritaria recomendada?",
+    "hint": "En pediatría, el dolor testicular agudo se manifiesta frecuentemente como dolor abdominal bajo o referido a la fosa ilíaca. Todo dolor abdominal agudo en un varón exige de forma obligatoria la inspección y palpación prolija de los genitales para descartar una emergencia testicular que comprometa la viabilidad de la gónada en pocas horas.",
+    "options": [
+      {
+        "text": "Orquiepididimitis bacteriana aguda por reflujo urinario; toma de urocultivo e inicio de amoxicilina oral por 10 días de forma ambulatoria en su domicilio.",
+        "isCorrect": false,
+        "explanation": "La orquiepididimitis es infrecuente en niños prepúberes sanos sin anomalías de la vía urinaria y el tratamiento sintomático oral diferido en presencia de una torsión de cordón real causará la necrosis y pérdida definitiva del testículo."
+      },
+      {
+        "text": "Apendicitis retrocecal aguda complicada con hidrocele reactivo; derivación prioritaria para ecotomografía de fosa ilíaca de control.",
+        "isCorrect": false,
+        "explanation": "Aunque un plastrón puede inflamar el peritoneo y causar un hidrocele reactivo secundario, los hallazgos semiológicos específicos del testículo (elevación, horizontalización, dolor exquisito local y reflejo cremastérico abolido) confirman la patología urológica primaria del cordón."
+      },
+      {
+        "text": "Torsión testicular derecha; derivación inmediata a pabellón para exploración quirúrgica de urgencia de forma inmediata, idealmente dentro de las primeras 6 horas del inicio del dolor para proceder a la detorsión testicular y orquidopexia bilateral de fijación preventiva.",
+        "isCorrect": true,
+        "explanation": "La torsión testicular es una urgencia quirúrgica urológica severa muy importante en pediatría. Se caracteriza por la rotación del testículo sobre el cordón espermático, comprometiendo de forma secuencial el flujo venoso y finalmente el arterial, con necrosis gonadal irreversible en 6 horas si no se trata. Clínicamente cursa con dolor testicular hiperagudo muy severo que se puede referir hacia la fosa ilíaca o hipogastrio (simulando un abdomen agudo). Los signos característicos del examen físico son: testículo doloroso, elevado y horizontalizado (signo de Gouverneur), signo de Prehn negativo (el dolor no cede al elevar el testículo escrotal, a diferencia de la orquitis) y ausencia del reflejo cremasteriano (estimulación táctil del muslo interno que normalmente eleva el testículo). La conducta de elección es la derivación inmediata a exploración quirúrgica urgente dentro de las primeras 6 horas para realizar la detorsión y fijación (orquidopexia) del testículo afectado y de la gónada contralateral de forma preventiva para evitar recurrencias."
+      },
+      {
+        "text": "Torsión del apéndice testicular (hidátide de Morgagni) no complicada; manejo conservador ambulatorio con analgésicos no esteroides.",
+        "isCorrect": false,
+        "explanation": "La torsión de la hidátide de Morgagni cursa con dolor localizado, un signo de \"punto azul\" detectable a la inspección escrotal superior y el reflejo cremastérico suele estar conservado, requiriendo manejo sintomático benigno pero sin cursar con el dolor abdominal masivo e inestabilidad del escolar de este caso clínico."
+      }
+    ]
+  }
+]
