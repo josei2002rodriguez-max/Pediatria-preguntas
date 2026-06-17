@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Durante la entrega de turno en el Servicio de Neonatología del Hospital Luis Tisné, se discuten los criterios diagnósticos y de intervención para la hipoglicemia neonatal. De acuerdo con el Manual de Neonatología de Tapia (4ª Edición) y los consensos nacionales vigentes, ¿cuál es el umbral de glicemia plasmática que define de forma estricta la hipoglicemia en un recién nacido de término sano durante sus primeras 24 horas de vida, independientemente de si presenta sintomatología clínica?",
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de 2 horas de vida, adecuado para la edad gestacional (AEG) y término, hijo de madre con Diabetes Gestacional controlada con dieta, se encuentra asintomático en alojamiento conjunto. El hemoglucotest de tamizaje de rutina a las 2 horas (nadir fisiológico) reporta un valor de 38 mg/dL. ¿Cuál es el tratamiento inicial correcto y la conducta inmediata en la maternidad?",
@@ -61,7 +61,7 @@
   },
   {
     "id": 3,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, de 40 semanas, presenta a las 3 horas de vida temblores marcados (jitteriness) de las extremidades en reposo, hipotonía generalizada y succión débil. El hemoglucotest de control revela una glicemia de 28 mg/dL. ¿Cuál es la terapia farmacológica de elección y la conducta inmediata indicada en la sala de reanimación?",
@@ -91,7 +91,7 @@
   },
   {
     "id": 4,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Usted se encuentra de turno en la Unidad de Neonatología y debe calcular la Velocidad de Infusión de Glucosa (VIG) para un recién nacido de término que pesa 3,0 kg y que requiere una fleboclisis de mantención con un volumen total de 80 mL/kg/día utilizando Suero Glucosado al 10% (SG 10%). Aplicando la fórmula estándar de VIG, ¿cuál es el resultado del cálculo en mg/kg/minuto?",
@@ -121,7 +121,7 @@
   },
   {
     "id": 5,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido prematuro extremo de 27 semanas de gestación, con un peso de 850 gramos, se encuentra hospitalizado en la Unidad de Cuidados Intensivos Neonatales en ventilación mecánica. Los controles de laboratorio revelan una hiperglicemia persistente de 185 mg/dL asociada a glucosuria en el examen de orina. Al analizar la patogenia y el manejo de esta condición, ¿cuál es la conducta inicial correcta y la complicación fisiopatológica que se busca prevenir?",
@@ -151,7 +151,7 @@
   },
   {
     "id": 6,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Durante la visita médica en la Unidad de Neonatología, se analiza el caso de un recién nacido prematuro de 31 semanas que presenta una hipocalcemia confirmada en su segundo día de vida. Al clasificar este trastorno según su momento de aparición, ¿cuál es el criterio cronológico y los factores de riesgo asociados a la hipocalcemia neonatal de \"inicio precoz\"?",
@@ -181,7 +181,7 @@
   },
   {
     "id": 7,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término de 7 días de vida, alimentado con fórmula láctea de vaca entera reconstituida en el hogar sin indicación médica, es llevado a urgencias por presentar temblores y rechazo alimentario. Los exámenes confirman una hipocalcemia con un Calcio total de 6,5 mg/dL y un Fósforo sérico de 9,5 mg/dL (marcadamente elevado). ¿Cuál es la explicación fisiopatológica de esta hipocalcemia de \"inicio tardío\"?",
@@ -211,7 +211,7 @@
   },
   {
     "id": 8,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, de 3 días de vida, hospitalizado por asfixia perinatal, presenta una crisis convulsiva tónico-clónica generalizada activa en la Unidad de Neonatología. Los exámenes confirman una hipocalcemia severa sintomática con un Calcio iónico de 3,2 mg/dL y un intervalo QTc prolongado de 0,52 segundos en el monitor. ¿Cuál es el tratamiento de elección inmediato para el control de esta crisis metabólica?",
@@ -241,7 +241,7 @@
   },
   {
     "id": 9,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Durante la administración de Gluconato de Calcio al 10% a través de una vía venosa periférica en el dorso de la mano de un recién nacido, el interno de enfermería nota eritema, edema local marcado y blanqueamiento de la piel circundante al sitio de punción, lo que confirma la extravasación de la solución. ¿Cuál es el riesgo de esta complicación y la medida correctiva inicial inmediata?",
@@ -271,7 +271,7 @@
   },
   {
     "id": 10,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "De acuerdo con la norma técnica del Ministerio de Salud de Chile para la pesquisa de enfermedades metabólicas congénitas, ¿cuál es el momento cronológico óptimo y las condiciones requeridas para la recolección de la muestra de sangre en papel filtro para el screening de Fenilquetonuria (PKU) e Hipotiroidismo Congénito en el recién nacido?",
@@ -301,7 +301,7 @@
   },
   {
     "id": 11,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Usted recibe el resultado del tamizaje metabólico neonatal en papel filtro de un recién nacido de 5 días de vida, el cual reporta un valor de TSH de 42 uUI/mL (marcadamente elevado). De acuerdo con la norma técnica de Chile, ¿cuál es la conducta clínica mandatoria ante este resultado de sospecha?",
@@ -331,7 +331,7 @@
   },
   {
     "id": 12,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "¿Cuál es la dosis inicial recomendada y la vía de administración de la Levotiroxina (L-T4) para el tratamiento de confirmación del Hipotiroidismo Congénito en el recién nacido, y cuál es la meta de tiempo recomendada para el inicio terapéutico seguro?",
@@ -361,7 +361,7 @@
   },
   {
     "id": 13,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, hijo de madre con diagnóstico de Diabetes Gestacional mal controlada, presenta a las 3 horas de vida un cuadro de temblores finos en las extremidades. Al evaluar el hemoglucotest se registra un valor de 22 mg/dL. El neonato se alimenta activamente al pecho. ¿Cuál es el mecanismo fisiopatológico principal que explica el desarrollo de la hipoglicemia en el hijo de madre diabética (HMD)?",
@@ -391,7 +391,7 @@
   },
   {
     "id": 14,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Durante el examen físico de un recién nacido pequeño para la edad gestacional (PEG) de 36 semanas, el interno nota temblores y succión débil a las 4 horas de vida. El control de glicemia es de 31 mg/dL. ¿Cuál es la causa fisiopatológica de la hipoglicemia en el recién nacido con restricción del crecimiento intrauterino (RCIU) o PEG en comparación con el hijo de madre diabética?",
@@ -421,7 +421,7 @@
   },
   {
     "id": 15,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término presenta una hipocalcemia persistente que resulta refractaria a la administración de dos dosis sucesivas de Gluconato de Calcio al 10% por vía endovenosa. Los exámenes revelan un Calcio iónico bajo de 3,0 mg/dL y un Magnesio sérico de 1,1 mg/dL (marcadamente disminuido). ¿Cuál es la explicación de esta refractariedad y cuál es el tratamiento indicado?",
@@ -451,7 +451,7 @@
   },
   {
     "id": 16,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "En el contexto del screening metabólico nacional en Chile, ¿cuál de las siguientes anomalías genéticas del metabolismo de los aminoácidos se pesquisa mediante la medición cuantitativa de fenilalanina en la muestra de papel filtro, y qué consecuencias neurológicas previene su detección y tratamiento dietoterapéutico precoz?",
@@ -481,7 +481,7 @@
   },
   {
     "id": 17,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, de 5 días de vida, sin antecedentes mórbidos de importancia y nacido de un embarazo normal controlado, es llevado de urgencia por presentar rechazo alimentario, vómitos explosivos abundantes, letargia progresiva, hipotonía y un olor corporal muy dulce y característico que asocia a jarabe de arce. Los exámenes revelan una acidosis metabólica severa con un aumento de cetonas en orina. ¿Cuál es el diagnóstico de sospecha de este error congénito del metabolismo?",
@@ -511,7 +511,7 @@
   },
   {
     "id": 18,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Se sospecha la presencia de un Error Congénito del Metabolismo (ECM) de tipo intoxicación en un recién nacido de término de 4 días de vida que presenta un deterioro neurológico progresivo rápido, letargia y convulsiones refractarias tras el inicio de la lactancia materna. Los exámenes generales revelan una alcalosis respiratoria marcada asociada a un nivel de Amonio plasmático de 650 uMol/L (marcadamente elevado) con una brecha aniónica (anion gap) y glicemia normales. ¿Cuál de los siguientes grupos patológicos es la sospecha diagnóstica prioritaria?",
@@ -541,7 +541,7 @@
   },
   {
     "id": 19,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término presenta al nacer en el examen físico un área de catarata nuclear bilateral simétrica discreta, ictericia prolongada de predominio biliar directo, hepatomegalia moderada firme y episodios de hipoglicemia en sus primeros días. El coprocultivo resulta positivo para Escherichia coli. Se sospecha una Galactosemia Congénita. ¿Cuál es el tratamiento de primera línea que se debe indicar de forma prioritaria para frenar la toxicidad celular y cuál es la contraindicación de oro respecto a la lactancia?",
@@ -571,7 +571,7 @@
   },
   {
     "id": 20,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Durante el control en la Unidad de Neonatología del Hospital Clínico La Serena, se evalúa a un recién nacido prematuro de 34 semanas que presenta temblores finos en las extremidades. Al realizar el hemoglucotest de tamizaje se registra una glicemia de 35 mg/dL. El niño succiona débilmente pero está reactivo. De acuerdo con las guías locales, ¿cuál de los siguientes es un factor de riesgo biológico de primer orden para presentar hipoglicemia neonatal que obliga a realizar un tamizaje preventivo rutinario en la maternidad?",
@@ -601,7 +601,7 @@
   },
   {
     "id": 21,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Usted controla en control sano de los 15 días a un recién nacido de término cuyo tamizaje neonatal para PKU y TSH fue tomado correctamente a las 44 horas de vida. El resultado del laboratorio ministerial reporta una TSH de confirmación venosa de 24 uUI/mL (moderadamente elevada) con una Tiroxina libre (T4L) de 0,6 ng/dL (disminuida). Se confirma el diagnóstico de Hipotiroidismo Congénito primario permanente. ¿Cuál es la etiología anatómica del desarrollo de la glándula tiroides más frecuente responsable de esta condición en Chile?",
@@ -631,7 +631,7 @@
   },
   {
     "id": 22,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, de 4 días de vida, es hospitalizado en la Unidad de Neonatología por sospecha de un Error Congénito del Metabolismo debido a rechazo alimentario y letargia. Al evaluar el perfil metabólico de urgencia, usted busca determinar si existe sospecha de una acidemia orgánica. ¿Cuál es el desbalance ácido-base clásico que caracteriza a las acidemias orgánicas en fase de descompensación aguda?",
@@ -661,7 +661,7 @@
   },
   {
     "id": 23,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Se evalúa la radiografía de tórax de un recién nacido que presenta convulsiones refractarias a los 2 días de vida asociadas a una hipocalcemia persistente. Se detecta una silueta cardíaca con una anomalía conotruncal (tetralogía de Fallot) y la ausencia del timo en el mediastino superior derecho. Se sospecha una inmunodeficiencia primaria compleja. ¿De qué síndrome genético se trata?",
@@ -691,7 +691,7 @@
   },
   {
     "id": 24,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Durante el estudio de un recién nacido con hipoglicemia severa persistente que requiere de forma constante una VIG superior a 15 mg/kg/minuto para mantener glicemias mayores a 45 mg/dL, usted sospecha un Hiperinsulinismo Congénito (nesidioblastosis). ¿Cuál de los siguientes perfiles de laboratorio y de respuesta terapéutica es confirmatorio de un estado hiperinsulinémico?",
@@ -721,7 +721,7 @@
   },
   {
     "id": 25,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, de 24 horas de vida, hijo de madre con sospecha de hiperparatiroidismo primario no tratado durante el embarazo, presenta temblores finos en las extremidades. Los exámenes revelan una hipocalcemia con un Calcio iónico de 3,4 mg/dL. ¿Cuál es el mecanismo fisiopatológico que explica la hipocalcemia neonatal en el hijo de madre hiperparatiroidea?",
@@ -751,7 +751,7 @@
   },
   {
     "id": 26,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Usted atiende en el consultorio a una madre que asiste angustiada porque el control sano de los 15 días de su hijo reveló que la tarjeta de papel filtro del tamizaje neonatal (screening PKU/TSH) fue rechazada por el laboratorio de referencia por \"muestra insuficiente o de mala calidad\". ¿Cuál es el procedimiento técnico correcto ante un rechazo de muestra y su implicancia clínica?",
@@ -781,7 +781,7 @@
   },
   {
     "id": 27,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término presenta a las 6 horas de vida una hipocalcemia asintomática con un Calcio iónico de 3,8 mg/dL. El recién nacido se encuentra reactivo, de buen aspecto general y alimentándose con lactancia materna. ¿Cuál es el tratamiento de primera elección recomendado en las guías chilenas para el manejo de la hipocalcemia asintomática en la transición?",
@@ -811,7 +811,7 @@
   },
   {
     "id": 28,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "¿Cuál de los siguientes Errores Congénitos del Metabolismo (ECM) de tipo déficit de energía se caracteriza clínicamente por presentar hipoglicemia grave de ayuno que cursa con niveles de cuerpos cetónicos plasmáticos y urinarios indetectables o suprimidos (hipoglicemia hipocetósica), asociada a compromiso hepático (hepatomegalia, esteatosis) y muscular secundario?",
@@ -841,7 +841,7 @@
   },
   {
     "id": 29,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "Un recién nacido de término, de 3 días de vida, presenta una glicemia persistente de 38 mg/dL a pesar de recibir alimentación enteral frecuente de leche materna de excelente volumen. Se decide su ingreso a la Unidad de Neonatología para iniciar aporte de glucosa endovenoso. Al planificar la Velocidad de Infusión de Glucosa (VIG), ¿cuál es el rango de aporte inicial recomendado en mg/kg/minuto para un recién nacido de término con hipoglicemia asintomática?",
@@ -871,7 +871,7 @@
   },
   {
     "id": 30,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Trastornos metabólicos",
     "text": "En el Centro de Salud Familiar, se evalúa en control de los 7 días de vida a un recién nacido. Durante la revisión del carné de control sano de la maternidad, el médico constata que no se ha registrado la toma de la muestra de papel filtro para el tamizaje de TSH/PKU, debido a que el binomio se fugó de la maternidad a las 24 horas del parto. ¿Cuál es la conducta inmediata y correcta en APS?",
