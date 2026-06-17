@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término de 18 horas de vida, de un embarazo controlado y sin antecedentes de importancia, presenta ictericia marcada que compromete hasta el tronco. El examen físico revela un recién nacido reactivo, con adecuada succión y sin visceromegalias. ¿Cuál es la interpretación clínica inicial más adecuada de este hallazgo y la conducta inmediata a seguir?",
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Durante la rotación por neonatología, el docente le interroga sobre los mecanismos fisiopatológicos que explican la aparición de la ictericia fisiológica del recién nacido sano. ¿Cuál de las siguientes combinaciones de factores describe de forma correcta la causa de esta condición transitoria?",
@@ -61,7 +61,7 @@
   },
   {
     "id": 3,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un lactante de 10 días de vida, nacido de término con peso de 3.200 gramos y alimentado con lactancia materna exclusiva, asiste a control por presentar ictericia moderada de piel y escleras. La madre refiere que el niño orina claro 8 veces al día y presenta 4 deposiciones amarillentas. El incremento de peso promedio ha sido de 35 g/día. Al examen físico destaca un lactante activo, reactivo, normohidratado, sin visceromegalias. ¿Cuál es el diagnóstico clínico más probable y la conducta correcta?",
@@ -91,7 +91,7 @@
   },
   {
     "id": 4,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "En la Unidad de Puerperio, usted evalúa a un recién nacido de término de 36 horas de vida que presenta ictericia de piel hasta el abdomen. Para decidir la conducta clínica (observación vs. inicio de fototerapia), usted se dispone a interpretar el resultado de la bilirrubinemia sérica total. De acuerdo con las pautas de neonatología chilenas, ¿cuál es la herramienta gráfica de referencia nacional recomendada para tomar esta decisión específica según el peso y edad gestacional del paciente?",
@@ -121,7 +121,7 @@
   },
   {
     "id": 5,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término, hijo de madre con grupo sanguíneo O Rh positivo y padre A Rh positivo, presenta ictericia marcada a las 12 horas de vida. Los exámenes revelan: Bilirrubina total de 9,5 mg/dL de predominio indirecto, Hemoglobina de 11,2 g/dL (anemia para la edad), frotis con abundantes esferocitos y Test de Coombs directo débilmente positivo. ¿Cuál es el diagnóstico fisiopatológico de este cuadro hemolítico?",
@@ -151,7 +151,7 @@
   },
   {
     "id": 6,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "¿Cuál es la dosis y el momento de administración indicados para la inmunoprofilaxis con inmunoglobulina anti-D (RhoGAM) en una gestante Rh negativo no sensibilizada para prevenir la enfermedad hemolítica del recién nacido por factor Rh en embarazos futuros?",
@@ -181,7 +181,7 @@
   },
   {
     "id": 7,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término de 3 días de vida presenta ictericia marcada de piel y mucosas. La bilirrubina total sérica reporta un valor de 24 mg/dL de predominio indirecto. Al examen físico se observa irritable, con llanto agudo de tono alto, rechazo alimentario y episodios de opistótonos (arqueamiento del tronco). ¿Cuál es la complicación neurológica aguda que presenta este paciente y cuál es el manejo inmediato de máxima prioridad?",
@@ -211,7 +211,7 @@
   },
   {
     "id": 8,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Usted evalúa a un recién nacido de 15 días de vida que presenta ictericia persistente. Al interrogar de forma dirigida, la madre refiere que el niño orina de color muy oscuro, manchando el pañal de amarillo (coluria) y sus deposiciones han sido progresivamente más claras, hasta llegar a ser completamente blancas (acolia) en los últimos 3 días. Al examen físico destaca hepatomegalia firme de 3 cm bajo el reborde costal. ¿Cuál es el diagnóstico clínico y el examen de laboratorio inicial indispensable para orientar el estudio?",
@@ -241,7 +241,7 @@
   },
   {
     "id": 9,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término de 18 días de vida presenta un síndrome colestásico confirmado con una bilirrubina directa de 3,2 mg/dL. El estudio de imágenes inicial muestra la ausencia de visualización de la vesícula biliar en ayunas y el signo del cordón triangular en la ecografía de vías biliares. ¿Cuál es la sospecha diagnóstica prioritaria de esta condición anatómica y cuál es la cirugía correctiva de urgencia indicada?",
@@ -271,7 +271,7 @@
   },
   {
     "id": 10,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Durante la administración de fototerapia intensiva en un recién nacido con hiperbilirrubinemia indirecta severa en la Unidad de Neonatología, el interno le describe al equipo el mecanismo biofísico de acción de la luz sobre la molécula de bilirrubina. ¿Cuál es el proceso principal mediante el cual la fototerapia reduce los niveles plasmáticos de bilirrubina?",
@@ -301,7 +301,7 @@
   },
   {
     "id": 11,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de 35 semanas de edad gestacional, hospitalizado por colestasis neonatal (bilirrubina directa de 4,5 mg/dL), es colocado accidentalmente bajo fototerapia convencional debido a una mala interpretación de los niveles de bilirrubina total por el equipo técnico. A las pocas horas de iniciada la luz, se constata que la piel, la orina y el suero del paciente adquieren una coloración oscura grisácea-marrón característica. ¿Cómo se denomina esta complicación benigna de la fototerapia?",
@@ -331,7 +331,7 @@
   },
   {
     "id": 12,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Durante la realización de una exanguinotransfusión de urgencia en un recién nacido de término con enfermedad hemolítica grave por factor Rh, el anestesiólogo neonatal y el pediatra controlan estrictamente las complicaciones del procedimiento. ¿Cuál es el trastorno metabólico e hidroelectrolítico más común provocado por el uso de sangre conservada con anticoagulante Citrato-Fosfato-Dextrosa (CPD) durante la infusión masiva?",
@@ -361,7 +361,7 @@
   },
   {
     "id": 13,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Usted evalúa en la Unidad de Neonatología un frotis de sangre periférica de un recién nacido con ictericia hemolítica severa de inicio a las 12 horas de vida. El informe reporta abundantes dianocitos (células en blanco de tiro) y cuerpos de Heinz intraeritrocitarios al examen directo de frotis especial. ¿Cuál es la sospecha etiológica de este trastorno enzimático hereditario?",
@@ -391,7 +391,7 @@
   },
   {
     "id": 14,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término de 38 semanas presenta ictericia marcada a las 48 horas de vida. La bilirrubina total es de 16 mg/dL de predominio indirecto. Al examen físico destaca un aumento de volumen circunscrito en la región parietal derecha, que es blando, fluctuante, no cruza la sutura sagital y que apareció en su segundo día de vida tras un parto vaginal instrumental con fórceps. ¿Cuál es la causa que explica fisiopatológicamente la hiperbilirrubinemia de este paciente?",
@@ -421,7 +421,7 @@
   },
   {
     "id": 15,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Durante la visita de control sano al segundo día de vida de un recién nacido macrosómico, se constata ictericia leve de cara y tronco. El hemograma de control revela un hematocrito del 68% confirmado por muestra venosa central (poliglobulia neonatal). ¿Cuál es el mecanismo fisiopatológico por el cual la poliglobulia favorece de forma directa la aparición de la hiperbilirrubinemia en este paciente?",
@@ -451,7 +451,7 @@
   },
   {
     "id": 16,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término de 12 días de vida presenta ictericia leve persistente de cara y mucosas. La bilirrubina total es de 8,5 mg/dL de predominio indirecto. El tamizaje metabólico neonatal nacional (toma de muestra PKU/TSH al tercer día de vida) reporta un valor de TSH de 45 uUI/mL (marcadamente elevado). ¿Cuál es el nexo fisiopatológico que explica la ictericia prolongada en el contexto de un hipotiroidismo congénito?",
@@ -481,7 +481,7 @@
   },
   {
     "id": 17,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Al evaluar a un recién nacido de 5 días de vida con hiperbilirrubinemia indirecta severa de 28 mg/dL, se sospecha una ictericia hereditaria no hemolítica por déficit enzimático de conjugación. Los exámenes confirman la ausencia absoluta de actividad de la enzima UDP-glucuroniltransferasa que no responde a la inducción farmacológica con fenobarbital. ¿De qué enfermedad genética se trata?",
@@ -511,7 +511,7 @@
   },
   {
     "id": 18,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Usted asiste a un recién nacido de término en el puerperio inmediato que requiere la indicación de fototerapia intensiva. Al programar el equipo de luz en el box, ¿cuál es el rango de irradiancia espectral mínima requerida para clasificar a la fototerapia como de carácter \"intensivo\" de acuerdo con los estándares internacionales aceptados en pediatría?",
@@ -541,7 +541,7 @@
   },
   {
     "id": 19,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de término, hospitalizado por incompatibilidad Rh en fototerapia doble, presenta niveles de bilirrubina sérica que han descendido de forma segura a 11,5 mg/dL (francamente bajo el umbral de luz para su curva). Se decide suspender la fototerapia. Sin embargo, a las 24 horas del retiro, se constata un aumento de la bilirrubina a 14,8 mg/dL de predominio indirecto. ¿Cuál es la definición de este fenómeno y cuáles son sus principales factores de riesgo?",
@@ -571,7 +571,7 @@
   },
   {
     "id": 20,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Al realizar la evaluación del riesgo de Kernicterus, el docente le pregunta sobre los factores biológicos y farmacológicos que aumentan el paso de la bilirrubina indirecta a través de la barrera hematoencefálica (BHE) del recién nacido. ¿Cuál de las siguientes condiciones desplaza la bilirrubina de su unión con la albúmina, aumentando la fracción libre con potencial neurotóxico?",
@@ -601,7 +601,7 @@
   },
   {
     "id": 21,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Usted interpreta los resultados de los exámenes de un recién nacido con ictericia hemolítica severa. Se reporta un Test de Coombs directo positivo de intensidad ++++. ¿Cuál es el significado inmunológico estricto de este resultado de laboratorio de la hematología neonatal?",
@@ -631,7 +631,7 @@
   },
   {
     "id": 22,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Al realizar el examen físico de un recién nacido en su cuna de transición, usted utiliza la escala visual de Kramer para estimar la extensión de la ictericia. Se constata coloración amarillenta limitada de forma estricta a la cabeza y el cuello del paciente. ¿A qué zona de la escala de Kramer corresponde este hallazgo y cuál es el rango estimado aproximado de bilirrubina plasmática asociado?",
@@ -661,7 +661,7 @@
   },
   {
     "id": 23,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Durante la evaluación de la ictericia mediante la escala de Kramer en APS, ¿cuál de las siguientes situaciones limita de forma severa el uso de esta herramienta visual, obligando a realizar una medición cuantitativa sérica de bilirrubina?",
@@ -691,7 +691,7 @@
   },
   {
     "id": 24,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Se revisa el frotis de sangre periférica de un recién nacido con ictericia hemolítica de debut precoz. El laboratorio informa la presencia de abundantes microesferocitos hipercrómicos. Sabiendo que el Test de Coombs directo resultó positivo de baja intensidad y que el grupo de la madre es O Rh positivo y el del recién nacido es A Rh positivo, ¿cuál es el significado de los microesferocitos en este frotis?",
@@ -721,7 +721,7 @@
   },
   {
     "id": 25,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un recién nacido de 20 días de vida, alimentado con lactancia materna y fórmula de inicio mixta, presenta un síndrome colestásico confirmado por laboratorio. Como consecuencia de la colestasis prolongada (obstrucción biliar), ¿cuál es el déficit vitamínico crítico que se debe vigilar y suplementar activamente para evitar el desarrollo de una enfermedad hemorrágica severa de inicio tardío?",
@@ -751,7 +751,7 @@
   },
   {
     "id": 26,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Usted se dispone a calcular el volumen de recambio sanguíneo para una exanguinotransfusión de urgencia en un recién nacido de término con enfermedad hemolítica grave por factor Rh que pesa 3,5 kg. ¿Cuál es el volumen total de sangre reconstituida que se debe solicitar al banco de sangre, basado en el estándar del procedimiento de \"doble volumen\" neonatal?",
@@ -781,7 +781,7 @@
   },
   {
     "id": 27,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Durante una exanguinotransfusión en la UCI Neonatal, ¿cuál es el volumen de recambio (alícuota) por ciclo de extracción-infusión que se debe respetar de forma estricta para evitar variaciones bruscas de la presión arterial y del volumen intracardíaco del recién nacido?",
@@ -811,7 +811,7 @@
   },
   {
     "id": 28,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Se evalúa un recién nacido de 4 días de vida que presenta una hiperbilirrubinemia indirecta severa de 26 mg/dL. El test de Coombs directo y el recuento de reticulocitos son normales, descartando hemólisis común. Como antecedente destaca que la madre presentó un cuadro de ictericia familiar transitoria en todos sus hijos previos al nacer. Se sospecha una inhibición enzimática transitoria de origen materno. ¿Cuál es el diagnóstico más probable de esta rara entidad clínica?",
@@ -841,7 +841,7 @@
   },
   {
     "id": 29,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "Un lactante de 25 días de vida, prematuro de 28 semanas con antecedentes de enterocolitis necrotizante que requirió resección intestinal y nutrición parenteral total (NPT) prolongada durante 20 días en la UCI Neonatal, presenta ictericia persistente. Los exámenes revelan: Bilirrubina total de 7,2 mg/dL, Bilirrubina directa de 4,1 mg/dL (colestasis confirmada) y transaminasas levemente elevadas. ¿Cuál es la etiología más probable de esta colestasis neonatal?",
@@ -871,7 +871,7 @@
   },
   {
     "id": 30,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Ictericia Neonatal",
     "text": "En la consulta de control de niño sano, usted evalúa a un lactante de 12 días de vida que presenta ictericia leve de la cara. El médico utiliza un bilirubinómetro transcutáneo (TcB) para realizar el cribado. Al explicar el uso de esta herramienta de tamizaje no invasiva a la madre, ¿cuál es la recomendación correcta respecto a sus indicaciones y limitaciones clínicas?",
