@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Una gestante de 39 semanas ingresa en trabajo de parto. Se constata un ultrasonido del tercer trimestre que describe una detención del crecimiento fetal armónico. Al nacer, el neonato pesa 1.950 gramos, mide 43 cm y tiene un perímetro cefálico de 31 cm. Todos los parámetros antropométricos se sitúan bajo el percentil 3 de la curva de Alarcón-Pittaluga. ¿Cuál es la clasificación etiopatogénica más probable de esta restricción de crecimiento?",
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido de 26 semanas de gestación nace por cesárea debido a una preeclampsia severa con alteración del flujo doppler umbilical. Al registrar la antropometría en la sala de atención inmediata, se constata un peso de nacimiento de 850 gramos. De acuerdo con las clasificaciones ponderales oficiales de la red neonatal chilena, ¿cuál es la denominación correcta para este paciente?",
@@ -61,7 +61,7 @@
   },
   {
     "id": 3,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido nace a las 35 semanas y 2 días de edad gestacional por ecografía precoz, con un peso de 2.450 gramos, adecuado para su edad gestacional (AEG). Al realizar la categorización inicial en la maternidad, ¿cuál es la clasificación por edad gestacional y qué riesgos biológicos transicionales asocia típicamente de forma prioritaria en Chile?",
@@ -91,7 +91,7 @@
   },
   {
     "id": 4,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Durante el control en la UCI Neonatal de un prematuro extremo de 29 semanas de gestación, se constata un episodio de pausa respiratoria de 25 segundos de duración, que se acompaña de bradicardia de 80 latidos por minuto y desaturación del 75%. El paciente recupera la ventilación tras estimulación táctil. ¿Cuál es el diagnóstico de este evento y cuál es la terapia de elección en Chile?",
@@ -121,7 +121,7 @@
   },
   {
     "id": 5,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un prematuro de muy bajo peso al nacer (MBPN) de 29 semanas, alimentado con fórmula láctea para prematuros de forma exclusiva, presenta al octavo día de vida residuo gástrico poráceo abundante, distensión abdominal moderada con dolor a la palpación y un episodio de deposiciones sanguinolentas. ¿Cuál es la sospecha diagnóstica prioritaria de esta complicación intestinal y cuál es el principal factor de riesgo protector?",
@@ -151,7 +151,7 @@
   },
   {
     "id": 6,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Usted evalúa la radiografía de abdomen de un prematuro de 30 semanas con sospecha clínica de Enterocolitis Necrotizante (ECN) moderada en la UCI. Al revisar el examen, detecta la presencia de burbujas de gas (aire) delineando de forma paralela la pared del intestino delgado (neumatosis intestinal). De acuerdo con los criterios de Bell para ECN, ¿a qué estadio corresponde este hallazgo y qué conducta se debe adoptar?",
@@ -181,7 +181,7 @@
   },
   {
     "id": 7,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Se evalúa el requerimiento de oxígeno de un prematuro de 29 semanas de gestación que actualmente tiene 36 semanas de edad postmenstrual (edad corregida). El paciente continúa con soporte respiratorio no invasivo con cánula nasal de bajo flujo (0,2 L/min) para mantener saturaciones ≥ 93%. De acuerdo con las guías ministeriales de Chile, ¿cuál es el diagnóstico de este paciente y a qué programa GES ingresa al alta?",
@@ -211,7 +211,7 @@
   },
   {
     "id": 8,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido prematuro de 31 semanas y 1.250 gramos de peso de nacimiento se encuentra hospitalizado en la Unidad de Neonatología del Hospital La Serena. De acuerdo con las guías clínicas ministeriales de Chile, ¿cuáles son los criterios y plazos normados para iniciar el tamizaje oftalmológico de Retinopatía del Prematuro (ROP)?",
@@ -241,7 +241,7 @@
   },
   {
     "id": 9,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un prematuro de 28 semanas de gestación, actualmente en su quinto día de vida en la UCI, presenta de forma brusca un soplo sistólico continuo en maquinaria (de Gibson) auscultable en la región supraclavicular izquierda, pulsos periféricos amplios (saltones), taquicardia persistente mayor a 170 lpm y dificultad respiratoria progresiva con requerimiento de oxígeno en alza. ¿Cuál es el diagnóstico de esta condición hemodinámica y cuál es el manejo médico inicial de primera línea?",
@@ -271,7 +271,7 @@
   },
   {
     "id": 10,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Durante la supervisión en el policlínico de prematuros, el pediatra explica a los internos la fisiopatología de la redistribución del flujo sanguíneo en el feto que sufre una restricción del crecimiento intrauterino asimétrico (RCIU Tipo II). ¿Cuáles son los tres órganos nobles cuya perfusión se mantiene conservada de forma prioritaria (efecto de protección de órganos nobles) en este escenario?",
@@ -301,7 +301,7 @@
   },
   {
     "id": 11,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Usted controla en el consultorio a un lactante de 2 meses de edad corregida que nació a las 29 semanas de gestación con un peso de 1.150 gramos. Los exámenes de laboratorio ambulatorios revelan: Fósforo sérico de 3,5 mg/dL (disminuido para la edad), Calcio iónico normal de 4,2 mg/dL y una Fosfatasa Alcalina sérica de 850 UI/L (marcadamente elevada). ¿Cuál es la sospecha diagnóstica de este desequilibrio mineral óseo?",
@@ -331,7 +331,7 @@
   },
   {
     "id": 12,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "¿Cuál es la patología del sistema nervioso central más frecuente asociada a la inmadurez de los vasos sanguíneos de la matriz germinal en el recién nacido prematuro menor de 32 semanas de gestación, y cuál es el examen de tamizaje indicado por la lex artis en la UCI?",
@@ -361,7 +361,7 @@
   },
   {
     "id": 13,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido prematuro extremo de 30 semanas de gestación y con un peso de 1.100 gramos se encuentra estable, logrando alimentarse con leche materna exclusiva extraída por la madre de forma adecuada. De acuerdo con las pautas de nutrición del prematuro, ¿cuál es el procedimiento indicado para asegurar que la leche humana cubra sus altos requerimientos proteicos y de minerales en la UCI?",
@@ -391,7 +391,7 @@
   },
   {
     "id": 14,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Durante el control en el Policlínico de Prematuros de un lactante de 3 meses de edad corregida, usted se dispone a evaluar sus curvas de crecimiento estaturo-ponderal. De acuerdo con las normas técnicas de supervisión en Chile, ¿cuáles son las curvas de crecimiento de elección recomendadas para evaluar el peso, talla y perímetro cefálico de los lactantes prematuros?",
@@ -421,7 +421,7 @@
   },
   {
     "id": 15,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un lactante de 2 meses de edad corregida que nació de 31 semanas de gestación con un peso de 1.450 gramos, asiste al control de APS. La madre consulta sobre las medidas para prevenir infecciones graves por el Virus Respiratorio Sincicial (VRS) en su hogar. De acuerdo con el Programa Nacional de Inmunizaciones (PNI) de Chile, ¿cuál es la conducta preventiva indicada para este paciente en su primer año de vida?",
@@ -451,7 +451,7 @@
   },
   {
     "id": 16,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Usted controla en el policlínico al lactante prematuro anterior que nació a las 30 semanas de gestación el día 1 de abril de 2026. Hoy es el día 1 de agosto de 2026 (edad cronológica de 4 meses exactos). Al evaluar su desarrollo psicomotor y nutricional, ¿cuál es la edad corregida exacta que debe utilizar en su ficha clínica y en qué fecha cumplirá las 40 semanas de edad postmenstrual?",
@@ -481,7 +481,7 @@
   },
   {
     "id": 17,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Durante la evolución intrahospitalaria de un prematuro extremo con Enterocolitis Necrotizante (ECN) en el Estadio III de Bell (avanzada/perforada), se constata un deterioro clínico rápido asociado a neumoperitoneo en la radiografía de abdomen de control. ¿Cuál es el tratamiento quirúrgico de urgencia de elección recomendado ante este hallazgo clínico?",
@@ -511,7 +511,7 @@
   },
   {
     "id": 18,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "En la UCI Neonatal, se asiste el ingreso de un prematuro extremo de 26 semanas de gestación recién nacido. Al planificar las estrategias para evitar la inestabilidad térmica, ¿cuál es el mecanismo físico principal de pérdida de calor que se busca bloquear prioritariamente mediante la colocación inmediata del neonato dentro de una bolsa plástica de polietileno transparente sin secar su piel?",
@@ -541,7 +541,7 @@
   },
   {
     "id": 19,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido prematuro de 28 semanas de gestación ingresa a la UCI Neonatal tras su estabilización inicial. Al planificar el soporte de nutrición parenteral total (NPT) en las primeras 24 horas de vida, de acuerdo con las guías de nutrición neonatal de Chile, ¿cuál es la conducta recomendada respecto al inicio del aporte de aminoácidos parenterales?",
@@ -571,7 +571,7 @@
   },
   {
     "id": 20,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "¿Cuál de las siguientes afirmaciones describe de forma correcta la norma del Programa Nacional de Inmunizaciones (PNI) de Chile respecto a la vacunación programática del recién nacido prematuro de muy bajo peso al nacer (MBPN) hospitalizado en la Unidad de Neonatología?",
@@ -601,7 +601,7 @@
   },
   {
     "id": 21,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Al nacer un recién nacido de 38 semanas, su peso se registra en 1.850 gramos, situándose por debajo del percentil 3 de las curvas chilenas de Alarcón-Pittaluga. De acuerdo con la adecuación antropométrica del peso para la madurez de la red de salud infantil chilena, ¿cuál es la clasificación correcta para este recién nacido?",
@@ -631,7 +631,7 @@
   },
   {
     "id": 22,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido de 30 semanas de gestación y 1.200 gramos de peso de nacimiento presenta a las 3 horas de vida temblores en las extremidades. Al realizar el control con hemoglucotest, se reporta una glicemia de 32 mg/dL. Al analizar la patogenia de la hipoglicemia en este prematuro de muy bajo peso al nacer, ¿cuál es el factor determinante?",
@@ -661,7 +661,7 @@
   },
   {
     "id": 23,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Se evalúa en la UCI Neonatal a un prematuro de 28 semanas de gestación que presenta un Ductus Arterioso Persistente (DAP) con repercusión hemodinámica moderada y congestión pulmonar. El equipo médico decide iniciar el cierre farmacológico. De acuerdo con las guías de neonatología vigentes en Chile (Tisné / La Serena), ¿cuál es el fármaco de primera línea de elección que asocia un mejor perfil de seguridad gastrointestinal y renal?",
@@ -691,7 +691,7 @@
   },
   {
     "id": 24,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "En relación con la prevención de la infección grave por el Virus Respiratorio Sincicial (VRS) en recién nacidos de muy alto riesgo en Chile, ¿cuál es el criterio de elegibilidad para el acceso al anticuerpo de rescate selectivo financiado históricamente por el sistema de salud en lactantes de hasta 24 meses de vida?",
@@ -721,7 +721,7 @@
   },
   {
     "id": 25,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Usted controla en el consultorio a un lactante ex prematuro de 32 semanas de gestación que actualmente tiene 2 meses de edad cronológica. El lactante se alimenta con lactancia materna exclusiva y se encuentra activo. De acuerdo con las guías de supervisión del prematuro del MINSAL, ¿cuál es la indicación correcta respecto al inicio y dosis de la suplementación con Hierro?",
@@ -751,7 +751,7 @@
   },
   {
     "id": 26,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Usted controla en el policlínico al recién nacido prematuro de 29 semanas de la pregunta 11 que presentaba sibilancias recurrentes. Al revisar los exámenes complementarios de control a los 3 meses de edad corregida, destaca una Fosfatasa Alcalina sérica persistentemente elevada de 1.150 UI/L asociada a una hipofosfatemia marcada. ¿Cuál es el significado clínico de este nivel de Fosfatasa Alcalina en el estudio de la enfermedad metabólica ósea del prematuro?",
@@ -781,7 +781,7 @@
   },
   {
     "id": 27,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "De acuerdo con las guías clínicas internacionales de la AAP y de la AHA vigentes en Chile, ¿cuál es el criterio cronológico y de repercusión sistémica que define formalmente a una crisis de \"Apnea del Prematuro\" de carácter patológico en la UCI Neonatal?",
@@ -811,7 +811,7 @@
   },
   {
     "id": 28,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Durante la supervisión en el control sano de los 8 meses en APS, se evalúa a un lactante ex prematuro extremo de 29 semanas de gestación que actualmente tiene 11 meses de edad cronológica. Al aplicar la Escala de Evaluación del Desarrollo Psicomotor (EEDP) de 0 a 2 años, ¿cuál es el procedimiento metodológico correcto que debe seguir el examinador?",
@@ -841,7 +841,7 @@
   },
   {
     "id": 29,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Un recién nacido prematuro de 29 semanas de gestación se encuentra en su décimo día de vida en la UCI Neonatal del Hospital Tisné. El equipo médico sospecha la instauración de una Enterocolitis Necrotizante (ECN). Al evaluar la analítica general en busca de marcadores de gravedad de ECN sistémica avanzada, ¿cuál de los siguientes perfiles de laboratorio se asocia de forma clásica a una necrosis intestinal extensa con perforación (Estadio III de Bell)?",
@@ -871,7 +871,7 @@
   },
   {
     "id": 30,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Bajo Peso y Prematuros",
     "text": "Durante la fase de hiperoxia en el recién nacido prematuro extremo, se produce vasoconstricción retiniana periférica que suspende la angiogénesis normal. Posteriormente, al volver a la normoxia, el tejido retiniano isquémico secreta de forma compensatoria un factor de crecimiento endotelial vascular (VEGF) de forma desmedida. ¿Cuál es el papel fisiopatológico del VEGF en el desarrollo de la Retinopatía del Prematuro (ROP) y cuál es la terapia biológica dirigida de elección?",
