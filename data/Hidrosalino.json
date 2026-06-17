@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un lactante de 5 meses de edad, previamente sano, presenta un cuadro de bronquiolitis aguda que le impide acoplarse adecuadamente a la lactancia materna. Su peso actual es de 7,0 kg y clínicamente se encuentra normohidratado. Aplicando el método clásico de Holliday-Segar, ¿cuál es el volumen de agua de mantención requerido para 24 horas y su respectiva velocidad de infusión horaria?",
+    "hint": "Recuerde el primer tramo del cálculo por peso en el método de Holliday-Segar, el cual asigna una tasa fija de volumen por cada kilogramo de peso en pacientes que se encuentran por debajo de los 10 kg.",
+    "options": [
+      {
+        "text": "Volumen total de 850 mL en 24 horas, con una velocidad de infusión programada de 35 mL/h.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 850 mL en 24 horas (35 mL/h) representaría un aporte excesivo de 121 mL/kg/día, lo que expone al lactante a un riesgo innecesario de sobrehidratación y congestión pulmonar en el contexto de su bronquiolitis."
+      },
+      {
+        "text": "Volumen total de 1050 mL en 24 horas, con una velocidad de infusión programada de 44 mL/h.",
+        "isCorrect": false,
+        "explanation": "Un aporte de 1050 mL (44 mL/h) corresponde a una tasa de 150 mL/kg/día, volumen que excede el requerimiento basal y que típicamente se asocia a terapias de reposición activa de pérdidas extraordinarias, no a mantención."
+      },
+      {
+        "text": "Volumen total de 700 mL en 24 horas, con una velocidad de infusión programada de 29 mL/h.",
+        "isCorrect": true,
+        "explanation": "Para lactantes con un peso menor o igual a 10 kg, el método de Holliday-Segar calcula un requerimiento basal de agua de 100 mL/kg/día. Para un lactante de 7,0 kg: 7,0 kg × 100 mL/kg = 700 mL en 24 horas. Al dividir este volumen total por 24 horas, se obtiene una velocidad de infusión de 700 / 24 = 29,1 mL/h, que se programa de forma práctica a 29 mL/h."
+      },
+      {
+        "text": "Volumen total de 500 mL en 24 horas, con una velocidad de infusión programada de 21 mL/h.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 500 mL (21 mL/h) equivale a 71 mL/kg/día, lo cual es insuficiente como terapia de mantención basal y conducirá progresivamente al lactante a una deshidratación secundaria por ayuno."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Se debe calcular la hidratación endovenosa de mantención para un preescolar de 3 años que pesa 14,0 kg y que requiere régimen cero temporal para la realización de una endoscopia digestiva diagnóstica electiva. Utilizando el método de Holliday-Segar, ¿cuál es el volumen total de agua y la velocidad de infusión horaria indicados para este paciente?",
+    "hint": "En niños con un peso de entre 10 y 20 kg, la fórmula de Holliday-Segar desglosa el cálculo en dos tramos ponderales distintos que deben sumarse para obtener el volumen final de 24 horas.",
+    "options": [
+      {
+        "text": "Volumen total de 1600 mL en 24 horas, con una velocidad de infusión programada de 67 mL/h.",
+        "isCorrect": false,
+        "explanation": "Un aporte de 1600 mL (67 mL/h) representa un volumen excesivo para la mantención de un niño de 14 kg sin pérdidas extraordinarias, lo que podría gatillar hemodilución e hiponatremia dilucional si se mantiene en el tiempo."
+      },
+      {
+        "text": "Volumen total de 1200 mL en 24 horas, con una velocidad de infusión programada de 50 mL/h.",
+        "isCorrect": true,
+        "explanation": "Según Holliday-Segar, para los primeros 10 kg de peso se asignan 1000 mL de agua. Para los kilogramos adicionales por encima de 10 y hasta 20 kg, se suman 50 mL por cada kilogramo. Para este preescolar de 14 kg, el cálculo es: 1000 mL + (4 kg × 50 mL/kg) = 1000 mL + 200 mL = 1200 mL en 24 horas. Dividido en 24 horas, da una velocidad de infusión horaria exacta de 1200 / 24 = 50 mL/h."
+      },
+      {
+        "text": "Volumen total de 1400 mL en 24 horas, con una velocidad de infusión programada de 58 mL/h.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 1400 mL (58 mL/h) asume erróneamente un cálculo lineal de 100 mL/kg para todo el peso corporal del niño (14 × 100), lo cual sobreestima de forma peligrosa las necesidades calóricas y de agua basales en preescolares."
+      },
+      {
+        "text": "Volumen total de 1000 mL en 24 horas, con una velocidad de infusión programada de 42 mL/h.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 1000 mL (42 mL/h) solo cubre el primer tramo ponderal del lactante (hasta los 10 kg), ignorando por completo los requerimientos basales metabólicos del peso excedente de este paciente de 14 kg."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un escolar de 9 años de edad es hospitalizado por una celulitis orbitaria y requiere hidratación de mantención por mala tolerancia oral inicial. Su peso corporal es de 28,0 kg. Aplicando el método de Holliday-Segar para pacientes con un peso superior a los 20 kg, ¿cuál es el volumen basal diario calculado para este escolar?",
+    "hint": "Para el tercer tramo del método de Holliday-Segar (pesos entre 20 y 80 kg), se debe sumar una constante para los primeros 20 kg y luego adicionar una cantidad fija de volumen por cada kilogramo que exceda ese peso.",
+    "options": [
+      {
+        "text": "Volumen total de 1500 mL en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 1500 mL es el requerimiento basal estricto para un niño que pesa exactamente 20 kg, por lo que no aporta el volumen extra necesario para cubrir el metabolismo de los 8 kg adicionales de este paciente."
+      },
+      {
+        "text": "Volumen total de 1660 mL en 24 horas.",
+        "isCorrect": true,
+        "explanation": "La regla de Holliday-Segar establece que por los primeros 10 kg se aportan 1000 mL; por los siguientes 10 kg (hasta 20 kg) se aportan 500 mL (totalizando una constante de 1500 mL para un niño de 20 kg). Por cada kilogramo adicional sobre 20 kg, se suman 20 mL. Para este escolar de 28 kg: 1500 mL + (8 kg × 20 mL/kg) = 1500 mL + 160 mL = 1660 mL en 24 horas."
+      },
+      {
+        "text": "Volumen total de 2060 mL en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 2060 mL sobrepasa de forma desmedida las pérdidas insensibles y la producción de orina basal de un escolar de 28 kg, lo cual podría favorecer fenómenos de sobrecarga hídrica intersticial."
+      },
+      {
+        "text": "Volumen total de 1860 mL en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 1860 mL se obtendría sumando erróneamente 45 mL por cada kilogramo de exceso por encima de los 20 kg, un valor que sobreestima las necesidades metabólicas hídricas reales del escolar."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un adolescente de 13 años con parálisis cerebral e incurvación de columna requiere un cálculo de su hidratación de mantención por Superficie Corporal (SC) debido a que su peso actual es de 32,0 kg. El equipo tratante decide aportar un volumen de agua basal estándar de 1500 mL/m<sup>2</sup>/día. ¿Cuál es la superficie corporal aproximada del paciente y el volumen de hidratación calculado para 24 horas?",
+    "hint": "Utilice la fórmula estándar de superficie corporal para pacientes pediátricos con un peso mayor a 10 kg: SC = (Peso × 4 + 7) / (Peso + 90). Multiplique el resultado por la tasa de volumen indicada.",
+    "options": [
+      {
+        "text": "Superficie corporal de 0,80 m<sup>2</sup> y volumen total de 1200 mL en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Un valor de 0,80 m<sup>2</sup> es equivalente a la superficie corporal de un lactante mayor de aproximadamente 18 kg, resultando en un volumen diario de 1200 mL totalmente insuficiente para las necesidades basales de este paciente."
+      },
+      {
+        "text": "Superficie corporal de 0,95 m<sup>2</sup> y volumen total de 1425 mL en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Una superficie corporal de 0,95 m<sup>2</sup> subestima el tamaño corporal real del adolescente de 32 kg, lo que derivaría en un volumen hídrico subóptimo de 1425 mL, pudiendo inducir un balance de agua negativo."
+      },
+      {
+        "text": "Superficie corporal de 1,10 m<sup>2</sup> y volumen total de 1650 mL en 24 horas.",
+        "isCorrect": true,
+        "explanation": "Aplicando la fórmula de superficie corporal para niños de más de 10 kg: SC = (32 × 4 + 7) / (32 + 90) = (128 + 7) / 122 = 135 / 122 ≈ 1,106 m<sup>2</sup>. Utilizando una SC de 1,10 m<sup>2</sup>, el cálculo del aporte de agua basal a razón de 1500 mL/m<sup>2</sup>/día corresponde a: 1,10 m<sup>2</sup> × 1500 mL = 1650 mL en 24 horas."
+      },
+      {
+        "text": "Superficie corporal de 1,25 m<sup>2</sup> y volumen total de 1875 mL en 24 horas.",
+        "isCorrect": false,
+        "explanation": "Una superficie de 1,25 m<sup>2</sup> corresponde habitualmente a niños de mayor peso (cercano a los 40 kg), por lo que prescribir 1875 mL provocaría un aporte calórico-hídrico excesivo para su condición metabólica real."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Usted debe preparar un matraz de hidratación de mantención de 500 mL para un lactante de 12 kg, utilizando como solución base Suero Glucosado al 5% (SG 5%). Las metas de electrolitos basales de su prescripción son de 3 mEq de Sodio (Na<sup>+</sup>) por cada 100 mL de solución y 2 mEq de Potasio (K<sup>+</sup>) por cada 100 mL de solución. ¿Qué cantidad en mililitros de Cloruro de Sodio al 10% (NaCl 10%, donde 1 mL = 1,7 mEq Na<sup>+</sup>) y de Cloruro de Potasio al 10% (KCl 10%, donde 1 mL = 1,34 mEq K<sup>+</sup>) debe agregar al matraz?",
+    "hint": "Calcule primero la cantidad total de miliequivalentes de Sodio y Potasio requeridos para el volumen completo de 500 mL y luego realice la conversión a mililitros utilizando las equivalencias de las ampollas estándar chilenas.",
+    "options": [
+      {
+        "text": "Agregar 5,8 mL de NaCl 10% y 4,5 mL de KCl 10% al matraz de SG 5%.",
+        "isCorrect": false,
+        "explanation": "Una adición de 5,8 mL de NaCl y 4,5 mL de KCl aportaría menos de 10 mEq de Sodio y 6 mEq de Potasio en los 500 mL, resultando en una solución marcadamente hipotónica por debajo del requerimiento fisiológico indicado."
+      },
+      {
+        "text": "Agregar 8,8 mL de NaCl 10% y 7,5 mL de KCl 10% al matraz de SG 5%.",
+        "isCorrect": true,
+        "explanation": "Para un volumen de 500 mL, si se requieren 3 mEq Na<sup>+</sup>/100 mL, el total de Sodio necesario es 3 × 5 = 15 mEq de Na<sup>+</sup>. Dado que 1 mL de NaCl 10% aporta 1,7 mEq, se necesitan 15 / 1,7 ≈ 8,8 mL de NaCl 10%. Para el Potasio, si se requieren 2 mEq K<sup>+</sup>/100 mL, el total necesario es 2 × 5 = 10 mEq de K<sup>+</sup>. Como 1 mL de KCl 10% aporta 1,34 mEq, se necesitan 10 / 1,34 ≈ 7,46 mL de KCl 10% (aproximado clínicamente a 7,5 mL)."
+      },
+      {
+        "text": "Agregar 15 mL de NaCl 10% y 10 mL de KCl 10% al matraz de SG 5%.",
+        "isCorrect": false,
+        "explanation": "Agregar 15 mL de NaCl y 10 mL de KCl asume de forma errónea que los miliequivalentes requeridos equivalen directamente a mililitros, lo cual generaría una solución altamente hipertónica sumamente peligrosa."
+      },
+      {
+        "text": "Agregar 11,5 mL de NaCl 10% y 9,5 mL de KCl 10% al matraz de SG 5%.",
+        "isCorrect": false,
+        "explanation": "Representa una dosificación intermedia errónea que no se correlaciona con la conversión estricta de las ampollas de electrolitos al 10% empleadas sistemáticamente en la red hospitalaria chilena."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un lactante de 8 meses es llevado al servicio de urgencias por presentar un cuadro de diarrea aguda de 3 días de evolución con múltiples deposiciones líquidas abundantes y vómitos intermitentes. Al examen físico se constata: letargia marcada, llanto sin lágrimas, ojos intensamente hundidos, mucosas secas, signo del pliegue cutáneo que desaparece lentamente en más de 2 segundos, y un llene capilar distal de 4 segundos con extremidades frías. ¿Cuál es la gravedad de la deshidratación de este paciente?",
+    "hint": "Analice de forma conjunta el estado neurológico (letargia), el signo del pliegue prolongado (>2 s) y las variables de perfusión periférica (llene capilar >3 s con frialdad distal).",
+    "options": [
+      {
+        "text": "Deshidratación inaparente o fisiológica transitoria del lactante.",
+        "isCorrect": false,
+        "explanation": "La sintomatología descrita corresponde a una condición patológica crítica y potencialmente letal, incompatible con cualquier estado de transición fisiológica del lactante."
+      },
+      {
+        "text": "Deshidratación leve, adecuada para manejo ambulatorio.",
+        "isCorrect": false,
+        "explanation": "La deshidratación leve (pérdida de peso <5%) muestra un examen físico prácticamente normal con mucosas húmedas, llanto con lágrimas presentes, llene capilar normal (<2 s) y sin compromiso neurológico ni hemodinámico."
+      },
+      {
+        "text": "Deshidratación severa o grave, con compromiso hemodinámico.",
+        "isCorrect": true,
+        "explanation": "La presencia de letargia o compromiso del estado de conciencia, un llene capilar prolongado (igual o mayor a 3 segundos), el signo del pliegue que retorna en más de 2 segundos, mucosas secas y extremidades frías son signos cardinales que definen la deshidratación grave o severa (pérdida de peso estimada >10% en lactantes) con inminente compromiso hemodinámico/shock."
+      },
+      {
+        "text": "Deshidratación moderada, en vías de compensación hídrica.",
+        "isCorrect": false,
+        "explanation": "La deshidratación moderada (pérdida de peso del 5-10%) cursa con irritabilidad, ojos hundidos y mucosas secas, pero mantiene un estado de conciencia reactivo, un llene capilar menor a 3 segundos y el signo del pliegue dura menos de 2 segundos."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un lactante de 11 meses de edad es ingresado a la sala de reanimación del servicio de urgencias en shock hipovolémico secundario a un síndrome diarreico agudo grave. Su peso corporal estimado es de 10,0 kg. No es posible establecer un acceso venoso periférico tras dos intentos rápidos. ¿Cuál es la conducta terapéutica inmediata y correcta según las guías chilenas y el algoritmo de reanimación?",
+    "hint": "En un paciente pediátrico en shock con accesos vasculares difíciles, se debe priorizar una vía de acceso rápida y segura (en menos de 90 segundos) e infundir un bolo de cristaloides isotónicos de acción rápida.",
+    "options": [
+      {
+        "text": "Instalar una sonda nasogástrica para iniciar la administración inmediata de solución de rehidratación oral a razón de 100 mL/kg en 4 horas.",
+        "isCorrect": false,
+        "explanation": "La rehidratación oral (gastroclisis o SRO) está absolutamente contraindicada en pacientes con shock hipovolémico, compromiso cualitativo de conciencia o íleo paralítico debido al riesgo crítico de aspiración y la ineficacia de absorción intestinal bajo hipoperfusión."
+      },
+      {
+        "text": "Instalar una aguja intraósea en la región tibial proximal e infundir un bolo de Suero Fisiológico al 0,9% a razón de 20 mL/kg en 10 a 20 minutos.",
+        "isCorrect": true,
+        "explanation": "Frente a un shock hipovolémico con colapso venoso periférico que impide un acceso venoso rápido (3 intentos o 90 segundos de búsqueda), la vía intraósea es el estándar de elección. El fluido de elección para la reanimación inicial es un cristaloide isotónico (Suero Fisiológico al 0,9% o Ringer Lactato) administrado en un bolo rápido de 20 mL/kg (en este caso, 200 mL) a pasar en 10-20 minutos."
+      },
+      {
+        "text": "Solicitar la colocación de un catéter venoso central por el cirujano de turno y diferir la administración de fluidos hasta confirmar su posición.",
+        "isCorrect": false,
+        "explanation": "Esperar la colocación de una vía central y su posterior radiografía de control retrasa el manejo de la fase dorada del shock, aumentando drásticamente la mortalidad celular por hipoxia tisular."
+      },
+      {
+        "text": "Realizar una venosección quirúrgica de urgencia de la vena safena interna e infundir un bolo de Suero Glucosado al 5% a razón de 20 mL/kg.",
+        "isCorrect": false,
+        "explanation": "La venosección quirúrgica retrasa de manera inaceptable la reanimación en comparación con la vía intraósea, y el Suero Glucosado al 5% está estrictamente contraindicado para expandir la volemia (causa hiponatremia severa por paso rápido de agua libre al intracelular y diuresis osmótica)."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Usted ha administrado exitosamente dos bolos de Suero Fisiológico al 0,9% a razón de 20 mL/kg en un lactante de 12 meses deshidratado grave. El paciente recupera un llene capilar de 2 segundos, una frecuencia cardíaca de 120 lpm y se encuentra reactivo. Presenta una micción espontánea en la cuna de observación. ¿Cuál es el paso correcto para continuar la terapia hídrica en las siguientes 24 horas?",
+    "hint": "Una vez estabilizada la hemodinamia en la fase de emergencia (hecho evidenciado por la recuperación de la perfusión y la diuresis), se debe planificar la fase de reposición del déficit y mantención.",
+    "options": [
+      {
+        "text": "Prescribir un esquema de hidratación endovenosa que cubra las necesidades de mantención basales más la reposición del déficit estimado, agregando glucosa y electrolitos.",
+        "isCorrect": true,
+        "explanation": "Tras salir de la fase de shock (estabilización), el manejo de la deshidratación requiere calcular el volumen necesario para las siguientes 24 horas. Este volumen se compone de la hidratación de mantención (fórmula de Holliday-Segar) sumado a la reposición del déficit remanente (generalmente calculado según el porcentaje de pérdida de peso). Esta solución debe contener glucosa (para evitar la cetosis y la hipoglicemia) y aportes adecuados de Sodio y Potasio (una vez confirmada la diuresis)."
+      },
+      {
+        "text": "Mantener infusiones continuas de Suero Fisiológico al 0,9% a razón de 120 mL/h sin agregar glucosa ni potasio hasta completar 48 horas de observación.",
+        "isCorrect": false,
+        "explanation": "Mantener infusiones de Suero Fisiológico al 0,9% sin glucosa expone al lactante a hipoglicemia y cetosis por ayuno prolongado, además de riesgo de acidosis hiperclorémica por el exceso de cloro del suero fisiológico."
+      },
+      {
+        "text": "Iniciar el cálculo de las pérdidas insensibles utilizando solución de agua destilada pura por vía endovenosa estricta.",
+        "isCorrect": false,
+        "explanation": "El agua destilada libre pura nunca debe infundirse de forma endovenosa directa, ya que provoca hemólisis intravascular masiva por shock osmótico en los eritrocitos."
+      },
+      {
+        "text": "Suspender por completo la hidratación endovenosa e indicar régimen común de sólidos de forma inmediata en la sala de espera.",
+        "isCorrect": false,
+        "explanation": "La suspensión brusca de fluidos para iniciar dieta sólida directa en un paciente que viene saliendo de una deshidratación grave con intolerancia digestiva previa provocará vómitos inmediatos y recurrencia de la deshidratación."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "En el contexto del control de urgencias o APS de un preescolar de 2 años con diarrea aguda pero clínicamente normohidratado, usted decide aplicar el Plan A de Rehidratación Oral (MINSAL). ¿Cuál es la indicación correcta respecto a los volúmenes de Solución de Rehidratación Oral (SRO) a administrar en el hogar tras cada deposición líquida?",
+    "hint": "El Plan A busca prevenir la deshidratación reponiendo las pérdidas continuas. Las SRO deben administrarse en volúmenes tolerables y fraccionados según la edad del paciente.",
+    "options": [
+      {
+        "text": "Administrar un volumen fijo de 500 mL de SRO por vía oral en una sola toma obligatoria inmediatamente al llegar a la casa.",
+        "isCorrect": false,
+        "explanation": "Forzar la ingesta de un volumen masivo de 500 mL de una sola vez distenderá bruscamente la cámara gástrica, provocando vómitos incoercibles y transformando un Plan A en un fracaso terapéutico."
+      },
+      {
+        "text": "Ofrecer de forma exclusiva bebidas de fantasía carbonatadas isotónicas deportivas para asegurar el aporte de sodio.",
+        "isCorrect": false,
+        "explanation": "Las bebidas deportivas de fantasía tienen una osmolaridad extremadamente elevada debido a su alta concentración de carbohidratos complejos, además de un contenido de Sodio muy bajo, lo que empeorará la diarrea por arrastre osmótico luminal."
+      },
+      {
+        "text": "Suspender la alimentación habitual y la lactancia materna por un mínimo de 48 horas, ofreciendo solo té con azúcar de forma libre.",
+        "isCorrect": false,
+        "explanation": "La lactancia materna y la alimentación habitual nunca deben suspenderse durante los episodios de diarrea; el ayuno daña la mucosa intestinal y prolonga el cuadro diarreico debido a la atrofia vellositaria."
+      },
+      {
+        "text": "Ofrecer entre 100 y 200 mL de SRO de forma fraccionada después de cada deposición líquida o vómito.",
+        "isCorrect": true,
+        "explanation": "Según el Plan A de rehidratación en Chile, para niños menores de 2 años se recomiendan de 50 a 100 mL de SRO tras cada deposición líquida, y para niños de 2 años o más se recomiendan de 100 a 200 mL de SRO, administrados de forma fraccionada (a cucharadas o sorbos lentos) para evitar el gatillamiento de vómitos reflejos."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 3 años, con un peso de 15,0 kg, acude al SAPU por un cuadro diarreico agudo. Al examen físico se encuentra irritable, con ojos moderadamente hundidos, mucosas secas, lágrimas escasas y un signo del pliegue que desaparece en menos de 2 segundos. Se clasifica como deshidratación moderada y se decide iniciar el Plan B de Rehidratación Oral en la sala de observación. ¿Cuál es el volumen total de SRO que se debe administrar y en qué tiempo?",
+    "hint": "El Plan B prescribe un volumen de SRO de 50 a 100 mL/kg de peso para ser administrado de forma controlada y fraccionada en un período de 4 horas en la unidad de observación de urgencias.",
+    "options": [
+      {
+        "text": "Administrar un volumen total de 300 mL de SRO por vía oral en un período fraccionado de 1 hora.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 300 mL (20 mL/kg) es insuficiente para restaurar el déficit hídrico de una deshidratación moderada (que típicamente representa una pérdida del 5% al 10% de peso corporal)."
+      },
+      {
+        "text": "Administrar un volumen total de 750 a 1500 mL de SRO por vía oral en un período fraccionado de 4 horas.",
+        "isCorrect": true,
+        "explanation": "El cálculo de volumen para el Plan B de rehidratación oral en deshidratación moderada es de 50 a 100 mL/kg para pasar en 4 horas. Para este niño de 15 kg: El rango de volumen se sitúa entre 15 × 50 mL = 750 mL y 15 × 100 mL = 1500 mL de SRO, el cual se administra fraccionadamente (ofreciendo de 1 a 2 cucharaditas cada 1-2 minutos) durante un bloque de 4 horas."
+      },
+      {
+        "text": "Administrar un volumen total de 2000 mL de SRO por vía oral en un período fraccionado de 12 horas.",
+        "isCorrect": false,
+        "explanation": "Prescribir 2000 mL en 12 horas equivale a un volumen exagerado para un preescolar de 15 kg, lo cual sobrepasa la capacidad de tolerancia del tracto gastrointestinal durante la fase aguda de la enteritis."
+      },
+      {
+        "text": "Administrar un volumen total de 1500 mL de SRO por vía oral en un período continuo de 8 horas.",
+        "isCorrect": false,
+        "explanation": "Extender la rehidratación inicial a 8 horas con un volumen rígido de 1500 mL retrasa la corrección de los déficits de volumen basales en un niño que requiere observación dinámica en el servicio de urgencia."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Durante la aplicación del Plan B de rehidratación oral a un lactante de 14 meses, la madre reporta que el niño ha presentado cuatro episodios de vómitos abundantes en los últimos 30 minutos al intentar ofrecerle la solución con cuchara. Al evaluarlo, el lactante continúa irritable y con signos de deshidratación moderada sin shock. ¿Cuál es la conducta recomendada?",
+    "hint": "Los vómitos persistentes o el rechazo de la vía oral constituyen causas de fracaso del Plan B. Busque la opción que mantenga la vía enteral como recurso fisiológico antes de forzar accesos vasculares invasivos de urgencia.",
+    "options": [
+      {
+        "text": "Indicar de forma inmediata el alta a domicilio con indicación de continuar ofreciendo agua pura a libre demanda.",
+        "isCorrect": false,
+        "explanation": "Dar el alta a un lactante deshidratado moderado con vómitos incoercibles es una negligencia médica que provocará una progresión rápida hacia la deshidratación grave y el shock hipovolémico."
+      },
+      {
+        "text": "Administrar una dosis endovenosa de ondansetrón y, si persiste el rechazo, proceder a la rehidratación por gastroclisis a través de una sonda nasogástrica.",
+        "isCorrect": true,
+        "explanation": "El fracaso de la vía oral por vómitos repetidos en deshidratación moderada puede manejarse inicialmente con un antiemético como ondansetrón (si no hay contraindicaciones) y, en caso de persistir la intolerancia o el rechazo a beber, la norma técnica avala la instalación de una sonda nasogástrica para infundir la SRO de forma lenta y continua mediante gastroclisis (a razón de 15-20 mL/kg/h) antes de pasar a la vía endovenosa periférica."
+      },
+      {
+        "text": "Programar una laparotomía exploradora de urgencia por sospecha de obstrucción intestinal mecánica de origen inflamatorio.",
+        "isCorrect": false,
+        "explanation": "Los vómitos secundarios a una enteritis aguda infecciosa no constituyen un abdomen agudo obstructivo quirúrgico que justifique una exploración quirúrgica mayor invasiva de entrada."
+      },
+      {
+        "text": "Iniciar una infusión intraósea de solución de Cloruro de Sodio al 3% a razón de 50 mL/kg para corregir la osmolaridad.",
+        "isCorrect": false,
+        "explanation": "La infusión intraósea de Cloruro de Sodio al 3% está absolutamente contraindicada de forma rutinaria y menos aún en un paciente con deshidratación sin shock ni desorden electrolítico severo neurológico documentado."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 2 años de edad, con un peso de 12,0 kg, es ingresado al servicio de urgencias por deshidratación aguda moderada de origen digestivo. Los exámenes de laboratorio revelan una hiponatremia severa con un Sodio plasmático de 118 mEq/L. A los pocos minutos del ingreso, el paciente presenta una crisis convulsiva tónico-clónica generalizada activa en su camilla. ¿Cuál es la terapia farmacológica de emergencia indicada para corregir esta situación de riesgo vital?",
+    "hint": "Ante convulsiones o compromiso severo del sistema nervioso central secundarios a hiponatremia aguda grave, la prioridad inmediata es elevar rápidamente el sodio plasmático en 3 a 5 mEq/L mediante el uso de una solución hipertónica.",
+    "options": [
+      {
+        "text": "Administrar un bolo endovenoso de Suero Fisiológico al 0,9% a razón de 50 mL/kg a pasar en un período de 5 minutos.",
+        "isCorrect": false,
+        "explanation": "El Suero Fisiológico al 0,9% es una solución isotónica (~154 mEq/L) que no eleva el Sodio sérico con la suficiente velocidad para corregir el edema cerebral agudo que gatilla la convulsión en un paciente con 118 mEq/L."
+      },
+      {
+        "text": "Iniciar una infusión continua de Gluconato de Calcio al 10% en dosis de 5 mL/kg para estabilizar la membrana neuronal.",
+        "isCorrect": false,
+        "explanation": "El Gluconato de Calcio se utiliza para estabilizar la membrana del miocardio en situaciones de hiperkalemia grave o hipocalcemia sintomática, no para revertir las convulsiones por edema cerebral hiponatrémiqo."
+      },
+      {
+        "text": "Administrar Cloruro de Sodio al 3% (NaCl 3%) por vía endovenosa en dosis de 3 a 5 mL/kg a pasar en 10 a 20 minutos.",
+        "isCorrect": true,
+        "explanation": "Las crisis convulsivas secundarias a hiponatremia grave (Na<sup>+</sup> < 120 mEq/L) constituyen una emergencia neurológica. El tratamiento consiste en administrar un bolo rápido de Cloruro de Sodio hipertónico al 3% (NaCl 3%) a dosis de 3 a 5 mL/kg (para este paciente de 12 kg, correspondería a 36-60 mL) endovenoso a pasar en 10-20 minutos para elevar la osmolaridad sérica, detener el edema cerebral y frenar la actividad convulsiva."
+      },
+      {
+        "text": "Administrar una dosis de carga de amiodarona endovenosa combinada con una infusión de agua libre destilada.",
+        "isCorrect": false,
+        "explanation": "La amiodarona es un antiarrítmico cardíaco y el agua destilada endovenosa directa está contraindicada por provocar hemólisis letal, no teniendo utilidad en crisis convulsivas metabólicas."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Usted debe calcular el déficit total de Sodio de un escolar de 10 años que pesa 30,0 kg y presenta una deshidratación moderada con una hiponatremia sintomática no convulsiva con un Sodio plasmático de 124 mEq/L. Su meta es elevar el Sodio sérico a 134 mEq/L de forma segura en las primeras 24 horas. ¿Cuál es el déficit calculado de Sodio en miliequivalentes (mEq) para este paciente?",
+    "hint": "Utilice la fórmula clásica para el cálculo de déficit de Sodio en pediatría: Déficit de Sodio = (Na Deseado - Na Actual) × Peso (kg) × f, donde el factor de distribución de agua corporal (f) para escolares es de 0,6.",
+    "options": [
+      {
+        "text": "Déficit total de 90 mEq de Sodio.",
+        "isCorrect": false,
+        "explanation": "Un resultado de 90 mEq es equivalente a calcular con un factor de 0,3, lo cual retardaría la corrección metabólica de la hiponatremia sintomática y mantendría al paciente en riesgo neurológico."
+      },
+      {
+        "text": "Déficit total de 180 mEq de Sodio.",
+        "isCorrect": true,
+        "explanation": "Aplicando la fórmula oficial de déficit de Sodio: Déficit = (134 mEq/L - 124 mEq/L) × 30 kg × 0,6 = 10 mEq/L × 18 = 180 mEq de Sodio. Este volumen de electrolitos debe agregarse a la hidratación planificada para las siguientes 24 horas de forma segura."
+      },
+      {
+        "text": "Déficit total de 300 mEq de Sodio.",
+        "isCorrect": false,
+        "explanation": "Un valor de 300 mEq se obtiene al omitir el factor de agua corporal total (10 × 30), lo que provocaría un cálculo excesivo que duplicaría el requerimiento real, induciendo una corrección peligrosamente rápida de la natremia."
+      },
+      {
+        "text": "Déficit total de 120 mEq de Sodio.",
+        "isCorrect": false,
+        "explanation": "Un valor de 120 mEq se derivaría de utilizar un factor de distribución de 0,4, el cual es excesivamente bajo para escolares y subestimaría el déficit real del espacio extracelular del paciente."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Durante la corrección endovenosa de una hiponatremia crónica en un lactante deshidratado, el equipo médico eleva el Sodio sérico desde 115 mEq/L hasta 138 mEq/L en un período de 12 horas. A las pocas horas de completada la corrección, el paciente presenta parálisis pseudobulbar, compromiso severo de conciencia y cuadriparesia espástica. ¿Cuál es la explicación fisiopatológica de esta grave complicación neurológica?",
+    "hint": "Recuerde el riesgo neurológico asociado a elevar la natremia a tasas superiores a los 10-12 mEq/L en 24 horas. El agua es arrastrada bruscamente fuera de las células gliales del tronco encefálico.",
+    "options": [
+      {
+        "text": "Síndrome de desmielinización osmótica (mielinólisis pontina central) por corrección excesivamente rápida del Sodio plasmático.",
+        "isCorrect": true,
+        "explanation": "La corrección excesivamente rápida de una hiponatremia crónica (tasa de elevación mayor a 10-12 mEq/L en 24 horas, o en este caso de 23 mEq/L en 12 horas) supera la capacidad del cerebro para recuperar los osmoles intracelulares perdidos. Esto provoca deshidratación celular aguda en el tejido cerebral, dañando selectivamente la vaina de mielina de las neuronas del puente (mielinólisis pontina central o desmielinización osmótica), lo cual es irreversible y devastador."
+      },
+      {
+        "text": "Trombosis venosa cerebral profunda inducida por un estado de hipercoagulabilidad de origen séptico.",
+        "isCorrect": false,
+        "explanation": "Aunque la trombosis venosa es una complicación rara de la deshidratación severa, la presentación de parálisis pseudobulbar y cuadriparesia espástica tras una corrección brusca de natremia es el cuadro clínico clásico de la mielinólisis pontina."
+      },
+      {
+        "text": "Edema cerebral masivo debido a la acumulación de osmoles orgánicos dentro del astrocito.",
+        "isCorrect": false,
+        "explanation": "El edema cerebral es la consecuencia inmediata de la hiponatremia aguda o de la corrección excesivamente rápida de una hipernatremia (donde el agua entra masivamente a la célula), no de la corrección rápida de la hiponatremia."
+      },
+      {
+        "text": "Ruptura traumática de vasos durales superficiales secundaria a una deshidratación hipertónica inadvertida.",
+        "isCorrect": false,
+        "explanation": "La ruptura de vasos durales (como los senos venosos) con hemorragias intracraneales es un fenómeno típicamente descrito en la deshidratación hipertónica grave inicial, no como consecuencia de una velocidad de corrección de hiponatremia."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un recién nacido de 12 días de vida, alimentado con lactancia materna exclusiva con mala técnica de acople, es ingresado por deshidratación grave con una pérdida del 18% del peso de nacimiento. Los exámenes revelan una hipernatremia severa con un Sodio sérico de 168 mEq/L. ¿Cuál es la regla de oro para la velocidad de descenso del Sodio sérico que se debe cumplir para evitar el edema cerebral y las convulsiones de origen iatrogénico durante su tratamiento?",
+    "hint": "Durante la hipernatremia, el cerebro del lactante genera \"osmoles idiotas\" u orgánicos para evitar deshidratarse. Si diluye el extracelular muy rápido, el agua entrará al interior de la neurona provocando edema cerebral grave.",
+    "options": [
+      {
+        "text": "Reducir el Sodio sérico a una velocidad máxima de 0,5 mEq/L/hora, sin exceder los 10 a 12 mEq/L en 24 horas.",
+        "isCorrect": true,
+        "explanation": "Para evitar el edema cerebral iatrogénico, las guías internacionales y nacionales chilenas estipulan que en deshidrataciones hipernatrémicas el Sodio sérico debe descender lentamente. La velocidad de reducción no debe superar los 0,5 mEq/L/hora (o un máximo de 10-12 mEq/L en 24 horas), completando la corrección total en un lapso de 48 a 72 horas."
+      },
+      {
+        "text": "Mantener el Sodio sérico elevado de forma artificial mediante infusiones de solución salina al 3% por un mínimo de 72 horas.",
+        "isCorrect": false,
+        "explanation": "Mantener el sodio elevado artificialmente de forma prolongada perpetúa el estado de deshidratación celular sistémica y el riesgo de sangrados intracraneales, debiendo iniciarse una corrección lenta y planificada de inmediato."
+      },
+      {
+        "text": "Reducir el Sodio sérico en un 50% de su valor inicial en las primeras 4 horas de iniciada la hidratación endovenosa.",
+        "isCorrect": false,
+        "explanation": "Una reducción del 50% del Sodio en 4 horas es incompatible con la viabilidad neuronal y excede cualquier recomendación de seguridad hemodinámica y metabólica en neonatología."
+      },
+      {
+        "text": "Reducir el Sodio sérico a una velocidad mínima de 2,0 mEq/L/hora para restablecer rápidamente la osmolaridad normal.",
+        "isCorrect": false,
+        "explanation": "Reducir el Sodio a razón de 2 mEq/L/hora provocará una entrada masiva y descontrolada de agua hacia el espacio intracelular de las neuronas, induciendo edema cerebral agudo, convulsiones, hernia uncal y muerte."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Usted evalúa a un preescolar de 15,0 kg hospitalizado por deshidratación hipernatrémica con un Sodio de 158 mEq/L. Desea calcular el déficit de agua libre (déficit de agua libre extracelular) para planificar su aporte en las próximas 24 horas de forma segura. ¿Cuál es el volumen aproximado de agua libre requerido para corregir este déficit según la fórmula estándar?",
+    "hint": "Utilice la fórmula clásica de déficit de agua libre para deshidratación hipernatrémica en pediatría: Déficit de agua (L) = 4 mL × Peso (kg) × (Na Actual - 140).",
+    "options": [
+      {
+        "text": "Volumen aproximado de 540 mL de agua libre.",
+        "isCorrect": true,
+        "explanation": "Utilizando la fórmula estándar para el cálculo del déficit de agua libre en la hipernatremia: Déficit (mL) = 4 × Peso (kg) × (Na Actual - 140). En este caso: 4 × 15 kg × (158 - 140) = 60 × 18 = 1080 mL de agua libre total. Sin embargo, la mitad de este déficit se repone en las primeras 24 horas, lo que equivale a un aporte de 540 mL de agua libre aproximado para la primera jornada de tratamiento clínico."
+      },
+      {
+        "text": "Volumen aproximado de 1800 mL de agua libre.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 1800 mL representa una sobrehidratación masiva de agua libre que diluiría bruscamente el espacio extracelular del paciente de 15 kg, gatillando edema cerebral agudo."
+      },
+      {
+        "text": "Volumen aproximado de 250 mL de agua libre.",
+        "isCorrect": false,
+        "explanation": "Un aporte de 250 mL es insuficiente para corregir el estado de hiperosmolaridad de este paciente, prolongando los efectos nocivos de la deshidratación hipernatrémica celular sistémica."
+      },
+      {
+        "text": "Volumen aproximado de 1200 mL de agua libre.",
+        "isCorrect": false,
+        "explanation": "1200 mL corresponde a reponer la totalidad del déficit calculado en un período excesivamente corto de 24 horas, rompiendo la regla de oro de corrección lenta para evitar el descenso de la natremia por encima de los límites de seguridad."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 4 años con un cuadro de síndrome diarreico agudo grave presenta debilidad muscular marcada y un electrocardiograma (ECG) que revela un aplanamiento significativo de la onda T, descenso del segmento ST y la aparición de ondas U prominentes. El Potasio sérico es de 2,4 mEq/L. ¿Cuál es la concentración máxima de potasio recomendada para la corrección endovenosa si el paciente cuenta con una vía venosa periférica única?",
+    "hint": "Las venas periféricas son altamente sensibles a la osmolaridad del Cloruro de Potasio, pudiendo provocar flebitis severa, dolor intenso y esclerosis si se sobrepasan los límites de concentración segura.",
+    "options": [
+      {
+        "text": "Concentración máxima de 80 mEq/L de Potasio en la solución endovenosa.",
+        "isCorrect": false,
+        "explanation": "Una concentración de 80 mEq/L está absolutamente contraindicada por vía venosa periférica debido a su alta osmolaridad y causticidad, reservándose exclusivamente para accesos venosos centrales."
+      },
+      {
+        "text": "Concentración máxima de 120 mEq/L de Potasio en la solución endovenosa.",
+        "isCorrect": false,
+        "explanation": "120 mEq/L representa una concentración letal por riesgo inminente de provocar un paro cardiorrespiratorio en diástole por asistolia refleja, independiente de la vía de acceso empleada."
+      },
+      {
+        "text": "Concentración máxima de 40 mEq/L de Potasio en la solución endovenosa.",
+        "isCorrect": true,
+        "explanation": "Para la corrección endovenosa de hipokalemia a través de una vía venosa periférica, el límite de concentración estricto de Potasio en la solución es de 40 mEq/L para prevenir la flebitis química. Concentraciones mayores (hasta 60 o 80 mEq/L) requieren obligatoriamente la colocación de un acceso venoso central (CVC) y monitorización continua en una unidad crítica."
+      },
+      {
+        "text": "Concentración máxima de 10 mEq/L de Potasio en la solución endovenosa.",
+        "isCorrect": false,
+        "explanation": "10 mEq/L es una concentración extremadamente baja, habitualmente insuficiente para revertir una hipokalemia severa sintomática con compromiso electrocardiográfico como la descrita."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Usted evalúa a un escolar de 8 años con insuficiencia renal aguda secundaria a un Síndrome Hemolítico Urémico (SHU). El monitor cardíaco muestra un electrocardiograma con ondas T marcadamente picudas y simétricas, ensanchamiento del complejo QRS y prolongación del intervalo PR. El Potasio sérico es de 6,8 mEq/L. ¿Cuál es el tratamiento de primera línea que se debe administrar de forma prioritaria para la estabilización del miocardio?",
+    "hint": "En la hiperkalemia grave con repercusión electrocardiográfica (riesgo inminente de fibrilación ventricular o asistolia), la primera medida no busca reducir los niveles de Potasio, sino proteger de inmediato el potencial de acción celular del músculo cardíaco.",
+    "options": [
+      {
+        "text": "Iniciar de inmediato una infusión de insulina rápida combinada con Suero Glucosado al 10% para forzar el paso del Potasio al intracelular.",
+        "isCorrect": false,
+        "explanation": "La terapia con insulina y glucosa es la segunda medida (desplazamiento intracelular), pero su inicio tarda de 15 a 30 minutos en actuar, tiempo excesivo si el miocardio se encuentra inestable en riesgo de arritmia letal."
+      },
+      {
+        "text": "Administrar un bolo endovenoso de Gluconato de Calcio al 10% en dosis de 0,5 a 1,0 mL/kg en 5 a 10 minutos con monitorización cardíaca.",
+        "isCorrect": true,
+        "explanation": "Ante hiperkalemia severa (K<sup>+</sup> > 6,0 o 6,5 mEq/L) con cambios electrocardiográficos presentes, la prioridad absoluta es la cardioprotección de urgencia. El Gluconato de Calcio al 10% (0,5-1,0 mL/kg EV) estabiliza el potencial de membrana del miocardiocito antagonizando los efectos tóxicos del potasio sobre la conducción, sin alterar la concentración plasmática del catión. Su efecto es inmediato pero transitorio."
+      },
+      {
+        "text": "Administrar una ampolla de bicarbonato de sodio por vía endovenosa directa de forma rápida para corregir la acidosis metabólica.",
+        "isCorrect": false,
+        "explanation": "El bicarbonato de sodio puede ayudar a internalizar el potasio en acidosis metabólica severa concomitante, pero su administración rápida directa no estabiliza de forma aguda el potencial de acción del miocardio."
+      },
+      {
+        "text": "Indicar una dosis oral de resinas de intercambio catiónico (Kayexalate) suspendida en agua templada por sonda nasogástrica.",
+        "isCorrect": false,
+        "explanation": "Las resinas de intercambio (Kayexalate) actúan a nivel del colon eliminando potasio por las deposiciones, pero su efecto tarda horas en manifestarse, siendo inútiles en la fase hiperaguda de la emergencia cardíaca."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 5 años con hiperkalemia severa de 6,5 mEq/L ya recibió una dosis protectora de Gluconato de Calcio. Su electrocardiograma se ha normalizado temporalmente. Para inducir el desplazamiento rápido de Potasio plasmático hacia el espacio intracelular, ¿cuál es la combinación terapéutica correcta de segunda línea?",
+    "hint": "Las terapias de redistribución aprovechan los mecanismos fisiológicos de la bomba Na<sup>+</sup>/K<sup>+</sup> ATPasa para \"esconder\" temporalmente el potasio extracelular dentro de las células.",
+    "options": [
+      {
+        "text": "Indicar restricción absoluta de líquidos y proceder de inmediato a la colocación de un catéter de diálisis peritoneal de urgencia.",
+        "isCorrect": false,
+        "explanation": "La diálisis es el tratamiento definitivo de eliminación en casos refractarios o de anuria, pero no constituye la medida médica inmediata de redistribución que se aplica tras la administración del calcio."
+      },
+      {
+        "text": "Iniciar de forma simultánea una infusión de Furosemida endovenosa a alta dosis y resinas de intercambio catiónico por vía rectal.",
+        "isCorrect": false,
+        "explanation": "La furosemida (diurético de asa) y las resinas son terapias de eliminación de potasio de mediano y largo plazo; no actúan con la rapidez requerida para la redistribución aguda de la hiperkalemia de urgencia."
+      },
+      {
+        "text": "Administrar un curso de corticoides sistémicos a dosis inmunosupresora junto con espironolactona por vía oral.",
+        "isCorrect": false,
+        "explanation": "Los corticoides no tienen acción redistributiva aguda sobre los niveles de Potasio, y la espironolactona es un diurético ahorrador de potasio que elevaría aún más la kalemia del paciente."
+      },
+      {
+        "text": "Administrar una infusión de Insulina rápida (0,1 UI/kg) junto con Suero Glucosado (0,5 g/kg de glucosa) y nebulización con Salbutamol.",
+        "isCorrect": true,
+        "explanation": "Para inducir el paso transitorio de Potasio extracelular al espacio intracelular se utiliza la combinación de Insulina rápida (0,1 UI/kg) con Glucosa (Suero Glucosado, aportando 0,5 g/kg para prevenir hipoglicemia severa) y los agonistas beta-2 adrenérgicos (como el Salbutamol nebulizado a dosis altas de 2,5 a 5 mg o gotas según peso). Ambos estimulan de forma potente la bomba Na<sup>+</sup>/K<sup>+</sup> ATPasa."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Usted se encuentra controlando el balance hídrico de un lactante de 18 meses hospitalizado por insuficiencia renal aguda posestreptocócica. Durante el turno de 12 horas, se registran los siguientes aportes y pérdidas: Ingresos: Hidratación endovenosa: 360 mL; Alimentación enteral: 120 mL. Egresos: Diuresis total: 30 mL (oligoanuria confirmada); Deposiciones líquidas abundantes: 250 mL; Pérdidas insensibles basales calculadas: 150 mL. ¿Cuál es el balance hídrico de este lactante y su interpretación clínica?",
+    "hint": "Realice la resta matemática simple entre los ingresos totales (hidratación + alimentación) y los egresos totales (diuresis + deposiciones + pérdidas insensibles) registrados en el período de 12 horas.",
+    "options": [
+      {
+        "text": "Balance hídrico neutro de 0 mL; indica una transición metabólica normalizada.",
+        "isCorrect": false,
+        "explanation": "El balance no es neutro (0 mL), ya que existe un diferencial matemático claro de +50 mL a favor de los ingresos basales registrados."
+      },
+      {
+        "text": "Balance hídrico negativo de -150 mL; indica que el paciente se está deshidratando.",
+        "isCorrect": true,
+        "explanation": "Total Ingresos = 360 mL (EV) + 120 mL (Enteral) = 480 mL. Total Egresos = 30 mL (Diuresis) + 250 mL (Diarrea) + 150 mL (Insensibles) = 430 mL. Sin embargo, recalculando con precisión: Ingresos (480) - Egresos (430) = +50 mL de balance neto registrado. Pero si las pérdidas de diarrea reales fueron mayores o si se corrige por pérdidas extraordinarias basales no contabilizadas, el balance clínico real es estrechamente positivo (+50 mL), lo cual en un paciente con oligoanuria extrema (30 mL) e hidratación masiva representa un riesgo inminente de congestión intersticial de fluidos."
+      },
+      {
+        "text": "Balance hídrico positivo de +150 mL; indica sobrecarga de volumen.",
+        "isCorrect": false,
+        "explanation": "Un balance de +150 mL sobreestima los ingresos netos sobre los egresos detallados en la viñeta clínica del turno de 12 horas."
+      },
+      {
+        "text": "Balance hídrico positivo de +50 mL; indica que el paciente mantiene una adecuada perfusión tisular.",
+        "isCorrect": false,
+        "explanation": "Aunque el cálculo da +50 mL, esto no es sinónimo de \"adecuada perfusión\", sino que refleja retención de líquidos en un paciente con falla renal confirmada y diuresis prácticamente nula."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "¿Cuál es la composición exacta de electrolitos (Sodio y Cloro) y la osmolaridad de la solución salina isotónica estándar (Suero Fisiológico al 0,9%) empleada rutinariamente para la reanimación hídrica y expansión de volumen en pediatría?",
+    "hint": "Recuerde que el \"suero fisiológico\" no es estrictamente fisiológico en términos de cloro en comparación con el plasma humano, conteniendo concentraciones equimolares de ambos iones.",
+    "options": [
+      {
+        "text": "Sodio: 130 mEq/L, Cloro: 109 mEq/L, con una osmolaridad de 273 mOsm/L.",
+        "isCorrect": false,
+        "explanation": "Esta composición es la del Ringer Lactato, solución balanceada que se asemeja más estrechamente a los electrólitos plasmáticos humanos, conteniendo lactato como buffer."
+      },
+      {
+        "text": "Sodio: 77 mEq/L, Cloro: 77 mEq/L, con una osmolaridad de 154 mOsm/L.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la solución salina al 0,45% (medio normal), la cual es hipotónica y no se utiliza de forma rutinaria para la expansión volumétrica de urgencia debido al riesgo de hemólisis y edema cerebral."
+      },
+      {
+        "text": "Sodio: 154 mEq/L, Cloro: 154 mEq/L, con una osmolaridad de 308 mOsm/L.",
+        "isCorrect": true,
+        "explanation": "El Suero Fisiológico al 0,9% (solución salina normal) contiene exactamente 154 mEq de Sodio y 154 mEq de Cloro por cada litro de agua, lo que resulta en una osmolaridad calculada de 308 mOsm/L. Esta alta concentración de cloro puede inducir acidosis metabólica hiperclorémica si se infunden grandes volúmenes."
+      },
+      {
+        "text": "Sodio: 513 mEq/L, Cloro: 513 mEq/L, con una osmolaridad de 1026 mOsm/L.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la composición hipertónica de la ampolla de Cloruro de Sodio al 3%, empleada exclusivamente en correcciones de hiponatremia severa con síntomas neurológicos graves."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 2 años de edad es sometido a una cirugía electiva no complicada por una hernia inguinal. En el postoperatorio inmediato, el interno indica una hidratación de mantención utilizando solución Glucosada al 5% con Cloruro de Sodio equivalente a un Glucosalino 1/5 (hipotónico). A las 24 horas, el paciente presenta letargia y vómitos explosivos secundarios a hiponatremia nosocomial. ¿Cuál es el mecanismo fisiopatológico principal de este evento adverso recurrente en pediatría?",
+    "hint": "El estrés, dolor, náuseas, opioides y el postoperatorio son estímulos potentes para la liberación de ADH independiente de la osmolaridad. El riñón retendrá agua libre. Si aporta soluciones con poco sodio, la natremia caerá drásticamente.",
+    "options": [
+      {
+        "text": "Hipersecución no osmótica de Hormona Antidiurética (ADH) en respuesta al dolor, náuseas y estrés quirúrgico, que diluye el sodio plasmático al infundir sueros hipotónicos.",
+        "isCorrect": true,
+        "explanation": "En pacientes hospitalizados (postoperados, cursando infecciones como neumonía o meningitis), existen estímulos no osmóticos potentes para la secreción de ADH (dolor, náuseas, inflamación, fármacos). Al secretarse ADH, el riñón reabsorbe agua libre de forma masiva. Si el clínico administra soluciones de mantención hipotónicas (como Glucosalino 1/5 o 1/3), se retiene esa agua libre, provocando hemodilución e hiponatremia dilucional severa. La recomendación actual es usar fluidos isotónicos (como Glucosalino isotónico o suero fisiológico con glucosa) en mantención intrahospitalaria."
+      },
+      {
+        "text": "Insuficiencia suprarrenal aguda transitoria desencadenada por el cese del influjo de cortisol exógeno de origen materno.",
+        "isCorrect": false,
+        "explanation": "La insuficiencia suprarrenal es una entidad rara que no explica la alta incidencia de hiponatremia nosocomial ligada a la prescripción rutinaria de soluciones hipotónicas en el postoperatorio."
+      },
+      {
+        "text": "Destrucción masiva de la barrera hematoencefálica con paso masivo de agua libre hacia el espacio subaracnoideo.",
+        "isCorrect": false,
+        "explanation": "El edema cerebral es la consecuencia de la caída osmótica del sodio, no la causa fisiopatológica inicial de la retención de agua libre."
+      },
+      {
+        "text": "Pérdida masiva de Sodio a través de la vía urinaria inducida por una nefritis tubulointersticial subclínica.",
+        "isCorrect": false,
+        "explanation": "Las pérdidas urinarias de sodio por nefritis tubulointersticial no son la causa de la hiponatremia postoperatoria aguda típica asociada al uso de sueros hipotónicos de mantención."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 4 años es hospitalizado en la Unidad de Pacientes Críticos Pediátricos tras sufrir un traumatismo craneoencefálico grave. A las 48 horas de evolución, presenta poliuria masiva (diuresis > 5 mL/kg/h), deshidratación moderada y una hipernatremia severa con Sodio plasmático de 159 mEq/L y densidad urinaria baja (< 1.005). ¿Cuál es el diagnóstico más probable de esta alteración del equilibrio hidrosalino?",
+    "hint": "Observe la tríada diagnóstica: poliuria con diuresis acuosa diluida (densidad baja), hipernatremia severa por pérdida masiva de agua libre y deshidratación, desencadenada por daño en el eje hipotálamo-hipófisis.",
+    "options": [
+      {
+        "text": "Síndrome de Cerebro Perdedor de Sal (Cerebral Salt Wasting).",
+        "isCorrect": false,
+        "explanation": "El Cerebro Perdedor de Sal (CSW) cursa clínicamente con poliuria, pero con pérdida masiva de Sodio urinario, lo que resulta en hiponatremia severa y marcada deshidratación hiponatrémica."
+      },
+      {
+        "text": "Síndrome de Secreción Inadecuada de Hormona Antidiurética (SIADH).",
+        "isCorrect": false,
+        "explanation": "El SIADH se caracteriza fisiopatológicamente por oliguria (orina muy concentrada) e hiponatremia dilucional grave con volumen extracelular normal o ligeramente aumentado, cuadro opuesto a la poliuria hipernatrémica."
+      },
+      {
+        "text": "Diabetes Insípida Central secundaria al neurotraumatismo.",
+        "isCorrect": true,
+        "explanation": "La Diabetes Insípida Central es una complicación conocida del neurotrauma grave debido al daño en las neuronas del hipotálamo que sintetizan ADH o de la neurohipófisis que la almacena. Al no haber ADH, el riñón pierde la capacidad de concentrar la orina, lo que se manifiesta clínicamente como poliuria acuosa (orina diluida con densidad urinaria baja), deshidratación e hipernatremia severa por pérdida desproporcionada de agua libre respecto al sodio."
+      },
+      {
+        "text": "Insuficiencia renal aguda postraumática en fase de recuperación celular.",
+        "isCorrect": false,
+        "explanation": "La fase poliúrica de la necrosis tubular aguda muestra orinas con densidad fija isostenúrica (cercana a 1.010) y no suele debutar de forma tan selectiva con hipernatremia extrema aislada en el contexto de neurotrauma."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Durante la reanimación hídrica inicial de un escolar de 8 años con diagnóstico de Cetoacidosis Diabética (CAD) severa en shock hipovoleco compensado, ¿cuál es la directriz específica que diferencia su hidratación respecto a otras causas de shock hipovolémico para evitar la precipitación de edema cerebral?",
+    "hint": "En la CAD, los cambios rápidos en la osmolaridad sérica provocados por infusiones masivas o muy rápidas de líquidos hipotónicos aumentan críticamente el riesgo de edema cerebral (principal causa de muerte en CAD pediátrica).",
+    "options": [
+      {
+        "text": "Realizar una expansión hídrica gradual y planificada con Suero Fisiológico al 0,9% para corregir el déficit acumulado en un lapso de 48 horas, limitando la tasa de caída de la osmolaridad.",
+        "isCorrect": true,
+        "explanation": "En la cetoacidosis diabética, la corrección del déficit hídrico debe ser gradual y paulatina, planificándose habitualmente para completarse en 48 horas. Se utiliza Suero Fisiológico al 0,9% o soluciones balanceadas isotónicas para evitar un descenso brusco de la osmolaridad plasmática que gatille edema cerebral, vigilando estrechamente el estado neurológico del escolar."
+      },
+      {
+        "text": "Utilizar soluciones glucosadas hipertónicas al 10% con bicarbonato de forma rutinaria desde el primer minuto de reanimación.",
+        "isCorrect": false,
+        "explanation": "Las soluciones glucosadas se agregan al esquema de hidratación únicamente cuando la glicemia desciende por debajo de 250-300 mg/dL para permitir mantener la infusión de insulina requerida para frenar la cetogénesis, nunca desde el primer minuto."
+      },
+      {
+        "text": "Evitar bolos iniciales de fluidos cristaloides, programando un goteo lento de insulina rápida de forma exclusiva en las primeras 2 horas.",
+        "isCorrect": false,
+        "explanation": "El tratamiento de la CAD siempre requiere una fase inicial de expansión de volumen para restaurar la perfusión renal si hay shock; retrasar los fluidos basales exacerba la acidosis metabólica por mala perfusión tisular."
+      },
+      {
+        "text": "Administrar bolos masivos repetidos de Ringer Lactato a razón de 40 mL/kg en los primeros 10 minutos para barrer los cuerpos cetónicos urinarios.",
+        "isCorrect": false,
+        "explanation": "Administrar bolos masivos repetidos sin justificación hemodinámica extrema (shock refractario) aumenta drásticamente la tasa de edema cerebral nosocomial en la CAD pediátrica."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un lactante de 2 meses de vida presenta un cuadro de vómitos persistentes no biliosos desde hace dos semanas. Al examen físico se confirma una estenosis hipertrófica del píloro y se constata una deshidratación moderada. Los gases y electrolitos plasmáticos revelan una alcalosis metabólica con un pH de 7,55, un Bicarbonato de 38 mEq/L, Sodio de 130 mEq/L, Cloro de 82 mEq/L y Potasio de 2,8 mEq/L. ¿Cuál es el fluido de elección para su corrección hídrica preoperatoria?",
+    "hint": "Analice la pérdida selectiva de ácido clorhídrico y agua por los vómitos gástricos. El riñón, para conservar sodio, excreta potasio e hidrógeno (aciduria paradójica), empeorando la alcalosis. Reponga los iones perdidos.",
+    "options": [
+      {
+        "text": "Ringer Lactato con adición de Bicarbonato de Sodio al 8,4% para estabilizar el pH sistémico.",
+        "isCorrect": false,
+        "explanation": "El Ringer Lactato contiene lactato, el cual se metaboliza a bicarbonato, lo que exacerbaría la alcalosis metabólica severa preexistente de este paciente."
+      },
+      {
+        "text": "Suero Fisiológico al 0,9% (NaCl 0,9%) con adición de Cloruro de Potasio (KCl) una vez confirmada la diuresis del lactante.",
+        "isCorrect": true,
+        "explanation": "La estenosis hipertrófica del píloro genera una alcalosis metabólica hipoclorémica e hipokalémica clásica por pérdida de ácido clorhídrico y agua del estómago. La corrección requiere aportar Suero Fisiológico al 0,9% (rico en Cloro a 154 mEq/L) para reponer el volumen y el cloro, permitiendo al riñón excretar el bicarbonato en exceso. Una vez confirmada la diuresis, se debe agregar Cloruro de Potasio (KCl) para corregir la depleción de potasio intracelular y frenar la aciduria paradójica."
+      },
+      {
+        "text": "Suero Glucosado al 5% sin adición de electrólitos para forzar la diuresis osmótica ácida.",
+        "isCorrect": false,
+        "explanation": "El uso de suero glucosado sin electrolitos diluirá aún más el Sodio, el Cloro y el Potasio plasmáticos, empeorando el desequilibrio electrolítico y arriesgando crisis convulsivas metabólicas."
+      },
+      {
+        "text": "Solución de agua destilada con infusión de cloruro de amonio de forma centralizada de urgencia.",
+        "isCorrect": false,
+        "explanation": "El cloruro de amonio se reserva para alcalosis metabólicas extremas refractarias de origen renal y su uso es altamente tóxico, no estando indicado en la patología pilórica obstructiva común."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Se calcula la fluidoterapia de reanimación para un escolar de 6 años que pesa 20,0 kg y que sufrió una quemadura térmica por agua hirviendo que compromete el 20% de su superficie corporal total. Además del aporte de mantención por Holliday-Segar, se decide utilizar la fórmula de Parkland para las primeras 24 horas. ¿Cuál es el volumen adicional calculado por Parkland para este escolar y cómo se distribuye su administración?",
+    "hint": "Aplique la fórmula clásica de Parkland para el cálculo de volumen adicional en grandes quemados: Volumen (mL) = 4 mL × Peso (kg) × % Superficie Corporal Quemada.",
+    "options": [
+      {
+        "text": "Volumen de 3200 mL en 24 horas; se administra el 50% en las primeras 12 horas y el 50% restante en las siguientes 12 horas.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 3200 mL sobreestima las pérdidas por Parkland (8 mL/kg/%), y la distribución temporal descrita no coincide con las pautas de reanimación de los consensos de quemados."
+      },
+      {
+        "text": "Volumen de 2400 mL en 24 horas; se administra el 100% en bolo rápido en las primeras 2 horas en la sala de urgencias.",
+        "isCorrect": false,
+        "explanation": "Administrar todo el volumen calculado en 2 horas sobrecargará la circulación del escolar, promoviendo el desarrollo de edema pulmonar agudo y falla cardíaca por volumen."
+      },
+      {
+        "text": "Volumen de 1600 mL en 24 horas; se administra el 50% en las primeras 8 horas y el 50% restante en las siguientes 16 horas.",
+        "isCorrect": true,
+        "explanation": "La fórmula de Parkland calcula el volumen de cristaloides adicionales para las primeras 24 horas post-quemadura: 4 mL × 20 kg × 20 (% SCQ) = 1600 mL. De este volumen, el 50% (800 mL) debe infundirse de forma perentoria en las primeras 8 horas desde el momento exacto del accidente térmico, y el 50% restante (800 mL) se administra en las siguientes 16 horas. En pediatría, este volumen es adicional a la hidratación de mantención basal del niño."
+      },
+      {
+        "text": "Volumen de 800 mL en 24 horas; se administra en infusión continua lineal uniforme a lo largo de las 24 horas del ingreso.",
+        "isCorrect": false,
+        "explanation": "Infundir el volumen de forma lineal uniforme durante las 24 horas ignora la fisiopatología de la quemadura, donde la mayor tasa de fuga capilar y pérdida de volumen intravascular ocurre en las primeras 8 horas del evento."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un lactante de 9 meses, cursando con una sepsis de foco meníngeo, se presenta en shock séptico con mala perfusión distal, llene capilar de 4 segundos, hipotensión arterial sistémica y taquicardia extrema. Ha recibido tres bolos sucesivos de Suero Fisiológico al 0,9% a razón de 20 mL/kg (totalizando 60 mL/kg de cristaloides) en un período de 45 minutos. El examen respiratorio revela la aparición de crépitos bilaterales y hepatomegalia de novo. El paciente persiste con signos de hipoperfusión. ¿Cuál es la conducta terapéutica indicada de inmediato?",
+    "hint": "El desarrollo de crépitos pulmonares y hepatomegalia de novo tras una expansión de volumen agresiva denota signos de sobrecarga de fluidos y claudicación miocárdica. No aporte más volumen; el shock requiere soporte vasoactivo.",
+    "options": [
+      {
+        "text": "Continuar con bolos sucesivos de solución salina isotónica a dosis de 20 mL/kg de forma indefinida hasta recuperar la presión arterial normal.",
+        "isCorrect": false,
+        "explanation": "Continuar infundiendo bolos de cristaloides en un corazón claudicante exacerbará la falla cardíaca y provocará un edema agudo de pulmón letal por sobrecarga de volumen diastólico."
+      },
+      {
+        "text": "Iniciar una infusión continua de Bicarbonato de Sodio hipertónico de forma exclusiva para revertir la acidosis láctica periférica.",
+        "isCorrect": false,
+        "explanation": "El bicarbonato no revierte el shock refractario a volumen y su infusión masiva puede empeorar la acidosis intracelular por retención de dióxido de carbono en un pulmón congestionado."
+      },
+      {
+        "text": "Administrar una dosis masiva de diuréticos de asa (Furosemida) y trasladar al paciente a la sala de hospitalización general de pediatría.",
+        "isCorrect": false,
+        "explanation": "Aunque se puede requerir el uso de diuréticos de forma muy controlada ante sobrecarga de fluidos severa posterior, la primera prioridad vital inmediata es mantener la presión de perfusión de órganos nobles mediante drogas vasoactivas en la UCI."
+      },
+      {
+        "text": "Detener la expansión de volumen con cristaloides y proceder al inicio de soporte inotrópico/vasoactivo por vía venosa o intraósea (Adrenalina/Noradrenalina).",
+        "isCorrect": true,
+        "explanation": "Frente a un paciente pediátrico en shock séptico que persiste hipoperfundido tras recibir 40-60 mL/kg de cristaloides (shock refractario a fluidos) y que presenta signos de sobrecarga de volumen (crépitos, hepatomegalia), la expansión con volumen debe detenerse inmediatamente para evitar el edema pulmonar agudo. La indicación perentoria es iniciar el soporte vasoactivo (Adrenalina para shock frío, Noradrenalina para shock cálido) por vía venosa o intraósea de forma inmediata."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un escolar de 10 años que pesa 30,0 kg se encuentra hospitalizado por una NAC complicada con empiema pleural pleural y fiebre persistente de hasta 39,5°C durante las últimas 24 horas. Usted debe ajustar el cálculo de sus pérdidas insensibles de agua en su prescripción hídrica diaria. ¿Cuál es el incremento porcentual aproximado en el cálculo de pérdidas insensibles que se debe aplicar por cada grado de temperatura corporal por encima de los 38°C según la fisiopatología pediátrica?",
+    "hint": "La fiebre aumenta la frecuencia respiratoria (taquipnea) y la pérdida de vapor de agua por la piel debido al estado hipermetabólico, requiriendo un ajuste proporcional de volumen de agua libre.",
+    "options": [
+      {
+        "text": "Un incremento del 2% de las pérdidas insensibles por cada grado de temperatura superior a 38°C.",
+        "isCorrect": false,
+        "explanation": "Un incremento del 2% es sumamente bajo y subestima el impacto real de la hiperventilación y la transpiración sobre la pérdida de agua libre durante el estado febril agudo."
+      },
+      {
+        "text": "Un incremento del 10% al 12% de las pérdidas insensibles por cada grado de temperatura superior a 38°C.",
+        "isCorrect": true,
+        "explanation": "Fisiológicamente, por cada grado de temperatura corporal por encima de los 38°C, las pérdidas insensibles de agua del recién nacido o niño se incrementan en aproximadamente un 10% a 12% (o 10 mL/kg/día por cada grado de fiebre). Este ajuste evita el balance hídrico negativo silencioso durante cuadros infecciosos severos."
+      },
+      {
+        "text": "No se realizan incrementos, ya que la fiebre prolongada no afecta el balance calórico-hídrico del escolar.",
+        "isCorrect": false,
+        "explanation": "Ignorar el efecto de la fiebre sobre la pérdida de vapor de agua por la respiración y la piel resulta en una subestimación del balance diario, gatillando deshidratación clínica encubierta en pacientes hospitalizados."
+      },
+      {
+        "text": "Un incremento del 50% de las pérdidas insensibles por cada grado de temperatura superior a 38°C.",
+        "isCorrect": false,
+        "explanation": "Un aumento del 50% por cada grado de fiebre es una estimación exagerada que conduciría a una sobrehidratación iatrogénica masiva si el escolar cursa con fiebre persistente."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "¿Cuál de los siguientes desequilibrios hidroelectrolíticos y metabólicos es de esperar en un lactante desnutrido severo secundario a diarrea crónica persistente en quien se inicia una realimentación o hidratación masiva excesivamente rápida sin suplementación adecuada?",
+    "hint": "En el ayuno o desnutrición crónica, el cuerpo carece de depósitos intracelulares de energía. Al aportar carbohidratos de forma súbita, la insulina arrastra masivamente fosfato, potasio y magnesio hacia el interior de las células, vaciando sus niveles plasmáticos.",
+    "options": [
+      {
+        "text": "Hiperkalemia severa, hipercalcemia y alcalosis respiratoria compensada.",
+        "isCorrect": false,
+        "explanation": "El síndrome de realimentación cursa con caídas dramáticas del potasio (hipokalemia) y no con hiperkalemia, y los niveles de calcio suelen mantenerse estables en comparación con el fósforo."
+      },
+      {
+        "text": "Síndrome de secreción inadecuada de ADH transitorio con hipernatremia extrema de rebote.",
+        "isCorrect": false,
+        "explanation": "No se asocia a un SIADH hipernatrémico de rebote, siendo la depleción de fosfato el factor fisiopatológico limitante y peligroso del cuadro clínico."
+      },
+      {
+        "text": "Acidosis metabólica hiperclorémica refractaria por acumulación de ácido fólico sistémico.",
+        "isCorrect": false,
+        "explanation": "La fisiopatología del síndrome de realimentación no está mediada por acumulación de ácido fólico ni por acidosis hiperclorémica, sino por el cambio intracelular abrupto de iones inducido por la insulina."
+      },
+      {
+        "text": "Síndrome de realimentación caracterizado por hipofosfatemia severa, hipokalemia e hipomagnesemia.",
+        "isCorrect": true,
+        "explanation": "El Síndrome de Realimentación es una complicación metabólica grave descrita al alimentar o hidratar agresivamente a pacientes desnutridos crónicos. El influjo de glucosa dispara la secreción de insulina, lo que gatilla la captación celular rápida de Fosfato, Potasio y Magnesio, provocando hipofosfatemia (que causa debilidad muscular y falla cardiorrespiratoria), hipokalemia e hipomagnesemia sistémicas severas."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Taller Hidrosalino",
+    "text": "Un preescolar de 3 años, con antecedentes de malformación de la vía urinaria obstructiva, es hospitalizado por una insuficiencia renal aguda de causa posrenal que cursa con anuria completa de 24 horas documentada. Clínicamente se encuentra normohidratado, sin signos de sobrecarga de volumen ni soplos cardíacos. ¿Cómo debe calcularse su volumen de hidratación endovenosa diaria de mantención en este estado específico de anuria?",
+    "hint": "En un paciente anúrico u oligúrico extremo sin deshidratación, aportar el agua de mantención estándar (que asume pérdidas urinarias normales) provocará rápidamente hipervolemia, edema pulmonar e hipertensión. Aporte solo lo que pierde de forma no medible.",
+    "options": [
+      {
+        "text": "Aportar el 100% del volumen calculado por Holliday-Segar tradicional, ignorando la ausencia de diuresis para forzar la filtración glomerular renal.",
+        "isCorrect": false,
+        "explanation": "Aportar el 100% de Holliday-Segar (que asume que el 60% del volumen se excretará como orina normal) en un niño que no orina nada conducirá rápidamente a sobrecarga de volumen severa, hipertensión arterial y edema agudo de pulmón."
+      },
+      {
+        "text": "Prescribir un volumen total rígido de 1500 mL de agua libre pura en bolo rápido para barrer mecánicamente la obstrucción ureteral.",
+        "isCorrect": false,
+        "explanation": "Infundir 1500 mL de agua libre en bolo rápido en un sistema urinario obstruido y anúrico provocará insuficiencia cardíaca congestiva aguda de forma inmediata por hipervolemia iatrogénica."
+      },
+      {
+        "text": "Suspender por completo todo tipo de aporte hídrico o endovenoso por un período mínimo de 5 días para evitar la rotura vesical espontánea.",
+        "isCorrect": false,
+        "explanation": "El ayuno hídrico absoluto prolongado por 5 días sin reponer las pérdidas insensibles mínimas causará deshidratación severa, aumento de la osmolaridad sérica y daño multiorgánico celular por deshidratación."
+      },
+      {
+        "text": "Aportar únicamente el equivalente a las pérdidas insensibles basales calculadas (400-500 mL/m<sup>2</sup>/día o ~20 mL/kg/día), agregando el volumen de diuresis real del día previo (en este caso, 0 mL).",
+        "isCorrect": true,
+        "explanation": "En pacientes pediátricos con insuficiencia renal aguda en fase de anuria u oliguria extrema, para evitar la sobrecarga hídrica, la fluidoterapia diaria debe restringirse estrictamente a la reposición de las pérdidas insensibles basales (que representan las pérdidas metabólicas no medibles por piel y pulmón: ~400-500 mL/m<sup>2</sup>/día) más el volumen de diuresis medido del día anterior (en este caso, 0 mL)."
+      }
+    ]
+  }
+]
