@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted controla en el consultorio a una lactante de 2 meses de edad corregida que nació a las 32 semanas de gestación. Al evaluar los hitos del desarrollo psicomotor esperados para su edad de acuerdo con las pautas ministeriales vigentes en Chile, ¿cuál de los siguientes comportamientos neurológicos debería demostrar de forma consistente esta paciente?",
+    "hint": "Recuerde que para evaluar el desarrollo psicomotor en prematuros menores de 37 semanas se debe utilizar la edad corregida hasta que cumplan los dos años, buscando hitos basales de transición del primer trimestre.",
+    "options": [
+      {
+        "text": "Lograr la emisión de la sonrisa social ante el estímulo visual directo de la madre y emitir sonidos guturales de tipo gorjeo en reposo.",
+        "isCorrect": true,
+        "explanation": "A los 2 meses de edad (corregida en este caso de prematurez), los hitos del desarrollo psicomotor típicos e indispensables según la pauta de supervisión de salud infantil chilena incluyen la aparición de la sonrisa social (respuesta social a la mirada o voz del cuidador) y la emisión de sonidos guturales como gorjeos o \"coos\"."
+      },
+      {
+        "text": "Lograr seguir un objeto en movimiento en un ángulo completo de 180 grados y juntar ambas manos de forma simétrica en la línea media del pecho.",
+        "isCorrect": false,
+        "explanation": "El seguimiento visual completo de 180 grados y la aproximación de las manos a la línea media (coordinación bimanual central) corresponden a hitos del desarrollo esperables para un lactante de 3 a 4 meses de edad."
+      },
+      {
+        "text": "Lograr mantener la cabeza erguida en posición de sentado sin apoyo dorsal y extender la mano para asir un objeto brillante ofrecido.",
+        "isCorrect": false,
+        "explanation": "Mantener la cabeza erguida sin apoyo y el alcance voluntario de objetos son hitos motores y de coordinación que se consolidan de forma progresiva entre el tercer y cuarto mes de vida, siendo un rango de exigencia excesivo para los 2 meses."
+      },
+      {
+        "text": "Lograr la transferencia activa de un cubo de madera de una mano a la otra y emitir balbuceos consonánticos repetitivos de forma espontánea.",
+        "isCorrect": false,
+        "explanation": "La transferencia de objetos hand-to-hand y el balbuceo imitativo con consonantes (como \"da-da\" o \"ma-ma\") son destrezas madurativas que se observan habitualmente a partir del sexto mes de vida extrauterina."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿Hasta qué edad cronológica límite se debe realizar de forma mandatoria la corrección de la edad gestacional para la evaluación del desarrollo psicomotor mediante la Escala de Evaluación del Desarrollo Psicomotor (EEDP) en un recién nacido prematuro en la red de APS chilena?",
+    "hint": "El proceso de maduración neurológica y \"atrapamiento\" (catch-up) de los hitos del desarrollo del prematuro requiere un tiempo biológico de equiparación con el de término, el cual tiene un límite normado.",
+    "options": [
+      {
+        "text": "Corregir la edad de forma mandatoria hasta que el niño cumpla los 12 meses de edad cronológica.",
+        "isCorrect": false,
+        "explanation": "Limitar la corrección de la edad a los 12 meses subestima la inmadurez de base del prematuro extremo o moderado, induciendo falsos diagnósticos de retraso del desarrollo en las pruebas estandarizadas aplicadas en los controles sanos."
+      },
+      {
+        "text": "Corregir la edad de forma mandatoria hasta que el niño cumpla los 18 meses de edad cronológica.",
+        "isCorrect": false,
+        "explanation": "Aunque a los 18 meses el catch-up motor suele estar avanzado, la norma de enfermería y medicina pediátrica nacional chilena fija de forma estricta el límite de corrección al cumplir los dos años de vida."
+      },
+      {
+        "text": "Corregir la edad de forma mandatoria hasta que el niño cumpla los 36 meses de edad cronológica.",
+        "isCorrect": false,
+        "explanation": "Extender la corrección de edad hasta los 36 meses carece de sustento fisiológico para la mayoría de los hitos psicomotores del lactante mayor y retrasa el diagnóstico oportuno de trastornos persistentes del desarrollo."
+      },
+      {
+        "text": "Corregir la edad de forma mandatoria hasta que el niño cumpla los 24 meses de edad cronológica.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con la Norma Técnica de Supervisión de Salud Integral de Niños y Niñas en APS del MINSAL, la edad corregida debe utilizarse de forma sistemática y obligatoria para evaluar el desarrollo psicomotor de todo prematuro hasta los 24 meses de edad cronológica (2 años), momento en el cual se asume que se ha completado el proceso de nivelación biológica general."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el control sano de un lactante de 12 meses de edad en un Centro de Salud Familiar (CESFAM) de la Región de Coquimbo, usted se dispone a realizar la evaluación programática del desarrollo psicomotor. Según la norma técnica nacional, ¿cuál es el instrumento de tamizaje estandarizado que corresponde aplicar de forma universal a esta edad específica?",
+    "hint": "Identifique la herramienta clásica chilena diseñada en la Universidad de Chile que se aplica de manera universal a los 8 y 18 meses de vida (o de forma optativa a los 12 meses ante sospechas de rezago) para medir el coeficiente de desarrollo en el primer año.",
+    "options": [
+      {
+        "text": "Escala de Evaluación del Desarrollo Psicomotor (EEDP), evaluando las áreas de motor, lenguaje, social y coordinación.",
+        "isCorrect": true,
+        "explanation": "La Escala de Evaluación del Desarrollo Psicomotor (EEDP) es el instrumento de tamizaje de elección en Chile para evaluar el desarrollo de los niños entre los 0 y 24 meses de edad. Analiza sistemáticamente 75 reactivos distribuidos en cuatro áreas críticas del desarrollo: Motora, Lenguaje, Social y Coordinación."
+      },
+      {
+        "text": "Pauta de Chequeo del Desarrollo Infantil Breve, evaluando exclusivamente los hitos motores del lactante mayor.",
+        "isCorrect": false,
+        "explanation": "El MINSAL no contempla el uso de una pauta abreviada informal o exclusiva para hitos motores como herramienta de tamizaje universal codificada en el programa de salud infantil."
+      },
+      {
+        "text": "Cuestionario Ages and Stages (ASQ-3), evaluando las dimensiones de comunicación y resolución de problemas.",
+        "isCorrect": false,
+        "explanation": "El ASQ-3 es un cuestionario completado por los padres que se utiliza como complemento o en programas piloto específicos, pero no es la escala oficial estandarizada chilena que estructura el tamizaje de APS."
+      },
+      {
+        "text": "Test de Desarrollo Psicomotor (TEPSI), evaluando las áreas de coordinación, lenguaje y motricidad gruesa.",
+        "isCorrect": false,
+        "explanation": "El TEPSI (Test de Desarrollo Psicomotor) está validado y normado para su aplicación en niños en un rango de edad diferente, específicamente desde los 2 años hasta los 5 años (24 a 59 meses completos)."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al aplicar la Escala de Evaluación del Desarrollo Psicomotor (EEDP) a un lactante de 18 meses de edad cronológica, se obtiene un Coeficiente de Desarrollo (CD) calculado de 0,78. De acuerdo con los rangos de interpretación estandarizados de este instrumento, ¿cuál es la clasificación diagnóstica correcta del desarrollo psicomotor de este paciente?",
+    "hint": "Recuerde los puntos de corte numéricos del EEDP: CD igual o superior a 0,85 es Normal; CD entre 0,70 y 0,84 es Riesgo; CD menor a 0,70 se clasifica como Retraso.",
+    "options": [
+      {
+        "text": "Desarrollo psicomotor en Retraso, requiriendo derivación inmediata a médico especialista.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico de \"Retraso\" en el desarrollo mediante EEDP requiere un Coeficiente de Desarrollo inferior a 0,70 (dos desvíos estándar por debajo de la media), denotando un compromiso severo que amerita estudio médico secundario."
+      },
+      {
+        "text": "Desarrollo psicomotor Normal, requiriendo solo pautas de estimulación en el hogar.",
+        "isCorrect": false,
+        "explanation": "El rango Normal en la EEDP exige obtener un Coeficiente de Desarrollo igual o superior a 0,85 (un desvío estándar de la media), valor significativamente mayor que el 0,78 presentado por este paciente."
+      },
+      {
+        "text": "Desarrollo psicomotor en Rezago, requiriendo reevaluación clínica obligatoria en 15 días.",
+        "isCorrect": false,
+        "explanation": "El término \"Rezago\" no es una categoría cuantitativa directa de la puntuación de EEDP, sino un concepto operativo que define la no consolidación de hitos esperables para la edad en pautas abreviadas de control de rutina."
+      },
+      {
+        "text": "Desarrollo psicomotor en Riesgo, requiriendo derivación a modalidades de apoyo del desarrollo.",
+        "isCorrect": true,
+        "explanation": "Un Coeficiente de Desarrollo (CD) situado entre 0,70 y 0,84 de la escala EEDP clasifica diagnósticamente al menor en la categoría de \"Riesgo\". Según el flujo de manejo del programa Chile Crece Contigo, esto obliga a ingresar al niño a talleres de estimulación y reevaluar en APS en un plazo definido."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿Cuál de los siguientes hitos del desarrollo psicomotor, correspondiente al área de Coordinación, se espera que logre realizar de forma espontánea y normal un lactante de 9 meses de edad durante su control de salud en APS?",
+    "hint": "El desarrollo de la prensión manual progresa desde una toma palmar cubital tosca (3-4 meses) hacia una pinza digital radial refinada que evoluciona por etapas de precisión a lo largo del primer año.",
+    "options": [
+      {
+        "text": "Construir una torre simétrica utilizando un mínimo de tres cubos de madera medianos.",
+        "isCorrect": false,
+        "explanation": "Apilar tres cubos es una destreza de coordinación visomotora fina compleja que requiere un control tónico y espacial que se adquiere habitualmente a los 18 meses de vida."
+      },
+      {
+        "text": "Introducir voluntariamente una pastilla de prueba dentro del cuello de una botella plástica angosta.",
+        "isCorrect": false,
+        "explanation": "Introducir objetos en recipientes de cuello estrecho exige un nivel de coordinación y cálculo tridimensional que el niño promedio desarrolla a partir de los 15 meses de edad."
+      },
+      {
+        "text": "Tomar un objeto pequeño utilizando una pinza digital madura (oposición de la punta del pulgar e índice).",
+        "isCorrect": false,
+        "explanation": "La pinza digital superior o madura (oposición perfecta de los extremos distales de las yemas del pulgar y del índice) es un hito de precisión que se consolida entre los 11 y 12 meses de edad."
+      },
+      {
+        "text": "Tomar un objeto pequeño utilizando una pinza digital inmadura (oposición del pulgar y el lateral del índice).",
+        "isCorrect": true,
+        "explanation": "A los 9 meses de edad, el lactante desarrolla la pinza digital inferior o inmadura (prensión en tenaza utilizando la base del pulgar y el lateral del dedo índice). Esta precede a la pinza fina madura y permite al niño explorar objetos pequeños con mayor control individual."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un lactante de 10 meses de edad acude a control sano en el CESFAM de su comuna. Al examen físico, se constata que no logra mantenerse sentado de forma autónoma sin apoyo (pérdida del control postural del tronco). De acuerdo con la semiología del desarrollo, ¿cómo se interpreta clínicamente este hallazgo?",
+    "hint": "El retraso en la adquisición de hitos motores mayores del eje corporal (como el control cefálico o la sedestación) a edades límite preestablecidas marca la necesidad de descartar patologías del espectro neuromuscular o central.",
+    "options": [
+      {
+        "text": "Es una consecuencia transitoria de un brote de crecimiento óseo rápido característico del tercer trimestre.",
+        "isCorrect": false,
+        "explanation": "Los brotes de crecimiento óseo normal no provocan retraso ni pérdida de las habilidades motoras previamente adquiridas ni alteran el tono muscular del tronco a esta edad."
+      },
+      {
+        "text": "Es una bandera roja (signo de alerta) de retraso del desarrollo psicomotor que exige evaluación médica dirigida.",
+        "isCorrect": true,
+        "explanation": "Lograr la sedestación sin apoyo es un hito motor que debe estar consolidado como máximo a los 9 meses de edad. No lograr sentarse de forma independiente a los 10 meses constituye una \"bandera roja\" o signo de alerta de retraso del desarrollo motor grueso, obligando a realizar un examen neurológico completo para descartar parálisis cerebral, miopatías o hipotonía central."
+      },
+      {
+        "text": "Es una variante del desarrollo psicomotor normal debido a un probable temperamento hipoactivo del menor.",
+        "isCorrect": false,
+        "explanation": "Atribuir la falta de control del tronco a factores del temperamento infantil (\"hipoactividad\") es un error grave que retrasa la pesquisa oportuna de patologías motoras del desarrollo."
+      },
+      {
+        "text": "Es un comportamiento esperable dado que la bipedestación es el único hito motor obligatorio al décimo mes.",
+        "isCorrect": false,
+        "explanation": "El control del tronco sentado es un prerrequisito madurativo indispensable para la bipedestación posterior; a los 10 meses el niño debe sentarse y no se le exige caminar de forma obligatoria."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Se realiza la evaluación del desarrollo psicomotor de un preescolar de 3 años de edad en el vacunatorio del CESFAM utilizando el Test de Desarrollo Psicomotor (TEPSI). ¿Cuáles son las tres subescalas o dimensiones de medición que componen estructuralmente este instrumento nacional de tamizaje?",
+    "hint": "El TEPSI consta de 52 ítems diseñados para evaluar el rendimiento de niños de 2 a 5 años en tres dimensiones específicas del comportamiento psicomotor.",
+    "options": [
+      {
+        "text": "Áreas de Cognición, Motricidad y Relación social.",
+        "isCorrect": false,
+        "explanation": "La dimensión cognitiva pura no se evalúa de forma aislada en el TEPSI; los ítems de lenguaje y coordinación son los que valoran de forma indirecta la madurez asociativa central del preescolar."
+      },
+      {
+        "text": "Áreas de Motricidad, Lenguaje y Coordinación.",
+        "isCorrect": false,
+        "explanation": "Aunque menciona los conceptos correctos, la denominación estructural de los subtests en el manual oficial del TEPSI define \"Motricidad\" y \"Coordinación\" de forma inversa a la estructura lineal tradicional del EEDP."
+      },
+      {
+        "text": "Áreas de Coordinación, Lenguaje y Motricidad.",
+        "isCorrect": true,
+        "explanation": "El TEPSI evalúa tres subtests específicos de forma estandarizada: 1) Subtest Coordinación (16 ítems que miden motricidad fina y resolución de problemas), 2) Subtest Lenguaje (24 ítems que evalúan lenguaje expresivo y comprensivo) y 3) Subtest Motricidad (12 ítems que miden movimiento del cuerpo y equilibrio)."
+      },
+      {
+        "text": "Áreas de Socialización, Adaptación y Autonomía.",
+        "isCorrect": false,
+        "explanation": "Áreas como \"Socialización\" o \"Autonomía\" no constituyen subtests cuantitativos independientes evaluados de forma directa por el protocolo del TEPSI en Chile."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted evalúa a un lactante de 18 meses de edad que aún no logra la marcha independiente de forma autónoma (camina únicamente apoyado de muebles o tomado de las manos de sus cuidadores). Al examen neurológico se aprecia fuerza muscular conservada y reflejos osteotendinosos simétricos. ¿Cuál es la conducta correcta según las pautas de APS en Chile?",
+    "hint": "Considere la edad límite establecida por la neurología infantil internacional para la adquisición de la marcha libre de forma segura. Exceder este límite exige descartar retraso psicomotor primario.",
+    "options": [
+      {
+        "text": "Indicar el uso de andador infantil (tacataca) por un mínimo de 4 horas diarias para forzar la marcha autónoma.",
+        "isCorrect": false,
+        "explanation": "El uso de andadores (\"tacatacas\") está formalmente contraindicado por el MINSAL, la SOCHIPE y la AAP debido a que altera el desarrollo normal de la cadera, altera el centro de gravedad del niño y asocia un alto riesgo de accidentes domésticos graves."
+      },
+      {
+        "text": "Derivar a evaluación médica neurológica infantil de inmediato por constituir una bandera roja del desarrollo motor grueso.",
+        "isCorrect": true,
+        "explanation": "La edad límite normal para la adquisición de la marcha independiente es de 18 meses de edad cronológica. Si un lactante a los 18 meses no camina solo, se considera una bandera roja mayor del desarrollo motor que exige una evaluación médica por pediatra o neurólogo infantil para investigar la causa subyacente."
+      },
+      {
+        "text": "Suspender de inmediato la administración de vitamina D por sospecha de una osificación prematura de los miembros.",
+        "isCorrect": false,
+        "explanation": "La vitamina D previene el raquitismo (causa conocida de retraso en la marcha por debilidad ósea) y su suspensión no guarda ninguna lógica fisiopatológica con el retraso motor."
+      },
+      {
+        "text": "Esperar de forma expectante hasta que cumpla los 24 meses de edad para derivar, asumiendo un desarrollo lento.",
+        "isCorrect": false,
+        "explanation": "Adoptar una conducta expectante hasta los 24 meses retrasa de forma inaceptable la intervención y terapia de rehabilitación kinésica en un menor con un claro retraso motor."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el examen físico de un recién nacido de término y sano en la cuna de transición, usted evalúa la presencia de los reflejos arcaicos o primitivos. ¿Cuál de las siguientes afirmaciones describe de forma correcta el origen anatómico y el significado clínico de estos reflejos?",
+    "hint": "Los reflejos arcaicos son respuestas motoras involuntarias y automáticas controladas por los centros neurológicos más primitivos del eje neural, las cuales deben extinguirse a medida que maduran los tractos inhibidores superiores.",
+    "options": [
+      {
+        "text": "Se originan a nivel de los ganglios basales y su presencia aislada predice el desarrollo de movimientos coreoatetósicos en la infancia.",
+        "isCorrect": false,
+        "explanation": "Su presencia en el período neonatal inmediato es un signo de indemnidad del tronco y médula espinal, no teniendo ninguna correlación con el desarrollo futuro de trastornos extrapiramidales como la coreoatetosis si desaparecen a tiempo."
+      },
+      {
+        "text": "Se originan a nivel de la corteza cerebral y su persistencia refleja una mielinización acelerada del sistema nervioso periférico.",
+        "isCorrect": false,
+        "explanation": "No se originan en la corteza cerebral; la corteza es justamente la estructura que se encarga de inhibirlos y hacerlos desaparecer a lo largo del desarrollo psicomotor."
+      },
+      {
+        "text": "Se originan a nivel del cerebelo y su persistencia es indispensable para la adquisición de los movimientos voluntarios coordinados.",
+        "isCorrect": false,
+        "explanation": "El cerebelo regula el tono y la coordinación, pero la persistencia de los reflejos arcaicos más allá de las edades típicas es patológica e indica daño o retraso en la maduración de la vía piramidal."
+      },
+      {
+        "text": "Se originan a nivel del tronco encefálico y la médula espinal, y su desaparición paulatina refleja la maduración e inhibición cortical.",
+        "isCorrect": true,
+        "explanation": "Los reflejos arcaicos del recién nacido están mediados por el tronco encefálico y la médula espinal de forma refleja. A medida que progresa el desarrollo neurológico y la mielinización de la corteza cerebral durante el primer año, esta ejerce un control inhibidor sobre los centros inferiores, lo que resulta en la desaparición de estos reflejos primitivos para dar paso a la motricidad voluntaria."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted se encuentra evaluando el reflejo de Moro en un recién nacido de término en su control de los 10 días de vida. Al gatillar el reflejo, observa una extensión y abducción del miembro superior izquierdo con llanto, mientras que el miembro superior derecho permanece inmóvil y adosado al cuerpo. ¿Cuál es la sospecha diagnóstica más probable frente a esta asimetría del reflejo?",
+    "hint": "La asimetría en el reflejo de Moro (sobresalto de un solo brazo) orienta localmente a una lesión traumática periférica ósea o neurológica ocurrida durante el canal de parto del lado inmóvil.",
+    "options": [
+      {
+        "text": "Parálisis cerebral de tipo espástico con compromiso del hemicuerpo izquierdo.",
+        "isCorrect": false,
+        "explanation": "La parálisis cerebral espástica se manifiesta de forma tardía en el tono y la postura del lactante y no suele debutar como una asimetría pura del reflejo de Moro al décimo día de vida sin otros signos axiales."
+      },
+      {
+        "text": "Parálisis braquial obstétrica o fractura de clavícula del lado derecho.",
+        "isCorrect": true,
+        "explanation": "Un reflejo de Moro asimétrico (ausencia de respuesta en una extremidad superior) es un hallazgo semiológico clásico que indica daño estructural o periférico localizado del lado afectado. Obliga a descartar de forma perentoria una parálisis del plexo braquial (como la de Erb-Duchenne) o una fractura de clavícula secundaria a traumatismo del parto."
+      },
+      {
+        "text": "Persistencia del reflejo tónico nucal asimétrico con fijación espástica derecha.",
+        "isCorrect": false,
+        "explanation": "El reflejo tónico nucal asimétrico es otro reflejo arcaico independiente que se evoca al rotar pasivamente el cuello del niño y no justifica la abolición del Moro de un solo lado de forma reactiva."
+      },
+      {
+        "text": "Hemorragia intraventricular grado cuatro del hemisferio cerebral derecho.",
+        "isCorrect": false,
+        "explanation": "Las hemorragias intraventriculares graves cursan clínicamente con depresión central severa del estado general, apnea, fontanela abombada y convulsiones neonatales, cuadro alejado del recién nacido vigoroso que presenta una asimetría refleja localizada."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante la evaluación neurológica de un lactante de 5 meses de edad, usted evoca el reflejo de prensión palmar aplicando presión firme con su dedo índice en la palma del menor. Se observa que el niño flecta vigorosamente los dedos, atrapando su mano con gran fuerza. ¿Cuál es el significado clínico de la presencia de este reflejo a los 5 meses?",
+    "hint": "Recuerde el cronograma de extinción de los principales reflejos arcaicos. El de prensión palmar es uno de los primeros en desaparecer para permitir el desarrollo del agarre voluntario y la liberación del objeto.",
+    "options": [
+      {
+        "text": "Es una respuesta patológica debida a la persistencia anormal de un reflejo arcaico que debió desaparecer a los 3-4 meses.",
+        "isCorrect": true,
+        "explanation": "El reflejo de prensión palmar es un reflejo arcaico que desaparece fisiológicamente entre el tercer y cuarto mes de vida para permitir que la mano se abra de forma voluntaria y comience la manipulación activa de objetos. Su persistencia a los 5 meses es anormal e indica un retraso en la inhibición cortical de las vías motoras primitivas."
+      },
+      {
+        "text": "Es una variante benigna que asocia de forma característica retraso en la adquisición de la sonrisa social.",
+        "isCorrect": false,
+        "explanation": "La persistencia de reflejos arcaicos no se considera una variante benigna inofensiva ni guarda una relación fisiopatológica aislada con el retraso de la sonrisa social."
+      },
+      {
+        "text": "Es un reflejo protector voluntario del lactante mayor que se mantiene activo a lo largo de toda la infancia.",
+        "isCorrect": false,
+        "explanation": "Este reflejo no es voluntario ni persiste a lo largo de la infancia; el reflejo de prensión palmar de la niñez o adultez es patológico y orienta a daño neurológico de la corteza frontal."
+      },
+      {
+        "text": "Es un signo de maduración psicomotora normal que predice una excelente coordinación motora fina posterior.",
+        "isCorrect": false,
+        "explanation": "No es un signo de maduración normal; la persistencia del reflejo interfiere directamente con el desarrollo normal de la prensión voluntaria y la coordinación visomotora fina del lactante."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿A qué edad promedio se espera que un lactante sano y con desarrollo psicomotor normal logre consolidar de forma completa el hito de sentarse sin ningún tipo de apoyo (sedestación independiente y estable)?",
+    "hint": "Este hito requiere de forma indispensable la maduración del tono muscular extensor axial del tronco y la aparición de las reacciones de defensa laterales (paracaídas).",
+    "options": [
+      {
+        "text": "Se espera que lo logre consolidar a los 12 meses de edad.",
+        "isCorrect": false,
+        "explanation": "Postergar la expectativa de sedestación independiente hasta los 12 meses es incorrecto; un niño de un año debe estar consolidando el gateo y la bipedestación inicial con apoyo, por lo que no sentarse a esa edad es patológico."
+      },
+      {
+        "text": "Se espera que lo logre consolidar a los 6 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 6 meses el lactante suele sentarse con apoyo de sus propias manos hacia adelante (posición de trípode) o con soporte externo de un cuidador, pero la sedestación libre sin apoyos requiere mayor madurez tónica de la pelvis."
+      },
+      {
+        "text": "Se espera que lo logre consolidar a los 8 meses de edad.",
+        "isCorrect": true,
+        "explanation": "El hito de la sedestación independiente sin apoyo se consolida clínicamente en promedio a los 8 meses de vida (con un rango normal amplio entre los 6 y los 9 meses). Lograrlo refleja una adecuada maduración de las vías motoras descendentes y del tono axial del tronco."
+      },
+      {
+        "text": "Se espera que lo logre consolidar a los 4 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 4 meses el lactante apenas consolida el control de la cabeza (sostén cefálico) y el rolido de prono a supino, siendo anatómicamente imposible que logre sentarse sin soporte debido a la debilidad de la musculatura del lomo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted controla a un lactante de 18 meses en el CESFAM. La madre refiere que el niño no emite ninguna palabra con significado (no dice \"mamá\" ni \"papá\" de forma dirigida) y se comunica exclusivamente mediante gestos o llanto. El examen auditivo por emisiones otoacústicas en la maternidad fue normal. ¿Cómo cataloga clínicamente esta situación?",
+    "hint": "Analice los hitos del lenguaje expresivo límite. A los 18 meses, un lactante normal debe contar con un repertorio mínimo de palabras con sentido y significado contextualizado.",
+    "options": [
+      {
+        "text": "Es una bandera roja en el área del Lenguaje que exige evaluación médica por pediatra e interconsulta a fonoaudiología.",
+        "isCorrect": true,
+        "explanation": "No emitir ninguna palabra con significado o intención comunicativa a los 18 meses constituye una \"bandera roja\" mayor en el área del lenguaje expresivo. Obliga a iniciar estudio médico clínico para descartar trastornos del espectro autista, retraso global del desarrollo o hipoacusia adquirida tardía."
+      },
+      {
+        "text": "Es un comportamiento esperable dado que el lenguaje expresivo se inicia de forma obligatoria después de los 3 años de vida.",
+        "isCorrect": false,
+        "explanation": "El lenguaje expresivo con intención se inicia al final del primer año (12 meses con 1-2 palabras); esperar hasta los 3 años para diagnosticar la ausencia de lenguaje es patológico e infringe las guías de APS."
+      },
+      {
+        "text": "Es una variante de la normalidad transitoria debido a que los varones suelen hablar tardíamente respecto a las niñas.",
+        "isCorrect": false,
+        "explanation": "Atribuir el retraso grave del lenguaje a mitos urbanos como que \"los varones hablan más tarde\" es un error que posterga intervenciones críticas durante las etapas de mayor plasticidad neuronal del lenguaje."
+      },
+      {
+        "text": "Es una consecuencia normal de la lactancia materna prolongada que enlentece la maduración de los músculos fonatorios.",
+        "isCorrect": false,
+        "explanation": "La lactancia materna no enlentece el lenguaje; al contrario, estimula los músculos de la cara y la deglución de forma fisiológica y asocia mejores resultados de desarrollo cognitivo global."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el control de niño sano de un lactante de 4 meses en el vacunatorio de APS, se constata una marcada asimetría en la movilidad de sus extremidades superiores, observándose que el niño utiliza de forma casi exclusiva la mano izquierda para tomar los juguetes, manteniendo el miembro derecho pasivo y sin intención de agarre. ¿Cuál es el significado neurológico de este hallazgo semiológico?",
+    "hint": "En los primeros años de vida (específicamente antes de los 18-24 meses), el uso preferencial o exclusivo de una sola extremidad (preferencia manual precoz) es siempre patológico y delata debilidad o espasticidad del lado contralateral.",
+    "options": [
+      {
+        "text": "Refleja un comportamiento esperado que asocia un desarrollo cognitivo superior en áreas visomotoras espaciales.",
+        "isCorrect": false,
+        "explanation": "No se asocia a un desarrollo cognitivo superior; al contrario, representa un marcador clínico de alarma de una probable secuela neurológica o lesión de la motoneurona superior."
+      },
+      {
+        "text": "Refleja una bandera roja neurológica (asimetría de la función motora) que sugiere una hemiparesia o lesión de la vía piramidal.",
+        "isCorrect": true,
+        "explanation": "La definición de lateralidad manual (ser diestro o zurdo) ocurre fisiológicamente después de los 18 a 24 meses de edad. El uso preferencial o exclusivo de una sola mano a los 4 meses es un signo patológico de asimetría motora que obliga a descartar una hemiparesia secundaria a una lesión neurológica central del hemisferio cerebral contralateral."
+      },
+      {
+        "text": "Refleja una variante del desarrollo psicomotor normal asociada al gateo asimétrico del primer semestre de vida.",
+        "isCorrect": false,
+        "explanation": "El gateo ocurre habitualmente a los 9 meses de vida y no justifica que a los 4 meses exista debilidad o falta de uso voluntario de uno de los brazos durante el juego pasivo."
+      },
+      {
+        "text": "Refleja la manifestación precoz y fisiológica de una lateralidad izquierda (ser zurdo) definida genéticamente.",
+        "isCorrect": false,
+        "explanation": "Considerar que una asimetría manual a los 4 meses es una manifestación normal de ser zurdo es un error de diagnóstico; un menor de un año debe mover y explorar con ambas manos de forma totalmente simétrica."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "En la evaluación del desarrollo psicomotor en la red de salud de Chile, se destaca la aplicación de \"banderas rojas\" para la pesquisa de autismo. ¿Cuál de los siguientes comportamientos en un lactante de 12 meses de edad es considerado una bandera roja de sospecha diagnóstica para Trastornos del Espectro Autista (TEA)?",
+    "hint": "Busque la alteración en el canal de interacción social recíproca básica y la comunicación no verbal que define los pilares del desarrollo socioemocional temprano de la infancia.",
+    "options": [
+      {
+        "text": "Presentar crisis de llanto ante ruidos ambientales fuertes de la sala de partos o consultorio médico.",
+        "isCorrect": false,
+        "explanation": "La sensibilidad o sobresalto ante ruidos fuertes (hiperacusia transitoria) puede observarse en niños sanos con temperamento reactivo o asociar fallas de integración sensorial, pero de forma aislada no define la sospecha de autismo."
+      },
+      {
+        "text": "No lograr ponerse de pie sin apoyo y presentar un llanto intermitente durante la exploración física.",
+        "isCorrect": false,
+        "explanation": "No lograr la bipedestación independiente a los 12 meses y llorar ante el médico son eventos motores y conductuales normales o de rezago motor menor, ajenos al espectro de interacción social del TEA."
+      },
+      {
+        "text": "Manifestar preferencia por alimentarse de papillas de consistencia homogénea sobre alimentos sólidos triturados.",
+        "isCorrect": false,
+        "explanation": "La selectividad alimentaria o rechazo a los sólidos triturados puede sugerir trastornos de la integración sensorial o de la técnica de alimentación, pero no constituye el marcador cardinal de sospecha de TEA a los 12 meses."
+      },
+      {
+        "text": "No responder de forma consistente cuando es llamado por su nombre y no establecer contacto visual directo con su cuidador principal.",
+        "isCorrect": true,
+        "explanation": "La ausencia de respuesta al nombre, la falta de contacto visual de calidad, la ausencia de sonrisa social recíproca y la falta de señalar con el dedo para compartir interés a los 12 meses son banderas rojas clínicas mayores que obligan a sospechar un Trastorno del Espectro Autista (TEA), requiriendo evaluación especializada."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un recién nacido de término presenta una fontanela anterior clínicamente tensa o abombada en reposo, asociada a un incremento del perímetro cefálico por encima del percentil 97 de las curvas de Alarcón-Pittaluga. ¿Cuál es el diagnóstico clínico más probable de este hallazgo y qué examen de imagen inicial solicita en la APS?",
+    "hint": "La combinación de macrocefalia (perímetro craneal elevado), fontanela tensa abombada y aumento del tamaño de los ventrículos es indicativa de acumulación de LCR. Al estar las fontanelas abiertas, se puede usar una ventana ecográfica no invasiva.",
+    "options": [
+      {
+        "text": "Cierre prematuro de la sutura lambdoidea; se solicita una resonancia magnética cerebral de forma electiva antes del primer año de vida.",
+        "isCorrect": false,
+        "explanation": "Aunque la RNM es el estándar de oro para el estudio anatómico detallado, la primera aproximación diagnóstica rápida ante la sospecha de hidrocefalia en el lactante menor en APS es la ecografía transfontanelar."
+      },
+      {
+        "text": "Hidrocefalia con hipertensión endocraneana; se solicita una ecografía transfontanelar como examen de imagen de primera línea.",
+        "isCorrect": true,
+        "explanation": "El abombamiento de la fontanela anterior y la macrocefalia sugieren hipertensión endocraneana, comúnmente secundaria a hidrocefalia (acumulación patológica de LCR). Dado que el recién nacido tiene las fontanelas abiertas, la ecografía transfontanelar es el examen de imagen de elección inicial por ser rápido, no invasivo, exento de radiación y de bajo costo."
+      },
+      {
+        "text": "Microcefalia congénita infecciosa; se solicita un electroencefalograma de amplitud integrada y tomografía computarizada con contraste.",
+        "isCorrect": false,
+        "explanation": "La microcefalia se caracteriza justamente por un perímetro cefálico marcadamente disminuido por debajo del percentil 3, cuadro opuesto al exceso ponderal craneal descrito."
+      },
+      {
+        "text": "Craneosinostosis sagital precoz; se solicita de forma prioritaria una radiografía de cráneo anteroposterior y lateral de urgencia.",
+        "isCorrect": false,
+        "explanation": "La craneosinostosis (cierre prematuro de suturas) suele manifestarse con deformidad craneal rígida (escafocefalia, plagiocefalia) y fontanelas cerradas o deprimidas, no con macrocefalia abombada fluctuante progresiva."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el control sano de los 4 meses, usted se dispone a evaluar el hito del desarrollo psicomotor correspondiente al \"sostén cefálico\" (control de la cabeza en posición vertical). ¿Cuál es la maniobra semiológica recomendada por la pauta del EEDP para evaluar adecuadamente este hito motor grueso?",
+    "hint": "Busque la maniobra del \"pull-to-sit\" o tracción que mide la fuerza de flexión simétrica del cuello en contra de la fuerza de gravedad durante la transición de supino a sentado.",
+    "options": [
+      {
+        "text": "Tomar al lactante por ambas manos desde la posición de decúbito supino y traccionarlo suavemente hacia la posición de sentado (pull-to-sit), evaluando si la cabeza acompaña el tronco sin caer hacia atrás.",
+        "isCorrect": true,
+        "explanation": "La maniobra de tracción hacia la posición de sentado (pull-to-sit) es la técnica semiológica estandarizada para evaluar el control cefálico a los 4 meses. En un niño normal, la cabeza se mantiene alineada con el tronco durante la tracción; si la cabeza cae pasivamente hacia atrás (head lag), se considera un retraso en la adquisición del control cefálico."
+      },
+      {
+        "text": "Suspender al lactante boca abajo sobre la mesa de examen sosteniéndolo del abdomen, evaluando si logra enderezar la cabeza y la columna.",
+        "isCorrect": false,
+        "explanation": "Describe la evaluación del reflejo de Landau (suspensión ventral fisiológica), el cual es un hito de enderezamiento reflejo que se consolida de forma posterior, a partir de los 6 meses de vida."
+      },
+      {
+        "text": "Colocar al lactante en decúbito prono (boca abajo) y observar si logra levantar la cabeza y el tórax apoyándose en sus antebrazos.",
+        "isCorrect": false,
+        "explanation": "Aunque la posición en prono evalúa la extensión del cuello, el hito formal del sostén cefálico y control motor voluntario del cuello en flexión se examina de forma óptima mediante la maniobra de tracción."
+      },
+      {
+        "text": "Sentar al lactante en una silla rígida con soporte de caderas y observar si la cabeza oscila lateralmente ante estímulos visuales continuos.",
+        "isCorrect": false,
+        "explanation": "Colocar a un lactante de 4 meses en una silla rígida de sentado es perjudicial para su columna tónica inmadura y no constituye una maniobra de evaluación validada por el instrumento de tamizaje EEDP."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al examinar neurológicamente a un lactante de 12 meses de edad, se estimula la planta del pie deslizando un objeto romo por el borde externo desde el talón hacia los metatarsos. Se observa de forma consistente una dorsiflexión del dedo gordo acompañada de la apertura en abanico de los dedos restantes. ¿Cómo interpreta este hallazgo semiológico?",
+    "hint": "El tracto piramidal (corticoespinal) es el encargado de los movimientos voluntarios y su mielinización es un proceso lento que dura hasta los dos años. Hasta que este tracto esté completamente maduro, ciertas respuestas reflejas se comportan de forma liberada.",
+    "options": [
+      {
+        "text": "Es un reflejo arcaico que debió desaparecer de forma obligatoria a los 3 meses de vida en el recién nacido.",
+        "isCorrect": false,
+        "explanation": "El reflejo de Babinski no es un reflejo arcaico neonatal transitorio del primer trimestre que deba extinguirse de forma perentoria a los 3 meses como el Moro o el desvío labial."
+      },
+      {
+        "text": "Es una variante anatómica benigna que se asocia de forma característica a un retraso de la marcha independiente.",
+        "isCorrect": false,
+        "explanation": "No se asocia a retraso de la marcha libre; es una característica fisiológica esperada de la maduración neuromuscular normal del menor de dos años."
+      },
+      {
+        "text": "Es una respuesta fisiológica normal del lactante (signo de Babinski presente) debida a la mielinización incompleta del tracto corticoespinal.",
+        "isCorrect": true,
+        "explanation": "El reflejo cutáneo plantar extensor (signo de Babinski) es fisiológico y normal en lactantes sanos hasta los 12 o 24 meses de vida debido a que las vías piramidales descendentes de la médula espinal aún no completan su mielinización cortical protectora."
+      },
+      {
+        "text": "Es un reflejo patológico que denota una lesión establecida de la vía piramidal (lesión de primera motoneurona).",
+        "isCorrect": false,
+        "explanation": "En adultos o niños mayores de dos años, la reaparición o presencia de la respuesta extensora (Babinski) es francamente patológica e indica daño estructural piramidal de la motoneurona superior."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un preescolar de 4 años de edad asiste a control sano en el CESFAM. Al realizar la evaluación motora fina del subtest de Coordinación del TEPSI, ¿cuál de las siguientes habilidades visomotoras se espera que logre ejecutar de forma independiente este paciente?",
+    "hint": "En el TEPSI de los 4 años, las tareas de dibujo y copia gráfica evalúan la capacidad de controlar el trazado y la integración visomotora fina mediante formas geométricas simples y figurativas.",
+    "options": [
+      {
+        "text": "Lograr copiar con un lápiz una figura geométrica de cruz o un círculo cerrado simple.",
+        "isCorrect": true,
+        "explanation": "A los 4 años de edad, los hitos del subtest de Coordinación del TEPSI contemplan la capacidad de copiar figuras geométricas simples como un círculo (habilidad de los 3 años) y una cruz (habilidad que se consolida típicamente entre los 3 y 4 años de edad)."
+      },
+      {
+        "text": "Lograr recortar con tijeras una figura de estrella de múltiples puntas siguiendo una línea discontinua.",
+        "isCorrect": false,
+        "explanation": "Recortar figuras de gran complejidad lineal como una estrella con múltiples puntas es una destreza visomotora fina avanzada que se adquiere a nivel escolar básico, posterior a los 5 años."
+      },
+      {
+        "text": "Lograr enhebrar una aguja de coser mediana utilizando hilo de nylon de alta visibilidad.",
+        "isCorrect": false,
+        "explanation": "Enhebrar una aguja con hilo fino es una tarea de microcoordinación manual de extrema precisión que excede la capacidad de maduración neurológica de la etapa preescolar, no siendo evaluada en el TEPSI."
+      },
+      {
+        "text": "Lograr armar un rompecabezas de cartón rígido de un mínimo de cincuenta piezas temáticas de fantasía.",
+        "isCorrect": false,
+        "explanation": "Los rompecabezas de cincuenta piezas exigen una capacidad de análisis asociativo espacial y paciencia que exceden el nivel madurativo del preescolar de 4 años, el cual trabaja con bloques de 3 a 5 piezas en tamizaje."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el examen neurológico de un recién nacido de término, se evalúa el tono muscular pasivo utilizando la maniobra de la bufanda. ¿En qué consiste esta maniobra y qué hallazgo clínico es indicativo de un tono muscular normal de término?",
+    "hint": "Esta maniobra analiza la resistencia al estiramiento pasivo de la musculatura de la articulación del hombro y del cinturón escapular. A mayor madurez de término, mayor es el tono flexor opositor.",
+    "options": [
+      {
+        "text": "Se desplaza una de las manos del recién nacido de forma pasiva a través del tórax hacia el hombro contralateral, debiendo el codo no sobrepasar la línea media del pecho del recién nacido.",
+        "isCorrect": true,
+        "explanation": "La maniobra de la bufanda evalúa el tono pasivo del cinturón escapular. En un recién nacido de término con tono flexor normalizado, el codo del brazo traccionado hacia el hombro opuesto encuentra resistencia y no sobrepasa la línea media del pecho (esternal). En prematuros o niños hipotónicos, el codo cruza libremente la línea media debido a la laxitud."
+      },
+      {
+        "text": "Se flecta el cuello pasivamente hacia el pecho, debiendo tocar el mentón la región del esternón medio sin resistencia rígida local.",
+        "isCorrect": false,
+        "explanation": "Flectar el cuello para tocar el mentón con el esternón es parte de la evaluación de la rigidez de nuca meníngea o tono cervical axial, pero no corresponde a la técnica de la bufanda."
+      },
+      {
+        "text": "Se suspende al recién nacido del tronco boca abajo, debiendo el menor mantener las extremidades colgando en completa extensión pasiva y flácida.",
+        "isCorrect": false,
+        "explanation": "Describe una suspensión ventral flácida (signo de la \"U\" invertida) típica del recién nacido con hipotonía central severa, cuadro patológico opuesto al tono normal de término."
+      },
+      {
+        "text": "Se flecta la rodilla del recién nacido hacia el abdomen de forma pasiva, debiendo el muslo tocar completamente el lomo ipsilateral del menor sin dolor.",
+        "isCorrect": false,
+        "explanation": "La flexión de rodilla hacia el abdomen evalúa el ángulo poplíteo o la resistencia tónica flexora de los miembros inferiores (cinturón pélvico), no perteneciendo al examen escapular del hombro."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un lactante de 12 meses de edad es evaluado en control sano. Al evaluar el área Motor Grueso del EEDP, se constata que logra pararse apoyándose en muebles pero no logra mantener la bipedestación de forma independiente sin soporte. ¿Cuál es el significado clínico de este hallazgo y qué conducta se debe adoptar en APS?",
+    "hint": "Tenga presente el rango normal de adquisición de la bipedestación estable de forma autónoma. Lograr sostenerse de pie con apoyo es un hito de transición clave al año de vida.",
+    "options": [
+      {
+        "text": "Es un retraso madurativo patológico severo que obliga a suspender el control sano e ingresar al niño a un programa de estimulación kinésica intensa de urgencia.",
+        "isCorrect": false,
+        "explanation": "Clasificarlo como un retraso patológico severo es un error que genera angustia innecesaria en la familia y sobrecarga los recursos del sistema de rehabilitación del CESFAM con un niño sano."
+      },
+      {
+        "text": "Es un signo de alarma de debilidad muscular proximal que exige solicitar un hemograma, perfil bioquímico de urgencia y derivar a traumatólogo.",
+        "isCorrect": false,
+        "explanation": "La bipedestación con apoyo a los 12 meses confirma fuerza muscular conservada y desarrollo óseo estable, descartando sospechas de debilidad proximal de entrada sin justificación."
+      },
+      {
+        "text": "Es una variante de la normalidad benigna debida de forma exclusiva a una deficiencia de calcio de origen dietético que se corrige con suplementación.",
+        "isCorrect": false,
+        "explanation": "La falta de bipedestación autónoma al año de vida no se debe a un déficit alimentario de calcio aislado y no constituye una variante benigna que justify el uso indiscriminado de suplementos óseos."
+      },
+      {
+        "text": "Es un hito madurativo normal y esperado para su edad cronológica, por lo que se registra y se continúa con el control sano de rutina.",
+        "isCorrect": true,
+        "explanation": "Mantenerse de pie con apoyo es un hito normal para un lactante de 12 meses de edad. La bipedestación independiente sin apoyo y el inicio de los primeros pasos independientes ocurren habitualmente entre los 12 y los 15 meses de edad, por lo que el estado actual del paciente refleja un desarrollo motor grueso normal para el año."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "En el contexto del control de salud infantil en APS de un lactante de 18 meses, se aplica la Pauta M-CHAT-R/F para el tamizaje de riesgo de Trastornos del Espectro Autista. ¿Cuál es la indicación correcta respecto al uso y la interpretación inicial del resultado de este instrumento preventivo?",
+    "hint": "El M-CHAT-R/F es un cuestionario bidimensional completado por los padres que consta de una fase de tamizaje rápido y una fase de entrevista estructurada para los puntajes intermedios de sospecha de TEA.",
+    "options": [
+      {
+        "text": "Se aplica de forma universal al nacer en la maternidad de alta complejidad, y un puntaje de 5 puntos indica la necesidad de suspender la lactancia de urgencia.",
+        "isCorrect": false,
+        "explanation": "Es imposible aplicar el M-CHAT al momento de nacer dado que evalúa comportamientos sociales complejos e intencionados del segundo año de vida, y el autismo no contraindica la lactancia materna."
+      },
+      {
+        "text": "Se aplica exclusivamente a lactantes varones con antecedentes de retraso motor grueso, y un puntaje de 2 puntos indica derivación directa a psiquiatría infantil.",
+        "isCorrect": false,
+        "explanation": "Se aplica a todos los niños de forma universal e independiente de su sexo o antecedentes motores, y un puntaje de 2 puntos se considera de bajo riesgo (no requiriendo derivación a psiquiatría infantil)."
+      },
+      {
+        "text": "Se aplica de forma universal entre los 16 y 30 meses de edad, y un puntaje de riesgo medio (3-7 puntos) obliga a realizar la entrevista de seguimiento de la pauta.",
+        "isCorrect": true,
+        "explanation": "La pauta M-CHAT-R/F se aplica como tamizaje universal de autismo en los controles de niño sano entre los 16 y 30 meses. Si el puntaje de tamizaje inicial arroja riesgo medio (3 a 7 puntos), la norma técnica internacional y nacional chilena estipula realizar de forma obligatoria la \"Entrevista de Seguimiento\" estructurada del mismo instrumento para refinar la sospecha antes de derivar."
+      },
+      {
+        "text": "Se aplica únicamente a niños con sospecha diagnóstica de hipoacusia neurosensorial confirmada, y un puntaje de 10 puntos indica un desarrollo social normal.",
+        "isCorrect": false,
+        "explanation": "La hipoacusia es un diagnóstico diferencial y exclusión de TEA, pero no condiciona la aplicación del M-CHAT, y un puntaje de 10 puntos en el M-CHAT indica un riesgo alto de autismo, no normalidad."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al evaluar la marcha de un preescolar de 3 años de edad durante su control de salud en APS, usted nota que el paciente presenta una base de sustentación amplia de los miembros inferiores y que oscila de forma inestable el tronco al dar los pasos, mostrando una marcha de aspecto ebrio y tambaleante. ¿Cómo clasifica semiológicamente este patrón de marcha patológica?",
+    "hint": "Asocie la inestabilidad de la estática del tronco con una base de sustentación ensanchada en un preescolar inestable con la función de equilibrio coordinada por el cerebelo.",
+    "options": [
+      {
+        "text": "Marcha miopática en pato secundaria a debilidad de los músculos de la pelvis.",
+        "isCorrect": false,
+        "explanation": "La marcha miopática o de pato se debe a debilidad del cinturón pélvico (glúteo medio), balanceándose el tronco lateralmente hacia el lado del pie que se apoya para compensar la caída de la pelvis opuesta."
+      },
+      {
+        "text": "Marcha en estepaje (steppage) secundaria a compromiso del nervio ciático poplíteo externo.",
+        "isCorrect": false,
+        "explanation": "La marcha en estepaje ocurre por parálisis de los músculos flexores del pie (pie caído), requiriendo que el niño levante exageradamente la rodilla para que la punta del pie no tropiece con el suelo."
+      },
+      {
+        "text": "Marcha espástica en tijera secundaria a compromiso piramidal.",
+        "isCorrect": false,
+        "explanation": "La marcha espástica (en tijera) se caracteriza por la hipertonía y contractura de los músculos aductores que obligan a cruzar los muslos al caminar de forma rígida apoyándose sobre la punta de los dedos."
+      },
+      {
+        "text": "Marcha atáxica secundaria a compromiso de las vías cerebelosas.",
+        "isCorrect": true,
+        "explanation": "La marcha atáxica (o cerebelosa) se caracteriza por un ensanchamiento de la base de sustentación (el niño camina con las piernas muy abiertas para no caerse), inestabilidad del tronco y oscilaciones erráticas que imitan un estado de ebriedad, originándose en una disfunción del cerebelo o sus vías de conexión aferente."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante la evaluación neurológica de un lactante menor en el CESFAM, usted busca evaluar la integridad de la vía motora superior y el tono mediante la maniobra de \"tracción de los brazos\". Al traccionar al paciente, usted constata una hipotonía muscular axial severa con un head lag persistente. ¿Cuál de las siguientes condiciones es la causa más frecuente de hipotonía muscular en el lactante menor que debe descartarse en su estudio médico?",
+    "hint": "La inmensa mayoría (más del 80%) de los casos de hipotonía en el lactante son de causa central (afectación cerebral, genética o metabólica central), asociándose clínicamente a preservación de reflejos e hiperactividad social en contraste con la debilidad muscular periférica pura.",
+    "options": [
+      {
+        "text": "Hipotonía periférica por atrofia muscular espinal tipo uno (enfermedad de Werdnig-Hoffmann).",
+        "isCorrect": false,
+        "explanation": "La atrofia muscular espinal es una causa de hipotonía periférica (afectación de la motoneurona del asta anterior) que, aunque grave e importante, es mucho menos frecuente que las causas centrales mencionadas."
+      },
+      {
+        "text": "Hipotonía metabólica secundaria a un raquitismo carencial avanzado de calcio y fósforo.",
+        "isCorrect": false,
+        "explanation": "El raquitismo produce debilidad muscular secundaria por osteomalacia en lactantes mayores y preescolares, no siendo la causa primaria ni la más prevalente de hipotonía neonatal de origen central."
+      },
+      {
+        "text": "Hipotonía por miastenia gravis transitoria debida a transferencia de anticuerpos maternos.",
+        "isCorrect": false,
+        "explanation": "La miastenia gravis neonatal transitoria es una patología autoinmune autolimitada poco común que se restringe a hijos de madres miasténicas en las primeras semanas de vida extrauterina."
+      },
+      {
+        "text": "Hipotonía de origen central, secundaria a encefalopatía hipóxico-isquémica o síndrome de Down.",
+        "isCorrect": true,
+        "explanation": "Epidemiológicamente, la hipotonía de origen central (trastorno encefálico, genético, metabólico o hipóxico que altera la modulación descendente del tono) representa entre el 80% y el 90% de los casos de hipotonía neonatal y del lactante menor. Ejemplos clásicos incluyen la encefalopatía hipóxico-isquémica perinatal y la trisomía libre del cromosoma 21 (síndrome de Down)."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "En relación con los hitos del desarrollo del Lenguaje expresivo del lactante sano, ¿a qué edad cronológica promedio se espera que el niño logre emitir balbuceos silábicos repetitivos imitativos de forma clara y simétrica (como \"ma-ma\", \"pa-pa\", \"da-da\") pero de manera no específica ni dirigida?",
+    "hint": "El balbuceo imitativo polisilábico surge en la fase de transición lingüística del tercer trimestre, precediendo por meses a la asociación mental de la palabra con el objeto o persona de forma dirigida.",
+    "options": [
+      {
+        "text": "Se espera que logre este balbuceo a los 3 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 3 meses el lactante apenas emite sonidos guturales simples (gorjeos) o risas sociales aisladas en respuesta al contacto directo, careciendo de la movilidad orolingual para silabear."
+      },
+      {
+        "text": "Se espera que logre este balbuceo a los 6 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 6 meses el balbuceo es predominantemente de tipo monosilábico aislado (\"ba\", \"da\", \"ga\") de forma de juego vocal espontáneo, sin la repetición simétrica bilingüe característica del final de año."
+      },
+      {
+        "text": "Se espera que logre este balbuceo a los 15 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 15 meses de edad, se espera que el lactante utilice al menos 3 a 5 palabras con significado claro y dirigido (dice \"mamá\" mirando a su madre o \"agua\" ante la sed), estando desfasada la silabación inespecífica a esta edad."
+      },
+      {
+        "text": "Se espera que logre este balbuceo a los 9 meses de edad.",
+        "isCorrect": true,
+        "explanation": "A los 9 meses de edad, el lactante de término sano logra de forma típica la emisión de silabaciones repetidas (como \"ma-ma\", \"pa-pa\" o \"da-da\") pero de forma inespecífica, utilizándolas como juego vocálico social sin asociar la palabra con el respectivo progenitor o cuidador de forma dirigida."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted realiza el control de salud de un lactante de 12 meses de edad. Al evaluar el área Social de la Escala de Evaluación del Desarrollo Psicomotor (EEDP), ¿cuál de los siguientes hitos relacionales se espera que demuestre este paciente para su edad específica?",
+    "hint": "Al año de vida, la socialización y el juego imitativo se enriquecen mediante el aprendizaje asociativo directo y el seguimiento de gestos de los cuidadores principales.",
+    "options": [
+      {
+        "text": "Lograr vestirse de forma independiente sin asistencia directa de sus cuidadores principales durante el examen físico.",
+        "isCorrect": false,
+        "explanation": "Vestirse de forma autónoma exige un nivel de coordinación e independencia funcional que se consolida entre los 4 y 5 años, estando absolutamente fuera de lugar exigirlo al año de vida."
+      },
+      {
+        "text": "Lograr abrocharse de forma autónoma los botones de su chaleco o camisa de control en el box de atención.",
+        "isCorrect": false,
+        "explanation": "Abrochar botones es una destreza de coordinación visomotora fina de gran precisión que se evalúa de forma tardía en el preescolar y escolar mayor (después de los 4 a 5 años de edad)."
+      },
+      {
+        "text": "Lograr imitar gestos sencillos como decir adiós con la mano o aplaudir cuando se le solicita mediante el juego activo.",
+        "isCorrect": true,
+        "explanation": "A los 12 meses, los hitos del área social contemplan el juego imitativo simple y la respuesta gestual intencionada, como decir adiós con la mano (\"chao\") o aplaudir ante la facilitación del cuidador, reactivo que forma parte del EEDP al año de vida."
+      },
+      {
+        "text": "Lograr jugar de forma cooperativa compartiendo juguetes con otros niños de su edad en la sala de espera de APS.",
+        "isCorrect": false,
+        "explanation": "El juego cooperativo real surge de forma tardía en el preescolar (a partir de los 3 años de edad); a los 12 meses el juego es eminentemente solitario o en paralelo (junto a otros niños pero sin interacción estructurada)."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al examinar neurológicamente a un recién nacido de término y sano de 5 días de vida, usted evoca el reflejo de incurvación del tronco (reflejo espinal de Galant) suspendiendo al lactante en decúbito prono y estimulando la piel paravertebral lumbosacra con su dedo de forma descendente. ¿Cuál es el comportamiento motor normal que espera observar?",
+    "hint": "Este reflejo espinal primitivo analiza la indemnidad de las raíces sensitivo-motoras dorsales y lumbosacras de la médula espinal neonatal mediante una flexión tónica lateral de la pelvis.",
+    "options": [
+      {
+        "text": "La extensión simétrica de ambas extremidades inferiores acompañada de llanto.",
+        "isCorrect": false,
+        "explanation": "La extensión de miembros no forma parte de la respuesta del Galant, pudiendo sugerir reflejos anormales espásticos o irritabilidad neurológica no controlada."
+      },
+      {
+        "text": "La extensión simétrica de los brazos en actitud de abrazo defensivo.",
+        "isCorrect": false,
+        "explanation": "Describe la primera fase del reflejo de Moro (sobresalto), el cual se gatilla mediante la caída controlada de la cabeza del neonato y no estimulando los dermatomas espinales paravertebrales."
+      },
+      {
+        "text": "La flexión vigorosa de los dedos del pie con abducción del metatarso ipsilateral.",
+        "isCorrect": false,
+        "explanation": "Describe de forma aproximada el reflejo de prensión plantar o signo de Babinski, los cuales se evocan mediante la estimulación de la superficie plantar, ajenos al dorso abdominal."
+      },
+      {
+        "text": "La flexión lateral de la pelvis del recién nacido hacia el mismo lado que fue estimulado.",
+        "isCorrect": true,
+        "explanation": "El reflejo de Galant (incurvación de tronco) consiste en una respuesta motora refleja neonatal caracterizada por la flexión lateral de la pelvis y el tronco hacia el lado de la columna que es estimulado de forma táctil descendente. Su presencia confirma la integridad sensitivo-motora medular."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿A qué edad promedio se espera que un lactante sano y con desarrollo psicomotor normal logre consolidar de forma completa el hito de la pinza digital madura (oposición de la yema del dedo pulgar y del dedo índice) para asir con precisión objetos pequeños?",
+    "hint": "Es la máxima expresión de precisión de la prensión manual que cierra el ciclo de maduración visomotora fina durante el primer año de vida, permitiendo el agarre de elementos diminutos con el extremo de los dedos.",
+    "options": [
+      {
+        "text": "Se espera que consolide la pinza madura a los 12 meses de edad.",
+        "isCorrect": true,
+        "explanation": "La pinza digital fina, superior o madura (oposición perfecta de los extremos distales de las yemas del pulgar y del índice) es un hito de alta precisión que se consolida entre los 11 y 12 meses de edad (al año de vida), marcando la transición hacia la manipulación fina infantil."
+      },
+      {
+        "text": "Se espera que consolide la pinza madura a los 18 meses de edad.",
+        "isCorrect": false,
+        "explanation": "Demostrar el primer agarre fino maduro recién a los 18 meses está retrasado; a esa edad el niño debe apilar cubos y usar cubiertos sencillos de forma voluntaria."
+      },
+      {
+        "text": "Se espera que consolide la pinza madura a los 6 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 6 meses el lactante utiliza la prensión palmar radial (agarra objetos con la palma utilizando el pulgar como estabilizador), careciendo de la capacidad de disociar de forma independiente los dedos índices."
+      },
+      {
+        "text": "Se espera que consolide la pinza madura a los 9 meses de edad.",
+        "isCorrect": false,
+        "explanation": "A los 9 meses el menor desarrolla la pinza inferior o inmadura utilizando el pulgar contra el lateral o base del dedo índice, lo cual representa una etapa de transición madurativa previa a la pinza fina terminal."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el control sano de los 18 meses, usted se dispone a evaluar el hito del desarrollo psicomotor correspondiente a la marcha independiente. La madre refiere que el niño camina de forma autónoma por toda la casa desde los 14 meses. ¿Qué reactivo o hito motor grueso adicional evalúa el EEDP a esta edad para confirmar la progresión de la marcha?",
+    "hint": "Al año y medio de vida, la estabilidad de la marcha libre permite al menor desafiar la gravedad en retroceso de forma simétrica coordinada.",
+    "options": [
+      {
+        "text": "Lograr subir y bajar escaleras de forma alterna sin apoyo manual en pasamanos.",
+        "isCorrect": false,
+        "explanation": "Subir y bajar escaleras alternando pies de forma libre es una destreza motora compleja que se consolida tardíamente, habitualmente a partir de los 3 años de vida del preescolar."
+      },
+      {
+        "text": "Lograr caminar hacia atrás de forma controlada y estable un mínimo de tres pasos consecutivos.",
+        "isCorrect": true,
+        "explanation": "A los 18 meses de vida, la Escala de Evaluación del Desarrollo Psicomotor (EEDP) evalúa hitos motores gruesos de mayor equilibrio axial y madurez, como la habilidad de caminar hacia atrás de forma controlada al menos tres pasos, reactivo que se examina de forma rutinaria en APS."
+      },
+      {
+        "text": "Lograr saltar en un solo pie manteniendo el equilibrio por un mínimo de 5 segundos.",
+        "isCorrect": false,
+        "explanation": "Mantener el equilibrio saltando en un solo pie es un reactivo de gran coordinación y fuerza esquelética que se evalúa de forma universal a los 4 años de edad mediante el test TEPSI."
+      },
+      {
+        "text": "Lograr pararse en puntas de pies de forma simétrica ante la demostración visual.",
+        "isCorrect": false,
+        "explanation": "Pararse en puntas de pies es un hito de equilibrio estático tardío que se adquiere habitualmente después de los dos años de edad, no formando parte de las exigencias del EEDP de los 18 meses."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un preescolar de 2 años de edad asiste a control sano en el CESFAM de su comuna. Al evaluar el área del Lenguaje expresivo de forma libre en el box, ¿cuál de los siguientes hitos comunicativos lingüísticos se espera que demuestre de forma normal este paciente?",
+    "hint": "Al cumplir los dos años de vida (24 meses), el preescolar da el salto lingüístico desde la palabra aislada hacia la holofrase y la combinación de dos vocablos para formar ideas funcionales simples.",
+    "options": [
+      {
+        "text": "Lograr relatar una historia corta o un cuento fantástico hilando frases complejas de más de cuatro palabras.",
+        "isCorrect": false,
+        "explanation": "Relatar historias con oraciones complejas y hilación fluida es una destreza de lenguaje expresivo superior que se consolida entre los 4 y 5 años de edad en etapas preescolares avanzadas."
+      },
+      {
+        "text": "Lograr nombrar de forma sistemática y correcta un mínimo de cuatro colores primarios ante tarjetas de estimulación visual.",
+        "is   Correct": false,
+        "explanation": "Reconocer y nombrar colores primarios de forma sistemática requiere madurez cognitiva y de discriminación simbólica que se examina habitualmente a partir de los 3 a 4 años mediante el TEPSI."
+      },
+      {
+        "text": "Lograr pronunciar de forma inteligible y sin dislalias todas las consonantes licuantes y vibrantes del abecedario.",
+        "isCorrect": false,
+        "explanation": "El habla perfectamente clara y fluida libre de dislalias (especialmente con fonemas complejos como la \"r\" o \"l\") no es exigible a los dos años, siendo común y normal la persistencia de un lenguaje de transición ininteligible periférico."
+      },
+      {
+        "text": "Lograr unir un mínimo de dos palabras para formar frases simples con intención comunicativa (como \"mamá agua\" o \"ir auto\").",
+        "isCorrect": true,
+        "explanation": "A los 2 años de edad (24 meses), el hito comunicativo esperado para el lenguaje expresivo es la capacidad de unir al menos dos palabras distintas para formar frases simples (lenguaje telegráfico o frases simples como \"más leche\", \"chao papá\") con intención comunicativa."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un lactante de 15 meses de edad acude a control de niño sano en el Centro de Salud Familiar. De acuerdo con las pautas de supervisión del desarrollo psicomotor infantil del MINSAL, ¿cuál de los siguientes conjuntos de hitos del desarrollo describe de forma precisa el rendimiento esperado para esta edad específica?",
+    "hint": "Evalúe la progresión madurativa del lactante mayor que recién consolida la bipedestación y comienza a explorar la motricidad fina fina y el lenguaje expresivo inicial a mediados del segundo año.",
+    "options": [
+      {
+        "text": "Lograr correr con estabilidad en línea recta, construir una torre de cuatro cubos, nombrar al menos tres partes del cuerpo humano y usar cuchara de forma eficiente.",
+        "isCorrect": false,
+        "explanation": "Correr con estabilidad y construir una torre de cuatro cubos son destrezas que se evalúan y consolidan normativamente al cumplir los 18 meses de edad."
+      },
+      {
+        "text": "Lograr pararse en puntas de pies por segundos, ensartar cuentas de madera medianas, imitar vocalizaciones complejas y seguir instrucciones de tres comandos correlativos.",
+        "isCorrect": false,
+        "explanation": "Pararse en puntas de pies y seguir instrucciones complejas de tres comandos consecutivos exigen un nivel de maduración neurológica y de comprensión propio de los 30 a 36 meses."
+      },
+      {
+        "text": "Lograr subir escaleras alternando pies sin apoyo, construir una torre de seis cubos, estructurar frases de dos palabras y desvestirse con mínima asistencia.",
+        "isCorrect": false,
+        "explanation": "Subir escaleras alternando pies sin apoyo y estructurar frases completas de dos palabras (lenguaje telegráfico) son hitos avanzados correspondientes a los 24 meses de edad o más."
+      },
+      {
+        "text": "Lograr caminar solo de forma independiente, construir una torre con dos cubos de madera, decir entre tres y cinco palabras con significado y realizar garabateo espontáneo con un lápiz.",
+        "isCorrect": true,
+        "explanation": "A los 15 meses de vida, los hitos del desarrollo psicomotor típicos según la norma chilena del control infantil incluyen: la marcha independiente consolidada (habitualmente adquirida a los 12-14 meses), la construcción de una torre de dos cubos, un vocabulario expresivo inicial de 3 a 5 palabras con significado real, y el inicio del garabateo espontáneo sin patrón estructurado."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted se encuentra interpretando los resultados del Test de Desarrollo Psicomotor (TEPSI) aplicado a un preescolar de 3 años de edad en el CESFAM. El puntaje bruto obtenido es transformado a un puntaje T estandarizado según la norma chilena. ¿Cuál es el punto de corte del puntaje T que define de forma estricta el diagnóstico de \"Retraso\" en el desarrollo psicomotor mediante este instrumento?",
+    "hint": "El TEPSI utiliza puntajes T con una media de 50 y una desviación estándar de 10 puntos. Recuerde el límite cuantitativo establecido para definir el rendimiento que se sitúa a dos desviaciones estándar por debajo de la media de la población.",
+    "options": [
+      {
+        "text": "Un puntaje T inferior o igual a 29 puntos.",
+        "isCorrect": true,
+        "explanation": "Según el manual de estandarización del TEPSI chileno, los rangos de puntaje T son: Normalidad si el puntaje T es igual o mayor a 40 puntos; Riesgo si el puntaje T se sitúa entre 30 y 39 puntos; y Retraso si el puntaje T es menor o igual a 29 puntos (lo que equivale a un rendimiento por debajo de dos desviaciones estándar de la media poblacional)."
+      },
+      {
+        "text": "Un puntaje T inferior o igual a 49 puntos.",
+        "isCorrect": false,
+        "explanation": "Un puntaje T de 49 puntos se sitúa dentro de los rangos de normalidad del test, ya que se encuentra muy cerca de la media poblacional fijada de forma estándar en 50 puntos."
+      },
+      {
+        "text": "Un puntaje T inferior o igual a 39 puntos.",
+        "isCorrect": false,
+        "explanation": "Un puntaje T entre 30 y 39 puntos define la categoría diagnóstica de \"Riesgo\", la cual exige un plan de estimulación local y reevaluación, pero no califica como retraso severo formal."
+      },
+      {
+        "text": "Un puntaje T inferior o igual a 19 puntos.",
+        "isCorrect": false,
+        "explanation": "19 puntos es un valor extremadamente bajo que se encuentra dentro del rango de retraso, pero no constituye el punto de corte límite superior para establecer dicho diagnóstico."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante la evaluación en la sala de partos de un recién nacido de término con antecedentes de macrosomía y parto vaginal difícil con distocia de hombros, usted constata una parálisis asimétrica del miembro superior derecho. Al examen físico destaca: hombro y codo móviles con fuerza conservada, pero con parálisis de los movimientos de la mano y los dedos (mano en garra), asociada a un reflejo de prensión palmar ausente y miosis ipsilateral con ptosis palpebral discreta (síndrome de Claude-Bernard-Horner). ¿Cuál es el diagnóstico neurológico de esta lesión obstétrica?",
+    "hint": "Identifique el segmento del plexo braquial que se encuentra comprometido al observar una afectación motora distal pura de la mano (C8-T1) asociada a signos de compromiso simpático cervical (Horner).",
+    "options": [
+      {
+        "text": "Parálisis braquial obstétrica distal o de Déjerine-Klumpke.",
+        "isCorrect": true,
+        "explanation": "La parálisis de Déjerine-Klumpke es una lesión del plexo braquial distal que compromete las raíces de C8 a T1. Clínicamente se manifiesta con debilidad o parálisis de los músculos intrínsecos de la mano y flexores de los dedos (mano en garra) con prensión palmar ausente. La afectación de la raíz T1 daña las fibras simpáticas preganglionares oculares, asociando el síndrome de Claude-Bernard-Horner (ptosis, miosis, anhidrosis)."
+      },
+      {
+        "text": "Parálisis cerebral espástica con hemiparesia derecha de inicio hiperagudo.",
+        "isCorrect": false,
+        "explanation": "La parálisis cerebral es una lesión motora de origen central que no se manifiesta de forma inmediata al nacer con signos de Horner simpáticos puros ni compromiso focal periférico exclusivo de raíces espinales."
+      },
+      {
+        "text": "Parálisis traumática aislada del nervio radial derecho por compresión ósea.",
+        "isCorrect": false,
+        "explanation": "La lesión del nervio radial causaría una mano caída (imposibilidad de extensión de la muñeca y dedos) pero no aboliría la prensión palmar ni provocaría miosis ni ptosis palpebral ipsilateral."
+      },
+      {
+        "text": "Parálisis braquial obstétrica proximal o de Erb-Duchenne.",
+        "isCorrect": false,
+        "explanation": "La parálisis de Erb-Duchenne (C5-C6) es mucho más común, compromete el hombro y el codo (miembro en aducción y rotación interna, codo extendido, \"propina de mesero\") pero conserva los movimientos finos de la mano y el reflejo de prensión."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted evalúa a un lactante de 6 meses de edad y se dispone a examinar el reflejo de Landau. Al suspender al lactante en posición decúbito prono sobre su mano, sosteniendo el abdomen, usted observa que el paciente levanta la cabeza y extiende el tronco y las extremidades inferiores de forma simétrica. ¿Cuál es la evolución cronológica normal de este reflejo de enderezamiento?",
+    "hint": "El reflejo de Landau es un reflejo de enderezamiento secundario que requiere un desarrollo progresivo del tono extensor axial y la maduración del sistema vestibular y visual del lactante menor.",
+    "options": [
+      {
+        "text": "Aparece a los 9 meses de vida, se consolida a los 12 meses y persiste activo de forma indefinida a lo largo de la adultez.",
+        "isCorrect": false,
+        "explanation": "Aunque aparece en el primer año, no persiste de forma indefinida en la vida adulta; su presencia más allá de los dos años de edad es patológica e interfiere con la plasticidad motora fina."
+      },
+      {
+        "text": "Aparece a los 3-4 meses de vida, se consolida a los 6 meses y desaparece de forma fisiológica a los 12-24 meses de edad.",
+        "isCorrect": true,
+        "explanation": "El reflejo de Landau aparece en promedio entre los 3 y 4 meses de vida, alcanza su máxima expresión (consolidación) a los 6 meses y se extingue progresivamente para desaparecer entre los 12 y 24 meses de edad, a medida que se desarrolla el control motor voluntario superior. Su ausencia sugiere retraso psicomotor o hipotonía central."
+      },
+      {
+        "text": "Aparece a los 18 meses de vida, se consolida a los 24 meses y desaparece de forma fisiológica a los 3 años de edad.",
+        "isCorrect": false,
+        "explanation": "Situar la aparición del Landau a los 18 meses es un error cronológico grave, ya que a esa edad el niño ya debe dominar la bipedestación y la marcha independiente sin requerir este reflejo primitivo de enderezamiento."
+      },
+      {
+        "text": "Está presente desde el nacimiento, se consolida al primer mes y desaparece de forma fisiológica a los 4 meses de edad.",
+        "isCorrect": false,
+        "explanation": "El recién nacido no presenta el reflejo de Landau al nacer debido al predominio del tono flexor de las extremidades y la inmadurez de las vías de control postural extensoras axiales."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿A qué edad promedio se espera la aparición del reflejo de paracaídas lateral (reacción de defensa postural que consiste en la extensión del brazo del lado hacia el que se inclina el cuerpo del lactante para amortiguar una caída) y cuál es su comportamiento posterior?",
+    "hint": "Las reacciones de defensa o de protección son respuestas posturales automáticas indispensables para la estabilidad en sedestación y bipedestación que, una vez adquiridas, no se extinguen.",
+    "options": [
+      {
+        "text": "Aparece a los 18 meses de edad, y persiste activo de forma exclusiva hasta la adolescencia temprana del menor.",
+        "isCorrect": false,
+        "explanation": "Las respuestas de protección no se limitan hasta la adolescencia; constituyen una herramienta refleja del sistema nervioso central del adulto para resguardar la integridad física ante pérdidas de equilibrio de forma refleja."
+      },
+      {
+        "text": "Aparece entre los 6 y 8 meses de edad, y persiste activo de forma indefinida a lo largo de toda la vida del individuo.",
+        "isCorrect": true,
+        "explanation": "El reflejo de paracaídas lateral aparece fisiológicamente entre los 6 y 8 meses de edad (precediendo al paracaídas posterior que surge a los 9-10 meses). Al ser una reacción de protección postural indispensable para evitar traumatismos craneales durante caídas, persiste activa de forma indefinida durante toda la vida."
+      },
+      {
+        "text": "Aparece entre los 12 y 15 meses de edad, y desaparece de forma fisiológica al cumplir los dos años de vida.",
+        "isCorrect": false,
+        "explanation": "Postergar la aparición del paracaídas lateral a los 12-15 meses retrasaría de forma patológica el equilibrio necesario para sentarse de forma estable sin apoyo (hito de los 8 meses)."
+      },
+      {
+        "text": "Aparece al nacimiento de forma rudimentaria, y desaparece de forma fisiológica al cumplir el primer año de vida.",
+        "isCorrect": false,
+        "explanation": "El recién nacido carece de reacciones de paracaídas al nacer; si se le inclina bruscamente, no opone resistencia con las extremidades superiores, lo que demuestra la inmadurez de las vías de equilibrio centrales."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al controlar a un recién nacido en su primer control en APS, se constata una circunferencia craneal de 30 cm (por debajo del percentil 3 o menor a dos desviaciones estándar de las curvas de Alarcón-Pittaluga). El examen neurológico revela hipertonía leve y reflejos simétricos. ¿Cuál es la definición semiológica correcta de este hallazgo y cuál es la etiología prioritaria que debe descartarse en Chile?",
+    "hint": "La circunferencia craneal por debajo del percentil 3 define microcefalia, hallazgo que traduce una detención del crecimiento encefálico intrauterino, comúnmente asociada a infecciones del grupo TORCH.",
+    "options": [
+      {
+        "text": "Asimetría craneal posicional; obliga a descartar una displasia del desarrollo de caderas concomitante.",
+        "isCorrect": false,
+        "explanation": "Las asimetrías posicionales (plagiocefalia posicional) cursan con perímetro cefálico global conservado y deformidad maleable posterior, sin asociar microcefalia severa al nacer."
+      },
+      {
+        "text": "Microcefalia; obliga a descartar una infección congénita activa por Citomegalovirus (CMV) o Toxoplasmosis.",
+        "isCorrect": true,
+        "explanation": "Un perímetro cefálico por debajo del percentil 3 (o < -2 DE) define microcefalia. En el período neonatal, la microcefalia es un marcador clínico mayor de sospecha de infecciones congénitas (TORCH), siendo el Citomegalovirus (CMV) la causa viral más frecuente de daño neurológico y calcificaciones cerebrales en Chile."
+      },
+      {
+        "text": "Macrocefalia limítrofe; obliga a descartar una hidrocefalia obstructiva secundaria a una hemorragia de matriz germinal.",
+        "isCorrect": false,
+        "explanation": "El valor de 30 cm es francamente bajo (el promedio de término es de 34-35 cm), por lo que clasificarlo como macrocefalia (> percentil 97) es un error anatómico absoluto."
+      },
+      {
+        "text": "Craneosinostosis coronal unilateral; obliga a descartar una deficiencia congénita de hormona del crecimiento.",
+        "isCorrect": false,
+        "explanation": "La craneosinostosis coronal produce una deformidad rígida asimétrica del cráneo (plagiocefalia anterior) pero no necesariamente se manifiesta como microcefalia global simétrica de 30 cm de forma aislada."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al realizar la palpación del cráneo de un lactante de 3 meses de edad y término, usted percibe una consistencia blanda en la región de los huesos parietales que cede a la presión del dedo imitando la elasticidad de una pelota de ping-pong. El menor es alimentado con lactancia exclusiva y se encuentra activo. ¿Cómo clasifica semiológicamente esta condición y cuál es su significado clínico?",
+    "hint": "La elasticidad o reblandecimiento de los huesos del cráneo (craneotabes) localizado de preferencia en los parietales superiores puede ser un hallazgo normal y autolimitado en los primeros meses de vida debido a la tasa rápida de osificación membranosa.",
+    "options": [
+      {
+        "text": "Craneosinostosis precoz, que exige la solicitud de una tomografía axial computarizada de cráneo tridimensional.",
+        "isCorrect": false,
+        "explanation": "La craneosinostosis produce rigidez pétrea y fusión ósea de la sutura comprometida, cuadro opuesto al reblandecimiento elástico fluctuante del craneotabes."
+      },
+      {
+        "text": "Hidrocefalia comunicante, que obliga a la colocación de una válvula de derivación ventriculoperitoneal.",
+        "isCorrect": false,
+        "explanation": "La hidrocefalia produce fontanelas tensas y diastasis (separación) de las suturas craneales por aumento de la presión, pero no se manifiesta con craneotabes parietal localizado de consistencia elástica aislada."
+      },
+      {
+        "text": "Craneotabes fisiológico, común en lactantes menores que no requiere intervenciones terapéuticas activas.",
+        "isCorrect": true,
+        "explanation": "El craneotabes (reblandecimiento de los huesos del cráneo) localizado en los huesos parietales es un hallazgo fisiológico y normal en los primeros 3 meses de vida en recién nacidos de término y prematuros, debido a la osificación en curso. Se resuelve espontáneamente y no requiere tratamiento si el niño se encuentra asintomático y recibe suplementación de Vitamina D regular."
+      },
+      {
+        "text": "Craneotabes patológico, indicativo de raquitismo activo por déficit severo de colecalciferol.",
+        "isCorrect": false,
+        "explanation": "El craneotabes patológico (asociado a raquitismo, sífilis congénita u osteogénesis imperfecta) es más severo, compromete el hueso occipital, persiste más allá de los 4 a 6 meses de vida y se acompaña de otras deformidades óseas (rosario raquítico, engrosamiento de muñecas)."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted evalúa en control sano a un lactante de 18 meses de edad. La madre se encuentra preocupada porque el niño no ha consolidado hitos comunicativos básicos. Al examen clínico destaca que el paciente no apunta con el dedo índice para solicitar objetos de su interés, no establece contacto visual recíproco al jugar y parece ignorar las órdenes verbales simples a pesar de escuchar ruidos ambientales. ¿Cuál es el significado semiológico de estos hallazgos?",
+    "hint": "La tríada de ausencia de contacto visual, falta de atención conjunta (no apuntar con el dedo) y falla en la reciprocidad social al año y medio son marcadores clásicos de alteración de la comunicación social.",
+    "options": [
+      {
+        "text": "Constituyen un comportamiento esperado que asocia un sobrediagnóstico por sobreprotección materna del binomio.",
+        "isCorrect": false,
+        "explanation": "Descartar síntomas de alarma social severos asumiendo \"sobreprotección materna\" o sobrediagnóstico es un error clínico que posterga intervenciones oportunas durante la ventana crítica de plasticidad neuronal del neurodesarrollo."
+      },
+      {
+        "text": "Constituyen variantes del desarrollo social normal asociadas a la etapa de juego paralelo del segundo año.",
+        "isCorrect": false,
+        "explanation": "Aunque el juego paralelo es normal a los 18-24 meses, la ausencia de comunicación no verbal básica (apuntar con el dedo) y la evitación del contacto visual nunca son normales ni forman parte de la transición social fisiológica del lactante."
+      },
+      {
+        "text": "Constituyen banderas rojas de sospecha de Trastorno del Espectro Autista (TEA) que exigen la aplicación dirigida del cuestionario M-CHAT-R/F.",
+        "isCorrect": true,
+        "explanation": "La falta de señalar con el dedo (protoimperativo/protodeclarativo), la ausencia de contacto visual y la falta de respuesta al nombre son banderas rojas mayores de alteración de la comunicación y reciprocidad social. Obligan a sospechar un Trastorno del Espectro Autista (TEA) y aplicar formalmente la pauta M-CHAT-R/F para guiar la derivación y apoyo temprano."
+      },
+      {
+        "text": "Constituyen signos clínicos típicos de un retraso motor grueso puro que responderá a kinesiología ambulatoria.",
+        "isCorrect": false,
+        "explanation": "Los hitos descritos corresponden de forma exclusiva al área social, comunicación y lenguaje, sin relación alguna con retraso del motor grueso (fuerza, bipedestación o marcha)."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿Cuál de las siguientes opciones describe una diferencia metodológica y estructural fundamental entre la Escala de Evaluación del Desarrollo Psicomotor (EEDP) y el Test de Desarrollo Psicomotor (TEPSI) aplicados en el programa de salud infantil chileno?",
+    "hint": "Compare los rangos de edad de aplicación de cada instrumento de tamizaje del MINSAL y la forma en que cada uno expresa sus resultados (puntajes T estandarizados vs Coeficiente de Desarrollo).",
+    "options": [
+      {
+        "text": "El EEDP evalúa de forma exclusiva la motricidad gruesa, mientras que el TEPSI se restringe al análisis cuantitativo del lenguaje comprensivo de los preescolares.",
+        "isCorrect": false,
+        "explanation": "El EEDP evalúa cuatro áreas (Motora, Lenguaje, Social, Coordinación), por lo que no se limita a la motricidad gruesa. El TEPSI evalúa tres subtests (Motricidad, Coordinación, Lenguaje) abarcando destrezas complejas."
+      },
+      {
+        "text": "El EEDP evalúa el rango de edad de 0 a 24 meses y calcula un coeficiente de desarrollo, mientras que el TEPSI evalúa de los 2 a 5 años y utiliza puntajes T estandarizados.",
+        "isCorrect": true,
+        "explanation": "El EEDP está diseñado y estandarizado para niños de 0 a 24 meses de edad (2 años) y expresa sus resultados como un Coeficiente de Desarrollo (CD) cuantitativo. El TEPSI se aplica a preescolares de 2 a 5 años de edad (24 a 59 meses completos) y entrega resultados mediante puntajes T estandarizados con desviaciones estándar."
+      },
+      {
+        "text": "El EEDP utiliza una escala de puntuación cualitativa binaria de \"Aprobado/Reprobado\", mientras que el TEPSI entrega un diagnóstico descriptivo de tipo psicométrico clínico.",
+        "isCorrect": false,
+        "explanation": "El EEDP es una escala cuantitativa estandarizada con puntajes asignados por tablas según la edad cronológica en días, no una simple lista cualitativa binaria arbitraria de aprobación informal."
+      },
+      {
+        "text": "El EEDP es completado de forma exclusiva por el reporte verbal de los padres en el hogar, mientras que el TEPSI exige observación directa de las habilidades.",
+        "isCorrect": false,
+        "explanation": "Ambos instrumentos exigen la administración de reactivos de observación directa mediante el uso de kits estandarizados de materiales (batería de prueba), aunque el EEDP permite registrar el reporte materno para ciertos hitos específicos del primer año."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un preescolar de 4 años de edad, de sexo masculino, es llevado a control debido a que presenta caídas frecuentes al caminar y dificultad persistente para subir escaleras de forma autónoma. Al examen físico, usted le solicita que se levante desde la posición de decúbito prono en el suelo. Se observa que el niño requiere \"trepar sobre su propio cuerpo\" apoyando las manos sucesivamente en sus tobillos, rodillas y muslos para lograr erguirse (signo de Gowers positivo). ¿Cuál es la sospecha etiológica de este hallazgo semiológico?",
+    "hint": "El signo de Gowers (maniobra de trepado) refleja debilidad muscular proximal severa de la cintura pelviana y de los miembros inferiores. Es el hallazgo semiológico clásico de las miopatías hereditarias ligadas al cromosoma X.",
+    "options": [
+      {
+        "text": "Distrofia muscular progresiva (como la Enfermedad de Duchenne).",
+        "isCorrect": true,
+        "explanation": "El signo de Gowers es patognomónico de la debilidad de la musculatura proximal (glúteo mayor y cuádriceps). Al no poder extender la cadera y las rodillas de forma normal, el paciente debe apoyarse en el suelo y subir apoyando sus manos sobre sus propias piernas para erguirse de forma mecánica. Es el signo semiológico temprano clásico de la distrofia muscular de Duchenne."
+      },
+      {
+        "text": "Atrofia muscular espinal tipo tres (Enfermedad de Kugelberg-Welander).",
+        "isCorrect": false,
+        "explanation": "Aunque la AME tipo 3 compromete la fuerza proximal, es una enfermedad neurogénica (asta anterior de la médula) menos frecuente, y la maniobra de Gowers clásica con seudohipertrofia de pantorrillas define predominantemente la sospecha de miopatías de Duchenne."
+      },
+      {
+        "text": "Parálisis cerebral de tipo diplejía espástica de origen perinatal.",
+        "isCorrect": false,
+        "explanation": "La diplejía espástica cursa con hipertonía, reflejos osteotendinosos aumentados, clonus y marcha en tijera apoyando la punta de los pies, no con debilidad proximal flácida pura que exija la maniobra de trepado de Gowers de forma característica."
+      },
+      {
+        "text": "Miastenia gravis juvenil con afectación bulbar intermitente.",
+        "isCorrect": false,
+        "explanation": "La miastenia gravis cursa con fatigabilidad muscular fluctuante, ptosis palpebral bilateral variable y compromiso bulbar (disfagia, disfonía), sin manifestarse con debilidad muscular proximal rígida progresiva y signo de Gowers estable."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿Cuál de los siguientes hitos del desarrollo motor grueso se espera que logre ejecutar de forma autónoma y normal un lactante de 9 meses de edad durante su control de salud programático en la APS?",
+    "hint": "Identifique la etapa de transición motora del tercer trimestre de vida, donde el lactante consolida el equilibrio de su tronco y comienza a prepararse para la bipedestación utilizando soportes externos.",
+    "options": [
+      {
+        "text": "Ponerse de pie sosteniéndose de muebles o barandas de la cuna y mantenerse sentado sin ningún apoyo de forma estable.",
+        "isCorrect": true,
+        "explanation": "A los 9 meses de edad, el lactante normal ha consolidado de forma completa la sedestación independiente (hito de los 8 meses) y logra ponerse de pie con apoyo de muebles o barandas de la cuna, traccionando con sus brazos para sostener su peso de forma activa."
+      },
+      {
+        "text": "Correr con estabilidad y sortear obstáculos de baja altura en la sala de juegos.",
+        "isCorrect": false,
+        "explanation": "Correr es una destreza motora gruesa que exige coordinación, fuerza e indemnidad del equilibrio que se consolida normativamente entre los 18 y 24 meses."
+      },
+      {
+        "text": "Subir peldaños de escaleras de forma alterna apoyándose con una sola mano en el pasamanos.",
+        "isCorrect": false,
+        "explanation": "Subir escaleras de forma alterna es una habilidad motora gruesa compleja que se logra consolidar de forma completa y autónoma en etapas preescolares avanzadas (3 a 4 años)."
+      },
+      {
+        "text": "Caminar de forma independiente al menos tres pasos sin ningún tipo de soporte físico.",
+        "isCorrect": false,
+        "explanation": "Caminar de forma independiente sin ayuda es un hito motor que se adquiere habitualmente entre los 12 y 15 meses de edad cronológica, estando fuera de la expectativa del noveno mes."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "La madre de un lactante de 4 meses de edad consulta preocupada porque nota que la cabeza de su hijo se observa marcadamente aplanada en la región occipital izquierda, asociada a un desplazamiento hacia adelante de la oreja del mismo lado, sin rigidez a la palpación de las suturas. El menor duerme exclusivamente en decúbito supino apoyado sobre ese lado. ¿Cuál es el diagnóstico clínico más probable de este hallazgo y su manejo de primera línea?",
+    "hint": "Distinga entre una deformidad maleable posicional por apoyo continuo (plagiocefalia posicional) y una deformidad rígida patológica por fusión prematura de una sutura ósea unilateral.",
+    "options": [
+      {
+        "text": "Craneosinostosis lambdoidea izquierda; se deriva de urgencia a neurocirugía infantil para corrección quirúrgica descompresiva.",
+        "isCorrect": false,
+        "explanation": "La craneosinostosis lambdoidea es una patología muy infrecuente que fusiona precozmente la sutura; produce aplanamiento occipital pero desplaza la oreja contralateralmente o hacia atrás (\"deformidad en trapezoide\"), con sutura rígida palpable, requiriendo cirugía."
+      },
+      {
+        "text": "Plagiocefalia posicional; se indica reposicionamiento del lactante durante el sueño (colocarlo boca abajo bajo supervisión al estar despierto) y evitar el apoyo prolongado.",
+        "isCorrect": true,
+        "explanation": "La plagiocefalia posicional es una deformidad craneal muy común debido al apoyo prolongado en decúbito supino. Se caracteriza por aplanamiento occipital con desplazamiento anterior de la oreja del mismo lado (\"deformidad en paralelogramo\") con suturas permeables. El tratamiento inicial es conservador basado en el reposicionamiento frecuente (tummy time), rotación de la cabeza durante el sueño y evitar superficies duras."
+      },
+      {
+        "text": "Hidrocefalia obstructiva unilateral; se solicita una ecografía transfontanelar urgente y derivación a neurología infantil.",
+        "isCorrect": false,
+        "explanation": "La hidrocefalia no produce aplanamiento asimétrico posicional localizado con oreja adelantada; cursa con macrocefalia global simétrica progresiva y abombamiento de la fontanela anterior."
+      },
+      {
+        "text": "Craneotabes occipital traumático; se indica la colocación de un casco ortopédico rígido de forma continua por 24 horas diarias.",
+        "isCorrect": false,
+        "explanation": "El craneotabes no es una deformidad posicional asimétrica estable con desplazamiento de oreja, y el uso de cascos ortopédicos se reserva para casos severos que fracasan a la terapia de reposicionamiento después de los 6 meses de vida."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Usted evalúa a un lactante de 14 meses de edad con sospecha de parálisis cerebral. ¿Cuál de los siguientes signos clínicos, constatados al examen físico detallado en el consultorio, orienta firmemente a un compromiso motor de origen central de tipo espástico?",
+    "hint": "Busque la constelación de signos de la motoneurona superior (piramidalismo): hipertonía de tipo espasticidad (fuerza flexora de brazos y extensora de piernas), hiperreflexia, clonus persistente y persistencia de reflejos primitivos.",
+    "options": [
+      {
+        "text": "Presencia de movimientos coreoatetósicos distales involuntarios, hipotonía axial marcada con reflejo de Babinski ausente de forma bilateral.",
+        "isCorrect": false,
+        "explanation": "Corresponde a la parálisis cerebral de tipo disquinética o extrapiramidal (daño de ganglios basales), caracterizada por movimientos involuntarios (atetosis) y fluctuaciones de tono, sin piramidalismo espástico clásico."
+      },
+      {
+        "text": "Presistencia de reflejos arcaicos (como el reflejo tónico nucal asimétrico), hiperreflexia rotuliana simétrica con clonus inagotable, y marcha en puntas de pies con aducción marcada de muslos (marcha en tijera).",
+        "isCorrect": true,
+        "explanation": "La parálisis cerebral espástica (daño de la vía piramidal central) se manifiesta clínicamente con signos de primera motoneurona superior: espasticidad (hipertonía en \"navaja de afeitar\"), hiperreflexia osteotendinosa, clonus inagotable, persistencia anormal de reflejos arcaicos (como el tónico nucal o de Moro más allá de la edad normal) y un patrón motor característico de marcha en tijera (aducción de caderas y apoyo en puntas de pies)."
+      },
+      {
+        "text": "Fuerza muscular disminuida de forma intermitente durante el llanto que se recupera por completo en reposo, con reflejo de Moro simétrico.",
+        "isCorrect": false,
+        "explanation": "Las variaciones transitorias del tono muscular secundarias al llanto vigoroso en el lactante son fisiológicas y reflejan descargas adrenérgicas normales, descartando secuelas neurológicas centrales fijas."
+      },
+      {
+        "text": "Hipotonía flácida generalizada con reflejos osteotendinosos aboolidos, atrofia de grupos musculares de extremidades y fasciculaciones linguales en reposo.",
+        "isCorrect": false,
+        "explanation": "Describe de forma típica un síndrome de motoneurona inferior periférica (atrofia de asta anterior como en la AME tipo 1) caracterizado por parálisis flácida, arreflexia, atrofia muscular y fasciculaciones."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al controlar el desarrollo social de un preescolar de 3 años de edad, la madre refiere que el niño asiste al jardín infantil y juega de forma interactiva con sus compañeros, compartiendo roles en juegos de fantasía estructurados y respetando reglas sencillas de turnos de participación. ¿Cómo clasifica semiológicamente este tipo de desarrollo del juego?",
+    "hint": "Analice cómo evoluciona la interacción social en el juego: de jugar de forma aislada sin interacción (1-2 años) a jugar junto a otros pero sin compartir metas (2 años: paralelo), hasta jugar de forma conjunta compartiendo fines y roles (3-4 años).",
+    "options": [
+      {
+        "text": "Juego de manipulación bimanual puro.",
+        "isCorrect": false,
+        "explanation": "El juego de manipulación bimanual es un término de coordinación visomotora fina descriptivo del primer año de vida que no traduce las variables de interacción social y reciprocidad cognitiva del preescolar."
+      },
+      {
+        "text": "Juego asociativo o cooperativo.",
+        "isCorrect": true,
+        "explanation": "A los 3 años de edad, los hitos del área social contemplan la aparición del juego asociativo y cooperativo. El preescolar de esta edad es capaz de integrarse activamente con sus pares, compartir juguetes con un fin común, imitar roles adultos complejos (juego simbólico) y comenzar a comprender el concepto elemental de turnos de juego."
+      },
+      {
+        "text": "Juego paralelo transicional.",
+        "isCorrect": false,
+        "explanation": "El juego paralelo es característico de los 2 años de vida; el niño juega al lado de otros compartiendo el espacio físico pero sin entablar metas de juego comunes ni organizar roles conjuntos."
+      },
+      {
+        "text": "Juego solitario de exploración.",
+        "isCorrect": false,
+        "explanation": "El juego solitario de exploración domina el primer año de vida, centrándose el lactante de forma exclusiva en la manipulación y exploración táctil de los objetos de manera individual."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un lactante de 5 meses de edad, previamente sano y con un desarrollo psicomotor normal, comienza a presentar de forma brusca salvas periódicas de flexión repentina del cuello, el tronco y las cuatro extremidades en actitud de encogimiento, que duran pocos segundos y se repiten múltiples veces al día, frecuentemente al despertar. La madre nota detención de la sonrisa social. ¿Cuál es la sospecha diagnóstica prioritaria que obliga a derivar de urgencia a neurología infantil?",
+    "hint": "Identifique la tríada catastrófica de la neurología infantil: espasmos en flexión (o extensión) en salvas, regresión o detención del desarrollo psicomotor (pérdida de la sonrisa social) y un patrón electroencefalográfico característico de hipsarritmia.",
+    "options": [
+      {
+        "text": "Espasmos infantiles o Síndrome de West de manejo urgente.",
+        "isCorrect": true,
+        "explanation": "El Síndrome de West es una encefalopatía epiléptica catastrófica del lactante que se define por una tríada característica: espasmos infantiles (contracciones musculares bruscas bilaterales simétricas en flexión, extensión o mixtas en salvas), detención o regresión del desarrollo psicomotor (como perder la sonrisa social o sostén cefálico) y registro EEG de hipsarritmia. Es una emergencia neurológica que exige diagnóstico y tratamiento precoz con ACTH o vigabatrina para minimizar el daño cognitivo secular."
+      },
+      {
+        "text": "Crisis convulsivas febriles complejas secundarias a una viremia.",
+        "isCorrect": false,
+        "explanation": "Las crisis febriles ocurren de forma reactiva ante alzas térmicas bruscas en lactantes mayores de 6 meses (generalmente entre los 6 meses y 5 años), manifestándose como crisis tónico-clónicas generalizadas aisladas, no como espasmos epilépticos en salvas sin fiebre a los 5 meses."
+      },
+      {
+        "text": "Crisis de ausencia infantiles clásicas de curso benigno.",
+        "isCorrect": false,
+        "explanation": "Las crisis de ausencia son infrecuentes a los 5 meses (debutan típicamente en la edad escolar), se caracterizan por episodios breves de desconexión del medio con parpadeo rápido, sin espasmos musculares masivos en salvas ni regresión del DSM."
+      },
+      {
+        "text": "Mioclonías fisiológicas del sueño profundo del lactante menor.",
+        "isCorrect": false,
+        "explanation": "Las mioclonías fisiológicas ocurren exclusivamente durante las fases del sueño profundo del niño, no se presentan en salvas masivas coordinadas al despertar ni comprometen el neurodesarrollo o la sonrisa social del lactante despierto."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un lactante de 24 meses de edad acude a control de salud. Al evaluar los hitos motores y de coordinación del desarrollo esperados para esta edad, ¿cuál de los siguientes conjuntos de habilidades debe demostrar de forma consistente el paciente?",
+    "hint": "A los dos años de vida, el preescolar menor despliega una motricidad gruesa más avanzada con capacidad de correr y manipular objetos con los pies, además de mayor precisión tridimensional en sus manos.",
+    "options": [
+      {
+        "text": "Lograr caminar hacia atrás tres pasos, construir una torre de dos cubos, usar de forma constante un vocabulario de doscientas palabras y pedalear en un triciclo.",
+        "isCorrect": false,
+        "explanation": "Caminar hacia atrás y la torre de dos cubos son reactivos que se logran consolidar de forma completa a los 18 meses de vida; pedalear en triciclo es una destreza motora del niño de 3 años."
+      },
+      {
+        "text": "Lograr gatear de forma vigorosa con coordinación alterna, transferir cubos de mano a mano, emitir gorjeos y lograr la sedestación con apoyo manual.",
+        "isCorrect": false,
+        "explanation": "Gatear, transferir objetos hand-to-hand y sentarse con apoyo son hitos motores basales del primer año de vida (6 a 9 meses), representando un retraso global grave si persisten de forma exclusiva a los 2 años."
+      },
+      {
+        "text": "Lograr subir escaleras peldaño a peldaño apoyando ambos pies en cada peldaño, patear una pelota de forma voluntaria, construir una torre de seis cubos de madera y correr con estabilidad.",
+        "isCorrect": true,
+        "explanation": "A los 24 meses (2 años), los hitos motores gruesos y de coordinación esperados son: correr con estabilidad, subir escaleras peldaño a peldaño (colocando ambos pies en cada escalón antes de avanzar al siguiente), patear una pelota con el pie de forma voluntaria sin perder el equilibrio, y construir una torre de 6 cubos de madera (demostración de coordinación visomotora fina avanzada)."
+      },
+      {
+        "text": "Lograr saltar obstáculos de alta complejidad, pararse en un solo pie por 10 segundos, abotonar prendas de vestir y copiar una figura geométrica de cuadrado.",
+        "isCorrect": false,
+        "explanation": "Pararse en un pie por 10 segundos, abotonar ropa y copiar un cuadrado son habilidades visomotoras y de equilibrio finas complejas correspondientes a la edad preescolar tardía o escolar (5 años de edad)."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante la evaluación de la mímica facial de un recién nacido en su cuna de transición, usted observa que al llorar, el paciente desvía la comisura bucal de forma simétrica hacia el lado izquierdo, mientras que el lado derecho de la cara permanece plano, sin arrugar la frente del lado derecho ni cerrar completamente el párpado derecho. ¿Cuál es el diagnóstico clínico y su causa más probable?",
+    "hint": "En las parálisis faciales periféricas neonatales, se compromete todo el hemicara ipsilateral (superior e inferior: no arruga la frente, no cierra el párpado y desvía la boca hacia el lado contralateral sano). Es un hallazgo traumático común del parto por compresión del nervio a su salida del agujero estilomastoideo.",
+    "options": [
+      {
+        "text": "Síndrome de Möbius congénito unilateral, caracterizado por la agenesia bilateral selectiva del núcleo del nervio abducens.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Möbius es una anomalía congénita rara caracterizada por parálisis facial bilateral simétrica completa asociada a parálisis del sexto par (abducens) que impide la abducción ocular, sin manifestarse como compromiso periférico unilateral traumático."
+      },
+      {
+        "text": "Parálisis facial periférica derecha, comúnmente secundaria a compresión traumática intraparto del nervio facial por el promontorio sacro materno o fórceps.",
+        "isCorrect": true,
+        "explanation": "La parálisis facial periférica neonatal compromete tanto la rama superior como inferior de la hemicara afectada (derecha en este caso: imposibilidad de arrugar la frente, lagoftalmos/ojo abierto, boca desviada hacia el lado izquierdo sano al llorar). La causa más común es el traumatismo del parto por compresión mecánica del nervio contra prominencias óseas de la pelvis materna o el fórceps durante el período expulsivo. El pronóstico es excelente de forma conservadora."
+      },
+      {
+        "text": "Variante de la normalidad transitoria asociada a una asimetría funcional de la fosa canina del recién nacido macrosómico.",
+        "isCorrect": false,
+        "explanation": "La incapacidad de cerrar el párpado y arrugar la frente constituye una patología neurológica real (paresia de pares craneales) que exige vigilancia y lubricación del ojo, descartando asimetrías funcionales benignas."
+      },
+      {
+        "text": "Parálisis facial central izquierda, secundaria a un accidente cerebrovascular isquémico intrauterino del hemisferio derecho.",
+        "isCorrect": false,
+        "explanation": "La parálisis facial de origen central preserva la musculatura superior de la frente debido a la inervación cortical bilateral del núcleo facial superior, lo cual no concuerda con la frente plana descrita en el paciente."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un recién nacido de término y sano en su tercer día de vida presenta al examen físico sacudidas repetitivas e involuntarias rítmicas en ambos tobillos ante la dorsiflexión pasiva brusca realizada por el clínico. Se constata un total de 4 batidas simétricas del clonus, las cuales cesan de forma espontánea. El tono general es flexor normal. ¿Cuál es el significado clínico de este hallazgo?",
+    "hint": "El clonus neonatal se considera fisiológico siempre que cumpla con las características de ser agotable (menos de 5 a 6 batidas), simétrico y no se asocie a asimetrías de tono ni compromiso cualitativo de la conciencia del recién nacido.",
+    "options": [
+      {
+        "text": "Es un clonus patológico inagotable, indicativo de una encefalopatía hipóxico-isquémica perinatal con lesión central.",
+        "isCorrect": false,
+        "explanation": "El clonus patológico (signo de lesión piramidal) se caracteriza por ser inagotable (sostenido), asimétrico o asociarse a hipertonía rígida persistente, lo cual difiere de las 4 batidas agotables simétricas descritas."
+      },
+      {
+        "text": "Es un signo de alarma de hipocalcemia sintomática transitoria que requiere una infusión de gluconato de calcio.",
+        "isCorrect": false,
+        "explanation": "Aunque la hipocalcemia causa temblores e hiperirritabilidad neurológica (tetania), el clonus agotable bilateral aislado en un recién nacido por lo demás normal y activo no es un marcador de déficit de calcio."
+      },
+      {
+        "text": "Es un clonus neonatal fisiológico agotable, común en neonatos sanos debido a la inmadurez transitoria de la vía piramidal.",
+        "isCorrect": true,
+        "explanation": "La presencia de un clonus agotable (habitualmente menor a 5 o 6 batidas), simétrico y simétrico ante el estímulo de estiramiento es un hallazgo fisiológico normal en recién nacidos de término y prematuros, debido a la inmadurez de la vía piramidal. Desaparece espontáneamente en las primeras semanas de vida sin consecuencias diagnósticas."
+      },
+      {
+        "text": "Es un equivalente convulsivo neonatal subclínico que obliga a iniciar tratamiento con fenobarbital endovenoso.",
+        "isCorrect": false,
+        "explanation": "El clonus fisiológico agotable simétrico evocado por el clínico no constituye una convulsión neonatal, ya que las convulsiones neonatales se presentan de forma espontánea, no son provocadas por el estiramiento y no se frenan mecánicamente."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al realizar el control sano de un lactante de 6 meses de edad, usted evalúa los hitos correspondientes al área del Lenguaje comprensivo y expresivo. ¿Cuál de los siguientes comportamientos lingüísticos describe el rendimiento esperado para esta edad?",
+    "hint": "En el primer semestre de vida, el lenguaje evoluciona desde los gorjeos iniciales hacia el balbuceo imitativo monosilábico y la búsqueda activa de sonidos del entorno mediante el giro del cuello.",
+    "options": [
+      {
+        "text": "Lograr la imitación de sonidos de animales domésticos conocidos y señalar al menos dos objetos comunes cuando se le nombran.",
+        "isCorrect": false,
+        "explanation": "Imitar onomatopeyas (\"guau-guau\", \"miau\") y señalar objetos denominados por el clínico son destrezas lingüísticas del segundo año, consolidadas típicamente entre los 15 y 18 meses de vida."
+      },
+      {
+        "text": "Lograr mantener una conversación interactiva mediante el uso de holofrases estructuradas y responder de forma verbal cuando es interrogado.",
+        "isCorrect": false,
+        "explanation": "El uso de holofrases y el lenguaje dialogado interactivo exigen un nivel de madurez asociativa cortical propio de preescolares de más de dos años de edad, quedando fuera del rango de lactantes menores."
+      },
+      {
+        "text": "Lograr la emisión de sonidos monosilábicos y balbuceos consonánticos simples (como \"ba\", \"da\", \"ga\") de forma de juego vocal, y girar la cabeza de forma consistente hacia la fuente del sonido.",
+        "isCorrect": true,
+        "explanation": "A los 6 meses de edad, el lactante normal emite balbuceos monosilábicos con consonantes sencillas (\"ba\", \"da\", \"da\") y gorjeos complejos a modo de juego vocal espontáneo. Comprensivamente es capaz de girar la cabeza de forma consistente en un ángulo de 90 grados hacia el origen de sonidos del ambiente o la voz materna."
+      },
+      {
+        "text": "Lograr decir al menos tres palabras con significado dirigido y comprender instrucciones verbales que asocian gestos de prohibición (\"no\").",
+        "isCorrect": false,
+        "explanation": "Decir palabras con significado y comprender gestos de prohibición como el \"no\" son hitos de lenguaje comprensivo y expresivo tardíos que se consolidan al año de vida (12 meses)."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante el control sano del año de vida (12 meses completos), el equipo de APS aplica la pauta de tamizaje abreviada de banderas rojas del desarrollo psicomotor. ¿Cuál de los siguientes hallazgos al examen físico es considerado una bandera roja de retraso psicomotor mayor a esta edad específica?",
+    "hint": "Al año de vida, la motricidad fina de precisión y el inicio de la vocalización silábica imitativa son hitos basales indispensables para el desarrollo posterior del lenguaje y la manipulación de objetos comunes.",
+    "options": [
+      {
+        "text": "Presentar llanto vigoroso persistente y rechazo alimentario intermitente durante la exploración física.",
+        "isCorrect": false,
+        "explanation": "El llanto y la irritabilidad reactiva son comportamientos esperados y muy comunes en lactantes de un año ante extraños (médicos), reflejando un desarrollo socioemocional normal (angustia de extraños)."
+      },
+      {
+        "text": "No lograr la bipedestación independiente de forma estable sin soporte físico.",
+        "isCorrect": false,
+        "explanation": "No lograr la bipedestación estable sin soporte no es una bandera roja al año de vida; este hito se consolida entre los 12 y 15 meses de edad, considerándose retraso recién si no camina solo a los 18 meses."
+      },
+      {
+        "text": "No presentar una pinza digital madura (oposición de pulgar e índice) en ninguna de las dos manos y no emitir balbuceos repetitivos.",
+        "isCorrect": true,
+        "explanation": "Al cumplir los 12 meses, la ausencia de pinza digital (aunque sea inmadura) en ambas manos y la falta de balbuceos o imitación de sonidos (silabaciones repetitivas) constituyen banderas rojas críticas en las áreas de Coordinación y Lenguaje expresivo, obligando a suspender el control sano de rutina e ingresar al menor a estudio médico."
+      },
+      {
+        "text": "No lograr subir escaleras apoyándose en el pasamanos y no controlar de forma autónoma el esfínter anal.",
+        "isCorrect": false,
+        "explanation": "Subir escaleras y el control de esfínteres anal y vesical son habilidades complejas de la infancia tardía y preescolar (2 a 3 años de vida), absolutamente ajenas a las metas de un lactante de 12 meses."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al realizar el cálculo cuantitativo del Coeficiente de Desarrollo (CD) de la Escala de Evaluación del Desarrollo Psicomotor (EEDP), usted debe determinar la edad cronológica exacta de un lactante en días. ¿Cuál es el procedimiento estandarizado establecido en el manual chileno para realizar este cálculo matemático de forma correcta?",
+    "hint": "Para obtener el denominador de la razón del coeficiente (CD = Edad Mental / Edad Cronológica), el manual chileno del EEDP estipula una regla sencilla de cálculo de días basada en la multiplicación de los meses completos por una constante mensual.",
+    "options": [
+      {
+        "text": "Dividir el año de vida del niño por los meses transcurridos y multiplicar el resultado por la constante de 365 días del año civil.",
+        "isCorrect": false,
+        "explanation": "Es una fórmula matemática compleja que no tiene utilidad práctica ni se describe de forma alguna en las directrices de enfermería neonatal ni médica de la red de APS chilena."
+      },
+      {
+        "text": "Asignar de forma rígida un valor de 30 días a cada mes de vida del lactante, independiente de la fecha calendario exacta del nacimiento.",
+        "isCorrect": false,
+        "explanation": "Asignar un valor mensual rígido que ignore los días adicionales de la resta del mes actual de la evaluación altera de forma severa el denominador, afectando la precisión cuantitativa del Coeficiente de Desarrollo final."
+      },
+      {
+        "text": "Restar la fecha de nacimiento de la fecha de evaluación y multiplicar la edad en meses por la constante de 30 días, sumando los días remanentes.",
+        "isCorrect": true,
+        "explanation": "Para calcular la edad cronológica en días según el manual del EEDP, se debe determinar el diferencial en meses y días entre la fecha de evaluación y el nacimiento. Los meses completos se multiplican por 30 (independiente de si tienen 28, 30 o 31 días calendario) y a este subtotal se le suman los días sobrantes del mes incompleto de la resta."
+      },
+      {
+        "text": "Multiplicar de forma directa la edad cronológica en semanas del paciente por un factor de conversión fijo de 7 días.",
+        "isCorrect": false,
+        "explanation": "Multiplicar las semanas por 7 días no es el procedimiento normado por el manual del EEDP, ya que introduce sesgos de cálculo de las semanas de vida de los lactantes que comprometen la estandarización de las tablas de puntajes."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Durante la evaluación semiológica de los reflejos arcaicos del recién nacido, usted evalúa el reflejo de prensión plantar deslizando su pulgar suavemente sobre los metatarsos del pie del neonato. ¿Cuál es la respuesta esperable normal y a qué edad cronológica promedio desaparece fisiológicamente este reflejo primitivo?",
+    "hint": "El reflejo de prensión plantar es más duradero que el de prensión palmar, debiendo extinguirse antes de que el lactante intente apoyar firmemente la planta del pie en el suelo para pararse de forma voluntaria.",
+    "options": [
+      {
+        "text": "Dorsiflexión simétrica del primer dedo del pie; desaparece de forma fisiológica a las pocas horas tras el parto.",
+        "isCorrect": false,
+        "explanation": "Describe de forma aproximada una respuesta plantar de tipo Babinski extensor, y afirmar que se pierde a las pocas horas de nacer es un error semiológico; el reflejo plantar normal persiste por meses."
+      },
+      {
+        "text": "Extensión tónica de los dedos del pie con aducción del tobillo; desaparece de forma fisiológica a los 3 meses de edad.",
+        "isCorrect": false,
+        "explanation": "La extensión tónica de dedos del pie es una respuesta patológica que no se asocia al Galant ni a la prensión, y fijar la desaparición del reflejo plantar a los 3 meses es cronológicamente incorrecto (interferiría con el gateo)."
+      },
+      {
+        "text": "Flexión lateral de la pelvis con abducción del muslo; persiste activo a lo largo de toda la vida de forma protectora.",
+        "isCorrect": false,
+        "explanation": "La flexión de la pelvis es la respuesta del reflejo de Galant y no se asocia a la estimulación plantar metatarsal del pie descrita en el caso clínico."
+      },
+      {
+        "text": "Flexión plantar simétrica de todos los dedos del pie; desaparece de forma fisiológica entre los 9 y 12 meses de edad, previo al inicio de la bipedestación activa.",
+        "isCorrect": true,
+        "explanation": "El reflejo de prensión plantar se evoca al aplicar presión en la base del primer dedo o metatarso, respondiendo el neonato con una flexión tónica simétrica de los dedos del pie. Desaparece de forma fisiológica entre los 9 y 12 meses de edad. Su extinción es indispensable para que el lactante pueda apoyar de forma estable y plana el pie sobre superficies para bipedestarse y caminar solo."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un preescolar de 3 años de edad (36 meses) acude a control de salud infantil en el CESFAM de su comuna. Al evaluar los hitos cognitivos y del lenguaje expresivo esperados para su edad, ¿cuál de los siguientes comportamientos debe demostrar de forma normal y madura el paciente?",
+    "hint": "A los 3 años de edad, el niño da el salto hacia la identidad de género básica y el reconocimiento gráfico de formas cerradas simples, incrementando significativamente su léxico expresivo con oraciones de 3 palabras.",
+    "options": [
+      {
+        "text": "Lograr escribir su nombre completo de pila en una hoja en blanco y restar de forma mental cifras de un dígito simples de urgencia.",
+        "isCorrect": false,
+        "explanation": "Escribir el nombre completo de pila y resolver operaciones de resta mental son destrezas escolares finas y lógico-matemáticas que se adquieren a partir de los 6 años en la educación básica."
+      },
+      {
+        "text": "Lograr relatar un cuento de alta complejidad uniendo oraciones con conectores lógicos y distinguir de forma perfecta el color azul del amarillo.",
+        "isCorrect": false,
+        "explanation": "Relatar cuentos con oraciones complejas con conectores lógicos de alta hilación y discernir de forma perfecta la amplia gama de colores son habilidades cognitivas lingüísticas propias de los 4 a 5 años de edad."
+      },
+      {
+        "text": "Lograr decir su nombre y su sexo de forma verbal, contar de forma secuencial un mínimo de tres objetos ante el examinador y copiar de forma inteligible un círculo cerrado.",
+        "isCorrect": true,
+        "explanation": "A los 3 años de vida (36 meses), el preescolar normal del programa Chile Crece Contigo logra de forma típica: decir verbalmente su nombre completo y su sexo biológico de forma espontánea, contar de forma secuencial hasta 3 objetos mostrados, y copiar de forma gráfica un círculo cerrado en un papel."
+      },
+      {
+        "text": "Lograr emitir balbuceos monosilábicos inespecíficos y comprender gestos rudimentarios de prohibición espacial en el box.",
+        "isCorrect": false,
+        "explanation": "El balbuceo inespecífico y la comprensión gestual rudimentaria son hitos basales del primer año de vida, constituyendo un retraso cognitivo severo si persisten a los 3 años."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Al realizar la maniobra de la bufanda para evaluar el tono muscular pasivo en un recién nacido de 31 semanas de edad gestacional, usted observa que el codo del brazo traccionado se desplaza con extrema facilidad a través del tórax, sobrepasando ampliamente la línea media del pecho y alcanzando la región axilar contralateral sin encontrar resistencia. ¿Cómo interpreta este hallazgo clínico?",
+    "hint": "Recuerde el desarrollo del tono muscular intrauterino: progresa de caudal a cefálico y de flexor periférico a extensor axial. Los recién nacidos prematuros tienen menor tono flexor pasivo en las articulaciones, ofreciendo escasa resistencia al estiramiento (laxitud normal).",
+    "options": [
+      {
+        "text": "Es una consecuencia del loxoscelismo cutáneo agudo materno no tratado durante el tercer trimestre de la gestación.",
+        "isCorrect": false,
+        "explanation": "El loxoscelismo materno cursa con necrosis cutánea local sistémica por veneno de araña de rincón, sin relación alguna con el desarrollo del tono pasivo fisiológico del prematuro de 31 semanas."
+      },
+      {
+        "text": "Es un signo semiológico precoz de parálisis cerebral espástica con compromiso de las cuatro extremidades.",
+        "isCorrect": false,
+        "explanation": "La parálisis cerebral espástica cursa con hipertonía rígida pasiva y contractura muscular (bufanda muy estrecha que no llega ni a aproximarse a la línea media), no con laxitud y bufanda amplia."
+      },
+      {
+        "text": "Es un hallazgo normal y esperado en recién nacidos prematuros menores de 34 semanas debido a la hipotonía fisiológica secundaria a la inmadurez neuromuscular periférica.",
+        "isCorrect": true,
+        "explanation": "El tono muscular pasivo neonatal progresa de forma caudo-cefálica y de flexor a extensor con la madurez gestacional. Un prematuro menor de 34 semanas presenta de forma fisiológica una menor resistencia muscular pasiva en la articulación del hombro, por lo que en la maniobra de la bufanda el codo sobrepasa la línea media esternal con facilidad (bufanda amplia normal de inmadurez). En el RN de término, el tono flexor maduro opone resistencia e impide que el codo cruce la línea media."
+      },
+      {
+        "text": "Es una respuesta patológica indicativa de una lesión obstétrica del plexo braquial proximal derecho de Erb-Duchenne.",
+        "isCorrect": false,
+        "explanation": "La parálisis del plexo braquial es una patología unilateral que aboliría la movilidad voluntaria del miembro y asimetrías de reflejos, mas no se define por una bufanda pasiva bilateral fluida normal en la prematurez."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "¿Cuál de las siguientes descripciones describe de forma precisa el hito del desarrollo social conocido clásicamente como la \"angustia del octavo mes\" (angustia de extraños) y cuál es su significado en el neurodesarrollo infantil?",
+    "hint": "Este hito representa un avance cognitivo y afectivo fundamental del lactante de 8 meses, evidenciando el establecimiento del vínculo de apego primario selectivo con sus padres y familiares más cercanos.",
+    "options": [
+      {
+        "text": "Corresponde a un retraso severo del área de la socialización asociado a un trastorno de integración sensorial no tratado.",
+        "isCorrect": false,
+        "explanation": "Clasificar este hito del desarrollo normal como un trastorno de integración sensorial o un retraso severo de socialización es un error que medicaliza de forma errónea una etapa adaptativa sana del lactante."
+      },
+      {
+        "text": "Corresponde a una crisis de llanto e irritabilidad refleja ante personas desconocidas; demuestra que el lactante ha logrado diferenciar cognitivamente a sus cuidadores principales de los extraños, reflejando apego seguro.",
+        "isCorrect": true,
+        "explanation": "La angustia del octavo mes (angustia de extraños o de separación) es un hito fisiológico del desarrollo socioemocional entre los 7 y 9 meses de edad. Demuestra que el cerebro del lactante ha alcanzado la madurez para diferenciar la facie y voz de sus cuidadores principales de personas extrañas, reaccionando con llanto o evitación de forma protectora. Es un marcador clínico positivo de apego seguro e interacción social normalizada."
+      },
+      {
+        "text": "Corresponde a una fobia social infantil precoz que exige derivación inmediata a psiquiatría infantil y del adolescente de la red de urgencias.",
+        "isCorrect": false,
+        "explanation": "No constituye una patología de fobia social que amerite psicofármacos o derivación a especialistas de salud mental de urgencia; autolimita progresivamente al avanzar la socialización del segundo año."
+      },
+      {
+        "text": "Corresponde a una consecuencia fisiológica del cese prematuro de la lactancia materna exclusiva antes de los 6 meses de vida.",
+        "isCorrect": false,
+        "explanation": "La angustia del octavo mes se presenta de forma universal tanto en niños alimentados con lactancia materna exclusiva como en aquellos que reciben fórmulas infantiles, siendo independiente del tipo de leche de origen."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un recién nacido macrosómico, tras un parto vaginal complejo por presentación cefálica, presenta al examen físico ausencia de movimientos voluntarios en el miembro superior derecho. Al evaluarlo en reposo, destaca: el brazo permanece en aducción con rotación interna de hombro, codo extendido en pronación de antebrazo y muñeca flectada (actitud de \"propina de mesero\"). Se confirma la presencia de reflejo de prensión palmar simétrico en ambas manos, pero el reflejo de Moro derecho se encuentra abolido de forma completa. ¿Cuál es el diagnóstico clínico y cuáles son las raíces espinales del plexo braquial afectadas de forma típica en esta lesión?",
+    "hint": "Analice la constelación semiológica de compromiso proximal (hombro aducido y rotado interno, codo extendido, \"propina de mesero\") con conservación de la motricidad distal fina de la mano y de la prensión palmar.",
+    "options": [
+      {
+        "text": "Parálisis braquial de Erb-Duchenne; compromete las raíces superiores de C5 y C6.",
+        "isCorrect": true,
+        "explanation": "La parálisis braquial de Erb-Duchenne es la lesión obstétrica del plexo braquial más frecuente, secundaria a tracción excesiva de la cabeza durante el expulsivo. Compromete las raíces superiores de C5 y C6 (y opcionalmente C7), manifestándose con parálisis del hombro y codo (\"brazo en propina de mesero\") con reflejo de Moro asimétrico derecho abolido. Al estar las raíces distales C8-T1 conservadas, la prensión palmar y los movimientos de los dedos permanecen normales."
+      },
+      {
+        "text": "Parálisis braquial de Déjerine-Klumpke; compromete las raíces inferiores de C8 a T1.",
+        "isCorrect": false,
+        "explanation": "La parálisis de Déjerine-Klumpke (plexo distal C8-T1) cursa con parálisis de la mano (\"garra\"), prensión palmar ausente y síndrome de Horner, conservando la movilidad del hombro y el codo, cuadro opuesto al descrito en el caso clínico."
+      },
+      {
+        "text": "Parálisis facial periférica traumática; compromete las ramas superiores e inferiores del par craneal VII.",
+        "isCorrect": false,
+        "explanation": "La parálisis facial periférica compromete la mímica de la cara y no produce debilidad motora ni parálisis del miembro superior ni de los reflejos arcaicos del brazo."
+      },
+      {
+        "text": "Parálisis motora por lesión de motoneurona inferior; compromete de forma difusa de L1 a L3.",
+        "isCorrect": false,
+        "explanation": "Las raíces de L1 a L3 inervan la musculatura pelviana y de miembros inferiores, su lesión causaría parálisis crural pero no afectaría en nada al brazo ni al plexo braquial cervical superior."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "En relación con la fisiología de la maduración neurológica y la adquisición del control de esfínteres en el preescolar sano de la red de APS chilena, ¿cuál de los siguientes hitos de control esfinteriano se logra consolidar primero de forma temporal en la mayoría de los niños y a qué edad promedio se inicia este proceso activo?",
+    "hint": "El control de esfínteres requiere la mielinización de los haces corticoespinales del lóbulo frontal y la capacidad cognitiva del niño para reconocer la señal de vejiga/recto llenos y retener voluntariamente la orina/deposiciones.",
+    "options": [
+      {
+        "text": "El control nocturno del esfínter vesical se consolida de forma obligatoria antes de los 12 meses de vida, precediendo al control del tronco.",
+        "isCorrect": false,
+        "explanation": "Es imposible exigir el control nocturno de la orina a los 12 meses de vida debido a la nula mielinización de los tractos piramidales y la falta de capacidad cognitiva voluntaria del lactante menor."
+      },
+      {
+        "text": "El control diurno del esfínter anal y vesical se logra de forma inicial y simétrica entre los 2 y 3 años de edad, precediendo por meses o años al control nocturno vesical.",
+        "isCorrect": true,
+        "explanation": "La maduración neurológica necesaria para iniciar el retiro de pañales ocurre entre los 18 y 24 meses. El control diurno (anal primero y vesical después) se consolida habitualmente entre los 2 y 3 años de vida del preescolar. El control nocturno de la orina es un hito más tardío que requiere mayor madurez hormonal y central, lográndose meses o años después y considerándose enuresis recién después de los 5 años."
+      },
+      {
+        "text": "El control esfinteriano vesical no requiere maduración neurológica periférica y se enseña de forma conductual estricta a los 6 meses de vida.",
+        "isCorrect": false,
+        "explanation": "Forzar el entrenamiento de esfínteres a los 6 meses mediante castigos o adiestramiento estricto es perjudicial para la psicología infantil y carece de sustento fisiológico debido a la falta de mielinización piramidal."
+      },
+      {
+        "text": "El control diurno y nocturno se logran de forma simultánea e inmediata al cumplir los 4 años de vida de manera involuntaria refleja.",
+        "isCorrect": false,
+        "explanation": "El control de esfínteres no es un proceso simultáneo ni surge de forma involuntaria brusca a los 4 años; requiere un aprendizaje paulatino de control cortical voluntario facilitado por el desarrollo neuromadurativo."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un lactante de 15 meses de edad acude a control sano. Al evaluar el área del desarrollo Motor Grueso de la escala EEDP, ¿cuál de los siguientes hitos de la marcha y del equilibrio se espera que logre realizar de forma estable y normal este paciente para su edad?",
+    "hint": "Identifique la meta de equilibrio de la marcha libre del inicio del segundo año; el braceo y las piernas abiertas son necesarios para compensar el centro de gravedad inestable en transición.",
+    "options": [
+      {
+        "text": "Lograr saltar con los pies juntos desde un peldaño de 20 cm de altura sin caer de rodillas al suelo.",
+        "isCorrect": false,
+        "explanation": "Saltar con los pies juntos desde peldaños altos es un reactivo de gran fuerza y amortiguación ósea que se logra consolidar de forma completa y segura a los 3 años de edad en el TEPSI."
+      },
+      {
+        "text": "Lograr correr con rapidez sorteando obstáculos de la consulta y patear una pelota de forma voluntaria con un pie.",
+        "isCorrect": false,
+        "explanation": "Correr con rapidez y patear una pelota con el pie sin perder la estabilidad son hitos motores gruesos avanzados propios de los 24 meses de edad (dos años completos)."
+      },
+      {
+        "text": "Lograr mantenerse de pie de forma independiente sin ningún soporte, y caminar de forma autónoma con una base de sustentación amplia y braceo simétrico.",
+        "isCorrect": true,
+        "explanation": "A los 15 meses de edad, el lactante de término sano ha consolidado la bipedestación independiente (se sostiene solo sin apoyo) y camina de forma autónoma de manera regular, aunque su patrón de marcha muestra una base de sustentación amplia (piernas separadas) y braceo de equilibrio defensivo transitorio."
+      },
+      {
+        "text": "Lograr pararse de puntas de pies de forma simétrica ante la demostración visual y saltar en un solo pie por 3 segundos.",
+        "isCorrect": false,
+        "explanation": "Pararse en puntas de pies y saltar en un solo pie son habilidades que exigen un desarrollo del aparato vestibular y motor grueso avanzado del preescolar de 4 a 5 años."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "La madre de una lactante de 14 meses de edad, de sexo femenino y previamente sana con un desarrollo psicomotor normal de término, consulta preocupada porque nota que en los últimos dos meses la menor ha presentado una regresión marcada en sus habilidades comunicativas: ya no emite palabras, ha perdido el uso intencionado de sus manos para tomar objetos y pasa el día realizando movimientos repetitivos de \"lavado de manos\" de forma continua, asociándose a una detención del crecimiento de su perímetro cefálico. ¿Cuál es la sospecha diagnóstica prioritaria de esta regresión neurológica?",
+    "hint": "Identifique la patología neurodegenerativa genéticamente ligada al gen MECP2 en el cromosoma X que compromete casi de forma exclusiva a niñas, caracterizada por una regresión del neurodesarrollo entre los 6 y 18 meses, pérdida de la función manual intencionada con estereotipias de \"lavarse las manos\" y microcefalia adquirida progresiva.",
+    "options": [
+      {
+        "text": "Síndrome de West con retraso del neurodesarrollo.",
+        "isCorrect": false,
+        "explanation": "El Síndrome de West cursa con espasmos musculares en flexión o extensión periódicos en salvas y EEG con hipsarritmia, sin manifestarse con estereotipias selectivas de lavado de manos como signo clínico predominante."
+      },
+      {
+        "text": "Síndrome de Rett (trastorno genético ligado al cromosoma X).",
+        "isCorrect": true,
+        "explanation": "El Síndrome de Rett es un trastorno genético del desarrollo neurológico severo ligado al cromosoma X (mutación del gen MECP2), letal en varones y presente en niñas. Tras un desarrollo psicomotor normal en los primeros 6-18 meses de vida, cursa con regresión de hitos neurológicos: pérdida del lenguaje y de la función manual voluntaria de precisión, aparición de estereotipias de lavado de manos continuas y microcefalia adquirida por detención del crecimiento cerebral."
+      },
+      {
+        "text": "Parálisis cerebral espástica cuadripléjica no detectada de forma oportuna.",
+        "isCorrect": false,
+        "explanation": "La parálisis cerebral es un trastorno motor estático de origen no progresivo secundario a una noxa perinatal conocida; no cursa con una regresión tardía de las habilidades adquiridas ni con microcefalia adquirida progresiva a los 14 meses en una niña previamente sana."
+      },
+      {
+        "text": "Autismo regresivo idiopático precoz del segundo año de vida.",
+        "isCorrect": false,
+        "explanation": "Aunque el autismo regresivo comparte la pérdida de habilidades de comunicación social y lenguaje, no se asocia de forma típica con la pérdida total del uso manual intencionado ni con microcefalia adquirida progresiva y estereotipias de lavado de manos estables de causa genética ligada al sexo."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Desarrollo Psicomotor",
+    "text": "Un preescolar de 5 años de edad acude a su control sano en el CESFAM de su comuna. Al evaluar los hitos del desarrollo motor y de la coordinación visomotora fina esperados para esta edad antes del ingreso escolar, ¿cuál de las siguientes destrezas debe ejecutar de forma normal el paciente?",
+    "hint": "A los 5 años, el preescolar mayor consolida destrezas de equilibrio dinámico y fino refinadas que demuestran una madurez psicomotora lista para la lectoescritura básica de la educación formal.",
+    "options": [
+      {
+        "text": "Lograr escribir oraciones complejas de forma cursiva y restar mentalmente cifras de dos dígitos.",
+        "isCorrect": false,
+        "explanation": "Escribir oraciones completas en cursiva y realizar operaciones aritméticas de dos dígitos son habilidades cognitivas de la educación básica escolar consolidadas entre los 7 y 8 años de edad."
+      },
+      {
+        "text": "Lograr atarse los cordones de sus zapatos de forma autónoma con nudo ciego de alta tensión estructural.",
+        "isCorrect": false,
+        "explanation": "Atarse los cordones de los zapatos con nudos y lazos complejos exige un nivel de coordinación bimanual fina de gran precisión que se adquiere habitualmente a los 6 años de edad, no siendo exigido al cumplir los 5 años."
+      },
+      {
+        "text": "Lograr pararse en un solo pie por al menos 10 segundos, saltar en un solo pie de forma coordinada, dibujar una persona con al menos 6 partes corporales distintas y abotonar su chaleco de forma independiente.",
+        "isCorrect": true,
+        "explanation": "A los 5 años de edad, los hitos del neurodesarrollo motor y de coordinación contemplan: pararse en un pie por más de 10 segundos (equilibrio avanzado), saltar en un solo pie de forma fluida, abotonar de forma independiente la ropa y dibujar la figura humana completa incluyendo al menos 6 partes anatómicas identificables (cabeza, tronco, extremidades, ojos, nariz)."
+      },
+      {
+        "text": "Lograr gatear con patrón cruzado simétrico en el box y emitir balbuceos consonánticos inespecíficos.",
+        "isCorrect": false,
+        "explanation": "El gateo y los balbuceos inespecíficos son hitos motores y de lenguaje basales del lactante menor (primer año de vida), representando una discapacidad intelectual o del desarrollo global severa si persisten de forma exclusiva a los 5 años."
+      }
+    ]
+  }
+]
