@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido de sexo masculino nace a las 36 semanas y 6 días de edad gestacional por estimulación de contracciones uterinas. Al examen físico se observa vigoroso y activo. Según la clasificación cronológica de la edad gestacional de la OMS y las guías nacionales, ¿en qué categoría se clasifica a este recién nacido?",
+    "hint": "Considere la subdivisión de los recién nacidos prematuros que nacen muy cerca del límite fisiológico de las 37 semanas de gestación.",
+    "options": [
+      {
+        "text": "Recién nacido de término completo.",
+        "isCorrect": false,
+        "explanation": "El término completo se inicia de forma estricta a partir de las 39 semanas de gestación hasta las 40 semanas con 6 días, rango que denota madurez pulmonar y metabólica optimizada."
+      },
+      {
+        "text": "Recién nacido pretérmino tardío.",
+        "isCorrect": true,
+        "explanation": "Los recién nacidos con edad gestacional entre las 34 semanas y las 36 semanas con 6 días se clasifican formalmente como pretérminos tardíos. Aunque su peso y aspecto se asemejen a un niño de término, fisiológicamente presentan mayor riesgo de morbilidades (apnea, hipotermia, hipoglicemia)."
+      },
+      {
+        "text": "Recién nacido pretérmino moderado.",
+        "isCorrect": false,
+        "explanation": "El prematuro moderado se sitúa cronológicamente entre las semanas 32 y 33 con 6 días de gestación, rango que denota un riesgo clínico sustancialmente superior al del paciente presentado."
+      },
+      {
+        "text": "Recién nacido de término temprano.",
+        "isCorrect": false,
+        "explanation": "El término temprano comprende desde las 37 semanas hasta las 38 semanas con 6 días de gestación, por lo que este neonato se encuentra a un día de alcanzar este rango inferior."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Se asiste el nacimiento de un recién nacido de 27 semanas de gestación con un peso de 950 gramos. De acuerdo con las definiciones de peso para la madurez de las guías clínicas chilenas, ¿cuál es la clasificación correcta para el peso de este neonato?",
+    "hint": "Tenga en cuenta el punto de corte ponderal crítico de los 1000 gramos empleado para definir el riesgo de morbimortalidad neonatal extrema.",
+    "options": [
+      {
+        "text": "Recién nacido con bajo peso al nacer.",
+        "isCorrect": false,
+        "explanation": "El bajo peso al nacer incluye de manera general a todos los recién nacidos con un peso inferior a los 2500 gramos pero superior a los 1500 gramos."
+      },
+      {
+        "text": "Recién nacido con muy bajo peso al nacer.",
+        "isCorrect": false,
+        "explanation": "La categoría de muy bajo peso al nacer comprende de forma estricta a los neonatos con un peso que oscila entre los 1000 y los 1500 gramos."
+      },
+      {
+        "text": "Recién nacido con peso insuficiente al nacer.",
+        "isCorrect": false,
+        "explanation": "El peso insuficiente es una definición epidemiológica que agrupa a los recién nacidos que pesan entre 2500 gramos y 2999 gramos, denotando un riesgo leve pero estadísticamente significativo."
+      },
+      {
+        "text": "Recién nacido con peso extremadamente bajo al nacer.",
+        "isCorrect": true,
+        "explanation": "Todo recién nacido con un peso de nacimiento inferior a los 1000 gramos se clasifica bajo la categoría de peso extremadamente bajo al nacer (o peso muy muy bajo al nacer en guías históricas locales). Representan el grupo de mayor riesgo de secuelas neonatales."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido de término presenta un peso, una talla y un perímetro cefálico situados todos de forma proporcional por debajo del percentil 3 de las curvas de crecimiento intrauterino de Alarcón-Pittaluga. ¿Cuál es el diagnóstico clínico más probable de su restricción de crecimiento?",
+    "hint": "Analice la simetría y proporcionalidad de los tres parámetros del crecimiento antropométrico neonatal en relación con el momento de la agresión uterina.",
+    "options": [
+      {
+        "text": "Restricción del crecimiento secundaria a diabetes gestacional materna.",
+        "isCorrect": false,
+        "explanation": "La diabetes gestacional materna suele asociarse fisiopatológicamente a macrosomía fetal (GEG) o a un crecimiento adecuado, no a una restricción proporcional severa del crecimiento fetal intrauterino."
+      },
+      {
+        "text": "Restricción del crecimiento intrauterino simétrico o Tipo I.",
+        "isCorrect": true,
+        "explanation": "La afectación proporcional de todos los parámetros de crecimiento (peso, talla y PC) indica una noxa de instauración precoz durante el primer trimestre de la gestación (fase de hiperplasia celular). Las etiologías típicas incluyen infecciones congénitas (TORCH), anomalías cromosómicas o exposición a teratógenos tempranos."
+      },
+      {
+        "text": "Restricción del crecimiento de origen netamente placentario tardío.",
+        "isCorrect": false,
+        "explanation": "El compromiso placentario de instauración tardía (como el causado por preeclampsia o tabaquismo en el tercer trimestre) se asocia típicamente a un fenotipo de desnutrición asimétrica y no simétrica proporcional."
+      },
+      {
+        "text": "Restricción del crecimiento intrauterino asimétrico o Tipo II.",
+        "isCorrect": false,
+        "explanation": "La restricción asimétrica afecta predominantemente el peso y la talla en etapas avanzadas de la gestación, preservando el crecimiento cerebral (perímetro cefálico) debido a un fenómeno de redistribución hemodinámica fetal."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido de 39 semanas, cuya madre cursó con preeclampsia severa diagnosticada a las 32 semanas, presenta un peso en el percentil 2, una talla en el percentil 8 y un perímetro cefálico en el percentil 45. ¿Cuál es la clasificación fisiopatológica de su restricción de crecimiento?",
+    "hint": "Observe cómo el perímetro cefálico se encuentra preservado (efecto de protección cerebral) frente al marcado compromiso del peso y de la talla.",
+    "options": [
+      {
+        "text": "Restricción del crecimiento intrauterino simétrico o Tipo I.",
+        "isCorrect": false,
+        "explanation": "La variante simétrica compromete todos los parámetros por igual desde etapas tempranas de la replicación celular, lo cual no calza con la preservación del perímetro del cráneo en percentil 45."
+      },
+      {
+        "text": "Restricción del crecimiento intrauterino asimétrico o Tipo II.",
+        "isCorrect": true,
+        "explanation": "La insuficiencia útero-placentaria tardía (frecuente en preeclampsia) se manifiesta en la fase de hipertrofia celular fetal (tercer trimestre). El feto redistribuye el flujo sanguíneo hacia órganos nobles (cerebro, miocardio y suprarrenales) a expensas de la grasa y el músculo, manteniendo el perímetro cefálico normalizado frente al peso comprometido (RCIU asimétrico)."
+      },
+      {
+        "text": "Restricción del crecimiento por desnutrición calórico-proteica preconcepcional.",
+        "isCorrect": false,
+        "explanation": "La desnutrición crónica preconcepcional de la madre suele comprometer de forma lineal y proporcional la talla y el peso desde el inicio de la gestación, imitando un patrón simétrico."
+      },
+      {
+        "text": "Restricción del crecimiento secundaria a una embriopatía genética precoz.",
+        "isCorrect": false,
+        "explanation": "Las anomalías cromosómicas u orgánicas tempranas alteran la replicación celular global, resultando en un retraso del crecimiento simétrico proporcional que afecta el desarrollo encefálico."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Al evaluar a un recién nacido de 38 semanas con la curva de crecimiento intrauterino nacional de Alarcón-Pittaluga, se constata que su peso se encuentra exactamente en el percentil 2 de la referencia. ¿Cuál es la catalogación diagnóstica correcta para este paciente?",
+    "hint": "Diferencie el límite clásico del percentil 10 de la categoría de riesgo extremo que se define por debajo del percentil 3 nacional.",
+    "options": [
+      {
+        "text": "Grande para la edad gestacional severo.",
+        "isCorrect": false,
+        "explanation": "La clasificación de grande para la edad gestacional (GEG) requiere un peso ponderal que se ubique por sobre el percentil 90 de la referencia para su respectiva edad gestacional."
+      },
+      {
+        "text": "Pequeño para la edad gestacional habitual.",
+        "isCorrect": false,
+        "explanation": "El PEG habitual comprende a los neonatos cuyos pesos se ubican de forma estricta entre el percentil 3 y el percentil 10 de la curva de referencia."
+      },
+      {
+        "text": "Adecuado para la edad gestacional limítrofe.",
+        "isCorrect": false,
+        "explanation": "Los adecuados para la edad gestacional (AEG) se posicionan de manera obligatoria entre el percentil 10 y el percentil 90 de las tablas nacionales."
+      },
+      {
+        "text": "Pequeño para la edad gestacional severo.",
+        "isCorrect": true,
+        "explanation": "Según las curvas chilenas de Alarcón-Pittaluga, un recién nacido se clasifica como Pequeño para la Edad Gestacional (PEG) habitual si su peso se sitúa entre el percentil 3 y 9. Sin embargo, si el peso es menor al percentil 3, se clasifica como PEG Severo (o RCIU clínico severo), asociándose a un riesgo drásticamente superior de asfixia, hipoglicemia e hipocalcemia."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido por parto instrumental mediante fórceps presenta una masa blanda y fluctuante en la región parietal derecha que se hace evidente a las 24 horas de vida. Al examen físico se confirma que la masa respeta estrictamente los límites de las suturas óseas. ¿Cuál es el diagnóstico clínico?",
+    "hint": "Asocie la acumulación hemática delimitada por el periostio que impide que la lesión se extienda hacia los huesos adyacentes a través de las suturas.",
+    "options": [
+      {
+        "text": "Cefalohematoma subperióstico traumático.",
+        "isCorrect": true,
+        "explanation": "El cefalohematoma consiste en una acumulación de sangre bajo el periostio (subperióstico) secundaria a la ruptura de vasos diploicos durante el parto traumático. Dado que el periostio se inserta firmemente en los bordes de cada hueso craneal, la masa queda limitada y respeta de forma estricta las suturas craneales. Tarda semanas o meses en reabsorberse."
+      },
+      {
+        "text": "Hemorragia subgaleal de evolución tórpida.",
+        "isCorrect": false,
+        "explanation": "La hemorragia subgaleal se produce en el espacio aponeurótico laxo sobre el periostio, por lo que cruza las suturas y puede expandirse masivamente provocando anemia aguda y shock."
+      },
+      {
+        "text": "Hematoma epidural de manejo neuroquirúrgico urgente.",
+        "isCorrect": false,
+        "explanation": "El hematoma epidural es una acumulación intracraneal profunda que se asocia a compromiso neurológico severo, alteración de pupilas, fontanela abombada y signos de focalidad."
+      },
+      {
+        "text": "Caput succedaneum de resolución espontánea.",
+        "isCorrect": false,
+        "explanation": "El caput succedaneum es un edema difuso del tejido celular subcutáneo suprayacente al periostio que se presenta inmediatamente al nacer y que cruza libremente las suturas óseas del cráneo."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Durante el examen físico de un recién nacido de término y sano en su segundo día de vida, se palpa la fontanela posterior. ¿Cuál es la descripción cronológica correcta sobre el tamaño y el cierre de esta estructura anatómica?",
+    "hint": "Recuerde las diferencias de tamaño y el orden de cierre de las dos fontanelas principales que se palpan en el cráneo del neonato.",
+    "options": [
+      {
+        "text": "Mide de 1 a 4 cm y se cierra entre el noveno y decimoctavo mes de vida.",
+        "isCorrect": false,
+        "explanation": "Esta descripción anatómica y cronológica corresponde de forma exclusiva a la fontanela anterior o bregmática, la cual tiene forma romboidal y cierra más tarde."
+      },
+      {
+        "text": "Mide menos de 1 cm y se cierra únicamente después del segundo año de vida.",
+        "isCorrect": false,
+        "explanation": "Un cierre de la fontanela posterior prolongado más allá de los dos años de vida es patológico y orienta a condiciones de retraso en la osificación, raquitismo o hipotiroidismo congénito."
+      },
+      {
+        "text": "Mide más de 4 cm y se cierra inmediatamente en las primeras 24 horas del parto.",
+        "isCorrect": false,
+        "explanation": "Ninguna de las fontanelas fisiológicas del recién nacido presenta un tamaño tan masivo asociado a un cierre inmediato en las primeras horas de vida."
+      },
+      {
+        "text": "Mide menos de 1 cm y se cierra entre el primer y segundo mes de vida.",
+        "isCorrect": true,
+        "explanation": "La fontanela posterior o lambdoidea es pequeña al nacer (puntiforme o menor a 1 cm) y su cierre fisiológico ocurre precozmente durante los primeros dos meses de vida extrauterina por aposición ósea normal."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido de término presenta a las 36 horas de vida múltiples máculas eritematosas que asocian pápulas y pústulas de color amarillento dispersas en el tronco y las extremidades, respetando las palmas y plantas. El frotis del contenido de las pústulas revela abundantes eosinófilos. ¿Cuál es el diagnóstico?",
+    "hint": "Asocie la presencia de eosinófilos en el frotis con la erupción cutánea inflamatoria benigna más frecuente en la transición neonatal del paciente de término.",
+    "options": [
+      {
+        "text": "Candidiasis cutánea congénita de manejo antimicótico.",
+        "isCorrect": false,
+        "explanation": "La candidiasis cutánea neonatal se manifiesta como un exantema eritematoso difuso con descamación descamativa intensa y lesiones satélites pustulosas con presencia de hifas o levaduras al examen directo."
+      },
+      {
+        "text": "Melanosis pustulosa neonatal transitoria.",
+        "isCorrect": false,
+        "explanation": "La melanosis pustulosa se presenta desde el nacimiento, afecta palmas y plantas, y su frotis revela de forma característica abundantes neutrófilos, dejando máculas hiperpigmentadas residuales."
+      },
+      {
+        "text": "Pustulosis cefálica neonatal por Malassezia.",
+        "isCorrect": false,
+        "explanation": "La pustulosis cefálica se restringe de forma estricta a la cara y el cuero cabelludo del neonato, debutando generalmente a las tres semanas de vida por colonización fúngica."
+      },
+      {
+        "text": "Eritema tóxico neonatal de resolución espontánea.",
+        "isCorrect": true,
+        "explanation": "El eritema tóxico es una erupción cutánea benigna de origen desconocido caracterizada histológicamente por infiltrados de eosinófilos estériles. Aparece entre las 24-48 horas de vida, respeta palmas y plantas, y no requiere tratamiento farmacológico ya que autolimita en una semana."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido presenta desde el primer minuto de vida pústulas superficiales no inflamatorias en la frente, el cuello y la espalda que se rompen fácilmente dejando un collarete de descamación fina y máculas hiperpigmentadas residuales. El frotis de la pústula muestra neutrófilos sin bacterias. ¿Cuál es el diagnóstico?",
+    "hint": "Esta dermatosis benigna está presente al nacer (frecuente en pieles oscuras) y se caracteriza por dejar máculas oscuras y neutrófilos en el raspado.",
+    "options": [
+      {
+        "text": "Eritema tóxico neonatal en fase descamativa.",
+        "isCorrect": false,
+        "explanation": "El eritema tóxico raramente está presente al nacer, cursa con abundantes eosinófilos (no neutrófilos) y no suele dejar máculas hiperpigmentadas residuales a largo plazo."
+      },
+      {
+        "text": "Melanosis pustulosa neonatal transitoria.",
+        "isCorrect": true,
+        "explanation": "La melanosis pustulosa neonatal transitoria es una erupción pustulosa benigna estéril que se presenta desde el nacimiento. Se caracteriza por pústulas que se rompen con facilidad dejando máculas hiperpigmentadas rodeadas por un collarete de queratina fina. El frotis revela neutrófilos y ausencia de bacterias u otros gérmenes."
+      },
+      {
+        "text": "Impétigo ampolloso estafilocócico del recién nacido.",
+        "isCorrect": false,
+        "explanation": "El impétigo ampolloso es una infección bacteriana (típicamente por S. aureus) con pústulas o ampollas flácidas que contienen detritos celulares, neutrófilos abundantes y cocos Gram positivos en los cultivos."
+      },
+      {
+        "text": "Herpes simple neonatal con afectación cutánea localizada.",
+        "isCorrect": false,
+        "explanation": "La infección por herpes simple neonatal cursa con vesículas agrupadas sobre una base eritematosa, de evolución tórpida y potencial compromiso sistémico o del SNC."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Durante el examen físico de la cara de un recién nacido de 40 semanas, se aprecian múltiples pápulas diminutas de color blanco perlado o amarillento, de 1 a 2 mm, localizadas sobre el dorso de la nariz y las mejillas. ¿A qué corresponde esta condición cutánea?",
+    "hint": "Se trata de quistes de queratina extremadamente comunes y autolimitados que se asemejan a pequeños granos de arena blanca sobre la nariz.",
+    "options": [
+      {
+        "text": "Miliaria rubra por obstrucción de glándulas sudoríparas.",
+        "isCorrect": false,
+        "explanation": "La miliaria se produce por obstrucción de los conductos de las glándulas sudoríparas ecrinas secundario al sobrecalentamiento, mostrando un aspecto vesicular o eritematoso difuso."
+      },
+      {
+        "text": "Acné neonatal de curso clínico autolimitado.",
+        "isCorrect": false,
+        "explanation": "El acné neonatal cursa típicamente con comedones abiertos y cerrados, pápulas inflamatorias e incluso pústulas que aparecen después de las dos semanas de vida."
+      },
+      {
+        "text": "Milia o quistes de queratina de origen epitelial.",
+        "isCorrect": true,
+        "explanation": "El milium o milia consiste en quistes de inclusión epidérmica de queratina localizados en la dermis superficial. Son normales, se presentan en la mitad de los neonatos en nariz y mejillas, y se resuelven espontáneamente por exfoliación en las primeras semanas de vida."
+      },
+      {
+        "text": "Hiperplasia sebácea neonatal por andrógenos maternos.",
+        "isCorrect": false,
+        "explanation": "La hiperplasia sebácea se caracteriza por pápulas amarillentas más aplanadas y con un orificio central, asociadas a folículos pilosebáceos estimulados por andrógenos maternos transplacentarios."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "En el examen de la piel lumbosacra de un recién nacido de término se observa una mancha azulada grisácea de bordes difusos, de 6 cm de diámetro, sin signos de sobreelevación ni de inflamación local. ¿Cuál es el significado clínico de este hallazgo?",
+    "hint": "Es la mácula hiperpigmentada benigna más común en recién nacidos de origen hispano o asiático, localizada típicamente en la zona glútea.",
+    "options": [
+      {
+        "text": "Hemangioma plano lumbosacro con sospecha de disrafia espinal.",
+        "isCorrect": false,
+        "explanation": "Los hemangiomas son lesiones vasculares de color rojo violáceo. Una lesión eritematosa plana en la línea media lumbosacra obliga a descartar defectos de cierre del tubo neural."
+      },
+      {
+        "text": "Nevo azul gigante con alto potencial de malignidad.",
+        "isCorrect": false,
+        "explanation": "El nevo azul es una lesión nodular bien delimitada, de coloración azulada/oscura intensa, que suele aparecer más tarde en la vida y requiere control dermatológico."
+      },
+      {
+        "text": "Mancha mongólica o melanocitosis dérmica congénita.",
+        "isCorrect": true,
+        "explanation": "La mancha mongólica o de Baltz es una melanocitosis dérmica benigna debida a la detención en la migración de melanocitos desde la cresta neural hacia la epidermis durante el desarrollo embrionario. Desaparece paulatinamente durante los primeros años de la infancia y no tiene relación con el síndrome de Down."
+      },
+      {
+        "text": "Nevo de Ota de evolución progresiva y permanente.",
+        "isCorrect": false,
+        "explanation": "El nevo de Ota es una melanosis dérmica de localización facial (unilateral en territorio de las dos primeras ramas del trigémino) y ocular que persiste a lo largo de la vida del individuo."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Usted realiza el examen de rojo pupilar (test de Bruckner) a un recién nacido en su control de los dos días de vida. Constata la ausencia de reflejo rojo en el ojo izquierdo, el cual se aprecia de color blanquecino (leucocoria). ¿Cuál es la conducta inmediata?",
+    "hint": "La leucocoria neonatal representa la sospecha de patologías intraoculares graves que exigen una evaluación diagnóstica de carácter prioritario.",
+    "options": [
+      {
+        "text": "Indicación de colirios lubricantes profilácticos por sospecha de ojo seco neonatal.",
+        "isCorrect": false,
+        "explanation": "El uso de colirios lubricantes no soluciona ni evalúa la opacidad de los medios refractivos internos del globo ocular del lactante."
+      },
+      {
+        "text": "Solicitud de resonancia magnética cerebral de forma electiva antes del primer año de vida.",
+        "isCorrect": false,
+        "explanation": "Aunque la neuroimagen es útil ante masas oculares confirmadas, la primera conducta obligatoria es la confirmación diagnóstica inmediata por oftalmología infantil mediante fondo de ojo."
+      },
+      {
+        "text": "Observación clínica expectante hasta el control sano de los tres meses de vida.",
+        "isCorrect": false,
+        "explanation": "Retrasar la evaluación diagnóstica de una sospecha de retinoblastoma o catarata congénita hasta los 3 meses compromete drásticamente el desarrollo de la vía visual de forma irreversible."
+      },
+      {
+        "text": "Derivación urgente a oftalmología para descartar catarata congénita o retinoblastoma.",
+        "isCorrect": true,
+        "explanation": "La presencia de leucocoria (pupila blanca) o la asimetría del rojo pupilar es una emergencia oftalmológica. Obliga a descartar patologías graves como catarata congénita (causa de ambliopía severa si no se opera precozmente) o retinoblastoma (tumor intraocular maligno primario más común en la infancia)."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido macrosómico, tras un parto vaginal con distocia de hombros, presenta ausencia de movimiento del miembro superior derecho con llanto al intentar movilizarlo. Al examen físico se aprecia asimetría del reflejo de Moro y se palpa crepitación en la región del hombro. ¿Cuál es el diagnóstico?",
+    "hint": "Piense en la lesión ósea traumática más frecuente provocada por la retención de hombros en el canal de parto que causa dolor y asimetría de Moro.",
+    "options": [
+      {
+        "text": "Fractura de clavícula en tallo verde de manejo conservador.",
+        "isCorrect": true,
+        "explanation": "La fractura de clavícula es la lesión ósea más común del parto, frecuentemente asociada a macrosomía y distocia de hombros. Cursa clínicamente con llanto a la movilización pasiva, crepitación, pérdida de la continuidad ósea y un reflejo de Moro asimétrico debido al dolor local. El pronóstico es excelente con inmovilización simple o manejo conservador."
+      },
+      {
+        "text": "Luxación traumática de la articulación glenohumeral neonatal.",
+        "isCorrect": false,
+        "explanation": "La luxación glenohumeral es un evento raro en el recién nacido que cursa con deformidad articular fija visible y rigidez articular severa no crepitante."
+      },
+      {
+        "text": "Artritis séptica de hombro de resolución quirúrgica inmediata.",
+        "isCorrect": false,
+        "explanation": "La artritis séptica cursa con fiebre, signos inflamatorios locales severos (eritema, calor), compromiso hemodinámico sistémico y elevación de reactantes de fase aguda."
+      },
+      {
+        "text": "Parálisis braquial obstétrica proximal tipo Erb-Duchenne.",
+        "isCorrect": false,
+        "explanation": "La parálisis de Erb-Duchenne compromete las raíces C5-C6 y cursa con el miembro en aducción y rotación interna (\"propina de mesero\") sin dolor óseo ni crepitación a la palpación del hombro."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "En el examen de la cavidad oral de un recién nacido de término se constata la presencia de un incisivo central inferior completamente erupcionado que presenta una movilidad grado III a la palpación digital sutil. ¿Cuál es el manejo correcto de esta condición?",
+    "hint": "La inestabilidad mecánica de una pieza dental natal representa una amenaza directa para la permeabilidad de la vía respiratoria del lactante.",
+    "options": [
+      {
+        "text": "Mantener una conducta expectante asegurando una correcta higiene bucal.",
+        "isCorrect": false,
+        "explanation": "La conducta expectante ante un diente natal con movilidad severa es peligrosa debido al riesgo inminente de asfixia accidental por aspiración de la pieza suelta."
+      },
+      {
+        "text": "Ferulización dental realizada de urgencia por un odontopediatra del centro.",
+        "isCorrect": false,
+        "explanation": "La ferulización no es realizable ni se indica en piezas de dentición natal primaria móvil dado que carecen de soporte de estructura ósea subyacente."
+      },
+      {
+        "text": "Suspensión definitiva de la lactancia materna por riesgo de mordedura del pezón.",
+        "isCorrect": false,
+        "explanation": "La lactancia materna no se suspende; si el diente tiene buena fijación ósea se pule la superficie para evitar úlceras sublinguales (enfermedad de Riga-Fede) y si está móvil se extrae y se continúa lactando."
+      },
+      {
+        "text": "Extracción dental inmediata por riesgo elevado de aspiración de la pieza.",
+        "isCorrect": true,
+        "explanation": "Los dientes natales (presentes al nacer) con movilidad severa (grado III) deben ser extraídos precozmente. Su falta de soporte radicular hace que puedan desprenderse espontáneamente durante la succión y ser aspirados, provocando obstrucción de la vía aérea o neumonía por aspiración."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Se evalúa en el control de niño sano a un recién nacido de 15 días de vida que presenta una protrusión umbilical de 1,5 cm que protruye de forma evidente con el llanto y se reduce con facilidad a la presión manual. ¿Cuál es la indicación correcta?",
+    "hint": "La mayoría de estas protrusiones aponeuróticas cierran de forma espontánea sin intervenciones agresivas durante los primeros años de vida.",
+    "options": [
+      {
+        "text": "Conducta expectante y control clínico hasta los dos a cuatro años de vida.",
+        "isCorrect": true,
+        "explanation": "La hernia umbilical es sumamente frecuente en el lactante por cierre incompleto del anillo umbilical. La inmensa mayoría (más del 90%) cierra de manera espontánea antes de los 2 a 4 años por fortalecimiento progresivo de la musculatura de la pared abdominal, requiriendo solo observación."
+      },
+      {
+        "text": "Colocación de una faja compresiva abdominal con una moneda sobre el ombligo.",
+        "isCorrect": false,
+        "explanation": "El uso de fajas, monedas u otros objetos compresivos está estrictamente contraindicado por el riesgo de laceración cutánea, retraso del cierre aponeurótico e infecciones secundarias."
+      },
+      {
+        "text": "Realización urgente de una ecografía de pared abdominal para descartar estrangulación.",
+        "isCorrect": false,
+        "explanation": "La ecografía de urgencia no está indicada en una hernia umbilical asintomática, reductible con facilidad y sin signos locales de estrangulamiento o cambio de color de la piel."
+      },
+      {
+        "text": "Derivación inmediata a cirugía infantil para reparación quirúrgica electiva.",
+        "isCorrect": false,
+        "explanation": "La indicación quirúrgica de la hernia umbilical se posterga generalmente hasta pasados los 4 o 5 años de vida, salvo que sea gigante (>2 cm), sintomática o presente complicaciones."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Al realizar el examen físico de cadera en un recién nacido de 5 días de vida, el examinador flecta las caderas y rodillas del paciente en 90 grados, abduce los muslos y presiona con el dedo medio el trocánter mayor hacia adelante, sintiendo un resalto táctil. ¿Qué maniobra describe?",
+    "hint": "Esta técnica busca reposicionar la cabeza femoral luxada dentro del acetábulo mediante la abducción progresiva de los muslos.",
+    "options": [
+      {
+        "text": "Maniobra de Barlow, que evalúa la luxabilidad de la articulación femoral.",
+        "isCorrect": false,
+        "explanation": "La maniobra de Barlow busca evaluar si una cadera es luxable o inestable, realizando una aducción suave mientras se presiona el fémur hacia atrás para provocar la salida de la cabeza femoral."
+      },
+      {
+        "text": "Maniobra de Ortolani, que busca reducir una cadera previamente luxada.",
+        "isCorrect": true,
+        "explanation": "La maniobra de Ortolani se utiliza para diagnosticar una cadera luxada reducible. Al abducir la cadera y empujar el trocánter mayor hacia adelante, la cabeza femoral \"entra\" o se reduce en el acetábulo, lo que genera un \"clic\" o \"resalto\" táctil característico."
+      },
+      {
+        "text": "Maniobra de Klisic, que estima la alineación del trocánter mayor del fémur.",
+        "isCorrect": false,
+        "explanation": "La maniobra de Klisic utiliza una línea imaginaria entre la espina ilíaca y el trocánter mayor para estimar la simetría de la cadera, perdiendo especificidad en el período neonatal inmediato."
+      },
+      {
+        "text": "Maniobra de Galeazzi, que mide la discrepancia real de longitud de muslos.",
+        "isCorrect": false,
+        "explanation": "La maniobra de Galeazzi evalúa la diferencia de altura de las rodillas flectadas apoyando los pies sobre la mesa de examen, lo cual orienta a dismetría o luxación unilateral unilateral."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "En el control de niño sano de un lactante de 4 meses de vida, el clínico busca signos de displasia del desarrollo de caderas. ¿Cuál es el signo clínico más sensible y confiable para el diagnóstico a esta edad específica?",
+    "hint": "A medida que el lactante crece, la laxitud articular inicial disminuye y se produce contractura de la musculatura aductora de la articulación.",
+    "options": [
+      {
+        "text": "Persistencia del signo de Barlow detectable en la rotación interna.",
+        "isCorrect": false,
+        "explanation": "Las maniobras de inestabilidad activa (Barlow y Ortolani) desaparecen habitualmente después del segundo o tercer mes de vida, perdiendo su utilidad diagnóstica a los 4 meses."
+      },
+      {
+        "text": "Asimetría aislada de pliegues inguinales o glúteos en el lactante.",
+        "isCorrect": false,
+        "explanation": "La asimetría de pliegues es un hallazgo blando de muy baja especificidad que se observa comúnmente en lactantes sanos sin anomalías óseas reales en las caderas."
+      },
+      {
+        "text": "Limitación de la abducción de la articulación de la cadera afectada.",
+        "isCorrect": true,
+        "explanation": "A partir del tercer mes de vida, la laxitud articular inicial disminuye y se instala una contractura progresiva de los músculos aductores de la cadera afectada por la posición luxada crónica. Por lo tanto, la limitación de la abducción (asimetría o abducción menor a 60°) se convierte en el signo clínico más sensible y confiable para sospechar displasia de caderas."
+      },
+      {
+        "text": "Presencia de un clic sutil durante el examen físico de rutina.",
+        "isCorrect": false,
+        "explanation": "Los \"clics\" de cadera son ruidos articulares agudos inespecíficos originados por ligamentos laxos normales, que no traducen patología estructural acetabular."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Durante el examen físico de un recién nacido prematuro de 30 semanas de gestación, se observa que la espalda, los hombros y el dorso de los pabellones auriculares están cubiertos por un vello fino, denso y suave. ¿Cómo cataloga este hallazgo semiológico?",
+    "hint": "Es una característica de madurez somática que disminuye a medida que el recién nacido se aproxima al término de la gestación.",
+    "options": [
+      {
+        "text": "Hirsutismo neonatal secundario a un trastorno suprarrenal.",
+        "isCorrect": false,
+        "explanation": "El hirsutismo implica un patrón de distribución de vello terminal androgénico y se asocia a trastornos endocrinos severos como la hiperplasia suprarrenal congénita o virilización."
+      },
+      {
+        "text": "Lanugo fisiológico propio de la inmadurez tegumentaria.",
+        "isCorrect": true,
+        "explanation": "El lanugo es un vello corporal fino y suave característico del feto que aparece en el segundo trimestre de gestación y que se desprende de forma natural en las últimas semanas del embarazo, siendo un hallazgo normal y esperado en los recién nacidos prematuros."
+      },
+      {
+        "text": "Estigma cutáneo patológico que asocia disrafia espinal oculta.",
+        "isCorrect": false,
+        "explanation": "El vello asociado a disrafias suele ser grueso, de implantación profunda y localizado en un mechón lumbosacro específico (\"cola de fauno\"), a diferencia del lanugo fino distribuido en la espalda."
+      },
+      {
+        "text": "Hipertrícosis congénita lanuginosa de carácter genético.",
+        "isCorrect": false,
+        "explanation": "La hipertrícosis congénita lanuginosa es una alteración extremadamente rara de carácter genético, caracterizada por la persistencia y crecimiento continuo del vello lanugo durante la infancia y adultez."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido de término presenta en su primer día de vida un aumento de volumen escrotal derecho que es indoloro a la palpación, liso, de consistencia elástica y que transilumina intensamente de forma homogénea. ¿Cuál es el diagnóstico más probable?",
+    "hint": "La positividad en la prueba de transiluminación confirma la naturaleza líquida serosa pura de la masa dentro del saco escrotal neonatal.",
+    "options": [
+      {
+        "text": "Tumor testicular de células de Leydig de manejo oncológico inmediato.",
+        "isCorrect": false,
+        "explanation": "Las neoplasias testiculares neonatales son extremadamente infrecuentes y se manifiestan como masas pétreas lobuladas que no transiluminan."
+      },
+      {
+        "text": "Hernia inguinal indirecta que requiere reparación quirúrgica a la brevedad.",
+        "isCorrect": false,
+        "explanation": "La hernia inguinal se caracteriza por una masa que protruye con el llanto o esfuerzo y que puede contener asas intestinales, transiluminando de forma negativa debido al contenido gaseoso y sólido."
+      },
+      {
+        "text": "Hidrocele neonatal fisiológico con conducta expectante hasta el año de vida.",
+        "isCorrect": true,
+        "explanation": "El hidrocele neonatal (acumulación de líquido en la túnica vaginal) es un hallazgo común debido a la permeabilidad del conducto peritoneovaginal. Se presenta como un aumento de volumen liso, elástico, no doloroso y que transilumina de forma positiva. La gran mayoría resuelve espontáneamente antes de los 12 meses por obliteración del conducto."
+      },
+      {
+        "text": "Torsión testicular prenatal que se presenta como un escroto agudo silente.",
+        "isCorrect": false,
+        "explanation": "La torsión prenatal debuta al nacer como un testículo firme o pétreo, adherido a la piel escrotal, con decoloración violácea/oscura de la piel y transiluminación ausente."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "La madre de una recién nacida de 5 días consulta angustiada porque nota la salida de una pequeña cantidad de secreción mucosa con estrías de sangre a través de la vulva de la menor. La niña se alimenta bien y el examen abdominal es normal. ¿Cuál es la causa?",
+    "hint": "Piense en el impacto sistémico transitorio que tiene en el útero de la recién nacida la pérdida brusca del influjo de hormonas femeninas maternas.",
+    "options": [
+      {
+        "text": "Coagulopatía hereditaria grave como la enfermedad de Von Willebrand neonatal.",
+        "isCorrect": false,
+        "explanation": "Las coagulopatías congénitas debutan habitualmente con sangrados a nivel del cordón umbilical, hematomas en sitios de punción o hemorragias digestivas o del sistema nervioso central, no con sangrado genital aislado."
+      },
+      {
+        "text": "Abuso físico neonatal con traumatismo genital directo en sala de transición.",
+        "isCorrect": false,
+        "explanation": "Aunque es una sospecha obligada ante lesiones físicas sugerentes, la presencia de secreción vaginal mucosa con estrías de sangre aislada a los 5 días de vida es un cuadro típicamente hormonal fisiológico."
+      },
+      {
+        "text": "Cistitis hemorrágica neonatal por colonización de enterobacterias patógenas.",
+        "isCorrect": false,
+        "explanation": "La cistitis hemorrágica neonatal es sumamente infrecuente; las infecciones urinarias se presentan con compromiso del estado general, fiebre o hipotermia y rechazo alimentario."
+      },
+      {
+        "text": "Pseudomenstruación neonatal secundaria a la deprivación de estrógenos maternos.",
+        "isCorrect": true,
+        "explanation": "La pseudomenstruación neonatal es un fenómeno fisiológico transitorio provocado por la caída brusca de los niveles sistémicos de estrógenos maternos (que pasaron por vía transplacentaria) tras el nacimiento del bebé. Esto genera una descamación endometrial similar a la menstruación de pocos días de duración."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Durante el examen genital de un lactante se palpa el testículo izquierdo en el conducto inguinal, el cual puede ser descendido de forma manual y suave hacia la bolsa escrotal, permaneciendo en esa posición una vez que se retira la presión. ¿Cuál es el diagnóstico?",
+    "hint": "Esta variante anatómica benigna se asocia al aumento del tono del músculo cremaster y se diferencia de la retención testicular fija patológica.",
+    "options": [
+      {
+        "text": "Testículo retráctil o en ascensor que requiere solo control de rutina.",
+        "isCorrect": true,
+        "explanation": "El testículo retráctil (o en ascensor) se debe a un reflejo cremastérico hiperactivo que moviliza temporalmente la gónada hacia el conducto inguinal ante estímulos (frío, tacto). Fisiopatológicamente se caracteriza porque puede descenderse manualmente y permanece en el escroto de forma estable sin tracción excesiva. No requiere cirugía."
+      },
+      {
+        "text": "Anorquia unilateral por regresión testicular embrionaria muy precoz.",
+        "isCorrect": false,
+        "explanation": "La anorquia se define como la ausencia total de tejido testicular unilateral o bilateral, lo cual imposibilita la palpación o movilización de la gónada en el canal."
+      },
+      {
+        "text": "Criptorquidia verdadera que exige orquidopexia antes del año de vida.",
+        "isCorrect": false,
+        "explanation": "En la criptorquidia verdadera la gónada está detenida en su trayecto normal de descenso; no puede ser llevada al escroto de forma manual o, de lograrse, vuelve de inmediato a su posición alta al soltarla."
+      },
+      {
+        "text": "Testículo ectópico alojado en el tejido celular subcutáneo del muslo.",
+        "isCorrect": false,
+        "explanation": "El testículo ectópico se desvía de su trayecto normal de descenso hacia localizaciones anómalas (región femoral, perineal, subcutánea abdominal), sin poder reubicarse en el escroto."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Usted evalúa la presencia de reflejos arcaicos. Al realizar el reflejo de Moro, deja caer la cabeza del paciente unos pocos centímetros de forma controlada. ¿Cuál es la secuencia de movimientos fisiológica que espera observar?",
+    "hint": "Este reflejo de sobresalto simétrico consta de una fase de apertura de los miembros superiores con posterior cierre en actitud de abrazo.",
+    "options": [
+      {
+        "text": "Flexión inicial del tronco con extensión posterior de las extremidades inferiores.",
+        "isCorrect": false,
+        "explanation": "La flexión masiva del tronco con espasmos en flexión no forma parte del reflejo de Moro, pudiendo sugerir espasmos infantiles patológicos (síndrome de West)."
+      },
+      {
+        "text": "Extensión asimétrica del brazo del lado hacia donde se gira la cabeza del niño.",
+        "isCorrect": false,
+        "explanation": "Esta respuesta corresponde al reflejo tónico nucal asimétrico (postura de esgrimista), desencadenado por la rotación pasiva de la cabeza del lactante."
+      },
+      {
+        "text": "Flexión tónica de los dedos de la mano al presionar firmemente la palma.",
+        "isCorrect": false,
+        "explanation": "La flexión tónica de los dedos representa el reflejo de prensión palmar, evocado mediante la estimulación de la superficie palmar del neonato."
+      },
+      {
+        "text": "Abducción y extensión de las extremidades superiores, seguida de aducción y llanto.",
+        "isCorrect": true,
+        "explanation": "El reflejo de Moro (o reflejo de sobresalto) consta de dos fases bien definidas: la primera fase muestra una abducción simétrica de los brazos con extensión de los codos y dedos abiertos; la segunda fase es la aducción progresiva de los brazos hacia la línea media (\"abrazo\") acompañada frecuentemente de llanto. Desaparece a los 4-6 meses."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Al girar de forma pasiva la cabeza de un recién nacido hacia el lado derecho por quince segundos, usted observa que el paciente extiende el brazo y la pierna del lado derecho, mientras flecta el brazo y la pierna del lado izquierdo. ¿De qué reflejo se trata?",
+    "hint": "Su nombre describe la postura clásica que adopta un competidor de esgrima al extender el brazo del lado hacia el cual dirige su mirada.",
+    "options": [
+      {
+        "text": "Reflejo tónico nucal asimétrico o postura de esgrimista.",
+        "isCorrect": true,
+        "explanation": "El reflejo tónico nucal asimétrico (postura de esgrimista) se evoca al rotar pasivamente la cabeza del neonato hacia un lado. El lactante extiende simétricamente el brazo y la pierna del lado hacia el que se giró la cara, mientras flecta el brazo y pierna contralaterales. Su persistencia más allá de los 6 meses sugiere daño neurológico de la vía piramidal."
+      },
+      {
+        "text": "Reflejo de enderezamiento estático cervical de control tónico axial.",
+        "isCorrect": false,
+        "explanation": "El reflejo de enderezamiento busca alinear la posición de la cabeza con el tronco en respuesta a cambios de posición en el espacio, requiriendo control vestibular desarrollado."
+      },
+      {
+        "text": "Reflejo de incurvación del tronco o reflejo espinal de Galant.",
+        "isCorrect": false,
+        "explanation": "El reflejo de Galant se evoca estimulando de forma paravertebral el dorso del recién nacido suspendido boca abajo, lo que produce una desviación o incurvación ipsilateral de la pelvis."
+      },
+      {
+        "text": "Reflejo de prensión palmar persistente ante estímulos propioceptivos.",
+        "isCorrect": false,
+        "explanation": "El reflejo de prensión palmar evalúa el tono flexor de las manos ante el contacto directo con la palma del neonato, sin involucrar rotación cervical."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "En el examen neurológico de un recién nacido de término y sano, se evalúa el reflejo de marcha automática colocándolo en posición vertical apoyando las plantas sobre la mesa de examen. ¿Cuál es el comportamiento cronológico normal de este reflejo?",
+    "hint": "Este reflejo de deambulación primitiva se extingue durante el primer trimestre debido a la maduración de las vías motoras corticales.",
+    "options": [
+      {
+        "text": "Persiste de forma fisiológica hasta que el lactante logra la bipedestación autónoma.",
+        "isCorrect": false,
+        "explanation": "La persistencia de la marcha automática más allá de los 6 meses interfiere con el desarrollo motor voluntario y sugiere parálisis cerebral o espasticidad de extremidades."
+      },
+      {
+        "text": "Desaparece fisiológicamente entre el segundo y tercer mes de vida.",
+        "isCorrect": true,
+        "explanation": "El reflejo de marcha automática es un reflejo arcaico presente al nacer en neonatos de término. Desaparece fisiológicamente entre las 8 y 12 semanas (segundo a tercer mes de vida) debido a la maduración e inhibición de los centros motores subcorticales por la corteza cerebral en desarrollo."
+      },
+      {
+        "text": "Desaparece fisiológicamente durante la primera semana tras el nacimiento.",
+        "isCorrect": false,
+        "explanation": "Su desaparición en la primera semana de vida es patológica e indica depresión severa del sistema nervioso central o debilidad neuromuscular espinal."
+      },
+      {
+        "text": "Desaparece fisiológicamente junto con el reflejo de Babinski al año de vida.",
+        "isCorrect": false,
+        "explanation": "El reflejo de Babinski puede persistir de forma fisiológica hasta los 12 o 24 meses de vida debido a la mielinización incompleta de la vía piramidal, tiempo muy superior a la marcha automática."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido por parto vaginal asistido con ventosa extractora (vacuum) presenta una masa fluctuante gigante en el cuero cabelludo que aumenta progresivamente de tamaño, extendiéndose más allá de las suturas hacia el área occipito-frontal. Al control de signos vitales, se constata taquicardia y palidez marcada. ¿Cuál es el diagnóstico?",
+    "hint": "Esta complicación traumática infrecuente pero grave del parto instrumental cursa con sangrado profuso en el espacio anatómico laxo epicraneal.",
+    "options": [
+      {
+        "text": "Cefalohematoma bilateral que requiere transfusión de plaquetas urgente.",
+        "isCorrect": false,
+        "explanation": "El cefalohematoma está limitado de forma estricta por las suturas óseas, por lo que no puede expandirse de forma masiva hacia la frente o el occipucio de manera difusa ni causa shock."
+      },
+      {
+        "text": "Colección de líquido cefalorraquídeo por fractura de base de cráneo oculta.",
+        "isCorrect": false,
+        "explanation": "La colección o fístula de LCR cursa típicamente con rinorrea u otorrea hialina, sin constituir una masa hemática fluctuante que comprometa de forma aguda la volemia y los signos vitales del recién nacido."
+      },
+      {
+        "text": "Caput succedaneum gigante con riesgo de ictericia por hemólisis masiva.",
+        "isCorrect": false,
+        "explanation": "El caput succedaneum representa un edema intersticial de partes blandas serosanguinolento benigno, que no provoca shock hipovolémico ni anemia severa al nacer."
+      },
+      {
+        "text": "Hemorragia subgaleal con riesgo inminente de shock hipovolémico.",
+        "isCorrect": true,
+        "explanation": "La hemorragia subgaleal ocurre en el espacio laxo entre la aponeurosis epicraneal y el periostio. Al no respetar suturas y ser un espacio de gran volumen, puede acumular hasta el 50-70% de la volemia del recién nacido, cursando con shock hipovolémico, anemia aguda grave, palidez y taquicardia. Es una emergencia de alta mortalidad."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Durante el examen dismórfico de un recién nacido, usted constata microcefalia, fisuras palpebrales cortas, un filtro labial liso e indistinguible y un labio superior marcadamente delgado. ¿Cuál es la sospecha etiológica de esta constelación de signos semiológicos?",
+    "hint": "Asocie los estigmas faciales descritos con el consumo materno de una sustancia psicotrópica legal sumamente teratogénica durante la gestación.",
+    "options": [
+      {
+        "text": "Hipotiroidismo congénito severo no detectado en el cribado neonatal.",
+        "isCorrect": false,
+        "explanation": "El hipotiroidismo cursa con facies tosca, macroglosia, fontanela posterior amplia, ictericia prolongada, hernia umbilical y constipación marcada."
+      },
+      {
+        "text": "Síndrome de alcoholismo fetal por exposición teratogénica prenatal.",
+        "isCorrect": true,
+        "explanation": "El espectro de alcoholismo fetal presenta una facie característica definida por tres criterios fenotípicos mayores: fisuras palpebrales cortas, labio superior delgado (borde bermellón liso) y aplanamiento o borramiento del filtrum labial. Se asocia clásicamente a restricción del crecimiento y microcefalia."
+      },
+      {
+        "text": "Síndrome de Down por trisomía libre del cromosoma veintiuno.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Down se presenta típicamente con hendiduras palpebrales oblicuas hacia arriba, pliegue palmar único, hipotonía, puente nasal aplanado, epicanto y manchas de Brushfield en el iris."
+      },
+      {
+        "text": "Síndrome de Turner por pérdida parcial o total del segundo cromosoma X.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Turner se caracteriza clínicamente por linfedema de manos y pies al nacer, pterigium colli (cuello alado), implantación baja de cabello y orejas, y tórax en escudo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "En el contexto de la evaluación de la madurez somática del recién nacido mediante el Test de Ballard o Capurro, ¿cuál es el significado clínico de evaluar la resistencia y el retorno elástico del cartílago auricular?",
+    "hint": "Esta característica física somática es más blanda, plegable y lenta en retroceder cuanto menor sea la edad gestacional del paciente.",
+    "options": [
+      {
+        "text": "Indica la presencia de una malformación auditiva de carácter conductivo.",
+        "isCorrect": false,
+        "explanation": "La consistencia del pabellón no evalúa la permeabilidad del conducto auditivo externo ni la funcionalidad del aparato de la audición media o interna."
+      },
+      {
+        "text": "Revela un déficit estructural de colágeno tipo dos en el tejido conectivo.",
+        "isCorrect": false,
+        "explanation": "La inmadurez del pabellón auricular en el prematuro representa una condición cronológica del desarrollo fisiológico normal, no una displasia del colágeno estructural tipo II de origen genético."
+      },
+      {
+        "text": "Predice la aparición de una parálisis facial periférica de forma tardía.",
+        "isCorrect": false,
+        "explanation": "La parálisis facial se produce por compresión mecánica del nervio periférico durante el parto, sin ninguna relación con la madurez histológica del cartílago auricular."
+      },
+      {
+        "text": "Refleja el desarrollo estructural tisular según la edad gestacional.",
+        "isCorrect": true,
+        "explanation": "La firmeza, la incurvación del pabellón y el retorno elástico del cartílago auricular progresan de forma lineal con la maduración intrauterina (depósito de matriz cartilaginosa). Por lo tanto, evaluar su rigidez y retroceso inmediato al plegarlo es un marcador somático de utilidad en Capurro y Ballard para estimar la edad gestacional."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Usted realiza el examen físico de la placenta y cordón umbilical de un recién nacido sano y de término, constatando la presencia de una arteria umbilical única (AUU). ¿Cuál es la conducta recomendada según la lex artis?",
+    "hint": "Este hallazgo anatómico aislado del cordón umbilical obliga a vigilar de forma dirigida el desarrollo normal de la vía renal y del sistema cardíaco.",
+    "options": [
+      {
+        "text": "Realizar una ecografía renal y un ecocardiograma de control para descartar malformaciones.",
+        "isCorrect": true,
+        "explanation": "La arteria umbilical única (AUU) se asocia en un 10-15% a la presencia de anomalías orgánicas ocultas, predominantemente malformaciones del tracto urinario (hidronefrosis, agenesia renal) y cardiopatías congénitas. La norma clínica exige realizar una ecografía renal y una evaluación cardiológica dirigida (con ecocardiografía) para descartar estas condiciones."
+      },
+      {
+        "text": "Programar una tomografía computarizada de cuerpo completo en las primeras horas de vida.",
+        "isCorrect": false,
+        "explanation": "La tomografía computarizada de cuerpo completo expone innecesariamente al neonato a radiación ionizante masiva sin justificación clínica fundamentada."
+      },
+      {
+        "text": "Iniciar un tratamiento profiláctico con antibióticos endovenosos de amplio espectro.",
+        "isCorrect": false,
+        "explanation": "La variación vascular anatómica no representa una infección activa del cordón ni justifica de ninguna manera el uso profiláctico de antibióticos sistémicos en un niño sano."
+      },
+      {
+        "text": "Solicitar un cariograma urgente por alta sospecha de trisomía trece.",
+        "isCorrect": false,
+        "explanation": "Aunque se asocia a trisomías, si el recién nacido es físicamente sano, vigoroso y carece de otros estigmas dismórficos, la solicitud de un cariograma de urgencia no está indicada."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "En el examen abdominal palpatorio de un recién nacido en su primera evaluación de rutina en la sala de puerperio, se detecta una masa flancolumbar izquierda, firme, lisa, de carácter móvil y que transilumina discretamente de forma periférica. ¿Cuál es la etiología más probable?",
+    "hint": "Piense en la anomalía anatómica urológica obstructiva o de reflujo que con mayor frecuencia se detecta en las ecografías obstétricas de rutina.",
+    "options": [
+      {
+        "text": "Hidronefrosis renal congénita unilateral o bilateral.",
+        "isCorrect": true,
+        "explanation": "Las anomalías del tracto genitourinario representan más de la mitad de todas las masas abdominales palpables en el período neonatal. La hidronefrosis congénita (obstrucción de la unión pieloureteral o reflujo vesicoureteral) es la causa más común, presentándose como una masa lisa, móvil, que transilumina debido al contenido líquido."
+      },
+      {
+        "text": "Neuroblastoma adrenal de presentación congénita clásica.",
+        "isCorrect": false,
+        "explanation": "El neuroblastoma adrenal es la neoplasia sólida sólida más frecuente en el recién nacido, pero su incidencia general es significativamente menor que la de las anomalías urológicas benignas."
+      },
+      {
+        "text": "Duplicación intestinal segmentaria de resolución quirúrgica inmediata.",
+        "isCorrect": false,
+        "explanation": "Las duplicaciones intestinales suelen manifestarse más tardíamente como masas asociadas a sintomatología de obstrucción intestinal o sangrado rectal, sin transiluminar de forma característica."
+      },
+      {
+        "text": "Riñón poliquístico autosómico recesivo con insuficiencia renal severa.",
+        "isCorrect": false,
+        "explanation": "La enfermedad poliquística bilateral autosómica recesiva (ARPKD) se asocia a nefromegalia bilateral masiva simétrica, asociada a historia de oligohidramnios y falla ventilatoria severa al nacer (secuencia de Potter)."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Semiología Neonatal",
+    "text": "Un recién nacido por parto en presentación de vértice con trabajo de parto prolongado presenta al nacer un área de edema difuso en la región parieto-occipital del cuero cabelludo que no respeta los límites de las suturas. La piel suprayacente presenta petequias sutiles. ¿Cuál es la naturaleza de esta lesión?",
+    "hint": "Esta lesión por presión fisiológica está presente desde el primer segundo tras el nacimiento y resuelve espontáneamente de forma rápida.",
+    "options": [
+      {
+        "text": "Hematoma de la vaina de los músculos pericraneales del vértice.",
+        "isCorrect": false,
+        "explanation": "Los músculos pericraneales no poseen una disposición anatómica en la línea de inserción que justifique la formación de un edema difuso suprayacente."
+      },
+      {
+        "text": "Edema subcutáneo serosanguinolento (caput succedaneum) benigno.",
+        "isCorrect": true,
+        "explanation": "El caput succedaneum es la acumulación de edema serosanguinolento en el espacio celular subcutáneo, provocado por la compresión local de los vasos venosos del cuero cabelludo contra el cuello uterino durante el expulsivo. Dado que se ubica sobre el periostio, cruza suturas libremente. Se asocia a petequias suprayacentes por estasis venoso local y resuelve espontáneamente en 48-72 horas de forma benigna."
+      },
+      {
+        "text": "Absceso subperióstico por colonización ascendente intraparto.",
+        "isCorrect": false,
+        "explanation": "Los abscesos pericraneales bacterianos son extremadamente infrecuentes al nacer; se asocian a ruptura prolongada de membranas, fiebre materna o neonatal, leucocitosis y signos de sepsis grave."
+      },
+      {
+        "text": "Hemorragia subgaleal de rápida progresión con riesgo de anemia.",
+        "isCorrect": false,
+        "explanation": "La hemorragia subgaleal es una colección de sangre que se expande de forma rápida y progresiva, provocando palidez extrema, compromiso hemodinámico sistémico e inestabilidad de signos vitales, lo cual no calza con el edema estable descrito."
+      }
+    ]
+  }
+]
