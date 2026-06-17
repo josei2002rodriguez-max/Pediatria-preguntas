@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 8 semanas, nacido por parto vaginal de término, cuya madre no realizó controles prenatales regulares. Consulta en el CESFAM por un cuadro de 2 semanas de evolución de tos persistente, descrita como \"en accesos seguidos\" (en staccato), dificultad respiratoria leve y polipnea. Destaca en los antecedentes el haber presentado una conjuntivitis mucopurulenta bilateral autolimitada a los 10 días de vida. Al examen físico: afebril, FR 54 rpm, saturando 94% ambiental, auscultación pulmonar con crepitaciones bilaterales finas y sibilancias espiratorias escasas. Hemograma revela leucocitos de 14.500/μL con un 9% de eosinófilos. ¿Cuál es el agente etiológico más probable de este cuadro?",
+    "hint": "Lactante menor con neumonía de instauración subaguda, caracterizada por tos en staccato, ausencia de fiebre, antecedentes de conjuntivitis neonatal precoz y la presencia de eosinofilia periférica en el hemograma.",
+    "options": [
+      {
+        "text": "Mycoplasma pneumoniae",
+        "isCorrect": false,
+        "explanation": "Mycoplasma pneumoniae es una causa común de neumonía atípica en niños en edad escolar (≥ 5 años) y adolescentes, siendo extremadamente infrecuente en lactantes menores de 3 meses."
+      },
+      {
+        "text": "Bordetella pertussis",
+        "isCorrect": false,
+        "explanation": "Aunque la tos de B. pertussis puede ser paroxística, clásicamente se asocia a \"gallito\" inspiratorio (salvo en < 3 meses donde predomina la apnea), leucocitosis extrema con linfocitosis absoluta (no eosinofilia) y suele acompañarse de fiebre baja en la fase catarral."
+      },
+      {
+        "text": "Chlamydia trachomatis",
+        "isCorrect": true,
+        "explanation": "La neumonía afebril del lactante por Chlamydia trachomatis se presenta típicamente entre las 2 y 12 semanas de vida. Se transmite por vía vertical durante el paso por el canal de parto en madres con cervicitis activa. El cuadro clínico clásico incluye tos persistente fraccionada (\"en staccato\"), polipnea, ausencia de fiebre, y crepitaciones bilaterales. El antecedente de conjuntivitis neonatal (que ocurre típicamente entre los 5-14 días de vida) y el hallazgo de eosinofilia periférica (≥ 400 células/μL o ≥ 5%) son altamente orientadores."
+      },
+      {
+        "text": "Virus Respiratorio Sincicial (VRS)",
+        "isCorrect": false,
+        "explanation": "El VRS produce típicamente un cuadro de bronquiolitis aguda caracterizado por pródromo de coriza, sibilancias bilaterales difusas preponderantes, dificultad respiratoria de instauración aguda y fiebre, sin asociación con conjuntivitis neonatal previa ni eosinofilia."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Un lactante de 2 meses es hospitalizado en la Unidad de Pediatría por sospecha de Coqueluche. El hemograma de ingreso reporta: Leucocitos 42.000/μL, segmentados 15%, linfocitos 82%, monocitos 3%. Fisiopatológicamente, ¿cuál es el mecanismo responsable de esta marcada linfocitosis absoluta observada en la infección por Bordetella pertussis?",
+    "hint": "La linfocitosis de la coqueluche no se debe a un aumento en la producción medular, sino a una alteración en la recirculación celular linfocitaria debida a un factor de virulencia específico.",
+    "options": [
+      {
+        "text": "Estimulación clonal masiva de linfocitos T CD8+ por superantígenos bacterianos.",
+        "isCorrect": false,
+        "explanation": "Los superantígenos (como los producidos por Staphylococcus aureus o Streptococcus pyogenes) causan una activación masiva inespecífica de linfocitos, pero típicamente se asocian a shock tóxico y no a la linfocitosis persistente de la tos convulsiva."
+      },
+      {
+        "text": "Inhibición de la extravasación y migración de los linfocitos hacia los ganglios linfáticos mediada por la toxina pertussis.",
+        "isCorrect": true,
+        "explanation": "La toxina pertussis (PT) bloquea las proteínas G inhibitorias (Gi), lo que altera las señales quimiotácticas de los receptores de quimiocinas de los linfocitos circulantes. Como resultado, los linfocitos pierden la capacidad de adherirse al endotelio venular de endotelio alto (HEV) y extravasarse hacia los ganglios linfáticos corporales. Esto provoca una acumulación de linfocitos maduros en el torrente sanguíneo, manifestándose como linfocitosis absoluta clásica."
+      },
+      {
+        "text": "Producción ectópica de interleucina-7 por células epiteliales bronquiales dañadas.",
+        "isCorrect": false,
+        "explanation": "La interleucina-7 participa en el desarrollo de progenitores linfoideos, pero su sobreproducción no es el mecanismo fisiopatológico por el cual B. pertussis altera la distribución linfocitaria."
+      },
+      {
+        "text": "Respuesta compensatoria de la médula ósea ante una hemólisis intravascular subclínica.",
+        "isCorrect": false,
+        "explanation": "No existe hemólisis intravascular subclínica en el curso de la coqueluche no complicada que estimule una respuesta compensatoria de este tipo."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 10 semanas es evaluado en el Servicio de Urgencia Infantil por un cuadro de tos paroxística afebril y apneas intermitentes. Se plantea sospecha clínica de neumonía por Chlamydia trachomatis. De acuerdo con la literatura y recomendaciones nacionales, ¿cuál es el método diagnóstico de elección por su alta sensibilidad y especificidad para confirmar este agente?",
+    "hint": "Chlamydia trachomatis es un patógeno intracelular obligado. Los métodos diagnósticos tradicionales son lentos o poco sensibles, por lo que la amplificación de ácidos nucleicos es actualmente el estándar de oro diagnóstico.",
+    "options": [
+      {
+        "text": "Cultivo bacteriano en medio de carbón-levadura tamponado (BCYE).",
+        "isCorrect": false,
+        "explanation": "El medio de cultivo BCYE se utiliza específicamente para el aislamiento de Legionella pneumophila, no de Chlamydia."
+      },
+      {
+        "text": "Serología mediante Western Blot para IgG e IgM.",
+        "isCorrect": false,
+        "explanation": "La serología (por microinmunofluorescencia) puede ser útil, pero los títulos de anticuerpos tardan semanas en elevarse de forma significativa y el Western Blot no es la técnica estándar ni rápida en la urgencia."
+      },
+      {
+        "text": "Tinción directa de Gram en secreción conjuntival y faríngea.",
+        "isCorrect": false,
+        "explanation": "Al ser una bacteria intracelular obligada que carece de una pared de peptidoglicano típica detectable por microscopía convencional, la tinción de Gram no es útil y suele reportarse vacía."
+      },
+      {
+        "text": "Reacción en Cadena de la Polimerasa (PCR) para Chlamydia trachomatis en secreción nasofaríngea.",
+        "isCorrect": true,
+        "explanation": "La PCR en muestras de secreción nasofaríngea o conjuntival es el examen de elección por su altísima sensibilidad (> 95%) y rapidez diagnóstica para detectar material genético de Chlamydia trachomatis. Es superior al cultivo celular que es complejo y requiere laboratorios altamente especializados debido a su naturaleza intracelular obligada."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 25 días de vida, sin antecedentes mórbidos, ingresa al Servicio de Urgencias traído por sus padres por episodios recurrentes de tos espasmódica. Refieren que durante los episodios el RN \"se pone morado alrededor de la boca\" y presenta pausas respiratorias prolongadas. Al ingreso destaca: afebril, saturación del 88% que recupera a 98% con aporte de O<sub>2</sub> por naricera, examen físico segmentario normal entre las crisis de tos. Se sospecha una tos convulsiva (Coqueluche). ¿Cuál es la presentación clínica más característica de esta infección en menores de 3 meses?",
+    "hint": "La inmadurez neurológica y la estrechez de la vía aérea en lactantes muy pequeños modifican la semiología clásica de la tos quintosa de la coqueluche.",
+    "options": [
+      {
+        "text": "Episodios de apnea y bradicardia grave, a menudo sin el clásico \"gallito\" inspiratorio.",
+        "isCorrect": true,
+        "explanation": "En lactantes menores de 3 meses, la infección por B. pertussis es sumamente grave. Debido a la inmadurez del centro respiratorio y de su vía aérea, las crisis de tos paroxística gatillan de forma refleja apneas prolongadas, cianosis y bradicardia grave. El clásico \"gallito\" inspiratorio suele estar ausente, ya que la fuerza inspiratoria necesaria para producir el estridor laríngeo durante el espasmo glótico no se genera con la misma intensidad que en lactantes mayores o escolares."
+      },
+      {
+        "text": "Fiebre alta intermitente con compromiso del estado general y rechazo alimentario precoz.",
+        "isCorrect": false,
+        "explanation": "La coqueluche cursa de manera característica de forma afebril o con febrícula leve en la fase catarral inicial. La fiebre alta orienta a sobreinfección bacteriana secundaria o a otra etiología."
+      },
+      {
+        "text": "Tos emetizante de predominio diurno con sibilancias espiratorias bilaterales audibles a distancia.",
+        "isCorrect": false,
+        "explanation": "La tos paroxística es típicamente de predominio nocturno y, aunque puede ser emetizante, en este grupo etario los eventos de colapso cardiorrespiratorio (apneas y bradicardia) priman por sobre las sibilancias difusas."
+      },
+      {
+        "text": "Estridor inspiratorio continuo que empeora con el decúbito prono.",
+        "isCorrect": false,
+        "explanation": "El estridor continuo es clásico de la laringomalacia o de anomalías estructurales de la vía aérea alta, no del paroxismo de la tos convulsiva que es episódico."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "En el contexto de la prevención y manejo de brotes de Coqueluche, usted diagnostica un caso confirmado en un preescolar de 4 años que asiste a un jardín infantil. ¿Cuál es la conducta recomendada respecto a los contactos domiciliarios y comunitarios del paciente, de acuerdo con la norma técnica del MINSAL de Chile?",
+    "hint": "La inmunidad conferida por la vacuna celular o acelular no previene la colonización ni la transmisión de la bacteria de forma absoluta. Por ende, la quimioprofilaxis post-exposición se enfoca en cortar la cadena de transmisión.",
+    "options": [
+      {
+        "text": "Indicar vacunación de rescate con Hexavalente solo a los contactos que tengan vacunas incompletas.",
+        "isCorrect": false,
+        "explanation": "La vacunación de rescate es importante, pero no sustituye la necesidad crítica de la profilaxis antimicrobiana inmediata para cortar el brote epidemiológico de transmisión."
+      },
+      {
+        "text": "Indicar profilaxis antimicrobiana con Azitromicina a todos los contactos estrechos (domiciliarios y de sala de clase), independientemente de su estado de vacunación.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con las normas de epidemiología y control del MINSAL, ante un caso confirmado de coqueluche, se debe realizar quimioprofilaxis con macrólidos (preferentemente Azitromicina) a todos los contactos estrechos (domiciliarios y de sala de clase), independientemente de si tienen su calendario de inmunizaciones al día. Esto se debe a que la vacuna protege contra la enfermedad grave, pero no erradica de forma completa el estado de portador nasofaringeo."
+      },
+      {
+        "text": "Realizar aislamiento estricto solo de aquellos contactos que presenten síntomas respiratorios en el momento de la evaluación.",
+        "isCorrect": false,
+        "explanation": "La profilaxis se debe administrar a todos los contactos estrechos de forma preventiva, estén sintomáticos o asintomáticos, para evitar el desarrollo de nuevos paroxismos."
+      },
+      {
+        "text": "Indicar Amoxicilina profiláctica por 10 días a los menores de 1 año del círculo familiar cercano.",
+        "isCorrect": false,
+        "explanation": "El antibiótico de elección para la profilaxis de la coqueluche son los macrólidos (Azitromicina o Claritromicina), no las aminopenicilinas como la Amoxicilina, que carece de una actividad bactericida eficaz in vivo contra Bordetella pertussis."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Un escolar de 10 años consulta por un cuadro de 10 días de evolución caracterizado por cefalea severa, mialgias, faringoamigdalitis no exudativa, compromiso del estado general y tos seca, persistente y molesta que ha ido en aumento de intensidad. Al examen físico se aprecia en buenas condiciones, hidratado, eupneico en reposo, destacando una auscultación pulmonar con escasos crepitantes localizados en base izquierda. Se realiza una radiografía de tórax que muestra un infiltrado reticulonodular bilateral difuso extenso, significativamente mayor de lo esperado según la semiología. ¿Cuál es el diagnóstico clínico y microbiológico más probable?",
+    "hint": "Paciente escolar con síntomas constitucionales extrapulmonares (cefalea, mialgias) seguidos de una tos seca persistente, con una marcada disparidad entre los escasos hallazgos físicos auscultatorios y el severo compromiso radiográfico.",
+    "options": [
+      {
+        "text": "Neumonía bacteriana típica por Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "La neumonía por Streptococcus pneumoniae tiene un inicio brusco, con fiebre muy alta, escalofríos, tos productiva herrumrosa, dolor pleurítico, y al examen físico destaca un síndrome de condensación pulmonar localizado y evidente (crepitaciones densas, soplo tubárico)."
+      },
+      {
+        "text": "Neumonía viral por Adenovirus con compromise intersticial",
+        "isCorrect": false,
+        "explanation": "Aunque los virus producen infiltrados intersticiales, el pródromo extrapulmonar marcado (cefalea, mialgias prominentes) en un escolar de 10 años orienta fuertemente a una etiología por bacterias atípicas como Mycoplasma."
+      },
+      {
+        "text": "Tuberculosis pulmonar primaria activa",
+        "isCorrect": false,
+        "explanation": "La tuberculosis pulmonar primaria suele presentarse en grupos de riesgo, con un curso crónico de baja de peso, sudoración nocturna, tos persistente de semanas de evolución, adenopatías hiliares y/o complejo de Ghon en la radiografía, no con un cuadro de instauración subaguda de 10 días."
+      },
+      {
+        "text": "Neumonía atípica por Mycoplasma pneumoniae",
+        "isCorrect": true,
+        "explanation": "El caso expone la presentación clásica de la neumonía por Mycoplasma pneumoniae en niños mayores de 5 años. Se caracteriza por un pródromo pseudogripal con cefalea, malestar general, faringitis y fiebre moderada, seguido de tos seca, irritativa, que se vuelve productiva de forma tardía. Es paradigmática la presencia de la \"disociación clínico-radiológica\", donde los hallazgos radiográficos (infiltrados intersticiales o reticulonodulares difusos) son muy llamativos en contraste con un examen pulmonar relativamente normal o con escasos hallazgos auscultatorios."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 45 días de vida es traído al Servicio de Urgencia Infantil por un cuadro respiratorio compatible con Coqueluche. En la evaluación inicial destaca taquicardia persistente de 190 lpm, polipnea marcada con FR de 72 rpm y cianosis perioral intermitente. El laboratorio de urgencia revela una leucocitosis extrema de 78.000/μL con linfocitosis del 80%. ¿A qué complicación grave y potencialmente mortal está asociado directamente este recuento leucocitario masivo?",
+    "hint": "En lactantes pequeños infectados por B. pertussis, los recuentos leucocitarios superiores a 50.000/μL constituyen un factor pronóstico crítico que incrementa de forma exponencial la mortalidad debido a un fallo cardiopulmonar específico.",
+    "options": [
+      {
+        "text": "Embolia cerebral y accidente cerebrovascular isquémico.",
+        "isCorrect": false,
+        "explanation": "Aunque hay hiperviscosidad, la oclusión masiva ocurre principalmente a nivel del lecho capilar pulmonar y no cursa típicamente como un accidente cerebrovascular isquémico focal como complicación primaria."
+      },
+      {
+        "text": "Síndrome de lisis tumoral neonatal secundario.",
+        "isCorrect": false,
+        "explanation": "El síndrome de lisis tumoral se asocia al rápido recambio celular en patologías oncológicas hematológicas, no a la linfocitosis reactiva por redistribución celular de la coqueluche."
+      },
+      {
+        "text": "Hipertensión pulmonar grave refractaria por hiperviscosidad e hiperleucocitosis (Coqueluche maligno).",
+        "isCorrect": true,
+        "explanation": "La coqueluche maligna se define por la presencia de tos paroxística asociada a hiperleucocitosis extrema (> 50.000-100.000/μL), insuficiencia respiratoria severa e hipertensión pulmonar (HTP) refractaria. Los agregados leucocitarios masivos (leucostasis) bloquean la microvasculatura pulmonar, lo que aumenta de forma drástica la resistencia vascular pulmonar. Esto genera una falla ventricular derecha progresiva, cortocircuito de derecha a izquierda y una hipoxemia refractaria que frecuentemente causa la muerte si no se interviene con terapias avanzadas."
+      },
+      {
+        "text": "Hemorragia intraventricular grado IV por rotura capilar.",
+        "isCorrect": false,
+        "explanation": "Las hemorragias intraventriculares graves son complicaciones del prematuro extremo debidas a la inestabilidad de la matriz germinal, no están descritas como eventos causados directamente por la linfocitosis de la coqueluche en lactantes de término."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Usted decide el manejo ambulatorio de un lactante de 2 meses con diagnóstico de Neumonía afebril del lactante por Chlamydia trachomatis. Al momento de prescribir el tratamiento, ¿cuál es el esquema de primera línea recomendado por las guías chilenas y qué consideración especial debe monitorizar activamente?",
+    "hint": "El uso de macrólidos en lactantes menores de 6 semanas (y en menor medida hasta los 3 meses) se asocia epidemiológicamente al riesgo de desarrollar una complicación obstructiva del tracto gastrointestinal alto. Sin embargo, sigue siendo el tratamiento de elección por sobre otras alternativas contraindicadas.",
+    "options": [
+      {
+        "text": "Azitromicina 10 mg/kg/día por 5 días, monitorizando la aparición de estenosis hipertrófica del píloro.",
+        "isCorrect": true,
+        "explanation": "El tratamiento de elección para Chlamydia trachomatis en lactantes es la Azitromicina (10 mg/kg/día en dosis única diaria por 5 días) o la Eritromicina (50 mg/kg/día dividida en 4 dosis por 14 días). El uso de macrólidos en lactantes menores de 2 semanas (y con menor riesgo hasta las primeras semanas de vida) se asocia fuertemente al desarrollo de estenosis hipertrófica del píloro (EHP). Por lo tanto, la norma técnica exige educar activamente a los padres para que consulten de inmediato ante la presencia de vómitos explosivos no biliosos postprandiales. La Azitromicina se prefiere sobre la Eritromicina por su perfil de seguridad y dosificación simplificada."
+      },
+      {
+        "text": "Amoxicilina 90 mg/kg/día por 7 días, vigilando reacciones alérgicas cutáneas de tipo tardío.",
+        "isCorrect": false,
+        "explanation": "Chlamydia trachomatis carece de una pared celular convencional de peptidoglicano que sea susceptible a los antibióticos betalactámicos como la Amoxicilina, por lo que este fármaco es completamente ineficaz."
+      },
+      {
+        "text": "Cloranfenicol 50 mg/kg/día por 10 días, monitorizando niveles séricos para prevenir el síndrome del niño gris.",
+        "isCorrect": false,
+        "explanation": "El cloranfenicol no es de primera línea ni se indica de forma ambulatoria debido a su severo perfil de toxicidad hematológica y metabólica."
+      },
+      {
+        "text": "Doxiciclina 4 mg/kg/día por 14 días, monitorizando la pigmentación dental y alteración del esmalte.",
+        "isCorrect": false,
+        "explanation": "Las tetraciclinas como la doxiciclina están contraindicadas en niños menores de 8 años por el riesgo de depósito en esmalte dental y huesos, salvo en patologías específicas muy graves (como la fiebre de las Montañas Rocosas) donde no existan alternativas viables."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "En el control de una gestante de 28 semanas en el CESFAM, la matrona programa la administración de la vacuna dpaT (Difteria, Tétanos, Tos convulsiva acelular). Con respecto a la prevención de la coqueluche infantil, ¿cuál es el objetivo inmunológico prioritario de esta estrategia de inmunización materna incorporada en el calendario PNI de Chile?",
+    "hint": "Los lactantes pequeños no alcanzan una protección inmunológica eficaz contra la coqueluche hasta haber recibido al menos las dos primeras dosis de la vacuna hexavalente (4 meses de vida), quedando desprotegidos en su ventana de mayor vulnerabilidad.",
+    "options": [
+      {
+        "text": "Erradicar de forma permanente la colonización por B. pertussis en el tracto genital femenino.",
+        "isCorrect": false,
+        "explanation": "La vacuna dpaT acelular previene la enfermedad clínica sistémica pero no erradica de manera permanente la portación nasofaringea bacteriana. Además, el sitio principal de colonización es la vía respiratoria y no el tracto genital."
+      },
+      {
+        "text": "Transferencia transplacentaria de anticuerpos IgG maternos específicos para proteger al lactante durante sus primeros meses de vida, antes de que complete su esquema primario de vacunación.",
+        "isCorrect": true,
+        "explanation": "La vacunación con dpaT a embarazadas a partir de las 28 semanas de gestación induce una rápida producción de anticuerpos IgG protectores de alta afinidad contra toxinas de Bordetella pertussis. Estos anticuerpos cruzan activamente la barrera transplacentaria, asegurando títulos protectores circulantes en el recién nacido al nacer. Esto le confiere una protección pasiva de alta efectividad durante los primeros 2 a 3 meses de vida, disminuyendo de forma muy drástica las tasas de hospitalización y muerte por coqueluche maligna."
+      },
+      {
+        "text": "Estimular la inmunidad celular de tipo IgA en la leche materna para conferir protección local exclusiva contra infecciones del tracto digestivo superior.",
+        "isCorrect": false,
+        "explanation": "Si bien la inmunidad secretora en la lactancia materna aporta anticuerpos protectores locales (IgA), la vacuna dpaT sistémica busca prioritariamente asegurar niveles de IgG sérica transplacentaria de circulación sistémica para prevenir la invasión sistémica y el distrés respiratorio agudo."
+      },
+      {
+        "text": "Inducir tolerancia inmunológica en el feto para evitar que desarrolle asma atópica en etapas posteriores de la infancia.",
+        "isCorrect": false,
+        "explanation": "La inmunización no tiene como objetivo la inducción de tolerancia para prevenir patologías atópicas de la vía aérea, careciendo de este efecto fisiopatológico."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Escolar de 8 años en tratamiento ambulatorio por sospecha de neumonía por Mycoplasma pneumoniae acude a control clínico con su radiografía de tórax. Al examen físico se encuentra afebril, FR 22 rpm, sin apremio respiratorio, con escasas sibilancias basales derechas. La radiografía revela un extenso infiltrado de aspecto reticulonodular bilateral que compromete lóbulo medio e inferior derecho, asociado a pequeñas áreas de atelectasia segmentaria. ¿Cómo se conoce clínicamente este fenómeno y cuál es la conducta más apropiada?",
+    "hint": "Es frecuente asustarse ante las imágenes radiográficas en neumonías atípicas por la extensión del compromiso pulmonar. Sin embargo, el pilar fundamental del manejo en estos pacientes es su excelente estado general y estabilidad hemodinámica.",
+    "options": [
+      {
+        "text": "Progresión rápida a empiema complicado; requiere hospitalización para colocación de tubo pleural e inicio de cefotaxima endovenosa.",
+        "isCorrect": false,
+        "explanation": "El derrame pleural masivo o empiema es infrecuente en infecciones por Mycoplasma. Además, el paciente se encuentra afebril, en excelente estado general y sin apremio respiratorio, lo que descarta de plano un cuadro séptico de empiema complicado."
+      },
+      {
+        "text": "Neumonitis química destructiva; requiere derivación inmediata para broncoscopía de lavado alveolar.",
+        "isCorrect": false,
+        "explanation": "La neumonitis química se asocia a la ingesta accidental de hidrocarburos o vaselina, lo que provoca daños alveolares severos de inicio hiperagudo que no se correlacionan con la clínica descrita."
+      },
+      {
+        "text": "Síndrome de Kartagener frustro; requiere estudio genético de la motilidad ciliar.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Kartagener (disquinesia ciliar primaria, situs inversus, sinusitis, bronquiectasias) se presenta con cuadros respiratorios crónicos recurrentes y alteraciones estructurales anatómicas evidentes en las imágenes, descartándose ante un cuadro subagudo típico de neumonía atípica."
+      },
+      {
+        "text": "Disociación clínico-radiológica; se debe mantener el tratamiento macrólido ambulatorio y continuar con observación clínica estrecha.",
+        "isCorrect": true,
+        "explanation": "La disociación clínico-radiológica es el sello distintivo de la neumonía por Mycoplasma pneumoniae. A pesar de presentar radiografías con infiltrados intersticiales o bronconeumónicos bilaterales muy extensos y llamativos, el paciente suele encontrarse clínicamente estable, normocárdico, eupneico y con mínimos hallazgos a la auscultación. La conducta correcta es mantener el tratamiento antibiótico prescrito (por ejemplo, Azitromicina) de manera ambulatoria, guiándose siempre por la clínica del paciente y no por la normalización radiográfica, que puede demorar varias semanas."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Preescolar de 5 años diagnosticado con Neumonía por Mycoplasma pneumoniae presenta al sexto día de enfermedad palidez conjuntival progresiva, ictericia leve de escleras y coluria. El laboratorio revela: Hemoglobina 7,8 g/dL (previa de 12,0 g/dL), reticulocitos 6%, bilirrubina indirecta elevada y test de Coombs directo positivo para C3d. ¿Cuál es el mecanismo fisiopatológico subyacente de esta complicación extrapulmonar?",
+    "hint": "Ciertos patógenos atípicos inducen la síntesis de anticuerpos que reaccionan a bajas temperaturas contra antígenos presentes de forma natural en la superficie de los glóbulos rojos del hospedero.",
+    "options": [
+      {
+        "text": "Hemólisis microangiopática por agregación plaquetaria inducida por la toxina pertussis.",
+        "isCorrect": false,
+        "explanation": "Este es el mecanismo del Síndrome Hemolítico Urémico (SHU) gatillado típicamente por la toxina Shiga de E. coli enterohemorrágica, no tiene relación con el perfil de Mycoplasma."
+      },
+      {
+        "text": "Destrucción directa del parénquima esplénico por invasión bacteriana hematógena.",
+        "isCorrect": false,
+        "explanation": "Mycoplasma pneumoniae es un patógeno que coloniza principalmente la mucosa respiratoria. La bacteriemia e invasión directa de órganos sólidos es extremadamente rara y no explica la anemia hemolítica con Coombs positivo."
+      },
+      {
+        "text": "Producción de anticuerpos cruzados de tipo IgM dirigidos contra el antígeno I de la membrana eritrocitaria (crioaglutininas), activos a bajas temperaturas.",
+        "isCorrect": true,
+        "explanation": "Aproximadamente el 50% o más de los pacientes con neumonía por Mycoplasma pneumoniae desarrollan anticuerpos policlonales de tipo IgM denominados \"crioaglutininas\". Estos anticuerpos están dirigidos contra el antígeno I de la membrana de los eritrocitos humanos. A temperaturas bajas (en la periferia del cuerpo), estos anticuerpos IgM se unen al eritrocito y fijan complemento. Al retornar a la circulación central (caliente), la IgM se disocia pero el complemento queda fijo, gatillando hemólisis intravascular y extravascular mediada por macrófagos esplénicos (Coombs directo positivo para C3d), cursando con anemia hemolítica autoinmune por anticuerpos fríos."
+      },
+      {
+        "text": "Toxicidad mitocondrial directa en los precursores eritroides medulares por el macrólido prescrito.",
+        "isCorrect": false,
+        "explanation": "Los macrólidos pueden producir efectos adversos digestivos (náuseas, vómitos) o arritmias (prolongación de intervalo QT), pero no causan anemia hemolítica autoinmune por toxicidad mitocondrial directa."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 5 meses es llevado a la consulta de atención primaria. La madre refiere que desde hace 10 días presenta episodios de tos muy intensos y seguidos, que finalizan con un ruido inspiratorio agudo parecido a un \"canto de gallo\" y vómito mucoso ocasional. Entre los episodios, el niño se alimenta bien y está activo. Clínicamente, ¿cómo se define y clasifica esta fase específica de la Coqueluche de acuerdo con su cronología evolutiva?",
+    "hint": "En esta fase la carga bacteriana nasofaringea disminuye paulatinamente, pero los síntomas alcanzan su máxima intensidad debido al daño ya establecido en las células ciliadas respiratorias.",
+    "options": [
+      {
+        "text": "Fase paroxística o de estado.",
+        "isCorrect": true,
+        "explanation": "La coqueluche tiene tres fases clínicas clásicas. La fase paroxística o de estado (que dura de 2 a 6 semanas) se caracteriza por accesos repetidos y espasmódicos de tos quintosa (cinco o más golpes de tos durante una sola espiración), que terminan típicamente con una aprobación forzada contra la glotis parcialmente cerrada que produce el característico estridor inspiratorio (\"gallito\") y suele finalizar con la expulsión de moco filante o vómitos (tos emetizante)."
+      },
+      {
+        "text": "Fase catarral o prodrómica.",
+        "isCorrect": false,
+        "explanation": "La fase catarral (dura 1-2 semanas) se caracteriza por síntomas respiratorios altos inespecíficos como coriza, epífora, febrícula y tos leve de tipo nocturno. Es la fase con mayor transmisibilidad bacteriana."
+      },
+      {
+        "text": "Fase de convalecencia.",
+        "isCorrect": false,
+        "explanation": "La fase de convalecencia (dura semanas a meses) se caracteriza por la disminución progresiva de la frecuencia e intensidad de los paroxismos de tos."
+      },
+      {
+        "text": "Fase de resolución inmunológica.",
+        "isCorrect": false,
+        "explanation": "No existe el término \"fase de resolución inmunológica\" dentro de la nomenclatura de la evolución natural de la tos convulsiva por B. pertussis."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "De acuerdo al calendario del Programa Nacional de Inmunizaciones (PNI) vigente en Chile para el año 2026, ¿cuál es el esquema obligatorio y el tipo de vacuna que se administra para la inmunización activa de la población infantil contra la tos convulsiva (Bordetella pertussis)?",
+    "hint": "Chile utiliza vacunas altamente purificadas con componentes acelulares para minimizar el riesgo de reacciones adversas neurológicas y sistémicas severas que producían las antiguas formulaciones de células enteras.",
+    "options": [
+      {
+        "text": "Vacuna de virus atenuados a los 2, 4 y 6 meses, con refuerzo a los 12 meses.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la tos convulsiva es de origen bacteriano subcelular/acelular (antígenos purificados como la toxina pertussis inactivada, hemaglutinina filamentosa y pertactina), no contiene agentes virales y el esquema de refuerzo no se realiza a los 12 meses de vida."
+      },
+      {
+        "text": "Vacuna monovalente recombinante a los 2 y 6 meses de edad.",
+        "isCorrect": false,
+        "explanation": "El esquema de inmunización no es monovalente ni consta únicamente de dos dosis iniciales; se requiere un esquema de tres dosis primarias y un refuerzo temprano para asegurar una adecuada respuesta humoral."
+      },
+      {
+        "text": "Vacuna combinada bacteriana de células enteras (DPT) a los 2, 4 y 18 meses, y dpaT a los 4 años.",
+        "isCorrect": false,
+        "explanation": "La vacuna DPT de células enteras fue retirada de las pautas regulares debido a su alta reactogenicidad (fiebre alta, episodios de hipotonía e hiporrespuesta, llanto persistente). El esquema actual utiliza componentes acelulares en la formulación hexavalente."
+      },
+      {
+        "text": "Vacuna Hexavalente acelular a los 2, 4, 6 y 18 meses, con vacuna dpaT acelular de refuerzo en 1° Básico y 8° Básico.",
+        "isCorrect": true,
+        "explanation": "En Chile, la vacunación contra B. pertussis se realiza de manera sistemática y obligatoria mediante la administración de la vacuna Hexavalente (que incluye antígenos acelulares de B. pertussis, toxoide diftérico, toxoide tetánico, hepatitis B, polio inactivada e Haemophilus influenzae tipo b) a los 2, 4, 6 y 18 meses de vida. Posteriormente, se administran refuerzos con la vacuna dpaT acelular (difteria, tétanos y pertussis acelular con formulación para adultos/escolares) en 1° Básico y luego en 8° Básico para prolongar la inmunidad protectora."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 3 meses, previamente sano, es llevado al consultorio de especialidades del HCSBA por cuadro clínico compatible con Síndrome Coqueluchoídeo. Se le realiza un estudio de panel respiratorio mediante PCR múltiple que resulta negativo para Bordetella pertussis pero positivo para un virus no influenza de alta prevalencia estacional. ¿Cuál de los siguientes virus está clásicamente descrito como causante de un cuadro respiratorio paroxístico clínicamente indistinguible de la tos convulsiva bacteriana?",
+    "hint": "Varias etiologías virales pueden simular de forma perfecta el síndrome coqueluchoídeo al causar lisis de las células ciliadas respiratorias e hiperreactividad de la vía aérea. El agente clásico produce también de forma concomitante conjuntivitis y cuadros febriles prolongados.",
+    "options": [
+      {
+        "text": "Rhinovirus",
+        "isCorrect": false,
+        "explanation": "Rhinovirus causa típicamente el resfrío común (rinorrea, odinofagia, obstrucción nasal) y puede gatillar crisis de sibilancias en pacientes asmáticos, pero no produce un síndrome coqueluchoídeo grave paroxístico característico."
+      },
+      {
+        "text": "Adenovirus",
+        "isCorrect": true,
+        "explanation": "Adenovirus (especialmente los serotipos 1, 2, 3, 5 y 7) es el virus clásicamente reconocido como inductor de un Síndrome Coqueluchoídeo clínico idéntico al producido por B. pertussis. Al colonizar y destruir el epitelio respiratorio ciliado, produce paroxismos de tos seca espasmódica con estridor inspiratorio, vómitos post-tussivos y linfocitosis reactiva. De ahí la importancia de solicitar exámenes confirmatorios (PCR) para definir la etiología y suspender antibioterapia innecesaria si se confirma origen viral."
+      },
+      {
+        "text": "Virus de la parotiditis",
+        "isCorrect": false,
+        "explanation": "El virus de la parotiditis causa inflamación de glándulas salivales y puede complicarse con meningitis aséptica, pero no es un virus patógeno respiratorio productor de tos espasmódica."
+      },
+      {
+        "text": "Enterovirus D68",
+        "isCorrect": false,
+        "explanation": "Enterovirus D68 causa principalmente cuadros de sibilancias graves y parálisis flácida aguda símil poliomielitis, sin correlación con el síndrome coqueluchoídeo clásico descrito."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Un escolar de 8 años, previamente sano y con vacunas al día, es diagnosticado de Neumonía Atípica por Mycoplasma pneumoniae. Clínicamente cursa con fiebre moderada persistente, tos productiva no purulenta y decaimiento leve, sin requerimientos de oxígeno. ¿Cuál es el tratamiento antibiótico de primera elección y su vía de administración predilecta según la Norma Técnica de Infecciones Respiratorias del MINSAL?",
+    "hint": "Los patógenos atípicos como Mycoplasma carecen de pared celular de peptidoglicano, por lo que son intrínsecamente resistentes a todos los betalactámicos. El tratamiento ambulatorio de elección aprovecha la excelente biodisponibilidad por vía enteral de ciertos antibióticos.",
+    "options": [
+      {
+        "text": "Azitromicina oral por 5 días.",
+        "isCorrect": true,
+        "explanation": "Los macrólidos son el tratamiento de elección para erradicar las infecciones respiratorias bajas producidas por bacterias atípicas como Mycoplasma pneumoniae y Chlamydophila pneumoniae. El fármaco más recomendado por su fácil dosificación (una vez al día), excelente perfil de tolerancia y corta duración del tratamiento es la Azitromicina por vía oral administrada por 5 días (esquema clásico: 10 mg/kg el día 1, seguido de 5 mg/kg/día los días 2 a 5; o bien 10 mg/kg/día por 3 o 5 días según guías institucionales específicas)."
+      },
+      {
+        "text": "Amoxicilina oral por 10 días.",
+        "isCorrect": false,
+        "explanation": "La Amoxicilina es el tratamiento de primera línea para la neumonía bacteriana típica (dirigido principalmente contra Streptococcus pneumoniae), pero es inútil contra bacterias atípicas como Mycoplasma al carecer éstas de pared celular y del sitio diana de acción de los betalactámicos (proteínas de unión a penicilina - PBPs)."
+      },
+      {
+        "text": "Cefuroxima axetilo oral por 7 días.",
+        "isCorrect": false,
+        "explanation": "La cefuroxima es una cefalosporina de segunda generación que actúa inhibiendo la síntesis de la pared bacteriana, por lo que carece de cobertura terapéutica contra Mycoplasma."
+      },
+      {
+        "text": "Clindamicina endovenosa por 5 días.",
+        "isCorrect": false,
+        "explanation": "La clindamicina es una lincosamida excelente para patógenos anaerobios y Gram positivos como S. aureus o S. pyogenes, pero no es activa contra Mycoplasma pneumoniae y su administración endovenosa no está indicada de forma rutinaria en un paciente con manejo ambulatorio sin criterios de gravedad."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 1 mes de vida, previamente sano, ingresa grave a la Unidad de Paciente Crítico Neonatal por sospecha de Coqueluche maligno. Requiere intubación por apneas repetitivas y bradicardia extrema que no respondieron a estímulo táctil. Se decide iniciar antibioterapia empírica dirigida contra Bordetella pertussis. ¿Cuál es la opción terapéutica de primera línea y cuál es la razón por la que se prefiere frente a otros miembros de su mismo grupo farmacológico en neonatos?",
+    "hint": "En menores de 6 semanas de vida, el uso de macrólidos tradicionales se asocia de forma alarmante con una anomalía obstructiva de la salida gástrica. Se prefiere el fármaco con menor tasa de unión a receptores de motilina gástrica.",
+    "options": [
+      {
+        "text": "Eritromicina oral por 14 días, debido a su excelente tolerancia digestiva neonatal.",
+        "isCorrect": false,
+        "explanation": "La Eritromicina fue históricamente la terapia estándar, pero requiere 14 días de tratamiento y es el macrólido que mayor tasa de asociación causal tiene con el desarrollo secundario de EHP en neonatos y lactantes pequeños."
+      },
+      {
+        "text": "Claritromicina endovenosa por 10 días, por su menor unión a proteínas plasmáticas.",
+        "isCorrect": false,
+        "explanation": "La Claritromicina no es la primera opción terapéutica en menores de 1 mes debido a la escasez de datos robustos de seguridad y eficacia clínica en neonatos, prefiriéndose categóricamente la Azitromicina."
+      },
+      {
+        "text": "Azitromicina oral o endovenosa por 5 días, por su mayor perfil de seguridad y menor asociación epidemiológica con estenosis hipertrófica del píloro en menores de 6 semanas.",
+        "isCorrect": true,
+        "explanation": "La Azitromicina administrada por 5 días (10 mg/kg/día) es el tratamiento de elección para la infección por B. pertussis en lactantes menores de 1 mes y neonatos. Aunque todos los macrólidos tienen riesgo potencial de inducir estenosis hipertrófica del píloro (EHP) debido a que actúan como agonistas de los receptores de motilina gástrica, la Azitromicina ha demostrado en estudios epidemiológicos presentar un riesgo significativamente menor que la Eritromicina clásica. Además, se prefiere por su esquema abreviado y mejor adherencia."
+      },
+      {
+        "text": "Doxiciclina endovenosa por 7 días, debido a su rápida penetración en las secreciones nasofaríngeas.",
+        "isCorrect": false,
+        "explanation": "Las tetraciclinas (como la doxiciclina) están absolutamente contraindicadas en este grupo etario por sus efectos adversos sobre el desarrollo esquelético y dental."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Durante una sesión docente en el internado de Pediatría, se discute la infectividad y transmisión de la tos convulsiva. ¿En qué etapa o fase clínica de la infección por Bordetella pertussis existe la mayor carga de colonización bacteriana nasofaríngea y, por ende, el paciente presenta el mayor potencial de contagio a personas susceptibles?",
+    "hint": "El contagio es más activo cuando los síntomas respiratorios son leves e inespecíficos, asemejando un resfrío común, lo que retrasa el diagnóstico clínico oportuno y la instauración de medidas de aislamiento.",
+    "options": [
+      {
+        "text": "Fase convaleciente tardía.",
+        "isCorrect": false,
+        "explanation": "En la fase convaleciente tardía, la bacteria ya ha sido aclarada por el sistema inmunológico del hospedero en la gran mayoría de los casos y no existe riesgo de transmisión del patógeno."
+      },
+      {
+        "text": "Fase catarral o prodrómica.",
+        "isCorrect": true,
+        "explanation": "La máxima excreción bacteriana y transmisibilidad de B. pertussis ocurre durante la fase catarral (las primeras 1-2 semanas de la enfermedad). En este período, el paciente tiene síntomas inespecíficos de vía aérea superior y una altísima carga de replicación bacteriana en la mucosa respiratoria. Una vez que inician los paroxismos de tos clásicos (fase de estado), el número de bacterias viables nasofaríngeas comienza a decaer progresivamente, de tal modo que después de 3 semanas del inicio de los paroxismos de tos el paciente casi no es infectante, aunque los síntomas persistan por meses debido a la destrucción del aparato mucociliar."
+      },
+      {
+        "text": "Fase de estado o paroxística.",
+        "isCorrect": false,
+        "explanation": "Aunque los paroxismos de tos violenta generan una gran cantidad de gotas de Flügge que pueden aerosolizar la bacteria, la carga bacteriana neta nasofaríngea es sustancialmente menor que la presente en la fase catarral inicial, reduciendo el potencial infectivo absoluto del paciente."
+      },
+      {
+        "text": "Fase de resolución sintomática.",
+        "isCorrect": false,
+        "explanation": "No existe la fase \"de resolución sintomática\" en la clasificación de tos convulsiva y, en cualquier caso, la eliminación del patógeno ya se habría completado."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Escolar de 9 años en tratamiento antibiótico ambulatorio por neumonía atípica por Mycoplasma pneumoniae es traído de urgencia por presentar vesículas y úlceras dolorosas en mucosa labial, yugal y conjuntival, asociadas a máculas y pápulas eritematosas dispersas en tronco que cubren menos del 10% de la superficie corporal. El cuadro se diagnostica como Erupción Mucocutánea Inducida por Mycoplasma (MIRM). ¿Qué característica es clave para distinguir el MIRM del Síndrome de Stevens-Johnson (SSJ) clásico?",
+    "hint": "Es una entidad clínica recientemente categorizada que típicamente afecta a niños varones infectados por Mycoplasma, con un pronóstico sustancialmente más favorable que las reacciones farmacodermas graves como el SSJ.",
+    "options": [
+      {
+        "text": "El MIRM está provocado por una reacción alérgica mediada por IgE de tipo inmediato contra los antibióticos betalactámicos administrados previamente.",
+        "isCorrect": false,
+        "explanation": "El MIRM no se debe a de alérgia mediada por IgE contra antibióticos, sino que es una reacción autoinmune secundaria a la infección por la bacteria, mediada por el depósito de complejos inmunes y activación de complemento en los vasos de la mucosa."
+      },
+      {
+        "text": "El Síndrome de Stevens-Johnson (SSJ) clásico nunca presenta afectación mucosa, siendo una patología estrictamente cutánea ampollosa de gran extensión.",
+        "isCorrect": false,
+        "explanation": "El SSJ cursa obligatoriamente con afección mucosa severa y dolorosa en el 90% de los casos, por lo que su ausencia no sirve como diferenciador."
+      },
+      {
+        "text": "El MIRM es una patología crónica autoinmune que de forma obligatoria requiere corticoides sistémicos a dosis altas de por vida.",
+        "isCorrect": false,
+        "explanation": "El MIRM es un proceso agudo, autolimitado y benigno que resuelve completamente en 2 a 4 semanas, sin requerir inmunosupresión crónica."
+      },
+      {
+        "text": "El MIRM se caracteriza por un compromiso mucoso prominente (comprometiendo típicamente dos o más mucosas) con lesiones cutáneas mínimas o vesiculopustulosas escasas, teniendo un pronóstico general excelente y baja mortalidad comparado con el SSJ.",
+        "isCorrect": true,
+        "explanation": "El MIRM (Erupción Mucocutánea Inducida por Mycoplasma, por sus siglas en inglés) es una entidad inmunomediada distinta del eritema multiforme clásico y del Síndrome de Stevens-Johnson / Necrólisis Epidérmica Tóxica (SSJ/NET). Se observa en niños y adultos jóvenes con infección respiratoria por M. pneumoniae. Su sello distintivo es el compromiso mucoso severo (típicamente oral, conjuntival y urogenital) con lesiones cutáneas escasas, discretas, de morfología variable. El pronóstico es marcadamente favorable, autolimitado y requiere principalmente manejo sintomático y soporte (hidratación, analgésicos locales y cuidado de mucosas), con una tasa de mortalidad extremadamente baja en comparación con el SSJ/NET que es secundario a fármacos."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 5 meses asiste a sala cuna. Su madre refiere que la educadora técnica fue confirmada con Coqueluche. El lactante se encuentra asintomático, tiene antecedentes de prematurez de 34 semanas y cuenta con sus dosis de vacuna Hexavalente al día (recibió dosis a los 2 y 4 meses). ¿Cuál es la conducta más adecuada a seguir con este paciente?",
+    "hint": "Las vacunas reducen la gravedad de la enfermedad clínica y previenen la muerte por tos convulsiva, pero la inmunidad celular y de anticuerpos no es suficiente para evitar que el paciente sea portador asintomático y pueda contagiar a otros niños vulnerables.",
+    "options": [
+      {
+        "text": "Indicar profilaxis post-exposición inmediata con Azitromicina oral por 5 días, independiente de su estado de vacunación al día.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con la norma epidemiológica del MINSAL de Chile, los contactos estrechos de un caso confirmado de coqueluche que pertenecen a grupos de alto riesgo (como lactantes menores de 1 año, asmáticos o inmunocomprometidos) deben recibir profilaxis farmacológica post-exposición de forma inmediata con Azitromicina oral (10 mg/kg/día por 5 días) o Claritromicina por 7 días, sin importar si tienen su calendario de vacunas completo o al día. Esto evita la colonización de la vía aérea alta y protege al lactante de desarrollar la enfermedad activa."
+      },
+      {
+        "text": "Solicitar PCR de secreción nasofaringea y diferir el inicio de tratamiento hasta obtener el resultado confirmatorio.",
+        "isCorrect": false,
+        "explanation": "No se indica tomar PCR nasofaringea de forma rutinaria en contactos estrechos asintomáticos; la toma de muestras se reserva para pacientes sintomáticos con sospecha clínica y no se debe retrasar la quimioprofilaxis esperando resultados."
+      },
+      {
+        "text": "Indicar una dosis de vacuna Hexavalente de rescate de forma inmediata para elevar títulos anticuerpos de forma rápida.",
+        "isCorrect": false,
+        "explanation": "Adelantar las dosis de vacuna Hexavalente fuera del rango cronológico establecido no genera títulos inmunes inmediatos útiles en un escenario de exposición activa ya establecido."
+      },
+      {
+        "text": "No realizar intervenciones activas, ya que el esquema de vacunación al día garantiza protección absoluta contra la colonización bacteriana.",
+        "isCorrect": false,
+        "explanation": "Ninguna vacuna acelular confiere una inmunidad esterilizante absoluta contra la colonización por B. pertussis, por lo que los lactantes vacunados pueden adquirir y transmitir la bacteria de forma asintomática."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 6 semanas de vida, nacido de un parto vaginal domiciliario no planificado, asiste a su primer control médico. Al examen destaca afebril, eupneico en reposo con FR 48 rpm, sin aleteo nasal ni retracciones, pero presenta accesos frecuentes de tos seca en rachas cortas (\"staccato\"). En el hemograma destaca eosinofilia periférica de 1.200/μL. ¿Cuál de los siguientes antecedentes de la anamnesis materna y neonatal apoya fuertemente la sospecha diagnóstica de neumonía por Chlamydia trachomatis?",
+    "hint": "Este patógeno intracelular obligado infecta de forma secuencial las mucosas del recién nacido durante su paso por el canal vaginal, debutando típicamente en los ojos antes de migrar al tracto respiratorio inferior.",
+    "options": [
+      {
+        "text": "Consumo materno de mariscos crudos durante el tercer trimestre de embarazo.",
+        "isCorrect": false,
+        "explanation": "El consumo de mariscos crudos en Chile se asocia a infecciones enterales bacterianas o virales (como Norovirus o Vibrio parahaemolyticus), o bien listeriosis sistémica, pero no a neumonía del lactante por Chlamydia."
+      },
+      {
+        "text": "Antecedentes de exantema vesicular materno periparto compatible con Varicela.",
+        "isCorrect": false,
+        "explanation": "La varicela materna periparto es de extrema gravedad y produce varicela neonatal con lesiones vesiculosas cutáneas generalizadas y neumonitis viral severa, con fiebre y gran compromiso sistémico, alejándose de este cuadro afebril subagudo con eosinofilia."
+      },
+      {
+        "text": "Presencia de secreción ocular purulenta bilateral en el recién nacido entre la primera y segunda semana de vida.",
+        "isCorrect": true,
+        "explanation": "La neumonía afebril del lactante por Chlamydia trachomatis se asocia clásicamente al antecedente de conjuntivitis de inclusión del recién nacido en el 50% de los casos confirmados. La conjuntivitis neonatal por C. trachomatis se presenta típicamente entre el 5° y 14° día de vida (a diferencia de la gonocócica que es hiperaguda y se presenta en los primeros 2-5 días). El patógeno ingresa por el conducto nasolacrimal hacia la faringe e impacta por microaspiración silenciosa en el árbol bronquial, manifestándose como neumonitis semanas después."
+      },
+      {
+        "text": "Vacunación incompleta de la madre contra virus de Influenza estacional.",
+        "isCorrect": false,
+        "explanation": "La falta de vacunación contra influenza expone al lactante a adquirir gripe neonatal de curso agudo y febril con alto riesgo de insuficiencia respiratoria severa, sin las características clínicas atípicas de Chlamydia."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 2 meses ingresa a la UCI Pediátrica con diagnóstico de Coqueluche Maligno. Al ingreso: FR 78 rpm, FC 205 lpm, Sat 82% con FiO<sub>2</sub> al 60%, hemograma con leucocitos de 92.000/μL con linfocitosis absoluta de 75.000/μL. Se constata ecocardiográficamente una presión sistólica de arteria pulmonar de 65 mmHg (hipertensión pulmonar severa). De acuerdo con la fisiopatología y consensos de manejo intensivo, ¿cuál es la terapia intervencional prioritaria para reducir mecánicamente la masa de glóbulos blancos y disminuir la resistencia vascular pulmonar en este paciente?",
+    "hint": "En la coqueluche maligna, la viscosidad de la sangre debido a la inmensa cantidad de leucocitos maduros circulantes bloquea de forma mecánica la vasculatura pulmonar. La terapia debe dirigirse a remover de forma física y rápida estas células de la circulación del lactante.",
+    "options": [
+      {
+        "text": "Administración urgente de dosis masivas de corticoides endovenosos (Metilprednisolona).",
+        "isCorrect": false,
+        "explanation": "Los corticoides se han utilizado de forma empírica para reducir el componente inflamatorio y el edema bronquial, pero no tienen efecto rápido sobre la masa leucocitaria circulante y no resuelven la oclusión mecánica microvascular pulmonar que genera la HTP severa."
+      },
+      {
+        "text": "Exanguinotransfusión de doble volumen o leucaféresis en circuito extracorpóreo.",
+        "isCorrect": true,
+        "explanation": "El pilar del tratamiento fisiopatológico de rescate en el Coqueluche Maligno con hiperleucocitosis extrema (> 50.000-100.000/μL) e hipertensión pulmonar es la remoción física de los leucocitos mediante exanguinotransfusión de doble volumen o leucaféresis. Esto reduce rápidamente la carga total de glóbulos blancos, disminuye la viscosidad sanguínea intrapulmonar, alivia la obstrucción mecánica del lecho vascular pulmonar y mejora de forma significativa la función cardíaca derecha y la oxigenación general."
+      },
+      {
+        "text": "Inicio inmediato de quimioterapia citorreductora con Hidroxiurea oral.",
+        "isCorrect": false,
+        "explanation": "La hidroxiurea se utiliza en crisis de anemia falciforme o síndromes mieloproliferativos crónicos, careciendo de indicación o utilidad terapéutica rápida en la infección agudizada por Bordetella pertussis."
+      },
+      {
+        "text": "Nebulizaciones continuas con óxido nítrico inhalado sin otras intervenciones sistémicas.",
+        "isCorrect": false,
+        "explanation": "El óxido nítrico inhalado es un vasodilatador pulmonar potente útil como coadyuvante, pero si se administra de forma aislada sin resolver la causa mecánica obstructiva subyacente (hiperleucocitosis), la resistencia vascular pulmonar se mantiene elevada y la mortalidad sigue siendo prohibitivamente alta."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Un preescolar de 5 años presenta fiebre baja de 38,1°C de 4 días de evolución, dolor de oídos, cefalea y odinofagia leve. Posteriormente, se agrega tos de tipo irritativo, no productiva, persistente y molesta que interfiere con su descanso nocturno. Al examen físico se aprecia activo, con faringe levemente eritematosa sin exudado, otoscopia con miringitis bullosa bilateral y auscultación pulmonar normal. La radiografía de tórax revela infiltrado intersticial basal derecho de aspecto reticulonodular difuso. ¿Qué microorganismo es el agente causal clásico de la miringitis bullosa asociada a neumonía atípica?",
+    "hint": "Este patógeno atípico tiene una gran afinidad por las mucosas respiratorias y del oído medio, pudiendo generar inflamación ampollosa hemorrágica dolorosa en la membrana tímpanica.",
+    "options": [
+      {
+        "text": "Streptococcus pneumoniae",
+        "isCorrect": false,
+        "explanation": "S. pneumoniae es el principal causante de otitis media aguda supurativa clásica con tímpano abombado, hiperémico y opaco, pero no se describe clásicamente como causante del síndrome atípico con disociación y miringitis bullosa en el contexto clínico sistémico descrito."
+      },
+      {
+        "text": "Haemophilus influenzae no tipificable",
+        "isCorrect": false,
+        "explanation": "H. influenzae no tipificable es un patógeno otógeno frecuente, pero se asocia a OMA purulenta común y no a las manifestaciones extrapulmonares del espectro atípico de Mycoplasma."
+      },
+      {
+        "text": "Moraxella catarralis",
+        "isCorrect": false,
+        "explanation": "Moraxella catarrhalis causa otitis y sinusitis aguda en lactantes, pero no tiene relación con miringitis bullosa hemorrágica ni con neumonía atípica reticulonodular difusa en escolares."
+      },
+      {
+        "text": "Mycoplasma pneumoniae",
+        "isCorrect": true,
+        "explanation": "La miringitis bullosa o vesicular es una forma infrecuente pero clásica de inflamación del tímpano caracterizada por la presencia de ampollas o vesículas hemorrágicas dolorosas en la membrana timpánica. Aunque clásicamente se asoció de forma exclusiva a Mycoplasma pneumoniae, estudios microbiológicos modernos demuestran que también es producida por virus respiratorios y bacterias típicas (S. pneumoniae). Sin embargo, en el contexto clínico de un preescolar con neumonía atípica, disociación clínico-radiológica y síntomas extrapulmonares, la asociación apunta directamente a Mycoplasma pneumoniae."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 4 meses ingresa hospitalizado en la Unidad de Pediatría del Hospital Tisné por sospecha de Coqueluche clínicamente activa. Al ingreso se indica aislamiento hospitalario por sospecha epidemiológica. ¿Cuál es la medida de aislamiento indicada y durante cuánto tiempo se debe mantener tras el inicio de una terapia antibiótica eficaz?",
+    "hint": "Bordetella pertussis se transmite a través de gotas grandes de moco nasofaringeo que viajan distancias cortas (menos de 1 metro) generadas al toser o estornudar. La erradicación bacteriana de la nasofaringe se logra rápidamente con macrólidos.",
+    "options": [
+      {
+        "text": "Aislamiento de gotitas, debiendo mantenerse hasta completar 5 días de tratamiento antimicrobiano efectivo (Azitromicina).",
+        "isCorrect": true,
+        "explanation": "De acuerdo con las guías de control de infecciones asociadas a la atención de salud (IAAS) del MINSAL de Chile, los pacientes con tos convulsiva confirmada o sospechosa requieren medidas de precaución de transmisión por gotitas (uso de mascarilla quirúrgica por parte del personal a menos de 1 metro del paciente, habitación individual o cohorte). El aislamiento debe mantenerse de forma estricta hasta que el paciente haya completado 5 días de tratamiento con Azitromicina, período tras el cual la carga bacteriana nasofaríngea se considera no infectante. Si no recibe tratamiento adecuado, el aislamiento debe mantenerse por 21 días desde el inicio de los paroxismos de tos."
+      },
+      {
+        "text": "Aislamiento por contacto estricto, debiendo mantenerse durante toda la hospitalización.",
+        "isCorrect": false,
+        "explanation": "El aislamiento por contacto está dirigido a patógenos como virus entéricos, bacterias multirresistentes o virus respiratorios de gran persistencia en fómites (como el VRS), pero no es la precaución primaria para una bacteria de transmisión aérea por gotas gruesas como B. pertussis."
+      },
+      {
+        "text": "Aislamiento aéreo de presión negativa, debiendo mantenerse por 14 días.",
+        "isCorrect": false,
+        "explanation": "El aislamiento aéreo (con mascarilla N95/FFP2 y presión negativa) se utiliza para patógenos que viajan en núcleos de gotitas muy pequeños de larga suspensión aérea, como Tuberculosis, Sarampión o Varicela, pero no es mandatorio para la tos convulsiva."
+      },
+      {
+        "text": "Aislamiento protector, debiendo mantenerse hasta que los leucocitos disminuyan a menos de 15.000/μL.",
+        "isCorrect": false,
+        "explanation": "El aislamiento protector está reservado para inmunocomprometidos severos (neutropenia febril, trasplantados) y la indicación de fin de aislamiento no se rige por el recuento neto de leucocitos reactivos del hemograma del lactante."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "En un consultorio de APS de la Región de O'Higgins, usted evalúa a un lactante de 2 meses que presenta tos seca persistente y dificultad respiratoria leve de evolución subaguda. Plantea como diagnósticos diferenciales la neumonía por Chlamydia trachomatis frente a un cuadro de origen viral o bacteriano típico. ¿Cuál de los siguientes hallazgos clínicos o de laboratorio aleja la sospecha de Neumonía por Chlamydia?",
+    "hint": "El sello semiológico clásico del cuadro de infección pulmonar por Chlamydia es su evolución lenta e insidiosa, con una característica sistémica de la que el paciente típicamente carece a diferencia de otras infecciones bacterianas invasivas.",
+    "options": [
+      {
+        "text": "Hemograma que evidencia eosinofilia de 600/μL.",
+        "isCorrect": false,
+        "explanation": "La eosinofilia periférica (≥ 400/μL) es un hallazgo de laboratorio altamente característico de la neumonía por Chlamydia, presentándose en más del 70% de los casos, por lo que su presencia apoya el diagnóstico."
+      },
+      {
+        "text": "Presencia de infiltrados intersticiales bilaterales difusos en la radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "Los infiltrados intersticiales bilaterales difusos e hiperinsuflación pulmonar en la radiografía de tórax son los hallazgos típicos descritos en este cuadro, reflejando el compromiso inflamatorio alveolar e intersticial."
+      },
+      {
+        "text": "Fiebre alta sostenida de 39,5°C asociada a gran compromiso del estado general y aspecto tóxico.",
+        "isCorrect": true,
+        "explanation": "La neumonía por Chlamydia trachomatis se clasifica dentro del síndrome de \"neumonía afebril del lactante\". La presencia de fiebre alta sostenida (39,5°C), inestabilidad hemodinámica y aspecto tóxico o séptico es incompatible con el cuadro típico de Chlamydia y descarta esta sospecha clínica de forma casi absoluta. Este perfil de gravedad orienta a una neumonía bacteriana típica (por ejemplo, Streptococcus pneumoniae, Staphylococcus aureus o Streptococcus agalactiae) o una sepsis de foco pulmonar."
+      },
+      {
+        "text": "Auscultación pulmonar caracterizada por estertores crepitantes bilaterales finos y taquipnea.",
+        "isCorrect": false,
+        "explanation": "Las crepitaciones bilaterales simétricas de tipo fino (\"velcro-like\") y la polipnea moderada sin gran tiraje son la signología clásica descrita en el examen segmentario de tórax de estos pacientes."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Usted evalúa en la urgencia a un lactante de 3 semanas de vida que presenta paroxismos de tos seca muy intensos, cianosis perioral y bradicardia refleja de hasta 75 lpm durante los episodios de alimentación. El hemograma reporta leucocitos de 28.000/μL con 70% de linfocitos. ¿Cuál es la conducta inicial prioritaria recomendada por las normativas de salud infantil?",
+    "hint": "En menores de 1 mes, la coqueluche tiene un curso clínico sumamente inestable e impredecible, existiendo un alto riesgo de apnea fatal súbita o desarrollo brusco de hipertensión pulmonar severa irreversible.",
+    "options": [
+      {
+        "text": "Iniciar Azitromicina oral de forma ambulatoria y citar a control clínico prioritario en 24 horas en el CESFAM.",
+        "isCorrect": false,
+        "explanation": "El manejo ambulatorio está absolutamente contraindicado en este paciente por su corta edad (< 3 meses) y la presencia de alarmantes signos de gravedad como la bradicardia severa y la cianosis activa."
+      },
+      {
+        "text": "Hospitalizar inmediatamente en una Unidad de Cuidados Críticos Pediátricos para monitorización cardiorrespiratoria continua y asegurar soporte ventilatorio si lo requiere.",
+        "isCorrect": true,
+        "explanation": "Todo lactante menor de 3 meses (y con mayor énfasis neonatos o menores de 6 semanas) con sospecha o confirmación de coqueluche/síndrome coqueluchoídeo que presente eventos de cianosis, apneas o compromiso hemodinámico (como bradicardia refleja profunda) tiene criterio absoluto de ingreso inmediato a una Unidad de Paciente Crítico Pediátrico (UCI/UTI). Estos pacientes requieren monitorización cardiorrespiratoria no invasiva continua y acceso a soporte ventilatorio inmediato, dada la alta propensión al colapso cardiopulmonar e insuficiencia respiratoria severa."
+      },
+      {
+        "text": "Indicar nebulización con adrenalina racémica de rescate y prednisona oral por 3 días.",
+        "isCorrect": false,
+        "explanation": "La adrenalina racémica y los corticoides no forman parte del esquema terapéutico de elección en la coqueluche y su administración puede retrasar la hospitalización y el soporte vital prioritario."
+      },
+      {
+        "text": "Solicitar PCR para Bordetella pertussis y esperar el resultado en su domicilio bajo la vigilancia de sus padres.",
+        "isCorrect": false,
+        "explanation": "La confirmación etiológica por PCR es importante, pero jamás debe condicionar la conducta clínica activa ni retrasar la monitorización continua intrahospitalaria de un paciente crítico."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Respecto de la epidemiología y patogenia de la neumonía atípica por Mycoplasma pneumoniae, ¿cuál es el mecanismo de transmisión más importante de esta bacteria en la población pediátrica y cómo influye en su distribución en la comunidad?",
+    "hint": "La bacteria requiere una proximidad estrecha y persistente para colonizar el epitelio respiratorio del huésped debido a que carece de pared celular y es sensible a la desecación ambiental, siendo clásica la aparición de brotes intrafamiliares o en internados escolares.",
+    "options": [
+      {
+        "text": "Ingesta de agua contaminada con reservorios ambientales de amebas libres.",
+        "isCorrect": false,
+        "explanation": "Este es el mecanismo de transmisión clásico de Legionella pneumophila, patógeno atípico que coloniza sistemas de aire acondicionado y torres de refrigeración de agua, pero no es aplicable a la epidemiología de Mycoplasma."
+      },
+      {
+        "text": "Inoculación directa conjuntival por microfómites secos de superficies de juego.",
+        "isCorrect": false,
+        "explanation": "La inoculación por microfómites conjuntivales secos es un vector común para virus como Adenovirus o enterovirus, pero la fragilidad estructural de Mycoplasma limita de gran forma su transmisión por superficies inertes secas."
+      },
+      {
+        "text": "Transmisión fecal-oral a través de alimentos preparados por portadores crónicos.",
+        "isCorrect": false,
+        "explanation": "La transmisión fecal-oral es clásica de patógenos digestivos (como Enterovirus, Salmonella o virus de Hepatitis A), careciendo de rol fisiopatológico en la patogenia respiratoria de las neumonías atípicas."
+      },
+      {
+        "text": "Inhalación de gotitas respiratorias gruesas (Flügge) aerosolizadas de persona a persona, favorecido por contactos estrechos y prolongados.",
+        "isCorrect": true,
+        "explanation": "La transmisión de Mycoplasma pneumoniae ocurre exclusivamente por vía aérea de persona a persona a través de gotas grandes de secreciones respiratorias emitidas al toser, estornudar o hablar. Debido a que la bacteria carece de pared celular, es frágil y sobrevive muy poco tiempo en el medio ambiente externo. Por lo tanto, requiere contacto cercano, íntimo y prolongado, teniendo un periodo de incubación largo (de 1 a 3 semanas), lo que explica la propagación lenta pero sostenida de brotes epidémicos característicos en núcleos familiares, escuelas, internados o personal de salud."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 8 meses con diagnóstico confirmado de Coqueluche evoluciona al décimo día de hospitalización con fiebre alta de hasta 39,2°C de inicio brusco, polipnea marcada con aleteo nasal y aumento de los requerimientos de oxígeno de un flujo de 0,5 L/min a una máscara de alta concentración. Al examen destaca asimetría en la auscultación pulmonar con abolición del murmullo pulmonar y crepitaciones en base derecha. ¿Cuál es la complicación intrahospitalaria que explica el cambio clínico del paciente?",
+    "hint": "El paroxismo de la tos convulsiva por sí mismo no explica la aparición brusca de fiebre muy alta con compromiso del estado general y un foco auscultatorio asimétrico nuevo tras días de estabilidad relativa en un paciente hospitalizado.",
+    "options": [
+      {
+        "text": "Sobreinfección bacteriana secundaria (Neumonía bacteriana típica por S. pneumoniae o S. aureus).",
+        "isCorrect": true,
+        "explanation": "La complicación grave más frecuente del coqueluche es la sobreinfección bacteriana secundaria (bronconeumonía bacteriana mixta), que ocurre en el 5-10% de los lactantes hospitalizados. Los agentes más implicados son el Streptococcus pneumoniae, Staphylococcus aureus o Haemophilus influenzae. El daño al aparato mucociliar producido por las toxinas de Bordetella deja la mucosa respiratoria denudada, perdiendo la principal barrera mecánica de defensa y facilitando la adherencia, invasión y proliferación de bacterias oportunistas del tracto respiratorio superior, lo que se manifiesta clínicamente por fiebre alta y aparición de un síndrome de condensación."
+      },
+      {
+        "text": "Evolución natural esperada del daño ciliar de la toxina pertussis.",
+        "isCorrect": false,
+        "explanation": "La progresión de la parálisis ciliar se asocia a un aumento en el número y severidad de los accesos de tos (tos paroxística), pero no produce de manera típica fiebre alta de inicio brusco ni asimetrías auscultatorias densas con foco infeccioso nuevo."
+      },
+      {
+        "text": "Neumotórax a tensión por barotrauma secundario a accesos de tos violenta.",
+        "isCorrect": false,
+        "explanation": "Un neumotórax a tensión produce descompensación respiratoria e hipotensión aguda de forma brusca con desviación traqueal e hiperresonancia a la percusión homolateral, no un cuadro infeccioso febril clásico con crepitaciones densas localizadas."
+      },
+      {
+        "text": "Miocarditis viral por Adenovirus en coinfección nosocomial.",
+        "isCorrect": false,
+        "explanation": "La miocarditis viral es una complicación sistémica que se presentaría con signos clínicos de insuficiencia cardíaca congestiva (hepatomegalia, galope, mala perfusión periférica, shock), descartándose ante este foco de condensación asimétrico febril típico."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "En un CESFAM de la Región Metropolitana, se implementa una campaña de prevención del Síndrome Coqueluchoídeo. En la planificación del programa, se destaca la importancia de la \"Estrategia Capullo\" (cocooning). ¿En qué consiste esta intervención preventiva de salud pública y cuál es su población objetivo prioritaria?",
+    "hint": "Consiste en rodear al lactante altamente vulnerable (quien aún no tiene una respuesta inmune activa por vacunas propias) de personas inmunizadas que no puedan transmitirle la infección activa en el hogar.",
+    "options": [
+      {
+        "text": "Vacunar con dTpa de forma exclusiva a todos los escolares que ingresan a primer año de educación básica.",
+        "isCorrect": false,
+        "explanation": "La vacunación en primer año básico es una estrategia del PNI escolar obligatoria, pero su objetivo es el refuerzo individual del escolar y no representa la definición conceptual de la Estrategia Capullo de protección del lactante menor en el hogar."
+      },
+      {
+        "text": "Administrar quimioprofilaxis antibiótica a todos los neonatos nacidos en meses invernales de alta circulación viral.",
+        "isCorrect": false,
+        "explanation": "No existe indicación médica ni beneficio epidemiológico en administrar profilaxis antimicrobiana ciega masiva de forma continua a recién nacidos sanos de forma comunitaria."
+      },
+      {
+        "text": "Vacunar con dpaT acelular a los contactos estrechos de recién nacidos y lactantes menores de 6 meses (padres, cuidadores, abuelos) para crear un entorno protector inmune a su alrededor.",
+        "isCorrect": true,
+        "explanation": "La \"Estrategia Capullo\" es una medida de inmunización pasiva indirecta muy eficaz. Consiste en vacunar con dpaT acelular (que cubre tos convulsiva) a los miembros del entorno familiar cercano y cuidadores del recién nacido o lactante menor de 6 meses (padres, abuelos, hermanos, nanas o personal de neonatología/pediatría) idealmente al menos 2 semanas antes del nacimiento. Al inmunizar a las personas con quienes el lactante tendrá mayor contacto estrecho en el hogar, se reduce la probabilidad de que actúen como vectores de transmisión, creando un \"capullo\" inmune protector alrededor del lactante."
+      },
+      {
+        "text": "Suministrar anticuerpos monoclonales endovenosos específicos contra la toxina pertussis de forma universal a todos los lactantes sanos a los 2 meses.",
+        "isCorrect": false,
+        "explanation": "No existen anticuerpos monoclonales universales contra tos convulsiva aprobados ni en uso como inmunoprofilaxis pasiva en el lactante como sí ocurre en la campaña universal de Nirsevimab para virus respiratorio sincicial (VRS)."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Lactante de 10 meses con esquema de vacunación al día es traído por tos seca prolongada, \"en accesos entrecortados\" (tos en staccato), sibilancias recurrentes bilaterales refractarias a Salbutamol inhalado y conjuntivitis folicular crónica unilateral. En el hemograma destaca eosinofilia periférica persistente de 850/μL. ¿Cuál de los siguientes agentes patógenos representa la etiología confirmada de este cuadro atípico afebril de curso prolongado?",
+    "hint": "Es una bacteria de comportamiento intracelular obligado cuyo nicho primario de colonización es el tracto urogenital materno, cursando con una tos espaciada característica de staccato y con presencia habitual de eosinofilia periférica.",
+    "options": [
+      {
+        "text": "Mycoplasma pneumoniae",
+        "isCorrect": false,
+        "explanation": "Mycoplasma pneumoniae se asocia a neumonía atípica en niños mayores, habitualmente mayores de 5 años, con un cuadro clínico caracterizado por fiebre persistente, cefalea y mialgias previas, sin eosinofilia periférica en el hemograma."
+      },
+      {
+        "text": "Bordetella bronchiseptica",
+        "isCorrect": false,
+        "explanation": "B. bronchiseptica es un patógeno oportunista zoonótico que causa infecciones respiratorias en pacientes con contacto estrecho con animales domésticos enfermos, sin relación con conjuntivitis folicular crónica del lactante."
+      },
+      {
+        "text": "Chlamydia trachomatis",
+        "isCorrect": true,
+        "explanation": "El cuadro clínico descrito (tos en staccato, afebril, conjuntivitis crónica y eosinofilia) constituye la presentación clínica clásica de la neumonía afebril del lactante por Chlamydia trachomatis. Es una infección de curso subagudo y prolongado que típicamente no responde a la terapia broncodilatadora con Salbutamol (lo que genera un falso diagnóstico de síndrome bronquial obstructivo recurrente o SBOR inicial). Requiere confirmación por PCR y tratamiento antibacteriano dirigido con Azitromicina."
+      },
+      {
+        "text": "Legionella pneumophila",
+        "isCorrect": false,
+        "explanation": "Legionella pneumophila es extremadamente rara en la edad pediátrica, típica de adultos inmunocomprometidos y expuestos a sistemas hídricos contaminados, manifestándose como neumonía severa febril con hiponatremia."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Neumonía Atípica y Síndrome Coqueluchoídeo",
+    "text": "Un interno de medicina evalúa los criterios diagnósticos para Coqueluche según las definiciones de vigilancia epidemiológica de la red de salud pública chilena (MINSAL 2026). ¿Cuál de las siguientes definiciones operacionales de caso clínico altamente sospechoso de coqueluche en un paciente menor de 1 año es correcta de acuerdo a la normativa de vigilancia nacional?",
+    "hint": "La definición de vigilancia epidemiológica de la tos convulsiva infantil está diseñada para ser altamente sensible en menores de 1 año con el fin de activar de manera rápida el aislamiento, confirmación etiológica y bloqueo epidemiológico de contactos.",
+    "options": [
+      {
+        "text": "Fiebre mayor a 38,5°C por 3 días asociada a odinofagia y adenopatías cervicales dolorosas mayores de 2 cm.",
+        "isCorrect": false,
+        "explanation": "La tos convulsiva clásica es típicamente afebril o cursa con febrícula leve inicial. La descripción de fiebre alta sostenida y adenopatías dolorosas orienta a faringoamigdalitis estreptocócica bacteriana o mononucleosis infecciosa."
+      },
+      {
+        "text": "Tos brusca asociada a estridor inspiratorio que resuelve completamente tras la administración de una dosis de adrenalina nebulizada.",
+        "isCorrect": false,
+        "explanation": "El estridor que responde de forma rápida a la adrenalina nebulizada es el sello clínico del Croup viral (laringitis aguda obstructiva) y no de los paroxismos de tos convulsiva de origen bronquial que carecen de respuesta rápida a la adrenalina."
+      },
+      {
+        "text": "Tos seca de instauración lenta de más de 30 días de evolución acompañada de baja de peso y sudoración nocturna.",
+        "isCorrect": false,
+        "explanation": "Este perfil de tos crónica prolongada de semanas asociada a compromiso ponderal marcado y sudoración nocturna es altamente sugerente de Tuberculosis pulmonar activa, alejándose de las características típicas del espectro clínico del síndrome coqueluchoídeo."
+      },
+      {
+        "text": "Todo menor de un año que presente infección respiratoria aguda con al menos uno de los siguientes síntomas: tos accesional, tos quintosa, estridor inspiratorio (\"gallito\"), vómitos post-tussivos, apnea o cianosis, sin otra causa evidente.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con la circular de vigilancia de Tos Convulsiva del MINSAL, la sospecha clínica de coqueluche en lactantes menores de 1 año debe activarse de inmediato ante todo paciente con un cuadro de infección respiratoria aguda con presencia de tos que se acompaña de al menos uno de los síntomas paroxísticos clásicos (tos accesional o quintosa, estridor inspiratorio o gallito, vómitos después de toser, episodios de apnea o cianosis). Esto obliga a notificar el caso, tomar muestra de PCR nasofaringea, iniciar tratamiento antibiótico de primera línea con Azitromicina y realizar el estudio y bloqueo preventivo de contactos estrechos de forma de manera oportuna."
+      }
+    ]
+  }
+]
