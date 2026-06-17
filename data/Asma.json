@@ -898,5 +898,905 @@
         "explanation": "No causa sordera ni ceguera iatrogénica sistémica; los efectos adversos de mayor significancia clínica están acotados al perfil conductual y neuropsiquiátrico descrito en la opción C."
       }
     ]
+  },
+  {
+    "id": 31,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un lactante de 3 meses, sin antecedentes mórbidos, ingresa a la sala IRA por presentar de forma gradual un cuadro de coriza de dos días que progresa con tos, taquipnea de 52 rpm y sibilancias bilaterales difusas. La madre refiere que es la primera vez en su vida que el niño presenta sibilancias. Se encuentra afebril y satura 94% al aire ambiente. Según los consensos nacionales de Chile (Programa IRA) y la Academia Americana de Pediatría (AAP), ¿cuál es el diagnóstico correcto de este primer episodio de obstrucción bronquial en el lactante y qué conducta inicial está indicada?",
+    "hint": "En pediatría, el término \"bronquiolitis\" se reserva exclusivamente para el primer evento sibilante de causa típicamente viral (VRS) en el lactante. Diversos metaanálisis de gran volumen han demostrado de forma sistemática que el uso de broncodilatadores beta-2 o corticoides no acorta la estancia hospitalaria ni mejora la saturación en este primer episodio típico.",
+    "options": [
+      {
+        "text": "Síndrome Bronquial Obstructivo Recurrente (SBOR); se debe iniciar de inmediato tratamiento de mantención con Fluticasona.",
+        "isCorrect": false,
+        "explanation": "El SBOR exige la ocurrencia de ≥ 3 episodios de obstrucción bronquial documentados en el lactante; clasificar como recurrente a un niño en su primer evento de bronquiolitis es un error de nomenclatura."
+      },
+      {
+        "text": "Neumonía condensativa por Mycoplasma; requiere amoxicilina a dosis de 90 mg/kg/día por 7 días de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "El lactante presenta sibilancias bilaterales difusas típicas de compromiso obstructivo viral, no una consolidación lobar bacteriana condensativa, por lo que la amoxicilina está contraindicada por no aportar beneficios y alterar la microbiota intestinal."
+      },
+      {
+        "text": "Bronquiolitis Aguda (definida por el primer episodio de obstrucción bronquial aguda viral en menores de 2 años); el tratamiento de primera línea se basa en medidas de soporte general (aseo nasal con suero fisiológico, fraccionamiento de la alimentación, posición semiincorporada y monitorización de signos de alarma), no recomendándose el uso de Salbutamol ni corticoides de rutina.",
+        "isCorrect": true,
+        "explanation": "El primer episodio de sibilancias obstructivas agudas en un menor de 2 años se clasifica formalmente como Bronquiolitis Aguda. Tanto las guías ministeriales de Chile como las recomendaciones de la AAP y NICE establecen que el manejo de la bronquiolitis típica es eminentemente de soporte: hidratación, alimentación fraccionada, aseo nasal prolijo (para disminuir la resistencia de la vía aérea alta obligatoria del lactante) y oxigenoterapia si satura <90-92%. El Salbutamol y los corticoides no se indican de rutina por falta de eficacia demostrada in vivo."
+      },
+      {
+        "text": "Asma bronquial de inicio precoz; se debe hospitalizar en la UCIP para realizar una prueba de broncodilatador de alta presión de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico de asma no se establece en el primer episodio de sibilancias a los 3 meses de vida, y la hospitalización en la UCIP no se justifica ante un lactante estable que satura 94% con buen esfuerzo respiratorio."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Usted evalúa en la urgencia a un escolar de 9 años que ingresa cursando con una crisis asmática moderada (Score pulmonar de 6 puntos). Durante la anamnesis dirigida para evaluar la gravedad del paciente y el riesgo de una evolución fatal o refractaria, ¿cuál de los siguientes antecedentes del paciente constituye el factor de riesgo de muerte por asma más potente que obliga a una hospitalización o monitorización extremadamente prolija?",
+    "hint": "La gravedad futura y la susceptibilidad al colapso respiratorio por asma están fuertemente predichas por la historia de inestabilidad de la vía aérea del propio paciente. Si su vía aérea ya se cerró de forma completa en el pasado requiriendo soporte artificial mecánico, el riesgo de repetir este patrón es extremadamente elevado.",
+    "options": [
+      {
+        "text": "Historia de crisis asmáticas graves que hayan requerido intubación endotraqueal y ventilación mecánica invasiva, o ingresos previos a la Unidad de Cuidados Intensivos Pediátricos (UCIP), o el sobreuso de Beta-2 agonistas de acción corta (SABA) de más de un inhalador al mes.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a las pautas GINA y GEMA, los factores de riesgo de asma fatal o crisis de altísimo riesgo vital son: antecedentes de intubación/ventilación mecánica previa por asma, hospitalizaciones por asma en el último año, sobreuso de SABA (indica que el paciente rescata de forma descontrolada los síntomas sin controlar la inflamación de base), mala adherencia a corticoides de mantención, y problemas psicosociales o psiquiátricos severos en la familia."
+      },
+      {
+        "text": "Presentar un historial de dermatitis seborreica del lactante resuelta antes del año de vida.",
+        "isCorrect": false,
+        "explanation": "La dermatitis seborreica del lactante es una patología dermatológica benigna transitoria de los primeros meses de vida que no forma parte de los factores de riesgo de asma fatal o atopia grave en el escolar."
+      },
+      {
+        "text": "Haber presentado un episodio de asma inducido por ejercicio leve hace dos años que cedió con reposo.",
+        "isCorrect": false,
+        "explanation": "El BIE leve aislado que cede con reposo es un síntoma de asma de esfuerzo común que no predice de forma independiente un riesgo de mortalidad o colapso respiratorio fatal."
+      },
+      {
+        "text": "Convivir con una mascota canina en el hogar que se encuentra debidamente vacunada y sana.",
+        "isCorrect": false,
+        "explanation": "Convivir con mascotas puede ser un gatillante alérgico si el niño está sensibilizado, pero no constituye el factor predictivo independiente de mayor peso para asma fatal en comparación con la historia de intubación previa o sobreuso de SABA."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un preescolar de 3 años es traído por su madre de urgencia tras haber ingerido accidentalmente una cantidad indeterminada de querosene (hidrocarburo) almacenado en una botella de refresco en el patio de su casa. Inmediatamente después de la ingesta, el menor presentó tos asfixiante violenta, vómitos repetidos, y en la urgencia debuta de forma rápida con dificultad respiratoria severa, sibilancias espiratorias bilaterales difusas y cianosis peribucal. ¿Cuál es el fenómeno fisiopatológico primario que explica este broncoespasmo severo y la insuficiencia respiratoria aguda?",
+    "hint": "Los hidrocarburos (querosene, parafina, gasolina, diluyentes) tienen una consistencia extremadamente \"líquida\" y volátil (baja viscosidad y baja tensión superficial). Al tragarse, es casi inevitable que se desvíen o aspiren pequeñas gotas hacia la laringe y los bronquios, donde barren la capa lipídica que mantiene abiertos los alveolos.",
+    "options": [
+      {
+        "text": "Destrucción lítica del centro respiratorio central hipofisario por la acidez del querosene.",
+        "isCorrect": false,
+        "explanation": "La toxicidad no se debe a la lisis física directa del centro respiratorio central hipofisario; la insuficiencia respiratoria es de causa parenquimatosa periférica mecánica y química por colapso alveolar."
+      },
+      {
+        "text": "Sepsis bacteriana fulminante por translocación intestinal de la bacteria Helicobacter pylori.",
+        "isCorrect": false,
+        "explanation": "El querosene no se asocia de forma característica a sepsis bacteriana por Helicobacter pylori; es una agresión química irritante pulmonar destructiva directa pura."
+      },
+      {
+        "text": "Neumonitis química severa con broncoespasmo difuso, provocada por la aspiración directa de partículas de baja viscosidad y alta volatilidad del hidrocarburo hacia la vía aérea inferior (gatillada por la tos y los vómitos de la ingesta), lo que destruye de forma física el surfactante pulmonar, causa inflamación necrotizante del epitelio bronquial y bronco-constricción severa refleja.",
+        "isCorrect": true,
+        "explanation": "La ingesta de hidrocarburos no produce daño pulmonar relevante por absorción intestinal; el verdadero peligro es la aspiración respiratoria directa durante la deglución, la tos o los vómitos. Los hidrocarburos de baja viscosidad viajan rápidamente por el árbol bronquial, disuelven el surfactante pulmonar (causando atelectasias masivas e hipoxemia) y provocan necrosis química directa del epitelio con intenso broncoespasmo reflejo. Está estrictamente contraindicado inducir el vómito o realizar lavado gástrico en estos pacientes, ya que aumenta de forma crítica el riesgo de una segunda aspiración masiva del tóxico."
+      },
+      {
+        "text": "Alergia de tipo IV severa a los colorantes del querosene de forma de anafilaxia tardía.",
+        "isCorrect": false,
+        "explanation": "No es un fenómeno inmunológico alérgico de anafilaxia tardía; es una lesión destructiva química necrotizante directa por contacto del hidrocarburo con el surfactante y epitelio respiratorio."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un adolescente de 13 años con diagnóstico de asma persistente de moderada a grave, que se encuentra en Paso 3 de GINA recibiendo dosis bajas de Corticoides Inhalados asociados a LABA (Budesonida/Formoterol 160/4.5 mcg de mantención, 1 puff cada 12 horas) y Salbutamol SOS, persiste parcialmente controlado con crisis recurrentes. Se decide escalar el tratamiento al Paso GINA 4 utilizando la estrategia de Terapia SMART (MART). ¿Cuál es el ajuste farmacológico y de dosificación indicado para esta estrategia de un solo dispositivo en este paso?",
+    "hint": "La terapia SMART utiliza un único dispositivo que contiene un corticoide inhalado y un LABA de inicio de acción ultra-rápido (Formoterol) tanto para la mantención diaria fija como para el alivio de los síntomas SOS. Al escalar de paso, se incrementa la dosis de mantención de este inhalador único combinando dosis intermedias, manteniendo la propiedad de rescate en el mismo dispositivo.",
+    "options": [
+      {
+        "text": "Suspender por completo el corticoide inhalado y cambiar a Montelukast oral como monoterapia única.",
+        "isCorrect": false,
+        "explanation": "El Montelukast como monoterapia en el Paso 4 es insuficiente y está estrictamente contraindicado; el asma de moderada a grave exige de forma obligatoria el uso de corticoides inhalados de potencia moderada a alta combinados con LABA para evitar muertes por asma."
+      },
+      {
+        "text": "Mantener el mismo inhalador combinado de Budesonida/Formoterol (160/4.5 mcg), pero aumentando la dosis de mantención a dosis intermedias (por ejemplo, 2 puffs cada 12 horas) y utilizando de forma obligatoria el mismo inhalador Budesonida/Formoterol como fármaco de alivio o rescate (SOS) ante síntomas, omitiendo de forma definitiva el uso de Salbutamol separado.",
+        "isCorrect": true,
+        "explanation": "En el Paso 4 de GINA para mayores de 12 años, la estrategia preferida con terapia SMART consiste en utilizar una combinación de dosis intermedias de ICS/Formoterol (como Budesonida/Formoterol o Beclometasona/Formoterol) como mantenimiento diario y alivio SOS. Al usar este único dispositivo para el rescate, se garantiza que cada vez que el adolescente presenta síntomas y se inhala para abrir sus bronquios (gracias al formoterol de inicio rápido), recibe de forma sinérgica una dosis adicional de corticoide (budesonida) que trata la inflamación subyacente de forma precoz, disminuyendo la gravedad de las crisis y la necesidad de corticoides orales."
+      },
+      {
+        "text": "Reemplazar el Formoterol por Salmeterol de forma exclusiva de mantención y rescate simultáneo.",
+        "isCorrect": false,
+        "explanation": "El Salmeterol es un LABA de inicio de acción lento (tarda entre 15 y 30 minutos en dilatar); por lo tanto, está estrictamente contraindicado su uso como fármaco de rescate o alivio de crisis de urgencia, reservándose solo para mantención fija programada."
+      },
+      {
+        "text": "Agregar Teofilina oral cada 12 horas y suspender las inhalaciones por 3 meses de forma universal.",
+        "isCorrect": false,
+        "explanation": "La teofilina oral es un fármaco obsoleto de bajo rango terapéutico y alta toxicidad; no se indica como reemplazo de la terapia inhalatoria combinada moderna en el Paso 4 de GINA."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 7 años con asma de difícil control se encuentra recibiendo dosis moderadas de Fluticasona de mantención con técnica perfecta. A pesar de esto, cursa con síntomas diurnos frecuentes de asma. Al examen físico destaca una facies adenoidea típica con ojeras alérgicas marcadas, \"saludo alérgico\" (surco transversal en el dorso de la nariz por frotamiento constante) y rinorrea mucosa abundante bilateral con hipertrofia de cornetes nasales pálidos. Se diagnostica rinitis alérgica severa no controlada. Respecto al impacto de esta comorbilidad en el asma infantil y el concepto de \"una sola vía aérea\", ¿cuál de las siguientes afirmaciones describe de forma correcta la conducta médica indicada?",
+    "hint": "La mucosa nasal es la primera línea de defensa del pulmón: calienta, humidifica y filtra el aire inspirado. Si la nariz está tapada de forma crónica por alergia, el niño respira por la boca aire de mala calidad física que irrita y contrae de forma directa a los bronquios sensibles.",
+    "options": [
+      {
+        "text": "Indicar amoxicilina oral por 14 días para erradicar las bacterias nasales que causan la rinitis y el asma.",
+        "isCorrect": false,
+        "explanation": "La rinitis alérgica es de etiología inflamatoria inmunológica mediada por IgE, no una sinusitis bacteriana purulenta; el uso de antibióticos empíricos como la amoxicilina está contraindicado."
+      },
+      {
+        "text": "La rinitis alérgica no tiene ninguna relación fisiopatológica con el asma, por lo que se debe desaconsejar el uso de sprays nasales para evitar adicción al fármaco.",
+        "isCorrect": false,
+        "explanation": "Sí existe una estrecha relación fisiopatológica demostrada en múltiples estudios mundiales; ignorar la rinitis alérgica perpetúa el descontrol del asma a pesar de dosis crecientes de inhaladores pulmonares."
+      },
+      {
+        "text": "La rinitis alérgica y el asma se comportan como manifestaciones clínicas de un proceso inflamatorio sistémico único de las vías aéreas (\"una sola vía aérea, una sola enfermedad\"); la inflamación y obstrucción nasal no tratadas empeoran el asma al obligar al menor a respirar por la boca (inhalando aire frío y seco no filtrado que desencadena hiperreactividad) y mediante el reflejo nasobronquial inflamatorio. El tratamiento prolijo de la rinitis con corticoides intranasales (como Fluticasona nasal) y antihistamínicos mejora significativamente el control del asma.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la relación fisiopatológica de la vía aérea unificada. La inflamación alérgica nasal (rinitis) libera mediadores sistémicos que aumentan la hiperreactividad bronquial, y la respiración bucal bypass-ea los mecanismos de acondicionamiento de aire de la nariz. Tratar la rinitis alérgica con corticoides nasales de segunda generación (como Mometasona o Fluticasona nasal) es una de las medidas más costo-efectivas para optimizar el control de un asma difícil de controlar de base atópica."
+      },
+      {
+        "text": "El tratamiento de elección ante esta asociación es realizar una adenoidectomía quirúrgica de urgencia a todos los escolares de forma universal.",
+        "isCorrect": false,
+        "explanation": "La cirugía de adenoides (adenoidectomía) se reserva para hipertrofia amigdalina/adenoidea obstructiva severa con apneas obstructivas del sueño demostradas (SAOS) o sinusitis crónica purulenta refractaria; no es un tratamiento de primera línea ni universal para la rinitis alérgica pura."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un lactante de 18 meses presenta historia de SBO recurrente de carácter severo que no responde satisfactoriamente a Salbutamol ni a corticoides. En la anamnesis destaca además rinitis mucosa persistente purulenta con rinorrea mucopurulenta bilateral desde las primeras semanas de vida (inicio neonatal), otitis media supurativa crónica bilateral y episodios recurrentes de neumonías que han requerido hospitalizaciones. Al revisar sus exámenes destaca una ecografía abdominal que reporta de forma incidental la presencia de situs inversus completo (posición invertida de los órganos de la línea media y abdominales). ¿Cuál es el diagnóstico de sospecha prioritario de este lactante y qué anomalía ultraestructural celular lo produce?",
+    "hint": "Los cilios del epitelio respiratorio tienen un diseño de microtúbulos (9+2) con brazos de dineína internos y externos que actúan como motores físicos de su movimiento coordinado. El batido ciliar ineficaz en la mucosa causa retención crónica de moco en nariz, oídos y pulmones. Adicionalmente, el movimiento ciliar embrionario es indispensable para definir la correcta rotación y asimetría de los órganos izquierdos/derechos durante el desarrollo uterino.",
+    "options": [
+      {
+        "text": "Disquinesia Ciliar Primaria (DCP) o Síndrome de Kartagener (cuando se asocia a situs inversus completo, sinusitis o bronquiectasias precoces); se produce por un defecto genético ultraestructural en los brazos de dineína de los cilios de las células epiteliales respiratorias, impidiendo el aclaramiento mucociliar normal de las secreciones, lo que causa infecciones sinopulmonares recurrentes destructivas precoces.",
+        "isCorrect": true,
+        "explanation": "La Disquinesia Ciliar Primaria es una ciliopatía genética hereditaria. El Síndrome de Kartagener es una forma clínica clásica de DCP caracterizada por la tríada de: situs inversus completo (por falta de batido ciliar orientador en la embriogénesis), rinosinusitis crónica/bronquiectasias y otitis media recurrente. En lactantes, la presencia de rinorrea purulenta persistente que inicia desde el nacimiento asociada a SBO refractario obliga a descartar esta patología mediante estudio de óxido nítrico nasal, análisis de motilidad ciliar en cepillado nasal o biopsia microscópica electrónica ciliar."
+      },
+      {
+        "text": "Asma alérgica estacional típica por polen de primavera de aparición ultra-precoz.",
+        "isCorrect": false,
+        "explanation": "Las alergias al polen de primavera no debutan de forma purulenta neonatal desde el nacimiento asociadas a anomalías rotacionales de los órganos de la línea media corporal abdominal."
+      },
+      {
+        "text": "Fibrosis Quística del lactante severa; se asocia de forma patognomónica a situs inversus por mutación del gen CFTR.",
+        "isCorrect": false,
+        "explanation": "Si bien la Fibrosis Quística causa bronquiectasias, neumonías y SBO recurrente por deshidratación del moco, el defecto del canal de cloro CFTR de la FQ no se asocia a situs inversus completo (un hallazgo específico de la DCP/Kartagener por alteración ciliar embrionaria)."
+      },
+      {
+        "text": "SBO recurrente atópico clásico; se asocia a mutaciones del receptor de la IgE en la piel.",
+        "isCorrect": false,
+        "explanation": "El asma atópica común no cursa con situs inversus completo, rinorrea purulenta neonatal persistente continua ni con otitis medias supurativas bilaterales destructivas crónicas de repetición desde las primeras semanas de vida."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 8 años ingresa a la UCIP con una crisis de asma grave con riesgo de paro respiratorio inminente (sopor, silencio auscultatorio pulmonar, bradicardia relativa y acidosis respiratoria con hipercapnia severa con pCO<sub>2</sub> > 80 mmHg). El equipo de intensivistas decide realizar intubación endotraqueal de urgencia e iniciar ventilación mecánica invasiva. Respecto a la fisiopatología de la ventilación mecánica en el paciente asmático grave, ¿cuál es el principal peligro mecánico/cardiovascular que se debe vigilar y qué estrategia ventilatoria está indicada para mitigar este riesgo?",
+    "hint": "Los bronquios en el asma están severamente estrechados e inflamados. Meter aire es relativamente sencillo gracias a la fuerza del ventilador, pero expulsarlo (espiración) es un proceso pasivo extremadamente lento debido a la resistencia de la obstrucción bronquial. Si el ventilador \"inyecta\" aire nuevo antes de que el aire viejo haya salido del pulmón, el aire se acumula a alta presión (como un globo inflado al máximo), aplastando mecánicamente al corazón de forma mortal.",
+    "options": [
+      {
+        "text": "El peligro es la hipotermia refleja laríngea; se debe calentar la cánula con agua hirviendo.",
+        "isCorrect": false,
+        "explanation": "La cánula de intubación no se calienta de forma física de esa manera; el ventilador cuenta con cascadas humidificadoras térmicas estándar automáticas que calientan de forma fisiológica segura a temperaturas de 37.0°C de forma regulada."
+      },
+      {
+        "text": "La intubación en asma no tiene riesgos mecánicos ni cardiovasculares mayores, comportándose de forma idéntica a una cirugía de caderas simple.",
+        "isCorrect": false,
+        "explanation": "Desconoce los graves peligros mecánicos y cardiovasculares del atrapamiento aéreo dinámico (auto-PEEP) en el paciente con broncoespasmo severo bajo ventilación invasiva; intubar de forma indiscriminada sin cambiar la estrategia ventilatoria convencional se asocia a una altísima morbimortalidad iatrogénica."
+      },
+      {
+        "text": "El peligro es el atrapamiento aéreo masivo progresivo (auto-PEEP o PEEP intrínseca) secundario a la obstrucción espiratoria severa (la exhalación se prolonga de forma masiva y el ventilador inicia la siguiente inspiración antes de que el pulmón se haya vaciado de aire por completo), lo que aumenta de forma crítica la presión intratorácica, causando barotrauma/neumotórax y un colapso hemodinámico inmediato por disminución del retorno venoso al corazón (shock obstructivo por ventilación). Se debe programar una estrategia de Hipercapnia Permisiva con tiempos espiratorios prolongados (I:E ≥ 1:3 a 1:4) y volumen minuto bajo para permitir el vaciado del pulmón de forma segura.",
+        "isCorrect": true,
+        "explanation": "La ventilación mecánica invasiva en la crisis asmática severa es de altísimo riesgo y se considera la última opción de rescate ante el fallo inminente. El atrapamiento aéreo progresivo genera una auto-PEEP (presión positiva persistente al final de la espiración no programada en el ventilador) que causa sobredistensión alveolar (barotrauma/neumotórax) y aplasta la vena cava superior/inferior, aboliendo el retorno venoso cardíaco y provocando hipotensión profunda o paro en asistolia inmediato tras iniciar la ventilación. La estrategia de \"Hipercapnia Permisiva\" prioriza mantener un tiempo espiratorio lo más prolongado posible (relación I:E alta) para permitir el vaciado traqueal de aire, asumiendo niveles moderados a altos de CO<sub>2</sub> en sangre (pH > 7.15-7.20) de forma transitoria para proteger mecánicamente al pulmón y corazón."
+      },
+      {
+        "text": "El peligro es la hiperoxemia tisular severa; se debe ventilar con presiones de oxígeno masivas del 100% por 24 horas continuas.",
+        "isCorrect": false,
+        "explanation": "Inundar de oxígeno con presiones altas de ventilación de forma indiscriminada aumentará drásticamente la tasa de barotrauma y el atrapamiento aéreo fatal por sobrepresión intratorácica refleja."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un lactante de 20 meses asiste a control con antecedentes de haber presentado su tercer episodio de sibilancias obstructivas agudas de moderada intensidad en el último año, requiriendo series de rescate con Salbutamol. El lactante tiene antecedentes personales de dermatitis atópica severa y un hemograma que reporta un 5% de eosinófilos. Según las directrices actuales de GINA para preescolares y niños menores de 5 años con sibilancias episódicas virales frecuentes, ¿cuál es el criterio para iniciar de forma segura un tratamiento controlador profiláctico con corticoides inhalados (como Fluticasona)?",
+    "hint": "La toma de decisión de iniciar corticoides inhalados de mantención diaria (como la fluticasona) en niños pequeños de menos de 5 años se fundamenta en la frecuencia, gravedad y el perfil de atopia del lactante. El mAPI positivo (que predice asma atópica persistente) es la indicación de mayor consenso clínico para iniciar terapia controladora antiinflamatoria de Paso 2.",
+    "options": [
+      {
+        "text": "Se indica de forma prioritaria iniciar tratamiento controlador diario con corticoides inhalados (ICS) a dosis bajas (GINA Paso 2), debido a que el menor presenta sibilancias recurrentes frecuentes asociadas a un Índice Predictor de Asma (mAPI) positivo de alto riesgo de asma persistente atópica futura (un criterio mayor de dermatitis atópica y un criterio menor de eosinofilia ≥ 4%), logrando disminuir la frecuencia y gravedad de las crisis obstructivas y el daño pulmonar.",
+        "isCorrect": true,
+        "explanation": "De acuerdo a los consensos de GINA y SOCHIPE, ante un preescolar menor de 5 años con sibilancias recurrentes que presenten síntomas frecuentes, de curso moderado-severo o que cuenten con un perfil de mAPI positivo de alto riesgo de atopia, se indica iniciar tratamiento controlador diario con Corticoides Inhalados (ICS) a dosis bajas. Esto estabiliza la mucosa de la vía aérea, reduce la hiperreactividad bronquial viral y disminuye notablemente el uso de SABA y hospitalizaciones."
+      },
+      {
+        "text": "Se debe esperar de forma obligatoria hasta los 6 años para iniciar corticoides, sin importar el número de crisis o antecedentes.",
+        "isCorrect": false,
+        "explanation": "Es un error conceptual; aunque el diagnóstico de certeza por espirometría se difiere, el tratamiento controlador antiinflamatorio con ICS se puede y debe iniciar de forma segura en la primera infancia si el paciente cumple criterios clínicos de alto riesgo/mAPI positivo para evitar secuelas de remodelamiento bronquial crónico."
+      },
+      {
+        "text": "El tratamiento de elección de mantención para menores de 2 años con mAPI positivo es con penicilina benzatina mensual.",
+        "isCorrect": false,
+        "explanation": "La penicilina benzatina es un antibiótico de depósito bactericida contra el treponema; carece de toda utilidad en la fisiopatología inflamatoria inmune alérgica Th2 del asma y SBO del lactante."
+      },
+      {
+        "text": "Indicar tratamiento oral diario con jarabe de salbutamol de forma universal sin corticoides.",
+        "isCorrect": false,
+        "explanation": "Los jarabes de salbutamol orales diarios están obsoletos en pediatría moderna; su administración prolongada carece de efecto controlador antiinflamatorio básico y causa altos efectos simpáticos adversos."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Usted capacita a un escolar de 9 años y a su familia en el uso de un medidor de flujo espiratorio máximo (Peak Flow Meter / PEF). Le indica que realice mediciones diarias registradas en su bitácora de asma por las mañanas y noches. Respecto al valor predictivo y de monitoreo de la flujometría en el asma pediátrico, ¿cuál de las siguientes afirmaciones describe de forma correcta su utilidad clínica de control?",
+    "hint": "El PEF mide la velocidad máxima con la que el niño puede expulsar el aire de sus pulmones tras soplar con fuerza e instantáneamente (flujo máximo). En un bronquio sano, el PEF se mantiene constante e idéntico todos los días. En un bronquio asmático inestable inflamado, los diámetros bronquiales varían mucho a lo largo del día (especialmente bajando de noche/madrugada por el tono circadiano), lo que se traduce en una alta variabilidad de los valores soplados.",
+    "options": [
+      {
+        "text": "El objetivo del PEF es medir la saturación de oxígeno por capilaridad del dedo del menor.",
+        "isCorrect": false,
+        "explanation": "Confunde el Peak Flow (flujometría espiratoria máxima) con un oxímetro de pulso (saturómetro de dedo), el cual mide de forma diferente por luz infrarroja la saturación de hemoglobina."
+      },
+      {
+        "text": "Una variabilidad diaria en las mediciones del PEF mayor al 13% (o diferencias significativas mayores al 10-15% entre el mejor y peor valor del día o con su mejor marca personal) es un indicador sensible de pérdida de control del asma e hiperreactividad bronquial activa, permitiendo al paciente predecir de forma muy precoz una crisis inminente y ajustar las dosis de su plan de acción escrito antes de que presente dificultad respiratoria franca.",
+        "isCorrect": true,
+        "explanation": "La flujometría (PEF) domiciliaria es una herramienta de autocontrol excelente para escolares y adolescentes con asma de moderada a grave. Permite objetivar la obstrucción en el hogar de forma sencilla. Una alta variabilidad diurna de los soplidos (>13%, calculada por la diferencia diaria) refleja inestabilidad de la vía aérea e hiperreactividad activa, actuando como un \"semáforo de alerta\" amarillo que avisa del inicio del broncoespasmo subclínico antes de que se instale la disnea, permitiendo al menor subir de forma precoz y transitoria la dosis de su inhalador de mantención según su plan de acción escrito."
+      },
+      {
+        "text": "Las mediciones del PEF son constantes y no varían en presencia de broncoespasmo; solo se alteran si el escolar presenta neumonías extensas.",
+        "isCorrect": false,
+        "explanation": "Los valores de PEF son muy dinámicos y se reducen de forma dramática y directa ante la presencia de broncoespasmo agudo al estrecharse el calibre de la vía aérea grande central."
+      },
+      {
+        "text": "El PEF es un examen invasivo que requiere punción pulmonar diagnóstica, por lo que está prohibido su uso en el hogar.",
+        "isCorrect": false,
+        "explanation": "El PEF es una prueba de soplido funcional externa, completamente no invasiva y de muy bajo costo; es sumamente recomendada para el automonitoreo seguro por la familia en su domicilio de forma regular."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Durante el control de asma de un preescolar de 5 años que presenta obesidad infantil severa (IMC percentil >97 para edad y sexo), se evalúa la mala respuesta de sus sibilancias recurrentes al tratamiento convencional de mantención diario con dosis recomendadas de Fluticasona inhalada. El especialista explica que este grupo de pacientes pertenece al fenotipo específico de Asma asociado a Obesidad. Respecto a las características inflamatorias y de respuesta terapéutica de este fenotipo clínico en pediatría, ¿cuál de las siguientes opciones describe de forma correcta la conducta y fundamento?",
+    "hint": "La grasa no es un tejido inerte que solo acumula calorías; es un órgano endocrino metabólico sumamente activo que produce una inflamación sistémica crónica de bajo grado. Este estado inflamatorio sistémico sensibiliza la vía aérea e induce resistencia del receptor intracelular esteroide a la acción antiinflamatoria de los corticoides inhalados.",
+    "options": [
+      {
+        "text": "Presenta altos niveles de IgE sérica y excelente respuesta a antihistamínicos de tercera generación.",
+        "isCorrect": false,
+        "explanation": "Este fenotipo de asma asociado a obesidad no se caracteriza de forma rutinaria por presentar altos niveles de IgE sérica (atopia), comportándose de forma no alérgica, por lo que los antihistamínicos orales carecen de utilidad terapéutica clínica."
+      },
+      {
+        "text": "Es un fenotipo transitorio que cura espontáneamente tras recibir la vacuna contra el virus papiloma.",
+        "isCorrect": false,
+        "explanation": "No tiene ninguna relación con la vacuna contra el VPH escolar del PNI, comportándose como una patología respiratoria metabólica crónica progresiva si persiste la obesidad."
+      },
+      {
+        "text": "Se caracteriza por una inflamación de la vía aérea de tipo no eosinofílica (no atópica / no Th2), de carácter predominantemente resistente o con menor respuesta terapéutica clínica a los corticoides inhalados (ICS) debido a que la inflamación está mediada por citoquinas sistémicas proinflamatorias (como IL-6, TNF-α, leptina y adiponectina) liberadas por el tejido graso hipertrófico que inducen resistencia capilar y de receptores. La medida terapéutica de control de mayor significancia y de primera línea es la baja de peso ponderal prolija y el control de la nutrición.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la patogenia y el perfil terapéutico del fenotipo de Asma Asociado a Obesidad infantil. Es un asma no Th2, no atópica, de baja respuesta a corticoides por resistencia molecular al receptor esteroidal inducida por el estrés oxidativo e inflamatorio del tejido graso. El pilar más importante que desinflama de forma efectiva la vía aérea y mejora de forma sostenida los síntomas respiratorios y el asma en estos niños es el control nutricional que induzca una baja de peso saludable y la actividad física."
+      },
+      {
+        "text": "Se asocia de forma universal a malformaciones óseas de la mandíbula que requieren cirugía reparadora estética inmediata.",
+        "isCorrect": false,
+        "explanation": "No se asocia de ninguna manera a anomalías estructurales óseas mandibulares que requieran cirugías estéticas reparadoras tempranas para curar el asma."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 10 años ingresa a la urgencia en regulares condiciones generales, transportado en camilla. Al examen físico destaca un esfuerzo respiratorio ineficaz y superficial, cianosis generalizada refractaria a oxígeno, silencio auscultatorio pulmonar bilateral con nula entrada de aire (silencio respiratorio), bradicardia de 52 x', hipotonia marcada y compromiso cuantitativo de conciencia (sopor profundo). ¿A qué grado de gravedad corresponde esta crisis asmática y qué conducta prioritaria e inmediata de salvataje vital debe adoptarse?",
+    "hint": "La bradicardia (frecuencia cardíaca <60 x' en un escolar obstruido agotado) y el compromiso del sensorio (sopor/coma) reflejan hipoxia severa y un estado terminal de paro cardiorrespiratorio inminente. El \"silencio respiratorio\" ocurre porque los bronquios están tan apretados que ya no pasa el flujo de aire mínimo para soplar o generar sibilancias. Se debe ventilar de inmediato.",
+    "options": [
+      {
+        "text": "Crisis asmática grado II; requiere derivar a domicilio con indicación de paracetamol e inhaladores SOS.",
+        "isCorrect": false,
+        "explanation": "Clasificar como grado II (moderada) a un paciente cianótico con bradicardia profunda y sopor es un error de apreciación clínica grave que compromete la vida del escolar."
+      },
+      {
+        "text": "Crisis asmática grado III; requiere nebulizaciones repetidas de adrenalina y esperar que despierte solo.",
+        "isCorrect": false,
+        "explanation": "El paciente ya superó el grado III de esfuerzo compensado; presenta signos terminales de paro bradicárdico inminente, por lo que retrasar las maniobras de soporte respiratorio invasivo esperando que nebulizaciones convencionales actúen es una negligencia letal."
+      },
+      {
+        "text": "Crisis asmática Grado IV (Falla respiratoria inminente / Paro cardiorrespiratorio inminente); requiere ventilación manual con presión positiva con bolsa-máscara al 100% de oxígeno, administración intravenosa inmediata de Adrenalina o soporte inotrópico de urgencia, y asegurar la vía aérea mediante intubación endotraqueal inmediata por el reanimador más experto disponible, monitorizando continuamente.",
+        "isCorrect": true,
+        "explanation": "La combinación clínica de silencio auscultatorio pulmonar (\"silencio torácico\"), cianosis central refractaria, bradicardia profunda (por hipoxia severa de miocardio) y sopor define de forma categórica a la Crisis Asmática Grado IV (Falla respiratoria inminente). Es una emergencia extrema de riesgo vital inmediato; se debe iniciar reanimación avanzada con ventilación a presión positiva asistida con bolsa-máscara al 100% de O<sub>2</sub> (para evitar el paro circulatorio obstructivo), adrenalina intravenosa o intramuscular inmediata, y proceder a la intubación endotraqueal de urgencia controlada por el experto."
+      },
+      {
+        "text": "Crisis de broncoespasmo por Mycoplasma; requiere amoxicilina oral por 14 días y alta domiciliaria.",
+        "isCorrect": false,
+        "explanation": "No corresponde a una infección atípica leve ambulatoria; el paciente cursa con una insuficiencia respiratoria catastrófica terminal mecánica obstructiva."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Usted evalúa en policlínico a un escolar de 8 años con asma de difícil control atópica. La madre refiere que el niño presenta de forma crónica ronquido nocturno intenso continuo, respiración bucal persistente durante el sueño con pausas de ahogo intermitentes y somnolencia diurna en el colegio. Al examen gineco-faríngeo se constata una hipertrofia amigdalina severa grado III-IV con amígdalas que casi se tocan en la línea media. Respecto al impacto de este Síndrome de Apnea Obstructiva del Sueño (SAOS) no tratado sobre el control de los síntomas de asma, ¿cuál de las siguientes opciones describe correctamente la conducta médica indicada?",
+    "hint": "Al igual que con el RGE, la obstrucción mecánica de la garganta al dormir obliga al niño a realizar inspiraciones de alta presión negativa torácica para vencer el obstáculo. Esta presión negativa tracciona los pulmones y activa de forma de reflejo protector el cierre (broncoespasmo) del árbol bronquial inferior.",
+    "options": [
+      {
+        "text": "El SAOS no tratado se comporta como una comorbilidad de gran significancia que perpetúa el descontrol del asma, debido a que la hipoxia nocturna, el aumento del esfuerzo inspiratorio intratorácico (presión intratorácica negativa extrema) y los despertares repetidos (microdespertares) inducen una respuesta inflamatoria sistémica y parasimpática vagal que gatilla de forma constante broncoespasmo nocturno refractario. Se debe derivar de forma prioritaria a Otorrinolaringología (ORL) para evaluar amigdalectomía / adenoidectomía quirúrgica, lo cual ha demostrado mejorar de forma muy marcada el control del asma.",
+        "isCorrect": true,
+        "explanation": "El SAOS es una comorbilidad importante a diagnosticar y tratar en todo niño con asma difícil de controlar. La hipoxia nocturna recurrente y la presión intratorácica negativa marcada desencadenan estimulación parasimpática (tono vagal bronco-constrictor) que provoca crisis asmáticas nocturnas persistentes. Derivar a ORL para cirugía desobstructiva (amigdalectomía/adenoidectomía) mejora notablemente el patrón de ventilación del sueño, reduce los microdespertares y facilita de forma muy significativa desescalar las dosis de corticoides inhalados del asma."
+      },
+      {
+        "text": "El SAOS no tiene relación con el asma y se trata exclusivamente con antihistamínicos orales por 3 meses.",
+        "isCorrect": false,
+        "explanation": "Los antihistamínicos orales son útiles para rinitis alérgica, pero ineficaces para resolver de forma mecánica la obstrucción física de amígdalas gigantes grado III-IV en la faringe que causan SAOS grave en el menor."
+      },
+      {
+        "text": "El asma es el responsable directo de la hipertrofia de amígdalas, por lo que duplicar el Salbutamol inhalado SOS las curará de forma instantánea.",
+        "isCorrect": false,
+        "explanation": "El Salbutamol es un broncodilatador que no tiene ninguna actividad para reducir el volumen de las amígdalas faríngeas hipertróficas y su sobreuso se asocia a mayor taquicardia."
+      },
+      {
+        "text": "El ronquido protege de forma mecánica las cuerdas vocales, por lo que no se requiere realizar estudios ni cirugías.",
+        "isCorrect": false,
+        "explanation": "El ronquido y las apneas no protegen la vía aérea; son indicadores de obstrucción de vía aérea alta de alto riesgo de secuelas cardiovasculares, hipertensión pulmonar y descontrol del asma."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Al prescribir el tratamiento de mantención del asma para un escolar con asma persistente moderada, usted debe conocer las estrictas advertencias de seguridad internacionales respecto al uso de los Beta-2 Agonistas de Larga Acción (LABA) como Salmeterol o Formoterol. ¿Cuál de las siguientes afirmaciones describe de forma correcta la advertencia de seguridad (Black Box Warning de la FDA) que prohíbe el uso de los LABA como monoterapia en el asma bronquial?",
+    "hint": "Los LABA relajan el músculo liso bronquial por un periodo prolongado (12 a 24 horas). Si un paciente los usa solos (sin el corticoide controlador), se sentirá muy cómodo porque sus bronquios están expandidos mecánicamente, pero la inflamación (el pus celular y edema) continuará progresando de forma \"silenciosa\" por debajo de la dilatación. Llegará un momento en que la inflamación sea tan masiva que el músculo ya no pueda dilatarse, gatillando un paro respiratorio asfixiante brusco que no responde a los broncodilatadores.",
+    "options": [
+      {
+        "text": "Los LABA en monoterapia (sin corticoide inhalado concomitante) están estrictamente contraindicados de forma absoluta en el asma pediátrico y de adultos, debido a que se asocian de forma muy significativa a un aumento del riesgo de asma severa refractaria, hospitalizaciones críticas y muerte por asma, debido a que \"mascaran\" la inflamación bronquial progresiva subyacente que no es tratada, resultando en un colapso respiratorio brusco letal. Los LABA siempre deben prescribirse combinados de forma obligatoria en el mismo inhalador con un Corticoide Inhalado (ICS).",
+        "isCorrect": true,
+        "explanation": "Es una de las advertencias reguladoras de seguridad más importantes de la farmacología respiratoria: los LABA (Salmeterol, Formoterol) jamás deben usarse como monoterapia única en asma. Al dilatar los bronquios sin tratar la inflamación inmunológica subyacente, exponen al menor al riesgo de una crisis asmática severa fulminante (\"crisis silente\") que ha provocado alta mortalidad en el pasado. Se deben usar siempre formulados en combinaciones fijas fijas en el mismo inhalador junto a un esteroide (ICS + LABA) que controle de forma constante la inflamación."
+      },
+      {
+        "text": "Los LABA causan parálisis cerebral neonatal de forma inmediata si se inhalan por vía oral en escolares sanos.",
+        "isCorrect": false,
+        "explanation": "No producen parálisis cerebral neonatal; son seguros de usar en el escolar y adolescente asmático si se asocian obligatoriamente a corticoides inhalados (como se normó en Paso 3 de GINA)."
+      },
+      {
+        "text": "Los LABA solo son ineficaces, por lo que se pueden omitir del Step 3 y Step 4 de GINA de forma rutinaria y usar solo salbutamol oral.",
+        "isCorrect": false,
+        "explanation": "Los LABA son de alta eficacia clínica y son el pilar de mantención recomendado en los Pasos 3, 4 y 5 de GINA combinados con ICS; omitirlos o reemplazarlos por salbutamol oral es una mala práctica de consecuencias clínicas graves."
+      },
+      {
+        "text": "Están contraindicados en pediatría por riesgo de provocar diabetes mellitus tipo 1 refractaria a los 6 meses del inicio.",
+        "isCorrect": false,
+        "explanation": "Los beta-agonistas inhalados de mantención a dosis terapéuticas convencionales no destruyen las células beta del páncreas ni se asocian a la etiopatogenia de la diabetes infantil."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 10 años recibe tratamiento controlador de mantención para asma grave con Fluticasona propionato por vía inhalatoria mediante aerocámara a dosis elevadas y persistentes (1000 mcg/día de dosis total diaria por más de un año) debido a mala respuesta. Los padres consultan sobre potenciales riesgos sistémicos de estas dosis elevadas. ¿Cuál es la prueba de seguridad endocrina indicada ante la sospecha de supresión del eje hipotálamo-hipófisis-suprarrenal (HHS) iatrogénica por depósito sistémico de corticoides en niños?",
+    "hint": "La absorción sistémica de las altas dosis de corticoides inhalados (ya sea a través de la mucosa respiratoria profunda o por absorción digestiva del remanente tragado en la boca) puede ejercer un efecto de retroalimentación negativa sobre la hipófisis, frenando de forma refleja la estimulación normal de las glándulas suprarrenales, las cuales se atrofian transitoriamente.",
+    "options": [
+      {
+        "text": "Solicitud de hemogramas seriados diarios por un mes de forma de control sistémico.",
+        "isCorrect": false,
+        "explanation": "Los hemogramas seriados diarios no aportan información diagnóstica útil sobre el funcionamiento u hormonas de la glándula suprarrenal y son dolorosos de tomar repetidamente."
+      },
+      {
+        "text": "Determinación del Cortisol sérico basal por las mañanas (a las 8:00 AM), o de forma confirmatoria mediante un Test de Estimulación con ACTH (corticotropina) para evaluar la reserva funcional de producción de cortisol por la glándula suprarrenal.",
+        "isCorrect": true,
+        "explanation": "Aunque los corticoides inhalados tienen un perfil de seguridad sistémico excelente, el uso prolongado de dosis altas persistentes (rango alto o de asma grave) puede causar de forma infrecuente supresión del eje adrenal en niños predispuestos. Clínicamente se sospecha ante fatiga inexplicable, hipotensión ortostática o crisis de hipoglicemia ante el estrés físico (como cirugías o infecciones graves). El estudio inicial requiere medir el cortisol basal matutino (a las 8 AM, hora de pico circadiano fisiológico) y, ante dudas o valores bajos, realizar el test de estimulación con ACTH para confirmar la atrofia adrenal iatrogénica por retroalimentación."
+      },
+      {
+        "text": "No existe riesgo de supresión adrenal por corticoides inhalados a ninguna dosis, por lo que no se requiere monitorización.",
+        "isCorrect": false,
+        "explanation": "Sí existe riesgo real documentado a altas dosis (rango suprafisiológico superior a 500-1000 mcg/día de fluticasona o equivalente), por lo que se recomienda vigilar y optimizar la dosis del corticoide inhalado siempre a la menor dosis eficaz posible."
+      },
+      {
+        "text": "Toma de radiografía de caderas unilateral cada 3 meses.",
+        "isCorrect": false,
+        "explanation": "La radiografía de caderas evalúa displasia de caderas en el lactante o necrosis avascular de la cabeza femoral en adultos, pero no mide de forma de tamizaje o funcional la reserva endocrina suprarrenal del eje HHS en escolares."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un adolescente de 13 años con asma severa persistente incontrolada presenta historia de crisis obstructivas graves de repetición asociadas a una marcada eosinofilia periférica persistente en sangre (>300-500 eosinófilos/mm<sup>3</sup>), pero con estudio de IgE total y Prick test para alérgenos ambientales completamente negativos (asma severo de fenotipo eosinofílico no alérgico / no Th2). ¿Cuál es la terapia biológica adyuvante de elección indicada para este fenotipo específico y cuál es su diana molecular de acción?",
+    "hint": "La Interleuquina-5 (IL-5) es la citoquina más potente e importante encargada de estimular la médula ósea para que fabrique, madure y libere millones de eosinófilos al torrente sanguíneo ante la inflamación de tipo Th2. Secuestrar esta interleuquina con un anticuerpo monoclonal corta la cadena de supervivencia del eosinófilo.",
+    "options": [
+      {
+        "text": "Inhibidores de la calcicreína gástrica por vía oral de forma diaria por un año.",
+        "isCorrect": false,
+        "explanation": "No existen los \"inhibidores de la calcicreína gástrica\" como tratamiento controlador biológico del asma bronquial eosinofílica severa del adolescente."
+      },
+      {
+        "text": "Mepolizumab (o Benralizumab), un anticuerpo monoclonal dirigido de forma específica a unirse y neutralizar a la Interleuquina-5 (IL-5) (o a su receptor alfa, IL-5Rα, bloqueando de esta forma la maduración, reclutamiento, activación y sobrevida de los eosinófilos en el tejido bronquial).",
+        "isCorrect": true,
+        "explanation": "El Mepolizumab (Nucala) y el Benralizumab (Fasenra) son terapias biológicas aprobadas en asma severa refractaria de fenotipo predominantemente eosinofílico. Al bloquear la IL-5 (citoquina clave del eosinófilo), inducen una rápida caída de los eosinófilos en sangre y tejidos, disminuyendo drásticamente la tasa de crisis respiratorias y mejorando la función de la vía aérea en pacientes de Paso 5 de GINA no alérgicos con eosinofilia persistente."
+      },
+      {
+        "text": "Adrenalina intramuscular de depósito semanal de por vida de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "La adrenalina es el tratamiento de rescate para la anafilaxia aguda sistémica, pero no se indica de forma de mantenimiento preventivo crónico semanal de por vida para asma grave."
+      },
+      {
+        "text": "Omalizumab, dirigido de forma específica a secuestrar la IgE total libre del suero.",
+        "isCorrect": false,
+        "explanation": "El Omalizumab está dirigido de forma específica contra la IgE libre y requiere obligatoriamente que el paciente tenga un asma de fenotipo alérgico con IgE elevada demostrada y pruebas de sensibilización alérgicas positivas, lo cual se descarta en este adolescente con Prick test negativo."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Durante el mes de julio, un lactante de 9 meses ingresa hospitalizado por presentar fiebre de 39.1°C de 24 horas de evolución, tos frecuente, taquipnea moderada (44 rpm) y sibilancias bilaterales difusas. El panel viral molecular (PCR respiratoria) tomado al ingreso resulta reactivo para el Virus de la Influenza A. Respecto al tratamiento específico de urgencia recomendado para este lactante obstructivo febril en Chile, ¿cuál es la conducta correcta?",
+    "hint": "La Influenza es un virus respiratorio sistémico de alta morbimortalidad en lactantes. A diferencia del VRS o el Rinovirus, para los cuales no disponemos de un tratamiento antiviral específico de uso clínico diario común, para la Influenza sí contamos con un inhibidor de la neuraminidasa de administración oral de primera línea que detiene la liberación del virus desde las células infectadas.",
+    "options": [
+      {
+        "text": "Administrar vacuna BCG de refuerzo en el glúteo mayor de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "La vacuna BCG se inyecta estrictamente por vía intradérmica en la región deltoidea del hombro derecho al nacer (peso >2 kg); inyectarla en el glúteo mayor a los 9 meses está estrictamente prohibido por alto riesgo de lesión del nervio ciático y nula eficacia de inmunización cruzada protectora contra la influenza."
+      },
+      {
+        "text": "Indicar reposo absoluto sin vacunas de por vida y suspender el Salbutamol.",
+        "isCorrect": false,
+        "explanation": "Suspender el Salbutamol ante sibilancias bilaterales febriles activas de SBO desprotegerá de forma respiratoria al menor y es clínicamente inaceptable."
+      },
+      {
+        "text": "Administrar Salbutamol de rescate (MDI con aerocámara, 2 puffs cada 1 a 2 horas según el Score de Tal modificado de control), manejo de la fiebre con paracetamol y el inicio de tratamiento específico antiviral con Oseltamivir por vía oral (dosis de 3 mg/kg/dosis cada 12 horas por un periodo de 5 días), idealmente iniciado dentro de las primeras 48 horas de síntomas para acortar el cuadro y prevenir complicaciones neumónicas bacterianas secundarias.",
+        "isCorrect": true,
+        "explanation": "Todo lactante menor de 2 años (grupo de muy alto riesgo de complicaciones pulmonares por Influenza) hospitalizado o con sospecha/confirmación de Influenza, tiene indicación formal de recibir tratamiento antiviral con Oseltamivir por vía oral por 5 días. Este inhibidor de la neuraminidasa detiene la propagación del virus e in vivo ha demostrado reducir de forma significativa la tasa de otitis media bacteriana secundaria y neumonía. Se asocia al tratamiento sintomático de la obstrucción bronquial (SBO) con Salbutamol inhalado según gravedad."
+      },
+      {
+        "text": "Iniciar tratamiento con amoxicilina a dosis de 90 mg/kg/día por vía oral de forma empírica inmediata.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina es ineficaz contra el virus de la Influenza; usarla de primera línea en ausencia de un foco bacteriano consolidativo lobar claro al ingreso es un uso irracional de antibióticos."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 12 años con crisis asmática severa ingresa a la urgencia en regulares condiciones generales. Durante el esfuerzo respiratorio por accesos de tos violenta y un Score pulmonar de 8 puntos persistente, el médico interno palpa de forma incidental una crepitación burbujeante y gaseosa fina (\"sensación de pisar nieve seca\") en la región anterior del cuello y supraclavicular bilateral. El escolar se encuentra hemodinámicamente estable pero con dificultad respiratoria marcada. ¿Cuál es el diagnóstico de sospecha de esta complicación mecánica y qué examen de primera línea está indicado de inmediato?",
+    "hint": "La crepitación gaseosa fina a la palpación de la piel del cuello es un signo semiológico patognomónico de gas libre en el tejido celular subcutáneo. En el paciente asmático grave con crisis de tos violenta, las presiones alveolares pueden romper los alveolos basales, escapándose el aire hacia los espacios del mediastino y subiendo al cuello por las vías de menor resistencia de las fascias cervicales.",
+    "options": [
+      {
+        "text": "Calcificación reactiva del músculo esternocleidomastoideo por vacuna BCG del recién nacido.",
+        "isCorrect": false,
+        "explanation": "La vacuna BCG no produce calcificaciones gaseosas crepitantes reactivas del cuello a los 12 años de edad de forma de secuela mecánica."
+      },
+      {
+        "text": "Celulitis bacteriana necrotizante gaseosa profunda del cuello por Clostridium; requiere debridamiento quirúrgico con traqueostomía inmediata.",
+        "isCorrect": false,
+        "explanation": "La gangrena gaseosa o celulitis necrotizante cursa con dolor extremo, eritema masivo de la piel, aspecto tóxico profundo fulminante y fiebre de origen bacteriano infeccioso local, incompatible con un hallazgo crepitante aséptico incidental en un menor asmático con tos violenta en urgencias."
+      },
+      {
+        "text": "Neumomediastino con Enfisema Subcutáneo Cervical, secundario a la rotura de alveolos sobredistendidos (efecto Macklin) que liberan aire que viaja por las vainas vasculares del hilio pulmonar hacia el mediastino y los tejidos blandos del cuello; se confirma de primera línea mediante una radiografía de tórax AP y lateral.",
+        "isCorrect": true,
+        "explanation": "El enfisema subcutáneo cervical secundario a neumomediastino es una complicación mecánica bien descrita de las crisis asmáticas severas con accesos de tos violenta (efecto Macklin). El aire alveolar roto diseca el espacio peribronquial y mediastínico, ascendiendo hacia la piel del cuello. Se confirma radiológicamente por la presencia de una línea de aire que bordea la silueta cardíaca (neumomediastino) y aire subcutáneo en tejidos blandos del cuello. Si el neumomediastino es asintomático y el paciente está hemodinámicamente estable, el tratamiento es de soporte conservador (desinflamar el broncoespasmo de base y oxigenoterapia que acelera la reabsorción del nitrógeno del aire libre); no requiere cirugías de drenaje mecánico a menos que progrese a neumotórax a tensión secundario."
+      },
+      {
+        "text": "Ruptura iatrogénica traumática de la tráquea por la saliva del escolar.",
+        "isCorrect": false,
+        "explanation": "No existe tal patogenia de \"ruptura traqueal por la saliva del escolar\"; la tráquea infantil es una estructura rígida cartilaginosa que no se rompe por secreción salival común."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Usted realiza el alta de un escolar de 8 años con asma de difícil control. Para empoderar a la familia y evitar demoras peligrosas en el inicio del tratamiento ante descompensaciones, la GINA y las pautas chilenas exigen entregar de forma obligatoria un Plan de Acción Escrito basado en un sistema de zonas o \"semáforo\". ¿Cuál de las siguientes opciones describe de forma correcta las indicaciones típicas asociadas a la Zona Amarilla (Fase de alerta o descompensación inicial) de este plan domiciliario?",
+    "hint": "La zona amarilla representa la fase intermedia del semáforo. El niño está resfriado o empieza a silbar, pero no tiene una crisis grave (zona roja) ni está totalmente controlado (zona verde). Es el momento clave de intervención antiinflamatoria rápida domiciliaria para frenar de forma oportuna la cascada obstructiva antes de que requiera ir a urgencias.",
+    "options": [
+      {
+        "text": "Zona de emergencia vital (sopor, cianosis); el menor debe ser intubado en la cocina de su hogar por la madre.",
+        "isCorrect": false,
+        "explanation": "La zona roja de emergencia vital exige acudir de inmediato al servicio de urgencias más cercano para reanimación médica avanzada; indicar intubaciones caseras por familiares es un error conceptual grave de consecuencias fatales."
+      },
+      {
+        "text": "Zona de control excelente; se suspenden todos los medicamentos por 6 meses de forma universal.",
+        "isCorrect": false,
+        "explanation": "La zona de control excelente sin síntomas es la Zona Verde; se deben mantener de forma rigurosa las dosis normales estables recomendadas de mantención, nunca suspenderlas de golpe por 6 meses."
+      },
+      {
+        "text": "Indica de forma universal el inicio de amoxicilina-clavulánico oral por 14 días en el domicilio sin inhaladores.",
+        "isCorrect": false,
+        "explanation": "No se indica antibióticos de forma sistemática en la zona de alerta amarilla del asma domiciliario; las descompensaciones son de causa viral o alérgica que no se tratan con amoxicilina."
+      },
+      {
+        "text": "Zona de alerta (síntomas de resfrío, tos nocturna frecuente o variabilidad del PEF mayor al 13%); se indica iniciar de forma inmediata dosis de rescate con Salbutamol (2 a 4 puffs cada 4 a 6 horas), duplicar de forma transitoria la dosis del corticoide inhalado (ICS) de mantención regular (o iniciarla si es intermitente) por un periodo corto de 1 a 2 semanas, y consultar a médico si los síntomas no ceden en 24 a 48 horas, según lo pautado por su médico.",
+        "isCorrect": true,
+        "explanation": "El plan de acción escrito simplifica el automanejo familiar de forma excelente. La Zona Amarilla (fase de alerta) indica que el control del asma se está perdiendo. El protocolo estándar familiar ante esta fase consiste en aumentar las dosis de rescate (Salbutamol) y, muy importante, duplicar o multiplicar la dosis del corticoide inhalado (ICS) de mantenimiento diario por un par de semanas para desinflamar rápidamente la mucosa respiratoria ante el virus respiratorio gatillante, evitando que el paciente progrese a una crisis severa que obligue a hospitalización."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Durante una reunión clínica de pediatría, se discute la diferencia en el perfil de seguridad cardiovascular y de selectividad de receptores adrenérgicos entre la L-Adrenalina y el Salbutamol. ¿Cuál de las siguientes afirmaciones describe de forma correcta por qué en las crisis de asma pediátricas comunes se prefiere de forma prioritaria el uso de Salbutamol por vía inhalatoria sobre el uso de la Adrenalina sistémica?",
+    "hint": "La adrenalina es una hormona endógena sistémica \"de lucha y huida\". Estimula de forma global a todos los receptores simpáticos, preparando al cuerpo para un esfuerzo extremo, lo que incluye abrir bronquios (beta-2), pero también contraer arterias (alfa-1) y exprimir al corazón (beta-1). El Salbutamol es un análogo sintético diseñado en laboratorio para actuar de forma casi exclusiva en el pulmón.",
+    "options": [
+      {
+        "text": "El Salbutamol es un agonista beta-adrenérgico altamente selectivo para los receptores beta-2 localizados en el músculo liso bronquial (provocando broncodilatación potente con mínimos efectos sistémicos beta-1 o alfa a dosis convencionales); por el contrario, la Adrenalina estimula de forma no selectiva a los receptores alfa-1, beta-1 y beta-2, induciendo efectos sistémicos cardiovasculares marcados (taquicardia severa, vasoconstricción periférica, hipertensión arterial y arritmias) que limitan de forma drástica su seguridad terapéutica sistémica rutinaria.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la selectividad adrenérgica diferencial. El Salbutamol inhalado localmente actúa con gran seguridad directamente sobre los receptores beta-2 bronquiales, provocando relajación muscular bronquial de forma limpia. La Adrenalina no selectiva se reserva en asma solo para situaciones críticas refractarias extremas (como paro respiratorio inminente, shock anafiláctico concomitante o ante imposibilidad absoluta de accesos inhalatorios de rescate) debido a su alto perfil de reactividad cardiovascular y arritmogénica sistémica severa."
+      },
+      {
+        "text": "El Salbutamol es un fármaco que actúa de forma exclusiva destruyendo el virus sincicial respiratorio en la luz traqueal.",
+        "isCorrect": false,
+        "explanation": "El salbutamol no tiene propiedades virucidas ni destruye físicamente de ninguna manera a partículas del VRS; su acción farmacológica se limita a la estimulación del receptor beta-2 del músculo liso de la vía aérea."
+      },
+      {
+        "text": "La Adrenalina es ineficaz para dilatar los bronquios a cualquier dosis pediátrica.",
+        "isCorrect": false,
+        "explanation": "La adrenalina es, de hecho, un broncodilatador sumamente potente (estimulación beta-2 sistémica), pero su nula selectividad de receptores adrenérgicos limita enormemente su seguridad para el uso de rescate rutinario en crisis asmáticas comunes."
+      },
+      {
+        "text": "La Adrenalina está prohibida de por vida en pediatría por riesgo de calcificar instantáneamente la aorta del lactante.",
+        "isCorrect": false,
+        "explanation": "No existe tal contraindicación absoluta de por vida ni riesgo de calcificación aórtica instantánea; la adrenalina es un fármaco de primera línea de reanimación pediátrica vital en paros cardiorrespiratorios o anafilaxias severas."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un lactante de 6 meses presenta desde el nacimiento un cuadro de estridor inspiratorio y espiratorio (bifásico) persistente, de carácter rígido y sordo, que empeora de intensidad de forma característica durante la alimentación (lactancia) y cuando extiende de forma refleja el cuello hacia atrás. Los padres refieren que ha recibido múltiples nebulizaciones y series de Salbutamol inhalado, y dos ciclos de corticoides orales sin presentar ninguna mejoría clínica del estridor. ¿Cuál es el diagnóstico de sospecha prioritario de esta obstrucción de la vía aérea y cuál es su correlación anatómica?",
+    "hint": "Si las sibilancias o el estridor de un lactante son \"rígidos\" (suenan idénticos siempre) y no se desinflaman con corticoides de mantención ni se dilatan con Salbutamol, la obstrucción no es inflamatoria de la mucosa bronquial (asma); es de origen mecánico extrínseco. El agravamiento al tragar (por compresión esofágica) y la mejoría al estirar el cuello son signos patognomónicos.",
+    "options": [
+      {
+        "text": "Laringomalacia congénita del lactante del tipo II severa.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia cursa característicamente con estridor puramente inspiratorio de tono agudo alto que empeora en decúbito supino y mejora notablemente en prono (boca abajo), sin causar compresión esofágica con disfagia típica."
+      },
+      {
+        "text": "mAPI positivo precoz severo con asma alérgica.",
+        "isCorrect": false,
+        "explanation": "El asma infantil o el SBOR atópico causan obstrucciones bronquiales de curso episódico y dinámico, no estridor bifásico rígido persistente desde el nacimiento refractario de forma absoluta a los corticoides y Salbutamol."
+      },
+      {
+        "text": "Anillo Vascular Congénito (como el doble arco aórtico o la arteria subclavia derecha aberrante); se produce por anomalías embrionarias del arco aórtico que forman una estructura vascular anómala cerrada que comprime de forma extrínseca y mecánica a la tráquea y al esófago, provocando estridor bifásico persistente y disfagia refractarios a broncodilatadores y corticoides.",
+        "isCorrect": true,
+        "explanation": "El cuadro clínico con estridor bifásico persistente refractario a la terapia de rescate, que empeora durante la deglución de alimentos (disfagia concomitante) y mejora al hiperextender el cuello (maniobra que descomprime parcialmente la vía aérea alta), es patognomónico de la presencia de un Anillo Vascular Congénito. El Angio-TC o la Resonancia Magnética cardíaca con contraste confirman la anomalía anatómica de los grandes vasos del mediastino que requiere de forma prioritaria una liberación quirúrgica precoz para evitar estenosis traqueal o traqueomalacia permanente."
+      },
+      {
+        "text": "Bronquitis obstructiva simple episódica por VRS.",
+        "isCorrect": false,
+        "explanation": "La bronquitis obstructiva simple es de inicio agudo, típicamente cursa con coriza previa, sibilancias bilaterales difusas y responde de forma parcial a la terapia de rescate convencional en lactantes de esta edad."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 10 años, derivado por sospecha de asma sobre la base de disnea sibilante de esfuerzo recurrente, acude a realizarse su primera espirometría basal de control en periodo intercrítico (el paciente se encuentra clínicamente sano y asintomático en las últimas 4 semanas). El informe del laboratorio reporta un patrón ventilatorio con valores de VEF<sub>1</sub> = 92%, CVF = 95%, y una relación VEF<sub>1</sub>/CVF = 0.85 (todos dentro del rango de referencia normal para la edad y sexo del escolar). Respecto a la interpretación diagnóstica de este resultado espirométrico normal, ¿cuál de las siguientes afirmaciones describe de forma correcta la conducta clínica adecuada?",
+    "hint": "La característica clave de la obstrucción del asma es su \"variabilidad\". El asma es un proceso que \"va y viene\". El paciente puede estar severamente obstruido durante una crisis nocturna, pero tener sus bronquios totalmente sanos y dilatados en una mañana de primavera templada en que asiste a realizarse el examen en el consultorio.",
+    "options": [
+      {
+        "text": "Confirma de forma absoluta que el escolar no tiene asma y que sus sibilancias eran de origen psicosomático puro, dándose el alta definitiva de la consulta.",
+        "isCorrect": false,
+        "explanation": "Dar de alta definitiva basándose en una sola espirometría normal intercrítica desprotegerá de forma peligrosa al menor, retrasando el diagnóstico oportuno y exponiéndolo a crisis asmáticas severas graves futuras en domicilio."
+      },
+      {
+        "text": "El resultado es inválido; un escolar de 10 años asmático siempre tendrá un VEF<sub>1</sub> < 50% de forma permanente de por vida.",
+        "isCorrect": false,
+        "explanation": "Los niños asmáticos tienen un pulmón estructuralmente normal fuera de las crisis en la inmensa mayoría de los casos no complicados; un VEF<sub>1</sub> < 50% permanente solo describe asma severa de muy larga evolución con daño de remodelación fija irreversible establecida en la adultez."
+      },
+      {
+        "text": "Una espirometría normal en periodo intercrítico no descarta bajo ningún concepto el diagnóstico de asma bronquial, debido a que el asma se caracteriza fisiopatológicamente por presentar una obstrucción bronquial de carácter eminentemente variable, episódico y reversible en el tiempo. Si la sospecha clínica persiste de forma fundada, se debe solicitar de forma secuencial una prueba de provocación bronquial con ejercicio o con metacolina (hiperreactividad bronquial) o espirometrías seriadas de control para documentar la variabilidad.",
+        "isCorrect": true,
+        "explanation": "Es un error conceptual común pensar que una sola espirometría normal descarta el asma. El asma es una enfermedad paroxística; en fases estables de intercrítico, la función pulmonar basal suele ser completamente normal. Si la sospecha por anamnesis es muy sugestiva (sibilancias recurrentes de esfuerzo o nocturnas), se debe estudiar la hiperreactividad bronquial mediante test de provocación (con ejercicio, metacolina o variabilidad del PEF domiciliaria), pruebas que demostrarán si el bronquio se contrae exageradamente ante estímulos físicos o químicos menores."
+      },
+      {
+        "text": "Se debe iniciar de inmediato tratamiento de por vida con altas dosis de corticoides por sonda nasogástrica.",
+        "isCorrect": false,
+        "explanation": "Los corticoides por sonda nasogástrica a dosis altas continuas de por vida están contraindicados y no guardan relación con la interpretación diagnóstica de una espirometría normal estable intercrítica."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Durante la consejería médica a una familia cuyo lactante cursa con una crisis obstructiva de SBO agudo, el padre le consulta por la conveniencia de administrarle un jarabe de venta libre que contiene antitusígenos (como Codeína o Dextrometorfano) o mucolíticos (como Ambroxol) para \"calmarle la tos y cortarle las flemas de forma rápida\". ¿Cuál es la recomendación y advertencia médica prioritaria respecto al uso de estos jarabes de venta libre en cuadros obstructivos bronquiales infantiles?",
+    "hint": "La tos en el SBO o asma no es una enfermedad molesta que deba ser \"borrada\" a ciegas; es el perro guardián del pulmón. Elimina físicamente el pus, el moco seco y los detritos de las vías aéreas estrechas. Si anestesiamos ese reflejo central, el moco se acumulará de forma silenciosa dentro de las tuberías respiratorias, taponándolas por completo.",
+    "options": [
+      {
+        "text": "Se deben indicar de forma prioritaria asociados al Salbutamol en todos los lactantes menores para agilizar la curación pulmonar de forma de sinergia celular.",
+        "isCorrect": false,
+        "explanation": "Sugiere una pauta de tratamiento errónea y sumamente peligrosa de consecuencias clínicas graves que viola directamente las normas de seguridad del lactante menor."
+      },
+      {
+        "text": "No tienen efectos secundarios relevantes, comportándose como agua dulce fisiológica simple.",
+        "isCorrect": false,
+        "explanation": "Los antitusígenos y mucolíticos tienen una alta tasa de efectos adversos e interacciones farmacológicas documentadas en pediatría, no comportándose de ninguna manera de forma inerte o inofensiva."
+      },
+      {
+        "text": "Está recomendado su uso exclusivo solo si el menor asiste a sala cuna de forma precoz.",
+        "isCorrect": false,
+        "explanation": "La asistencia a sala cuna es un factor de riesgo epidemiológico para resfríos recurrentes virales, pero no justifica el uso de fármacos contraindicados por el riesgo severo de taponamiento mucoso."
+      },
+      {
+        "text": "El uso de antitusígenos y mucolíticos está estrictamente contraindicado y formalmente desaconsejado en el SBO y asma pediátrico, debido a que los antitusígenos deprimen el reflejo de la tos (mecanismo fisiológico de defensa crucial para eliminar las secreciones bronquiales y el moco), favoreciendo la retención de secreciones, la formación de tapones de moco espesos y el desarrollo secundario de atelectasias masivas o neumonías de sobreinfección supurativas, mientras que los mucolíticos pueden aumentar de forma paradójica el volumen hídrico de las secreciones en bronquios ya estrechados, empeorando el esfuerzo respiratorio.",
+        "isCorrect": true,
+        "explanation": "Los jarabes antitusígenos centrales (codeína, clobutinol, dextrometorfano) están formalmente contraindicados en pediatría por el riesgo severo de retención de secreciones obstructivas, taponamiento bronquial secundario y atelectasias masivas. Adicionalmente, fármacos como la codeína conllevan riesgo de depresión respiratoria central severa y muerte en niños pequeños por su metabolismo hepático ultra-rápido impredecible. El tratamiento de la tos en el asma y SBO es estrictamente con broncodilatadores y corticoides dirigidos a dilatar el bronquio e ir disminuyendo el edema inflamatorio de base, lo que hará desaparecer la tos de forma fisiológica y segura."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un adolescente de 15 años presenta un asma de difícil control atópica de larga data. Durante el examen físico, el otorrinolaringólogo constata de forma bilateral la presencia de múltiples masas pálidas y carnosas que obstruyen casi por completo las fosas nasales (poliposis nasal severa). El adolescente refiere que hace tres semanas, tras ingerir una tableta de Ibuprofeno (400 mg) para un dolor muscular, presentó de forma súbita a los 30 minutos un cuadro de broncoespasmo severo asfixiante con urticaria y angioedema palpebral que requirió adrenalina intramuscular en urgencias. ¿Cuál es el diagnóstico de sospecha de este síndrome metabólico y qué grupo de fármacos de mantención diaria de tipo controlador oral tiene un especial rol protector en esta entidad?",
+    "hint": "Al igual que en la pregunta 24, la intolerancia a la aspirina y AINEs en preescolares o adolescentes asmáticos graves con poliposis nasal es un marcador clásico de un fenotipo metabólico no dependiente de IgE, caracterizado por una hiperreactividad del asma secundaria a la acumulación de leucotrienos bronco-constrictores locales de la LOX.",
+    "options": [
+      {
+        "text": "Síndrome de Tietze anterior; se trata con antiinflamatorios del tipo aspirina a dosis máximas de forma continua.",
+        "isCorrect": false,
+        "explanation": "La costocondritis de Tietze es la inflamación de los cartílagos del tórax anterior; el uso de aspirina o AINEs está formalmente contraindicado de forma absoluta en la EREA por el riesgo inminente de provocar un shock respiratorio de asfixia letal en el Samter."
+      },
+      {
+        "text": "Asma alérgica estacional por polen pura; se trata exclusivamente con antihistamínicos tópicos nasales de primera generación.",
+        "isCorrect": false,
+        "explanation": "No corresponde a un cuadro de asma estacional alérgico simple; es una alteración enzimática metabólica celular de la biosíntesis del ácido araquidónico de curso severo que no se controla únicamente con antihistamínicos tópicos nasales simples."
+      },
+      {
+        "text": "Enfermedad Respiratoria Exacerbada por Aspirina (EREA / Tríada de Samter / Síndrome de Widal); se produce por un desvío metabólico enzimático de la vía de la lipooxigenasa (locus LOX) que causa sobreproducción masiva de leucotrienos de tipo cisteinilo. En estos pacientes, el uso de Antagonistas de los Receptores de Leucotrienos (LTRA como Montelukast por vía oral) tiene un especial y potente beneficio clínico controlador adyuvante.",
+        "isCorrect": true,
+        "explanation": "La EREA es un fenotipo de asma grave con rinosinusitis poliposa que se desencadena típicamente tras la ingesta de aspirina u otros AINEs bloqueadores de COX-1. Los pacientes presentan una producción exacerbada basal de leucotrienos de tipo cisteinilo (potentes mediadores inflamatorios que provocan broncoespasmo y secreción de moco de forma masiva). Por este motivo, el uso de Montelukast (antagonista de receptores de leucotrienos) es altamente efectivo y recomendado en esta tríada, disminuyendo de forma marcada la inflamación bronquial y nasal."
+      },
+      {
+        "text": "Síndrome de Kartagener con DCP; se trata con amoxicilina oral por vía profiláctica diaria por un año.",
+        "isCorrect": false,
+        "explanation": "El Kartagener cursa con situs inversus, neumonías a repetición y disquinesia ciliar por dineína, sin asociarse de forma fisiopatológica con la intolerancia a la aspirina ni la degranulación leucotrienica del Samter."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Durante el control sano de un lactante de 18 meses con SBO recurrente, la madre refiere con frustración que \"los inhaladores de Salbutamol no le hacen ningún efecto al niño cuando le dan las crisis en la noche\". Al auditar de forma práctica la técnica inhalatoria en la consulta, usted observa que el lactante llora de forma vigorosa y enérgica con fuerza, gritando y rechazando con el rostro la mascarilla facial, momento en el cual la madre realiza el disparo (puff) del Salbutamol dentro de la aerocámara, forzando la respiración agitada del menor. ¿Cuál es el análisis técnico y de depósito pulmonar correcto respecto a esta práctica común?",
+    "hint": "La velocidad de entrada del aire durante la inspiración agitada por el llanto o grito del lactante es extremadamente alta y turbulenta. Las partículas del fármaco chocan por inercia física contra las cuerdas vocales que están cerradas por el llanto reflejo protector del cuello, rebotando y deposítandose en la lengua y garganta, de donde se tragan, anulando su efecto terapéutico local en los bronquios.",
+    "options": [
+      {
+        "text": "El llanto vigoroso reduce el depósito pulmonar del Salbutamol a niveles cercanos a cero, debido a que la espiración prolongada del grito y la inspiración rápida subsecuente de alta turbulencia de aire causan un depósito masivo del fármaco en la orofaringe y vía aérea superior por impacto inercial, impidiendo que viaje a la vía aérea baja. Se debe educar sobre la necesidad de administrar el puff de forma calmada en el menor despierto o durmiendo, manteniendo la mascarilla sellada herméticamente por al menos 5 a 6 respiraciones tranquilas tras el disparo.",
+        "isCorrect": true,
+        "explanation": "Es una regla de oro de la neumología infantil: las vacunas de inhalación y el Salbutamol no se disparan mientras el lactante llora. El llanto reduce de forma catastrófica el depósito del aerosol en las vías aéreas inferiores por cierre de la glotis e impacto de la turbulencia en la boca. Se debe calmar al niño, realizar contención, y sellar herméticamente la mascarilla de la aerocámara en un periodo de respiración tranquila y pausada (durante el sueño del lactante es una excelente alternativa en el hogar) asegurando al menos 5 a 6 respiraciones fisiológicas normales por cada puff disparado."
+      },
+      {
+        "text": "El llanto vigoroso es el momento ideal para disparar el puff debido a que la respiración profunda rápida del grito arrastra de forma facilitada al fármaco hacia los alveolos más profundos de forma de succión pulmonar.",
+        "isCorrect": false,
+        "explanation": "Sugiere una interpretación técnica errónea y sumamente extendida de forma equivocada entre las familias; el grito o llanto prolongado espira el aire e impide mecánicamente el paso libre y suave del Salbutamol en aerosol hacia la vía aérea inferior."
+      },
+      {
+        "text": "Las nebulizaciones húmedas continuas están recomendadas de forma universal en domicilio para evitar el llanto del lactante.",
+        "isCorrect": false,
+        "explanation": "Las nebulizaciones continuas húmedas caseras no se recomiendan de rutina debido a que asocian alta absorción sistémica y taquicardia al nacer y no evitan el llanto protector del menor que también rechaza de forma refleja la mascarilla húmeda del nebulizador ruidoso."
+      },
+      {
+        "text": "El llanto es inocuo y no altera de ninguna manera el depósito pulmonar del Salbutamol; el fracaso terapéutico se asocia de forma exclusiva a una resistencia genética biológica del lactante menor.",
+        "isCorrect": false,
+        "explanation": "La resistencia genética biológica al salbutamol es excepcional; la causa del fracaso terapéutico en la inmensa mayoría de las familias en domicilio es una técnica de inhalación defectuosa durante el llanto o grito del menor."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 8 años con diagnóstico de asma bien controlada se encuentra recibiendo tratamiento controlador de Paso 2 de GINA con Fluticasona propionato 100 mcg/día de forma regular. El paciente asiste al consultorio con sus cuidadores debido a que inició hace 24 horas con síntomas de resfrío común (coriza, rinorrea y tos leve) asociados a la época invernal. El examen físico respiratorio es normal (sin dificultad para respirar ni sibilancias). ¿Cuál es la conducta terapéutica preventiva de tipo controlador indicada para este paciente en el hogar según las directrices de GINA?",
+    "hint": "Los virus respiratorios son la causa de más del 85-90% de las crisis de asma en preescolares y escolares. Ante un resfrío común, la mucosa respiratoria se inflama de forma progresiva. Subir de forma transitoria la dosis del esteroide actúa como un escudo antiinflamatorio preventivo inmediato en el hogar.",
+    "options": [
+      {
+        "text": "Indicar reposo absoluto en cama por 3 meses de forma universal.",
+        "isCorrect": false,
+        "explanation": "Imponer un reposo absoluto de 3 meses de forma universal en cama por un resfrío común afebril es una medida punitiva desproporcionada que altera de forma innecesaria el desarrollo psicomotor, social y la calidad de vida del escolar."
+      },
+      {
+        "text": "Iniciar un Step-Up temporal (aumento transitorio de la dosis de mantención) de su corticoide inhalado al doble de la dosis (200 mcg/día) o según su plan de acción escrito por un periodo corto de 1 a 2 semanas durante la infección respiratoria alta viral, volviendo a su dosis habitual del Step 2 una vez resuelto el resfrío, para disminuir la probabilidad de progresión a una crisis asmática severa y el uso de prednisona oral de urgencias.",
+        "isCorrect": true,
+        "explanation": "El Step-Up temporal (incremento transitorio de la terapia de mantenimiento) ante infecciones respiratorias virales altas es una pauta preventiva de primer nivel recomendada por GINA. Al duplicar o multiplicar la dosis del corticoide inhalado de mantención de forma precoz en el domicilio en las primeras 24-48 horas del resfrío común, se desinflama la mucosa antes de que ocurra el broncoespasmo severo, reduciendo a la mitad la probabilidad de requerir corticoides orales sistémicos o asistir de urgencia a la sala IRA."
+      },
+      {
+        "text": "Suspender por completo el corticoide de mantención durante el resfrío para evitar la supresión suprarrenal sistémica por lisis del virus.",
+        "isCorrect": false,
+        "explanation": "Suspender el corticoide controlador (único interruptor de la inflamación activa) durante un resfrío viral de alto riesgo de crisis es un error de manejo crítico que desprotege al menor y asocia el cuadro clínico a crisis severas fulminantes de asma."
+      },
+      {
+        "text": "Cambiar a tratamiento continuo con amoxicilina-clavulánico por vía oral por 14 días sin inhaladores.",
+        "isCorrect": false,
+        "explanation": "Las infecciones virales que desencadenan crisis asmáticas no se tratan con amoxicilina-clavulánico; los antibióticos son inútiles contra los mixovirus respiratorios comunes y aumentan la resistencia bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un lactante de 8 meses de vida es derivado a la sala IRA por presentar historia de SBO recurrente de carácter severo refractario a Salbutamol y corticoides orales. Al realizar el examen físico segmentario cardiovascular, usted detecta un soplo sistólico eyectivo amplio grado III/VI escuchado con mayor intensidad en la región paraesternal izquierda alta, asociado a hepatomegalia palpable de 2.5 cm bajo el reborde costal derecho y regular incremento ponderal. ¿Cuál es el diagnóstico diferencial de sospecha de esta obstrucción de la vía aérea inferior y qué fenómeno hemodinámico imita el cuadro obstructivo bronquial?",
+    "hint": "Un pulmón congestionado de sangre (hiperflujo por cortocircuito de izquierda a derecha de CIV, CIA o conducto arterioso persistente ancho) acumula líquido en el espacio entre los bronquios y capilares (edema intersticial de vecindad). Al hincharse las paredes externas de los bronquiolos del lactante de pequeño calibre, se colapsa su luz imitando de forma refleja un cuadro sibilante de SBO recurrente.",
+    "options": [
+      {
+        "text": "Cardiopatía Congénita de Cortocircuito de Izquierda a Derecha (como la Comunicación Interventricular o CIV de gran tamaño); cursa con un marcado hiperflujo pulmonar que congestiona y edematiza la mucosa respiratoria peribronquial (edema de pared bronquial mecánico), lo que estrecha el diámetro de las vías aéreas simulando sibilancias espiratorias difusas y SBO recurrente refractario a la terapia inhalatoria.",
+        "isCorrect": true,
+        "explanation": "Las cardiopatías con cortocircuito de izquierda a derecha causan hiperflujo y congestión venosa capilar pulmonar masiva. El edema de pared bronquial secundario estrecha mecánicamente los bronquiolos en lactantes pequeños (\"edema pulmonar congestivo que silba\"). Semiostólogamente, esto se confunde de forma muy frecuente con SBO obstructivo común o asma infantil, pero se sospecha por la refractariedad al tratamiento, la hepatomegalia (insuficiencia cardíaca derecha) y la presencia de soplos cardíacos alterados o soplos funcionales al examen cardiovascular. El ecocardiograma confirma el diagnóstico estructural de la cardiopatía CIV."
+      },
+      {
+        "text": "SBO recurrente de causa alérgica estacional típica.",
+        "isCorrect": false,
+        "explanation": "El SBO recurrente de base alérgica o asma no cursa con soplos cardíacos patológicos grado III/VI restrictivos de base, ni con hepatomegalia palpable congestiva, y responde de forma parcial a la terapia broncodilatadora."
+      },
+      {
+        "text": "Laringomalacia congénita del lactante del tipo II severa.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia es una anomalía de los cartílagos supraglóticos laringeos altos; produce estridor inspiratorio que varía con la posición del cuello, no sibilancias espiratorias bajas difusas asociadas a soplos y hepatomegalia por cortocircuito interventricular."
+      },
+      {
+        "text": "Asma alérgica de inicio precoz mediada por IgE de la vacuna BCG del recién nacido.",
+        "isCorrect": false,
+        "explanation": "No existe asma alérgica mediada por la vacuna BCG al nacer; es una interpretación de patogenia completamente errónea e inexistente."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Al programar la dosificación de la terapia controladora de mantención en el asma pediátrico, es de gran relevancia conocer las equivalencias de potencia molecular de los diferentes Corticoides Inhalados (ICS) de uso programático en Chile (Fluticasona propionato y Budesonida). ¿Cuál es la relación de potencia aproximada entre la Fluticasona y la Budesonida, y cómo influye en la dosificación clínica?",
+    "hint": "La fluticasona propionato presenta una mayor afinidad molecular por el receptor esteroideo intracelular y un mayor aclaramiento hepático de primer paso (menor biodisponibilidad digestiva de la porción tragada en boca) en comparación con el corticoide clásico Budesonida. Esto hace que se requiera la mitad del peso en microgramos de fluticasona para lograr el mismo efecto antiinflamatorio local que la budesonida.",
+    "options": [
+      {
+        "text": "El Salbutamol oral es de mayor potencia antiinflamatoria sistémica y reemplaza a ambos esteroides de mantención de primera línea.",
+        "isCorrect": false,
+        "explanation": "El salbutamol oral carece de toda propiedad antiinflamatoria controladora sobre la mucosa; su uso de mantención en asma está obsoleto por ineficacia y toxicidad cardiovascular pediátrica severa."
+      },
+      {
+        "text": "La Fluticasona propionato es aproximadamente el doble de potente de forma local que la Budesonida (1:2); por lo tanto, una dosis baja de Fluticasona corresponde típicamente a 100-200 mcg/día, mientras que una dosis baja equivalente de Budesonida corresponde a 200-400 mcg/día de dosis total diaria en escolares.",
+        "isCorrect": true,
+        "explanation": "Describe la equivalencia de potencia clásica de los ICS en las tablas de dosificación de GINA/GEMA: la fluticasona tiene aproximadamente el doble de potencia que la budesonida o el dipropionato de beclometasona estándar (1:2). Al prescribir, esto exige al clínico ajustar de forma individualizada el peso en microgramos de las ampollas o puffs MDI para evitar subdosificaciones (al cambiar de fluticasona a budesonida con idéntico número de puffs) o sobredosis iatrogénicas involuntarias (al cambiar de budesonida a fluticasona)."
+      },
+      {
+        "text": "La Budesonida es 10 veces más potente que la Fluticasona, por lo que se deben prescribir dosis de microgramos en el recién nacido.",
+        "isCorrect": false,
+        "explanation": "Es falso; la fluticasona es el fármaco de mayor potencia molecular intrínseca local y menor paso sistémico digestivo de los dos corticoides inhalados de mayor uso en Chile."
+      },
+      {
+        "text": "Ambas formulaciones son químicamente idénticas en peso y dosificación, por lo que una dosis de 1000 mcg es equivalente en ambos fármacos de mantención.",
+        "isCorrect": false,
+        "explanation": "No son químicamente idénticas; sus pesos moleculares, potencia local sobre el receptor, y biodisponibilidad sistémica difieren de forma muy marcada, siendo un error técnico grave asumir que 1000 mcg de budesonida equivalen a 1000 mcg de fluticasona de forma indistinta."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un adolescente de 16 años con antecedentes de asma grave no controlada de larga data (por mala adherencia al tratamiento controlador por las últimas dos décadas en su hogar) asiste a espirometría de control. Se realiza prueba de broncodilatador (PBD) con 4 puffs de Salbutamol, reportando de forma persistente un patrón obstructivo moderado fijo sin reversibilidad (VEF<sub>1</sub> final <70% constante). El especialista explica que este paciente presenta una Remodelación de la Vía Aérea. ¿Cuál es el proceso histopatológico crónico que explica esta obstrucción fija irreversible del flujo de aire en el asma no controlada?",
+    "hint": "El asma es una inflamación celular activa. Si permitimos que el tejido bronquial sufra esta inflamación y \"ataques\" de crisis de forma constante durante años sin el escudo protector de los corticoides controladores (ICS), el pulmón cicatrizará de forma desordenada y rígida (fibrosis subepitelial y aumento de músculo), transformando una obstrucción dinámica reversible en una obstrucción fija e incurable que imita la enfermedad pulmonar obstructiva crónica (EPOC) en la juventud.",
+    "options": [
+      {
+        "text": "Parálisis neuromuscular espástica de los cartílagos costales del diafragma por asma.",
+        "isCorrect": false,
+        "explanation": "No causa parálisis de los cartílagos costales del tórax; el daño está localizado en las paredes celulares internas intrínsecas del árbol bronquial intrapulmonar."
+      },
+      {
+        "text": "Necrosis por gas supurativa por invasión de Pseudomonas de la mucosa laríngea alta.",
+        "isCorrect": false,
+        "explanation": "No representa una infección de origen bacteriano necrotizante supurativa del cuello por pseudomonas; es una complicación estructural cicatrizal inflamatoria aséptica bronquial parenquimatosa crónica."
+      },
+      {
+        "text": "Proceso cicatrizal irreversible de las paredes bronquiales secundario a la inflamación crónica no tratada, caracterizado histopatológicamente por: engrosamiento de la membrana basal reticular, hiperplasia e hipertrofia del músculo liso bronquial, depósito de colágeno subepitelial (fibrosis), hiperplasia de glándulas mucosas y neovascularización capilar local.",
+        "isCorrect": true,
+        "explanation": "Describe de forma precisa la anatomía patológica de la remodelación de la vía aérea en asma severa de larga data. La inflamación crónica no controlada (Th2 eosinofílica persistente) lesiona el epitelio, activando factores de crecimiento fibroblásticos locales. Esto produce fibrosis de la pared bronquial, hipertrofia muscular y moco espeso que solidifica la obstrucción, transformándola en una limitación crónica fija irreversible al flujo aéreo que ya no responderá de forma útil a los broncodilatadores en la espirometría. Se previene de forma prioritaria con el uso regular y precoz de corticoides inhalados (ICS) en la infancia."
+      },
+      {
+        "text": "Calcificación ósea metafisaria transitoria simétrica de las paredes de la tráquea por vacuna de la polio.",
+        "isCorrect": false,
+        "explanation": "La pared de los bronquiolos distales carece de cartílago y no sufre calcificaciones óseas metafisarias por la vacuna de la polio; la afección es celular del músculo liso y membrana basal bronquial."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Un escolar de 10 años, con asma moderada controlada que practica atletismo competitivo, cuenta con un plan de acción escrito por su pediatra. Sin embargo, el profesor de educación física le prohíbe de forma rutinaria realizar mediciones de flujometría (Peak Flow / PEF) antes de correr, asumiendo que \"es un examen médico peligroso que desconcentra al escolar\". Respecto a las indicaciones y técnica de la flujometría en el ámbito escolar y deportivo, ¿cuál es la conducta correcta que debe educar el profesional de salud?",
+    "hint": "La flujometría domiciliaria o escolar es tan sencilla de realizar como tomar la temperatura axilar con termómetro. El soplido de fuerza máxima de 1 segundo mide el flujo máximo en la vía aérea y permite al deportista saber objetivamente el estado real de sus bronquios para competir sin riesgos.",
+    "options": [
+      {
+        "text": "El PEF es ineficaz y debe ser reemplazado por la medición del perímetro craneal con cinta métrica diaria por el profesor.",
+        "isCorrect": false,
+        "explanation": "Medir el perímetro de la cabeza no aporta ninguna información funcional respiratoria diagnóstica ni evalúa de ninguna forma la obstrucción traqueobronquial o la viabilidad del flujo de aire para el ejercicio en el escolar."
+      },
+      {
+        "text": "La flujometría (PEF) es una herramienta de autocontrol excelente, segura y no invasiva para escolares asmáticos deportistas; se realiza de forma rápida antes de correr inspirando hondo y soplando de forma instantánea y con la máxima fuerza posible (soplido de vela corto) a través de la boquilla, repitiendo la medición 3 veces para registrar el valor más alto de las tres tomas. Si el valor es de rango óptimo (>80% de su mejor marca personal), el escolar puede correr y jugar con total normalidad y seguridad.",
+        "isCorrect": true,
+        "explanation": "El Peak Flow (PEF) es la herramienta de control ambulatorio escolar por excelencia en asma deportiva. Soplar con fuerza máxima de forma instantánea de pie (técnica del soplido corto y rápido, repitiendo 3 veces y anotando el mejor valor) da una estimación en litros por minuto de la permeabilidad de la vía aérea. Si el valor está en Zona Verde (>80% de su mejor personal), el escolar puede competir; si cae a Zona Amarilla (60-80%), se autoadministra 2 puffs de Salbutamol preventivo antes de correr según su plan escrito."
+      },
+      {
+        "text": "Apoyar la decisión del profesor; la flujometría provoca de forma de degranulación la pérdida instantánea de las plaquetas de forma de hematomas locales del rostro.",
+        "isCorrect": false,
+        "explanation": "La flujometría es una prueba funcional respiratoria inofensiva externa; no tiene ninguna relación patogénica ni se asocia característicamente a la lisis de plaquetas o diátesis hemorrágica iatrogénica en el rostro."
+      },
+      {
+        "text": "Realizar la flujometría únicamente de forma hospitalizada en el pabellón de cirugía bajo anestesia general inhalatoria de urgencia.",
+        "isCorrect": false,
+        "explanation": "No requiere pabellones, anestesia general ni hospitalizaciones; el dispositivo flujómetro es portátil de plástico pequeño de uso manual seguro en el mismo patio del colegio de forma ambulatoria directa."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Asma",
+    "text": "Durante la discusión de un caso de asma refractaria complicada con reflujo gastroesofágico (RGE) patológico severo, se analiza el mecanismo molecular por el cual el ácido clorhídrico y la acidez estomacal inducen el cierre de los bronquios pediátricos. ¿Cuál es la explicación neurofisiológica y patogénica de este broncoespasmo reflejo por RGE?",
+    "hint": "El esófago y las vías respiratorias superiores e inferiores comparten el mismo origen embrionario (el intestino anterior) y, por lo tanto, están inervadas de forma muy rica y simétrica por el mismo par craneal (el nervio vago o décimo par). Un estímulo nocivo doloroso o ácido en el esófago \"activa\" de forma de cortocircuito reflejo el cierre de seguridad de los bronquios del pulmón.",
+    "options": [
+      {
+        "text": "El ácido estomacal se inhala en forma de gases nitrogenados que deprimen el impulso diafragmático central.",
+        "isCorrect": false,
+        "explanation": "El RGE se asocia a microaspiraciones líquidas del contenido enteral del estómago en reflujo, no a la inhalación de vapores o gases de nitrógeno que actúen como anestésicos de la respiración diafragmática."
+      },
+      {
+        "text": "La estimulación ácida de los receptores sensitivos de la mucosa esofágica distal (vía vagal aferente) desencadena de forma refleja un arco reflejo esófago-bronquial que viaja de retorno por el nervio vago (vía colinérgica eferente) provocando bronco-constricción severa, sumado a las microaspiraciones silenciosas directas de ácido a la laringe que causan edema de la pared bronquial y cierre de las vías aéreas por inflamación química local.",
+        "isCorrect": true,
+        "explanation": "Explica de forma precisa la neurofisiopatología del asma agravada por RGE. El reflejo esófago-bronquial es un arco neural vagal colinérgico: la acidez de la mucosa esofágica activa quimiorreceptores del vago, gatillando una respuesta eferente de bronco-constricción espasmódica. A esto se asocian las microaspiraciones líquidas de jugo gástrico ácido directo a la laringe y tráquea, que lesionan el epitelio respiratorio profundo, induciendo inflamación química necrotizante que aumenta drásticamente la hiperreactividad bronquial refractaria Th2 del asma."
+      },
+      {
+        "text": "El ácido del esófago viaja de forma hematógena rápida hacia el bazo para destruir los anticuerpos IgE de la envoltura pulmonar.",
+        "isCorrect": false,
+        "explanation": "El ácido gástrico no tiene absorción hematógena que viaje al bazo para destruir de forma selectiva a anticuerpos IgE sistémicos."
+      },
+      {
+        "text": "El esófago no tiene relación con el asma y el broncoespasmo es secundario a la lisis de amoxicilina inhalatoria.",
+        "isCorrect": false,
+        "explanation": "Sí existe una relación de gran significancia comórbida documentada; ignorar la estimulación del reflejo vagal esófago-bronquial del RGE perpetúa la falla del tratamiento esteroidal inhalado en el asma refractaria."
+      }
+    ]
   }
 ]
