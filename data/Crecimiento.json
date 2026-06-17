@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un lactante de 8 meses de edad es llevado al Centro de Salud Familiar para su control de salud infantil de rutina. Al realizar la evaluación antropométrica y trasladar los datos a las curvas de crecimiento de la OMS vigentes en la red de salud chilena, se constata: Peso/Talla en +1,2 DE y Talla/Edad en -1,4 DE. ¿Cuál es el diagnóstico nutricional e indicador de talla correcto para este paciente?",
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante el control sano de un preescolar de 3 años de edad en el CESFAM, usted se dispone a evaluar su estado nutricional. El registro antropométrico de la balanza y el estadiómetro arroja un valor de Índice de Masa Corporal para la Edad (IMC/E) situado en +2,4 DE. De acuerdo con las curvas de crecimiento de la OMS y el MINSAL en Chile, ¿cómo clasifica nutricionalmente a este paciente?",
@@ -61,7 +61,7 @@
   },
   {
     "id": 3,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un escolar de 6 años de edad, previamente sano, es llevado a su control de salud en APS. Al evaluar la talla, se constata que su indicador Talla/Edad se sitúa exactamente en -2,1 DE. Al revisar la velocidad de crecimiento en los últimos doce meses, esta se reporta en rangos normales de 5 cm/año. De acuerdo con las guías de derivación de talla baja del MINSAL, ¿cuál es la conducta clínica inicial correcta?",
@@ -91,7 +91,7 @@
   },
   {
     "id": 4,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante el control sano de un lactante de 6 meses de edad, usted evalúa su velocidad de crecimiento estatural. Al revisar los controles anteriores, se constata que en los últimos dos meses (desde los 4 a los 6 meses) el lactante ha crecido de forma lineal a razón de 1,0 cm/mes. ¿Cómo interpreta semiológicamente esta velocidad de crecimiento y cuál es la conducta correcta?",
@@ -121,7 +121,7 @@
   },
   {
     "id": 5,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "En un Centro de Salud Familiar de la comuna de San Fernando, se realiza el control de niño sano a un preescolar de 3 años de edad. De acuerdo con las pautas y normas técnicas de supervisión infantil del MINSAL vigentes en Chile, ¿cuál es la recomendación correcta respecto a la toma de presión arterial en este paciente?",
@@ -151,7 +151,7 @@
   },
   {
     "id": 6,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Una madre de un lactante de 2 meses asiste al control sano y consulta sobre las medidas de seguridad para la prevención del Síndrome de Muerte Súbita del Lactante (SMSL) en el hogar. De acuerdo con las recomendaciones vigentes del programa Chile Crece Contigo y el MINSAL, ¿cuál es la indicación correcta?",
@@ -181,7 +181,7 @@
   },
   {
     "id": 7,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante el control sano de un preescolar de 3 años de edad, se realiza la consejería sobre seguridad vial y el uso correcto de Sistemas de Retención Infantil (SRI) en vehículos particulares de acuerdo con la Ley de Tránsito vigente en Chile. ¿Cuál es la indicación normativa correcta?",
@@ -211,7 +211,7 @@
   },
   {
     "id": 8,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un preescolar de 2 años de edad es llevado de urgencia por su madre al consultorio tras haber ingerido accidentalmente una cantidad indeterminada de detergente lavaloza líquido concentrado desde el mueble de la cocina de su hogar. Se encuentra consciente, activo y llorando. ¿Cuál es la conducta de primera línea recomendada por la guía de intoxicaciones?",
@@ -241,7 +241,7 @@
   },
   {
     "id": 9,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante el control sano de los 12 meses en el CESFAM, usted realiza la evaluación bucodentaria del lactante según las pautas del Control con Enfoque de Riesgo Odontológico (CERO) en Chile. Al pesquisar la presencia de 4 dientes incisivos sanos, ¿cuál es la indicación correcta de higiene bucal que debe entregar a la madre?",
@@ -271,7 +271,7 @@
   },
   {
     "id": 10,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un lactante de 3 meses de edad asiste a su control programático en la APS. Durante la exploración física, usted evalúa el alineamiento y estabilidad de sus caderas. En el contexto del programa nacional chileno de pesquisa de displasia del desarrollo de caderas (DDC), ¿cuál es la conducta por imágenes de tamizaje universal indicada para este lactante?",
@@ -301,7 +301,7 @@
   },
   {
     "id": 11,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Usted realiza el control de niño sano a un lactante de 4 meses de edad en el Centro de Salud Familiar. De acuerdo con el Programa Nacional de Inmunizaciones (PNI) 2026 de Chile y las directrices de APS, ¿cuál es la pauta de evaluación del desarrollo psicomotor y las vacunas correspondientes que se deben administrar a esta edad?",
@@ -331,7 +331,7 @@
   },
   {
     "id": 12,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Se atiende en control sano a un lactante de 6 meses de edad que se encuentra normopeso. Se asiste la consejería para el inicio de la alimentación complementaria no láctea de acuerdo con las Guías Alimentarias de Chile. ¿Cuál es la indicación correcta respecto a su hito alimentario y la inmunización programática del PNI?",
@@ -361,7 +361,7 @@
   },
   {
     "id": 13,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un lactante de 12 meses de edad (1 año de vida completo) acude a su control programático de niño sano en el CESFAM de San Fernando. De acuerdo con el calendario PNI 2026 de Chile, ¿cuáles son las tres vacunas obligatorias del programa ministerial que se deben administrar de forma simultánea a esta edad?",
@@ -391,7 +391,7 @@
   },
   {
     "id": 14,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un lactante de 18 meses (1 año y medio de vida) asiste a su control programático de niño sano en el consultorio. De acuerdo con el Programa Nacional de Inmunizaciones (PNI) 2026 de Chile y las directrices de APS, ¿cuál es la pauta de evaluación del desarrollo psicomotor y las vacunas que se deben administrar a esta edad?",
@@ -421,7 +421,7 @@
   },
   {
     "id": 15,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "En el contexto del control de salud integral del niño y la niña en APS en Chile, se aplica la pauta M-CHAT-R/F para el tamizaje de riesgo de Trastornos del Espectro Autista. ¿Cuál es el rango de edad recomendado para su aplicación universal y cómo se interpretan los puntajes intermedios obtenidos?",
@@ -451,7 +451,7 @@
   },
   {
     "id": 16,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un preescolar de 3 años de edad asiste a su control sano en el Centro de Salud Familiar. De acuerdo con las normas de supervisión integral en APS de Chile, ¿cuál es el instrumento del desarrollo psicomotor y las evaluaciones clínicas de tamizaje de órganos de los sentidos que corresponden realizar?",
@@ -481,7 +481,7 @@
   },
   {
     "id": 17,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante la supervisión de salud de un escolar de 6 años en la APS chilena, la madre y el profesor del colegio manifiestan preocupación por sospechas de Trastorno por Déficit de Atención con Hiperactividad (TDAH). De acuerdo con las pautas de salud mental escolar, ¿cuál es el instrumento de tamizaje recomendado y su interpretación diagnóstica inicial?",
@@ -511,7 +511,7 @@
   },
   {
     "id": 18,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Se realiza la evaluación de la agudeza visual en un preescolar de 4 años de edad utilizando el test de optotipos de Lea Symbols durante su control sano en el consultorio. ¿Cuál de los siguientes criterios clínicos al examen de agudeza visual obliga de forma mandatoria a la derivación a oftalmología según las normas de Chile?",
@@ -541,7 +541,7 @@
   },
   {
     "id": 19,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante la clase de semiología pediátrica, el docente aborda los cambios en las proporciones corporales del recién nacido a lo largo del crecimiento. ¿Cuál de las siguientes afirmaciones describe de forma correcta la evolución fisiológica de la relación entre el segmento superior (SS) y el segmento inferior (SI) desde el nacimiento?",
@@ -571,7 +571,7 @@
   },
   {
     "id": 20,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Una madre acude a control con su hijo de 15 meses de edad. Ella refiere estar preocupada porque al niño aún \"no le ha salido ningún diente\" en la cavidad oral, y consulta si este hallazgo es normal. De acuerdo con la cronología normal de la erupción de la dentición decidua, ¿cuál de las siguientes opciones de diagnóstico y conducta es correcta?",
@@ -601,7 +601,7 @@
   },
   {
     "id": 21,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante la aplicación de la pauta de supervisión de salud infantil de un lactante de 2 meses en el consultorio, se aplica la Pauta de Riesgo Biopsicosocial de Chile Crece Contigo (PRB). ¿Cuál de las siguientes afirmaciones describe de forma correcta el objetivo de este instrumento y los factores que evalúa?",
@@ -631,7 +631,7 @@
   },
   {
     "id": 22,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un escolar de 8 años de edad es evaluado en control sano en el consultorio. Al realizar el cálculo antropométrico del Índice de Masa Corporal para la Edad (IMC/E) utilizando las referencias de la OMS para mayores de 6 años, se registra un valor de -1,5 DE. ¿Cuál es la clasificación nutricional correcta para este escolar?",
@@ -661,7 +661,7 @@
   },
   {
     "id": 23,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante la supervisión de salud de un lactante de 6 meses de edad, usted evalúa el desarrollo y la indemnidad de la vía sensorial auditiva. ¿Cuál de los siguientes comportamientos o hitos de la audición del lactante es considerado una bandera roja de sospecha diagnóstica para hipoacusia en la APS?",
@@ -691,7 +691,7 @@
   },
   {
     "id": 24,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Una niña de 11 años de edad acude al Centro de Salud Familiar para su control de salud de rutina. Al evaluar su desarrollo puberal mediante la escala de Tanner, usted constata la presencia de un botón mamario palpable en el pecho izquierdo con discreto aumento de la areola (Tanner 2). ¿Cuál es el significado clínico de este hallazgo y su cronología normal?",
@@ -721,7 +721,7 @@
   },
   {
     "id": 25,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un paciente de 10 años de edad, de sexo masculino, asiste a control de salud en el consultorio. Al realizar el examen genital detallado en el box de atención, el médico evalúa el tamaño de las gónadas masculinas. ¿Cuál es el primer signo clínico que define el inicio fisiológico de la pubertad en el varón y su cronología normal?",
@@ -751,7 +751,7 @@
   },
   {
     "id": 26,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Usted realiza una consejería de salud a padres sobre las variantes normales y desviaciones del desarrollo puberal de sus hijos. Al explicar la diferencia diagnóstica de edad entre la pubertad precoz y el retraso puberal, ¿cuál es la pauta de edad límite de derivación para ambos sexos según las guías clínicas chilenas?",
@@ -781,7 +781,7 @@
   },
   {
     "id": 27,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un adolescente de 14 años asiste al consultorio para su control de salud integral del adolescente en la red de APS chilena. Al realizar la entrevista clínica dirigida, el profesional de la salud aplica de forma sistemática la ficha de entrevista HEADSSS. ¿Cuál es el objetivo principal y la estructura de dimensiones que evalúa este instrumento específico?",
@@ -811,7 +811,7 @@
   },
   {
     "id": 28,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "En un CESFAM de la Región de O'Higgins, se aplica la Pauta de Factores Condicionantes de Riesgo de Malnutrición por Exceso (MPE) a un lactante de 12 meses de edad durante su control de salud de rutina. ¿Cuál de las siguientes combinaciones de variables es evaluada de forma directa en esta pauta preventiva del MINSAL en APS?",
@@ -841,7 +841,7 @@
   },
   {
     "id": 29,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Durante la sesión educativa grupal en el consultorio sobre prevención de accidentes infantiles en el hogar, usted se refiere de forma dirigida a la asfixia por inmersión en piscinas domésticas. De acuerdo con las normas de seguridad del programa de seguridad infantil de Chile Crece Contigo, ¿cuál es la recomendación correcta para los padres?",
@@ -871,7 +871,7 @@
   },
   {
     "id": 30,
-    "internado": "Control Sano",
+    "internado": "Pediatría",
     "area": "Control Sano",
     "topic": "Crecimiento y Desarrollo",
     "text": "Un lactante de 3 meses de edad es llevado a control de niño sano en el consultorio. Al realizar la exploración física detallada, usted nota la presencia de hematomas de aspecto lineal y color violáceo en la espalda, asociados a quemaduras simétricas de bordes bien delimitados en forma de calcetín en ambos pies. La madre atribuye las lesiones a caídas de la cuna. ¿Cuál es el diagnóstico clínico prioritario y la conducta legal obligatoria que debe adoptar en APS?",
