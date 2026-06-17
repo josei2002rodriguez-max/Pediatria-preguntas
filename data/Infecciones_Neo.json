@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 39 semanas de edad gestacional es evaluado en la sala de atención inmediata de la maternidad. Durante la revisión de la ficha clínica materna, se constata el antecedente de una rotura prematura de membranas (RPM) de 20 horas de evolución, asociada a fiebre intraparto cuantificada en 38,3 °C y ausencia de profilaxis antibiótica. El recién nacido se encuentra en sus primeros minutos de vida, activo, con adecuado esfuerzo respiratorio y rosado, registrando un APGAR 9 a 9. ¿Cuál es el factor de riesgo más determinante para Sepsis Neonatal Precoz (SNP) en este caso y qué conducta clínica inicial se debe adoptar con el recién nacido?",
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 3 días de vida asiste a su primera evaluación clínica ambulatoria. El menor es hijo de una gestante con diagnóstico de Sífilis Latente Tardía detectada en el tercer trimestre, quien recibió tratamiento con Penicilina G Benzatina de 2,4 millones de UI por vía intramuscular semanal por tres dosis, terminando la última dosis exactamente 15 días antes del parto. El VDRL materno al momento del parto fue de 1:4 y el VDRL en sangre periférica del recién nacido reporta un título de 1:2. El examen físico del neonato es normal. ¿Cómo se clasifica el tratamiento materno y qué conducta diagnóstica corresponde adoptar?",
@@ -61,7 +61,7 @@
   },
   {
     "id": 3,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted confirma la sospecha clínica de Sepsis Neonatal Precoz (SNP) en un recién nacido de 36 semanas de edad gestacional de 12 horas de vida, quien presenta taquipnea persistente, quejido audible al examen físico, inestabilidad térmica con tendencia a la hipotermia y llanto de carácter débil. Tras la toma correspondiente de hemocultivos periféricos, ¿cuál es el esquema antibiótico de elección recomendado para iniciar el manejo empírico de regla según las directrices nacionales en Chile?",
@@ -91,7 +91,7 @@
   },
   {
     "id": 4,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 38 semanas de edad gestacional es evaluado en la sala de neonatología por presentar retraso del crecimiento intrauterino (RCIU) armónico, microcefalia marcada, petequias generalizadas y hepatoesplenomegalia. La ecografía transfontanelar revela calcificaciones periventriculares y vasculopatía estriada. ¿Cuál es el diagnóstico de sospecha prioritario de esta infección congénita y qué examen estándar de oro corresponde realizar en el recién nacido para su confirmación diagnóstica?",
@@ -121,7 +121,7 @@
   },
   {
     "id": 5,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido pretérmino extremo de 27 semanas de edad gestacional, de 15 días de vida, se encuentra hospitalizado en la Unidad de Cuidados Intensivos Neonatales (UCIN), con ventilación mecánica invasiva prolongada y catéter venoso central umbilical. En las últimas doce horas presenta de forma brusca episodios recurrentes de apnea, bradicardia, intolerancia alimentaria con distensión abdominal y aumento de los requerimientos de oxígeno. Ante la sospecha de Sepsis Neonatal Tardía (SNT), ¿cuál es el agente bacteriano aislado con mayor frecuencia en este escenario nosocomial chileno?",
@@ -151,7 +151,7 @@
   },
   {
     "id": 6,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 9 días de vida es traído al Servicio de Urgencia pediátrica por presentar un grupo de vesículas de contenido claro sobre base eritematosa localizadas en el cuero cabelludo y alrededor del párpado superior derecho. No se registran antecedentes maternos de infección genital activa. Al examen físico el recién nacido se encuentra activo, reactivo, hidratado y afebril. ¿Cuál es el diagnóstico de sospecha prioritario, su clasificación y la conducta clínica inmediata a seguir?",
@@ -181,7 +181,7 @@
   },
   {
     "id": 7,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un lactante de 1 mes de vida es derivado al policlínico de infectología infantil por sospecha de Toxoplasmosis congénita. El control de embarazo materno constató una seroconversión para Toxoplasma gondii durante el segundo trimestre. Al examen físico del lactante destaca hidrocefalia de carácter leve, estrabismo y coriorretinitis bilateral al fondo de ojo. La tomografía computada cerebral muestra múltiples calcificaciones intracraneales difusas. ¿Cuál es el nombre de esta asociación clínica clásica y cuál es el tratamiento indicado?",
@@ -211,7 +211,7 @@
   },
   {
     "id": 8,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Durante su turno en el servicio de Obstetricia y Neonatología de un hospital clínico chileno, usted asiste el parto de una gestante VIH positivo detectada durante el trabajo de parto mediante un test rápido visual reactivo. La madre no recibió terapia antirretroviral (TARV) durante el embarazo, pero sí recibió Zidovudina (AZT) intravenosa intraparto. El recién nacido de término nace vigoroso. Respecto a la prevención de la transmisión vertical de VIH y la lactancia, ¿cuál es la conducta correcta en Chile?",
@@ -241,7 +241,7 @@
   },
   {
     "id": 9,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 4 días de vida cursa hospitalizado en la Unidad de Neonatología con diagnóstico de Sífilis Congénita confirmada, debido a la presencia de periostitis simétrica en fémures al examen radiológico, títulos de VDRL periférico de 1:32 (madre con 1:8 al parto) y examen físico con rinorrea serohemática activa. El citoquímico y VDRL de líquido cefalorraquídeo resultaron normales. ¿Cuál es el tratamiento de elección indicado y la duración del mismo según las directrices del MINSAL?",
@@ -271,7 +271,7 @@
   },
   {
     "id": 10,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Se evalúa en el policlínico de cardiología infantil a un lactante de 2 meses de vida derivado desde su CESFAM por sospecha de una malformación cardiovascular congénita. Al examen físico destaca la presencia de catarata densa bilateral y microftalmia. El ecocardiograma Doppler detecta un Ductus Arterioso Persistente (DAP) de gran calibre y estenosis de las ramas de la arteria pulmonar. El tamizaje auditivo automatizado confirma hipoacusia neurosensorial severa. ¿Cuál es el diagnóstico de sospecha de este cuadro?",
@@ -301,7 +301,7 @@
   },
   {
     "id": 11,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted evalúa los exámenes de laboratorio tomados a las 24 horas de vida a un recién nacido de término hospitalizado por sospecha clínica de Sepsis Neonatal Precoz (SNP). Se reporta hemograma con leucocitos de 14.000/mm³, relación de baciliformes/neutrófilos totales (índice I/T) de 0,22, y una Proteína C Reactiva (PCR) de 6 mg/L (rango normal de referencia del laboratorio < 10 mg/L). Respecto a la interpretación de estos marcadores inflamatorios en neonatología, ¿cuál de las siguientes afirmaciones es clínicamente correcta?",
@@ -331,7 +331,7 @@
   },
   {
     "id": 12,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Durante el control prenatal de una gestante procedente de la Región de Coquimbo, se pesquisó una serología IgG reactiva para Trypanosoma cruzi (enfermedad de Chagas). El parto se produce a término por vía vaginal, naciendo un recién nacido vigoroso y sano. Respecto al tamizaje y confirmación diagnóstica de la enfermedad de Chagas congénita en el recién nacido en Chile, ¿cuál de las siguientes opciones describe la conducta correcta según las normas de salud pública vigentes?",
@@ -361,7 +361,7 @@
   },
   {
     "id": 13,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Se atiende en el servicio de partos el nacimiento de un recién nacido de término, de 3400 gramos de peso, cuya madre presenta un tamizaje para Hepatitis B informado como positivo (antígeno de superficie HBsAg reactivo) en el tercer trimestre del embarazo. ¿Cuál es el esquema de profilaxis inmediata recomendado en la sala de partos para prevenir la transmisión vertical del virus de la Hepatitis B (VHB) de forma eficaz?",
@@ -391,7 +391,7 @@
   },
   {
     "id": 14,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido pretérmino extremo de 26 semanas de edad gestacional, de 21 días de vida, cursa hospitalizado en la UCIN con nutrición parenteral total prolongada a través de un catéter epicutáneo. Ha recibido previamente múltiples ciclos de antibioterapia empírica de amplio espectro por sospechas de infección. Actualmente presenta trombocitopenia persistente de carácter severo refractaria a transfusiones, apneas y distensión abdominal, reportándose hemocultivos positivos para Candida albicans. ¿Cuál es el tratamiento de elección indicado y qué estudio complementario de focos profundos exige realizar de forma inmediata?",
@@ -421,7 +421,7 @@
   },
   {
     "id": 15,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Durante el parto vaginal de un embarazo de 32 semanas de edad gestacional, cuya madre cursó con un síndrome febril inexplicable asociado a líquido amniótico teñido de meconio espeso, nace un recién nacido en malas condiciones, con APGAR 3 a 5, severa dificultad respiratoria y shock. Al examen destaca la presencia de un exantema pápulo-vesicular diseminado y microabscesos en faringe. Fallece a las pocas horas de vida. La autopsia reporta microabscesos y granulomas generalizados en hígado, bazo y pulmones. ¿Cuál es el diagnóstico de sospecha prioritario de esta patología neonatal?",
@@ -451,7 +451,7 @@
   },
   {
     "id": 16,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 14 días de vida cursa hospitalizado con diagnóstico confirmado de infección congénita por Citomegalovirus (CMV) de rango sintomático, con presencia de microcefalia, calcificaciones periventriculares cerebrales en la tomografía computada e hipoacusia neurosensorial bilateral confirmada por potenciales evocados. ¿Cuál es el tratamiento antiviral de primera línea indicado para este lactante y qué parámetro biológico obliga a una estrecha monitorización analítica?",
@@ -481,7 +481,7 @@
   },
   {
     "id": 17,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Durante un seminario docente sobre infecciones neonatales, un interno de medicina expone sobre el espectro clínico de presentación del Virus Herpes Simple (HSV-2) adquirido por transmisión vertical durante el canal del parto. ¿Cuáles son las tres formas de clasificación clínica del herpes neonatal y cuál de ellas asocia de forma característica la mayor mortalidad global?",
@@ -511,7 +511,7 @@
   },
   {
     "id": 18,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Una gestante de 17 semanas de edad gestacional, con diagnóstico de Sífilis Primaria, recibió indicación de tratamiento con Penicilina G Benzatina de 2,4 millones de UI por vía intramuscular semanal por tres dosis. Durante el seguimiento, se constata que omitió la segunda dosis semanal, recibiéndola 14 días después de la primera dosis debido a problemas de traslado, completando la tercera dosis sin nuevos retrasos. El parto se produce a las 39 semanas, naciendo un recién nacido sano, asintomático y con VDRL negativo. ¿Cómo se clasifica el tratamiento materno y qué conducta clínica corresponde adoptar?",
@@ -541,7 +541,7 @@
   },
   {
     "id": 19,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 39 semanas de edad gestacional, de 2 horas de vida, se encuentra en alojamiento conjunto junto a su madre en puerperio. El parto fue vaginal y el recién nacido se encuentra clínicamente sano, asintomático, activo y acoplado al pecho. Destaca en los antecedentes maternos una Rotura Prematura de Membranas (RPM) de 24 horas de evolución sin fiebre intraparto, y la madre recibió una dosis de Ampicilina intravenosa dos horas antes del parto. El tamizaje materno para Streptococcus grupo B (SGB) fue negativo. ¿Cuál es la conducta más adecuada a seguir?",
@@ -571,7 +571,7 @@
   },
   {
     "id": 20,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Durante la reunión clínica del servicio de pediatría, se discute la utilidad de las imágenes del sistema nervioso central para diferenciar de forma empírica la sospecha clínica de Citomegalovirus (CMV) congénito frente a una infección congénita por Toxoplasma gondii en el recién nacido. ¿Cuál de las siguientes opciones describe correctamente los patrones de distribución de las calcificaciones intracraneales característicos de ambas entidades?",
@@ -601,7 +601,7 @@
   },
   {
     "id": 21,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un lactante de 24 días de vida, nacido a término de forma domiciliaria sin controles médicos previos, es llevado al servicio de urgencias por presentar un cuadro de 24 horas de evolución de letargia, succión débil, vómitos recurrentes y episodios de dificultad respiratoria caracterizados por respiración periódica y pausas de apnea de hasta 15 segundos. Al examen físico destaca temperatura axilar de 35,4 °C (hipotermia), perfusión distal disminuida con llene capilar de 4 segundos, piel moteada reticular y distensión abdominal dolorosa. ¿Cuál es la sospecha diagnóstica prioritaria y el enfrentamiento inicial de urgencia?",
@@ -631,7 +631,7 @@
   },
   {
     "id": 22,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un escolar de 8 años de edad asiste a control clínico. Al examen físico segmentario destaca la presencia de frente prominente (frontal en quilla), tibia deformada en sable de esgrimidor, nariz en silla de montar y muescas características en forma de medialuna en el contorno de los incisivos centrales superiores. El examen oftalmológico documenta la presencia de queratitis intersticial activa. ¿Cómo se denomina este conjunto de hallazgos patognomónicos y cuál es el agente etiológico responsable de la infección congénita de base?",
@@ -661,7 +661,7 @@
   },
   {
     "id": 23,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "En el Servicio de Neonatología de su hospital, se repasan los conceptos de Sepsis Neonatal Precoz (SNP) y Sepsis Neonatal Tardía (SNT). Respecto a la distinción clásica recomendada por las guías nacionales en Chile (MINSAL y Tapia), ¿cuál de las siguientes alternativas describe de forma correcta el punto de corte temporal estándar y las principales vías de transmisión de los patógenos implicados en su etiopatogenia?",
@@ -691,7 +691,7 @@
   },
   {
     "id": 24,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Lactante diagnosticado al nacer con infección congénita asintomática por Citomegalovirus (CMV), confirmado por PCR en orina positiva tomada a los cinco días de vida, asiste a control de salud de los 6 meses en el CESFAM. El tamizaje auditivo mediante emisiones otoacústicas (EOA) al nacer fue normal bilateral. Sin embargo, en el control actual la madre refiere que nota que el lactante ya no se sobresalta ante ruidos fuertes del ambiente ni busca la fuente del sonido con la mirada. ¿Qué característica evolutiva de la hipoacusia por CMV justifica el seguimiento estricto en estos pacientes?",
@@ -721,7 +721,7 @@
   },
   {
     "id": 25,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted evalúa en el CESFAM a un lactante de 2 meses de vida expuesto a la transmisión vertical del VIH (hijo de gestante VIH positivo), quien recibió profilaxis antirretroviral combinada de forma exitosa. Para confirmar o descartar la infección activa por VIH en el recién nacido, ¿cuál es la técnica de laboratorio indicada de elección y por qué no se puede utilizar la serología convencional (detección de anticuerpos Elisa) que se aplica en el adulto?",
@@ -751,7 +751,7 @@
   },
   {
     "id": 26,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted evalúa en la maternidad a una embarazada de 38 semanas de edad gestacional que ingresa en trabajo de parto activo con membranas íntegras. Al revisar el carnet de control prenatal, constata que su cultivo de tamizaje rectovaginal para Streptococcus del grupo B (SGB) tomado a las 35 semanas resultó positivo. Refiere no tener antecedentes de alergias a medicamentos. ¿Cuál es la conducta correcta respecto a la prevención de la Sepsis Neonatal Precoz (SNP) en el recién nacido?",
@@ -781,7 +781,7 @@
   },
   {
     "id": 27,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido pretérmino de 29 semanas de edad gestacional con 28 días de vida, hospitalizado en la UCIN con ventilación mecánica invasiva y catéter venoso central umbilical, presenta un cuadro de inestabilidad hemodinámica severa, apneas recurrentes y shock séptico. Los hemocultivos reportan crecimiento de cocos grampositivos en racimos correspondientes a Staphylococcus aureus resistente a meticilina (SAMR). ¿Cuál es el tratamiento antibiótico empírico de elección que debe indicarse de inmediato?",
@@ -811,7 +811,7 @@
   },
   {
     "id": 28,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido asintomático de término de 12 horas de vida es evaluado en la maternidad. La madre asocia el antecedente de serología para sífilis reactiva al parto, con un título de VDRL materno de 1:4. El VDRL en sangre periférica del recién nacido reporta un título reactivo de 1:16. El resto de los estudios complementarios del recién nacido (LCR, radiografías, hemograma) son normales. ¿Cuál es la interpretación correcta de este resultado de VDRL en el recién nacido y qué conducta terapéutica está indicada?",
@@ -841,7 +841,7 @@
   },
   {
     "id": 29,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Una gestante de 39 semanas de edad gestacional en trabajo de parto activo ingresa a la maternidad. Al examen físico segmentario ginecológico, el médico de turno observa múltiples lesiones vesiculares y ulceradas dolorosas compatibles con un brote de Herpes Simple genital (HSV-2) activo en la región vulvoperineal. Las membranas están íntegras. ¿Cuál es la conducta recomendada para prevenir la transmisión de Herpes Simple al recién nacido de forma eficaz?",
@@ -871,7 +871,7 @@
   },
   {
     "id": 30,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 10 días de vida es evaluado en el Servicio de Urgencia pediátrica por presentar letargia, succión débil, rechazo alimentario de inicio agudo y fiebre sin foco de 38,8 °C rectal. Se discute la indicación de realizar una Punción Lumbar (PL) para el estudio de líquido cefalorraquídeo. ¿Cuál de las siguientes opciones describe la conducta clínicamente correcta en la urgencia neonatal?",
@@ -901,7 +901,7 @@
   },
   {
     "id": 31,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido pretérmino de 30 semanas de edad gestacional nace por parto vaginal tras una rotura prematura de membranas (RPM) de 24 horas de evolución. La madre no recibió Profilaxis Antimicrobiana Intraparto (PAI). A las 2 horas de vida, el neonato presenta dificultad respiratoria progresiva con quejido constante y requerimientos de oxígeno en aumento. En este contexto, ¿cuál de las siguientes opciones describe de forma correcta el riesgo microbiológico diferencial del recién nacido pretérmino frente al de término respecto a la Sepsis Neonatal Precoz (SNP)?",
@@ -931,7 +931,7 @@
   },
   {
     "id": 32,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Una gestante de 10 semanas de edad gestacional acude a su primer control prenatal. Al evaluar sus exámenes de laboratorio destaca una serología para Toxoplasma gondii con anticuerpos IgG reactivos e IgM reactivos. Para diferenciar si se trata de una primoinfección adquirida de forma reciente durante la gestación (que implica alto riesgo de transmisión fetal) o de una infección antigua con persistencia de IgM reactiva, ¿cuál es el examen confirmatorio de elección recomendado por las guías clínicas de infectología perinatal?",
@@ -961,7 +961,7 @@
   },
   {
     "id": 33,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un lactante de 20 días de vida, nacido a término de forma sana y sin antecedentes de hospitalizaciones previas tras el alta de la maternidad, es llevado al servicio de urgencias por presentar fiebre de 38,5 °C axilar de seis horas de evolución, irritabilidad al llanto y rechazo alimentario. Al examen físico se observa reactivo, sin focos infecciosos evidentes. ¿Cuál es el agente etiológico más común implicado en la Sepsis Neonatal Tardía adquirida en la comunidad en Chile?",
@@ -991,7 +991,7 @@
   },
   {
     "id": 34,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Una embarazada de término presenta un cuadro clínico típico de Varicela aguda con lesiones vesiculosas generalizadas que iniciaron exactamente 3 días antes del parto. El parto se produce por vía vaginal sin complicaciones, naciendo un recién nacido sano y vigoroso. Respecto al riesgo de varicela neonatal grave y la conducta clínica inmediata con el recién nacido, ¿cuál es la conducta correcta?",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 35,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted realiza el control de salud de un recién nacido de término de 3 días de vida en el alojamiento conjunto. El examen físico segmentario revela que el neonato se encuentra en percentil de peso bajo el promedio para la edad gestacional (PEG armónico severo) y presenta un soplo cardíaco sistólico funcional leve. No hay otros hallazgos. Respecto al tamizaje de Citomegalovirus (CMV) congénito en Chile, ¿cuál es la conducta recomendada?",
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 36,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 3 días de vida es hijo de una madre con diagnóstico de Sífilis Primaria detectada al parto (VDRL 1:8). La madre refiere haber recibido únicamente una dosis de Penicilina Benzatina hace una semana por mala adherencia. Se realiza el estudio completo al recién nacido: el examen físico es completamente normal, el VDRL periférico es no reactivo, las radiografías de huesos largos no muestran periostitis, el hemograma y plaquetas son normales, y el citoquímico y VDRL de LCR son normales. Según la norma técnica del MINSAL y de la Pontificia Universidad Católica, ¿cuál es la conducta terapéutica indicada para este recién nacido?",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 37,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido pretérmino de 29 semanas cursa con sospecha de Sepsis Neonatal Precoz (SNP) y recibe terapia empírica inicial con Ampicilina y Gentamicina. Al tercer día, el laboratorio informa que el hemocultivo periférico es positivo para Escherichia coli sensible a amikacina y cefotaxima, pero resistente a ampicilina y con resistencia de nivel intermedio a gentamicina. El recién nacido se encuentra actualmente estable, en ventilación mecánica, con parámetros clínicos estables. Según el uso racional de antimicrobianos en neonatología, ¿cuál es la conducta antibiótica adecuada?",
@@ -1111,7 +1111,7 @@
   },
   {
     "id": 38,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un lactante de 9 meses acude al CESFAM para su control de salud infantil. Al revisar su historial clínico, se destaca que nació de una madre portadora de Hepatitis B (HBsAg positivo), por lo que recibió la vacuna contra la Hepatitis B y la Inmunoglobulina específica (IGHB) en las primeras 6 horas de vida, completando posteriormente sus dosis de vacuna Hexavalente a los 2, 4 y 6 meses de vida de forma puntual. ¿Qué evaluación médica y de laboratorio se debe realizar a este lactante en este momento para confirmar la eficacia de la inmunoprofilaxis y descartar que se haya convertido en portador del virus?",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 39,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 11 días de vida ingresa a la urgencia por presentar fiebre de 38,9 °C axilar, irritabilidad extrema alternada con letargia, succión débil y dos episodios descritos por los padres como movimientos tónico-clónicos focalizados en la extremidad superior derecha. Se realiza una Punción Lumbar en las primeras 12 horas de iniciados los síntomas neurológicos, iniciándose de inmediato Aciclovir endovenoso de altas dosis. El laboratorio informa al día siguiente que la PCR de HSV en LCR resultó negativa. Ante una sospecha clínica fundada de Encefalitis por Herpes Simple neonatal, ¿cuál es la conducta correcta?",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 40,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Una embarazada de 14 semanas de gestación acude a control prenatal. Se confirma diagnóstico de primoinfección por Toxoplasma gondii adquirida de forma muy reciente en el primer trimestre mediante un test de avidez de IgG persistentemente bajo asociado a IgM de altos títulos. Respecto al tratamiento indicado para prevenir la transmisión transplacentaria del parásito al feto a esta edad gestacional, ¿cuál es la conducta correcta?",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 41,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "En la Unidad de Cuidados Intensivos Neonatales (UCIN) se constata de forma simultánea que tres recién nacidos prematuros extremos presentan sepsis tardía nosocomial confirmada por hemocultivos positivos para Klebsiella pneumoniae resistente a ampicilina, gentamicina, cefotaxima y ceftazidima, con sensibilidad conservada únicamente a amikacina y carbapenémicos (perfil compatible con enterobacteria productora de Betalactamasa de Espectro Extendido o BLEE). ¿Cuál es la terapia antibiótica de elección recomendada para tratar a estos pacientes y controlar el brote nosocomial en la unidad?",
@@ -1231,7 +1231,7 @@
   },
   {
     "id": 42,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término de 12 horas de vida, asintomático, ingresa a evaluación debido al antecedente materno de fiebre intraparto de 38,4 °C sin PAI. El médico de turno decide solicitar exámenes de laboratorio, destacando un hemograma con leucocitos de 16.000/mm³ e índice I/T de 0,08, una PCR de 3 mg/L y una Procalcitonina (PCT) de 4,5 ng/ml (rango de referencia habitual en adultos < 0,5 ng/ml). Respecto al comportamiento fisiológico de la Procalcitonina en las primeras horas de vida, ¿cuál de las siguientes opciones describe correctamente la interpretación de este resultado?",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 43,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un lactante de 25 días de vida es llevado a la urgencia por presentar irritabilidad persistente, llanto intenso al mudar o movilizar las extremidades inferiores y una actitud de inmovilidad flácida en ambas piernas (pseudoparálisis de Parrot). Al examen físico se palpa aumento de volumen y dolor localizado en la región metafisaria de ambas rodillas. La radiografía de huesos largos revela destrucción ósea localizada en la porción medial de la metáfisis proximal de ambas tibias. ¿Cómo se conoce este hallazgo radiológico patognomónico y qué enfermedad de base representa?",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": 44,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted controla en el policlínico de infectología pediátrica a un lactante de 1 mes de vida, hijo de una madre con diagnóstico de infección por VIH no tratada durante el embarazo. El informe del laboratorio reporta un resultado de PCR de ARN viral de VIH reactivo (positivo) tomado a las 4 semanas de vida. ¿Cuál es la conducta diagnóstica y terapéutica inmediata recomendada por la Norma Chilena de Prevención y Tratamiento del VIH?",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 45,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término cursa con diagnóstico confirmado de Rubéola Congénita sintomática con cardiopatía (Ductus Arterioso Persistente) y cataratas bilaterales. Se encuentra hospitalizado en la sala de neonatología intermedia previa a su cirugía cardíaca correctora. Respecto a las medidas de aislamiento y el periodo de contagiosidad de este paciente en la unidad hospitalaria, ¿cuál es la indicación correcta según las normas de prevención de infecciones asociadas a la atención de salud (IAAS)?",
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 46,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted evalúa en la maternidad a una embarazada de 31 semanas de edad gestacional que ingresa por presentar fiebre de 38,9 °C axilar, calofríos, mialgias generalizadas y dolor lumbar de 24 horas de evolución, asociado a contracciones uterinas y líquido amniótico teñido de meconio espeso. Refiere haber consumido de forma habitual quesos blandos artesanales elaborados con leche no pasteurizada. ¿Cuál es el patógeno bacteriano responsable de este cuadro de primoinfección materna y riesgo de sepsis neonatal precoz fulminante?",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 47,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted prescribe tratamiento con Valganciclovir oral a un recién nacido diagnosticado con Citomegalovirus (CMV) congénito sintomático con compromiso auditivo. Al explicar a los padres el mecanismo por el cual actúa este medicamento, ¿cuál es el fundamento farmacológico correcto de este antiviral?",
@@ -1411,7 +1411,7 @@
   },
   {
     "id": 48,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 6 días de vida, ingresado por sospecha de sepsis de inicio precoz no aclarada que no responde a la antibioterapia con Ampicilina más Gentamicina, presenta de forma brusca sangrado en sitios de punción venosa, distensión abdominal con hepatomegalia dolorosa, colestasis e hipoperfusión periférica. El laboratorio reporta plaquetas de 25.000/mm³, prolongación severa de tiempos de coagulación y transaminasas hepáticas mayores a 3000 U/L. ¿Cuál es la sospecha diagnóstica prioritaria y el manejo terapéutico inmediato?",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 49,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un lactante varón de 15 días de vida acude por fiebre de 38,2 °C axilar. Se realiza estudio de sepsis tardía de adquisición comunitaria. El hemocultivo periférico resulta positivo para Escherichia coli sensible a amikacina y cefalosporinas. El urocultivo tomado simultáneamente mediante punción vesical (el método más estéril y recomendado en menores de un mes) resulta positivo para el mismo germen con > 100.000 UFC/ml. El LCR es normal. Respecto al estudio posterior de este lactante tras completar su terapia antibiótica dirigida exitosa, ¿cuál es la conducta recomendada según las guías de nefrología y neonatología de la Sociedad Chilena de Pediatría (SOCHIPE)?",
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 50,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Usted confirma el diagnóstico de Enfermedad de Chagas congénita en un lactante de 2 meses de vida mediante la detección de tripomastigotes viables de Trypanosoma cruzi en sangre periférica mediante micrométodo de control. Respecto al tratamiento antiparasitario sistémico indicado de forma oficial y gratuita en Chile por el MINSAL, ¿cuáles son los fármacos de elección autorizados y cuál es la duración del esquema terapéutico?",
@@ -1501,7 +1501,7 @@
   },
   {
     "id": 51,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término presenta sospecha clínica de Sepsis Neonatal Precoz (SNP) y shock séptico. A pesar de una adecuada estabilización de la vía aérea y de haber administrado dos bolos de solución fisiológica de 10 ml/kg (20 ml/kg en total) de forma controlada, el neonato persiste hipotenso, con perfusión periférica disminuida (llene capilar de 5 segundos), bradicardia relativa y acidosis metabólica persistente (pH 7,15, lactato 4,8 mmol/L). ¿Cuál es la conducta terapéutica prioritaria de soporte cardiovascular a seguir en la UCIN?",
@@ -1531,7 +1531,7 @@
   },
   {
     "id": 52,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un escolar de 12 años de edad consulta en oftalmología por presentar visión borrosa unilateral del ojo izquierdo y dolor ocular de carácter leve de una semana de evolución. El fondo de ojo revela una lesión blanquecina sobreelevada con edema retiniano activo adyacente a una cicatriz hiperpigmentada antigua en la región macular. Al confirmar la reactivación de una Toxoplasmosis congénita latente que compromete la mácula, ¿cuál es el mecanismo fisiopatológico y el tratamiento de elección indicado?",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 53,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 2 días de vida presenta de forma simétrica múltiples lesiones vesículo-ampollosas de base eritematosa y contenido serohemático localizadas de forma característica en las palmas de las manos y las plantas de los pies, las cuales se descaman de forma espontánea dejando la piel denudada y erosionada. ¿Cómo se conoce esta manifestación clínica y qué enfermedad de base representa?",
@@ -1591,7 +1591,7 @@
   },
   {
     "id": 54,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término es hijo de una madre con diagnóstico de infección por VIH controlada. Ella recibió tratamiento antirretroviral triterapia (TARV) de forma regular durante toda la gestación, logrando una excelente adherencia terapéutica y contando con una carga viral plasmática indetectable (< 50 copias/ml) documentada en el tercer trimestre y al momento del parto. El recién nacido se encuentra sano y vigoroso. Según la Norma Técnica de Prevención de la Transmisión Vertical de VIH en Chile, ¿cuál es el protocolo de profilaxis neonatal indicado en este escenario de bajo riesgo?",
@@ -1621,7 +1621,7 @@
   },
   {
     "id": 55,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido prematuro extremo de 28 semanas de edad gestacional, de 25 días de vida, cuenta con un catéter percutáneo venoso central (epicárdico) para nutrición parenteral prolongada. Presenta sospecha de Sepsis Neonatal Tardía (SNT). El equipo de enfermería toma hemocultivos pareados simultáneos: uno a través de la vía central y otro de una vena periférica. ¿Cuál de los siguientes criterios microbiológicos confirma de forma específica una Sepsis de Catéter (SNT asociada a dispositivo central) sin requerir el retiro inmediato del mismo?",
@@ -1651,7 +1651,7 @@
   },
   {
     "id": 56,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Durante la discusión en la ronda de alto riesgo obstétrico, se analiza el caso de una embarazada de 24 semanas con sospecha de primoinfección por Citomegalovirus. Al revisar la ecografía fetal de alta resolución de screening morfológico del segundo trimestre, ¿cuáles son los hallazgos ultrasonográficos que sugieren de forma más específica y con mayor frecuencia una infección fetal activa por CMV?",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 57,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de término presenta al nacimiento un exantema caracterizado por la presencia de múltiples máculas y nódulos purpúricos de coloración violácea-azulada infiltrados al tacto distribuidos por todo el cuerpo, descritos clásicamente en la literatura pediátrica como lesiones en \"queque de arándano\" o blueberry muffin. ¿Qué representa histopatológicamente esta lesión dérmica y en qué agentes infecciosos del TORCH se describe característicamente su aparición?",
@@ -1711,7 +1711,7 @@
   },
   {
     "id": 58,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Una embarazada de término con cultivo de tamizaje rectovaginal positivo para Streptococcus agalactiae (SGB) ingresa a la maternidad en trabajo de parto activo. El equipo de salud administra la primera dosis de Penicilina G Sódica endovenosa. Exactamente 2 horas y 15 minutos después de la inyección del antibiótico, se produce el nacimiento vaginal de un recién nacido de término vigoroso y clínicamente sano. Respecto a la prevención de la Sepsis Neonatal Precoz (SNP), ¿cómo se clasifica esta profilaxis materna y qué conducta se debe adoptar con el recién nacido asintomático según las directrices vigentes?",
@@ -1741,7 +1741,7 @@
   },
   {
     "id": 59,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 12 días de vida es llevado a la urgencia por presentar tres vesículas agrupadas de contenido claro con base eritematosa localizadas en el cuero cabelludo. Para el diagnóstico diferencial de estas vesículas sospechosas de Herpes Simple neonatal, ¿cuál de las siguientes condiciones dermatológicas benignas y autolimitadas del recién nacido se caracteriza por presentar pápulas y pústulas eritematosas con contenido estéril rico en eosinófilos que aparecen típicamente entre las 24 y 48 horas de vida y respetan estrictamente las palmas y plantas?",
@@ -1771,7 +1771,7 @@
   },
   {
     "id": 60,
-    "internado": "Neonatología",
+    "internado": "Pediatría",
     "area": "Neonatología",
     "topic": "Infecciones Neonatales y Sepsis",
     "text": "Un recién nacido de 4 días de vida con diagnóstico de Sífilis Congénita confirmada (VDRL periférico 1:32) inicia tratamiento endovenoso con Penicilina G Sódica acuosa de forma hospitalizada. Exactamente a las 4 horas de iniciada la primera infusión del antibiótico, el neonato presenta de forma brusca temperatura de 39,1 °C, taquipnea, hipotensión sistémica transitoria compensada y una exacerbación marcada de su exantema maculopapular eritematoso. ¿Qué fenómeno inmunológico y farmacológico explica esta reacción y cuál es su manejo terapéutico adecuado?",
