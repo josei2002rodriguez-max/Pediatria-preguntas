@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "En una maternidad de alta complejidad en Chile, se asiste un parto de término de evolución fisiológica. Tan pronto se produce la salida completa del neonato, usted realiza la evaluación inicial en el mismo canal de parto o sobre el abdomen materno. ¿Cuáles son las tres preguntas que dictaminan si el recién nacido puede permanecer en apego directo con su madre?",
+    "hint": "Recuerde el primer bloque de decisión del algoritmo actual de atención neonatal inmediata; busca discriminar rápidamente la necesidad de estabilización activa en la cuna radiante.",
+    "options": [
+      {
+        "text": "¿Tiene el neonato movimientos activos?, ¿ausencia de meconio en fluidos? y ¿gestación única confirmada por ecografía?",
+        "isCorrect": false,
+        "explanation": "Aunque los movimientos activos reflejan tono, la terna oficial no incluye la confirmación ecográfica ni la ausencia de meconio como un criterio de exclusión absoluta para el contacto piel con piel si el neonato nace vigoroso."
+      },
+      {
+        "text": "¿El líquido amniótico está claro?, ¿la frecuencia cardíaca es mayor a 100? y ¿presenta esfuerzo respiratorio regular?",
+        "isCorrect": false,
+        "explanation": "La presencia de líquido amniótico claro se retiró de las preguntas iniciales del algoritmo principal para agilizar la toma de decisiones, y la evaluación de la frecuencia cardíaca requiere auscultación, lo cual no es inmediato en los primeros segundos del nacimiento normal."
+      },
+      {
+        "text": "¿Es una gestación de término?, ¿tiene un buen tono muscular? y ¿el neonato respira o está llorando adecuadamente?",
+        "isCorrect": true,
+        "explanation": "Según las normativas del MINSAL y los consensos internacionales (PRN 8ª Edición), las tres preguntas clave e iniciales al momento del nacimiento son si el RN es de término, si tiene buen tono muscular y si respira o llora. Si todas son afirmativas, el RN califica para la atención de rutina y apego piel con piel."
+      },
+      {
+        "text": "¿La edad gestacional es mayor a 35 semanas?, ¿existe llanto enérgico? y ¿la piel se observa completamente rosada?",
+        "isCorrect": false,
+        "explanation": "La definición de madurez para el apego inicial no se limita arbitrariamente a las 35 semanas de forma visual en los primeros 5 segundos, sino a la condición global de término clínico, y el color de la piel (acrocianosis habitual) no define la conducta de reanimación inmediata."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Durante la atención de un recién nacido en la sala de partos, la matrona y el interno observan que la temperatura ambiente de los pabellones se encuentra a 19°C. Se procede al secado enérgico del Neonato con compresas precalentadas. ¿Cuál es el mecanismo físico principal por el cual este recién nacido perdería calor de forma masiva si no se retiraran las compresas húmedas tras el secado?",
+    "hint": "Piense en el cambio de estado del agua (líquido a gas) que ocurre sobre la superficie de la piel húmeda del neonato al nacer.",
+    "options": [
+      {
+        "text": "Conducción térmica directa hacia la superficie fría de la balanza de control antropométrico de la sala.",
+        "isCorrect": false,
+        "explanation": "La conducción requiere el contacto directo con un objeto sólido frío (como la balanza sin protección), lo cual se evita con mantas precalentadas, pero no es el mecanismo dependiente de la humedad cutánea."
+      },
+      {
+        "text": "Radiación electromagnética de la superficie corporal del niño hacia las paredes frías de la sala de atención.",
+        "isCorrect": false,
+        "explanation": "La radiación ocurre entre dos objetos a distancia sin contacto directo (cuerpo hacia paredes del pabellón), siendo relevante en el balance general pero independiente de si el niño está seco o húmedo."
+      },
+      {
+        "text": "Evaporación del líquido amniótico de la piel expuesta al ambiente con baja humedad relativa del pabellón.",
+        "isCorrect": true,
+        "explanation": "La evaporación es el mecanismo principal de pérdida calórica en los primeros minutos de vida debido a que el neonato nace completamente cubierto de líquido amniótico. Si el agua corporal se evapora por el diferencial de humedad, consume energía calórica del propio cuerpo del niño."
+      },
+      {
+        "text": "Convección por las corrientes de aire generadas por los sistemas de climatización centralizada del recinto.",
+        "isCorrect": false,
+        "explanation": "La convección se genera por el flujo de aire frío que pasa sobre el cuerpo del paciente, arrastrando el calor, pero el enunciado apunta específicamente al efecto de retener las compresas húmedas post-secado."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Un recién nacido de término, de 39 semanas de edad gestacional por ecografía precoz, nace mediante parto vaginal institucional con un peso de 3.450 gramos. En el pabellón de atención inmediata se debe administrar la profilaxis para la enfermedad hemorrágica del recién nacido. Según la norma técnica chilena vigente, ¿cuál es la conducta farmacológica correcta?",
+    "hint": "El MINSAL discrimina la dosificación de la fitonadiona (Vitamina K1) según el peso de nacimiento para asegurar los depósitos hepáticos de factores de coagulación.",
+    "options": [
+      {
+        "text": "Administrar vitamina K1 en dosis única de 1,0 mg por vía subcutánea en la región del vasto lateral del muslo.",
+        "isCorrect": false,
+        "explanation": "Combina de forma errónea la dosificación de término con una vía de administración subcutánea no estandarizada para la profilaxis universal en la atención inmediata."
+      },
+      {
+        "text": "Administrar vitamina K1 en dosis única de 1,0 mg por vía intramuscular en la región del vasto lateral del muslo.",
+        "isCorrect": true,
+        "explanation": "Para recién nacidos con un peso igual o mayor a 1.500 gramos (y específicamente de término), la guía chilena dictamina la administración intramuscular de 1 mg de vitamina K1 en el tercio medio del vasto lateral para prevenir la enfermedad hemorrágica precoz y tardía."
+      },
+      {
+        "text": "Administrar vitamina K1 en dosis única de 0,5 mg por vía intramuscular en la región del vasto lateral del muslo.",
+        "isCorrect": false,
+        "explanation": "La dosis de 0,5 mg está estrictamente reservada para neonatología en el paciente prematuro o de bajo peso (menor a 1.500 gramos)."
+      },
+      {
+        "text": "Administrar vitamina K1 en dosis única de 0,5 mg por vía subcutánea en la región del vasto lateral del muslo.",
+        "isCorrect": false,
+        "explanation": "La vía de elección no es la subcutánea, ya que la absorción es errática y no asegura los niveles plasmáticos estables requeridos para la activación de los factores II, VII, IX y X."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Se está realizando la profilaxis ocular para la prevención de la oftalmía neonatal en un recién nacido de 38 semanas de gestación. La madre cuenta con controles prenatales escasos en la red de salud primaria. De acuerdo con las normativas técnicas chilenas, ¿cuál es el agente de elección y su objetivo microbiológico primordial?",
+    "hint": "Identifique el fármaco antibiótico más distribuido en las bandejas de atención inmediata de los hospitales públicos de Chile para este fin preventivo obligatorio.",
+    "options": [
+      {
+        "text": "Solución oftálmica de cloranfenicol al 0,5%, orientada principalmente al control de infecciones por Neisseria gonorrhoeae.",
+        "isCorrect": true,
+        "explanation": "En Chile, el uso de colirio de cloranfenicol al 0,5% (1 gota en cada ojo) es la estrategia estándar en la atención inmediata para prevenir la conjuntivitis neonatal bacteriana severa, cuyo agente más peligroso y de rápida evolución destructiva es Neisseria gonorrhoeae."
+      },
+      {
+        "text": "Ungüento oftálmico de gentamicina al 0,3%, orientado principalmente al control de infecciones por Staphylococcus aureus.",
+        "isCorrect": false,
+        "explanation": "La gentamicina al 0,3% no constituye el fármaco programático de primera línea para la profilaxis obligatoria universal en el protocolo de atención inmediata de partos."
+      },
+      {
+        "text": "Ungüento oftálmico de neomicina al 0,5%, orientado principalmente al control de infecciones por Pseudomonas aeruginosa.",
+        "isCorrect": false,
+        "explanation": "La neomicina aislada no cubre de forma óptima los patógenos de transmisión vertical del canal de parto y no forma parte de las directrices de la guía de procedimientos del MINSAL."
+      },
+      {
+        "text": "Solución de nitrato de plata al 1%, orientada principalmente al control de infecciones por Chlamydia trachomatis.",
+        "isCorrect": false,
+        "explanation": "El nitrato de plata (método de Credé) causaba conjuntivitis química grave y tiene baja eficacia contra Chlamydia, estando en desuso en las maternidades del país."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Evaluando a un recién nacido a los 60 segundos de vida, usted constata los siguientes hallazgos clínicos: cianosis distal en extremidades con tronco intensamente rosado, llanto vigoroso ante la estimulación táctil, flexión activa de las cuatro extremidades con movimientos espontáneos, mueca facial marcada al aspirar la vía aérea, y una frecuencia cardíaca auscultada de 115 latidos por minuto. ¿Qué puntuación de APGAR le corresponde a este paciente?",
+    "hint": "Desglose los 5 parámetros del test asignando 0, 1 o 2 puntos a cada uno (Apariencia, Pulso, Gesticulación, Actividad, Respiración).",
+    "options": [
+      {
+        "text": "Puntuación de 6 puntos.",
+        "isCorrect": false,
+        "explanation": "6 puntos representaría una depresión moderada del recién nacido, cuadro clínico alejado de un paciente con movimientos activos, llanto fuerte y frecuencia cardíaca normal."
+      },
+      {
+        "text": "Puntuación de 9 puntos.",
+        "isCorrect": false,
+        "explanation": "Para obtener 9 puntos el neonato debería tener 2 puntos en gesticulación (llanto/tos ante la sonda de aspiración en vez de solo mueca) o estar completamente rosado sin acrocianosis."
+      },
+      {
+        "text": "Puntuación de 7 puntos.",
+        "isCorrect": false,
+        "explanation": "Un puntaje de 7 implicaría la pérdida de un punto adicional, lo cual no concuerda con la vitalidad descrita (buena frecuencia, buen tono y llanto enérgico)."
+      },
+      {
+        "text": "Puntuación de 8 puntos.",
+        "isCorrect": true,
+        "explanation": "El desglose es: Color (Apariencia) = 1 punto (tronco rosado, acrocianosis); Frecuencia cardíaca (Pulso) = 2 puntos (>100 lpm); Irritabilidad refleja (Gesticulación) = 1 punto (mueca al aspirar); Tono muscular (Actividad) = 2 puntos (flexión activa y movimientos); Esfuerzo respiratorio (Respiración) = 2 puntos (llanto vigoroso). Total = 1 + 2 + 1 + 2 + 2 = 8 puntos."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "¿Cuál es el significado clínico e institucional de registrar el test de APGAR al primer y quinto minuto de vida en las fichas clínicas de las maternidades en Chile?",
+    "hint": "Recuerde que el test de APGAR nunca se utiliza para decidir si se inicia la reanimación en el segundo cero, sino para documentar la transición evolutiva del paciente.",
+    "options": [
+      {
+        "text": "El puntaje del primer minuto determina el pronóstico neurológico a largo plazo y el del quinto minuto evalúa la madurez pulmonar.",
+        "isCorrect": false,
+        "explanation": "El APGAR del primer minuto no tiene ninguna correlación con el pronóstico neurológico tardío, y el quinto minuto no mide madurez pulmonar estructural (la cual se evalúa por edad gestacional o test de Silverman-Andersen)."
+      },
+      {
+        "text": "El puntaje del primer minuto mide el grado de asfixia perinatal intrauterina y el del quinto minuto calcula el riesgo de presentar ictericia.",
+        "isCorrect": false,
+        "explanation": "El APGAR por sí solo no es sinónimo de asfixia perinatal (requiere criterios bioquímicos como gases de cordón) y no tiene relación fisiopatológica con la producción o aclaramiento de la bilirrubina."
+      },
+      {
+        "text": "El puntaje del primer minuto refleja la adaptación inmediata al nacer y el del quinto minuto evalúa la eficacia de las maniobras médicas realizadas.",
+        "isCorrect": true,
+        "explanation": "El APGAR del 1er minuto es un reflejo de cómo toleró el neonato el proceso del parto y su adaptación inicial al entorno extrauterino. El puntaje a los 5 minutos analiza la respuesta del paciente a la asistencia médica o su estabilización autónoma, teniendo mayor valor predictivo de morbilidad."
+      },
+      {
+        "text": "El puntaje del primer minuto indica la necesidad de iniciar compresiones cardíacas y el del quinto minuto indica cuándo suspender el oxígeno.",
+        "isCorrect": false,
+        "explanation": "Las maniobras de reanimación se inician basándose en la evaluación continua de la respiración y frecuencia cardíaca en los primeros segundos, sin esperar a que se cumpla el primer minuto para calcular el APGAR."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Usted se encuentra aplicando el Test de Capurro somático en un recién nacido cuya estabilidad clínica permite el examen físico en la cuna radiante. ¿Cuál es la combinación exacta de parámetros anatómicos que evaluará para estimar la edad gestacional según este método específico?",
+    "hint": "El Capurro somático (Capurro B) utiliza exclusivamente 5 características físicas macroscópicas, excluyendo los ítems neurológicos para evitar sesgos por depresión central o drogas maternas.",
+    "options": [
+      {
+        "text": "Consistencia del cartílago auricular, incurvación del pabellón, formación del pezón, textura cutánea y el edema plantar.",
+        "isCorrect": false,
+        "explanation": "El \"edema plantar\" y el \"vello en el dorso\" no forman parte del desglose de puntajes ni de las tablas oficiales de puntuación descritas por Capurro."
+      },
+      {
+        "text": "Forma de la oreja, tamaño de la glándula mamaria, signo de la bufanda, textura de la piel y caída de la cabeza.",
+        "isCorrect": false,
+        "explanation": "El signo de la bufanda y la caída de la cabeza son parámetros neurológicos que pertenecen al Capurro mixto (o Capurro A), el cual no es puramente somático."
+      },
+      {
+        "text": "Consistencia del cartílago auricular, vello en el dorso, pliegues plantares, lanugo palmar y posición de los testículos.",
+        "isCorrect": false,
+        "explanation": "La posición de los testículos y el lanugo son variables del Test de Ballard modificado, no del esquema clásico de Capurro chileno."
+      },
+      {
+        "text": "Forma de la oreja, tamaño de la glándula mamaria, formación del pezón, textura de la piel y pliegues plantares.",
+        "isCorrect": true,
+        "explanation": "El método de Capurro somático evalúa 5 parámetros físicos: forma del pabellón auricular (oreja), tamaño de la glándula mamaria, formación del pezón, textura de la piel y surcos/pliegues plantares. A la suma de los puntajes se le adiciona la constante 204 y se divide por 7."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Un recién nacido de término presenta una puntuación total de 24 puntos en la evaluación somática de Capurro. Al aplicar la fórmula matemática estándar para obtener la edad gestacional estimada en semanas completas, ¿cuál es el resultado del cálculo?",
+    "hint": "Aplique la constante matemática oficial del método de Capurro somático: Edad gestacional = (Puntaje obtenido + 204) / 7.",
+    "options": [
+      {
+        "text": "34 semanas de edad gestacional.",
+        "isCorrect": false,
+        "explanation": "34 semanas requeriría una sumatoria de 34 puntos en los ítems somáticos, lo cual no coincide con los 24 puntos entregados en la viñeta."
+      },
+      {
+        "text": "31 semanas de edad gestacional.",
+        "isCorrect": false,
+        "explanation": "Un valor de 31 semanas se obtendría con una suma de puntaje somático significativamente menor (13 puntos), lo que subestimaría la madurez del paciente evaluado."
+      },
+      {
+        "text": "32 semanas de edad gestacional.",
+        "isCorrect": true,
+        "explanation": "Reemplazando en la fórmula oficial: (24 + 204) / 7 = 228 / 7 = 32,57 semanas. Clínicamente se trunca o aproxima a las semanas completas correspondientes, lo cual sitúa al neonato en las 32 semanas de edad gestacional (pretermiso moderado)."
+      },
+      {
+        "text": "35 semanas de edad gestacional.",
+        "isCorrect": false,
+        "explanation": "35 semanas derivaría de un puntaje somático total de 41 puntos, un valor bastante más alto que indica mayor madurez cutánea y de pliegues."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "En el contexto del Programa Chile Crece Contigo y las directrices del MINSAL, se enfatiza la realización del \"apego inmediato piel con piel\" en partos eutócicos. ¿Cuál es el tiempo mínimo establecido como óptimo para mantener este contacto ininterrumpido entre la madre y el recién nacido sano en la sala de partos?",
+    "hint": "Esta estrategia busca respetar la \"hora sagrada\" u \"hora de oro\" del neonato para favorecer la estabilidad térmica, hemodinámica y el éxito de la lactancia materna.",
+    "options": [
+      {
+        "text": "Mantener el contacto por un tiempo mínimo de 15 minutos ininterrumpidos.",
+        "isCorrect": false,
+        "explanation": "15 minutos es un período sumamente breve, habitualmente asociado a prácticas antiguas de medicalización donde el niño era retirado rápidamente para vestirlo y medirlo sin justificación médica."
+      },
+      {
+        "text": "Mantener el contacto por un tiempo mínimo de 30 minutos ininterrumpidos.",
+        "isCorrect": false,
+        "explanation": "30 minutos es un tiempo subóptimo que interrumpe la transición natural del recién nacido hacia la primera prendida al pecho materno durante su período de alerta de las primeras dos horas."
+      },
+      {
+        "text": "Mantener el contacto por un tiempo mínimo de 45 minutos ininterrumpidos.",
+        "isCorrect": false,
+        "explanation": "Aunque es superior a media hora, no cumple con la meta programática e institucional de resguardar la hora completa de interacción directa piel con piel."
+      },
+      {
+        "text": "Mantener el contacto por un tiempo mínimo de 60 minutos ininterrumpidos.",
+        "isCorrect": true,
+        "explanation": "Las guías nacionales chilenas y la OMS estipulan que el contacto piel con piel inmediato en el recién nacido sano debe durar idealmente al menos 60 minutos (la primera hora de vida) de manera continua, postergando los procedimientos no urgentes como la antropometría."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Durante la primera hora de vida del recién nacido en la sala de puerperio inmediato, se promueve la lactancia materna precoz. ¿Cuál es el principal beneficio inmunológico inmediato que aporta el calostro al tracto gastrointestinal del neonato en estas primeras horas?",
+    "hint": "Recuerde cuál es la inmunoglobulina más abundante en las secreciones exocrinas humanas y en la leche materna inicial, actuando como una \"barrera antiséptica local\".",
+    "options": [
+      {
+        "text": "Neutralización del pH gástrico mediante la secreción activa de IgM homóloga de origen materno.",
+        "isCorrect": false,
+        "explanation": "La IgM se encuentra en concentraciones mucho menores en el calostro en comparación con la IgA, y la neutralización del pH gástrico no es un mecanismo inmunológico mediado por anticuerpos maternos."
+      },
+      {
+        "text": "Activación de los linfocitos T citotóxicos del bazo neonatal mediante la transferencia de interleucinas estables.",
+        "isCorrect": false,
+        "explanation": "El calostro contiene leucocitos viables, pero su función primordial e inmediata no es la activación central de linfocitos T citotóxicos esplénicos en el niño."
+      },
+      {
+        "text": "Recubrimiento de la mucosa intestinal con IgA secretora que impide la adherencia de patógenos ambientales.",
+        "isCorrect": true,
+        "explanation": "El calostro es rico en IgA secretora. Esta inmunoglobulina no se absorbe a la circulación sistémica, sino que ejerce una acción protectora local (mecanismo de exclusión inmune) al unirse a epítopos bacterianos y virales en el lumen intestinal, evitando la traslocación bacteriana."
+      },
+      {
+        "text": "Aporte masivo de IgG que atraviesa la mucosa gástrica para otorgar inmunidad de memoria sistémica.",
+        "isCorrect": false,
+        "explanation": "La IgG es la inmunoglobulina que atraviesa la placenta durante el tercer trimestre de la gestación para dar protección sistémica; la leche materna no es una fuente primaria de IgG sistémica para el neonato humano."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Usted es llamado a asistir un parto domiciliario no planificado en la comuna de San Fernando. Al llegar, el neonato ya ha nacido, se encuentra vigoroso, llorando y sobre el abdomen de la madre. No cuenta con instrumental estéril inmediato para el corte del cordón. De acuerdo con las recomendaciones para la atención del parto fuera de la maternidad, ¿cuál es la conducta más adecuada?",
+    "hint": "En condiciones extrahospitalarias rudimentarias, el enfriamiento y las infecciones por material no estéril son los riesgos vitales más altos. Proteja la termorregulación antes que la anatomía del cordón si el niño está sano.",
+    "options": [
+      {
+        "text": "Cortar el cordón inmediatamente utilizando cualquier elemento cortante disponible previa desinfección con alcohol de 70°.",
+        "isCorrect": false,
+        "explanation": "Cortar el cordón con instrumentos no estériles en el domicilio aumenta drásticamente el riesgo de infección grave, como el tétanos neonatal o la onfalitis bacteriana ascendente."
+      },
+      {
+        "text": "Trasladar de urgencia al neonato separándolo de la madre de forma inmediata para evitar fenómenos de transfusión feto-materna.",
+        "isCorrect": false,
+        "explanation": "Separar al binomio interrumpe la termorregulación natural (conducción del calor de la madre) y genera estrés innecesario, y la transfusión feto-materna masiva patológica no se gatilla por mantener al niño en el abdomen."
+      },
+      {
+        "text": "Priorizar el secado y abrigo del neonato junto a la madre, difiriendo el corte del cordón hasta la llegada al centro hospitalario.",
+        "isCorrect": true,
+        "explanation": "Si el recién nacido está vigoroso y reactivo, la prioridad absoluta fuera del hospital es evitar la hipotermia mediante el contacto piel con piel y mantas secas. El cordón puede permanecer intacto y clampearse de forma segura y estéril en el servicio de urgencias o en la ambulancia avanzada."
+      },
+      {
+        "text": "Realizar un ordeñamiento enérgico del cordón umbilical hacia el recién nacido para asegurar un aporte máximo de volumen de hierro.",
+        "isCorrect": false,
+        "explanation": "El ordeñamiento enérgico (\"milking\") no está indicado de forma universal sin control, menos aún en un entorno extrahospitalario por el riesgo de hiperviscosidad sanguínea e ictericia severa."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "En la sala de atención inmediata de un hospital chileno, se procede a la identificación normativa del recién nacido. ¿Cuál es el estándar de seguridad obligatorio que se debe cumplir antes de que el binomio abandone el pabellón de partos hacia Puerperio?",
+    "hint": "Piense en las barreras de seguridad para evitar eventos adversos centinela (como el intercambio de recién nacidos). La identificación debe vincular inequívocamente al hijo con su madre biológica al instante.",
+    "options": [
+      {
+        "text": "Registro exclusivo de la huella dactilar del pulgar derecho del neonato en la hoja de parto del MINSAL.",
+        "isCorrect": false,
+        "explanation": "Las huellas dactilares de los recién nacidos no están lo suficientemente desarrolladas al nacer para ser legibles o confiables; se utiliza tradicionalmente la huella plantar (pelmatoscopía) como registro complementario, pero la pulsera es el elemento crítico de verificación visual continua."
+      },
+      {
+        "text": "Colocación de una pulsera en la muñeca o tobillo del recién nacido que consigne el nombre completo de la madre, RUT, fecha y hora exacta del parto.",
+        "isCorrect": true,
+        "explanation": "La pulsera de identificación del RN (colocada idealmente de forma inmediata frente a los padres) debe incluir los datos de la madre (nombre completo y su cédula de identidad/RUT), además de los datos del propio nacimiento (fecha, hora y sexo del RN) para garantizar la trazabilidad de la identidad."
+      },
+      {
+        "text": "Colocación de una pulsera de identificación en el tobillo del RN con el nombre completo de la matrona que asistió el parto.",
+        "isCorrect": false,
+        "explanation": "Consignar el nombre del personal de salud que atiende el parto no previene el intercambio accidental de neonatos ni asegura el vínculo de identidad materno-filial en la sala de hospitalización."
+      },
+      {
+        "text": "Toma de una muestra de sangre de cordón para tipificación rápida del grupo clásico ABO e identificación genética obligatoria.",
+        "isCorrect": false,
+        "explanation": "La tipificación de cordón se realiza en casos específicos (madres Rh negativas u O positivo para vigilar incompatibilidad), pero no constituye el mecanismo primario ni normativo de identificación de identidad legal del menor."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Un recién nacido de término y adecuado para la edad gestacional se encuentra en su primera hora de vida bajo calor radiante por requerir una evaluación menor. Al controlar los signos vitales, usted constata una frecuencia cardíaca de 135 latidos por minuto, una frecuencia respiratoria de 48 respiraciones por minuto con patrón periódico, y una temperatura axilar de 36,1°C. ¿Cómo interpreta este hallazgo térmico y cuál es la conducta inmediata?",
+    "hint": "Recuerde los rangos de normalidad de la temperatura axilar neonatal según la OMS y el MINSAL (36,5°C - 37,5°C). Un valor bajo altera el consumo de oxígeno y glucosa.",
+    "options": [
+      {
+        "text": "El neonato presenta hipotermia moderada; se debe ingresar de forma inmediata a la unidad de cuidados intensivos neonatales.",
+        "isCorrect": false,
+        "explanation": "La hipotermia moderada se sitúa entre 32,0°C y 35,9°C. Este paciente tiene 36,1°C (leve), por lo que no requiere de entrada un manejo invasivo en la UCIN si responde a las medidas básicas de recalentamiento."
+      },
+      {
+        "text": "El neonato presenta un enfriamiento por evaporación; se debe iniciar de inmediato un bolo de suero glucosado al 10% por vía endovenosa.",
+        "isCorrect": false,
+        "explanation": "El manejo inicial de la hipotermia aislada sin hipoglicemia documentada es térmico y clínico; la fluidoterapia endovenosa con glucosa se reserva para fallas terapéuticas asociadas a shock o hipoglicemias sintomáticas refractarias."
+      },
+      {
+        "text": "El neonato presenta hipotermia leve; se debe priorizar el contacto piel con piel con la madre cubierto con mantas precalentadas.",
+        "isCorrect": true,
+        "explanation": "Una temperatura axilar entre 36,0°C y 36,4°C se define como hipotermia leve (estrés por frío). La medida más eficiente, segura y fisiológica para recalentar a un recién nacido estable es colocarlo en contacto piel con piel con su madre, utilizando mantas secas sobre la espalda del niño para frenar las pérdidas térmicas."
+      },
+      {
+        "text": "El neonato presenta rangos fisiológicos normales; se debe continuar con la monitorización de rutina cada cuatro horas en la cuna.",
+        "isCorrect": false,
+        "explanation": "La temperatura de 36,1°C es francamente patológica; considerarla normal expone al neonato a un aumento del metabolismo basal, hipoglicemia secundaria y acidosis metabólica por consumo de grasa parda."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Durante el procedimiento de ligadura del cordón umbilical en la atención inmediata, ¿cuál es la distancia recomendada por la lex artis y los manuales nacionales para colocar el clampeador plástico (Aero-clamp) respecto de la base cutánea del abdomen del recién nacido?",
+    "hint": "Debe quedar un muñón lo suficientemente corto para evitar tirones accidentales con el pañal, pero con el espacio necesario por si se requiere un cateterismo de urgencia en el período inmediato.",
+    "options": [
+      {
+        "text": "A una distancia de 8,0 a 10,0 centímetros de la base cutánea abdominal.",
+        "isCorrect": false,
+        "explanation": "Una longitud de 8 a 10 cm es totalmente disfuncional para los cuidados posteriores en la unidad de puerperio y dificulta la higiene diaria del cordón."
+      },
+      {
+        "text": "A una distancia de 2,0 a 3,0 centímetros de la base cutánea abdominal.",
+        "isCorrect": true,
+        "explanation": "La colocación del clamp umbilical se realiza normativamente a 2 o 3 centímetros de la inserción cutánea abdominal. Esto permite una adecuada necrosis aséptica del tejido sin lesionar la pared abdominal y deja un margen seguro de vasos umbilicales accesibles ante emergencias."
+      },
+      {
+        "text": "A una distancia de 0,5 a 1,0 centímetros de la base cutánea abdominal.",
+        "isCorrect": false,
+        "explanation": "Clampear a menos de 1 cm de la base cutánea conlleva un riesgo crítico de pinzamiento accidental de la piel del abdomen o de una hernia umbilical encubierta, provocando dolor y necrosis de tejidos maternos/fetales."
+      },
+      {
+        "text": "A una distancia de 5,0 a 6,0 centímetros de la base cutánea abdominal.",
+        "isCorrect": false,
+        "explanation": "Dejar un cordón de 5 a 6 cm es excesivamente largo, lo que predispone a que el muñón se enganche con la ropa, se humedezca con la orina del pañal y aumente el riesgo de colonización bacteriana."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Un recién nacido de 38 semanas nace por cesárea debido a una presentación podálica. Al minuto de vida, presenta una frecuencia cardíaca de 140 latidos por minuto, esfuerzo respiratorio regular con llanto, pero se observa flácido, con extremidades en completa extensión y sin respuesta a la estimulación. ¿Cuál es el puntaje de APGAR parcial que se le asigna exclusivamente en los parámetros de \"Tono muscular\" (Actividad) e \"Irritabilidad refleja\" (Gesticulación)?",
+    "hint": "Analice de forma estricta las palabras \"flácido, en completa extensión\" y \"sin respuesta a la estimulación\". Asigne el puntaje exacto (0, 1 o 2) para cada una de estas dos categorías individuales.",
+    "options": [
+      {
+        "text": "2 puntos en Actividad y 0 puntos en Gesticulación.",
+        "isCorrect": false,
+        "explanation": "Los 2 puntos en Actividad se otorgan únicamente si el recién nacido despliega movimientos activos espontáneos y un tono flexor normalizado de las cuatro extremidades."
+      },
+      {
+        "text": "1 punto en Actividad y 1 punto en Gesticulación.",
+        "isCorrect": false,
+        "explanation": "Para obtener 1 punto en Actividad se requiere al menos \"cierta flexión de extremidades\", y para 1 punto en Gesticulación se necesita constatar una \"mueca\" facial ante el estímulo, lo cual no ocurre en este caso."
+      },
+      {
+        "text": "0 puntos en Actividad y 1 punto en Gesticulación.",
+        "isCorrect": false,
+        "explanation": "Atribuye erróneamente un punto a la gesticulación a pesar de que el enunciado describe explícitamente que el paciente no presenta ningún tipo de respuesta frente a los estímulos táctiles."
+      },
+      {
+        "text": "0 puntos en Actividad y 0 puntos en Gesticulación.",
+        "isCorrect": true,
+        "explanation": "\"Flácido con extremidades en extensión\" equivale a un tono muscular completamente abolido, lo que corresponde a 0 puntos en Actividad. \"Sin respuesta a la estimulación\" significa ausencia total de gesticulación o reflejos, recibiendo 0 puntos en Gesticulación."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "En relación con el cuidado del cordón umbilical iniciado en el período de atención inmediata y continuado en el puerperio, las recomendaciones del MINSAL priorizan la prevención de la onfalitis. ¿Cuál es la estrategia de manejo del cordón avalada formalmente para partos institucionales en Chile?",
+    "hint": "Busque la opción que refleje el cuidado no invasivo actual, evitando antisépticos que puedan retrasar la caída natural del cordón o generar toxicidad sistémica (como el yodo).",
+    "options": [
+      {
+        "text": "Mantener el cordón limpio y seco, permitiendo la aplicación local de alcohol de 70° según el protocolo institucional local.",
+        "isCorrect": true,
+        "explanation": "La recomendación estándar en Chile para recién nacidos de término en contextos hospitalarios es el cuidado seco o la desinfección con alcohol de 70° de forma limpia en la base del cordón. El objetivo es favorecer la deshidratación y momificación natural del tejido sin interferir con la flora saprófita protectora."
+      },
+      {
+        "text": "Aplicación tópica de ungüento de neomicina en la base del cordón cada doce horas hasta su caída.",
+        "isCorrect": false,
+        "explanation": "El uso rutinario e indiscriminado de ungüentos antibióticos tópicos no está indicado en la atención del RN sano, ya que promueve la aparición de resistencia bacteriana local."
+      },
+      {
+        "text": "Aplicación diaria de vaselina líquida estéril para mantener la flexibilidad del tejido del cordón.",
+        "isCorrect": false,
+        "explanation": "La vaselina mantiene el cordón húmedo, lo cual retrasa la momificación del tejido y crea un ambiente anaeróbico ideal para el sobrecrecimiento de patógenos peligrosos como Clostridium tetani."
+      },
+      {
+        "text": "Lavado del cordón con povidona yodada al 10% en cada cambio de pañal para asegurar la esterilidad.",
+        "isCorrect": false,
+        "explanation": "La povidona yodada está contraindicada en el neonato debido a que el yodo se absorbe masivamente a través de la piel y el cordón, pudiendo suprimir el eje tiroideo y gatillar un hipotiroidismo transitorio."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Usted está asistiendo el parto de una gestante cuyo tamizaje antenatal para el antígeno de superficie de la Hepatitis B (AgVHB) resultó ser positivo. De acuerdo con el protocolo nacional de inmunizaciones de Chile, ¿cuáles son las medidas preventivas inmediatas que se deben aplicar a este recién nacido en la sala de partos?",
+    "hint": "Ante la confirmación de una madre portadora activa del virus, se requiere combinar la inmunización activa (vacuna) con la inmunización pasiva inmediata (anticuerpos listos) para bloquear la transmisión vertical con la máxima eficacia.",
+    "options": [
+      {
+        "text": "Administrar únicamente la vacuna de la Hepatitis B de urgencia, suspendiendo el apego directo y la lactancia materna de forma definitiva.",
+        "isCorrect": false,
+        "explanation": "La lactancia materna no está contraindicada en madres portadoras de Hepatitis B si el recién nacido recibe de forma oportuna tanto la vacuna como la inmunoglobulina protectora en los tiempos normados."
+      },
+      {
+        "text": "Administrar una dosis doble de la vacuna Hexavalente acelular junto con un curso de interferón alfa por vía oral en las primeras 24 horas.",
+        "isCorrect": false,
+        "explanation": "La vacuna Hexavalente se administra según el calendario regular a los 2, 4, 6 y 18 meses, no en la atención inmediata del recién nacido, y el interferón no forma parte del esquema preventivo agudo."
+      },
+      {
+        "text": "Postergar la vacunación contra la Hepatitis B hasta que el recién nacido cumpla los 2 meses de vida para evitar fenómenos de autoinmunidad hepática.",
+        "isCorrect": false,
+        "explanation": "Postergar la inmunización destruye la ventana de oportunidad para prevenir la infección crónica por el VHB, la cual progresa a cirrosis o hepatocarcinoma en el 90% de los neonatos infectados por vía vertical si no son protegidos."
+      },
+      {
+        "text": "Administrar la vacuna contra la Hepatitis B y la Inmunoglobulina específica contra la Hepatitis B (IGHB) dentro de las primeras 12 horas de vida.",
+        "isCorrect": true,
+        "explanation": "En hijos de madres con AgVHB positivo se debe administrar de forma perentoria la primera dosis de la vacuna contra la Hepatitis B (inmunización activa) y 0,5 mL de Inmunoglobulina específica contra la Hepatitis B (inmunización pasiva) en sitios anatómicos distintos (muslos diferentes) dentro de las primeras 12 horas postparto. El apego y la lactancia no se contraindican si se cumple esta profilaxis."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "¿Cuál es el volumen y la vía de administración estándar de la vacuna BCG (Bacilo de Calmette-Guérin) que se indica de forma programática a todo recién nacido sano en las maternidades de Chile antes del alta institucional?",
+    "hint": "La vacuna viva atenuada contra las formas invasoras de tuberculosis (BCG) es una de las pocas vacunas del PNI que requiere la formación de una pápula y posterior cicatriz característica por su técnica inyectable superficial.",
+    "options": [
+      {
+        "text": "0,05 mL administrados por vía escarificada superficial en la región deltoidea del brazo derecho.",
+        "isCorrect": false,
+        "explanation": "La técnica de escarificación pertenece al pasado histórico de la vacunación; el estándar actual de seguridad exige el uso de jeringas de tuberculina con aguja de bisel corto para inyección intradérmica en el brazo izquierdo."
+      },
+      {
+        "text": "0,1 mL administrados por vía intramuscular en la región del vasto lateral del muslo derecho.",
+        "isCorrect": false,
+        "explanation": "La vía intramuscular está absolutamente contraindicada para este biológico bacteriano atenuado, y la localización del muslo se reserva para vacunas inactivadas como la de la Hepatitis B."
+      },
+      {
+        "text": "0,05 mL administrados por vía intradérmica estricta en la región deltoidea del brazo izquierdo.",
+        "isCorrect": true,
+        "explanation": "La dosis programática de la vacuna BCG en Chile para el recién nacido es de 0,05 mL (o 0,1 mL según la cepa del fabricante, pero normativamente fijada en 0,05 mL en las directrices de enfermería chilenas para la pápula exacta) aplicada por vía intradérmica en la región deltoidea del brazo izquierdo."
+      },
+      {
+        "text": "0,1 mL administrados por vía subcutánea profunda en la región deltoidea del brazo izquierdo.",
+        "isCorrect": false,
+        "explanation": "La vía subcutánea es incorrecta para la BCG; si se inyecta profundamente puede provocar linfadenitis supurativa severa (becegeítis) y abscesos subcutáneos fríos de difícil manejo médico."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Un recién nacido de 40 semanas de gestación por Capurro se encuentra realizando su período de transición en alojamiento conjunto con su madre. A las 3 horas de vida, el interno nota que el paciente presenta una coloración intensamente azulada restringida a sus manos y pies, mientras que la mucosa oral, la lengua y el tronco se observan completamente rosados. El neonato está reactivo, con adecuada succión. ¿Cuál es la interpretación fisiopatológica de este fenómeno clínico?",
+    "hint": "Evalúe la distribución simétrica y distal del color azulado, respetando las mucosas centrales, en un paciente clínicamente asintomático y vigoroso durante las primeras horas de adaptación extrauterina.",
+    "options": [
+      {
+        "text": "Corresponde a un signo precoz de shock séptico neonatal por colonización de Streptococcus agalactiae en el canal de parto.",
+        "isCorrect": false,
+        "explanation": "El shock séptico se presentaría con compromiso del estado general, letargia, mala succión, llene capilar enlentecido central y taquicardia o bradicardia, cuadro opuesto al neonato vigoroso descrito."
+      },
+      {
+        "text": "Corresponde a una acrocianosis fisiológica debida a una inestabilidad vasomotora transitoria y enlentecimiento capilar distal.",
+        "isCorrect": true,
+        "explanation": "La acrocianosis (cianosis de extremidades) es un hallazgo normal y sumamente frecuente en las primeras 24 a 48 horas de vida. Se produce por la inestabilidad del sistema nervioso autónomo periférico, el frío relativo del ambiente y el aumento de la extracción de oxígeno en tejidos distales con perfusión enlentecida, no requiriendo intervenciones médicas más allá del abrigo."
+      },
+      {
+        "text": "Corresponde a una cianosis central secundaria a un cortocircuito derecha-izquierda por persistencia del ductus arterioso.",
+        "isCorrect": false,
+        "explanation": "La cianosis central compromete mucosas, lengua y tronco; está ligada a patologías estructurales cardíacas o respiratorias graves y siempre se acompaña de caídas objetivas en la oximetría de pulso central."
+      },
+      {
+        "text": "Corresponde a una metahemoglobinemia congénita por déficit enzimático agudo de la vía glucolítica del eritrocito.",
+        "isCorrect": false,
+        "explanation": "La metahemoglobinemia produce una coloración grisácea o azulada generalizada de la piel y mucosas que no revierte con la administración de oxígeno, siendo una entidad rara que no encaja con una transición normal aislada distamente."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Al realizar la antropometría de un recién nacido en la sala de atención inmediata, usted registra los siguientes valores: Peso: 4.350 gramos, Talla: 53 cm, Perímetro cefálico: 36,5 cm. La edad gestacional confirmada es de 39 semanas completas. Utilizando las curvas de crecimiento intrauterino de Alarcón-Pittaluga vigentes en Chile, ¿cómo clasifica epidemiológicamente a este Neonato?",
+    "hint": "Evalúe el peso de nacimiento respecto al corte de los 4.000 o 4.300 gramos, y analice si el percentil se sitúa por encima del percentil 90 para las 39 semanas de gestación en las tablas nacionales de Chile.",
+    "options": [
+      {
+        "text": "Recién nacido de término, Adecuado para la Edad Gestacional (AEG).",
+        "isCorrect": false,
+        "explanation": "La clasificación AEG se reserva para los pesos que oscilan estrictamente entre los percentiles 10 y 90 de las tablas de referencia para la respectiva edad gestacional."
+      },
+      {
+        "text": "Recién nacido postérmino, Grande para la Edad Gestacional (GEG).",
+        "isCorrect": false,
+        "explanation": "El término \"postérmino\" se aplica única y exclusivamente a los nacimientos que ocurren a partir de las 42 semanas de edad gestacional (295 días o más), independiente del peso al nacer."
+      },
+      {
+        "text": "Recién nacido de término, Grande para la Edad Gestacional (GEG) y Macrosómico.",
+        "isCorrect": true,
+        "explanation": "Un peso de 4.350 gramos a las 39 semanas de gestación se posiciona claramente por encima del percentil 90 de la curva chilena de Alarcón-Pittaluga, lo que define al paciente como Grande para la Edad Gestacional (GEG). Además, en Chile se utiliza el término \"Macrosómico\" para todo neonato con un peso de nacimiento igual o superior a 4.000 gramos (o 4.300 g según guías locales específicas, pero cayendo en la categoría de sobrecrecimiento en ambos cortes)."
+      },
+      {
+        "text": "Recién nacido de término, Pequeño para la Edad Gestacional (PEG).",
+        "isCorrect": false,
+        "explanation": "Los pequeños para la edad gestacional (PEG) se ubican por debajo del percentil 10, habitualmente con pesos inferiores a los 2.800 gramos a las 39 semanas de gestación."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Se evalúa un recién nacido de 35 semanas de edad gestacional por Capurro somático, con un peso de 1.850 gramos. ¿Cuál es la indicación correcta respecto a su lugar de hospitalización o internación inicial y el manejo de su termorregulación según las directrices de la red neonatal chilena?",
+    "hint": "Analice la prematurez moderada (35 semanas) y el bajo peso de nacimiento (<2.000 gramos). Estos pacientes carecen de depósitos suficientes de grasa parda y tienen una alta superficie corporal en relación al peso, lo que impide una termorregulación autónoma estable.",
+    "options": [
+      {
+        "text": "Puede permanecer en alojamiento conjunto con su madre en camas de Puerperio habitual con abrigo estándar del pañal.",
+        "isCorrect": false,
+        "explanation": "Mantener a un prematuro de 35 semanas y 1.850 gramos en puerperio general sin monitorización específica aumenta críticamente el riesgo de crisis de apnea, hipotermia inadvertida e hipoglicemia severa."
+      },
+      {
+        "text": "Debe derivarse a su domicilio particular de forma anticipada para que la madre inicie el método madre canguro de manera ambulatoria sin control de laboratorio.",
+        "isCorrect": false,
+        "explanation": "El alta domiciliaria directa en un recién nacido con bajo peso al nacer infringe las normas de seguridad de todas las maternidades de la red de salud pública chilena."
+      },
+      {
+        "text": "Debe ingresar a una cuna de procedimientos en la unidad de Cuidados Intermedios Neonatales o en una Incubadora cerrada para estabilización térmica.",
+        "isCorrect": true,
+        "explanation": "Los recién nacidos prematuros menores de 36 semanas o con un peso inferior a 2.000 gramos tienen indicación clínica de ingresar a unidades neonatales (mínimo cuidados intermedios) o utilizar incubadoras cerradas para control térmico estricto, previniendo el enfriamiento y vigilando la tolerancia alimentaria."
+      },
+      {
+        "text": "Debe ingresar de urgencia a la Unidad de Cuidados Intensivos Neonatales para el inicio inmediato de ventilación mecánica invasiva profiláctica.",
+        "isCorrect": false,
+        "explanation": "La prematurez aislada de 35 semanas sin distrés respiratorio clínico ni apnea central no justifica de ninguna manera la ventilación mecánica invasiva ni el uso de recursos de cuidados intensivos críticos de entrada."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "En la sala de atención inmediata del recién nacido sano, se realiza el examen físico dirigido buscando descartar malformaciones mayores de resolución urgente. Al evaluar el abdomen, usted constata la presencia de dos arterias y una vena en el corte transversal del cordón umbilical. ¿Cómo interpreta este hallazgo anatómico?",
+    "hint": "Recuerde la embriología clásica de los vasos que comunican la placenta con la circulación fetal a través del anillo umbilical.",
+    "options": [
+      {
+        "text": "Es una anomalía vascular severa que exige la solicitud inmediata de una ecografía transfontanelar y derivación a cardiocirugía.",
+        "isCorrect": false,
+        "explanation": "La anomalía sería constatar una \"arteria umbilical única\" (AUU), hallazgo que sí se asocia en un porcentaje menor a malformaciones genitourinarias o cardíacas ocultas, pero la viñeta describe la anatomía normal trifascicular."
+      },
+      {
+        "text": "Es una variante anatómica benigna que obliga a suspender la profilaxis con vitamina K por riesgo aumentado de trombosis venosa.",
+        "isCorrect": false,
+        "explanation": "No existe ninguna contraindicación para la profilaxis de la enfermedad hemorrágica basada en la presencia de los vasos normales del cordón."
+      },
+      {
+        "text": "Es un signo patognomónico de atresia esofágica que requiere la instalación de una sonda nasogástrica a permanencia antes de alimentar.",
+        "isCorrect": false,
+        "explanation": "La presencia de dos arterias y una vena no guarda ninguna relación fisiopatológica con la atresia de la vía digestiva alta."
+      },
+      {
+        "text": "Es la anatomía vascular normal del cordón umbilical; se registra el hallazgo y se continúa con la atención de rutina del binomio.",
+        "isCorrect": true,
+        "explanation": "El cordón umbilical normal posee estructuralmente tres vasos sanguíneos: dos arterias umbilicales (que llevan sangre desoxigenada del feto a la placenta) y una vena umbilical (que lleva sangre oxigenada y nutrientes de la placenta al feto). Su hallazgo confirma normalidad y permite el flujo regular de la atención."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Durante la evaluación del test de Silverman-Andersen en un recién nacido de término a los 10 minutos de vida en la cuna de transición, usted observa un aleteo nasal discreto, un quejido espiratorio audible únicamente con el fonendoscopio, y un tiraje intercostal leve, sin disociación toraco-abdominal. ¿Qué puntaje le otorga al paciente y cuál es su significado?",
+    "hint": "Tenga presente que en el test de Silverman-Andersen, a diferencia del APGAR, a mayor puntuación clínica se objetiva una mayor gravedad del compromiso respiratorio. Cada parámetro se evalúa de 0 a 2 puntos.",
+    "options": [
+      {
+        "text": "Puntaje de 5 puntos, indicativo de una dificultad respiratoria de carácter moderado.",
+        "isCorrect": false,
+        "explanation": "5 puntos implicaría la presencia de signos más acentuados, como quejido audible a distancia sin estetoscopio o tiraje intercostal marcado asociado a retracción xifoidea evidente."
+      },
+      {
+        "text": "Puntaje de 7 puntos, indicativo de una insuficiencia respiratoria de carácter grave.",
+        "isCorrect": false,
+        "explanation": "7 puntos o más se traduce en una dificultad respiratoria severa con alta probabilidad de requerir soporte ventilatorio avanzado inmediato (CPAP o ventilación mecánica invasiva)."
+      },
+      {
+        "text": "Puntaje de 3 puntos, indicativo de una dificultad respiratoria de carácter leve.",
+        "isCorrect": true,
+        "explanation": "El desglose del Silverman es: Aleteo nasal = 1 punto (discreto); Quejido espiratorio = 1 punto (audible con fonendo); Tiraje intercostal = 1 punto (leve); Retracción xifoidea = 0 puntos (no descrita); Disociación toraco-abdominal = 0 puntos (ausente). Total = 1 + 1 + 1 + 0 + 0 = 3 puntos, lo que equivale a un distrés respiratorio leve, común en períodos de transición."
+      },
+      {
+        "text": "Puntaje de 0 puntos, indicativo de una función respiratoria totalmente normal.",
+        "isCorrect": false,
+        "explanation": "Un puntaje de 0 puntos significaría la ausencia absoluta de cualquier signo de trabajo respiratorio (sin tiraje, sin aleteo, sin quejido)."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Usted asiste un parto vaginal de una madre con diagnóstico prenatal de Diabetes Gestacional mal controlada metabólicamente. El neonato nace vigoroso, de término, con un peso de 4.100 gramos. Tras realizar el apego inmediato de 60 minutos y asegurar la primera toma de lactancia materna, ¿cuál es el protocolo clínico mandatorio para el control de la homeostasis metabólica de este paciente según las guías clínicas chilenas?",
+    "hint": "Los hijos de madre diabética (HMD) sufren de hiperinsulinismo secundario intrauterino. Al cortar el cordón umbilical, cesa el aporte masivo de glucosa materna, pero persisten niveles altos de insulina en el niño, arriesgando caídas críticas de la glicemia en las primeras horas.",
+    "options": [
+      {
+        "text": "Controlar la glicemia capilar (hemoglucotest) a las 2 horas de vida o antes si presenta sintomatología sugerente de hipoglicemia.",
+        "isCorrect": true,
+        "explanation": "Los hijos de madre diabética y los macrosómicos son grupos de alto riesgo para hipoglicemia neonatal transitoria. La norma dictamina alimentarlos precozmente y monitorizar la glicemia capilar mediante hemoglucotest a las 2 horas de vida (momento del nadir fisiológico) o de forma inmediata ante signos de alerta (temblores, letargia, irritabilidad, hipotonía)."
+      },
+      {
+        "text": "Mantener al neonato en ayuno estricto por seis horas para forzar la neoglucogénesis hepática autónoma antes de medir glucosa.",
+        "isCorrect": false,
+        "explanation": "El ayuno está estrictamente contraindicado; prolongar el tiempo sin aporte calórico exógeno en un paciente hiperinsulinémico gatillará una hipoglicemia severa y sostenida con riesgo de convulsiones metabólicas."
+      },
+      {
+        "text": "Solicitar un perfil lipídico completo y gases en sangre arterial a los 15 minutos de vida en la unidad de tratamiento intensivo.",
+        "isCorrect": false,
+        "explanation": "El perfil lipídico no tiene ninguna utilidad en el manejo agudo de la transición metabólica del hijo de madre diabética en la sala de partos."
+      },
+      {
+        "text": "Administrar un bolo profiláctico de solución fisiológica al 0,9% por vía endovenosa para diluir los niveles de insulina circulante.",
+        "isCorrect": false,
+        "explanation": "La solución fisiológica no aporta glucosa y no tiene la capacidad de bloquear o neutralizar la insulina libre circulante en el torrente sanguíneo del neonato."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Se evalúa un recién nacido inmediatamente después del parto. Se constata la presencia de una tumoración blanda en el cuero cabelludo que deforma la región parietal derecha. Al examen físico detallado se comprueba que dicha colección edematosa es de consistencia fluctuante y cruza netamente la línea de la sutura sagital hacia el lado contralateral. ¿Cuál es el diagnóstico clínico más probable y la conducta adecuada en la sala de atención inmediata?",
+    "hint": "Preste atención a la frase clave: \"cruza netamente la línea de la sutura sagital\". Identifique cuál de los traumatismos del parto se caracteriza por ser un edema de partes blandas serosanguinolento extracraneal superficial que no respeta los límites óseos.",
+    "options": [
+      {
+        "text": "Cefalohematoma subperióstico; se solicita una radiografía de cráneo urgente y se deriva al servicio de neurocirugía infantil para punción.",
+        "isCorrect": false,
+        "explanation": "El cefalohematoma es una colección de sangre subperióstica que, debido a su localización anatómica bajo el periostio, queda estrictamente limitada a un solo hueso y nunca cruza las suturas craneales; además, su punción está contraindicada por riesgo de infección ósea."
+      },
+      {
+        "text": "Fractura craneal con hundimiento; se contraindica la lactancia materna y se inicia un esquema profiláctico con antibióticos endovenosos.",
+        "isCorrect": false,
+        "explanation": "Las fracturas craneales con hundimiento muestran una deformidad ósea rígida en \"bola de ping-pong\" detectable a la palpación profunda, y no corresponden a una colección blanda fluctuante que cruce suturas en un parto normal."
+      },
+      {
+        "text": "Hematoma subdural agudo; se traslada de inmediato al pabellón quirúrgico para la colocación de un sensor de presión intracraneal.",
+        "isCorrect": false,
+        "explanation": "El hematoma subdural es una hemorragia intracraneal profunda que se acompaña de compromiso neurológico severo (depresión, convulsiones, alteración pupilar), cuadro ausente en este neonato asintomático con edema superficial."
+      },
+      {
+        "text": "Caput succedaneum; se explica a los padres su naturaleza benigna y se adopta una conducta expectante, ya que resolverá espontáneamente.",
+        "isCorrect": true,
+        "explanation": "El caput succedaneum es una acumulación de líquido serosanguinolento en el tejido celular subcutáneo del cuero cabelludo, secundaria a la presión ejercida por el cuello uterino durante el trabajo de parto. Dado que se ubica por encima del periostio, no está limitado por los huesos craneales y cruza las suturas. Es benigno y desaparece en pocos días sin dejar secuelas."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "En la cuna radiante de atención inmediata, usted recibe a un recién nacido de 39 semanas de gestación. Al realizar la evaluación del cordón umbilical antes del traslado a la unidad de puerperio, se constata un sangrado activo persistente en napa a través de los vasos del muñón, a pesar de tener el clampeador plástico correctamente posicionado. ¿Cuál es la medida correctiva inmediata en la sala de atención?",
+    "hint": "Enfoque el problema desde la lógica hemostática básica y local de la atención inmediata; busque asegurar el cierre mecánico de los vasos laxos antes de asumir fallas sistémicas.",
+    "options": [
+      {
+        "text": "Trasladar de urgencia al neonato al pabellón central para la realización de una paratoracotomía exploradora de vasos ilíacos.",
+        "isCorrect": false,
+        "explanation": "Una exploración quirúrgica mayor es una conducta totalmente desproporcionada y errónea para un sangrado local del muñón que responde a la compresión mecánica elemental."
+      },
+      {
+        "text": "Iniciar una infusión endovenosa de plasma fresco congelado a razón de 50 mL/kg a través de una vía venosa periférica.",
+        "isCorrect": false,
+        "explanation": "La transfusión de plasma fresco congelado se reserva para coagulopatías sistémicas severas documentadas por laboratorio (como la hemofilia o la CID), no para fallas mecánicas de la ligadura del cordón."
+      },
+      {
+        "text": "Aplicar una ampolla completa de adrenalina al 1:1.000 de forma tópica sobre el cordón mediante gasas empapadas.",
+        "isCorrect": false,
+        "explanation": "El uso de adrenalina tópica concentrada en el cordón umbilical puede provocar arritmias cardíacas por absorción sistémica y necrosis tisular local por vasoespasmo severo de la pared abdominal."
+      },
+      {
+        "text": "Colocar una segunda ligadura o un nuevo clamp de seguridad proximal al primero, verificando el cese del sangrado.",
+        "isCorrect": true,
+        "explanation": "El sangrado del cordón umbilical en el período inmediato suele deberse a un clampeo insuficiente por gelatina de Wharton excesivamente gruesa que se deshidrata rápidamente, o a una falla mecánica del clamp. La conducta correcta y segura es colocar una segunda pinza o ligadura proximal (más cerca de la piel, respetando el margen de seguridad) para cohibir mecánicamente el flujo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "¿Cuál es la conducta recomendada en la guía clínica del MINSAL respecto a la aspiración de secreciones de la vía aérea (boca y nariz) en un recién nacido de término que nace vigoroso, con llanto enérgico y buen tono muscular, pero con presencia de líquido amniótico con meconio espeso?",
+    "hint": "Los consensos internacionales de reanimación neonatal (PRN 8ª Edición) modificaron drásticamente el manejo del líquido meconial basado en la vitalidad del niño al nacer (\"vigoroso\" vs \"no vigoroso\"), erradicando las conductas invasivas lesivas automáticas.",
+    "options": [
+      {
+        "text": "Se debe realizar una aspiración gástrica enérgica con sonda de alto calibre para eliminar el meconio deglutido.",
+        "isCorrect": false,
+        "explanation": "El lavado o la aspiración gástrica sistemática en la sala de partos es una práctica obsoleta que altera la colonización bacteriana normal del tubo digestivo y puede provocar perforaciones esofágicas accidentales."
+      },
+      {
+        "text": "Se debe administrar una dosis de surfactante pulmonar profiláctico a través de una máscara laríngea en el primer minuto de vida.",
+        "isCorrect": false,
+        "explanation": "El surfactante se utiliza con fines terapéuticos en casos confirmados de síndrome de dificultad respiratoria severa (membrana hialina) o SAM grave bajo ventilación mecánica, nunca de forma profiláctica universal en un niño sano que llora."
+      },
+      {
+        "text": "Se debe realizar una intubación endotraqueal inmediata en la cuna radiante para aspirar la tráquea antes de que respire.",
+        "isCorrect": false,
+        "explanation": "La intubación para aspiración traqueal rutinaria en el neonato vigoroso fue eliminada de las guías internacionales debido a que aumentaba la incidencia de trauma laringotraqueal y neumotórax sin disminuir el síndrome de aspiración de meconio (SAM)."
+      },
+      {
+        "text": "No se deben aspirar las secreciones de forma rutinaria si el neonato está vigoroso, priorizando el contacto piel con piel.",
+        "isCorrect": true,
+        "explanation": "Si un recién nacido expuesto a líquido amniótico meconial nace vigoroso (buen esfuerzo respiratorio, buen tono muscular y frecuencia cardíaca >100 lpm), la evidencia demuestra que la aspiración rutinaria (e incluso la intubación) no aporta beneficios, pudiendo causar bradicardia refleja por estímulo vagal y retrasar el apego. Solo se limpian las secreciones de la boca y nariz con un paño si obstruyen mecánicamente la vía aérea."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Se asiste el nacimiento de un recién nacido de 41 semanas de gestación por ecografía precoz. En la sala de atención inmediata, tras secarlo, usted nota la presencia de una descamación cutánea generalizada y marcada, grietas superficiales en las muñecas y tobillos, ausencia casi total de vérnix caseosa, y uñas marcadamente largas. ¿Cómo interpreta semiológicamente estos hallazgos cutáneos?",
+    "hint": "Asocie la edad gestacional avanzada (41 semanas) con el proceso natural de pérdida del unto sebáceo (vérnix) y el envejecimiento placentario fisiológico que altera la hidratación de la capa córnea epidérmica al final de la gestación.",
+    "options": [
+      {
+        "text": "Son signos clínicos típicos de un recién nacido con rasgos de postmadurez cutánea (síndrome de posmadurez).",
+        "isCorrect": true,
+        "explanation": "Los neonatos cronológicamente de término tardío o postérmino suelen desplegar los signos descritos, conocidos clásicamente como el espectro de postmadurez cutánea. Al disminuir la vérnix caseosa al final del embarazo, la piel queda expuesta directamente al líquido amniótico, provocando maceración, descamación y agrietamiento superficial, lo cual constituye un cambio fisiológico esperado."
+      },
+      {
+        "text": "Son signos sugerentes de una infección congénita activa por Citomegalovirus con afectación dermatológica.",
+        "isCorrect": false,
+        "explanation": "El Citomegalovirus congénito se manifiesta dermatológicamente con petequias, púrpura purpúrico en \"queque de arándano\" (eritropoyesis dérmica) e ictericia precoz, no con descamación y uñas largas aisladas."
+      },
+      {
+        "text": "Son signos de una dermatitis seborreica severa del lactante gatillada por el traspaso excesivo de estrógenos maternos.",
+        "isCorrect": false,
+        "explanation": "La dermatitis seborreica neonatal debuta habitualmente después de las dos semanas de vida, localizándose de preferencia en el cuero cabelludo (costra láctea) y pliegues flexores, mostrando escamas grasosas de color amarillento."
+      },
+      {
+        "text": "Son signos sugerentes de una displasia ectodérmica hereditaria que requiere biopsia cutánea inmediata.",
+        "isCorrect": false,
+        "explanation": "La displasia ectodérmica compromete de forma permanente estructuras profundas (ausencia de folículos, anomalías dentales severas, anhidrosis) y no se presenta como una descamación descrita de forma típica tras un parto prolongado."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Al examinar la cavidad oral de un recién nacido sano de 39 semanas durante sus primeros minutos en la cuna radiante de transición, usted aprecia dos pequeñas sobreelevaciones quísticas de color blanquecino, de aproximadamente 1 mm de diámetro, ubicadas exactamente en la línea media del paladar duro. El niño no presenta molestias y succiona vigorosamente. ¿Cuál es el diagnóstico correcto de esta condición?",
+    "hint": "Identifique la estructura quística palatina media fisiológica más común en el recién nacido, originada por el atrapamiento de remanentes epiteliales durante la fusión de los procesos palatinos intrauterinos.",
+    "options": [
+      {
+        "text": "Dientes natales encubiertos; se debe interconsultar de urgencia a odontopediatría para extracción por riesgo de aspiración.",
+        "isCorrect": false,
+        "explanation": "Los dientes natales son estructuras calcificadas verdaderas que emergen sobre el reborde alveolar inferior (área de los incisivos centrales), no sobreelevaciones quísticas diminutas en el centro del paladar duro."
+      },
+      {
+        "text": "Perlas de Epstein; corresponden a quistes de inclusión epitelial benignos que no requieren tratamiento.",
+        "isCorrect": true,
+        "explanation": "Las perlas de Epstein son quistes gingivales o palatinos formados por restos de epitelio atrapado en la línea de fusión del paladar. Son un hallazgo normal presente en hasta el 85% de los neonatos, no duelen, no interfieren con la lactancia y involucionan espontáneamente en las primeras semanas de vida sin dejar cicatrices."
+      },
+      {
+        "text": "Candidiasis oral neonatal (Muguet); se debe iniciar de inmediato un tratamiento tópico con nistatina oral.",
+        "isCorrect": false,
+        "explanation": "El muguet (candidiasis) se presenta como placas algodonosas blancas difusas que recubren extensamente la mucosa yugal y la lengua, son difíciles de desprender al raspado y suelen dejar una base eritematosa sangrante."
+      },
+      {
+        "text": "Nódulos de Bohn; corresponden a restos de tejido de glándulas salivales mucosas que exigen exéresis quirúrgica.",
+        "isCorrect": false,
+        "explanation": "Los nódulos de Bohn se ubican de preferencia en las caras bucales o linguales de los rodetes alveolares (encías) y corresponden a restos de tejido glandular, diferenciándose de las perlas de Epstein de la línea media palatina, aunque ambos son benignos."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Neonatología",
+    "topic": "Atención Inmediata del Recién Nacido (ATI)",
+    "text": "Un recién nacido de término se encuentra realizando el período de transición inmediata en la sala de partos. A los 20 minutos de vida, se constata una frecuencia cardíaca regular de 175 latidos por minuto durante el llanto vigoroso, la cual desciende a 140 latidos por minuto cuando el niño se calma sobre el pecho materno. El esfuerzo respiratorio es normal. ¿Cuál es la conducta adecuada frente a esta variación hemodinámica?",
+    "hint": "Analice cómo varía la frecuencia cardíaca neonatal en respuesta al estado de alerta y actividad (llanto vs reposo) durante el período adaptativo fisiológico normal de las primeras horas de vida.",
+    "options": [
+      {
+        "text": "Suspender de inmediato la lactancia materna por sospecha de una miocardiopatía hipertrófica idiopática reactiva.",
+        "isCorrect": false,
+        "explanation": "No existe ninguna base clínica que relacione la variabilidad normal del pulso ante el llanto con la necesidad de suspender la alimentación natural o sospechar patologías miocárdicas estructurales en un niño vigoroso."
+      },
+      {
+        "text": "Registrar los valores como una respuesta cronotrópica fisiológica normal ante el llanto y el estrés del nacimiento, manteniendo la observación de rutina.",
+        "isCorrect": true,
+        "explanation": "La frecuencia cardíaca basal normal del recién nacido oscila entre 120 y 160 latidos por minuto. Sin embargo, fluctuaciones que alcanzan hasta los 180 lpm son completamente fisiológicas durante crisis de llanto o actividad motora intensa debido a descargas adrenérgicas normales, normalizándose rápidamente en reposo o apego."
+      },
+      {
+        "text": "Solicitar de urgencia un electrocardiograma de doce derivaciones y administrar una dosis de carga de amiodarona por vía endovenosa.",
+        "isCorrect": false,
+        "explanation": "El uso de amiodarona u otros antiarrítmicos mayores está contraindicado sin un diagnóstico electrocardiográfico y ecocardiográfico riguroso de una arritmia verdadera, siendo lesivo para un corazón sano en transición."
+      },
+      {
+        "text": "Diagnosticar una taquicardia supraventricular paroxística neonatal e iniciar maniobras vagales mecánicas mediante inmersión en agua con hielo.",
+        "isCorrect": false,
+        "explanation": "La taquicardia supraventricular (TSV) neonatal se presenta típicamente como una frecuencia fija y sostenida, generalmente superior a los 220 o 250 lpm, que no varía con el estado de reposo del paciente y se acompaña de signos de insuficiencia cardíaca congestiva."
+      }
+    ]
+  }
+]
