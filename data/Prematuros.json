@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Una gestante de 39 semanas ingresa en trabajo de parto. Se constata un ultrasonido del tercer trimestre que describe una detención del crecimiento fetal armónico. Al nacer, el neonato pesa 1.950 gramos, mide 43 cm y tiene un perímetro cefálico de 31 cm. Todos los parámetros antropométricos se sitúan bajo el percentil 3 de la curva de Alarcón-Pittaluga. ¿Cuál es la clasificación etiopatogénica más probable de esta restricción de crecimiento?",
+    "hint": "Analice la proporcionalidad de la afectación de los tres parámetros (peso, talla y perímetro cefálico) y su relación cronológica con las fases de la división celular intrauterina.",
+    "options": [
+      {
+        "text": "Restricción de crecimiento de patrón genético familiar normal, secundaria a una baja talla constitucional de ambos progenitores.",
+        "isCorrect": false,
+        "explanation": "Aunque la talla genética influye, una caída simultánea de todos los parámetros antropométricos bajo el percentil 3 en un recién nacido de término es patológica y exige descartar causas orgánicas o infecciosas."
+      },
+      {
+        "text": "Restricción de crecimiento intrauterino simétrico (Tipo I), secundaria a una noxa de instauración precoz en el primer trimestre.",
+        "isCorrect": true,
+        "explanation": "La afectación proporcional y simétrica de todos los parámetros (peso, talla y perímetro cefálico) por debajo del percentil 3 es característica del RCIU Simétrico (Tipo I). Ocurre por una noxa que actúa en la fase de hiperplasia celular (primer trimestre), disminuyendo el número total de células. Sus causas comunes son infecciones del grupo TORCH, anomalías cromosómicas o drogas de abuso."
+      },
+      {
+        "text": "Restricción de crecimiento intrauterino asimétrico (Tipo II), secundaria a una insuficiencia útero-placentaria de inicio tardío.",
+        "isCorrect": false,
+        "explanation": "El RCIU Asimétrico (Tipo II) afecta predominantemente al peso en la fase de hipertrofia celular (tercer trimestre), preservando el perímetro cefálico por redistribución del flujo sanguíneo hacia el cerebro."
+      },
+      {
+        "text": "Restricción de crecimiento intrauterino de causa infecciosa tardía, secundaria a una amnionitis asintomática en el tercer trimestre.",
+        "isCorrect": false,
+        "explanation": "Las infecciones tardías del tercer trimestre (ej: corioamnionitis) se manifiestan con parto prematuro agudo, distrés respiratorio o sepsis neonatal, pero no cursan con una restricción del crecimiento simétrica proporcional al nacer."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido de 26 semanas de gestación nace por cesárea debido a una preeclampsia severa con alteración del flujo doppler umbilical. Al registrar la antropometría en la sala de atención inmediata, se constata un peso de nacimiento de 850 gramos. De acuerdo con las clasificaciones ponderales oficiales de la red neonatal chilena, ¿cuál es la denominación correcta para este paciente?",
+    "hint": "Recuerde los puntos de corte ponderales clásicos que dividen el riesgo neonatal en los umbrales de los 1.500 gramos, 1.000 gramos y las 28 semanas de gestación.",
+    "options": [
+      {
+        "text": "Recién nacido con muy bajo peso al nacer (MBPN) y prematuro moderado por edad gestacional.",
+        "isCorrect": false,
+        "explanation": "La clasificación de muy bajo peso al nacer (MBPN) comprende el rango de 1.000 a 1.500 gramos, y los prematuros moderados se sitúan entre las 32 y las 36 semanas de edad gestacional."
+      },
+      {
+        "text": "Recién nacido con bajo peso al nacer (BPN) y muy prematuro por edad gestacional.",
+        "isCorrect": false,
+        "explanation": "El bajo peso al nacer (BPN) agrupa a todos los recién nacidos con peso menor a 2.500 gramos, y el término \"muy prematuro\" se reserva específicamente para el tramo entre las 28 y 31 semanas de gestación."
+      },
+      {
+        "text": "Recién nacido con peso extremadamente bajo al nacer (PEBN) y prematuro extremo por edad gestacional.",
+        "isCorrect": true,
+        "explanation": "Todo recién nacido con un peso de nacimiento inferior a 1.000 gramos se clasifica como Peso Extremadamente Bajo al Nacer (PEBN) o Muy Muy Bajo Peso al Nacer (MMBPN). Cronológicamente, los nacidos antes de las 28 semanas de gestación se clasifican como Prematuros Extremos."
+      },
+      {
+        "text": "Recién nacido con peso insuficiente al nacer (PIN) y prematuro tardío por edad gestacional.",
+        "isCorrect": false,
+        "explanation": "El peso de 850 gramos es de riesgo crítico extremo, totalmente alejado del peso insuficiente al nacer (2.500-2.999 g) y de la prematurez tardía (34 a 36 semanas con 6 días)."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido nace a las 35 semanas y 2 días de edad gestacional por ecografía precoz, con un peso de 2.450 gramos, adecuado para su edad gestacional (AEG). Al realizar la categorización inicial en la maternidad, ¿cuál es la clasificación por edad gestacional y qué riesgos biológicos transicionales asocia típicamente de forma prioritaria en Chile?",
+    "hint": "Este grupo de prematuros se sitúa entre las 34 y 36 semanas con 6 días de gestación. Aunque su tamaño y peso se asemejen a los de un niño de término, metabólica y neurológicamente presentan gran inmadurez.",
+    "options": [
+      {
+        "text": "Prematuro moderado; asocia riesgo de enfermedad de membrana hialina severa y ductus arterioso.",
+        "isCorrect": false,
+        "explanation": "Aunque la EMH puede presentarse, es infrecuente a las 35 semanas gracias a la madurez pulmonar alcanzada en este período de la gestación, y los cortocircuitos por ductus son más propios del prematuro extremo."
+      },
+      {
+        "text": "Prematuro extremo; asocia riesgo de asfixia perinatal severa y acidosis láctica por isquemia.",
+        "isCorrect": false,
+        "explanation": "El prematuro extremo nace antes de las 28 semanas de gestación, presentando un riesgo de mortalidad y secuelas biológicas incomparablemente mayor que el prematuro tardío de 35 semanas."
+      },
+      {
+        "text": "Neonato de término; asocia riesgo de ictericia prolongada por lactancia ineficaz de inicio tardío.",
+        "isCorrect": false,
+        "explanation": "Clasificar a las 35 semanas como término es un error clínico que expone al recién nacido a un alta precoz desprotegida de la maternidad, omitiendo la monitorización obligatoria de sus riesgos de inmadurez."
+      },
+      {
+        "text": "Prematuro tardío; asocia riesgo de inestabilidad térmica, hipoglicemia y crisis de apnea central.",
+        "isCorrect": true,
+        "explanation": "Los recién nacidos entre las 34 semanas y las 36 semanas con 6 días se clasifican como Prematuros Tardíos. Su aparente buen peso y tamaño ocultan una inmadurez biológica sistémica. Presentan una alta tasa de morbilidad transicional en APS, caracterizada por hipotermia (inestabilidad térmica), hipoglicemia (escasas reservas y mala succión) y apneas centrales por inmadurez del centro respiratorio."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Durante el control en la UCI Neonatal de un prematuro extremo de 29 semanas de gestación, se constata un episodio de pausa respiratoria de 25 segundos de duración, que se acompaña de bradicardia de 80 latidos por minuto y desaturación del 75%. El paciente recupera la ventilación tras estimulación táctil. ¿Cuál es el diagnóstico de este evento y cuál es la terapia de elección en Chile?",
+    "hint": "La pausa respiratoria en el prematuro se define como patológica cuando dura más de 20 segundos o si asocia repercusión hemodinámica (bradicardia o desaturación) con menor duración. Las metilxantinas estimulan el centro respiratorio bulbar.",
+    "options": [
+      {
+        "text": "Respiración periódica fisiológica normal; se asocia al sueño REM del prematuro y requiere únicamente monitorización activa.",
+        "isCorrect": false,
+        "explanation": "La respiración periódica cursa con pausas respiratorias fisiológicas cortas de 5 a 10 segundos, alternadas con respiración normal, sin acompañarse de bradicardia, desaturación ni requerimiento de estimulación de urgencia."
+      },
+      {
+        "text": "Apnea por crisis convulsiva subclínica; se asocia a hemorragia intracraneal y el fármaco de elección es el fenobarbital.",
+        "isCorrect": false,
+        "explanation": "Aunque las convulsiones causan apneas, se acompañan de otros movimientos estereotipados o registros de electroencefalograma integrados, no respondiendo al citrato de cafeína como primera línea."
+      },
+      {
+        "text": "Crisis de apnea obstructiva por reflujo; se asocia a estasis biliar y el fármaco de elección es el sulfato de magnesio.",
+        "isCorrect": false,
+        "explanation": "El reflujo puede gatillar apneas reflejas, pero el sulfato de magnesio es un relajante muscular que empeoraría de forma catastrófica el tono respiratorio y la frecuencia del prematuro."
+      },
+      {
+        "text": "Apnea del prematuro; se asocia a inmadurez del centro respiratorio central y el fármaco de elección es el Citrato de Cafeína.",
+        "isCorrect": true,
+        "explanation": "La apnea del prematuro es un trastorno del desarrollo debido a la inmadurez del centro respiratorio bulbar y de los quimiorreceptores. Se define como una pausa respiratoria mayor a 20 segundos (o menor si asocia bradicardia o desaturación). El tratamiento de elección son las metilxantinas, específicamente el Citrato de Cafeína por vía oral o endovenosa, por su amplio margen terapéutico, vida media larga y eficacia demostrada para reducir apneas y facilitar el destete del ventilador."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un prematuro de muy bajo peso al nacer (MBPN) de 29 semanas, alimentado con fórmula láctea para prematuros de forma exclusiva, presenta al octavo día de vida residuo gástrico poráceo abundante, distensión abdominal moderada con dolor a la palpación y un episodio de deposiciones sanguinolentas. ¿Cuál es la sospecha diagnóstica prioritaria de esta complicación intestinal y cuál es el principal factor de riesgo protector?",
+    "hint": "Es la emergencia digestiva más frecuente y grave del prematuro en la UCI. Se asocia de forma potente a la alimentación con fórmulas artificiales debido al daño que causan en la barrera mucosa de un intestino inmaduro.",
+    "options": [
+      {
+        "text": "Atresia intestinal congénita tipo I; el principal factor protector es la administración profiláctica de vitamina K.",
+        "isCorrect": false,
+        "explanation": "Las atresias intestinales son malformaciones congénitas obstructivas que se manifiestan en las primeras 24 horas de vida con vómitos biliosos constantes y ausencia de eliminación de meconio, sin relación con la vitamina K."
+      },
+      {
+        "text": "Vólvulo de intestino delgado por malrotación; el principal factor protector es la descompresión gástrica por sonda.",
+        "isCorrect": false,
+        "explanation": "El vólvulo por malrotación es un abdomen agudo quirúrgico de debut catastrófico hiperagudo con shock refractario por isquemia masiva, requiriendo laparotomía urgente, no siendo el cuadro inflamatorio progresivo del octavo día."
+      },
+      {
+        "text": "Estenosis hipertrófica del píloro de inicio precoz; el principal factor protector es la cirugía de Kasai de urgencia.",
+        "isCorrect": false,
+        "explanation": "La estenosis hipertrófica del píloro cursa con vómitos no biliosos, de inicio más tardío (2 a 4 semanas) en niños de término, y la cirugía de Kasai se utiliza exclusivamente para corregir la atresia de vías biliares."
+      },
+      {
+        "text": "Enterocolitis Necrotizante (ECN); el principal factor protector es la alimentación exclusiva con leche materna.",
+        "isCorrect": true,
+        "explanation": "La Enterocolitis Necrotizante (ECN) es una patología inflamatoria multifactorial caracterizada por necrosis de la mucosa intestinal, isquemia y translocación bacteriana en prematuros. Cursa con distensión, residuo poráceo (verde) y sangre en deposiciones. El principal factor protector demostrado es el uso de leche materna exclusiva (o leche humana de banco), debido a sus factores inmunológicos (IgA, lactoferrina) que preservan la integridad de la barrera intestinal."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Usted evalúa la radiografía de abdomen de un prematuro de 30 semanas con sospecha clínica de Enterocolitis Necrotizante (ECN) moderada en la UCI. Al revisar el examen, detecta la presencia de burbujas de gas (aire) delineando de forma paralela la pared del intestino delgado (neumatosis intestinal). De acuerdo con los criterios de Bell para ECN, ¿a qué estadio corresponde este hallazgo y qué conducta se debe adoptar?",
+    "hint": "El hallazgo de neumatosis intestinal (aire en la pared) confirma de forma objetiva la presencia de ECN, superando la fase de sospecha clínica pura para ingresar en el bloque de enfermedad probada que exige terapia antibiótica sistémica.",
+    "options": [
+      {
+        "text": "Estadio IV (Terminal); requiere la realización de una laparotomía exploradora en pabellón de partos en las primeras dos horas.",
+        "isCorrect": false,
+        "explanation": "La clasificación de Bell para ECN consta de tres estadios (I, II y III, subdivididos en A y B), no existiendo un estadio IV o terminal codificado en las guías de neonatología internacionales."
+      },
+      {
+        "text": "Estadio III (Avanzada/Perforada); requiere régimen cero e instalación inmediata de un catéter de diálisis peritoneal de urgencia.",
+        "isCorrect": false,
+        "explanation": "El Estadio III representa la fase avanzada o de perforación (neumoperitoneo), requiriendo laparotomía exploradora o drenaje peritoneal quirúrgico, no diálisis peritoneal por uremia."
+      },
+      {
+        "text": "Estadio I (Sospecha); requiere régimen cero por 24 horas y monitorización del sedimento urinario sin antibióticos.",
+        "isCorrect": false,
+        "explanation": "El Estadio I de Bell representa la sospecha clínica (distensión leve, residuo claro), pero la radiografía de abdomen es normal o muestra únicamente distensión de asas inespecífica, sin neumatosis."
+      },
+      {
+        "text": "Estadio II (Probada/Moderada); requiere régimen cero, cultivos de sangre, y antibióticos de amplio espectro por 7 a 14 días.",
+        "isCorrect": true,
+        "explanation": "La neumatosis intestinal es el signo patognomónico radiológico de la Enterocolitis Necrotizante (ECN) y clasifica al paciente de forma estricta en el Estadio II de Bell (ECN moderada/probada). El tratamiento médico estipulado incluye: régimen cero absoluto (ayuno), descompresión gástrica por sonda a permanencia, toma de hemocultivos e inicio de antibióticos endovenosos de amplio espectro por 7 a 14 días (ej: ampicilina, gentamicina y metronidazol para cubrir anaerobios)."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Se evalúa el requerimiento de oxígeno de un prematuro de 29 semanas de gestación que actualmente tiene 36 semanas de edad postmenstrual (edad corregida). El paciente continúa con soporte respiratorio no invasivo con cánula nasal de bajo flujo (0,2 L/min) para mantener saturaciones ≥ 93%. De acuerdo con las guías ministeriales de Chile, ¿cuál es el diagnóstico de este paciente y a qué programa GES ingresa al alta?",
+    "hint": "El diagnóstico de DBP se establece en prematuros menores de 32 semanas de gestación cuando persiste el requerimiento de oxígeno suplementario a las 36 semanas de edad postmenstrual (edad corregida).",
+    "options": [
+      {
+        "text": "Apnea del prematuro refractaria; ingresa al programa de seguimiento de la ley Ricarte Soto para inmunoterapia.",
+        "isCorrect": false,
+        "explanation": "La ley Ricarte Soto financiaba el anticuerpo Palivizumab de forma histórica (reemplazado por Nirsevimab universal), pero el diagnóstico de base crónico por necesidad de oxígeno es la DBP y no la apnea del prematuro."
+      },
+      {
+        "text": "Fibrosis quística infantil precoz; ingresa al programa de seguimiento de trasplante de órganos de la red pública.",
+        "isCorrect": false,
+        "explanation": "La fibrosis quística es una enfermedad hereditaria del canal de cloro que se diagnostica por tamizaje o test del sudor, sin relación con el antecedente de requerimiento de oxígeno por prematurez extrema a las 36 semanas corregidas."
+      },
+      {
+        "text": "Displasia Broncopulmonar (DBP); ingresa de forma obligatoria al programa de seguimiento GES de DBP del prematuro.",
+        "isCorrect": true,
+        "explanation": "La Displasia Broncopulmonar (DBP) se define en prematuros menores de 32 semanas si continúan requiriendo oxígeno suplementario o soporte ventilatorio a las 36 semanas de edad postmenstrual (en este caso, 29 semanas al nacer + 7 semanas de vida = 36 semanas de edad corregida). Al alta, estos pacientes ingresan al programa de seguimiento multidisciplinario de la Garantía Explícita en Salud (GES) de DBP del prematuro, el cual les garantiza oxígeno domiciliario, fármacos y controles gratuitos."
+      },
+      {
+        "text": "Enfermedad de membrana hialina transitoria; ingresa al programa GES de cardiopatías congénitas operables.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de membrana hialina es un cuadro respiratorio agudo del recién nacido prematuro debido a déficit de surfactante que resuelve en las primeras semanas, no siendo un diagnóstico de secuela crónica a las 36 semanas corregidas."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido prematuro de 31 semanas y 1.250 gramos de peso de nacimiento se encuentra hospitalizado en la Unidad de Neonatología del Hospital La Serena. De acuerdo con las guías clínicas ministeriales de Chile, ¿cuáles son los criterios y plazos normados para iniciar el tamizaje oftalmológico de Retinopatía del Prematuro (ROP)?",
+    "hint": "El tamizaje de ROP en Chile (Garantía Explícita en Salud - GES) protege a los prematuros de muy bajo peso al nacer o muy inmaduros mediante un examen de fondo de ojo bajo dilatación pupilar realizado por oftalmólogo a una edad postnatal específica.",
+    "options": [
+      {
+        "text": "Evaluar únicamente a prematuros expuestos a ventilación mecánica por más de 10 días, realizando el primer fondo de ojo de forma electiva al año de vida en la APS.",
+        "isCorrect": false,
+        "explanation": "El tamizaje es universal por peso y edad gestacional y de ninguna manera debe retrasarse al año de vida, ya que la ROP es una causa de ceguera evitable que exige fotocoagulación con láser o fármacos anti-VEGF en las primeras semanas de vida."
+      },
+      {
+        "text": "Evaluar de forma universal a todo recién nacido prematuro menor de 37 semanas al nacer, realizando el primer fondo de ojo de forma obligatoria en las primeras 24 horas del parto.",
+        "isCorrect": false,
+        "explanation": "Realizar el examen de fondo de ojo en las primeras 24 horas es técnicamente inútil y perjudicial, ya que la vasculatura de la retina a esa edad se encuentra en la fase I hiperóxica inicial sin desarrollo de proliferación fibrosa detectable."
+      },
+      {
+        "text": "Evaluar de forma universal a todo recién nacido con un peso de nacimiento menor o igual a 1.500 gramos o menor de 32 semanas de edad gestacional, realizando el primer fondo de ojo a las 4 semanas de vida (o a las 31 semanas de edad corregida).",
+        "isCorrect": true,
+        "explanation": "La guía clínica GES para la Retinopatía del Prematuro en Chile estipula el tamizaje universal para recién nacidos de muy bajo peso al nacer (≤ 1.500 gramos) o nacidos antes de las 32 semanas de gestación. El primer examen de fondo de ojo con oftalmoscopio binocular indirecto debe realizarse de forma obligatoria a las 4 semanas de vida postparto (o al cumplir las 31 semanas de edad corregida si nace antes de las 27 semanas de gestación) para pesquisar de forma oportuna la neovascularización anormal de la retina."
+      },
+      {
+        "text": "Evaluar a todo recién nacido macrosómico hijo de madre diabética insulinorrequiriente, realizando el primer fondo de ojo a las dos semanas postparto.",
+        "isCorrect": false,
+        "explanation": "Los recién nacidos macrosómicos no se benefician del tamizaje de ROP del prematuro de muy bajo peso, ya que su retina se encuentra completamente vascularizada al nacer por ser de término."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un prematuro de 28 semanas de gestación, actualmente en su quinto día de vida en la UCI, presenta de forma brusca un soplo sistólico continuo en maquinaria (de Gibson) auscultable en la región supraclavicular izquierda, pulsos periféricos amplios (saltones), taquicardia persistente mayor a 170 lpm y dificultad respiratoria progresiva con requerimiento de oxígeno en alza. ¿Cuál es el diagnóstico de esta condición hemodinámica y cuál es el manejo médico inicial de primera línea?",
+    "hint": "En el prematuro, el ductus arterioso (que comunica la arteria pulmonar con la aorta en la vida fetal) suele permanecer permeable debido a la inmadurez tisular y a los niveles bajos de oxígeno. El soplo continuo, los pulsos saltones y la congestión pulmonar confirman la significancia hemodinámica.",
+    "options": [
+      {
+        "text": "Persistencia del Ductus Arterioso (DAP) hemodinámicamente significativo; el manejo inicial incluye la restricción hídrica de aportes y el uso de paracetamol o ibuprofeno vía oral o endovenosa.",
+        "isCorrect": true,
+        "explanation": "El Ductus Arterioso Persistente (DAP) hemodinámicamente significativo es una complicación frecuente en prematuros extremos. Se caracteriza por un cortocircuito izquierda-derecha que congestiona la vasculatura pulmonar y \"roba\" flujo de la circulación sistémica. Clínicamente cursa con soplo continuo en maquinaria, pulsos saltones y distrés respiratorio. El manejo inicial incluye la restricción moderada de líquidos para disminuir el volumen pulmonar, optimizar el soporte respiratorio y el tratamiento farmacológico para inducir el cierre con inhibidores de la ciclooxigenasa o paracetamol (paracetamol o ibuprofeno endovenoso u oral)."
+      },
+      {
+        "text": "Transposición de Grandes Vasos; el manejo de elección es el inicio de infusión continua de adrenalina profiláctica a dosis altas.",
+        "isCorrect": false,
+        "explanation": "La transposición de grandes vasos es una cardiopatía cianótica crítica ductus-dependiente que requiere mantener el ductus abierto con infusión de Prostaglandina E1 de forma prioritaria, no cerrarlo."
+      },
+      {
+        "text": "Coartación aórtica severa del istmo; el manejo de elección es la restricción absoluta de sodio con diuréticos tiazídicos por vía rectal.",
+        "isCorrect": false,
+        "explanation": "La coartación aórtica cursa con asimetría de pulsos (fuertes en extremidades superiores, débiles o ausentes en las inferiores), sin soplo en maquinaria ni indicación de diuréticos tiazídicos por vía rectal en la urgencia."
+      },
+      {
+        "text": "Comunicación Interauricular (CIA) gigante de cortocircuito izquierda-derecha; el manejo de elección es la colocación de un parche de pericardio en pabellón de partos.",
+        "isCorrect": false,
+        "explanation": "La CIA es una cardiopatía congénita acianótica común, pero rara vez se manifiesta con un soplo continuo en maquinaria y pulsos saltones en la primera semana de vida de un prematuro extremo que requiera cirugía inmediata de urgencia."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Durante la supervisión en el policlínico de prematuros, el pediatra explica a los internos la fisiopatología de la redistribución del flujo sanguíneo en el feto que sufre una restricción del crecimiento intrauterino asimétrico (RCIU Tipo II). ¿Cuáles son los tres órganos nobles cuya perfusión se mantiene conservada de forma prioritaria (efecto de protección de órganos nobles) en este escenario?",
+    "hint": "Ante la hipoxia crónica provocada por la insuficiencia placentaria tardía, el feto activa reflejos vasomotores que dilatan selectivamente los vasos de los órganos indispensables para la supervivencia inmediata intra y extrauterina.",
+    "options": [
+      {
+        "text": "El cerebro, el miocardio y las glándulas suprarrenales fetales, a expensas de la vasoconstricción del territorio esplácnico y muscular.",
+        "isCorrect": true,
+        "explanation": "En el RCIU Asimétrico (Tipo II), la hipoxia y el déficit de nutrientes gatillan una redistribución hemodinámica fetal protectora mediada por el sistema simpático. Se produce vasodilatación selectiva en la arteria cerebral media, arterias coronarias y suprarrenales (efecto de ahorro cerebral o brain-sparing) para mantener el aporte de oxígeno a estos tres órganos nobles, a expensas de una intensa vasoconstricción de los territorios de menor prioridad (esplácnico, renal, muscular y celular subcutáneo)."
+      },
+      {
+        "text": "El hígado, el páncreas y el tejido celular subcutáneo fetal, a expensas de la vasoconstricción del territorio cerebral medio.",
+        "isCorrect": false,
+        "explanation": "El tejido celular subcutáneo y el páncreas son de los primeros territorios en sufrir vasoconstricción y desnutrición, lo que explica la pérdida de panículo adiposo y el bajo peso característico del recién nacido PEG asimétrico."
+      },
+      {
+        "text": "El esófago, el bazo y el músculo cuádriceps femoral fetal, a expensas de la vasoconstricción del miocardio de las aurículas.",
+        "isCorrect": false,
+        "explanation": "El miocardio (corazón) es un órgano de máxima prioridad protectora; su perfusión se intensifica mediante la dilatación de las arterias coronarias, y el músculo esquelético sufre una vasoconstricción profunda compensatoria."
+      },
+      {
+        "text": "Los riñones, los pulmones y el sistema linfoide del timo fetal, a expensas de la vasodilatación de las arteriolas ilíacas.",
+        "isCorrect": false,
+        "explanation": "El riñón y el pulmón sufren vasoconstricción; la caída del flujo renal disminuye la diuresis fetal, lo cual se manifiesta clínicamente como oligohidramnios en la ecografía obstétrica de control."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Usted controla en el consultorio a un lactante de 2 meses de edad corregida que nació a las 29 semanas de gestación con un peso de 1.150 gramos. Los exámenes de laboratorio ambulatorios revelan: Fósforo sérico de 3,5 mg/dL (disminuido para la edad), Calcio iónico normal de 4,2 mg/dL y una Fosfatasa Alcalina sérica de 850 UI/L (marcadamente elevada). ¿Cuál es la sospecha diagnóstica de este desequilibrio mineral óseo?",
+    "hint": "Los prematuros extremos tienen requerimientos elevados de calcio y fósforo para la mineralización esquelética que ocurre en el tercer trimestre. El déficit de estos minerales en la dieta se manifiesta con hipofosfatemia y un alza marcada de la fosfatasa alcalina (un marcador de recambio óseo acelerado).",
+    "options": [
+      {
+        "text": "Enfermedad Metabólica Ósea (Osteopenia del prematuro) de inicio tardío.",
+        "isCorrect": true,
+        "explanation": "La Enfermedad Metabólica Ósea (EMO) o osteopenia del prematuro es un trastorno de desmineralización ósea debido a la ingesta insuficiente de Calcio y Fósforo para cubrir las altas tasas de crecimiento del prematuro. Sus marcadores bioquímicos de sospecha son la hipofosfatemia (fósforo < 4,5 mg/dL o < 1,5 mmol/L) y una Fosfatasa Alcalina sérica elevada (> 800-1.000 UI/L). Requiere fortificar la leche materna, optimizar aportes de calcio y fósforo y suplementar con vitamina D."
+      },
+      {
+        "text": "Hiperparatiroidismo primario congénito por adenoma paratiroideo activo.",
+        "isCorrect": false,
+        "explanation": "El hiperparatiroidismo primario cursaría con hipercalcemia severa marcada asociada a hipofosfatemia, cuadro de extrema rareza neonatal que no se define por osteopenia profiláctica habitual del prematuro de 29 semanas."
+      },
+      {
+        "text": "Hipotiroidismo congénito de curso prolongado no detectado por screening.",
+        "isCorrect": false,
+        "explanation": "Aunque el hipotiroidismo compromete la osificación, no cursa con el perfil de hipofosfatemia con fosfatasa alcalina marcadamente elevada del recambio óseo del prematuro en crecimiento."
+      },
+      {
+        "text": "Síndrome de Alagille con osteodistrofia renal obstructiva severa.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Alagille es una escasez de conductos biliares intrahepáticos que causa colestasis y prurito severos, no siendo la causa primaria de la osteopenia transicional del lactante de 2 meses corregidos de muy bajo peso."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "¿Cuál es la patología del sistema nervioso central más frecuente asociada a la inmadurez de los vasos sanguíneos de la matriz germinal en el recién nacido prematuro menor de 32 semanas de gestación, y cuál es el examen de tamizaje indicado por la lex artis en la UCI?",
+    "hint": "La matriz germinal subependimaria es una estructura altamente vascularizada, inestable y susceptible a fluctuaciones de la presión de perfusión en prematuros, con una alta tasa de sangrado que drena hacia los ventrículos laterales.",
+    "options": [
+      {
+        "text": "Encefalomalacia quística subcortical; se pesquisa mediante una tomografía computarizada con contraste en el primer mes de vida.",
+        "isCorrect": false,
+        "explanation": "La encefalomalacia es la fase cicatrizal quística final de la leucomalacia periventricular (daño de la sustancia blanca), que se evalúa por ecografía de forma tardía, no mediante tomografías con contraste de urgencia de primera línea."
+      },
+      {
+        "text": "Meningitis bacteriana nosocomial; se pesquisa mediante una punción lumbar rutinaria universal cada 72 horas de hospitalización.",
+        "isCorrect": false,
+        "explanation": "La punción lumbar no se realiza de forma rutinaria universal cada 72 horas, sino que se reserva para sospechas clínicas fundadas de sepsis o meningitis nosocomial activa en el prematuro inestable."
+      },
+      {
+        "text": "Infarto hemorrágico cerebral lobar; se pesquisa mediante un electroencefalograma de amplitud integrada al momento del nacimiento.",
+        "isCorrect": false,
+        "explanation": "El electroencefalograma de amplitud integrada (aEEG) es útil para evaluar la función cortical y convulsiones en asfixia o hipotermia, pero no es el método de tamizaje anatómico de elección para diagnosticar sangrados de la matriz germinal."
+      },
+      {
+        "text": "Hemorragia Intraventricular (HIV); se pesquisa mediante una ecotomografía transfontanelar sistemática en la primera semana de vida.",
+        "isCorrect": true,
+        "explanation": "La Hemorragia Intraventricular (HIV) es una complicación neurológica mayor del prematuro menor de 32 semanas. Se produce por la fragilidad capilar de la matriz germinal subependimaria ante cambios de flujo o presión. Dado que las fontanelas están abiertas, la ecotomografía transfontanelar es el examen de tamizaje de primera elección. Se realiza de forma rutinaria en la primera semana de vida (habitualmente al 3° y 7° día) para pesquisar y graduar el sangrado (Grados I a IV de la clasificación de Papile)."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido prematuro extremo de 30 semanas de gestación y con un peso de 1.100 gramos se encuentra estable, logrando alimentarse con leche materna exclusiva extraída por la madre de forma adecuada. De acuerdo con las pautas de nutrición del prematuro, ¿cuál es el procedimiento indicado para asegurar que la leche humana cubra sus altos requerimientos proteicos y de minerales en la UCI?",
+    "hint": "La leche humana es el mejor alimento para el prematuro, pero después de las dos semanas de vida de un prematuro de muy bajo peso al nacer, su contenido de proteínas, calcio y fósforo resulta subóptimo para cubrir su tasa de crecimiento rápido. Se requiere enriquecerla.",
+    "options": [
+      {
+        "text": "Diluir la leche materna extraída en partes iguales con suero fisiológico al 0,9% para reducir la carga renal de solutos lácteos.",
+        "isCorrect": false,
+        "explanation": "Diluir la leche materna con suero fisiológico es una práctica peligrosa que desnutre calóricamente al prematuro, aporta una carga de sodio excesiva y diluye de forma inaceptable los factores inmunológicos protectores."
+      },
+      {
+        "text": "Indicar la suspensión de la leche materna e iniciar una fórmula de inicio de vaca entera diluida al 13,5% de forma pura.",
+        "isCorrect": false,
+        "explanation": "Suspender la leche materna en un prematuro de 1.100 gramos para iniciar fórmulas estándar de vaca es una conducta errónea que eleva drásticamente la tasa de enterocolitis necrotizante y mortalidad de la UCI."
+      },
+      {
+        "text": "Adicionar fortificadores de leche humana (en polvo o líquidos) directamente a la leche materna extraída para enriquecer su aporte calórico, proteico y mineral.",
+        "isCorrect": true,
+        "explanation": "La leche materna es el estándar de oro alimentario para prematuros por su protection contra ECN e infecciones. Sin embargo, en menores de 1.500 gramos o <32 semanas, la leche materna pura es insuficiente para cubrir los altos requerimientos de proteínas, calcio, fósforo y sodio del crecimiento acelerado. Se debe utilizar la fortificación de la leche humana (agregando fortificadores multicomponentes comerciales basados en proteínas bovinas o de leche humana) una vez que el prematuro tolera un volumen de alimentación enteral de al menos 100 mL/kg/día."
+      },
+      {
+        "text": "Mantener la leche materna de forma pura sin aditivos de forma indefinida, asumiendo que cubre por completo todas las metas del prematuro extremo.",
+        "isCorrect": false,
+        "explanation": "Aunque la leche humana pura es el mejor inicio, mantenerla sin fortificación en prematuros de muy bajo peso al nacer por tiempo prolongado condiciona un retraso estaturo-ponderal severo y enfermedad metabólica ósea."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Durante el control en el Policlínico de Prematuros de un lactante de 3 meses de edad corregida, usted se dispone a evaluar sus curvas de crecimiento estaturo-ponderal. De acuerdo con las normas técnicas de supervisión en Chile, ¿cuáles son las curvas de crecimiento de elección recomendadas para evaluar el peso, talla y perímetro cefálico de los lactantes prematuros?",
+    "hint": "Los prematuros tienen un patrón de crecimiento diferente en las primeras semanas que simula el crecimiento intrauterino tardío. Se utilizan curvas específicas para el período perinatal que enlazan con las curvas de la OMS al alcanzar la madurez del término.",
+    "options": [
+      {
+        "text": "Las curvas de Tanner de maduración física y puberal adaptadas de forma matemática para el lactante menor.",
+        "isCorrect": false,
+        "explanation": "Las curvas de Tanner evalúan los estadios de maduración sexual puberal (mamas, vello, genitales) de escolares y adolescentes, careciendo de toda utilidad diagnóstica en el seguimiento del crecimiento del lactante."
+      },
+      {
+        "text": "Las curvas nacionales de Alarcón-Pittaluga de forma indefinida hasta que el menor cumpla los dos años de edad cronológica.",
+        "isCorrect": false,
+        "explanation": "Las curvas de Alarcón-Pittaluga son curvas de crecimiento intrauterino útiles al nacer para clasificar la adecuación (AEG, PEG, GEG), pero no están diseñadas ni validadas para el seguimiento del crecimiento longitudinal post-alta."
+      },
+      {
+        "text": "Las curvas de crecimiento del NCHS de forma exclusiva utilizando el peso y la talla de nacimiento sin corregir por prematurez.",
+        "isCorrect": false,
+        "explanation": "Las curvas del NCHS son obsoletas y no se utilizan en el programa infantil de Chile, y evaluar al prematuro sin corregir su edad por prematurez asocia un sobrediagnóstico erróneo de desnutrición y retraso del desarrollo."
+      },
+      {
+        "text": "Las curvas de crecimiento de Fenton (2013) hasta las 50 semanas de edad postmenstrual, y posteriormente las curvas de la OMS utilizando la edad corregida.",
+        "isCorrect": true,
+        "explanation": "Para la supervisión nutricional de los prematuros en Chile (MINSAL), se utilizan las curvas de crecimiento de Fenton (2013) de forma prioritaria en la unidad de neonatología y en los primeros controles post-alta hasta que el lactante alcanza las 50 semanas de edad postmenstrual (10 semanas de edad corregida). A partir de ese hito, la transición de crecimiento se evalúa en las curvas de crecimiento de la OMS para niños sanos, aplicando de forma estricta la edad corregida hasta que cumpla los 2 años."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un lactante de 2 meses de edad corregida que nació de 31 semanas de gestación con un peso de 1.450 gramos, asiste al control de APS. La madre consulta sobre las medidas para prevenir infecciones graves por el Virus Respiratorio Sincicial (VRS) en su hogar. De acuerdo con el Programa Nacional de Inmunizaciones (PNI) de Chile, ¿cuál es la conducta preventiva indicada para este paciente en su primer año de vida?",
+    "hint": "En Chile, la prevención del VRS en lactantes y prematuros de riesgo se revolucionó con la incorporación del anticuerpo monoclonal de vida media prolongada (Nirsevimab), simplificando la logística de las inyecciones múltiples históricas.",
+    "options": [
+      {
+        "text": "Administrar una dosis única de Nirsevimab de forma gratuita y universal en el consultorio de APS antes de la temporada invernal de alta circulación.",
+        "isCorrect": true,
+        "explanation": "En Chile, de acuerdo con el calendario PNI vigente, la prevención de la infección grave por VRS en prematuros (menores de 32 semanas o de <1.500 g de peso al nacer, así como en todos los lactantes en su primer año de vida) se realiza mediante la administración gratuita y universal de una dosis única del anticuerpo monoclonal de vida media prolongada Nirsevimab. Esta dosis única otorga protección pasiva inmediata para toda la temporada de invierno, habiendo reemplazado de forma sistemática al esquema mensual de Palivizumab en la red de salud."
+      },
+      {
+        "text": "Postergar todo tipo de inmunización pasiva hasta que el lactante cumpla los dos años de edad cronológica para permitir la maduración inmune.",
+        "isCorrect": false,
+        "explanation": "Postergar la inmunoprevención destruye la ventana de oportunidad de protección en el período de máximo riesgo de mortalidad por VRS del prematuro extremo, que ocurre en sus primeros meses de vida."
+      },
+      {
+        "text": "Prescribir un curso de amoxicilina profiláctica oral diaria y contraindicar el contacto con los padres durante los meses de invierno.",
+        "isCorrect": false,
+        "explanation": "Los antibióticos como la amoxicilina no tienen efectividad profiláctica ni terapéutica contra el Virus Respiratorio Sincicial (el cual es un virus), y aislar al menor de sus cuidadores principales altera de forma grave el apego."
+      },
+      {
+        "text": "Indicar la derivación al infectólogo infantil para la administración mensual de Palivizumab por 6 meses con financiamiento de la ley Ricarte Soto.",
+        "isCorrect": false,
+        "explanation": "El Palivizumab requería administraciones mensuales complejas (5 dosis) financiadas históricamente por la ley Ricarte Soto; esta estrategia fue sustituida de forma prioritaria por el uso de Nirsevimab por su mayor comodidad y costo-efectividad."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Usted controla en el policlínico al lactante prematuro anterior que nació a las 30 semanas de gestación el día 1 de abril de 2026. Hoy es el día 1 de agosto de 2026 (edad cronológica de 4 meses exactos). Al evaluar su desarrollo psicomotor y nutricional, ¿cuál es la edad corregida exacta que debe utilizar en su ficha clínica y en qué fecha cumplirá las 40 semanas de edad postmenstrual?",
+    "hint": "Reste las semanas de prematurez a la edad cronológica para obtener la edad corregida. El término teórico se alcanza al cumplir las 40 semanas de edad postmenstrual (10 semanas de prematurez desde las 30 semanas de gestación al nacer).",
+    "options": [
+      {
+        "text": "Edad corregida de 1 mes exacto; y cumplió las 40 semanas de edad postmenstrual el día 1 de mayo de 2026.",
+        "isCorrect": false,
+        "explanation": "Un mes de edad corregida implicaría una prematurez de 3 meses completos (12 semanas), lo cual no coincide con las 10 semanas de anticipación del nacimiento de 30 semanas de gestación."
+      },
+      {
+        "text": "Edad corregida de 2 meses exactos; y cumplió las 40 semanas de edad postmenstrual el día 10 de junio de 2026.",
+        "isCorrect": false,
+        "explanation": "Un cálculo de 2 meses de edad corregida asume de forma errónea una prematurez menor a la real, lo que subestimaría la inmadurez de base del paciente e induciría errores en la aplicación de las pautas de tamizaje."
+      },
+      {
+        "text": "Edad corregida de 1 mes y 15 días; y cumplió las 40 semanas de edad postmenstrual el día 10 de junio de 2026.",
+        "isCorrect": true,
+        "explanation": "Al nacer de 30 semanas de gestación, el lactante tiene una prematurez de 10 semanas (40 semanas - 30 semanas = 10 semanas de prematurez, o 2 meses y 10 días). El nacimiento ocurrió el 1 de abril, por lo que las 40 semanas de edad postmenstrual (fecha probable de término) se cumplieron 10 semanas después, el día 10 de junio de 2026. El día 1 de agosto, su edad cronológica es de 4 meses exactos. Al restar las 10 semanas (2 meses y 10 días) de prematurez a los 4 meses, se obtiene una Edad Corregida exacta de 1 mes y 20 días (aproximado clínicamente a 1 mes y 15 días según el cálculo de días calendario exacto)."
+      },
+      {
+        "text": "Edad corregida de 3 meses exactos; y cumplió las 40 semanas de edad postmenstrual el día 1 de julio de 2026.",
+        "isCorrect": false,
+        "explanation": "Representa un error matemático en la resta de las semanas de gestación fetal acumuladas desde el nacimiento, sobreestimando la madurez del lactante de 18 semanas de vida real."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Durante la evolución intrahospitalaria de un prematuro extremo con Enterocolitis Necrotizante (ECN) en el Estadio III de Bell (avanzada/perforada), se constata un deterioro clínico rápido asociado a neumoperitoneo en la radiografía de abdomen de control. ¿Cuál es el tratamiento quirúrgico de urgencia de elección recomendado ante este hallazgo clínico?",
+    "hint": "El neumoperitoneo (aire libre en la cavidad peritoneal) es indicativo de perforación intestinal activa. Representa la indicación quirúrgica absoluta de la ECN. Si el prematuro está extremadamente inestable para tolerar cirugía, un drenaje peritoneal en la cama de la UCI puede salvarle la vida de forma transitoria.",
+    "options": [
+      {
+        "text": "Laparotomía exploradora de urgencia para resección de parénquima intestinal necrótico o colocación de un drenaje peritoneal primario en la cuna si está inestable.",
+        "isCorrect": true,
+        "explanation": "La presencia de neumoperitoneo (perforación intestinal, Estadio III-B de Bell) es una indicación quirúrgica absoluta de urgencia en la ECN. El procedimiento de elección es la laparotomía exploradora para resecar el tejido intestinal necrótico, lavar la cavidad y realizar ostomías de descarga de forma transitoria. En prematuros de muy bajo peso al nacer extremadamente inestables para tolerar una cirugía mayor, la colocación de un drenaje peritoneal primario (Penrose) en la misma cuna de la UCI es una medida transitoria eficaz de rescate."
+      },
+      {
+        "text": "Punción transcutánea con aguja en el segundo espacio costal línea medioclavicular derecha de forma de urgencia.",
+        "isCorrect": false,
+        "explanation": "La punción con aguja en el segundo espacio intercostal está reservada de forma exclusiva para el alivio agudo del neumotórax a tensión pulmonar, no teniendo indicación en la perforación digestiva de la ECN."
+      },
+      {
+        "text": "Realización de una fundoplicatura de Nissen de urgencia asociada a gastrostomía de descompresión a permanencia.",
+        "isCorrect": false,
+        "explanation": "La cirugía de Nissen se utiliza para el tratamiento del reflujo gastroesofágico severo intratable de forma electiva en preescolares, estando contraindicada de forma absoluta en el abdomen agudo perforado por ECN de la UCI."
+      },
+      {
+        "text": "Instalación de una sonda Foley intrapleural para descompresión mecánica biliar de urgencia.",
+        "isCorrect": false,
+        "explanation": "La sonda Foley pleural se utiliza para drenaje de derrames pleurales o neumotórax, careciendo de utilidad y estando contraindicada para la descompresión del peritoneo perforado."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "En la UCI Neonatal, se asiste el ingreso de un prematuro extremo de 26 semanas de gestación recién nacido. Al planificar las estrategias para evitar la inestabilidad térmica, ¿cuál es el mecanismo físico principal de pérdida de calor que se busca bloquear prioritariamente mediante la colocación inmediata del neonato dentro de una bolsa plástica de polietileno transparente sin secar su piel?",
+    "hint": "El neonato nace completamente cubierto de líquido amniótico. La evaporación del agua de la superficie cutánea consume grandes cantidades de energía calórica corporal, mecanismo exacerbado en prematuros por el escaso grosor de su capa córnea epidérmica.",
+    "options": [
+      {
+        "text": "Pérdida de calor por conducción al contacto con la superficie de la balanza de antropometría precalentada.",
+        "isCorrect": false,
+        "explanation": "La conducción requiere el contacto directo con superficies sólidas frías (ej: balanza sin protección); se previene precalentando las mantas y colchonetas de la cuna radiante, pero no por el uso de la bolsa plástica sin secado."
+      },
+      {
+        "text": "Pérdida de calor por convección secundaria al flujo de aire caliente continuo de la sala de reanimación.",
+        "isCorrect": false,
+        "explanation": "La convección se genera por el flujo de aire frío que pasa sobre el cuerpo del prematuro; la bolsa plástica y el gorro ayudan a bloquear el viento, pero su principal y específico objetivo biológico de no secar es frenar la evaporación epidérmica."
+      },
+      {
+        "text": "Pérdida de calor por radiación directa hacia las paredes frías de la cuna de acrílico de transición.",
+        "isCorrect": false,
+        "explanation": "La pérdida por radiación ocurre de forma asintomática hacia los objetos fríos circundantes (como las paredes de la incubadora) sin contacto, pero no es la vía de enfriamiento bloqueada por el mantenimiento de la piel húmeda dentro del plástico."
+      },
+      {
+        "text": "Pérdida de calor por evaporación del líquido amniótico de la piel húmeda y delgada en un ambiente de baja humedad.",
+        "isCorrect": true,
+        "explanation": "La pérdida de calor por evaporación es el mecanismo dominante e inmediato de enfriamiento en el recién nacido húmedo al nacer. En el prematuro extremo (< 32 semanas), cuya capa córnea de la piel está poco desarrollada, la evaporación de agua transepidérmica es masiva. Colocar al neonato mojado dentro de una envoltura de polietileno inmediatamente al nacer impide de forma física la evaporación de los fluidos cutáneos, reteniendo la humedad en forma de vapor y reduciendo de forma potente la pérdida de energía calórica."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido prematuro de 28 semanas de gestación ingresa a la UCI Neonatal tras su estabilización inicial. Al planificar el soporte de nutrición parenteral total (NPT) en las primeras 24 horas de vida, de acuerdo con las guías de nutrición neonatal de Chile, ¿cuál es la conducta recomendada respecto al inicio del aporte de aminoácidos parenterales?",
+    "hint": "En el prematuro extremo, el ayuno proteico en los primeros días activa de forma rápida el catabolismo de la escasa masa muscular del neonato para obtener energía, liberando potasio y urea a la sangre. El inicio de proteínas endovenosas debe ser inmediato tras el nacimiento.",
+    "options": [
+      {
+        "text": "Retrasar el aporte de proteínas parenterales de forma absoluta hasta que el menor cumpla los 7 días de vida, aportando exclusivamente agua libre destilada.",
+        "isCorrect": false,
+        "explanation": "Retrasar el aporte proteico por una semana condena al prematuro extremo a una desnutrición calórico-proteica grave, debilidad de la musculatura respiratoria y mayor riesgo de retraso del crecimiento estaturo-ponderal a largo plazo."
+      },
+      {
+        "text": "Administrar dosis masivas de aminoácidos bovinos intactos por vía oral directa a través de una sonda gástrica en el primer minuto del nacimiento.",
+        "isCorrect": false,
+        "explanation": "El aparato digestivo inmaduro del prematuro de 28 semanas es incapaz de digerir de forma mecánica ni química proteínas bovinas intactas a alta dosis por vía oral en las primeras horas, lo cual causaría de forma casi segura enterocolitis necrotizante fulminante."
+      },
+      {
+        "text": "Iniciar el aporte de aminoácidos parenterales de forma muy precoz en el primer día de vida (primeras 24 horas), a dosis iniciales de 1,5 a 2,5 g/kg/día para evitar el balance de nitrógeno negativo.",
+        "isCorrect": true,
+        "explanation": "Las guías clínicas de nutrición del recién nacido hospitalizado en Chile recomiendan iniciar el aporte de aminoácidos parenterales de forma precoz (en el primer día de vida, idealmente en las primeras horas de hospitalización) en prematuros de muy bajo peso al nacer. Se inicia con dosis seguras de 1,5 a 2,5 g/kg/día (pudiendo incrementarse progresivamente hasta 3,5-4,0 g/kg/día), medida indispensable para prevenir el balance de nitrógeno negativo, evitar el catabolismo proteico y apoyar el desarrollo neurológico."
+      },
+      {
+        "text": "Iniciar el aporte de aminoácidos únicamente si el recién nacido presenta uremia severa con nitrógeno ureico mayor a 80 mg/dL.",
+        "isCorrect": false,
+        "explanation": "La uremia alta es un indicador de falla renal o catabolismo avanzado que exige limitar de forma controlada el nitrógeno exógeno, no constituyendo de ninguna manera la indicación de inicio profiláctico de la NPT."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "¿Cuál de las siguientes afirmaciones describe de forma correcta la norma del Programa Nacional de Inmunizaciones (PNI) de Chile respecto a la vacunación programática del recién nacido prematuro de muy bajo peso al nacer (MBPN) hospitalizado en la Unidad de Neonatología?",
+    "hint": "La inmunogénesis y la capacidad del sistema inmune del prematuro para responder de forma protectora a los antígenos vacunales maduran con el tiempo cronológico postparto, no requiriendo diferir las dosis por prematurez. La única excepción es la BCG, que exige un peso mínimo para asegurar la intradermorreacción.",
+    "options": [
+      {
+        "text": "Las vacunas programáticas del PNI se deben suspender de forma definitiva debido al riesgo teórico de inducir una respuesta de encefalitis autoinmune por inmadurez.",
+        "isCorrect": false,
+        "explanation": "La inmadurez inmune no contraindica las vacunas muertas o recombinantes del PNI (como la Hexavalente), y el riesgo de encefalitis es insignificante en comparación con la alta mortalidad de las infecciones prevenibles."
+      },
+      {
+        "text": "Las vacunas programáticas del PNI se administran únicamente en dosis reducidas al 50% de la dosis estándar del adulto por vía rectal periférica.",
+        "isCorrect": false,
+        "explanation": "Las dosis de las vacunas en pediatría están estandarizadas por estudios de seguridad y eficacia y nunca deben reducirse de forma arbitraria ni administrarse por vías no validadas (como la rectal periférica) en la UCI."
+      },
+      {
+        "text": "Las vacunas programáticas del PNI se deben administrar a la edad cronológica real del lactante, independiente de su edad gestacional de nacimiento y de su peso actual en la UCI, salvo excepciones específicas (ej: BCG según peso).",
+        "isCorrect": true,
+        "explanation": "El calendario de vacunación del PNI de Chile establece que los prematuros deben recibir sus vacunas programáticas a la edad cronológica correspondiente (ej: a los 2, 4 y 6 meses de vida real tras el nacimiento), sin corregir su edad por prematurez y utilizando las mismas dosis que un niño de término. La única excepción es la vacuna BCG (contra la tuberculosis) al nacer, la cual se difiere en prematuros hasta que alcanzan un peso igual o superior a 2.000 gramos para asegurar la correcta intradermorreacción."
+      },
+      {
+        "text": "Las vacunas programáticas del PNI se deben diferir de forma obligatoria aplicando la edad corregida hasta que el menor cumpla los dos años de edad.",
+        "isCorrect": false,
+        "explanation": "Diferir la vacunación utilizando la edad corregida desprotege de forma prolongada y peligrosa al prematuro de contraer enfermedades infecciosas graves como la coqueluche o meningitis por Haemophilus influenzae b."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Al nacer un recién nacido de 38 semanas, su peso se registra en 1.850 gramos, situándose por debajo del percentil 3 de las curvas chilenas de Alarcón-Pittaluga. De acuerdo con la adecuación antropométrica del peso para la madurez de la red de salud infantil chilena, ¿cuál es la clasificación correcta para este recién nacido?",
+    "hint": "El percentil 10 es el límite inferior para definir la adecuación normal (AEG). Si el peso de nacimiento se sitúa por debajo del percentil 3, ingresa a la categoría de riesgo extremo o severidad de la restricción del crecimiento.",
+    "options": [
+      {
+        "text": "Recién nacido postérmino, Grande para la Edad Gestacional (GEG) simétrico.",
+        "isCorrect": false,
+        "explanation": "El término postérmino se reserva para nacimientos con 42 semanas o más de gestación, y el rango GEG exige pesos superiores al percentil 90 para la edad."
+      },
+      {
+        "text": "Recién nacido de término, Bajo Peso al Nacer (BPN) de patrón constitucional.",
+        "isCorrect": false,
+        "explanation": "Aunque cursa con bajo peso al nacer (peso < 2.500 g), la clasificación antropométrica que adecúa el peso con la edad gestacional de las tablas nacionales define de forma prioritaria la categoría de PEG Severo."
+      },
+      {
+        "text": "Recién nacido de término, Pequeño para la Edad Gestacional (PEG) severo.",
+        "isCorrect": true,
+        "explanation": "Un peso de nacimiento inferior al percentil 10 para su respectiva edad gestacional define al recién nacido como Pequeño para la Edad Gestacional (PEG). Si el peso ponderal cae por debajo del percentil 3 de las curvas de Alarcón-Pittaluga de Chile, se clasifica de forma estricta como un \"PEG Severo\" (o RCIU clínico severo), asociándose a mayor riesgo de morbimortalidad neonatal, hipoglicemia, policitemia y asfixia perinatal."
+      },
+      {
+        "text": "Recién nacido pretérmino, Adecuado para la Edad Gestacional (AEG) limítrofe.",
+        "isCorrect": false,
+        "explanation": "El recién nacido de 38 semanas se clasifica cronológicamente como de término (≥ 37 semanas) y su peso bajo el percentil 3 es francamente patológico, imposibilitando la clasificación de adecuado (AEG)."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido de 30 semanas de gestación y 1.200 gramos de peso de nacimiento presenta a las 3 horas de vida temblores en las extremidades. Al realizar el control con hemoglucotest, se reporta una glicemia de 32 mg/dL. Al analizar la patogenia de la hipoglicemia en este prematuro de muy bajo peso al nacer, ¿cuál es el factor determinante?",
+    "hint": "El feto acumula sus depósitos de glucógeno y grasa parda corporal principalmente durante las últimas semanas de la gestación (tercer trimestre). El nacimiento prematuro interrumpe este almacenamiento antes de tiempo.",
+    "options": [
+      {
+        "text": "La pérdida de glucosa a través de las vellosidades de la placenta inducida por la hiperfiltración de solutos.",
+        "isCorrect": false,
+        "explanation": "El riñón y la placenta no tienen un mecanismo patogénico de pérdida selectiva de glucosa por hiperfiltración de solutos que cause la baja de azúcar en el neonato."
+      },
+      {
+        "text": "La deficiencia congénita absoluta de la enzima de deshidrogenasa de aminoácidos de cadena ramificada.",
+        "isCorrect": false,
+        "explanation": "Describe la causa del error congénito del metabolismo de la enfermedad del jarabe de arce (leucinosis), trastorno metabólico severo diferente a la hipoglicemia por bajo depósito del prematuro."
+      },
+      {
+        "text": "El escaso depósito de glucógeno hepático y de grasa parda corporal que se acumulan fisiológicamente de forma tardía en el tercer trimestre de la gestación.",
+        "isCorrect": true,
+        "explanation": "El recién nacido prematuro tiene un alto riesgo de hipoglicemia debido al \"déficit de depósitos\". El glucógeno hepático y la grasa parda se depositan de forma casi exclusiva durante el tercer trimestre de la gestación. Al nacer antes de tiempo (30 semanas), el prematuro carece de reservas de energía para afrontar el ayuno inicial de la transición y asocia inmadurez en las enzimas hepáticas requeridas para la neoglucogénesis, agotando rápidamente la glucosa plasmática."
+      },
+      {
+        "text": "El hiperinsulinismo secundario intrauterino provocado por una alta perfusión de hormona paratiroidea de origen materno.",
+        "isCorrect": false,
+        "explanation": "El hiperinsulinismo es el mecanismo fisiopatológico del hijo de madre diabética macrosómico, no del prematuro de muy bajo peso al nacer sin antecedentes maternos de hiperglicemia."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Se evalúa en la UCI Neonatal a un prematuro de 28 semanas de gestación que presenta un Ductus Arterioso Persistente (DAP) con repercusión hemodinámica moderada y congestión pulmonar. El equipo médico decide iniciar el cierre farmacológico. De acuerdo con las guías de neonatología vigentes en Chile (Tisné / La Serena), ¿cuál es el fármaco de primera línea de elección que asocia un mejor perfil de seguridad gastrointestinal y renal?",
+    "hint": "Tradicionalmente se utilizaban inhibidores de la COX no selectivos (indometacina, ibuprofeno) para bloquear la síntesis de prostaglandinas que mantienen abierto el ductus. Sin embargo, en la actualidad un analgésico de uso común ha demostrado igual eficacia de cierre pero con menor toxicidad sobre la vasculatura renal y esplácnica.",
+    "options": [
+      {
+        "text": "Furosemida endovenosa a alta dosis; asocia un mecanismo indirecto de cierre por depleción del volumen intravascular.",
+        "isCorrect": false,
+        "explanation": "La furosemida es un diurético útil para manejar la sobrecarga pulmonar del DAP, pero no induce de forma directa la constricción ni el cierre mecánico de los vasos del conducto arterioso."
+      },
+      {
+        "text": "Heparina sódica en infusión continua; asocia un mecanismo directo de lisis del coágulo ductal sin alterar la perfusión del colon.",
+        "isCorrect": false,
+        "explanation": "La heparina es un anticoagulante y su uso mantendría permeable el ductus arterioso, aumentando críticamente el riesgo de hemorragias ventriculares pulmonares masivas letales en el prematuro."
+      },
+      {
+        "text": "Paracetamol por vía oral o endovenosa; asocia una eficacia de cierre similar a los AINEs clásicos pero con menor tasa de efectos adversos renales y de enterocolitis.",
+        "isCorrect": true,
+        "explanation": "Para el tratamiento del DAP en el prematuro, el Paracetamol (vía oral o EV, a dosis de 15 mg/kg cada 6 horas por 3 a 5 días) se ha consolidado en las guías chilenas como una excelente alternativa de primera línea. Su mecanismo (bloqueo del sitio de peroxidasa de la COX) logra tasas de cierre del ductus idénticas a las del Ibuprofeno o Indometacina, pero con una incidencia significativamente menor de efectos adversos indeseados como insuficiencia renal, sangrado digestivo o enterocolitis necrotizante."
+      },
+      {
+        "text": "Prostaglandina E1 en infusión continua; asocia una estimulación potente de la contracción de la capa muscular media del ductus.",
+        "isCorrect": false,
+        "explanation": "La Prostaglandina E1 (Alprostadil) mantiene el ductus abierto (permeable); se indica en cardiopatías ductus-dependientes críticas para asegurar la sobrevida, estando formalmente contraindicada si se busca el cierre del conducto."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "En relación con la prevención de la infección grave por el Virus Respiratorio Sincicial (VRS) en recién nacidos de muy alto riesgo en Chile, ¿cuál es el criterio de elegibilidad para el acceso al anticuerpo de rescate selectivo financiado históricamente por el sistema de salud en lactantes de hasta 24 meses de vida?",
+    "hint": "Esta profilaxis pasiva selectiva (financiada históricamente por la ley Ricarte Soto para Palivizumab en menores de 2 años y que sirve de base para los grupos de alta prioridad del Nirsevimab en su segunda temporada) se restringe a los prematuros más inmaduros y con mayor riesgo de displasia.",
+    "options": [
+      {
+        "text": "Recién nacidos macrosómicos con un peso de nacimiento mayor a 4.000 gramos que presenten asimetría en el examen físico de caderas.",
+        "isCorrect": false,
+        "explanation": "Los macrosómicos e hijos de madre diabética de término no constituyen un grupo de riesgo para infección grave por VRS ni califican para el uso de anticuerpos monoclonales de prevención selectiva."
+      },
+      {
+        "text": "Todo lactante menor de 5 años con antecedente de asma bronquial atópica severa confirmada por pruebas de punción cutánea.",
+        "isCorrect": false,
+        "explanation": "El asma infantil y las pruebas de punción cutánea (Prick test) son de descarte del niño mayor, no justificando el uso de estos anticuerpos monoclonales preventivos de alto costo reservados para la prematurez extrema."
+      },
+      {
+        "text": "Lactantes sanos nacidos por parto domiciliario no asistido que no hayan recibido la vacuna de Hepatitis B al nacer.",
+        "isCorrect": false,
+        "explanation": "El parto domiciliario y la omisión de la vacuna de la Hepatitis B no son criterios biológicos de indicación de inmunoprofilaxis pasiva respiratoria contra el Virus Sincicial en la red pública."
+      },
+      {
+        "text": "Prematuros nacidos con menos de 32 semanas de edad gestacional o con un peso de nacimiento inferior a 1.500 gramos, y lactantes con cardiopatías congénitas hemodinámicamente significativas no resueltas.",
+        "isCorrect": true,
+        "explanation": "Los criterios clásicos de selección de máximo riesgo para la prevención de infección grave por VRS en Chile (antiguo Palivizumab por Ley Ricarte Soto, cuyos grupos de riesgo son ahora priorizados en el segundo año de vida para el uso de Nirsevimab) incluyen a: recién nacidos prematuros menores de 32 semanas de edad gestacional, o con un peso de nacimiento menor o igual a 1.500 gramos al nacer, y lactantes de hasta 24 meses con cardiopatías congénitas hemodinámicamente significativas o con diagnóstico de displasia broncopulmonar del prematuro."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Usted controla en el consultorio a un lactante ex prematuro de 32 semanas de gestación que actualmente tiene 2 meses de edad cronológica. El lactante se alimenta con lactancia materna exclusiva y se encuentra activo. De acuerdo con las guías de supervisión del prematuro del MINSAL, ¿cuál es la indicación correcta respecto al inicio y dosis de la suplementación con Hierro?",
+    "hint": "Los prematuros tienen depósitos de hierro mínimos al nacer (estos se acumulan al final del embarazo). Su alta velocidad de crecimiento agota las reservas de hierro de forma muy precoz, requiriendo un aporte profiláctico antes que el recién nacido de término.",
+    "options": [
+      {
+        "text": "No suplementar con Hierro si el lactante prematuro recibe lactancia materna exclusiva, asumiendo que cubre por completo sus requerimientos de hierro sistémico.",
+        "isCorrect": false,
+        "explanation": "Aunque el hierro de la leche materna tiene alta biodisponibilidad, su volumen absoluto es insuficiente para cubrir la alta demanda de la expansión eritrocitaria del prematuro, requiriendo de forma obligatoria el aporte farmacológico profiláctico."
+      },
+      {
+        "text": "Iniciar la suplementación profiláctica con Hierro de forma inmediata a los 2 meses de vida (o al duplicar el peso de nacimiento), a dosis de 2 a 3 mg/kg/día de hierro elemental, manteniéndola hasta el año de edad corregida.",
+        "isCorrect": true,
+        "explanation": "A diferencia del recién nacido de término (que inicia suplementación con hierro a los 4 meses), los prematuros agotan sus escasos depósitos de hierro de forma muy precoz (generalmente al duplicar el peso de nacimiento). Las guías del MINSAL y de la SOCHIPE indican iniciar la suplementación con hierro profiláctico de forma obligatoria a los 2 meses de vida (edad cronológica) a dosis de 2 a 3 mg/kg/día de hierro elemental, manteniéndose hasta que complete el año de edad corregida para prevenir la anemia ferropénica."
+      },
+      {
+        "text": "Postergar el inicio de la suplementación con Hierro hasta los 6 meses de edad corregida, administrando una dosis única intramuscular de depósito de urgencia.",
+        "isCorrect": false,
+        "explanation": "Esperar hasta los 6 meses corregidos para iniciar el hierro en un prematuro de 32 semanas causará anemia ferropénica severa establecida con potencial repercusión negativa sobre el neurodesarrollo cognitivo."
+      },
+      {
+        "text": "Iniciar la suplementación con Hierro de forma exclusiva si el hemograma de control revela un hematocrito menor al 25% con anemia microcítica severa.",
+        "isCorrect": false,
+        "explanation": "La suplementación es profiláctica y preventiva; esperar a la alteración severa de la serie roja del hemograma para intervenir infringe los estándares mínimos de la supervisión de salud del prematuro en Chile."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Usted controla en el policlínico al recién nacido prematuro de 29 semanas de la pregunta 11 que presentaba sibilancias recurrentes. Al revisar los exámenes complementarios de control a los 3 meses de edad corregida, destaca una Fosfatasa Alcalina sérica persistentemente elevada de 1.150 UI/L asociada a una hipofosfatemia marcada. ¿Cuál es el significado clínico de este nivel de Fosfatasa Alcalina en el estudio de la enfermedad metabólica ósea del prematuro?",
+    "hint": "La fosfatasa alcalina ósea se libera por los osteoblastos durante la actividad osteoide de remodelación esquelética. Valores marcadamente elevados en el prematuro de riesgo son el indicador directo de raquitismo metabólico activo por mineralización insuficiente.",
+    "options": [
+      {
+        "text": "Es una variante genética benigna inofensiva que asocia de forma característica retraso en el cierre de la fontanela posterior.",
+        "isCorrect": false,
+        "explanation": "No se considera una variante benigna inofensiva; ignorar este valor expone al prematuro en crecimiento al riesgo de sufrir fracturas óseas patológicas espontáneas costales o femorales e incluso deformidades de tórax y cráneo."
+      },
+      {
+        "text": "Es un signo de necrosis celular biliar hepática aguda que obliga a descartar de urgencia atresia de vías biliares.",
+        "isCorrect": false,
+        "explanation": "Aunque la fosfatasa alcalina también se eleva en la colestasis biliar (origen hepatocelular), en ausencia de elevación de la bilirrubina directa, ictericia, coluria o acolia, su alza asilada se debe de forma casi exclusiva a causas óseas."
+      },
+      {
+        "text": "Es un marcador bioquímico altamente sensible de recambio óseo acelerado y desmineralización esquelética activa que confirma el diagnóstico de osteopenia del prematuro.",
+        "isCorrect": true,
+        "explanation": "La Fosfatasa Alcalina (FA) sérica es una enzima que se eleva de forma proporcional a la actividad osteoblástica de recambio óseo. En la enfermedad metabólica ósea (EMO) o osteopenia del prematuro, el déficit de sustratos de calcio y fósforo impide la correcta mineralización del hueso nuevo, lo que sobreestimula el recambio celular. Un valor de FA > 800-1.000 UI/L (asociado a fósforo < 4,5 mg/dL) es el marcador bioquímico más útil, sensible y confiable para confirmar osteopenia activa, requiriendo optimización nutricional rápida."
+      },
+      {
+        "text": "Es un hallazgo normal y esperado en lactantes alimentados con fórmulas artificiales debido a la absorción aumentada de calcio lácteo.",
+        "isCorrect": false,
+        "explanation": "La FA elevada a niveles de 1.150 UI/L nunca se considera un hallazgo normal ni fisiológico del uso de fórmulas de inicio comerciales, traduciendo una falla de mineralización."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "De acuerdo con las guías clínicas internacionales de la AAP y de la AHA vigentes en Chile, ¿cuál es el criterio cronológico y de repercusión sistémica que define formalmente a una crisis de \"Apnea del Prematuro\" de carácter patológico en la UCI Neonatal?",
+    "hint": "Una pausa respiratoria corta en el prematuro puede ser normal si no altera el flujo de oxígeno ni el pulso. El límite de tiempo patológico (20 s) se reduce si existe repercusión cardiovascular inmediata (bradicardia o hipoxia).",
+    "options": [
+      {
+        "text": "Una pausa respiratoria de 20 segundos o más de duración, o de menor duración si se acompaña de bradicardia (frecuencia cardíaca < 100 lpm) o cianosis/desaturación central.",
+        "isCorrect": true,
+        "explanation": "La Apnea del Prematuro se define de forma estricta como el cese de la respiración por un período igual o mayor a 20 segundos de duración, o bien por una pausa respiratoria de menor duración (ej: 10-15 segundos) siempre que se acompañe clínicamente de bradicardia significativa (FC < 100 lpm) o desaturación de oxígeno/cianosis central, traduciendo una repercusión hemodinámica que exige estimulación o soporte ventilatorio."
+      },
+      {
+        "text": "Una pausa respiratoria que ocurre de forma aislada una vez por semana en el prematuro de término sano en su cuna radiante.",
+        "isCorrect": false,
+        "explanation": "La apnea de prematurez es un fenómeno recurrente de la inmadurez central que ocurre múltiples veces al día en la fase aguda del prematuro extremo, no presentándose de forma aislada semanal."
+      },
+      {
+        "text": "Una pausa respiratoria de 5 segundos de duración que ocurre exclusivamente durante el llanto del lactante y resuelve con el cambio de posición.",
+        "isCorrect": false,
+        "explanation": "Las pausas de 5 segundos son fisiológicas y forman parte de la respiración periódica normal del prematuro, no considerándose patológicas si no alteran el pulso ni la saturación central."
+      },
+      {
+        "text": "Una pausa respiratoria de un minuto de duración asociada de forma obligatoria a una crisis convulsiva tónico-clónica generalizada.",
+        "isCorrect": false,
+        "explanation": "Una pausa de un minuto en un recién nacido prematuro representa un paro respiratorio grave catastrófico prolongado que causará daño cerebral isquémico irreversible si no se asiste con RCP avanzada de inmediato, excediendo el concepto de apnea transitoria."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Durante la supervisión en el control sano de los 8 meses en APS, se evalúa a un lactante ex prematuro extremo de 29 semanas de gestación que actualmente tiene 11 meses de edad cronológica. Al aplicar la Escala de Evaluación del Desarrollo Psicomotor (EEDP) de 0 a 2 años, ¿cuál es el procedimiento metodológico correcto que debe seguir el examinador?",
+    "hint": "Para evaluar el desarrollo psicomotor en prematuros menores de 37 semanas en Chile, se debe utilizar la edad corregida de forma mandatoria hasta cumplir los dos años de edad cronológica, para evitar el sesgo de la inmadurez de base del nacimiento temprano.",
+    "options": [
+      {
+        "text": "Suspender de forma definitiva la aplicación de la escala EEDP, sustituyéndola de forma universal por el test TEPSI de preescolares.",
+        "isCorrect": false,
+        "explanation": "El TEPSI está diseñado y validado únicamente para niños entre los 2 y 5 años de edad (24 a 59 meses completos), siendo inapropiado e imposible de aplicar en un lactante menor de un año."
+      },
+      {
+        "text": "Aplicar la escala EEDP utilizando de forma estricta la edad corregida del lactante para la determinación de los puntajes y de la categoría diagnóstica.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con la Norma Técnica de Supervisión de Niños y Niñas en APS de Chile, la evaluación del desarrollo psicomotor (EEDP) en prematuros menores de 37 semanas debe realizarse aplicando de forma estricta la edad corregida del menor hasta que cumpla los 24 meses (2 años) de edad cronológica. Esto evita calificar erróneamente como retraso del desarrollo lo que en realidad corresponde a la menor madurez cronológica por el nacimiento anticipado."
+      },
+      {
+        "text": "Modificar de forma manual los puntajes del manual agregando de forma arbitraria un factor de corrección del cincuenta por ciento al coeficiente final.",
+        "isCorrect": false,
+        "explanation": "Las escalas psicométricas estandarizadas como el EEDP tienen normas de aplicación y puntuación fijas; realizar modificaciones manuales arbitrarias de los coeficientes finales invalida de forma absoluta la rigurosidad científica del instrumento."
+      },
+      {
+        "text": "Aplicar la escala EEDP utilizando de forma rígida la edad cronológica real sin realizar correcciones por prematurez para forzar el catch-up.",
+        "isCorrect": false,
+        "explanation": "Utilizar la edad cronológica real para el EEDP en un prematuro extremo de 29 semanas de 11 meses de vida (cuya edad corregida es de solo 8 meses y medio) generará un sobrediagnóstico erróneo y perjudicial de retraso del DSM, alterando la validez del tamizaje."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Un recién nacido prematuro de 29 semanas de gestación se encuentra en su décimo día de vida en la UCI Neonatal del Hospital Tisné. El equipo médico sospecha la instauración de una Enterocolitis Necrotizante (ECN). Al evaluar la analítica general en busca de marcadores de gravedad de ECN sistémica avanzada, ¿cuál de los siguientes perfiles de laboratorio se asocia de forma clásica a una necrosis intestinal extensa con perforación (Estadio III de Bell)?",
+    "hint": "La isquemia y necrosis masiva del tejido intestinal liberan grandes cantidades de ácido láctico (acidosis metabólica). La inflamación endotelial destructiva consume de forma rápida las plaquetas (trombocitopenia), y la pérdida de barrera celular altera la homeostasis de los líquidos y electrolitos.",
+    "options": [
+      {
+        "text": "Alcalosis respiratoria pura con aumento del bicarbonato sérico, trombocitosis esencial reactiva e hipernatremia extrema.",
+        "isCorrect": false,
+        "explanation": "La alcalosis respiratoria y la trombocitosis son hallazgos incompatibles con la fisiopatología destructiva de la necrosis intestinal y el shock séptico de la ECN avanzada, que cursa con acidosis metabólica profunda por sepsis."
+      },
+      {
+        "text": "Acidosis metabólica severa refractaria (acidosis láctica), trombocitopenia severa por consumo de novo e hiponatremia dilucional grave.",
+        "isCorrect": true,
+        "explanation": "En la ECN avanzada (Estadio III de Bell), el daño necrótico del tejido intestinal genera marcadores de gravedad sistémicos severos: 1) Acidosis metabólica refractaria con hiperlactatemia (por hipoperfusión tisular e isquemia intestinal), 2) Trombocitopenia severa y rápida de novo (por consumo de plaquetas en el lecho intestinal inflamado y sepsis), e 3) Hiponatremia (debida a pérdidas masivas de sodio al tercer espacio a nivel abdominal por la peritonitis)."
+      },
+      {
+        "text": "Anemia megaloblástica por carencia, haptoglobina elevada con recuento de plaquetas normal en el frotis periférico.",
+        "isCorrect": false,
+        "explanation": "El SHU o la anemia hemolítica cursan con haptoglobina indetectable, y la anemia megaloblástica es carencial tardía, ajena al consumo agudo de plaquetas y bicitopenia por sepsis de la peritonitis por ECN."
+      },
+      {
+        "text": "Leucocitosis leve con predominio eosinofílico marcado, niveles de calcio iónico normales y glucosa normalizada.",
+        "isCorrect": false,
+        "explanation": "La eosinofilia es de la esfera de las alergias o parasitosis y el calcio iónico suele disminuir de forma severa en la ECN por depósito de calcio y sepsis (hipocalcemia), sin mantenerse normal de forma típica en la fase de shock."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Bajo Peso y Prematuros",
+    "text": "Durante la fase de hiperoxia en el recién nacido prematuro extremo, se produce vasoconstricción retiniana periférica que suspende la angiogénesis normal. Posteriormente, al volver a la normoxia, el tejido retiniano isquémico secreta de forma compensatoria un factor de crecimiento endotelial vascular (VEGF) de forma desmedida. ¿Cuál es el papel fisiopatológico del VEGF en el desarrollo de la Retinopatía del Prematuro (ROP) y cuál es la terapia biológica dirigida de elección?",
+    "hint": "El VEGF es una citoquina potente que estimula la formación de nuevos vasos (neovascularización). Sin embargo, en la ROP, esta angiogénesis es patológica, desorganizada y crece hacia la cámara vítrea, pudiendo traccionar y desprender la retina de forma permanente, causando ceguera.",
+    "options": [
+      {
+        "text": "Promueve la neovascularización aberrante de vasos sanguíneos frágiles en el vítreo con riesgo de tracción, hemorragia vítrea y desprendimiento de retina; la terapia de elección es la inyección intravítrea de agentes anti-VEGF (como el Bevacizumab o Ranibizumab).",
+        "isCorrect": true,
+        "explanation": "En la ROP, la neovascularización patológica (fase II proliferativa) es impulsada por la secreción excesiva de VEGF ante la hipoxia retiniana de la fase I previa. Estos vasos nuevos crecen hacia el vítreo, son frágiles, sangran y forman tejido fibroso que puede contraerse, traccionar y provocar desprendimiento de retina traccional permanente (causa de ceguera). La terapia biológica de elección para ROP severa (umbrales específicos) incluye la inyección intravítrea de anticuerpos monoclonales anti-VEGF (como Bevacizumab) que inhiben el crecimiento aberrante, o fotocoagulación con láser de la retina periférica isquémica."
+      },
+      {
+        "text": "Bloquea la síntesis de colágeno a nivel de la córnea induciendo queratocono bilateral precoz; la terapia de elección es el trasplante lamelar.",
+        "isCorrect": false,
+        "explanation": "La ROP compromete la retina posterior de forma selectiva, no teniendo nexo patogénico con el colágeno de la córnea ni induciendo queratocono en el período neonatal."
+      },
+      {
+        "text": "Estimula de forma selectiva el cierre prematuro del conducto lagrimal con dacriocistitis neonatal; la terapia de elección es el masaje de Crigler.",
+        "isCorrect": false,
+        "explanation": "La dacriocistitis es una infección del saco lagrimal obstruido que responde a masajes de Crigler o antibióticos, cuadro totalmente independiente del daño microvascular retiniano proliferativo del prematuro extremo."
+      },
+      {
+        "text": "Provoca la atrofia del nervio óptico por calcificación distrófica de la esclera; la terapia de elección es el uso de gotas de corticoides locales.",
+        "isCorrect": false,
+        "explanation": "La atrofia óptica por calcificación escleral no es el mecanismo de ceguera de la retinopatía del prematuro, el cual es eminentemente traccional y desorganizado vascular vítreo."
+      }
+    ]
+  }
+]
