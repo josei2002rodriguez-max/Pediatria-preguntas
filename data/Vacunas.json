@@ -2,7 +2,7 @@
   {
     "id": 1,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un recién nacido de término sano, hijo de madre con serología para Hepatitis B negativa, pesa $3150\\text{ gramos}$ al nacer. Respecto a su esquema de inmunización en el periodo inmediato en la maternidad, ¿cuál es la conducta correcta según la norma técnica vigente?",
     "hint": "Desde hace unos años, el Ministerio de Salud de Chile modificó el esquema agregando una vacuna adicional en el periodo de recién nacido para todos los lactantes, independiente del estado serológico materno.",
@@ -32,7 +32,7 @@
   {
     "id": 2,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "En el contexto de la campaña de inmunización contra el VRS del año 2026, usted recibe en el consultorio a un lactante de 2 meses nacido el 15 de diciembre de 2025. Los padres preguntan si a su hijo le corresponde recibir el anticuerpo monoclonal Nirsevimab. ¿Cuál es la indicación correcta?",
     "hint": "Chile ha sido pionero en la implementación de Nirsevimab. La estrategia cubre tanto a los que nacen durante la temporada de invierno como a aquellos \"lactantes pequeños\" que nacieron inmediatamente antes y enfrentan su primera temporada de alta circulación viral.",
@@ -62,7 +62,7 @@
   {
     "id": 3,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Madre de un lactante de 2 meses acude a su control sano y le pregunta qué enfermedades previene la vacuna \"Hexavalente\" que le administrarán hoy. ¿Cuál de las siguientes opciones describe correctamente los componentes de esta vacuna programática?",
     "hint": "La vacuna es \"hexa\" porque protege contra 6 patógenos. Uno de los componentes suele confundirse con el virus respiratorio de la Influenza debido a la similitud del nombre de una bacteria.",
@@ -92,7 +92,7 @@
   {
     "id": 4,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted realiza el control de niño sano de un lactante de 4 meses de vida que tiene sus vacunas al día. ¿Qué vacuna contra el Meningococo le corresponde recibir hoy según el calendario vigente?",
     "hint": "Chile incorporó la vacuna contra el Meningococo del serogrupo B (Bexsero) al calendario oficial de inmunizaciones de manera gratuita para un esquema que inicia en el lactante menor.",
@@ -122,7 +122,7 @@
   {
     "id": 5,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante el control de salud de los 2 meses, los padres de una lactante sana preguntan por vacunas \"extra-programáticas\" o que no estén en el consultorio. Específicamente mencionan haber leído sobre la vacuna contra el Rotavirus. ¿Cuál es la recomendación correcta que debe dar el profesional de salud?",
     "hint": "El rotavirus no está en el PNI de Chile, pero es una recomendación universal de la OMS y la SOCHIPE. Tiene una ventana de edad muy estricta para su administración debido a razones de seguridad (riesgo de intubación/invaginación si se administra tardíamente).",
@@ -152,7 +152,7 @@
   {
     "id": 6,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante menor de 2 meses de vida, nacido a las 31 semanas de gestación con un peso de $1450\\text{ gramos}$, acude a su control de niño sano. Cronológicamente hoy cumple exactamente 2 meses desde su nacimiento. Respecto a la administración de sus vacunas programáticas, ¿cuál es la conducta correcta?",
     "hint": "El sistema inmune del prematuro es capaz de responder a las vacunas y el riesgo de contraer enfermedades graves en el ambiente es alto. El calendario oficial de inmunizaciones no se rige por la edad corregida.",
@@ -182,7 +182,7 @@
   {
     "id": 7,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted revisa el carnet de vacunación de un lactante de 5 meses. Nota que en el consultorio le citaron para recibir una dosis de la vacuna Neumocócica Conjugada 13-valente a esta edad. ¿En qué situación clínica está indicada la dosis de vacuna neumocócica a los 5 meses en Chile?",
     "hint": "El calendario nacional tiene una indicación muy específica para una \"tercera dosis\" de esquema primario neumocócico en el lactante menor de 6 meses, reservada para un grupo de mayor riesgo.",
@@ -212,7 +212,7 @@
   {
     "id": 8,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 6 meses de vida, nacido de término, con vacunas al día y sin antecedentes mórbidos, asiste al vacunatorio de su CESFAM. ¿Qué vacuna programática le corresponde recibir según el PNI 2026?",
     "hint": "A los 6 meses se completa el esquema primario de la vacuna combinada que protege contra la polio, la hepatitis B y el coqueluche. El resto de las vacunas del lactante menor ya se completaron a los 4 meses (o 5 meses en prematuros).",
@@ -242,7 +242,7 @@
   {
     "id": 9,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante el mes de abril, asiste a control un lactante de 7 meses de vida que nunca ha recibido la vacuna contra la Influenza. Su madre pregunta cómo es el esquema de esta vacuna de campaña para su hijo. ¿Cuál es la indicación correcta?",
     "hint": "La primera vez que un niño menor de 9 años recibe la vacuna contra la influenza, su sistema inmune requiere un estímulo doble (priming) para lograr una seroprotección adecuada contra las cepas circulantes.",
@@ -272,7 +272,7 @@
   {
     "id": 10,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 10 meses acude al vacunatorio para recibir su vacuna contra la Influenza en el contexto de la campaña invernal. La madre refiere con preocupación que hace una semana le dio a probar huevo por primera vez y el lactante presentó un rash eritematoso leve alrededor de la boca que desapareció espontáneamente en una hora. ¿Cuál es la conducta más adecuada?",
     "hint": "Las guías nacionales e internacionales (como las de la Academia Americana de Pediatría y el MINSAL) han flexibilizado enormemente las precauciones de la vacuna de influenza respecto a la alergia al huevo. Las reacciones leves no justifican postergaciones ni derivaciones complejas.",
@@ -302,7 +302,7 @@
   {
     "id": 11,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 12 meses (1 año) de edad asiste a su control sano en el CESFAM. Según el calendario vigente del PNI, ¿qué vacunas le corresponde recibir hoy?",
     "hint": "Al cumplir el primer año, el niño recibe su primera vacuna de virus vivos contra el sarampión, las paperas y la rubéola (Tresvírica), junto con una vacuna contra cuatro serogrupos de meningococo y un refuerzo bacteriano contra el neumococo.",
@@ -332,7 +332,7 @@
   {
     "id": 12,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "¿Por qué en los lactantes menores de 2 años se prefiere utilizar vacunas Neumocócicas y Meningocócicas Conjugadas en lugar de las vacunas Polisacáridas puras (como la Neumo-23)?",
     "hint": "Los antígenos basados únicamente en azúcares (polisacáridos de la cápsula bacteriana) no logran ser presentados por el complejo mayor de histocompatibilidad a las células T. Al unir (conjugar) este azúcar a una proteína, el sistema inmune infantil \"ve\" el antígeno de una manera totalmente distinta.",
@@ -362,7 +362,7 @@
   {
     "id": 13,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 18 meses de vida acude a su control de salud y vacunación correspondiente. Según el PNI de Chile, ¿cuál de los siguientes esquemas de vacunación debe recibir de forma obligatoria y gratuita?",
     "hint": "A los 18 meses se vive uno de los hitos de vacunación más intensos de la infancia (comúnmente llamado \"el control de los cuatro pinchazos\"). Se refuerza la inmunidad de la primera infancia y se inicia la protección contra la varicela y la hepatitis A.",
@@ -392,7 +392,7 @@
   {
     "id": 14,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted realiza una capacitación en salud a un grupo de padres y explica los cambios en el esquema de la vacuna contra la Varicela introducidos en el PNI de Chile. ¿Cuál es el esquema de administración actual para esta vacuna?",
     "hint": "Inicialmente, el PNI incorporó la vacuna de Varicela en una dosis al año y medio de vida. Posteriormente, siguiendo recomendaciones para evitar el desplazamiento de la enfermedad a edades mayores y asegurar una inmunidad duradera, se implementó un esquema de dos dosis en la primera infancia.",
@@ -422,7 +422,7 @@
   {
     "id": 15,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un niño de 3 años (36 meses) acude al vacunatorio del CESFAM con su calendario al día. ¿Qué vacunas le corresponde recibir en este control?",
     "hint": "Hace unos años se modificó el calendario para adelantar refuerzos que antes se colocaban en Primero Básico. Hoy en día, a los 3 años se consolida la inmunidad contra virus altamente contagiosos que causan exantemas y paperas.",
@@ -452,7 +452,7 @@
   {
     "id": 16,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante el año escolar de 1° Básico, los equipos de salud acuden a los colegios para realizar la vacunación correspondiente de los escolares de aproximadamente 6 años de edad. ¿Qué vacuna se administra en este hito escolar?",
     "hint": "Como la segunda dosis de la vacuna Tresvírica se adelantó a los 36 meses de vida, en Primero Básico actualmente solo se administra una dosis de refuerzo contra bacterias productoras de toxinas y coqueluche.",
@@ -482,7 +482,7 @@
   {
     "id": 17,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Respecto a la vacunación contra el Virus del Papiloma Humano (VPH) en la población escolar chilena para el año 2026, ¿cuál es la conducta correcta según las directrices vigentes del MINSAL?",
     "hint": "Siguiendo la evidencia científica internacional y las directrices de la OMS para simplificar esquemas y optimizar recursos, el MINSAL unificó el esquema de VPH a una dosis única con la vacuna de mayor espectro disponible (nonavalente) para ambos sexos.",
@@ -512,7 +512,7 @@
   {
     "id": 18,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted evalúa a un escolar de 13 años que cursa 8° Básico. Su madre le consulta qué vacuna le corresponde recibir este año en su colegio. ¿Cuál es la respuesta correcta?",
     "hint": "Al finalizar la enseñanza básica (alrededor de los 13-14 años), se administra el último refuerzo escolar programático para mantener títulos de anticuerpos protectores contra el tétanos, la difteria y el coqueluche durante la adolescencia y adultez joven.",
@@ -542,7 +542,7 @@
   {
     "id": 19,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Una mujer cursando una gestación de 29 semanas acude a su control prenatal en el CESFAM. El matrón o médico tratante le indica que debe acudir al vacunatorio. ¿Qué vacuna tiene indicación prioritaria en este momento de la gestación y cuál es su principal objetivo clínico?",
     "hint": "Los lactantes menores de 2 meses no tienen vacunas propias contra la tos convulsiva y son el grupo con mayor riesgo de coqueluche grave, apnea y muerte. La mejor estrategia es vacunar a la madre en el tercer trimestre para que le traspase defensas listas a través de la placenta.",
@@ -572,7 +572,7 @@
   {
     "id": 20,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un escolar de 10 años, con calendario de vacunas al día (incluyendo su vacuna de 1° Básico), sufre una herida penetrante profunda y sucia con un clavo oxidado en el pie mientras jugaba en un sitio eriazo. ¿Cuál es la conducta correcta respecto a la profilaxis antitetánica?",
     "hint": "La vacuna dTpa recibida en 1º Básico (hace aproximadamente 4 años) confiere una protección excelente y duradera. Las guías de manejo de heridas diferencian entre heridas limpias/sucias y el número de vacunas previas recibidas por el paciente.",
@@ -602,7 +602,7 @@
   {
     "id": 21,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Llega a su consulta un lactante de 9 meses de vida cuyos padres, por motivos de residencia en el extranjero en una comunidad rural aislada, no le han administrado ninguna vacuna previa. Los padres están de acuerdo en iniciar el proceso de inmunización hoy. Según la norma de puesta al día del PNI, ¿cómo debe iniciar el esquema de vacunación?",
     "hint": "En niños no vacunados, la puesta al día busca otorgar la máxima protección permitida de forma segura y en el menor número de visitas posible, aprovechando la posibilidad de coadministrar múltiples vacunas inactivadas y vivas.",
@@ -632,7 +632,7 @@
   {
     "id": 22,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un niño de 3 años y 2 meses acude a su consulta. Al revisar su carnet de vacunación, usted constata que recibió todas sus vacunas de forma normal hasta los 12 meses de vida, pero no registra ninguna vacuna posterior. ¿Qué vacunas del PNI le corresponde recibir para quedar al día con su calendario?",
     "hint": "Una regla de oro en inmunizaciones es: \"Dosis recibida, dosis que cuenta; los esquemas atrasados no se reinician, se completan\". Sin embargo, se deben respetar los intervalos mínimos entre dosis sucesivas del mismo antígeno (como la vacuna de Varicela).",
@@ -662,7 +662,7 @@
   {
     "id": 23,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted se encuentra de turno en la maternidad y evalúa a un recién nacido de término, de $3200\\text{ gramos}$ de peso, cuya madre es VIH positivo confirmada. ¿Cuál es la conducta correcta respecto a la administración de la vacuna BCG en este neonato antes del alta?",
     "hint": "La vacuna BCG contiene bacterias vivas atenuadas (Mycobacterium bovis). En pacientes con inmunodeficiencia celular severa (como un lactante con VIH connatales), las vacunas de patógenos vivos pueden causar una infección diseminada grave (BCGitis).",
@@ -692,7 +692,7 @@
   {
     "id": 24,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "¿En cuál de las siguientes condiciones clínicas pediátricas está estrictamente contraindicada la administración de la vacuna Tresvírica (SRP) o de la vacuna contra la Varicela?",
     "hint": "Las vacunas atenuadas contienen virus vivos capaces de replicarse a nivel subclínico para generar inmunidad. Un sistema inmune severamente deprimido por una neoplasia hematológica o por fármacos inmunosupresores potentes no podrá controlar esta replicación, lo que podría llevar a una infección severa por la misma cepa vacunal.",
@@ -722,7 +722,7 @@
   {
     "id": 25,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted atiende a una lactante sana de 12 meses que vive con su hermano de 6 años, quien actualmente se encuentra en tratamiento de quimioterapia por un linfoma. Respecto a la administración de las vacunas de los 12 meses (Tresvírica, Meningocócica tetravalente y Neumocócica) a la lactante sana, ¿cuál es la conducta correcta?",
     "hint": "La protección de un paciente inmunocomprometido depende en gran medida de que las personas sanas que conviven con él estén debidamente inmunizadas para no ingresar virus o bacterias al hogar. Los virus de la vacuna Tresvírica no tienen capacidad de transmitirse a los contactos, a diferencia del virus de la polio oral clásico (Sabin) o, de forma muy excepcional, las lesiones de varicela activa.",
@@ -752,7 +752,7 @@
   {
     "id": 26,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 18 meses es llevado al vacunatorio. Su madre refiere que el niño ha presentado deposiciones algo más blandas de lo habitual (3 veces al día, sin sangre ni deshidratación) y temperatura axilar de $37.4^\\circ\\text{C}$ secundaria a erupción dentaria. ¿Cuál es la conducta correcta del personal del vacunatorio?",
     "hint": "Una de las causas más frecuentes de \"oportunidad de vacunación perdida\" es la postergación de dosis debido a síntomas leves que no constituyen contraindicaciones reales. Los lineamientos ministeriales son muy claros al respecto.",
@@ -782,7 +782,7 @@
   {
     "id": 27,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "¿Cuál de las siguientes alternativas describe un ejemplo de inmunización pasiva utilizada en la práctica pediátrica clínica en Chile y cuál es su característica principal en comparación con la inmunización activa?",
     "hint": "La inmunización activa estimula al propio cuerpo a producir sus defensas (tarda semanas en actuar pero dura años), mientras que la inmunización pasiva consiste en \"prestar\" anticuerpos ya hechos de afuera para dar un escudo inmediato pero que se desgasta con el tiempo.",
@@ -812,7 +812,7 @@
   {
     "id": 28,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "En la campaña de inmunización contra el VRS de 2026, ¿cuál de los siguientes grupos pediátricos califica para recibir una dosis de Nirsevimab al ingresar a su segunda temporada de alta circulación viral?",
     "hint": "Mientras que los lactantes sanos solo reciben Nirsevimab en su primera temporada de vida (cuando el VRS es más letal), existe un subgrupo de niños con daño pulmonar o cardíaco estructural en quienes el virus sigue siendo sumamente peligroso incluso durante su segundo año de vida.",
@@ -842,7 +842,7 @@
   {
     "id": 29,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted evalúa en el consultorio el esquema de inmunización de un niño de 2 años. Al revisar el calendario de vacunas oficial vigente (año 2026), nota que recibió la vacuna contra la Hepatitis A a los 18 meses. ¿Cuándo le corresponde recibir la segunda dosis de esta vacuna según el PNI chileno?",
     "hint": "A diferencia de los esquemas comerciales privados o de otros países que utilizan esquemas de dos dosis para la Hepatitis A, la estrategia de salud pública en Chile se optimizó basándose en la alta inmunogenicidad de la dosis única en la infancia.",
@@ -872,7 +872,7 @@
   {
     "id": 30,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Una madre acude a la urgencia con su lactante de 2 meses que fue vacunado hace $12\\text{ horas}$ con las vacunas correspondientes (Hexavalente, Neumocócica conjugada y Meningococo B). Refiere que el lactante está muy irritable, llora más de lo habitual, tiene un eritema de $2\\text{ cm}$ en el muslo derecho (sitio de punción) y temperatura axilar controlada de $38.2^\\circ\\text{C}$. ¿Cuál es la sospecha diagnóstica y la conducta terapéutica más adecuada en este caso?",
     "hint": "La vacuna del Meningococo B y la Hexavalente son conocidas por tener una alta tasa de reactogenicidad local (dolor, eritema, induración) y fiebre en las primeras $24\\text{ a } 48\\text{ horas}$ post-inyección. Esto constituye una respuesta inflamatoria fisiológica normal del sistema inmune ante los antígenos y adyuvantes.",
@@ -902,7 +902,7 @@
   {
     "id": 31,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 2 meses de vida es llevado al control sano. Al examinar el brazo derecho del lactante, en la región deltoidea, usted observa una pápula eritematosa de $8\\text{ mm}$ de diámetro con una pequeña ulceración central que drena una mínima cantidad de material seropurulento. El lactante se encuentra afebril, activo, mamando bien y no presenta adenopatías axilares palpables. ¿Cuál es la sospecha diagnóstica y la conducta más adecuada?",
     "hint": "La vacuna BCG (bacilo de Calmette-Guérin) genera una respuesta inflamatoria local controlada y lenta que simula una infección tuberculosa cutánea primaria localizada. Esta lesión pasa por varias etapas que toman semanas o meses.",
@@ -932,7 +932,7 @@
   {
     "id": 32,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Los padres de un lactante de 2 meses consultan en la práctica privada por la indicación de la vacuna contra el Rotavirus (Rotarix o Rotateq). Usted realiza la evaluación pre-vacunal correspondiente. ¿Cuál de los siguientes antecedentes clínicos del lactante constituye una contraindicación absoluta para la administración de esta vacuna?",
     "hint": "La vacuna contra el Rotavirus es una vacuna oral de virus vivos atenuados que se replica en el epitelio intestinal del lactante. Por motivos de seguridad y por el riesgo epidemiológico documentado en estudios de seguridad, los trastornos anatómicos o funcionales que predisponen a obstrucción mecánica intestinal impiden su uso.",
@@ -962,7 +962,7 @@
   {
     "id": 33,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted realiza el control de salud de un escolar de 4° Básico de 9 años. Al revisar sus antecedentes clínicos, se destaca un historial de alergia severa a la penicilina (presentó un choque anafiláctico documentado en la urgencia hace dos años). Hoy le corresponde recibir la vacuna contra el Virus del Papiloma Humano (VPH) en su colegio. Respecto a este caso, ¿cuál es la conducta correcta?",
     "hint": "Las vacunas del Programa Nacional de Inmunizaciones no contienen antibióticos de la familia de los betalactámicos (como penicilinas o cefalosporinas) en su composición ni durante su proceso de fabricación.",
@@ -992,7 +992,7 @@
   {
     "id": 34,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 12 meses asiste al vacunatorio de su CESFAM para recibir las vacunas correspondientes (Tresvírica, Meningocócica conjugada tetravalente y Neumocócica conjugada). A las 48 horas de la administración, la madre acude al servicio de urgencias porque el niño presenta fiebre cuantificada en $38.8^\\circ\\text{C}$ axilar, irritabilidad y rechazo parcial del alimento, sin focos clínicos al examen físico. ¿Cuál es el enfoque clínico correcto?",
     "hint": "Las vacunas administradas al año de vida, especialmente la neumocócica conjugada y la meningocócica, son altamente inmunogénicas y es muy habitual que generen picos febriles de corta duración en las primeras $48\\text{ horas}$. El manejo es estrictamente sintomático ante un examen físico normal.",
@@ -1022,7 +1022,7 @@
   {
     "id": 35,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 18 meses con su calendario de vacunaciones al día acude a su control de salud familiar en la Isla de Pascua (Rapa Nui). Según la normativa específica del PNI, ¿qué vacuna especial se le debe administrar adicionalmente a este lactante por residir en dicho territorio geográfico y cuál es su esquema de refuerzo?",
     "hint": "Existe un territorio insular chileno que, debido a sus condiciones climáticas de tipo subtropical y la presencia de vectores artrópodos específicos, requiere protección inmunológica obligatoria contra una arbovirosis potencialmente letal transmitida por mosquitos.",
@@ -1052,7 +1052,7 @@
   {
     "id": 36,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted atiende en el consultorio a un niño de 4 años de edad que presenta un historial de abandono de controles médicos. Al revisar sus registros, constata que su última vacuna fue administrada a los 6 meses de vida. Los padres están de acuerdo en poner al día su calendario vacunal. Respecto a la inmunización contra la Varicela en este paciente, ¿cuál es el esquema correcto que debe pautar según las normas técnicas vigentes de puesta al día (catch-up)?",
     "hint": "En los esquemas de puesta al día en niños mayores que no recibieron sus vacunas en las edades programáticas habituales (18 y 36 meses), se debe completar el esquema de dos dosis respetando siempre un intervalo de tiempo biológico mínimo necesario entre ellas.",
@@ -1082,7 +1082,7 @@
   {
     "id": 37,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante su rotación por el consultorio, evalúa a una gestante de 29 semanas que acude para recibir la vacuna dTpa (Difteria, Tétanos y Tos Convulsiva acelular). Ella le pregunta cómo es posible que una vacuna que recibe ella en el brazo proteja a su futuro bebé que aún está en el útero. ¿Cuál es la explicación científica correcta?",
     "hint": "La transferencia de inmunidad de la madre al feto durante la gestación se realiza exclusivamente mediante proteínas de defensa que tienen la capacidad molecular de unirse a receptores de transporte activo placentario (FcRn). Estas proteínas pertenecen a una clase de inmunoglobulina específica.",
@@ -1112,7 +1112,7 @@
   {
     "id": 38,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un niño de 18 meses acude a su control de salud familiar y vacunación programática. Presenta antecedentes de asma infantil episódica leve, en tratamiento de mantención regular con corticoides inhalados (Fluticasona $125\\text{ mcg}$, 1 puff cada 12 horas). Al evaluar la administración de las vacunas del control (Hexavalente, Hepatitis A, Meningococo B y la vacuna atenuada contra la Varicela), ¿cuál es la conducta adecuada?",
     "hint": "Las contraindicaciones para las vacunas de virus vivos atenuados (como Varicela o Tresvírica) se aplican a pacientes con inmunosupresión de rango sistémico clínicamente relevante (ej. corticoides sistémicos a dosis elevadas como prednisona $\\ge 2\\text{ mg/kg/día}$ por más de 14 días). Los tratamientos locales no generan este efecto.",
@@ -1142,7 +1142,7 @@
   {
     "id": 39,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante la consejería de vacunación de los 2 meses, una madre se muestra muy angustiada porque su hijo recibirá tres inyecciones simultáneas (Hexavalente, Neumocócica Conjugada y Meningocócica B). Pregunta específicamente si la vacuna \"Hexavalente\" ya contiene la protección contra el Neumococo, lo que permitiría evitarle un pinchazo al lactante. ¿Cuál es la respuesta profesional y anatómicamente correcta?",
     "hint": "Cada vacuna programática del lactante tiene una composición de antígenos específica dirigida a diferentes patógenos causantes de sepsis y meningitis. La compatibilidad química impide mezclar vacunas en una misma jeringa a menos que el fabricante lo especifique, y omitir o retrasar dosis vulnerabiliza al lactante.",
@@ -1172,7 +1172,7 @@
   {
     "id": 40,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un escolar de 6 años es llevado al servicio de urgencia tras haber sido mordido en la mejilla derecha por un perro callejero desconocido que huyó del lugar. Al examen se observan dos heridas penetrantes profundas en la cara con sangrado activo moderado. Respecto a la profilaxis post-exposición de la Rabia en este paciente, ¿cuál es la conducta correcta según las normas de salud pública?",
     "hint": "La rabia es una enfermedad con una letalidad cercana al 100% una vez que se inician los síntomas clínicos. Las mordeduras en zonas altamente inervadas y cercanas al sistema nervioso central (como la cara, cuello y cabeza) por animales sospechosos o no ubicables se clasifican como de \"alto riesgo\", requiriendo una estrategia combinada inmediata.",
@@ -1202,7 +1202,7 @@
   {
     "id": 41,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 6 meses de vida que nació de término, con peso adecuado para la edad gestacional, asiste a su control de niño sano. Se alimenta de forma exclusiva con Lactancia Materna (LM). Según la Norma Técnica de Supervisión de Salud Integral en APS y el PNI vigente, ¿cuál de las siguientes opciones describe el conjunto de indicaciones correctas para este control?",
     "hint": "Al cumplir el primer semestre de vida, el lactante experimenta la transición hacia la alimentación complementaria debido a que la leche humana ya no suple por sí sola los requerimientos de micronutrientes (especialmente el hierro). A nivel de inmunizaciones, a los 6 meses corresponde cerrar el esquema primario de la vacuna combinada contra la polio, difteria, tétanos, coqueluche, Hib y hepatitis B.",
@@ -1232,7 +1232,7 @@
   {
     "id": 42,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un escolar de 6 años que cursa 1° Básico asiste al vacunatorio de su colegio y recibe la vacuna dTpa acelular. A las 24 horas, presenta un eritema extenso, calor local y un edema indurado marcado en el brazo izquierdo (sitio de punción) que compromete más del 50% de la longitud del brazo, con dolor moderado al movimiento, pero se encuentra afebril, activo y con excelente estado general. ¿Cuál de los siguientes fenómenos inmunopatológicos explica mejor esta reacción local severa y cuál es su manejo adecuado?",
     "hint": "Cuando un niño tiene niveles muy elevados de defensas (anticuerpos circulantes) contra toxoides como el del tétanos o la difteria (debido a las dosis previas recibidas a los 2, 4, 6 y 18 meses), una nueva inyección de estos antígenos puede desencadenar una fuerte reacción local mediada por la unión antígeno-anticuerpo que activa el complemento a nivel local de forma exagerada, sin que constituya una infección.",
@@ -1262,7 +1262,7 @@
   {
     "id": 43,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante el control sano de los 2 meses, usted atiende a un lactante que presenta una fístula perianal activa con secreción purulenta intermitente, bajo control ambulatorio con Cirugía Infantil. Los padres están muy interesados en adquirir la vacuna contra el Rotavirus por vía privada. Respecto a la administración de esta vacuna oral de virus vivos en este paciente con patología perianal activa, ¿cuál es la conducta correcta?",
     "hint": "Las vacunas orales contra el rotavirus contienen virus atenuados viables que se excretan en cantidades significativas en las deposiciones del lactante durante las semanas posteriores a la vacunación. El contacto de estos virus vivos con mucosas o tejidos profundos erosionados o con fístulas abiertas representa un riesgo de complicación inflamatoria o infecciosa local.",
@@ -1292,7 +1292,7 @@
   {
     "id": 44,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un escolar de 9 años con diagnóstico de Leucemia Linfoblástica Aguda, actualmente en fase de mantenimiento de quimioterapia (con recuentos de neutrófilos estables en $1200/\\text{mm}^3$), sufre una raspadura limpia y superficial en la rodilla con una baldosa limpia en el patio de su casa. Su carnet de vacunación escolar indica que recibió la vacuna dTpa en 1° Básico de forma normal (hace 3 años). Respecto a la profilaxis antitetánica en este paciente oncológico, ¿cuál es la conducta correcta?",
     "hint": "La inmunosupresión interfiere con la capacidad de responder a nuevas vacunas y puede disminuir los títulos de anticuerpos con el tiempo, pero en el manejo agudo de heridas, si el paciente tiene un esquema primario completo y reciente ($<5$ años) y la herida es menor y limpia, las guías internacionales no indican intervenciones inmunológicas adicionales de urgencia.",
@@ -1322,7 +1322,7 @@
   {
     "id": 45,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 12 meses acude a su control para recibir sus vacunas programáticas, incluyendo la vacuna Tresvírica (virus atenuados de Sarampión, Rubéola y Parotiditis). Durante la entrevista, la madre refiere que el padre del lactante tiene diagnóstico de infección por VIH, pero se encuentra en terapia antirretroviral triterapia con carga viral plasmática persistentemente indetectable y un recuento de linfocitos CD4 de $650/\\text{mm}^3$. Respecto a la inmunización del lactante con la vacuna Tresvírica, ¿cuál es la conducta correcta?",
     "hint": "Los virus de la vacuna Tresvírica (SRP) se replican de forma atenuada en el vacunado y no se excretan ni se transmiten a los contactos domiciliarios. Proteger a los contactos sanos de personas con VIH mediante vacunas seguras es una estrategia clave para evitar brotes familiares de sarampión o rubéola.",
@@ -1352,7 +1352,7 @@
   {
     "id": 46,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "¿Cuál de las siguientes vacunas contenidas en el Programa Nacional de Inmunizaciones (PNI) de Chile corresponde a una formulación compuesta exclusivamente por bacterias vivas atenuadas?",
     "hint": "La gran mayoría de las vacunas bacterianas modernas utilizan fragmentos de la bacteria (como azúcares de la cápsula en las conjugadas) o toxinas inactivadas (toxoides) para evitar efectos adversos. Solo una vacuna clásica e histórica del recién nacido sigue utilizando una cepa de micobacteria viva debilitada.",
@@ -1382,7 +1382,7 @@
   {
     "id": 47,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 4 meses con diagnóstico de Tetralogía de Fallot severa no corregida, en control regular con Cardiología Infantil, acude a su control en el vacunatorio. Los padres consultan sobre la administración de sus vacunas de los 4 meses y la campaña de prevención respiratoria invernal. ¿Cuál es la indicación correcta en este paciente?",
     "hint": "Los niños con cardiopatías congénitas hemodinámicamente significativas o cianóticas tienen un riesgo sumamente elevado de descompensación hemodiámica y muerte ante infecciones respiratorias comunes como el VRS, la influenza o el neumococo. Su calendario de vacunas debe cumplirse estrictamente para evitar estas complicaciones.",
@@ -1412,7 +1412,7 @@
   {
     "id": 48,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante una ronda médica, un estudiante le pregunta por qué el Ministerio de Salud incorporó la dosis monovalente de la vacuna contra la Hepatitis B en las primeras 24 horas de vida de todos los recién nacidos, si en Chile la prevalencia general de Hepatitis B es catalogada como baja-intermedia y la mayoría de las gestantes tienen serología negativa. ¿Cuál es el principal fundamento de salud pública para esta estrategia?",
     "hint": "La probabilidad de que una infección por el virus de la Hepatitis B (VHB) se cronifique es inversamente proporcional a la edad de adquisición. Los recién nacidos y lactantes infectados tienen un sistema inmune inmaduro que tolera al virus en lugar de depurarlo, generando portación crónica en la inmensa mayoría de los casos.",
@@ -1442,7 +1442,7 @@
   {
     "id": 49,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un escolar de 13 años (8° Básico) es vacunado con la dosis de refuerzo de la vacuna dTpa acelular en su colegio. Al día siguiente, la madre llama muy preocupada al CESFAM refiriendo que el menor presenta febrícula de $37.8^\\circ\\text{C}$ axilar, dolor moderado y eritema de $3\\text{ cm}$ en el brazo vacunado que le dificulta levantar el brazo, y decaimiento leve. ¿Cuál es la indicación de educación y manejo más adecuada para esta madre?",
     "hint": "La vacuna dTpa acelular en adolescentes es altamente reactogénica debido a la memoria inmunológica previa de las vacunas recibidas en la infancia. Las reacciones locales y sistémicas leves autolimitadas en las primeras $24\\text{-}48\\text{ horas}$ post-vacuna son la norma y no requieren alarmar a la familia ni intervenciones invasivas.",
@@ -1472,7 +1472,7 @@
   {
     "id": 50,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 18 meses acude al vacunatorio para recibir sus vacunas correspondientes (Hexavalente, Hepatitis A, Varicela y Meningococo B). Su madre refiere con temor que hace un mes el lactante presentó una crisis convulsiva tónico-clónica generalizada de 3 minutos de duración en el contexto de una faringitis aguda con fiebre de $39.5^\\circ\\text{C}$, catalogada en la urgencia como \"convulsión febril simple\". Pregunta si es seguro vacunar al niño hoy. ¿Cuál es la conducta y recomendación médica correcta?",
     "hint": "Las convulsiones febriles simples son eventos benignos de la infancia y no se asocian a daño neurológico ni a epilepsia. Si bien la fiebre post-vacunación puede gatillar una nueva convulsión febril en niños predispuestos, el riesgo de no vacunar y contraer enfermedades graves que cursan con fiebre alta (como coqueluche o varicela) es muchísimo mayor.",
@@ -1502,7 +1502,7 @@
   {
     "id": 51,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 12 meses de vida acude a su control sano. Al revisar su carnet de vacunación, usted constata que recibió la 1ª dosis de vacuna Meningocócica Recombinante Serogrupo B (Bexsero) a los 2 meses y la 2ª dosis a los 4 meses según el calendario programático. ¿A qué edad le corresponde recibir la dosis de refuerzo (3ª dosis) de esta vacuna en el PNI actual?",
     "hint": "La vacuna contra el Meningococo B se introdujo al PNI de Chile con un esquema de lactante menor de dos dosis iniciales y una dosis de refuerzo que coincide con el hito de vacunación del año y medio de vida.",
@@ -1532,7 +1532,7 @@
   {
     "id": 52,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Respecto a la inmunización contra la Poliomielitis contenida en el PNI de Chile en el año 2026, ¿cuál de las siguientes afirmaciones describe de forma correcta la formulación y la vía de administración utilizada de forma universal y exclusiva en el país para toda la población infantil?",
     "hint": "Para eliminar por completo el riesgo de poliomielitis asociada a la vacuna (parálisis flácida causada por la mutación y reversión de la cepa viral atenuada de la vacuna oral), Chile y la mayoría de los países con altas coberturas de vacunación migraron de forma definitiva al esquema de vacuna 100% inactivada e inyectable.",
@@ -1562,7 +1562,7 @@
   {
     "id": 53,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 2 meses asiste al vacunatorio privado de una clínica. Presenta una dermatitis del pañal severa con eritema confluente marcado, pápulas satélites y pequeñas erosiones sangrantes en la región perineal y glútea compatibles con una candidiasis del pañal severa sobreinfectada. Sus padres desean administrarle la vacuna oral contra el Rotavirus hoy. ¿Cuál es la conducta y precaución correcta?",
     "hint": "La dermatitis del pañal no es una contraindicación para la vacuna oral de Rotavirus. Sin embargo, dado que el virus de la vacuna se elimina por vía fecal y es un virus vivo viable, el contacto directo de las deposiciones con la piel lesionada del lactante o con las manos de los cuidadores sin higiene adecuada representa el riesgo de complicaciones cutáneas locales.",
@@ -1592,7 +1592,7 @@
   {
     "id": 54,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 18 meses acude a su control para recibir sus vacunas programáticas, incluyendo la primera dosis de la vacuna contra la Varicela (atenuada). Al revisar sus antecedentes hospitalarios, se constata que hace exactamente 4 meses recibió una transfusión de $150\\text{ ml}$ de glóbulos rojos concentrados en el contexto de una anemia aguda severa secundaria a una hemorragia digestiva. ¿Cuál es la conducta correcta respecto a la administración de la vacuna contra la Varicela hoy?",
     "hint": "Los productos sanguíneos (sangre total, glóbulos rojos concentrados, plasma, inmunoglobulinas) contienen anticuerpos preformados contra patógenos comunes (como la varicela o el sarampión). Estos anticuerpos circulantes pasivos pueden unirse y neutralizar los virus vivos de vacunas atenuadas (como Varicela o Tresvírica) antes de que estos puedan replicarse y estimular al sistema inmune del lactante. Por esto, se requiere un intervalo de espera estricto tras recibir hemoderivados.",
@@ -1622,7 +1622,7 @@
   {
     "id": 55,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "¿Contra qué tipo de manifestaciones clínicas y patógenas protege de forma específica la fracción de Poliomielitis Inactivada (VIP) contenida en la vacuna combinada Hexavalente del PNI?",
     "hint": "El poliovirus es un enterovirus que posee tres serotipos antigénicamente distintos (1, 2 y 3). La vacuna inactivada tipo Salk (VIP) incorporada en las formulaciones modernas contiene antígenos purificados muertos de los tres tipos para otorgar protección total contra la mielitis infecciosa destructora de motoneuronas.",
@@ -1652,7 +1652,7 @@
   {
     "id": 56,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un escolar de 7 años con antecedentes de esferocitosis hereditaria grave es programado para someterse a una esplenectomía total electiva en un mes más. Respecto a la indicación de inmunizaciones especiales o extras para este paciente por su condición de asplenia quirúrgica futura, ¿cuál es la conducta médica correcta?",
     "hint": "El bazo es el principal órgano linfático encargado de filtrar y depurar bacterias encapsuladas de la sangre (como Streptococcus pneumoniae, Neisseria meningitidis y Haemophilus influenzae) mediante mecanismos de opsonización y fagocitosis. Los pacientes asplénicos tienen un riesgo altísimo de sepsis fulminante por estos gérmenes, por lo que requieren \"super-inmunización\" activa profiláctica antes de perder el órgano.",
@@ -1682,7 +1682,7 @@
   {
     "id": 57,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Usted se encuentra supervisando a un estudiante que se dispone a administrar la vacuna contra la Hepatitis A a un lactante de 18 meses. Respecto a la técnica de administración correcta recomendada para este inmunógeno específico en el PNI, ¿cuál de las siguientes opciones describe la vía y el sitio anatómico adecuado?",
     "hint": "La vacuna contra la Hepatitis A es una vacuna inactivada de subunidades adsorbida en hidróxido de aluminio como adyuvante. Los adyuvantes de aluminio requieren de forma obligatoria ser inyectados en el tejido muscular profundo; su inyección superficial (subcutánea o intradérmica) se asocia a dolor severo, necrosis grasa local y formación de nódulos o abscesos estériles persistentes.",
@@ -1712,7 +1712,7 @@
   {
     "id": 58,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un lactante de 2 meses con diagnóstico prenatal de Síndrome de Down (Trisomía 21) y antecedente de canal auriculoventricular completo corregido quirúrgicamente hace un mes, se encuentra actualmente estable, afebril, con buen incremento ponderal y cursando con un cuadro leve de coriza nasal cristalina (resfrío común afebril). Sus padres asisten al CESFAM para su control de vacunas. ¿Cuál es la conducta correcta?",
     "hint": "Los niños con Síndrome de Down tienen una susceptibilidad inmunológica aumentada a infecciones bacterianas y respiratorias debido a disfunciones leves del sistema inmune y alteraciones anatómicas de la vía aérea. Las cirugías cardíacas exitosas y compensadas no impiden la inmunización; al contrario, hacen que sea urgente protegerlos.",
@@ -1742,7 +1742,7 @@
   {
     "id": 59,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Un adolescente de 14 años que cursa actualmente 8° Básico asiste al consultorio con su madre. Al revisar sus antecedentes, constata que el año anterior (cuando cursaba 7° Básico) no asistió al colegio el día de la campaña de vacunación escolar y tampoco registra la administración de la vacuna dTpa de 1° Básico por haber vivido en el extranjero en un país con esquema diferente. Respecto a la dosis de dTpa escolar omitida, ¿cuál es la conducta correcta?",
     "hint": "El principio rector de los esquemas atrasados es: \"Completar dosis pendientes con el antígeno correspondiente a la edad actual del paciente\". Los escolares adolescentes toleran perfectamente la formulación acelular (dTpa) diseñada para adultos y niños mayores de 4 a 7 años.",
@@ -1772,7 +1772,7 @@
   {
     "id": 60,
     "internado": "Pediatría",
-    "area": "Control sano",
+    "area": "Control Sano",
     "topic": "Vacunas",
     "text": "Durante un taller práctico de enfermería pediátrica, se discute la técnica de administración de vacunas intramusculares en lactantes menores de 12 meses. ¿Cuál es el sitio anatómico de punción preferido y recomendado de forma internacional y por el MINSAL para la administración de vacunas como la Hexavalente o la Neumocócica conjugada en este grupo etario, y cuál es la razón principal de esta elección?",
     "hint": "El desarrollo de la masa muscular de los lactantes pequeños está concentrado en los miembros inferiores debido a que aún no caminan ni realizan esfuerzos con el tren superior. El músculo glúteo mayor no se desarrolla significativamente hasta que se inicia la marcha de forma sostenida, y su punción precoz tiene un riesgo catastrófico para la movilidad de la extremidad.",
