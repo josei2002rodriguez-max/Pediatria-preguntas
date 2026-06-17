@@ -4,26 +4,26 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un lactante de 8 meses acude al servicio de urgencias por un cuadro de dificultad respiratoria. Al examen físico destaca una frecuencia respiratoria de $44\\text{ rpm}$, sibilancias audibles únicamente al final de la espiración con el fonendoscopio, cianosis peribucal solo durante el llanto o alimentación, y una retracción intercostal leve. Según la escala de evaluación de obstrucción bronquial del lactante utilizada en el Programa IRA de Chile (Score de Tal modificado), ¿cuál es el puntaje de este paciente y cómo se clasifica su gravedad?",
-    "hint": "Recuerda que el Score de Tal evalúa cuatro parámetros: frecuencia respiratoria (ajustada por edad $<6$ meses o $\\ge 6$ meses), sibilancias, cianosis y uso de musculatura accesoria (retracción). Cada parámetro se puntúa de $0\\text{ a }3$.",
+    "text": "Un lactante de 8 meses acude al servicio de urgencias por un cuadro de dificultad respiratoria. Al examen físico destaca una frecuencia respiratoria de 44 rpm, sibilancias audibles únicamente al final de la espiración con el fonendoscopio, cianosis peribucal solo durante el llanto o alimentación, y una retracción intercostal leve. Según la escala de evaluación de obstrucción bronquial del lactante utilizada en el Programa IRA de Chile (Score de Tal modificado), ¿cuál es el puntaje de este paciente y cómo se clasifica su gravedad?",
+    "hint": "Recuerda que el Score de Tal evalúa cuatro parámetros: frecuencia respiratoria (ajustada por edad <6 meses o ≥ 6 meses), sibilancias, cianosis y uso de musculatura accesoria (retracción). Cada parámetro se puntúa de 0 a 3.",
     "options": [
       {
-        "text": "$3\\text{ puntos}$; Obstrucción Bronquial Leve.",
+        "text": "3 puntos; Obstrucción Bronquial Leve.",
         "isCorrect": false,
-        "explanation": "Un puntaje de $3\\text{ puntos}$ clasificaría como leve, pero subestima el tiraje leve (que aporta $2\\text{ puntos}$) y la cianosis con el esfuerzo ($1\\text{ punto}$)."
+        "explanation": "Un puntaje de 3 puntos clasificaría como leve, pero subestima el tiraje leve (que aporta 2 puntos) y la cianosis con el esfuerzo (1 punto)."
       },
       {
-        "text": "$9\\text{ puntos}$; Obstrucción Bronquial Severa.",
+        "text": "9 puntos; Obstrucción Bronquial Severa.",
         "isCorrect": false,
-        "explanation": "Un puntaje de $9$ o más puntos corresponde a una obstrucción severa (requiere hospitalización inmediata), lo cual no coincide con la clínica del lactante."
+        "explanation": "Un puntaje de 9 o más puntos corresponde a una obstrucción severa (requiere hospitalización inmediata), lo cual no coincide con la clínica del lactante."
       },
       {
-        "text": "$5\\text{ puntos}$; Obstrucción Bronquial Moderada.",
+        "text": "5 puntos; Obstrucción Bronquial Moderada.",
         "isCorrect": true,
-        "explanation": "Analizando el Score de Tal modificado para un lactante de 8 meses ($\\ge 6$ meses): Frecuencia respiratoria: $44\\text{ rpm}$ equivale a $1\\text{ punto}$ (el rango de $1\\text{ punto}$ es $31\\text{-}45\\text{ rpm}$). Sibilancias: Audibles solo con fonendoscopio al final de la espiración equivale a $1\\text{ punto}$. Cianosis: Peribucal con el llanto o esfuerzo equivale a $1\\text{ punto}$. Retracción: Leve (intercostal aislada) equivale a $2\\text{ puntos}$ (el tiraje leve/intercostal da $2$, el supraesternal o xifoideo da $3$, y la ausencia da $0$ en el Tal chileno modificado). Suma total: $1 + 1 + 1 + 2 = 5\\text{ puntos}$. Un puntaje entre $5\\text{ y }8\\text{ puntos}$ se clasifica como Obstrucción Bronquial Moderada."
+        "explanation": "Analizando el Score de Tal modificado para un lactante de 8 meses (≥ 6 meses): Frecuencia respiratoria: 44 rpm equivale a 1 punto (el rango de 1 punto es 31-45 rpm). Sibilancias: Audibles solo con fonendoscopio al final de la espiración equivale a 1 punto. Cianosis: Peribucal con el llanto o esfuerzo equivale a 1 punto. Retracción: Leve (intercostal aislada) equivale a 2 puntos (el tiraje leve/intercostal da 2, el supraesternal o xifoideo da 3, y la ausencia da 0 en el Tal chileno modificado). Suma total: 1 + 1 + 1 + 2 = 5 puntos. Un puntaje entre 5 y 8 puntos se clasifica como Obstrucción Bronquial Moderada."
       },
       {
-        "text": "$7\\text{ puntos}$; Obstrucción Bronquial Moderada.",
+        "text": "7 puntos; Obstrucción Bronquial Moderada.",
         "isCorrect": false,
         "explanation": "Obtiene una suma errónea de los parámetros del Score de Tal modificado."
       }
@@ -34,8 +34,8 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Durante el control sano de un lactante de 22 meses, la madre refiere que el niño ha presentado 4 episodios de sibilancias y obstrucción bronquial en el último año, requiriendo el uso de Salbutamol inhalado. Al indagar sobre factores de riesgo, se destaca que el padre tiene diagnóstico de asma en tratamiento, el lactante tiene dermatitis atópica severa en manejo por dermatología, y en su último hemograma presentó eosinófilos del $5\\%$. Según el Índice Predictor de Asma Modificado (mAPI), ¿cuál es la probabilidad de que este lactante desarrolle asma atópica en la etapa escolar?",
-    "hint": "El API modificado es positivo si un lactante menor de 3 años presenta sibilancias recurrentes ($\\ge 4$ episodios al año) asociadas a al menos un criterio mayor o dos criterios menores.",
+    "text": "Durante el control sano de un lactante de 22 meses, la madre refiere que el niño ha presentado 4 episodios de sibilancias y obstrucción bronquial en el último año, requiriendo el uso de Salbutamol inhalado. Al indagar sobre factores de riesgo, se destaca que el padre tiene diagnóstico de asma en tratamiento, el lactante tiene dermatitis atópica severa en manejo por dermatología, y en su último hemograma presentó eosinófilos del 5%. Según el Índice Predictor de Asma Modificado (mAPI), ¿cuál es la probabilidad de que este lactante desarrolle asma atópica en la etapa escolar?",
+    "hint": "El API modificado es positivo si un lactante menor de 3 años presenta sibilancias recurrentes (≥ 4 episodios al año) asociadas a al menos un criterio mayor o dos criterios menores.",
     "options": [
       {
         "text": "Es imposible predecir el desarrollo de asma antes de los 6 años de vida de forma científica.",
@@ -43,9 +43,9 @@
         "explanation": "Es falso; el API y el mAPI son herramientas epidemiológicas y clínicas validadas internacionalmente y muy utilizadas para estimar la probabilidad de asma futura de forma muy precisa en preescolares."
       },
       {
-        "text": "La probabilidad es muy elevada (API positivo), ya que cuenta con al menos 4 episodios de sibilancias al año más dos criterios mayores (padre asmático y dermatitis atópica) y un criterio menor (eosinofilia $\\ge 4\\%$).",
+        "text": "La probabilidad es muy elevada (API positivo), ya que cuenta con al menos 4 episodios de sibilancias al año más dos criterios mayores (padre asmático y dermatitis atópica) y un criterio menor (eosinofilia ≥ 4%).",
         "isCorrect": true,
-        "explanation": "El paciente cumple de forma estricta los requisitos para un API positivo de alto riesgo: presenta sibilancias recurrentes ($\\ge 4$ episodios/año), cumple dos criterios mayores (historia de asma en alguno de los padres y dermatitis atópica confirmada) y un criterio menor (eosinofilia periférica $\\ge 4\\%$, en su caso es de $5\\%$). Un API positivo indica un riesgo de hasta $4\\text{ a }7\\text{ veces mayor}$ de desarrollar asma persistente en la edad escolar."
+        "explanation": "El paciente cumple de forma estricta los requisitos para un API positivo de alto riesgo: presenta sibilancias recurrentes (≥ 4 episodios/año), cumple dos criterios mayores (historia de asma en alguno de los padres y dermatitis atópica confirmada) y un criterio menor (eosinofilia periférica ≥ 4%, en su caso es de 5%). Un API positivo indica un riesgo de hasta 4 a 7 veces mayor de desarrollar asma persistente en la edad escolar."
       },
       {
         "text": "El mAPI solo es positivo si el lactante ha presentado neumonías bacterianas recurrentes.",
@@ -68,14 +68,14 @@
     "hint": "El diagnóstico de asma en escolares exige objetivar la obstrucción bronquial y demostrar que esta obstrucción es reversible o variable ante el uso de un beta-2 agonista de acción rápida.",
     "options": [
       {
-        "text": "Test de provocación con ejercicio en cinta ergométrica, mostrando una caída del $VEF_1$ menor al $5\\%$.",
+        "text": "Test de provocación con ejercicio en cinta ergométrica, mostrando una caída del VEF<sub>1</sub> menor al 5%.",
         "isCorrect": false,
-        "explanation": "En un test de provocación bronquial por ejercicio o metacolina, el diagnóstico de asma/hiperreactividad se sugiere por una caída del $VEF_1 \\ge 10\\text{-}15\\%$ con respecto al basal, no por una caída leve menor al $5\\%$."
+        "explanation": "En un test de provocación bronquial por ejercicio o metacolina, el diagnóstico de asma/hiperreactividad se sugiere por una caída del VEF<sub>1</sub> ≥ 10-15% con respecto al basal, no por una caída leve menor al 5%."
       },
       {
-        "text": "Espirometría basal y con prueba de broncodilatador (PBD), demostrando una limitación al flujo aéreo (relación $VEF_1/CVF < 0.80\\text{-}0.90$) y un aumento del $VEF_1 \\ge 12\\%$ con respecto al valor basal tras la inhalación de $400\\text{ mcg}$ de Salbutamol.",
+        "text": "Espirometría basal y con prueba de broncodilatador (PBD), demostrando una limitación al flujo aéreo (relación VEF<sub>1</sub>/CVF < 0.80-0.90) y un aumento del VEF<sub>1</sub> ≥ 12% con respecto al valor basal tras la inhalación de 400 mcg de Salbutamol.",
         "isCorrect": true,
-        "explanation": "La espirometría con prueba de broncodilatador es el estándar de oro para el diagnóstico de asma en mayores de 5 años. La demostración de un patrón obstructivo reversible —definido por un incremento del $VEF_1 \\ge 12\\%$ con respecto al basal (o en algunos consensos $\\ge 12\\%$ y $\\ge 200\\text{ ml}$ en adolescentes o $>12\\%$ en niños)— tras la administración de Salbutamol confirma el diagnóstico de asma de forma objetiva."
+        "explanation": "La espirometría con prueba de broncodilatador es el estándar de oro para el diagnóstico de asma en mayores de 5 años. La demostración de un patrón obstructivo reversible —definido por un incremento del VEF<sub>1</sub> ≥ 12% con respecto al basal (o en algunos consensos ≥ 12% y ≥ 200 ml en adolescentes o >12% en niños)— tras la administración de Salbutamol confirma el diagnóstico de asma de forma objetiva."
       },
       {
         "text": "Radiografía de tórax AP y lateral, demostrando hiperinsuflación y costillas horizontales.",
@@ -94,7 +94,7 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un preescolar de 4 años inicia tratamiento controlador de mantención para asma infantil con Fluticasona propionato ($100\\text{ mcg}$ cada 12 horas) por vía inhalatoria mediante inhalador de dosis medida (MDI) asociado a aerocámara con mascarilla facial. Al realizar la consejería a los cuidadores, ¿cuáles son los dos efectos adversos locales más comunes de los corticoides inhalados (co-adsorbidos en orofaringe) y qué medida profiláctica se debe indicar obligatoriamente tras cada inhalación?",
+    "text": "Un preescolar de 4 años inicia tratamiento controlador de mantención para asma infantil con Fluticasona propionato (100 mcg cada 12 horas) por vía inhalatoria mediante inhalador de dosis medida (MDI) asociado a aerocámara con mascarilla facial. Al realizar la consejería a los cuidadores, ¿cuáles son los dos efectos adversos locales más comunes de los corticoides inhalados (co-adsorbidos en orofaringe) y qué medida profiláctica se debe indicar obligatoriamente tras cada inhalación?",
     "hint": "Los corticoides inhalados que quedan retenidos en las mucosas de la boca y la garganta debido a una técnica de inhalación deficiente pueden deprimir la inmunidad celular local y causar debilidad de las cuerdas vocales por miopatía local por depósito directo del fármaco.",
     "options": [
       {
@@ -124,11 +124,11 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un escolar de 6 años consulta en el servicio de urgencia por disnea y tos seca de 4 horas de evolución tras realizar actividad física. Al examen destaca frecuencia respiratoria de $26\\text{ rpm}$, saturación de oxígeno de $95\\%$ al aire ambiente y sibilancias espiratorias bilaterales audibles al final de la espiración. El Score pulmonar o de Tal clasifica la crisis como leve-moderada. De acuerdo a las directrices de urgencia del MINSAL de Chile y las pautas GINA, ¿cuál es el tratamiento broncodilatador de rescate de primera línea indicado?",
+    "text": "Un escolar de 6 años consulta en el servicio de urgencia por disnea y tos seca de 4 horas de evolución tras realizar actividad física. Al examen destaca frecuencia respiratoria de 26 rpm, saturación de oxígeno de 95% al aire ambiente y sibilancias espiratorias bilaterales audibles al final de la espiración. El Score pulmonar o de Tal clasifica la crisis como leve-moderada. De acuerdo a las directrices de urgencia del MINSAL de Chile y las pautas GINA, ¿cuál es el tratamiento broncodilatador de rescate de primera línea indicado?",
     "hint": "La terapia de rescate de la primera hora busca lograr una rápida relajación de los músculos lisos bronquiales que están en espasmo mediante dosis repetidas y controladas de un beta-2 agonista de acción corta, prefiriéndose el uso de inhaladores de dosis medida con espaciador sobre las nebulizaciones por su mayor depósito pulmonar y menores efectos secundarios.",
     "options": [
       {
-        "text": "Iniciar nebulización continua con Salbutamol al $0.5\\%$ mezclado con suero glucosado al $10\\%$ de forma ininterrumpida por 6 horas.",
+        "text": "Iniciar nebulización continua con Salbutamol al 0.5% mezclado con suero glucosado al 10% de forma ininterrumpida por 6 horas.",
         "isCorrect": false,
         "explanation": "La nebulización continua con Salbutamol se reserva para crisis graves con riesgo vital inminente hospitalizadas que no logran ventilar lo suficiente para usar aerocámara; además, se diluye en solución fisiológica (no suero glucosado) y no se realiza por 6 horas continuas de rutina."
       },
@@ -138,9 +138,9 @@
         "explanation": "La adrenalina intramuscular es el fármaco de elección para la anafilaxia con broncoespasmo severo, pero no se indica de rutina en crisis asmáticas típicas leves o moderadas aisladas."
       },
       {
-        "text": "Administrar Salbutamol mediante inhalador de dosis medida (MDI) con espaciador (aerocámara), aplicando 2 a 4 puffs (de $100\\text{ mcg}$ cada puff) cada 20 minutos por un total de 3 veces consecutivas (terapia de rescate o crisis de la primera hora), evaluando la respuesta clínica al cabo de la hora.",
+        "text": "Administrar Salbutamol mediante inhalador de dosis medida (MDI) con espaciador (aerocámara), aplicando 2 a 4 puffs (de 100 mcg cada puff) cada 20 minutos por un total de 3 veces consecutivas (terapia de rescate o crisis de la primera hora), evaluando la respuesta clínica al cabo de la hora.",
         "isCorrect": true,
-        "explanation": "El protocolo de rescate para la crisis asmática leve-moderada en Chile consiste en administrar Salbutamol por vía inhalatoria (MDI con aerocámara) a dosis de $2\\text{-}4\\text{ puffs}$ (en lactantes se calcula como $2\\text{ puffs}$ de rutina, en niños mayores hasta $4\\text{-}6\\text{ puffs}$) cada 20 minutos durante la primera hora. Esta pauta optimiza el reclutamiento de receptores beta-2 bronquiales para yugular el broncoespasmo de forma segura y ambulatoria."
+        "explanation": "El protocolo de rescate para la crisis asmática leve-moderada en Chile consiste en administrar Salbutamol por vía inhalatoria (MDI con aerocámara) a dosis de 2-4 puffs (en lactantes se calcula como 2 puffs de rutina, en niños mayores hasta 4-6 puffs) cada 20 minutos durante la primera hora. Esta pauta optimiza el reclutamiento de receptores beta-2 bronquiales para yugular el broncoespasmo de forma segura y ambulatoria."
       },
       {
         "text": "Indicar amoxicilina oral por 7 días y dar de alta inmediata sin inhaladores.",
@@ -158,22 +158,22 @@
     "hint": "Los corticoides sistémicos orales son indispensables en las crisis asmáticas moderadas a graves. Un ciclo corto de pocos días (típicamente hasta 5 días) es altamente seguro, no produce supresión suprarrenal relevante y puede ser suspendido de forma brusca sin necesidad de descensos paulatinos.",
     "options": [
       {
-        "text": "Prednisona (o Prednisolona) por vía oral a dosis de $1\\text{ a }2\\text{ mg/kg/día}$ (máximo $40\\text{ a }60\\text{ mg/día}$ de dosis total diaria), administrada de forma única por las mañanas por un periodo corto de 3 a 5 días, sin necesidad de realizar una disminución progresiva de la dosis (pauta de descenso) tras finalizar el ciclo corto.",
+        "text": "Prednisona (o Prednisolona) por vía oral a dosis de 1 a 2 mg/kg/día (máximo 40 a 60 mg/día de dosis total diaria), administrada de forma única por las mañanas por un periodo corto de 3 a 5 días, sin necesidad de realizar una disminución progresiva de la dosis (pauta de descenso) tras finalizar el ciclo corto.",
         "isCorrect": true,
-        "explanation": "La Prednisona oral a dosis de $1\\text{-}2\\text{ mg/kg/día}$ administrada por 3 a 5 días es el estándar de oro para el manejo de la inflamación de la vía aérea en crisis de asma moderadas a graves. Los ciclos cortos de menos de 7 a 10 días no bloquean de forma permanente el eje hipotálamo-hipófisis-suprarrenal, por lo que se suspenden de forma directa sin necesidad de pautas de disminución gradual."
+        "explanation": "La Prednisona oral a dosis de 1-2 mg/kg/día administrada por 3 a 5 días es el estándar de oro para el manejo de la inflamación de la vía aérea en crisis de asma moderadas a graves. Los ciclos cortos de menos de 7 a 10 días no bloquean de forma permanente el eje hipotálamo-hipófisis-suprarrenal, por lo que se suspenden de forma directa sin necesidad de pautas de disminución gradual."
       },
       {
-        "text": "Dexametasona oral a dosis de $2\\text{ mg/kg/día}$ dividida cada 6 horas por un periodo de 14 días.",
+        "text": "Dexametasona oral a dosis de 2 mg/kg/día dividida cada 6 horas por un periodo de 14 días.",
         "isCorrect": false,
-        "explanation": "La Dexametasona a dosis de $2\\text{ mg/kg/día}$ por 14 días es excesiva, se asocia a marcados efectos colaterales esteroidales (síndrome de Cushing iatrogénico, hipertensión, hiperglicemia) y exigiría un descenso lento obligado del fármaco."
+        "explanation": "La Dexametasona a dosis de 2 mg/kg/día por 14 días es excesiva, se asocia a marcados efectos colaterales esteroidales (síndrome de Cushing iatrogénico, hipertensión, hiperglicemia) y exigiría un descenso lento obligado del fármaco."
       },
       {
-        "text": "Indicar Fluticasona inhalada en dosis única de rescate de $5000\\text{ mcg}$ vía oral para tragar.",
+        "text": "Indicar Fluticasona inhalada en dosis única de rescate de 5000 mcg vía oral para tragar.",
         "isCorrect": false,
         "explanation": "Los corticoides inhalados como la fluticasona no están formulados ni aprobados para ser deglutidos/tragados en dosis orales de rescate masivo y carecen de la eficacia sistémica requerida en crisis agudas."
       },
       {
-        "text": "Hidrocortisona intravenosa a dosis de $50\\text{ mg/kg}$ cada 4 horas de forma universal.",
+        "text": "Hidrocortisona intravenosa a dosis de 50 mg/kg cada 4 horas de forma universal.",
         "isCorrect": false,
         "explanation": "La vía intravenosa con hidrocortisona se reserva de forma estricta para crisis graves hospitalizadas con intolerancia oral; pinchar y canalizar a un niño con crisis moderada que tolera la vía oral es doloroso y aumenta la agitación."
       }
@@ -193,7 +193,7 @@
         "explanation": "Depender exclusivamente de broncodilatadores SABA sin corticoide controlador es insuficiente en pacientes con síntomas frecuentes, ya que no trata la inflamación crónica subyacente y se asocia a mayor riesgo de crisis graves por remodelamiento de la vía aérea."
       },
       {
-        "text": "Corticoides Inhalados (ICS) a dosis bajas de forma diaria (por ejemplo, Fluticasona propionato $100\\text{ mcg/día}$ o Budesonida $200\\text{ mcg/día}$ administrados en dos dosis diarias), con el uso de Salbutamol SOS de rescate ante crisis.",
+        "text": "Corticoides Inhalados (ICS) a dosis bajas de forma diaria (por ejemplo, Fluticasona propionato 100 mcg/día o Budesonida 200 mcg/día administrados en dos dosis diarias), con el uso de Salbutamol SOS de rescate ante crisis.",
         "isCorrect": true,
         "explanation": "En menores de 5 años que requieren un tratamiento controlador regular (Paso 2 de GINA/GEMA), el corticoide inhalado (ICS) diario a dosis bajas es la terapia de primera línea preferida y de mayor eficacia demostrada. Disminuye la frecuencia y gravedad de las crisis, mejora la función pulmonar y reduce la mortalidad. Se mantiene el Salbutamol solo de forma sintomática SOS."
       },
@@ -214,8 +214,8 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un preescolar de 5 años es traído a urgencias con una crisis asmática severa (Score pulmonar de $9\\text{ puntos}$, retracción costal generalizada marcada, frecuencia respiratoria de $48\\text{ rpm}$ y saturación de oxígeno de $91\\%$ al aire ambiente). Se inicia oxigenoterapia. Respecto a la administración de Bromuro de Ipratropio nebulizado o inhalado durante la terapia de rescate de la primera hora, ¿cuál es la indicación correcta y cuál es su beneficio clínico?",
-    "hint": "Este fármaco anticolinérgico bloquea los receptores muscarínicos $M_3$ en el músculo liso bronquial, inhibiendo el tono vagal bronco-constrictor. Su combinación con un beta-2 agonista ataca el broncoespasmo por dos vías fisiológicas totalmente distintas de forma simultánea.",
+    "text": "Un preescolar de 5 años es traído a urgencias con una crisis asmática severa (Score pulmonar de 9 puntos, retracción costal generalizada marcada, frecuencia respiratoria de 48 rpm y saturación de oxígeno de 91% al aire ambiente). Se inicia oxigenoterapia. Respecto a la administración de Bromuro de Ipratropio nebulizado o inhalado durante la terapia de rescate de la primera hora, ¿cuál es la indicación correcta y cuál es su beneficio clínico?",
+    "hint": "Este fármaco anticolinérgico bloquea los receptores muscarínicos M<sub>3</sub> en el músculo liso bronquial, inhibiendo el tono vagal bronco-constrictor. Su combinación con un beta-2 agonista ataca el broncoespasmo por dos vías fisiológicas totalmente distintas de forma simultánea.",
     "options": [
       {
         "text": "Está contraindicado en menores de 12 años por riesgo de glaucoma agudo pediátrico bilateral.",
@@ -223,14 +223,14 @@
         "explanation": "El ipratropio es seguro en pediatría; el riesgo de glaucoma es despreciable si se utiliza una adecuada técnica inhalatoria con aerocámara (se debe lavar la cara si se usa mascarilla para evitar el contacto ocular directo del aerosol)."
       },
       {
-        "text": "Solo se administra si el paciente presenta fiebre alta concomitante mayor a $39.0^\\circ\\text{C}$.",
+        "text": "Solo se administra si el paciente presenta fiebre alta concomitante mayor a 39.0°C.",
         "isCorrect": false,
         "explanation": "La indicación depende estrictamente de la gravedad de la obstrucción bronquial (crisis moderada-severa), independientemente de si hay o no fiebre o infección concomitante."
       },
       {
         "text": "Se debe administrar de forma combinada con el Salbutamol durante las primeras inhalaciones de rescate de la primera hora, ya que el bloqueo colinérgico del ipratropio produce una broncodilatación sinérgica y aditiva con la estimulación beta-2 del Salbutamol, reduciendo significativamente las tasas de hospitalización y mejorando la función pulmonar en crisis moderadas-severas.",
         "isCorrect": true,
-        "explanation": "El Bromuro de Ipratropio (anticolinérgico) tiene indicación formal de coadministración con el Salbutamol en las crisis asmáticas moderadas a graves (o crisis refractarias) en la primera hora de manejo de urgencia ($2\\text{ puffs}$ de ipratropio $20\\text{ mcg}$ cada puff, o nebulizado combinado con salbutamol cada 20 minutos por 3 dosis). Se ha demostrado que reduce de forma muy significativa el porcentaje de hospitalización en cuidados críticos."
+        "explanation": "El Bromuro de Ipratropio (anticolinérgico) tiene indicación formal de coadministración con el Salbutamol en las crisis asmáticas moderadas a graves (o crisis refractarias) en la primera hora de manejo de urgencia (2 puffs de ipratropio 20 mcg cada puff, o nebulizado combinado con salbutamol cada 20 minutos por 3 dosis). Se ha demostrado que reduce de forma muy significativa el porcentaje de hospitalización en cuidados críticos."
       },
       {
         "text": "Se debe administrar como monoterapia única reemplazando por completo al Salbutamol para evitar la taquipnea.",
@@ -244,13 +244,13 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un escolar de 8 años con crisis asmática severa persiste con tiraje generalizado severo, sibilancias inspiratorias y espiratorias continuas a pesar de haber recibido de forma prolija la terapia de rescate de la primera hora (Salbutamol + Bromuro de Ipratropio) y Dexametasona endovenosa. Satura $91\\%$ con oxígeno por mascarilla. El equipo de la UCIP decide administrar Sulfato de Magnesio intravenoso. ¿Cuál es la dosificación y el mecanismo de acción de este fármaco de rescate en el asma refractaria?",
+    "text": "Un escolar de 8 años con crisis asmática severa persiste con tiraje generalizado severo, sibilancias inspiratorias y espiratorias continuas a pesar de haber recibido de forma prolija la terapia de rescate de la primera hora (Salbutamol + Bromuro de Ipratropio) y Dexametasona endovenosa. Satura 91% con oxígeno por mascarilla. El equipo de la UCIP decide administrar Sulfato de Magnesio intravenoso. ¿Cuál es la dosificación y el mecanismo de acción de este fármaco de rescate en el asma refractaria?",
     "hint": "Este ion actúa de forma parecida a un bloqueador de los canales de calcio en el músculo liso. Su inyección debe ser lenta y controlada (en 20-30 minutos) bajo estricta monitorización de la presión arterial y los reflejos osteotendinosos por riesgo de hipotensión y debilidad muscular generalizada.",
     "options": [
       {
-        "text": "Dosis de $2\\text{ gramos/kg}$ en bolo rápido endovenoso directo; actúa estimulando los receptores nicotínicos del diafragma de forma refleja.",
+        "text": "Dosis de 2 gramos/kg en bolo rápido endovenoso directo; actúa estimulando los receptores nicotínicos del diafragma de forma refleja.",
         "isCorrect": false,
-        "explanation": "Una dosis de $2\\text{ g/kg}$ en bolo directo es masivamente tóxica y letal; causaría paro cardíaco en diástole e hipotensión profunda mortal de forma inmediata. La dosis máxima absoluta es de $2\\text{ gramos}$ de dosis total de adulto."
+        "explanation": "Una dosis de 2 g/kg en bolo directo es masivamente tóxica y letal; causaría paro cardíaco en diástole e hipotensión profunda mortal de forma inmediata. La dosis máxima absoluta es de 2 gramos de dosis total de adulto."
       },
       {
         "text": "Está estrictamente contraindicado en escolares por riesgo de provocar ceguera cortical transitoria iatrogénica de forma inmediata.",
@@ -258,12 +258,12 @@
         "explanation": "No causa ceguera; es un fármaco ampliamente respaldado por las guías GINA y nacionales como seguro de administrar bajo monitorización clínica estrecha."
       },
       {
-        "text": "Dosis de $25\\text{ a }50\\text{ mg/kg}$ por vía intravenosa, administrada en infusión lenta en un periodo de 20 minutos; actúa bloqueando los canales de calcio dependientes de voltaje en el músculo liso bronquial, reduciendo la entrada de calcio celular y provocando una potente relajación bronquial.",
+        "text": "Dosis de 25 a 50 mg/kg por vía intravenosa, administrada en infusión lenta en un periodo de 20 minutos; actúa bloqueando los canales de calcio dependientes de voltaje en el músculo liso bronquial, reduciendo la entrada de calcio celular y provocando una potente relajación bronquial.",
         "isCorrect": true,
-        "explanation": "El Sulfato de Magnesio ($MgSO_4$) intravenoso en dosis de $25\\text{-}50\\text{ mg/kg}$ (máximo $2\\text{ g}$) infundido en 20 minutos es una terapia adyuvante muy eficaz y segura para la crisis asmática severa refractaria a la primera línea en urgencia/UCIP. Relaja el músculo liso bronquial por antagonismo competitivo del calcio, estabilizando al paciente y reduciendo la necesidad de ventilación mecánica invasiva."
+        "explanation": "El Sulfato de Magnesio (MgSO<sub>4</sub>) intravenoso en dosis de 25-50 mg/kg (máximo 2 g) infundido en 20 minutos es una terapia adyuvante muy eficaz y segura para la crisis asmática severa refractaria a la primera línea en urgencia/UCIP. Relaja el músculo liso bronquial por antagonismo competitivo del calcio, estabilizando al paciente y reduciendo la necesidad de ventilación mecánica invasiva."
       },
       {
-        "text": "Dosis de $1\\text{ mg/kg}$ por vía oral; actúa disminuyendo la síntesis de inmunoglobulina E de forma central en el bazo.",
+        "text": "Dosis de 1 mg/kg por vía oral; actúa disminuyendo la síntesis de inmunoglobulina E de forma central en el bazo.",
         "isCorrect": false,
         "explanation": "El sulfato de magnesio no tiene absorción útil por vía oral para la broncodilatación aguda ni actúa a nivel de la IgE esplénica."
       }
@@ -285,7 +285,7 @@
       {
         "text": "Lactante de 14 meses: inhalador de dosis medida (MDI) con aerocámara (espaciador) de volumen adecuado asociado a mascarilla facial hermética. Escolar de 8 años: inhalador de dosis medida (MDI) con aerocámara (espaciador) utilizando boquilla (sin mascarilla), o un inhalador de polvo seco (DPI) si el escolar es capaz de realizar una inspiración profunda sostenida de forma coordinada.",
         "isCorrect": true,
-        "explanation": "En menores de 3 a 4 años, el MDI exige el uso de aerocámara con mascarilla facial que cubra nariz y boca de forma hermética para asegurar el depósito respiratorio pasivo. En mayores de 4-5 años, se debe migrar de la mascarilla a la boquilla directo en la boca, ya que la nariz actúa como un filtro natural que retiene hasta el $50\\%$ de las partículas del fármaco. Los inhaladores de polvo seco (DPI) son excelentes alternativas en escolares de $\\ge 6\\text{-}8$ años que ya logran un flujo inspiratorio rápido y sostenido ($>60\\text{ L/min}$)."
+        "explanation": "En menores de 3 a 4 años, el MDI exige el uso de aerocámara con mascarilla facial que cubra nariz y boca de forma hermética para asegurar el depósito respiratorio pasivo. En mayores de 4-5 años, se debe migrar de la mascarilla a la boquilla directo en la boca, ya que la nariz actúa como un filtro natural que retiene hasta el 50% de las partículas del fármaco. Los inhaladores de polvo seco (DPI) son excelentes alternativas en escolares de ≥ 6-8 años que ya logran un flujo inspiratorio rápido y sostenido (>60 L/min)."
       },
       {
         "text": "Ambos pacientes deben usar de forma universal y obligatoria inhaladores de polvo seco (DPI) directo sin espaciador.",
@@ -340,7 +340,7 @@
       {
         "text": "Sibilancias que inician de forma precoz en el primer año de vida, típicamente asociadas a infecciones virales agudas, se relacionan con factores de riesgo como la exposición a tabaco intradomiciliario, prematurez o menor calibre de la vía aérea, y que característicamente desaparecen (resuelven espontáneamente) hacia los 3 años de edad, cursando con niveles de IgE normales y sin antecedentes familiares de atopia.",
         "isCorrect": true,
-        "explanation": "Los Sibilantes Transitorios representan el fenotipo más frecuente en lactantes pequeños ($60\\%$ de los sibilantes de Tucson). Tienen vías aéreas más estrechas al nacer de forma no malformativa. Su obstrucción es facilitada por el tabaquismo materno en el embarazo o tabaquismo ambiental pasivo. Característicamente se recuperan y dejan de silbar antes de los 3 años de vida, cursando sin marcadores de alergia ni antecedentes personales de atopia."
+        "explanation": "Los Sibilantes Transitorios representan el fenotipo más frecuente en lactantes pequeños (60% de los sibilantes de Tucson). Tienen vías aéreas más estrechas al nacer de forma no malformativa. Su obstrucción es facilitada por el tabaquismo materno en el embarazo o tabaquismo ambiental pasivo. Característicamente se recuperan y dejan de silbar antes de los 3 años de vida, cursando sin marcadores de alergia ni antecedentes personales de atopia."
       },
       {
         "text": "Sibilancias que inician después de los 3 años de vida, se asocian de forma severa a dermatitis atópica y persisten de por vida hasta la adultez.",
@@ -365,17 +365,17 @@
     "area": "Pediatría",
     "topic": "Asma",
     "text": "Durante el control de asma de un escolar de 9 años en tratamiento con Fluticasona de mantención, usted evalúa el nivel de control clínico del asma utilizando los cuatro criterios estándar propuestos por la GINA. Al interrogar a los cuidadores sobre el último mes, estos refieren: síntomas diurnos 3 veces por semana, ningún despertar nocturno por asma, uso de Salbutamol de rescate 3 veces por semana, y ninguna limitación de su actividad física normal. ¿Cómo se clasifica el nivel de control de este escolar?",
-    "hint": "Los cuatro parámetros de GINA para evaluar el control del asma en las últimas 4 semanas son: 1) Síntomas diurnos $>2$ veces/semana, 2) Despertares nocturnos por asma, 3) Uso de SABA de rescate $>2$ veces/semana, y 4) Limitación de la actividad.",
+    "hint": "Los cuatro parámetros de GINA para evaluar el control del asma en las últimas 4 semanas son: 1) Síntomas diurnos >2 veces/semana, 2) Despertares nocturnos por asma, 3) Uso de SABA de rescate >2 veces/semana, y 4) Limitación de la actividad.",
     "options": [
       {
         "text": "Asma Bien Controlada.",
         "isCorrect": false,
-        "explanation": "Para clasificarse como bien controlada, el paciente no debe presentar ninguno de los criterios ($0$ criterios); en este caso tiene síntomas diurnos y uso de rescate frecuentes."
+        "explanation": "Para clasificarse como bien controlada, el paciente no debe presentar ninguno de los criterios (0 criterios); en este caso tiene síntomas diurnos y uso de rescate frecuentes."
       },
       {
         "text": "Asma Parcialmente Controlada.",
         "isCorrect": true,
-        "explanation": "Según la tabla de evaluación del control de asma de GINA: Bien controlada: Ninguno de los criterios presentes ($0$ de los 4 criterios). Parcialmente controlada: Presencia de $1\\text{ o }2$ de los criterios en el último mes. No controlada: Presencia de $3\\text{ o }4$ de los criterios en el último mes. Análisis del paciente: Presenta síntomas diurnos $>2$ veces/semana (tiene 3 veces, SÍ cumple) y uso de SABA de rescate $>2$ veces/semana (tiene 3 veces, SÍ cumple). Al presentar $2$ criterios de alteración, el paciente se clasifica formalmente como asma Parcialmente Controlada."
+        "explanation": "Según la tabla de evaluación del control de asma de GINA: Bien controlada: Ninguno de los criterios presentes (0 de los 4 criterios). Parcialmente controlada: Presencia de 1 o 2 de los criterios en el último mes. No controlada: Presencia de 3 o 4 de los criterios en el último mes. Análisis del paciente: Presenta síntomas diurnos >2 veces/semana (tiene 3 veces, SÍ cumple) y uso de SABA de rescate >2 veces/semana (tiene 3 veces, SÍ cumple). Al presentar 2 criterios de alteración, el paciente se clasifica formalmente como asma Parcialmente Controlada."
       },
       {
         "text": "Asma en fase de Remisión completa.",
@@ -385,7 +385,7 @@
       {
         "text": "Asma No Controlada (Incontrolada).",
         "isCorrect": false,
-        "explanation": "No controlada requiere la presencia de $3\\text{ o }4$ criterios de descontrol en el último mes; el escolar no presenta despertares nocturnos ni limitación de la actividad, por lo que solo cumple 2."
+        "explanation": "No controlada requiere la presencia de 3 o 4 criterios de descontrol en el último mes; el escolar no presenta despertares nocturnos ni limitación de la actividad, por lo que solo cumple 2."
       }
     ]
   },
@@ -403,7 +403,7 @@
         "explanation": "Duplicar de forma aislada e intermitente el corticoide de mantención nocturno no previene de forma específica el espasmo físico mecánico agudo inmediato del BIE diurno."
       },
       {
-        "text": "Administrar un bolo rápido de prednisona oral de $40\\text{ mg}$ antes de cada partido de fútbol.",
+        "text": "Administrar un bolo rápido de prednisona oral de 40 mg antes de cada partido de fútbol.",
         "isCorrect": false,
         "explanation": "El uso crónico e intermitente de corticoides sistémicos (prednisona) antes de esfuerzos rutinarios causa efectos adversos sistémicos severos graves y es un sobretratamiento inadecuado para el BIE."
       },
@@ -413,9 +413,9 @@
         "explanation": "La restricción física permanente está contraindicada; el objetivo del tratamiento del asma pediátrico es lograr que el niño lleve una vida normal, incluido el deporte escolar; prohibir el ejercicio daña su desarrollo y calidad de vida de forma injustificada."
       },
       {
-        "text": "Administrar de forma preventiva 2 puffs de Salbutamol ($200\\text{ mcg}$ totales) de 10 a 15 minutos antes de iniciar la actividad física, lo cual bloquea de forma muy eficaz la respuesta bronco-constrictora refleja por frío o esfuerzo físico.",
+        "text": "Administrar de forma preventiva 2 puffs de Salbutamol (200 mcg totales) de 10 a 15 minutos antes de iniciar la actividad física, lo cual bloquea de forma muy eficaz la respuesta bronco-constrictora refleja por frío o esfuerzo físico.",
         "isCorrect": true,
-        "explanation": "La indicación clásica de primera línea para prevenir el broncoespasmo inducido por ejercicio (BIE) en niños asmáticos es inhalar $2\\text{ puffs}$ de un SABA (Salbutamol) de 10 a 15 minutos antes de iniciar el ejercicio. Esto confiere una potente broncoprotección local que previene el espasmo por aproximadamente 2 a 3 horas, permitiendo al escolar realizar actividad física normal de forma segura y saludable."
+        "explanation": "La indicación clásica de primera línea para prevenir el broncoespasmo inducido por ejercicio (BIE) en niños asmáticos es inhalar 2 puffs de un SABA (Salbutamol) de 10 a 15 minutos antes de iniciar el ejercicio. Esto confiere una potente broncoprotección local que previene el espasmo por aproximadamente 2 a 3 horas, permitiendo al escolar realizar actividad física normal de forma segura y saludable."
       }
     ]
   },
@@ -470,7 +470,7 @@
       {
         "text": "Refleja la presencia de una inflamación de la vía aérea de tipo T2 o eosinofílica (alérgica) mediada por citoquinas como la IL-4 y la IL-13, siendo un excelente predictor de una buena respuesta terapéutica clínica al inicio de corticoides inhalados (ICS) y una herramienta útil para monitorizar la adherencia al tratamiento.",
         "isCorrect": true,
-        "explanation": "Un nivel de FeNO elevado ($>20\\text{-}25\\text{ ppb}$ en niños) confirma la presencia de una inflamación de la vía aérea de base eosinofílica (alérgica/Type 2). Al indicar que el sustrato inflamatorio es predominantemente celular y sensible a esteroides, predice con excelente sensibilidad que el paciente responderá de forma magnífica al tratamiento de mantención con corticoides inhalados (ICS) y disminuye el empirismo."
+        "explanation": "Un nivel de FeNO elevado (>20-25 ppb en niños) confirma la presencia de una inflamación de la vía aérea de base eosinofílica (alérgica/Type 2). Al indicar que el sustrato inflamatorio es predominantemente celular y sensible a esteroides, predice con excelente sensibilidad que el paciente responderá de forma magnífica al tratamiento de mantención con corticoides inhalados (ICS) y disminuye el empirismo."
       },
       {
         "text": "Es un hallazgo normal y fisiológico en todos los recién nacidos prematuros que descarta asma.",
@@ -484,7 +484,7 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un escolar de 8 años con diagnóstico de asma asiste a control mensual de seguimiento. Actualmente se encuentra en Paso 2 de GINA recibiendo Fluticasona $100\\text{ mcg/día}$ inhalada de mantención de forma regular. Los cuidadores refieren que el paciente persiste con síntomas diurnos diarios, despertares nocturnos 2 veces por semana por tos espasmódica, y uso frecuente de Salbutamol de rescate. Ante un paciente con asma no controlada (incontrolada), ¿cuál es la conducta secuencial prioritaria recomendada por las guías GINA y GEMA antes de decidir \"escalar\" el tratamiento (subir de paso o dosis)?",
+    "text": "Un escolar de 8 años con diagnóstico de asma asiste a control mensual de seguimiento. Actualmente se encuentra en Paso 2 de GINA recibiendo Fluticasona 100 mcg/día inhalada de mantención de forma regular. Los cuidadores refieren que el paciente persiste con síntomas diurnos diarios, despertares nocturnos 2 veces por semana por tos espasmódica, y uso frecuente de Salbutamol de rescate. Ante un paciente con asma no controlada (incontrolada), ¿cuál es la conducta secuencial prioritaria recomendada por las guías GINA y GEMA antes de decidir \"escalar\" el tratamiento (subir de paso o dosis)?",
     "hint": "La causa más frecuente de \"falla del tratamiento\" del asma en la infancia no es la resistencia biológica a los medicamentos, sino el uso incorrecto de los inhaladores (técnica deficiente como no sellar la mascarilla o no agitar el MDI) o el olvido de las dosis diarias por la familia.",
     "options": [
       {
@@ -533,7 +533,7 @@
         "explanation": "No actúa a nivel del moco por lisis de la proteína CFTR (la cual se asocia a la patogenia de la Fibrosis Quística, no al asma bronquial alérgica común)."
       },
       {
-        "text": "Anticuerpo monoclonal IgG1 humanizado que se une de forma selectiva a la IgE libre circulante en el suero, impidiendo su unión a los receptores de alta afinidad (Fc$\\varepsilon$RI) expresados en la membrana de los mastocitos y basófilos, bloqueando de esta forma la degranulación y la liberación de mediadores inflamatorios alérgicos.",
+        "text": "Anticuerpo monoclonal IgG1 humanizado que se une de forma selectiva a la IgE libre circulante en el suero, impidiendo su unión a los receptores de alta afinidad (FcεRI) expresados en la membrana de los mastocitos y basófilos, bloqueando de esta forma la degranulación y la liberación de mediadores inflamatorios alérgicos.",
         "isCorrect": true,
         "explanation": "El Omalizumab (Xolair) actúa secuestrando la IgE libre circulante, reduciendo drásticamente sus niveles plasmáticos y previniendo la cascada de degranulación de mastocitos que gatilla el broncoespasmo agudo alérgico ante alérgenos del ambiente en pacientes de Paso 5 de GINA con asma severa alérgica demostrada."
       }
@@ -544,8 +544,8 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un preescolar de 3 años ingresa a la urgencia por una crisis de asma moderada. Se inicia el protocolo de rescate con Salbutamol MDI ($2\\text{ puffs}$ cada 20 minutos por 3 veces). A los 40 minutos de iniciada la terapia, el interno de medicina controla los signos vitales del paciente, destacando una frecuencia cardíaca de $152\\text{ lpm}$ asociada a temblor leve de extremidades, pero el menor está activo, rosado, conversando bien y respirando con menor esfuerzo. Respecto a estos hallazgos del examen físico, ¿cuál es el análisis fisiológico y terapéutico correcto?",
-    "hint": "Los receptores beta-2 adrenérgicos son predominantes en los bronquios, pero no son $100\\%$ exclusivos. Al administrar dosis elevadas de Salbutamol, parte del fármaco pasa al torrente sanguíneo, estimulando de forma simpaticomimética directa al corazón (aumento de la fuerza y frecuencia del latido) y al músculo esquelético (temblores).",
+    "text": "Un preescolar de 3 años ingresa a la urgencia por una crisis de asma moderada. Se inicia el protocolo de rescate con Salbutamol MDI (2 puffs cada 20 minutos por 3 veces). A los 40 minutos de iniciada la terapia, el interno de medicina controla los signos vitales del paciente, destacando una frecuencia cardíaca de 152 lpm asociada a temblor leve de extremidades, pero el menor está activo, rosado, conversando bien y respirando con menor esfuerzo. Respecto a estos hallazgos del examen físico, ¿cuál es el análisis fisiológico y terapéutico correcto?",
+    "hint": "Los receptores beta-2 adrenérgicos son predominantes en los bronquios, pero no son 100% exclusivos. Al administrar dosis elevadas de Salbutamol, parte del fármaco pasa al torrente sanguíneo, estimulando de forma simpaticomimética directa al corazón (aumento de la fuerza y frecuencia del latido) y al músculo esquelético (temblores).",
     "options": [
       {
         "text": "El paciente presenta una sobredosis letal de Salbutamol; se debe suspender toda terapia inhalatoria e iniciar diálisis de urgencia inmediata de forma obligatoria.",
@@ -555,7 +555,7 @@
       {
         "text": "La taquicardia severa confirma de forma absoluta una miocarditis viral oculta; requiere punción pericárdica inmediata.",
         "isCorrect": false,
-        "explanation": "La taquicardia de $152\\text{ lpm}$ es un efecto secundario esperable y común post-salbutamol y no confirma una miocarditis viral; realizar una punción pericárdica a ciegas es un error sumamente grave y iatrogénico."
+        "explanation": "La taquicardia de 152 lpm es un efecto secundario esperable y común post-salbutamol y no confirma una miocarditis viral; realizar una punción pericárdica a ciegas es un error sumamente grave y iatrogénico."
       },
       {
         "text": "El temblor se asocia de forma patognomónica a meningitis neumocócica en fase de degranulación.",
@@ -620,7 +620,7 @@
       {
         "text": "Síndrome Bronquial Obstructivo Recurrente del Lactante (SBOR), definido por la presencia de tres o más episodios de obstrucción bronquial (sibilancias) documentados por un profesional de la salud en un lactante menor de 2 años.",
         "isCorrect": true,
-        "explanation": "En Chile, el SBO recurrente del lactante (SBOR) es la clasificación sindromática oficial reservada para lactantes menores de 2 años que han presentado $\\ge 3$ episodios de obstrucción bronquial aguda documentados por médico en un año. Esta clasificación activa de inmediato el ingreso al programa de control IRA de su consultorio, permitiendo iniciar terapia controladora/preventiva si corresponde y programar su seguimiento."
+        "explanation": "En Chile, el SBO recurrente del lactante (SBOR) es la clasificación sindromática oficial reservada para lactantes menores de 2 años que han presentado ≥ 3 episodios de obstrucción bronquial aguda documentados por médico en un año. Esta clasificación activa de inmediato el ingreso al programa de control IRA de su consultorio, permitiendo iniciar terapia controladora/preventiva si corresponde y programar su seguimiento."
       },
       {
         "text": "Neumonía bacteriana obstructiva recurrente.",
@@ -634,7 +634,7 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un escolar de 8 años con diagnóstico de asma en tratamiento regular con Fluticasona $100\\text{ mcg/día}$ de mantención (dosis bajas de ICS) persiste parcialmente controlado en el último mes. Se descartan de forma minuciosa problemas de mala adherencia, técnica inhalatoria incorrecta o factores ambientales perjudiciales en el hogar. Según las guías GINA para escolares de 6 a 11 años, ¿cuál es la conducta terapéutica de escalación preferida y recomendada de primera línea en este Paso 3 de GINA?",
+    "text": "Un escolar de 8 años con diagnóstico de asma en tratamiento regular con Fluticasona 100 mcg/día de mantención (dosis bajas de ICS) persiste parcialmente controlado en el último mes. Se descartan de forma minuciosa problemas de mala adherencia, técnica inhalatoria incorrecta o factores ambientales perjudiciales en el hogar. Según las guías GINA para escolares de 6 a 11 años, ¿cuál es la conducta terapéutica de escalación preferida y recomendada de primera línea en este Paso 3 de GINA?",
     "hint": "La terapia combinada de mantención de primera elección en el escolar que no se controla con dosis bajas de ICS esteroide solo consiste en asociar un broncodilatador de larga duración que actúe de forma sinérgica manteniéndolo expandido, sin descuidar el control antiinflamatorio básico.",
     "options": [
       {
@@ -683,9 +683,9 @@
         "explanation": "El asma infantil común no produce insuficiencia pancreática exocrina ni deposiciones de esteatorrea grasa maloliente ni retraso del crecimiento ponderal tan marcado asociado a sudor salado patológico característico."
       },
       {
-        "text": "Fibrosis Quística (FQ); se confirma de primera línea mediante la determinación de cloruro en el sudor (Test del Sudor confirmatorio con valores de cloro $\\ge 60\\text{ mEq/L}$ en dos muestras independientes).",
+        "text": "Fibrosis Quística (FQ); se confirma de primera línea mediante la determinación de cloruro en el sudor (Test del Sudor confirmatorio con valores de cloro ≥ 60 mEq/L en dos muestras independientes).",
         "isCorrect": true,
-        "explanation": "La combinación clínica de síntomas respiratorios obstructivos recurrentes severos refractarios (que simulan SBO/asma), desnutrición crónica con falla de medro e insuficiencia pancreática (deposiciones grasas de esteatorrea) es la presentación clásica de la Fibrosis Quística en el lactante. El Test del Sudor es el estándar de oro diagnóstico inicial; un nivel de cloro en sudor $\\ge 60\\text{ mEq/L}$ en dos muestras independientes confirma la disfunción celular del CFTR y obliga a derivación inmediata a equipo de subespecialistas."
+        "explanation": "La combinación clínica de síntomas respiratorios obstructivos recurrentes severos refractarios (que simulan SBO/asma), desnutrición crónica con falla de medro e insuficiencia pancreática (deposiciones grasas de esteatorrea) es la presentación clásica de la Fibrosis Quística en el lactante. El Test del Sudor es el estándar de oro diagnóstico inicial; un nivel de cloro en sudor ≥ 60 mEq/L en dos muestras independientes confirma la disfunción celular del CFTR y obliga a derivación inmediata a equipo de subespecialistas."
       }
     ]
   },
@@ -694,7 +694,7 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un adolescente de 16 años con antecedentes de asma grave y rinitis alérgica severa, acude a control. Al examen otorrinolaringológico se constata la presencia de múltiples masas gelatinosas pálidas bilaterales que ocluyen la fosa nasal (poliposis nasal). Refiere que hace un mes, tras ingerir una tableta de Aspirina ($500\\text{ mg}$) para el dolor de cabeza, presentó a los 30 minutos un cuadro de broncoespasmo severo de inicio súbito con urticaria y angioedema palpebral. ¿Cómo se conoce esta asociación clínica y cuál es el mecanismo fisiopatológico subyacente?",
+    "text": "Un adolescente de 16 años con antecedentes de asma grave y rinitis alérgica severa, acude a control. Al examen otorrinolaringológico se constata la presencia de múltiples masas gelatinosas pálidas bilaterales que ocluyen la fosa nasal (poliposis nasal). Refiere que hace un mes, tras ingerir una tableta de Aspirina (500 mg) para el dolor de cabeza, presentó a los 30 minutos un cuadro de broncoespasmo severo de inicio súbito con urticaria y angioedema palpebral. ¿Cómo se conoce esta asociación clínica y cuál es el mecanismo fisiopatológico subyacente?",
     "hint": "La vía metabólica de las grasas de las células de defensa se divide en dos brazos: la vía de las prostaglandinas (regulada por la COX) y la vía de los leucotrienos (regulada por la lipooxigenasa o LOX). Al bloquear de forma química la puerta de la COX, toda la materia prima se desvía en masa a la vía de la LOX, inundando los bronquios de sustancias inflamatorias destructivas de moco y espasmo.",
     "options": [
       {
@@ -705,7 +705,7 @@
       {
         "text": "Tríada de Samter (o Enfermedad Respiratoria Exacerbada por Aspirina - EREA); se produce por un desvío metabólico del ácido araquidónico secundario a la inhibición de la enzima ciclooxigenasa-1 (COX-1) inducida por la Aspirina u otros AINEs convencionales, lo que produce una sobreproducción masiva de leucotrienos de tipo cisteinilo (potentes mediadores bronco-constrictores e inflamatorios locales en la vía aérea).",
         "isCorrect": true,
-        "explanation": "La Tríada de Samter (Asma severa + Poliposis Nasal + Intolerancia a la Aspirina/AINEs) es un fenotipo muy específico de asma de inicio tardío en adolescentes y adultos jóvenes. Se debe a un desequilibrio genético de la vía de los eicosanoides: al ingerir un AINE inhibidor no selectivo de COX-1 (como aspirina, ibuprofeno o ketorolaco), se bloquea la síntesis de prostaglandina $E_2$ (broncoprotectora) y se gatilla una sobreproducción refleja de cisteinil-leucotrienos, los cuales inducen broncoespasmo masivo, edema de la mucosa y secreción de moco de forma de crisis refractaria. En estos pacientes, el uso de inhibidores de leucotrienos (Montelukast) es de gran utilidad clínica complementaria."
+        "explanation": "La Tríada de Samter (Asma severa + Poliposis Nasal + Intolerancia a la Aspirina/AINEs) es un fenotipo muy específico de asma de inicio tardío en adolescentes y adultos jóvenes. Se debe a un desequilibrio genético de la vía de los eicosanoides: al ingerir un AINE inhibidor no selectivo de COX-1 (como aspirina, ibuprofeno o ketorolaco), se bloquea la síntesis de prostaglandina E<sub>2</sub> (broncoprotectora) y se gatilla una sobreproducción refleja de cisteinil-leucotrienos, los cuales inducen broncoespasmo masivo, edema de la mucosa y secreción de moco de forma de crisis refractaria. En estos pacientes, el uso de inhibidores de leucotrienos (Montelukast) es de gran utilidad clínica complementaria."
       },
       {
         "text": "Síndrome de Gregg; secundario a infección congénita por virus de la rubéola.",
@@ -733,9 +733,9 @@
         "explanation": "No existe ninguna lisis ósea por reactividad cruzada con la vacuna BCG al nacer; es una interpretación de patogenia completamente errónea e inexistente."
       },
       {
-        "text": "Los corticoides inhalados a dosis bajas habituales de mantención pueden asociarse a una disminución transitoria, leve y no progresiva de la velocidad de crecimiento lineal en el primer año de tratamiento (aproximadamente de $0,5\\text{ a }1\\text{ cm}$ de diferencia con el grupo control), pero este efecto no es acumulativo, no progresa en los años siguientes de mantención, y diversos estudios prospectivos de seguimiento a largo plazo confirman que no altera la estatura final adulta del niño, siendo el perfil de seguridad del fármaco excelente frente al riesgo severo de daño al desarrollo y muerte por asma mal controlada.",
+        "text": "Los corticoides inhalados a dosis bajas habituales de mantención pueden asociarse a una disminución transitoria, leve y no progresiva de la velocidad de crecimiento lineal en el primer año de tratamiento (aproximadamente de 0,5 a 1 cm de diferencia con el grupo control), pero este efecto no es acumulativo, no progresa en los años siguientes de mantención, y diversos estudios prospectivos de seguimiento a largo plazo confirman que no altera la estatura final adulta del niño, siendo el perfil de seguridad del fármaco excelente frente al riesgo severo de daño al desarrollo y muerte por asma mal controlada.",
         "isCorrect": true,
-        "explanation": "Los estudios clínicos de seguridad de largo plazo (como el estudio CAMP) confirmaron que el uso continuo de dosis bajas de corticoides inhalados (como Budesonida o Fluticasona) se asocia a un retraso menor y transitorio de la velocidad de crecimiento en el primer año del inicio de la terapia (cerca de $1\\text{ cm}$ de talla final objetivo disminuida transitoria). Este efecto no progresa y no altera la talla final de adulto. Se debe educar a los padres con tranquilidad, enfatizando que el asma no controlada (con crisis recurrentes que requieran ciclos repetidos de prednisona oral) sí produce un retraso real, progresivo y permanente del crecimiento ponderal debido al gasto calórico obstructivo crónico y a la alta carga sistémica de corticoides."
+        "explanation": "Los estudios clínicos de seguridad de largo plazo (como el estudio CAMP) confirmaron que el uso continuo de dosis bajas de corticoides inhalados (como Budesonida o Fluticasona) se asocia a un retraso menor y transitorio de la velocidad de crecimiento en el primer año del inicio de la terapia (cerca de 1 cm de talla final objetivo disminuida transitoria). Este efecto no progresa y no altera la talla final de adulto. Se debe educar a los padres con tranquilidad, enfatizando que el asma no controlada (con crisis recurrentes que requieran ciclos repetidos de prednisona oral) sí produce un retraso real, progresivo y permanente del crecimiento ponderal debido al gasto calórico obstructivo crónico y a la alta carga sistémica de corticoides."
       },
       {
         "text": "Sí detienen el crecimiento de forma irreversible y permanente, por lo que su uso está estrictamente prohibido antes de los 18 años de edad de forma universal en Chile.",
@@ -784,7 +784,7 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un lactante de 15 meses asiste a control sano. Al examen físico segmentario pulmonar se constata la presencia de sibilancias localizadas y circunscritas exclusivamente en el hemitórax derecho, de carácter fijo y que no varían con los cambios de posición ni tras la administración de tres series consecutivas de Salbutamol inhalado ($4\\text{ puffs}$). Satura $95\\%$, se encuentra afebril, activo y de buen ánimo. ¿Cuál es el diagnóstico diferencial prioritario que debe descartarse de forma activa ante la presencia de sibilancias unilaterales fijas refractarias a broncodilatadores en pediatría?",
+    "text": "Un lactante de 15 meses asiste a control sano. Al examen físico segmentario pulmonar se constata la presencia de sibilancias localizadas y circunscritas exclusivamente en el hemitórax derecho, de carácter fijo y que no varían con los cambios de posición ni tras la administración de tres series consecutivas de Salbutamol inhalado (4 puffs). Satura 95%, se encuentra afebril, activo y de buen ánimo. ¿Cuál es el diagnóstico diferencial prioritario que debe descartarse de forma activa ante la presencia de sibilancias unilaterales fijas refractarias a broncodilatadores en pediatría?",
     "hint": "El asma y el SBO viral común son enfermedades inflamatorias difusas de la vía aérea; por lo tanto, sus sibilancias se auscultan de forma bilateral generalizada en ambos pulmones de forma difusa. Si el silbido se localiza fijamente en un solo lado del tórax del niño y no responde de ninguna manera a los broncodilatadores, hay una obstrucción física mecánica localizada en ese bronquio.",
     "options": [
       {
@@ -814,28 +814,28 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un escolar de 10 años ingresa a la urgencia cursando con una crisis asmática moderada-severa (Score pulmonar de $7\\text{ puntos}$, retracción intercostal moderada, frecuencia respiratoria de $36\\text{ rpm}$). Se decide iniciar oxigenoterapia por cánula nasal. Según las directrices actuales de la SOCHIPE y las pautas GINA, ¿cuál es el rango de meta de saturación de oxígeno ($SpO_2$) recomendado para guiar el aporte de oxígeno en la crisis de asma pediátrica y evitar los efectos nocivos de la hiperoxemia?",
-    "hint": "La administración agresiva de oxígeno al $100\\%$ de forma innecesaria en pacientes obstruidos puede alterar el equilibrio de la ventilación/perfusión (V/Q) y suprimir el impulso ventilatorio hipóxico central de forma transitoria, induciendo retención de anhídrido carbónico y acidosis respiratoria secundaria de forma paradójica.",
+    "text": "Un escolar de 10 años ingresa a la urgencia cursando con una crisis asmática moderada-severa (Score pulmonar de 7 puntos, retracción intercostal moderada, frecuencia respiratoria de 36 rpm). Se decide iniciar oxigenoterapia por cánula nasal. Según las directrices actuales de la SOCHIPE y las pautas GINA, ¿cuál es el rango de meta de saturación de oxígeno (SpO<sub>2</sub>) recomendado para guiar el aporte de oxígeno en la crisis de asma pediátrica y evitar los efectos nocivos de la hiperoxemia?",
+    "hint": "La administración agresiva de oxígeno al 100% de forma innecesaria en pacientes obstruidos puede alterar el equilibrio de la ventilación/perfusión (V/Q) y suprimir el impulso ventilatorio hipóxico central de forma transitoria, induciendo retención de anhídrido carbónico y acidosis respiratoria secundaria de forma paradójica.",
     "options": [
       {
-        "text": "Rango de $85\\text{ a }90\\%$ de saturación axilar.",
+        "text": "Rango de 85 a 90% de saturación axilar.",
         "isCorrect": false,
         "explanation": "Una saturación de 85 a 90% es inadecuada y clasifica de forma categórica como hipoxemia moderada-severa, lo cual compromete de forma directa el aporte de oxígeno celular a los tejidos y el cerebro."
       },
       {
-        "text": "Saturación de oxígeno entre $94\\text{ y }98\\%$ (o mayor a $95\\%$ en el lactante y preescolar), mediante el aporte del flujo de oxígeno más bajo posible necesario para mantener estable al paciente, evitando la hiperoxemia que puede inducir hipoventilación alveolar refleja y retención de $CO_2$.",
+        "text": "Saturación de oxígeno entre 94 y 98% (o mayor a 95% en el lactante y preescolar), mediante el aporte del flujo de oxígeno más bajo posible necesario para mantener estable al paciente, evitando la hiperoxemia que puede inducir hipoventilación alveolar refleja y retención de CO<sub>2</sub>.",
         "isCorrect": true,
-        "explanation": "La meta de saturación en crisis asmáticas agudas se sitúa de forma conservadora y segura entre el $94\\%$ y el $98\\%$. Mantener saturaciones superiores al $98\\text{-}100\\%$ de forma artificial con altos flujos no aporta beneficios clínicos y se asocia a disfunción de la vía aérea por hiperoxia sistémica."
+        "explanation": "La meta de saturación en crisis asmáticas agudas se sitúa de forma conservadora y segura entre el 94% y el 98%. Mantener saturaciones superiores al 98-100% de forma artificial con altos flujos no aporta beneficios clínicos y se asocia a disfunción de la vía aérea por hiperoxia sistémica."
       },
       {
-        "text": "Saturación del $100\\%$ de forma constante para asegurar el depósito celular.",
+        "text": "Saturación del 100% de forma constante para asegurar el depósito celular.",
         "isCorrect": false,
-        "explanation": "Exigir y mantener una saturación de $100\\%$ es un error de manejo clínico que induce hiperoxia sistémica perjudicial y expone al escolar a un mayor riesgo de retención de $CO_2$ por hipoventilación."
+        "explanation": "Exigir y mantener una saturación de 100% es un error de manejo clínico que induce hiperoxia sistémica perjudicial y expone al escolar a un mayor riesgo de retención de CO<sub>2</sub> por hipoventilación."
       },
       {
-        "text": "Saturación de oxígeno de $91\\%$ de forma exclusiva en escolares menores de 12 años.",
+        "text": "Saturación de oxígeno de 91% de forma exclusiva en escolares menores de 12 años.",
         "isCorrect": false,
-        "explanation": "Limitar la meta a 91% es insuficiente en pediatría respiratoria; los niños pequeños tienen menor tolerancia de reserva funcional que los adultos, prefiriéndose la meta mínima de $\\ge 94\\text{-}95\\%$."
+        "explanation": "Limitar la meta a 91% es insuficiente en pediatría respiratoria; los niños pequeños tienen menor tolerancia de reserva funcional que los adultos, prefiriéndose la meta mínima de ≥ 94-95%."
       }
     ]
   },
@@ -844,7 +844,7 @@
     "internado": "Pediatría",
     "area": "Pediatría",
     "topic": "Asma",
-    "text": "Un escolar de 7 años con diagnóstico de asma bronquial atópica controlada asiste a control de seguimiento. Ha recibido tratamiento controlador de mantención regular con Fluticasona propionato $100\\text{ mcg/día}$ de forma diaria con excelente adherencia y técnica demostrada en los últimos 4 meses, cursando con síntomas diurnos nulos, sin despertares nocturnos, sin limitación física y sin haber requerido el uso de Salbutamol de rescate en el periodo. Según las directrices GINA y GEMA para el asma controlado, ¿cuál es la conducta terapéutica indicada en este control?",
+    "text": "Un escolar de 7 años con diagnóstico de asma bronquial atópica controlada asiste a control de seguimiento. Ha recibido tratamiento controlador de mantención regular con Fluticasona propionato 100 mcg/día de forma diaria con excelente adherencia y técnica demostrada en los últimos 4 meses, cursando con síntomas diurnos nulos, sin despertares nocturnos, sin limitación física y sin haber requerido el uso de Salbutamol de rescate en el periodo. Según las directrices GINA y GEMA para el asma controlado, ¿cuál es la conducta terapéutica indicada en este control?",
     "hint": "La terapia del asma es un proceso dinámico \"en escalera\". Si el asma no está controlado, se sube un peldaño; pero si el asma está perfectamente controlado en una dosis estable durante un tiempo biológico prudente (mínimo un trimestre), se debe buscar la \"menor dosis eficaz necesaria\" que mantenga al niño controlado con el menor riesgo de efectos adversos.",
     "options": [
       {
@@ -853,9 +853,9 @@
         "explanation": "Suspender de forma súbita y total la terapia controladora de golpe en un paciente que estuvo grave expone al escolar a un rebote inflamatorio severo en las semanas siguientes de forma de crisis respiratoria aguda severa; el descenso es siempre progresivo y escalonado."
       },
       {
-        "text": "Considerar desescalar el tratamiento controlador (Step-Down), disminuyendo la dosis de Fluticasona a la mitad ($50\\text{ mcg/día}$) o espaciando dosis según corresponda, debido a que el asma se encuentra con un control clínico excelente y sostenido por un periodo mínimo documentado de al menos 3 meses consecutivos, asegurando un control estricto en 1 a 3 meses para evaluar estabilidad.",
+        "text": "Considerar desescalar el tratamiento controlador (Step-Down), disminuyendo la dosis de Fluticasona a la mitad (50 mcg/día) o espaciando dosis según corresponda, debido a que el asma se encuentra con un control clínico excelente y sostenido por un periodo mínimo documentado de al menos 3 meses consecutivos, asegurando un control estricto en 1 a 3 meses para evaluar estabilidad.",
         "isCorrect": true,
-        "explanation": "La recomendación de desescalar (Step-Down) se indica de forma prioritaria en asma bien controlado de forma sostenida por al menos 3 meses consecutivos. La dosis se reduce gradualmente en un $25\\text{-}50\\%$ de forma controlada. El alta definitiva no se otorga de inmediato; el escolar debe continuar bajo seguimiento periódico para verificar que no presente recaídas con la menor dosis de corticoide instaurada."
+        "explanation": "La recomendación de desescalar (Step-Down) se indica de forma prioritaria en asma bien controlado de forma sostenida por al menos 3 meses consecutivos. La dosis se reduce gradualmente en un 25-50% de forma controlada. El alta definitiva no se otorga de inmediato; el escolar debe continuar bajo seguimiento periódico para verificar que no presente recaídas con la menor dosis de corticoide instaurada."
       },
       {
         "text": "Duplicar la dosis de Fluticasona a dosis de Step 5 de forma rutinaria y preventiva para consolidar la remisión ósea.",
