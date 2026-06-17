@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término de 18 horas de vida, de un embarazo controlado y sin antecedentes de importancia, presenta ictericia marcada que compromete hasta el tronco. El examen físico revela un recién nacido reactivo, con adecuada succión y sin visceromegalias. ¿Cuál es la interpretación clínica inicial más adecuada de este hallazgo y la conducta inmediata a seguir?",
+    "hint": "Recuerde el límite de tiempo universal que discrimina de forma categórica el carácter fisiológico de la aparición de la ictericia en el período neonatal inmediato.",
+    "options": [
+      {
+        "text": "Corresponde a una ictericia de causa obstructiva biliar; se debe solicitar de forma urgente una ecografía abdominal de vías biliares e interconsultar al equipo de cirugía infantil de turno.",
+        "isCorrect": false,
+        "explanation": "La ictericia obstructiva (colestásica) se manifiesta de forma tardía, habitualmente después de las dos semanas de vida, con elevación selectiva de la bilirrubina directa, coluria y acolia, cuadro incompatible con el debut hiperagudo a las 18 horas de vida."
+      },
+      {
+        "text": "Corresponde a una ictericia patológica por definición temporal; se debe hospitalizar de inmediato, solicitar niveles de bilirrubina sérica total y fraccionada, y buscar causas de hemólisis activa.",
+        "isCorrect": true,
+        "explanation": "Toda ictericia que aparece dentro de las primeras 24 horas de vida es considerada patológica por definición cronológica, independiente de su extensión. Obliga a la hospitalización inmediata del neonato para la medición cuantitativa de bilirrubina sérica total y fraccionada, hemograma, frotis de sangre periférica, grupo sanguíneo, factor Rh y test de Coombs directo para investigar enfermedad hemolítica (isoinmunización)."
+      },
+      {
+        "text": "Corresponde a un ictericia transitoria por falta de aporte calórico; se debe indicar la suplementación con fórmula láctea en el puerperio inmediato y reevaluar clínicamente en 12 horas.",
+        "isCorrect": false,
+        "explanation": "La ictericia por falta de aporte (o por lactancia ineficaz) requiere que se haya establecido una pérdida de peso patológica y deshidratación, lo cual habitualmente ocurre después del tercer día de vida y no se maneja con fórmulas de forma rutinaria sin antes cuantificar la bilirrubina."
+      },
+      {
+        "text": "Corresponde a una ictericia fisiológica del recién nacido de término; se debe indicar el alta a domicilio con pautas de alimentación frecuentes al pecho y control clínico en 48 horas en APS.",
+        "isCorrect": false,
+        "explanation": "La ictericia fisiológica nunca aparece en las primeras 24 horas de vida; suele debutar a partir del segundo o tercer día, con un pico al cuarto día en el recién nacido de término sano."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Durante la rotación por neonatología, el docente le interroga sobre los mecanismos fisiopatológicos que explican la aparición de la ictericia fisiológica del recién nacido sano. ¿Cuál de las siguientes combinaciones de factores describe de forma correcta la causa de esta condición transitoria?",
+    "hint": "Piense en las limitaciones del recién nacido en tres áreas: la producción de bilirrubina a partir del grupo hemo, el procesamiento metabólico hepático y el circuito de reabsorción biliar intestinal.",
+    "options": [
+      {
+        "text": "Deficiencia absoluta congénita de la enzima glucosa-6-fosfato deshidrogenasa, aumento del aclaramiento biliar y atrofia transitoria de las vellosidades del colon.",
+        "isCorrect": false,
+        "explanation": "El déficit de G6PD es una patología hereditaria hemolítica ligada al cromosoma X que causa ictericia patológica severa, no siendo un factor constitutivo de la transición neonatal fisiológica normal."
+      },
+      {
+        "text": "Mayor masa eritrocitaria con menor vida media del glóbulo rojo, inmadurez de la enzima UDP-glucuroniltransferasa hepática y aumento de la circulación enterohepática.",
+        "isCorrect": true,
+        "explanation": "El recién nacido presenta una tasa de producción de bilirrubina que duplica la del adulto debido a una mayor masa de glóbulos rojos (hematocrito alto) con una vida media más corta (~80 días en comparación con los 120 días del adulto). A esto se suma una menor captación por déficit de ligandinas y una inmadurez de la enzima conjugadora UDP-glucuroniltransferasa (UGT1A1), junto con un aumento de la circulación enterohepática por la alta actividad de la enzima beta-glucuronidasa intestinal y la ausencia de flora bacteriana reductora."
+      },
+      {
+        "text": "Obstrucción parcial transitoria de los conductos biliares intrahepáticos, sobreproducción de ligandinas Y-Z celulares y excreción renal acelerada de urobilina.",
+        "isCorrect": false,
+        "explanation": "No existe obstrucción de conductos en la ictericia fisiológica, y la captación hepática está disminuida debido a una menor concentración de ligandinas intracelulares (Y y Z), no a su sobreproducción."
+      },
+      {
+        "text": "Captación hepática acelerada por exceso de albúmina libre circulante, conjugación acelerada de isómeros lumirubina y daño oxidativo de la mucosa duodenal.",
+        "isCorrect": false,
+        "explanation": "La albúmina libre disminuida o saturada aumenta el riesgo de bilirrubina libre, y la lumirubina es un fotoisómero soluble excretado por orina que se produce de forma artificial durante la fototerapia, no de forma fisiológica basal."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un lactante de 10 días de vida, nacido de término con peso de 3.200 gramos y alimentado con lactancia materna exclusiva, asiste a control por presentar ictericia moderada de piel y escleras. La madre refiere que el niño orina claro 8 veces al día y presenta 4 deposiciones amarillentas. El incremento de peso promedio ha sido de 35 g/día. Al examen físico destaca un lactante activo, reactivo, normohidratado, sin visceromegalias. ¿Cuál es el diagnóstico clínico más probable y la conducta correcta?",
+    "hint": "Evalúe el excelente incremento de peso diario (35 g/día) y la diuresis adecuada, lo cual descarta deshidratación o ayuno. El debut es tardío (segunda semana de vida) en un recién nacido con examen físico normal.",
+    "options": [
+      {
+        "text": "Enfermedad hemolítica por incompatibilidad de grupo clásico ABO; se debe hospitalizar de urgencia para el inicio inmediato de fototerapia doble.",
+        "isCorrect": false,
+        "explanation": "La incompatibilidad ABO causa ictericia hemolítica de debut precoz en las primeras 24 a 48 horas de vida con anemia progresiva y test de Coombs directo positivo o débilmente positivo, no presentándose como un hallazgo benigno aislado a los 10 días."
+      },
+      {
+        "text": "Atresia de vías biliares extrahepáticas; se debe derivar de urgencia para la realización de una ecografía de ayuno y derivación a cirugía infantil.",
+        "isCorrect": false,
+        "explanation": "La atresia de vías biliares se caracteriza por ictericia de predominio directo (colestásica) que asocia coluria (orina oscura) y acolia (deposiciones blancas) con hepatomegalia firme, requiriendo resolución quirúrgica (Kasai) antes de los 60 días de vida."
+      },
+      {
+        "text": "Ictericia por leche materna; se debe mantener la lactancia materna exclusiva, controlar clínicamente y explicar a la madre la evolución benigna de esta condición.",
+        "isCorrect": true,
+        "explanation": "La ictericia por leche materna (síndrome de Arias) se presenta a partir de la segunda semana de vida en recién nacidos de término sanos con excelente incremento ponderal, diuresis y deposiciones normales. Se cree que es causada por factores presentes en la leche humana (como la beta-glucuronidasa o ácidos grasos libres) que aumentan la circulación enterohepática. Es benigna, prolongada (puede durar hasta las 12 semanas) y no requiere suspender la lactancia materna si los niveles de bilirrubina son seguros."
+      },
+      {
+        "text": "Ictericia por falta de aporte (hipoalimentación); se debe suspender la lactancia de inmediato e iniciar alimentación sucedánea con fórmula de inicio.",
+        "isCorrect": false,
+        "explanation": "La ictericia por falta de aporte o \"por lactancia ineficaz\" ocurre precozmente en la primera semana de vida, asociándose a baja frecuencia de tomas, pérdida de peso patológica (>10%), signos de deshidratación y escasa diuresis, cuadro opuesto al lactante vigoroso presentado."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "En la Unidad de Puerperio, usted evalúa a un recién nacido de término de 36 horas de vida que presenta ictericia de piel hasta el abdomen. Para decidir la conducta clínica (observación vs. inicio de fototerapia), usted se dispone a interpretar el resultado de la bilirrubinemia sérica total. De acuerdo con las pautas de neonatología chilenas, ¿cuál es la herramienta gráfica de referencia nacional recomendada para tomar esta decisión específica según el peso y edad gestacional del paciente?",
+    "hint": "En Chile, para recién nacidos de término y pretérmino, existen curvas locales que norman de forma específica los umbrales de fototerapia y exanguinotransfusión según el peso de nacimiento y la edad gestacional del paciente.",
+    "options": [
+      {
+        "text": "Las curvas nacionales de Alarcón-Pittaluga para la clasificación antropométrica del recién nacido.",
+        "isCorrect": false,
+        "explanation": "Las curvas de Alarcón-Pittaluga clásicas son de crecimiento intrauterino (peso, talla, perímetro cefálico para clasificar en AEG, PEG, GEG), no debiendo confundirse con las curvas de manejo de hiperbilirrubinemia del mismo autor."
+      },
+      {
+        "text": "Las curvas de toxicidad biliar de Alarcón-Pittaluga adaptadas por peso y edad gestacional específica.",
+        "isCorrect": true,
+        "explanation": "En las maternidades de Chile, el manejo de la hiperbilirrubinemia se rige por las curvas de indicación de fototerapia y exanguinotransfusión de Alarcón-Pittaluga (Anexo III de las guías de neonatología locales). Estas curvas dividen las indicaciones según rangos de peso de nacimiento (e.g., <1.000 g, 1.000-1.499 g, 1.500-1.999 g, 2.000-2.499 g, y ≥ 2.500 g) y horas de vida, ofreciendo un manejo adaptado a la madurez biológica del paciente."
+      },
+      {
+        "text": "Las curvas de riesgo de Bhutani según horas de vida para recién nacidos de 35 semanas o más.",
+        "isCorrect": false,
+        "explanation": "El nomograma de Bhutani es una herramienta de cribado universal que define zonas de riesgo de hiperbilirrubinemia antes del alta para predecir qué pacientes progresarán a niveles severos, pero no define directamente las curvas de indicación chilenas para prematuros."
+      },
+      {
+        "text": "Los nomogramas de la Academia Americana de Pediatría (AAP) modificados según factores de riesgo.",
+        "isCorrect": false,
+        "explanation": "Aunque las guías de la AAP son de amplia difusión internacional, la red de salud chilena y los exámenes nacionales priorizan la aplicación de las normativas de Alarcón-Pittaluga validadas por el MINSAL para la toma de decisiones terapéuticas."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término, hijo de madre con grupo sanguíneo O Rh positivo y padre A Rh positivo, presenta ictericia marcada a las 12 horas de vida. Los exámenes revelan: Bilirrubina total de 9,5 mg/dL de predominio indirecto, Hemoglobina de 11,2 g/dL (anemia para la edad), frotis con abundantes esferocitos y Test de Coombs directo débilmente positivo. ¿Cuál es el diagnóstico fisiopatológico de este cuadro hemolítico?",
+    "hint": "Analice la combinación de grupos sanguíneos del binomio (Madre O, Hijo A o B) y la presencia de esferocitos en el frotis periférico asociado a un Coombs directo positivo de baja intensidad.",
+    "options": [
+      {
+        "text": "Anemia hemolítica congénita por esferocitosis hereditaria dominante.",
+        "isCorrect": false,
+        "explanation": "Aunque el frotis muestra esferocitos, en el contexto de incompatibilidad materno-fetal ABO con test de Coombs positivo, los esferocitos reflejan la remoción parcial de la membrana del hematíe sensibilizado por macrófagos esplénicos, no una esferocitosis hereditaria primaria."
+      },
+      {
+        "text": "Hiperbilirrubinemia hemolítica secundaria a déficit de glucosa-6-fosfato deshidrogenasa.",
+        "isCorrect": false,
+        "explanation": "El déficit de G6PD cursa con crisis hemolíticas agudas desencadenadas por estrés oxidativo y frotis con cuerpos de Heinz o \"células mordidas\" (bite cells), con Coombs directo característicamente negativo."
+      },
+      {
+        "text": "Enfermedad hemolítica por incompatibilidad de grupo clásico ABO.",
+        "isCorrect": true,
+        "explanation": "La incompatibilidad de grupo ABO ocurre típicamente cuando la madre es grupo O (posee anticuerpos IgG anti-A y anti-B que cruzan la placenta) y el recién nacido es grupo A o B. Se manifiesta con ictericia hemolítica de debut precoz, anemia, presencia característica de esferocitos en el frotis periférico y un test de Coombs directo positivo de baja intensidad o débil debido a la menor densidad de antígenos A o B en la membrana del hematíe neonatal."
+      },
+      {
+        "text": "Enfermedad hemolítica por isoinmunización de factor Rh (D).",
+        "isCorrect": false,
+        "explanation": "La isoinmunización por factor Rh requiere que la madre sea Rh negativo y el recién nacido Rh positivo, lo cual no ocurre en este caso dado que la madre es Rh positivo (por lo que carece de anticuerpos contra el antígeno D)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "¿Cuál es la dosis y el momento de administración indicados para la inmunoprofilaxis con inmunoglobulina anti-D (RhoGAM) en una gestante Rh negativo no sensibilizada para prevenir la enfermedad hemolítica del recién nacido por factor Rh en embarazos futuros?",
+    "hint": "La prevención busca bloquear la sensibilización materna que puede ocurrir ante microtransfusiones feto-maternas asintomáticas durante el tercer trimestre y de forma masiva durante el desprendimiento de la placenta en el parto.",
+    "options": [
+      {
+        "text": "Administrar una dosis de 300 mcg de inmunoglobulina anti-D de forma exclusiva en la sala de partos inmediatamente antes del alumbramiento placentario.",
+        "isCorrect": false,
+        "explanation": "Administrar el RhoGAM antes del alumbramiento interfiere con el proceso del parto y no asegura la cobertura de la sensibilización que ocurre durante el desprendimiento placentario, debiendo administrarse postparto."
+      },
+      {
+        "text": "Administrar dosis mensuales de 100 mcg de inmunoglobulina anti-D a lo largo de toda la gestación, independiente del factor Rh del recién nacido.",
+        "isCorrect": false,
+        "explanation": "Las dosis mensuales son innecesarias, costosas y exponen de forma injustificada a la gestante a hemoderivados sin justificación clínica de beneficio protector superior."
+      },
+      {
+        "text": "Administrar una dosis única de 150 mcg de inmunoglobulina anti-D por vía endovenosa directa al momento de la confirmación del embarazo en el primer trimestre.",
+        "isCorrect": false,
+        "explanation": "La administración en el primer trimestre es ineficaz de forma aislada para cubrir los eventos de microtransfusión del tercer trimestre, y la vía de elección estándar es la intramuscular profunda, no la endovenosa directa."
+      },
+      {
+        "text": "Administrar una dosis de 300 mcg de inmunoglobulina anti-D por vía intramuscular a las 28 semanas de gestación, y una segunda dosis dentro de las 72 horas postparto si se confirma que el recién nacido es Rh positivo.",
+        "isCorrect": true,
+        "explanation": "El protocolo estándar de inmunoprofilaxis Rh estipula administrar una primera dosis de 300 mcg de inmunoglobulina anti-D a las 28 semanas de gestación de forma profiláctica antenatal. Posteriormente, se debe administrar una segunda dosis de 300 mcg dentro de las primeras 72 horas posteriores al parto si se confirma mediante tipificación que el recién nacido es Rh positivo, para neutralizar los glóbulos rojos fetales en la circulación materna antes de que gatillen una respuesta inmune de memoria."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término de 3 días de vida presenta ictericia marcada de piel y mucosas. La bilirrubina total sérica reporta un valor de 24 mg/dL de predominio indirecto. Al examen físico se observa irritable, con llanto agudo de tono alto, rechazo alimentario y episodios de opistótonos (arqueamiento del tronco). ¿Cuál es la complicación neurológica aguda que presenta este paciente y cuál es el manejo inmediato de máxima prioridad?",
+    "hint": "La presencia de síntomas neurológicos (irritabilidad, llanto agudo, opistótonos) ante niveles extremos de bilirrubina indirecta libre refleja toxicidad cerebral aguda por el paso de la bilirrubina a través de la barrera hematoencefálica.",
+    "options": [
+      {
+        "text": "Kernicterus establecido; se debe indicar el inicio de fototerapia doble intensiva y programar control con potenciales evocados auditivos a los 6 meses.",
+        "isCorrect": false,
+        "explanation": "El Kernicterus es el diagnóstico anatomopatológico crónico irreversible de la toxicidad por bilirrubina (secuela caracterizada por parálisis cerebral atetoide, hipoacusia neurosensorial y displasia del esmalte dental), no siendo el término para la fase clínica aguda reversible de urgencia."
+      },
+      {
+        "text": "Síndrome de abstinencia neonatal; se debe iniciar sedación farmacológica con fenobarbital endovenoso en infusión continua lenta.",
+        "isCorrect": false,
+        "explanation": "Los síntomas descritos se deben a la neurotoxicidad por bilirrubina en los ganglios basales, no teniendo nexo causal con abstinencia de drogas maternas ni respondiendo a la sedación aislada sin remoción del pigmento."
+      },
+      {
+        "text": "Encefalopatía bilirrubínica aguda; se debe hospitalizar de inmediato en la UCI neonatal para la realización de una exanguinotransfusión de urgencia.",
+        "isCorrect": true,
+        "explanation": "La presencia de llanto agudo, irritabilidad, alteración del tono (hipertonía/opistótonos) y mala succión ante niveles de bilirrubina indirecta >20-25 mg/dL define la fase aguda de la encefalopatía por bilirrubina. Constituye una emergencia médica de máxima gravedad que exige la realización de una exanguinotransfusión inmediata para remover la bilirrubina libre y evitar el daño neurológico crónico irreversible (Kernicterus)."
+      },
+      {
+        "text": "Hemorragia intraventricular grado tres; se debe solicitar de forma urgente una ecografía transfontanelar y colocar un drenaje ventricular externo.",
+        "isCorrect": false,
+        "explanation": "La hemorragia intraventricular es una complicación del prematuro extremo y no cursa de forma típica con hiperbilirrubinemia aislada de 24 mg/dL asociada a opistótonos agudos simétricos en un niño de término."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Usted evalúa a un recién nacido de 15 días de vida que presenta ictericia persistente. Al interrogar de forma dirigida, la madre refiere que el niño orina de color muy oscuro, manchando el pañal de amarillo (coluria) y sus deposiciones han sido progresivamente más claras, hasta llegar a ser completamente blancas (acolia) en los últimos 3 días. Al examen físico destaca hepatomegalia firme de 3 cm bajo el reborde costal. ¿Cuál es el diagnóstico clínico y el examen de laboratorio inicial indispensable para orientar el estudio?",
+    "hint": "La tríada de ictericia prolongada, coluria (orina oscura) y acolia (deposiciones blancas) es indicativa de obstrucción del flujo biliar al duodeno. Defina el tipo de hiperbilirrubinemia característico de este cuadro.",
+    "options": [
+      {
+        "text": "Galactosemia congénita clásica; se debe contraindicar la lactancia materna e iniciar alimentación con fórmula de soya de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "Aunque la galactosemia causa colestasis, se acompaña de compromiso sistémico severo agudo (vómitos, catarata, falla hepática, shock por E. coli) y el estudio se orienta por tamizaje metabólico, no siendo la sospecha aislada de presentación lenta a las 2 semanas."
+      },
+      {
+        "text": "Colestasis neonatal; se debe solicitar de inmediato una medición de bilirrubina sérica total y fraccionada para objetivar el nivel de bilirrubina directa.",
+        "isCorrect": true,
+        "explanation": "La coluria, la acolia y la ictericia prolongada configuran el síndrome colestásico neonatal. Se define analíticamente por una bilirrubina directa mayor a 1,0 mg/dL (o mayor al 20% del total si la bilirrubina total es mayor a 5 mg/dL). El primer paso diagnóstico es cuantificar la bilirrubina fraccionada (directa e indirecta) para confirmar la colestasis y guiar el estudio de atresia de vías biliares de forma prioritaria."
+      },
+      {
+        "text": "Ictericia por leche materna prolongada; se debe suspender la lactancia por 48 horas y solicitar un perfil de hierro completo.",
+        "isCorrect": false,
+        "explanation": "La ictericia por leche materna es de predominio indirecto puro; nunca asocia coluria, acolia ni hepatomegalia firme, y suspender la lactancia de forma rutinaria es un error de manejo clínico."
+      },
+      {
+        "text": "Hepatitis por virus de la Hepatitis A de transmisión vertical; se debe solicitar serología IgG e IgM específica para virus A.",
+        "isCorrect": false,
+        "explanation": "El virus de la Hepatitis A no se transmite por vía vertical prenatal y es una causa extremadamente rara de colestasis neonatal inmediata en comparación con las malformaciones estructurales (atresia de vías biliares)."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término de 18 días de vida presenta un síndrome colestásico confirmado con una bilirrubina directa de 3,2 mg/dL. El estudio de imágenes inicial muestra la ausencia de visualización de la vesícula biliar en ayunas y el signo del cordón triangular en la ecografía de vías biliares. ¿Cuál es la sospecha diagnóstica prioritaria de esta condición anatómica y cuál es la cirugía correctiva de urgencia indicada?",
+    "hint": "Se trata de la causa más común de colestasis obstructiva extraparenquimatosa y la principal indicación de trasplante hepático infantil si no se interviene quirúrgicamente antes de los dos meses de vida mediante la técnica de derivación de Kasai.",
+    "options": [
+      {
+        "text": "Quiste de colédoco tipo I; requiere la extirpación quirúrgica electiva del quiste y anastomosis duodenal después del primer año.",
+        "isCorrect": false,
+        "explanation": "El quiste de colédoco se manifiesta ecográficamente como una dilatación quística aneurismática de la vía biliar, no con fibrosis cordonal ni ausencia de vesícula biliar en ayuno."
+      },
+      {
+        "text": "Colelitiasis neonatal por barro biliar; requiere una colecistectomía laparoscópica descompresiva de urgencia en sala de partos.",
+        "isCorrect": false,
+        "explanation": "La colelitiasis es extremadamente infrecuente en neonatos y su manejo inicial ante barro biliar suele ser médico conservador (ácido ursodesoxicólico), no estando indicada la colecistectomía en pabellón de partos."
+      },
+      {
+        "text": "Atresia de vías biliares extrahepáticas; requiere de forma prioritaria la portoenterostomía de Kasai antes de los 60 días de vida.",
+        "isCorrect": true,
+        "explanation": "El signo del cordón triangular (que representa la fibrosis ductal a nivel de la porta hepatis) y la ausencia de vesícula en la ecografía son hallazgos altamente sugestivos de Atresia de Vías Biliares (AVB). El tratamiento de elección de urgencia es la portoenterostomía de Kasai, la cual debe realizarse idealmente antes de los 60 días de vida para restablecer el flujo biliar al intestino y evitar la progresión rápida hacia cirrosis biliar secundaria."
+      },
+      {
+        "text": "Síndrome de Alagille por escasez ductal; requiere la realización de un trasplante hepático ortotópico de urgencia en el período neonatal.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Alagille es una escasez de conductos intrahepáticos de origen genético (facies característica, estenosis pulmonar, vértebras en mariposa) que no se corrige de entrada con la cirugía de Kasai ni requiere trasplante neonatal inmediato si se mantiene compensado."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Durante la administración de fototerapia intensiva en un recién nacido con hiperbilirrubinemia indirecta severa en la Unidad de Neonatología, el interno le describe al equipo el mecanismo biofísico de acción de la luz sobre la molécula de bilirrubina. ¿Cuál es el proceso principal mediante el cual la fototerapia reduce los niveles plasmáticos de bilirrubina?",
+    "hint": "La luz azul-verde (longitud de onda de 460-490 nm) penetra la piel y altera la estructura tridimensional de la bilirrubina no conjugada de forma física para hacerla hidrosoluble.",
+    "options": [
+      {
+        "text": "Hidrólisis enzimática directa de la bilirrubina conjugada en el lumen duodenal por activación de los conductos de colesterilesterasa biliar.",
+        "isCorrect": false,
+        "explanation": "La hidrólisis de la bilirrubina no ocurre en el duodeno por acción de la colesterilesterasa por la luz, siendo un fenómeno estrictamente cutáneo y capilar subcutáneo superficial."
+      },
+      {
+        "text": "Conjugación fotoquímica acelerada de la bilirrubina con ligandinas Y a nivel del tejido celular subcutáneo por acción de la luz ultravioleta C.",
+        "isCorrect": false,
+        "explanation": "La fototerapia no conjuga la bilirrubina con ligandinas ni acelera la actividad enzimática hepática; además, la luz empleada es del espectro azul-verde visible (460-490 nm) y nunca luz ultravioleta C, la cual está proscrita por riesgo de quemaduras y carcinogénesis celular."
+      },
+      {
+        "text": "Oxidación térmica masiva del pigmento dentro del eritrocito circulante, acelerando el aclaramiento del grupo hemo a nivel renal biliar.",
+        "isCorrect": false,
+        "explanation": "El proceso no es de oxidación térmica eritrocitaria (lo cual provocaría hemólisis intravascular destructiva severa) ni se asocia a la destrucción del grupo hemo dentro de los hematíes circulantes."
+      },
+      {
+        "text": "Fotoisomerización estructural que transforma la bilirrubina en lumirubina, un compuesto soluble que se excreta por bilis y orina sin necesidad de conjugación hepática.",
+        "isCorrect": true,
+        "explanation": "La fototerapia actúa mediante tres mecanismos fotoquímicos: fotoisomerización estructural (el mecanismo más importante y rápido, que transforma irreversiblemente la bilirrubina en lumirubina, la cual se excreta por bilis y orina de forma directa), fotoisomerización de configuración (isómeros transitorios) y fotooxidación (degradación lenta a productos solubles). Ninguno de estos mecanismos requiere la conjugación hepática por la UDP-glucuroniltransferasa."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de 35 semanas de edad gestacional, hospitalizado por colestasis neonatal (bilirrubina directa de 4,5 mg/dL), es colocado accidentalmente bajo fototerapia convencional debido a una mala interpretación de los niveles de bilirrubina total por el equipo técnico. A las pocas horas de iniciada la luz, se constata que la piel, la orina y el suero del paciente adquieren una coloración oscura grisácea-marrón característica. ¿Cómo se denomina esta complicación benigna de la fototerapia?",
+    "hint": "Esta complicación ocurre exclusivamente cuando se aplica fototerapia a pacientes que presentan elevación significativa de la bilirrubina conjugada (directa), debido a la acumulación de fotoisómeros de porfirina modificados que no pueden ser excretados adecuadamente.",
+    "options": [
+      {
+        "text": "Porfiria eritropoyética congénita tardía nosocomial.",
+        "isCorrect": false,
+        "explanation": "La porfiria eritropoyética es una enfermedad hereditaria metabólica severa que causa fotosensibilidad extrema con formación de ampollas mutilantes al contacto con la luz, no siendo una complicación aguda benigna transitoria del error de fototerapia."
+      },
+      {
+        "text": "Síndrome del niño bronceado (Bronze Baby Syndrome).",
+        "isCorrect": true,
+        "explanation": "El síndrome del niño bronceado es una complicación transitoria de la fototerapia que ocurre de forma exclusiva en recién nacidos que presentan hiperbilirrubinemia directa (colestasis). Se produce por la acumulación cutánea de isómeros de cobre-porfirina modificados por la luz que no pueden ser excretados por la vía biliar obstruida. Aunque alarma visualmente por la coloración grisácea-marrón de la piel y fluidos, es benigno y resuelve espontáneamente al retirar la fototerapia y corregir la colestasis."
+      },
+      {
+        "text": "Metahemoglobinemia tóxica por inducción fotoquímica biliar.",
+        "isCorrect": false,
+        "explanation": "La metahemoglobinemia cursa con coloración azulada (cianosis que no responde a oxígeno) y se debe a la oxidación del hierro del grupo hemo, no guardando relación con la colestasis ni el uso de fototerapia convencional."
+      },
+      {
+        "text": "Necrosis grasa subcutánea inducida por calor radiante local.",
+        "isCorrect": false,
+        "explanation": "La necrosis grasa subcutánea es una lesión firme, nodular, eritematosa o violácea de la piel que se asocia a hipotermia grave o asfixia perinatal traumática, no teniendo nexo causal con la coloración bronceada de la luz."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Durante la realización de una exanguinotransfusión de urgencia en un recién nacido de término con enfermedad hemolítica grave por factor Rh, el anestesiólogo neonatal y el pediatra controlan estrictamente las complicaciones del procedimiento. ¿Cuál es el trastorno metabólico e hidroelectrolítico más común provocado por el uso de sangre conservada con anticoagulante Citrato-Fosfato-Dextrosa (CPD) durante la infusión masiva?",
+    "hint": "El citrato de sodio presente como anticoagulante en los componentes de sangre total transfundida tiene la propiedad de unirse de forma potente a los cationes bivalentes libres presentes en la circulación del recién nacido.",
+    "options": [
+      {
+        "text": "Hipernatremia extrema con edema cerebral por arrastre osmótico intraventricular.",
+        "isCorrect": false,
+        "explanation": "El citrato no provoca hipernatremia extrema con edema cerebral agudo primario en la tasa de recambio estándar regulada en el protocolo de exanguinotransfusión."
+      },
+      {
+        "text": "Hipokalemia crítica por recaptación celular acelerada de potasio libre intravascular.",
+        "isCorrect": false,
+        "explanation": "La sangre transfundida suele ser conservada (no fresca de minutos), por lo que la lisis parcial de hematíes durante el almacenamiento eleva el potasio extracelular, lo que expone al neonato al riesgo de hiperkalemia durante el recambio, no de hipokalemia."
+      },
+      {
+        "text": "Hipocalcemia severa sintomática con prolongación del intervalo QT en el monitor cardíaco.",
+        "isCorrect": true,
+        "explanation": "La exanguinotransfusión utiliza sangre total reconstituida conservada con citrato como anticoagulante. El citrato actúa quelando el calcio iónico libre plasmático del recién nacido, lo que provoca una hipocalcemia aguda severa que se manifiesta con temblores, prolongación del intervalo QT en el ECG y riesgo de arritmias cardíacas. Fisiológicamente se requiere administrar de forma profiláctica 1 mL de Gluconato de Calcio al 10% por cada 100 mL de sangre recambiada para neutralizar este efecto."
+      },
+      {
+        "text": "Alcalosis respiratoria descompensada por acumulación de ácido láctico en la sangre transfundida.",
+        "isCorrect": false,
+        "explanation": "El exceso de citrato se metaboliza a bicarbonato, lo que podría favorecer el desarrollo de una alcalosis metabólica tardía, pero no de una alcalosis respiratoria descompensada aguda."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Usted evalúa en la Unidad de Neonatología un frotis de sangre periférica de un recién nacido con ictericia hemolítica severa de inicio a las 12 horas de vida. El informe reporta abundantes dianocitos (células en blanco de tiro) y cuerpos de Heinz intraeritrocitarios al examen directo de frotis especial. ¿Cuál es la sospecha etiológica de este trastorno enzimático hereditario?",
+    "hint": "Los cuerpos de Heinz corresponden a hemoglobina precipitada y desnaturalizada dentro del eritrocito debido a la pérdida de protección contra el daño oxidativo provocado por la ausencia de enzimas de la vía de las pentosas.",
+    "options": [
+      {
+        "text": "Incompatibilidad clásica de grupo materno-fetal ABO.",
+        "isCorrect": false,
+        "explanation": "La incompatibilidad ABO cursa con esferocitosis por remoción de membrana y test de Coombs directo positivo, sin presencia de cuerpos de Heinz ni dianocitos que orienten a fragilidad enzimática interna."
+      },
+      {
+        "text": "Anemia de células falciformes (drepanocitosis) congénita.",
+        "isCorrect": false,
+        "explanation": "La drepanocitosis se manifiesta con células falciformes (drepanocitos en forma de hoz) tras condiciones de hipoxia, debutando de forma más tardía en la infancia una vez que desciende el porcentaje de hemoglobina fetal (HbF), la cual es protectora al nacer."
+      },
+      {
+        "text": "Esferocitosis hereditaria dominante por mutación de espectrina.",
+        "isCorrect": false,
+        "explanation": "La esferocitosis hereditaria muestra de forma característica abundantes microesferocitos densos e hipercrómicos en el frotis de sangre periférica, sin la formación de cuerpos de Heinz ni dianocitos estables de causa enzimática oxidativa."
+      },
+      {
+        "text": "Deficiencia de Glucosa-6-Fosfato Deshidrogenasa (G6PD).",
+        "isCorrect": true,
+        "explanation": "El déficit de G6PD es la enzimopatía eritrocitaria más común del mundo. Al faltar la enzima, el hematíe pierde la capacidad de generar NADPH, quedando expuesto al daño oxidativo. Esto provoca la desnaturalización de la hemoglobina, la cual precipita en la membrana formando los \"cuerpos de Heinz\", visibles con tinciones especiales. El cuadro cursa con crisis hemolíticas severas de debut hiperagudo en el recién nacido, con ictericia patológica intensa."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término de 38 semanas presenta ictericia marcada a las 48 horas de vida. La bilirrubina total es de 16 mg/dL de predominio indirecto. Al examen físico destaca un aumento de volumen circunscrito en la región parietal derecha, que es blando, fluctuante, no cruza la sutura sagital y que apareció en su segundo día de vida tras un parto vaginal instrumental con fórceps. ¿Cuál es la causa que explica fisiopatológicamente la hiperbilirrubinemia de este paciente?",
+    "hint": "La degradación del grupo hemo de los glóbulos rojos extravasados en hematomas o colecciones cerradas (como el cefalohematoma) sobrecarga la capacidad de conjugación y depuración del hígado neonatal inmaduro.",
+    "options": [
+      {
+        "text": "Atresia biliar intrahepática transitoria por compresión traumática del lóbulo derecho.",
+        "isCorrect": false,
+        "explanation": "La compresión parietal por fórceps no tiene capacidad de causar una atresia de la vía biliar intrahepática ni de alterar de forma transitoria el drenaje de bilirrubina directa."
+      },
+      {
+        "text": "Infección bacteriana ascendente de la colección pericraneal con rotura vascular masiva.",
+        "isCorrect": false,
+        "explanation": "Un cefalohematoma infectado (absceso subperióstico) cursaría con signos inflamatorios locales severos (eritema, calor, fluctuación dolorosa extrema), fiebre alta y compromiso séptico generalizado, cuadro ausente en este recién nacido asintomático."
+      },
+      {
+        "text": "Hemólisis extravascular acelerada secundaria a la reabsorción gradual del cefalohematoma parietal.",
+        "isCorrect": true,
+        "explanation": "El cefalohematoma consiste en una colección de sangre subperióstica. La reabsorción gradual de este gran volumen de glóbulos rojos extravasados somete al neonato a una sobrecarga de hemoglobina extracelular. Al degradarse, se produce una gran cantidad de bilirrubina indirecta que satura temporalmente la capacidad de conjugación de la UDP-glucuroniltransferasa hepática inmadura, provocando hiperbilirrubinemia indirecta no hemolítica por sobreproducción."
+      },
+      {
+        "text": "Isomunización de grupo clásica ABO subclínica con hemólisis intravascular hiperaguda.",
+        "isCorrect": false,
+        "explanation": "Aunque la incompatibilidad ABO causa ictericia, el enunciado describe una colección parietal clara (cefalohematoma) que justifica por sí sola la sobreproducción biliar sin requerir mecanismos de isoinmunización sistémica para explicar el alza de bilirrubina."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Durante la visita de control sano al segundo día de vida de un recién nacido macrosómico, se constata ictericia leve de cara y tronco. El hemograma de control revela un hematocrito del 68% confirmado por muestra venosa central (poliglobulia neonatal). ¿Cuál es el mecanismo fisiopatológico por el cual la poliglobulia favorece de forma directa la aparición de la hiperbilirrubinemia en este paciente?",
+    "hint": "La poliglobulia representa un exceso de volumen de glóbulos rojos. Mayor cantidad de hematíes equivale a mayor volumen de hemoglobina disponible para ser metabolizado por la vía del catabolismo del grupo hemo.",
+    "options": [
+      {
+        "text": "El aumento masivo de la masa total de glóbulos rojos circulantes que, al degradarse al final de su vida media, sobrepasa la capacidad de conjugación hepática.",
+        "isCorrect": true,
+        "explanation": "La poliglobulia neonatal (hematocrito venoso central ≥ 65%) incrementa de forma masiva la cantidad absoluta de glóbulos rojos en la circulación. Dado que estos eritrocitos neonatales tienen una vida media corta (~80 días) y se destruyen a tasas altas de recambio diario, se libera una sobrecarga masiva de hemoglobina a la circulación. Al metabolizarse por la hemo-oxigenasa, genera un exceso de bilirrubina indirecta que excede el umbral de conjugación hepática transitoria del neonato."
+      },
+      {
+        "text": "La inhibición por retroalimentación negativa de la enzima UDP-glucuroniltransferasa inducida por la alta viscosidad plasmática.",
+        "isCorrect": false,
+        "explanation": "La alta viscosidad sanguínea altera el flujo microvascular, pero no ejerce una inhibición enzimática directa o química sobre la transcripción o actividad catalítica de la UDP-glucuroniltransferasa (UGT1A1)."
+      },
+      {
+        "text": "La lisis osmótica espontánea de los eritrocitos maduros dentro de la microcirculación glomerular renal por bajo flujo.",
+        "isCorrect": false,
+        "explanation": "Los glóbulos rojos no sufren lisis osmótica espontánea a nivel renal debido a la poliglobulia; la hemólisis fisiológica normal acelerada en el bazo y sistema reticuloendotelial es el origen de la sobrecarga del pigmento."
+      },
+      {
+        "text": "El daño directo de la mucosa del colon provocado por la hiperviscosidad sanguínea, que bloquea la excreción enteral de estercorbilina.",
+        "isCorrect": false,
+        "explanation": "La hiperviscosidad sanguínea puede provocar isquemia intestinal focal o enterocolitis, pero no se describe que bloquee mecánicamente la excreción enteral de estercorbilina de forma aislada para causar ictericia."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término de 12 días de vida presenta ictericia leve persistente de cara y mucosas. La bilirrubina total es de 8,5 mg/dL de predominio indirecto. El tamizaje metabólico neonatal nacional (toma de muestra PKU/TSH al tercer día de vida) reporta un valor de TSH de 45 uUI/mL (marcadamente elevado). ¿Cuál es el nexo fisiopatológico que explica la ictericia prolongada en el contexto de un hipotiroidismo congénito?",
+    "hint": "Las hormonas tiroideas (T<sub>3</sub> y T<sub>4</sub>) juegan un rol metabólico permisivo y activador del desarrollo de múltiples sistemas enzimáticos hepáticos durante el período fetal tardío y neonatal inmediato.",
+    "options": [
+      {
+        "text": "El exceso de TSH plasmática actúa como un inhibidor competitivo del receptor de ligandina hepática a nivel del enterocito.",
+        "isCorrect": false,
+        "explanation": "La TSH no tiene la propiedad de unirse de forma competitiva a las ligandinas intracelulares hepáticas (proteínas Y y Z) ni actúa a nivel del enterocito intestinal para bloquear la captación biliar."
+      },
+      {
+        "text": "La deficiencia de hormona tiroidea provoca un retraso severo en la maduración y actividad catalítica de la enzima UDP-glucuroniltransferasa hepática.",
+        "isCorrect": true,
+        "explanation": "El hipotiroidismo congénito es una causa clásica de ictericia prolongada de predominio indirecto en el recién nacido. Las hormonas tiroideas son necesarias para la maduración y la expresión génica normal del sistema enzimático hepático; su deficiencia prolonga la inmadurez funcional de la UDP-glucuroniltransferasa (UGT1A1), enlenteciendo el aclaramiento de la bilirrubina y manteniendo niveles séricos elevados de bilirrubina libre."
+      },
+      {
+        "text": "El hipotiroidismo acelera el vaciamiento gástrico, lo que exacerba de forma masiva la absorción enterohepática de bilirrubina directa.",
+        "isCorrect": false,
+        "explanation": "El hipotiroidismo ralentiza el tránsito intestinal (constipación), lo cual de hecho aumenta el tiempo de permanencia del meconio en el lumen, favoreciendo el circuito enterohepático de la bilirrubina no conjugada, pero no la absorción de la bilirrubina directa."
+      },
+      {
+        "text": "Las hormonas tiroideas son componentes estructurales indispensables de la membrana del hematíe que previenen la lisis espontánea.",
+        "isCorrect": false,
+        "explanation": "Las hormonas tiroideas no forman parte de la estructura citoesquelética de la membrana del glóbulo rojo, por lo que su ausencia no gatilla fragilidad osmótica ni anemia hemolítica primaria de forma directa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Al evaluar a un recién nacido de 5 días de vida con hiperbilirrubinemia indirecta severa de 28 mg/dL, se sospecha una ictericia hereditaria no hemolítica por déficit enzimático de conjugación. Los exámenes confirman la ausencia absoluta de actividad de la enzima UDP-glucuroniltransferasa que no responde a la inducción farmacológica con fenobarbital. ¿De qué enfermedad genética se trata?",
+    "hint": "Diferencie las dos variantes del síndrome de Crigler-Najjar basándose en la gravedad de la deficiencia enzimática (completa vs. parcial) y la respuesta clínica al tratamiento inductor con barbitúricos.",
+    "options": [
+      {
+        "text": "Síndrome de Crigler-Najjar Tipo I.",
+        "isCorrect": true,
+        "explanation": "El síndrome de Crigler-Najjar Tipo I es un trastorno autosómico recesivo caracterizado por la ausencia total de actividad de la UDP-glucuroniltransferasa. Cursa con niveles extremadamente altos de bilirrubina indirecta (20-50 mg/dL) con alto riesgo de Kernicterus mortal. Se diferencia del Tipo II en que no presenta ninguna respuesta reductora ante el uso de fenobarbital, ya que no existe enzima residual que inducir, requiriendo fototerapia continua de por vida o trasplante hepático."
+      },
+      {
+        "text": "Síndrome de Gilbert por mutación del promotor TATA.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Gilbert es una condición benigna muy común provocada por una mutación en la región promotora TATA del gen UGT1A1, que disminuye la actividad enzimática al 30% del normal, manifestándose tardíamente en la adolescencia con ictericia leve intermitente ante estrés o ayuno."
+      },
+      {
+        "text": "Síndrome de Crigler-Najjar Tipo II (Síndrome de Arias).",
+        "isCorrect": false,
+        "explanation": "El tipo II (síndrome de Arias) presenta una deficiencia parcial de la enzima (actividad menor al 10% del normal). Sus niveles de bilirrubina son menores (6-20 mg/dL), el riesgo de Kernicterus es bajo y responde de forma favorable al fenobarbital con un descenso marcado de la natremia por inducción enzimática residual."
+      },
+      {
+        "text": "Síndrome de Dubin-Johnson con alteración del transportador MRP2.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Dubin-Johnson es un defecto de la excreción biliar de la bilirrubina ya conjugada (hiperbilirrubinemia directa colestásica), caracterizado por depósito de pigmento negro en el hígado, con función enzimática UGT normal."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Usted asiste a un recién nacido de término en el puerperio inmediato que requiere la indicación de fototerapia intensiva. Al programar el equipo de luz en el box, ¿cuál es el rango de irradiancia espectral mínima requerida para clasificar a la fototerapia como de carácter \"intensivo\" de acuerdo con los estándares internacionales aceptados en pediatría?",
+    "hint": "La efectividad de la fototerapia depende de la longitud de onda de la luz, el área de piel expuesta y la potencia o irradiancia entregada. Un valor bajo califica como fototerapia simple o de mantención benigna, insuficiente ante riesgo de exanguinotransfusión.",
+    "options": [
+      {
+        "text": "Una irradiancia mínima de 5 uW/cm<sup>2</sup>/nm medida en el centro de la superficie corporal expuesta del paciente.",
+        "isCorrect": false,
+        "explanation": "Un valor de 5 uW/cm2/nm es subóptimo e ineficaz para lograr la fotoisomerización de la bilirrubina subcutánea, considerándose una falla técnica del equipo de fototerapia."
+      },
+      {
+        "text": "Una irradiancia mínima de 30 uW/cm<sup>2</sup>/nm medida en el centro de la superficie corporal expuesta del paciente.",
+        "isCorrect": true,
+        "explanation": "La fototerapia intensiva exige de forma mandatoria aportar una irradiancia espectral de al menos 30 uW/cm2/nm en el espectro azul-verde (longitud de onda de 460-490 nm) sobre la mayor superficie de piel posible del neonato. Esto se logra colocando las fuentes de luz a distancias cortas (15-20 cm) del paciente y utilizando múltiples paneles (luz superior, colchones de fibra óptica inferiores)."
+      },
+      {
+        "text": "Una irradiancia mínima de 80 uW/cm<sup>2</sup>/nm medida en el centro de la superficie corporal expuesta del paciente.",
+        "isCorrect": false,
+        "explanation": "80 uW/cm2/nm es una potencia excesiva que no se requiere de forma rutinaria y que puede exceder los límites de seguridad de emisión de calor de las lámparas, arriesgando quemaduras o deshidratación acelerada."
+      },
+      {
+        "text": "Una irradiancia mínima de 10 uW/cm<sup>2</sup>/nm medida en el centro de la superficie corporal expuesta del paciente.",
+        "isCorrect": false,
+        "explanation": "Una irradiancia de 10 uW/cm2/nm es considerada de nivel estándar o convencional, indicada para el manejo de ictericias fisiológicas o patológicas estables de bajo riesgo de neurotoxicidad."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de término, hospitalizado por incompatibilidad Rh en fototerapia doble, presenta niveles de bilirrubina sérica que han descendido de forma segura a 11,5 mg/dL (francamente bajo el umbral de luz para su curva). Se decide suspender la fototerapia. Sin embargo, a las 24 horas del retiro, se constata un aumento de la bilirrubina a 14,8 mg/dL de predominio indirecto. ¿Cuál es la definición de este fenómeno y cuáles son sus principales factores de riesgo?",
+    "hint": "Piense en el fenómeno de redistribución de la bilirrubina desde los tejidos hacia el compartimento vascular una vez que cesa el aclaramiento provocado por la fototerapia cutánea superficial en pacientes con producción acelerada.",
+    "options": [
+      {
+        "text": "Recidiva lisosómica eritrocitaria iatrogénica; es más común en recién nacidos expuestos a luz halógena de espectro ultravioleta.",
+        "isCorrect": false,
+        "explanation": "El término \"recidiva lisosómica eritrocitaria\" no existe en medicina neonatal, y la luz halógena no gatilla lisis eritrocitaria para justificar el rebote de la ictericia."
+      },
+      {
+        "text": "Síndrome de rebote colestásico transitorio; es más común en recién nacidos con diagnóstico concomitante de enfermedad celíaca.",
+        "isCorrect": false,
+        "explanation": "El rebote cursa con bilirrubina de predominio indirecto no conjugado, no colestásico directa, y la enfermedad celíaca es un trastorno autoinmune alimentario de niños mayores, inactivo en el período neonatal inmediato."
+      },
+      {
+        "text": "Rebote de hiperbilirrubinemia; es más común en recién nacidos prematuros menores de 37 semanas, Coombs directo positivo y alta tasa de hemólisis basal.",
+        "isCorrect": true,
+        "explanation": "El rebote de hiperbilirrubinemia es el aumento significativo de los niveles de bilirrubina sérica dentro de las 24 a 48 horas posteriores a la suspensión de la fototerapia. Se debe a la redistribución del pigmento desde el intersticio hacia el plasma. Sus factores de riesgo principales son la prematurez (menor de 37 semanas), el test de Coombs directo positivo (isoinmunización activa) y el inicio de la fototerapia en las primeras 72 horas de vida."
+      },
+      {
+        "text": "Fracaso del aclaramiento biliar hepatocelular primario; es más común en recién nacidos de madres primigestas obesas.",
+        "isCorrect": false,
+        "explanation": "No se asocia a un fracaso del aclaramiento biliar primario ligado a la paridad o índice de masa corporal materno, careciendo de nexo fisiopatológico con estas variables."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Al realizar la evaluación del riesgo de Kernicterus, el docente le pregunta sobre los factores biológicos y farmacológicos que aumentan el paso de la bilirrubina indirecta a través de la barrera hematoencefálica (BHE) del recién nacido. ¿Cuál de las siguientes condiciones desplaza la bilirrubina de su unión con la albúmina, aumentando la fracción libre con potencial neurotóxico?",
+    "hint": "La albúmina une bilirrubina en una relación equimolar. Ciertos fármacos o condiciones alteran esta unión competitivamente o disminuyen la afinidad del receptor de la albúmina, dejando bilirrubina libre que cruza la BHE lipofílica.",
+    "options": [
+      {
+        "text": "Hipertermia terapéutica controlada, poliglobulia neonatal y la administración de vitamina K oral.",
+        "isCorrect": false,
+        "explanation": "La hipertermia controlada no es una terapia protectora, la poliglobulia aumenta la bilirrubina por sobreproducción, y la vitamina K intramuscular no desplaza competitivamente la bilirrubina a nivel plasmático."
+      },
+      {
+        "text": "Acidosis metabólica sistémica, sepsis neonatal grave y la administración de ceftriaxona o sulfas.",
+        "isCorrect": true,
+        "explanation": "La fracción de bilirrubina no conjugada que no está unida a la albúmina (bilirrubina libre) es la única capaz de cruzar la barrera hematoencefálica y provocar toxicidad en el SNC. Ciertos fármacos (ceftriaxona, sulfonamidas, salicilatos) compiten con la bilirrubina por los sitios de unión de la albúmina, desplazándola. Asimismo, condiciones como la acidosis metabólica y la sepsis disminuyen la afinidad de la albúmina por la bilirrubina y aumentan la permeabilidad de la propia BHE, exacerbando el riesgo de Kernicterus con niveles menores de bilirrubina total."
+      },
+      {
+        "text": "Hipotiroidismo congénito tratado, nutrición enteral precoz y la administración de eritromicina oftálmica.",
+        "isCorrect": false,
+        "explanation": "El tratamiento del hipotiroidismo y la nutrición enteral precoz son factores protectores que disminuyen la ictericia (esta última al acelerar el tránsito intestinal y disminuir la circulación enterohepática)."
+      },
+      {
+        "text": "Alcalosis respiratoria compensada, hiperglicemia asintomática y la administración de ampicilina o penicilina.",
+        "isCorrect": false,
+        "explanation": "La alcalosis y la hiperglicemia no desplazan la bilirrubina de la albúmina, y la ampicilina y penicilina son seguras en términos de afinidad de unión y no aumentan la fracción de bilirrubina libre."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Usted interpreta los resultados de los exámenes de un recién nacido con ictericia hemolítica severa. Se reporta un Test de Coombs directo positivo de intensidad ++++. ¿Cuál es el significado inmunológico estricto de este resultado de laboratorio de la hematología neonatal?",
+    "hint": "El Coombs directo analiza la muestra de sangre del propio recién nacido (hematíes), buscando anticuerpos adheridos a ellos \"in vivo\" que gatillan su destrucción esplénica.",
+    "options": [
+      {
+        "text": "Confirma el bloqueo absoluto de los receptores de transferrina del tejido celular subcutáneo del cordón umbilical.",
+        "isCorrect": false,
+        "explanation": "El Coombs directo no tiene nexo con los receptores de transferrina del tejido conectivo del cordón umbilical ni evalúa el depósito o transporte del hierro fetal."
+      },
+      {
+        "text": "Confirma la presencia de anticuerpos maternos (inmunoglobulinas) ya fijados a la membrana de los glóbulos rojos del recién nacido.",
+        "isCorrect": true,
+        "explanation": "El test de Coombs directo detecta la presencia de anticuerpos (IgG) o complemento ya fijados a la superficie de los eritrocitos del recién nacido. Al agregar el reactivo de Coombs (anticuerpos anti-IgG humana), se produce aglutinación visible confirmando la sensibilización de las células. Es el examen de oro para diagnosticar la enfermedad hemolítica del recién nacido por isoinmunización."
+      },
+      {
+        "text": "Confirma una mutación genética de carácter autosómico dominante de los canales de sodio de la membrana plaquetaria.",
+        "isCorrect": false,
+        "explanation": "El Coombs directo es un test inmunológico inmunohematológico que detecta anticuerpos anti-eritrocitos, sin evaluar mutaciones de canales de sodio plaquetarios o de la hemostasia."
+      },
+      {
+        "text": "Confirma la presencia de anticuerpos libres circulando de forma libre en el suero de la madre gestante Rh negativo.",
+        "isCorrect": false,
+        "explanation": "La presencia de anticuerpos libres en el suero materno se evalúa mediante el test de Coombs indirecto (isoinmunización en la madre), no a través del Coombs directo del recién nacido."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Al realizar el examen físico de un recién nacido en su cuna de transición, usted utiliza la escala visual de Kramer para estimar la extensión de la ictericia. Se constata coloración amarillenta limitada de forma estricta a la cabeza y el cuello del paciente. ¿A qué zona de la escala de Kramer corresponde este hallazgo y cuál es el rango estimado aproximado de bilirrubina plasmática asociado?",
+    "hint": "La escala de Kramer describe la progresión cefalocaudal de la ictericia neonatal. La primera zona corporal en colorearse es la cabeza, debido a la dirección del flujo de perfusión capilar preferencial superior.",
+    "options": [
+      {
+        "text": "Zona 5; se asocia a un rango de bilirrubina extrema superior a los 20 mg/dL.",
+        "isCorrect": false,
+        "explanation": "La zona 5 es el compromiso extremo que abarca de forma simétrica las palmas de las manos y las plantas de los pies, traduciendo una emergencia médica por niveles altos de bilirrubina."
+      },
+      {
+        "text": "Zona 1; se asocia a un rango estimado aproximado de bilirrubina entre 4 y 7 mg/dL.",
+        "isCorrect": true,
+        "explanation": "La escala de Kramer divide la progresión cefalocaudal de la ictericia en 5 zonas: Zona 1 (Cabeza y cuello: ~4-7 mg/dL), Zona 2 (Tronco superior hasta el ombligo: ~5-12 mg/dL), Zona 3 (Tronco inferior desde el ombligo hasta rodillas: ~8-16 mg/dL), Zona 4 (Extremidades hasta muñecas y tobillos: ~11-18 mg/dL) y Zona 5 (Palmas y plantas: ≥ 15-20 mg/dL). El hallazgo de ictericia limitada a la cabeza corresponde de forma estricta a la Zona 1."
+      },
+      {
+        "text": "Zona 2; se asocia a un rango estimado aproximado de bilirrubina entre 8 y 10 mg/dL.",
+        "isCorrect": false,
+        "explanation": "La zona 2 abarca el tórax superior desde la base del cuello hasta el límite del ombligo, asociándose habitualmente a niveles séricos estimados de 8 a 10 mg/dL en el neonato de término."
+      },
+      {
+        "text": "Zona 3; se asocia a un rango estimado aproximado de bilirrubina entre 12 y 15 mg/dL.",
+        "isCorrect": false,
+        "explanation": "La zona 3 compromete el tronco inferior por debajo del ombligo hasta las rodillas de forma simétrica, asociándose a rangos de bilirrubina plasmática sustancialmente mayores."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Durante la evaluación de la ictericia mediante la escala de Kramer en APS, ¿cuál de las siguientes situaciones limita de forma severa el uso de esta herramienta visual, obligando a realizar una medición cuantitativa sérica de bilirrubina?",
+    "hint": "La escala de Kramer es un método subjetivo visual basado en la presión digital (vitropresión) para blanquear la piel y observar el pigmento graso subcutáneo. Ciertos factores clínicos \"enmascaran\" o alteran esta correlación visual de forma crítica.",
+    "options": [
+      {
+        "text": "Recién nacidos con piel intensamente pigmentada (oscura), recién nacidos bajo tratamiento activo con fototerapia, y recién nacidos en su primer día de vida.",
+        "isCorrect": true,
+        "explanation": "La escala de Kramer pierde toda correlación fidedigna en tres escenarios críticos: 1) Recién nacidos de piel oscura (donde la melanina enmascara el tinte amarillo de la piel), 2) Recién nacidos bajo fototerapia (debido a que la luz \"blanquea\" o decolora la bilirrubina subcutánea de la piel de forma superficial por fotoisomerización, persistiendo niveles séricos altos), y 3) En las primeras 24 horas de vida, donde la ictericia es dinámica e indica hemólisis severa inestable. En todos estos casos, la medición sérica o transcutánea cuantitativa es mandatoria."
+      },
+      {
+        "text": "Recién nacidos alimentados con lactancia materna que presentan diuresis y deposiciones normales al cuarto día.",
+        "isCorrect": false,
+        "explanation": "El tipo de alimentación al pecho y una transición normal al cuarto día de vida permiten la evaluación visual de rutina por la escala de Kramer si el niño no está bajo fototerapia."
+      },
+      {
+        "text": "Recién nacidos de sexo masculino de término que presentan un peso de nacimiento normal.",
+        "isCorrect": false,
+        "explanation": "El sexo masculino y el peso de nacimiento normal no son factores de interferencia técnica que limiten per se la vitropresión en recién nacidos de término de piel clara."
+      },
+      {
+        "text": "Recién nacidos por cesárea electiva que ya recibieron la vacuna BCG en la maternidad.",
+        "isCorrect": false,
+        "explanation": "La vía de nacimiento por cesárea y la administración intradérmica de la vacuna BCG no alteran la coloración subcutánea de los capilares cutáneos en el lomo ni en el abdomen."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Se revisa el frotis de sangre periférica de un recién nacido con ictericia hemolítica de debut precoz. El laboratorio informa la presencia de abundantes microesferocitos hipercrómicos. Sabiendo que el Test de Coombs directo resultó positivo de baja intensidad y que el grupo de la madre es O Rh positivo y el del recién nacido es A Rh positivo, ¿cuál es el significado de los microesferocitos en este frotis?",
+    "hint": "En la incompatibilidad ABO, los macrófagos del bazo del recién nacido \"muerden\" la porción de la membrana del hematíe que contiene los complejos antígeno-anticuerpo (Coombs positivo), reduciendo la relación superficie/volumen de la célula.",
+    "options": [
+      {
+        "text": "Son artefactos técnicos de la preparación del frotis de sangre venosa central que simulan una lisis celular activa.",
+        "isCorrect": false,
+        "explanation": "Los esferocitos en el contexto de ictericia neonatal precoz y Coombs positivo son un hallazgo patológico e indicador in vivo de hemólisis activa, no meros artefactos técnicos de laboratorio."
+      },
+      {
+        "text": "Son glóbulos rojos que han perdido fragmentos de su membrana celular tras la fagocitosis parcial por macrófagos esplénicos debido a la isoinmunización ABO.",
+        "isCorrect": true,
+        "explanation": "En la incompatibilidad ABO, los anticuerpos IgG maternos anti-A o anti-B se unen a los hematíes fetales. Al pasar por el bazo, los macrófagos esplénicos fagocitan de forma parcial la membrana eritrocitaria sensibilizada para remover el anticuerpo. Al perder membrana pero conservar el volumen citoplasmático, la célula adopta una forma esférica rígida de menor diámetro, originando los esferocitos característicos en el frotis."
+      },
+      {
+        "text": "Son células precursoras inmaduras (eritroblastos) que se liberan de forma compensatoria por una hemorragia de cordón inadvertida.",
+        "isCorrect": false,
+        "explanation": "Los eritroblastos son glóbulos rojos nucleados inmaduros que reflejan eritropoyesis acelerada compensatoria, pero se diferencian netamente de los microesferocitos (los cuales son maduros, anucleados, densos y sin aclaramiento central)."
+      },
+      {
+        "text": "Son eritrocitos con una mutación autosómica recesiva del canal de la anquirina que altera la estructura del citoesqueleto.",
+        "isCorrect": false,
+        "explanation": "Describe la fisiopatología hereditaria primaria de la esferocitosis hereditaria (déficit de anquirina o espectrina), la cual es una patología genética intrínseca, descartada por el test de Coombs directo positivo que delata causa inmune adquirida."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un recién nacido de 20 días de vida, alimentado con lactancia materna y fórmula de inicio mixta, presenta un síndrome colestásico confirmado por laboratorio. Como consecuencia de la colestasis prolongada (obstrucción biliar), ¿cuál es el déficit vitamínico crítico que se debe vigilar y suplementar activamente para evitar el desarrollo de una enfermedad hemorrágica severa de inicio tardío?",
+    "hint": "La colestasis disminuye drásticamente la entrega de sales biliares al duodeno, impidiendo la emulsificación e hidrólisis de los lípidos de la dieta materna y las vitaminas solubles en grasas.",
+    "options": [
+      {
+        "text": "Vitamina E (tocoferol).",
+        "isCorrect": false,
+        "explanation": "El déficit de Vitamina E (tocoferol) asocia anemia hemolítica leve por aumento de la fragilidad de membrana y trastornos de la marcha neurológicos tardíos, pero no se asocia a sangrados por colapso de factores de coagulación."
+      },
+      {
+        "text": "Vitamina K (fitonadiona).",
+        "isCorrect": true,
+        "explanation": "La colestasis neonatal altera de forma severa la absorción de grasas y vitaminas liposolubles (A, D, E, K) debido a la ausencia de sales biliares luminales. El déficit de Vitamina K impide la gamma-carboxilación hepática de los factores de coagulación dependientes de vitamina K (II, VII, IX, X). Esto expone al lactante a una diátesis hemorrágica grave de inicio tardío (hemorragia cerebral, digestiva), requiriendo suplementación oral o intramuscular de Vitamina K activa."
+      },
+      {
+        "text": "Vitamina A (retinol).",
+        "isCorrect": false,
+        "explanation": "Aunque la deficiencia de Vitamina A ocurre en la colestasis y causa problemas de queratomalacia o ceguera nocturna tardía, su déficit no gatilla enfermedad hemorrágica de debut agudo en las primeras semanas de vida."
+      },
+      {
+        "text": "Vitamina D (colecalciferol).",
+        "isCorrect": false,
+        "explanation": "El déficit de Vitamina D provoca raquitismo carencial y osteomalacia en lactantes mayores de forma crónica, sin constituir una causa de diátesis hemorrágica aguda en neonatos colestásicos."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Usted se dispone a calcular el volumen de recambio sanguíneo para una exanguinotransfusión de urgencia en un recién nacido de término con enfermedad hemolítica grave por factor Rh que pesa 3,5 kg. ¿Cuál es el volumen total de sangre reconstituida que se debe solicitar al banco de sangre, basado en el estándar del procedimiento de \"doble volumen\" neonatal?",
+    "hint": "La exanguinotransfusión de doble volumen recambia aproximadamente el 85% de los glóbulos rojos del recién nacido. El volumen de sangre estimado del recién nacido de término es de 80 mL/kg; por lo tanto, el doble volumen equivale a 160 mL/kg de peso corporal.",
+    "options": [
+      {
+        "text": "Un volumen total de 560 mL de sangre reconstituida para el procedimiento.",
+        "isCorrect": true,
+        "explanation": "El volumen sanguíneo total del recién nacido de término se estima en 80 mL/kg. El procedimiento de exanguinotransfusión exige recambiar dos veces el volumen sanguíneo del neonato (doble volumen: 160 mL/kg) para optimizar la remoción de anticuerpos y bilirrubina circulantes. Para este paciente de 3,5 kg: 160 mL/kg x 3,5 kg = 560 mL de sangre total reconstituida que se debe solicitar al banco de sangre."
+      },
+      {
+        "text": "Un volumen total de 280 mL de sangre reconstituida para el procedimiento.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 280 mL (80 mL/kg) corresponde a un recambio de volumen simple, el cual es ineficaz para lograr la remoción del porcentaje crítico de hematíes sensibilizados y bilirrubina libre necesarios."
+      },
+      {
+        "text": "Un volumen total de 140 mL de sangre reconstituida para el procedimiento.",
+        "isCorrect": false,
+        "explanation": "140 mL (40 mL/kg) es insuficiente para lograr los objetivos de depuración hematológica de la isoinmunización Rh refractaria, manteniendo al neonato en riesgo inminente de Kernicterus."
+      },
+      {
+        "text": "Un volumen total de 1050 mL de sangre reconstituida para el procedimiento.",
+        "isCorrect": false,
+        "explanation": "Un volumen de 1050 mL (300 mL/kg) es excesivo, aumenta críticamente las complicaciones cardiovasculares (insuficiencia cardíaca, sobrecarga de volumen, shock hemodinámico) e hidroelectrolíticas del recambio."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Durante una exanguinotransfusión en la UCI Neonatal, ¿cuál es el volumen de recambio (alícuota) por ciclo de extracción-infusión que se debe respetar de forma estricta para evitar variaciones bruscas de la presión arterial y del volumen intracardíaco del recién nacido?",
+    "hint": "El recambio se realiza retirando e infundiendo sangre de forma fraccionada a través de un catéter venoso umbilical central. El uso de volúmenes excesivos en cada ciclo provoca fluctuaciones hemodinámicas severas que claudican el corazón neonatal.",
+    "options": [
+      {
+        "text": "Alícuotas de 1 a 2 mL de volumen por ciclo, administradas de forma continua cada 10 segundos.",
+        "isCorrect": false,
+        "explanation": "Utilizar alícuotas de 1-2 mL prolongaría el tiempo de duración del procedimiento por muchas horas, aumentando críticamente el riesgo de trombosis del catéter, enfriamiento del neonato e infecciones nosocomiales."
+      },
+      {
+        "text": "Un bolo único continuo de todo el volumen solicitado, conectando la bolsa de transfusión directamente al catéter.",
+        "isCorrect": false,
+        "explanation": "Conectar el volumen total de forma directa y continua sin ciclos de extracción previa es una transfusión masiva no controlada que provocará una sobrecarga hídrica letal por hipervolemia en pocos minutos."
+      },
+      {
+        "text": "Alícuotas de 10 a 20 mL de volumen por ciclo, administradas de forma lenta y controlada.",
+        "isCorrect": true,
+        "explanation": "La exanguinotransfusión se realiza en ciclos de extracción y posterior infusión lenta de sangre. Para recién nacidos estables, las alícuotas recomendadas son de 10 a 20 mL por ciclo (en prematuros o inestables se reduce a 5-10 mL) para minimizar el impacto sobre la precarga cardíaca y la presión arterial central, completando el procedimiento en 1,5 a 2 horas."
+      },
+      {
+        "text": "Alícuotas de 50 a 100 mL de volumen por ciclo, administradas de forma rápida mediante jeringas de alto flujo.",
+        "isCorrect": false,
+        "explanation": "Utilizar alícuotas de 50 a 100 mL excede la capacidad de compensación hemodinámica del ventrículo neonatal, gatillando de forma casi segura un edema agudo de pulmón por sobrecarga o shock cardiogénico por hipovolemia súbita durante la fase de extracción."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Se evalúa un recién nacido de 4 días de vida que presenta una hiperbilirrubinemia indirecta severa de 26 mg/dL. El test de Coombs directo y el recuento de reticulocitos son normales, descartando hemólisis común. Como antecedente destaca que la madre presentó un cuadro de ictericia familiar transitoria en todos sus hijos previos al nacer. Se sospecha una inhibición enzimática transitoria de origen materno. ¿Cuál es el diagnóstico más probable de esta rara entidad clínica?",
+    "hint": "Esta condición se produce por la presencia de una hormona esteroidal gestacional no identificada en el suero materno que inhibe de forma potente la función de la UDP-glucuroniltransferasa del feto, resolviendo espontáneamente al depurar la hormona.",
+    "options": [
+      {
+        "text": "Hepatitis neonatal idiopática por transmisión vertical de citocinas maternas.",
+        "isCorrect": false,
+        "explanation": "La hepatitis neonatal idiopática es una causa de colestasis (bilirrubina directa alta) con inflamación celular hepática, cuadro clínico diferente a la hiperbilirrubinemia indirecta pura del síndrome de Lucey-Driscoll."
+      },
+      {
+        "text": "Síndrome de Alagille por mutación selectiva de Jagged1 familiar.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Alagille es un trastorno colestásico intrahepático autosómico dominante crónico que no se manifiesta como una ictericia indirecta severa transitoria transitoria del período neonatal inmediato."
+      },
+      {
+        "text": "Síndrome de Lucey-Driscoll (hiperbilirrubinemia neonatal familiar transitoria).",
+        "isCorrect": true,
+        "explanation": "El síndrome de Lucey-Driscoll (hiperbilirrubinemia neonatal familiar transitoria) es una entidad poco común caracterizada por ictericia indirecta severa no hemolítica en las primeras semanas de vida de hermanos. Se produce por la presencia en el suero materno (y transmitida transplacentariamente al feto) de una hormona gestacional (progestágeno no identificado) que inhibe de forma potente y transitoria la actividad de la UDP-glucuroniltransferasa (UGT1A1) hepática del recién nacido. Resuelve de forma espontánea al metabolizarse la hormona en pocos días de vida."
+      },
+      {
+        "text": "Síndrome de Crigler-Najjar Tipo I por herencia recesiva familiar activa.",
+        "isCorrect": false,
+        "explanation": "El síndrome de Crigler-Najjar es una anomalía genética estructural permanente de herencia autosómica recesiva debida a mutaciones en el gen UGT1A1, que no asocia un carácter transitorio ni responde a la depuración de factores del suero materno."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "Un lactante de 25 días de vida, prematuro de 28 semanas con antecedentes de enterocolitis necrotizante que requirió resección intestinal y nutrición parenteral total (NPT) prolongada durante 20 días en la UCI Neonatal, presenta ictericia persistente. Los exámenes revelan: Bilirrubina total de 7,2 mg/dL, Bilirrubina directa de 4,1 mg/dL (colestasis confirmada) y transaminasas levemente elevadas. ¿Cuál es la etiología más probable de esta colestasis neonatal?",
+    "hint": "El uso prolongado de soluciones de lípidos intravenosos y la ausencia de alimentación enteral disminuyen la estimulación del flujo biliar, promoviendo la estasis biliar y toxicidad biliar celular directa en prematuros extremos de la UCI.",
+    "options": [
+      {
+        "text": "Atresia biliar extrahepática secundaria a la resección intestinal mecánica previa.",
+        "isCorrect": false,
+        "explanation": "La resección intestinal no causa atresia biliar extrahepática; la atresia biliar es una anomalía fibroinflamatoria obliterativa primaria de los conductos biliares externos que no se gatilla de forma reactiva por cirugías abdominales bajas."
+      },
+      {
+        "text": "Fibrosis quística congénita clásica detectada en el cribado molecular de urgencia.",
+        "isCorrect": false,
+        "explanation": "Aunque la fibrosis quística causa tapones de bilis e ictericia, el antecedente directo de prematurez extrema con 20 días de NPT sin estímulo enteral es la causa más prevalente de colestasis adquirida en la UCI."
+      },
+      {
+        "text": "Incompatibilidad tardía de grupo clásico ABO por sensibilización láctea.",
+        "isCorrect": false,
+        "explanation": "La incompatibilidad ABO produce ictericia de predominio indirecto puro de inicio muy precoz en las primeras horas de vida, no manifestándose de forma tardía colestásica directa a los 25 días."
+      },
+      {
+        "text": "Colestasis transitoria asociada al uso de Nutrición Parenteral Total (colestasis inducida por NPT).",
+        "isCorrect": true,
+        "explanation": "La colestasis asociada a Nutrición Parenteral (NPT) es una complicación frecuente en prematuros de la UCI expuestos a NPT por más de dos semanas. Su patogenia es multifactorial: falta de estímulo enteral (que reduce la secreción de hormonas colecistocinéticas y disminuye el flujo biliar), toxicidad de los componentes lipídicos intravenosos, estasis biliar y sobrecrecimiento bacteriano intestinal. El tratamiento de elección es iniciar la alimentación enteral precoz para estimular la contractilidad biliar."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Neonatología",
+    "area": "Neonatología",
+    "topic": "Ictericia Neonatal",
+    "text": "En la consulta de control de niño sano, usted evalúa a un lactante de 12 días de vida que presenta ictericia leve de la cara. El médico utiliza un bilirubinómetro transcutáneo (TcB) para realizar el cribado. Al explicar el uso de esta herramienta de tamizaje no invasiva a la madre, ¿cuál es la recomendación correcta respecto a sus indicaciones y limitaciones clínicas?",
+    "hint": "La medición transcutánea estima la bilirrubina cutánea mediante reflectancia espectral. Ciertos factores como la decoloración por fototerapia o el grosor de la piel en prematuros alteran de forma severa la lectura.",
+    "options": [
+      {
+        "text": "Solo puede ser utilizado si se aplica directamente en la región plantar del recién nacido, requiriendo vitropresión mecánica extrema de la zona.",
+        "isCorrect": false,
+        "explanation": "Los sitios estandarizados para la medición transcutánea son el esternón (región media del tórax) y la frente del recién nacido; la región plantar del pie no está validada y su grosor cutáneo altera la lectura espectral."
+      },
+      {
+        "text": "Es una herramienta diagnóstica definitiva que reemplaza de forma absoluta la medición de bilirrubinemia sérica en cualquier circunstancia clínica.",
+        "isCorrect": false,
+        "explanation": "No es una herramienta diagnóstica definitiva de confirmación; ante valores elevados o que cruzan la línea de fototerapia, la medición de bilirrubina sérica total en sangre sigue siendo el estándar de oro indispensable para tomar decisiones terapéuticas."
+      },
+      {
+        "text": "Es útil como tamizaje rápido no invasivo para evitar punciones; sin embargo, pierde precisión si los niveles de bilirrubina son altos (>15 mg/dL), si el niño está bajo fototerapia o si es menor de 35 semanas de gestación.",
+        "isCorrect": true,
+        "explanation": "El bilirubinómetro transcutáneo es una excelente herramienta de tamizaje no invasivo que disminuye el número de punciones dolorosas en neonatos estables. Sin embargo, su precisión disminuye significativamente con valores de bilirrubina >15 mg/dL (donde siempre se debe confirmar con bilirrubinemia sérica venosa), en recién nacidos prematuros menores de 35 semanas (debido a diferencias en el grosor y madurez de la piel) y en niños bajo fototerapia, ya que la luz decolora la piel superficial pero no disminuye proporcionalmente la bilirrubina central sérica de forma inmediata."
+      },
+      {
+        "text": "Es inútil en recién nacidos de término y su uso está limitado exclusivamente a prematuros extremos ventilados mecánicamente en la UCI.",
+        "isCorrect": false,
+        "explanation": "El bilirubinómetro es sumamente útil y preciso de forma preferente en recién nacidos de término sanos en alojamiento conjunto, facilitando el cribado metabólico pre-alta de forma no invasiva."
+      }
+    ]
+  }
+]
