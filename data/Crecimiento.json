@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un lactante de 8 meses de edad es llevado al Centro de Salud Familiar para su control de salud infantil de rutina. Al realizar la evaluación antropométrica y trasladar los datos a las curvas de crecimiento de la OMS vigentes en la red de salud chilena, se constata: Peso/Talla en +1,2 DE y Talla/Edad en -1,4 DE. ¿Cuál es el diagnóstico nutricional e indicador de talla correcto para este paciente?",
+    "hint": "En menores de 6 años, el indicador de diagnóstico nutricional primario de la OMS es Peso/Talla. Recuerde los límites de desviaciones estándar (DE) para definir el sobrepeso y el riesgo de talla baja.",
+    "options": [
+      {
+        "text": "El lactante presenta un diagnóstico nutricional de Sobrepeso asociado a un Riesgo de Talla Baja para su edad cronológica actual.",
+        "isCorrect": true,
+        "explanation": "Según la norma técnica del MINSAL para la supervisión infantil, en menores de 6 años la clasificación nutricional se realiza por Peso/Talla. Un valor entre +1 y +2 DE define \"Sobrepeso\". Por otro lado, la Talla/Edad se clasifica como \"Riesgo de Talla Baja\" cuando se ubica entre -1 y -2 DE."
+      },
+      {
+        "text": "El lactante presenta un diagnóstico nutricional de Obesidad asociado a un Retraso del Crecimiento para su edad cronológica actual.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico de Obesidad exige un indicador de Peso/Talla mayor o igual a +2 DE, e indicar un retraso del crecimiento franco requiere una Talla/Edad menor a -2 DE."
+      },
+      {
+        "text": "El lactante presenta un diagnóstico nutricional de Riesgo de Sobrepeso asociado a una Talla Baja Constitucional para su edad cronológica actual.",
+        "isCorrect": false,
+        "explanation": "El indicador de \"Riesgo de Sobrepeso\" no es la categoría diagnóstica estándar para +1,2 DE, y el concepto de talla baja constitucional requiere un estudio médico longitudinal que no se define de forma aislada en un control."
+      },
+      {
+        "text": "El lactante presenta un diagnóstico nutricional de Eutrofia asociado a una Talla Normal en el límite inferior para su edad cronológica actual.",
+        "isCorrect": false,
+        "explanation": "El lactante no se encuentra eutrófico, ya que su peso excede la relación para su longitud por sobre una desviación estándar, lo cual lo sitúa en rango de malnutrición por exceso leve (sobrepeso)."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante el control sano de un preescolar de 3 años de edad en el CESFAM, usted se dispone a evaluar su estado nutricional. El registro antropométrico de la balanza y el estadiómetro arroja un valor de Índice de Masa Corporal para la Edad (IMC/E) situado en +2,4 DE. De acuerdo con las curvas de crecimiento de la OMS y el MINSAL en Chile, ¿cómo clasifica nutricionalmente a este paciente?",
+    "hint": "A partir de los 2 años de edad, en los controles sanos chilenos de APS se incorpora de forma sistemática el indicador de IMC/Edad de la OMS. Recuerde el punto de corte para definir la obesidad.",
+    "options": [
+      {
+        "text": "El paciente se clasifica en rango de Obesidad Severa debido a que su índice se sitúa por sobre el percentil noventa y siete.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico de Obesidad Severa en menores de 6 años se reserva para valores que exceden las tres desviaciones estándar (+3 DE) de la referencia de la OMS."
+      },
+      {
+        "text": "El paciente se clasifica en rango de Sobrepeso debido a que su indicador de masa corporal se sitúa por sobre una desviación estándar.",
+        "isCorrect": false,
+        "explanation": "El Sobrepeso en preescolares se sitúa de forma estricta entre las desviaciones +1 y +2 DE, rango de carril nutricional inferior al presentado por el paciente."
+      },
+      {
+        "text": "El paciente se clasifica en rango de Obesidad debido a que su indicador de masa corporal se sitúa por sobre las dos desviaciones.",
+        "isCorrect": true,
+        "explanation": "Para niños de 2 a 5 años, el indicador nutricional de elección en Chile es el IMC/Edad de la OMS. El diagnóstico de \"Obesidad\" se establece de forma estricta cuando el IMC/Edad es igual o mayor a +2 DE. Al presentar +2,4 DE, el paciente ingresa en esta categoría."
+      },
+      {
+        "text": "El paciente se clasifica en rango de Riesgo de Obesidad debido a que su indicador de masa corporal se sitúa en el percentil noventa.",
+        "isCorrect": false,
+        "explanation": "El término \"Riesgo de Obesidad\" no es una categoría diagnóstica codificada en las normas chilenas de evaluación nutricional por desviaciones estándar para este rango de edad."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un escolar de 6 años de edad, previamente sano, es llevado a su control de salud en APS. Al evaluar la talla, se constata que su indicador Talla/Edad se sitúa exactamente en -2,1 DE. Al revisar la velocidad de crecimiento en los últimos doce meses, esta se reporta en rangos normales de 5 cm/año. De acuerdo con las guías de derivación de talla baja del MINSAL, ¿cuál es la conducta clínica inicial correcta?",
+    "hint": "La talla baja se define por una Talla/Edad por debajo de -2 DE. Ante el diagnóstico, la red de salud primaria debe realizar un estudio de descarte de patologías crónicas de forma previa a la interconsulta con la subespecialidad.",
+    "options": [
+      {
+        "text": "Se diagnostica Talla Baja y se debe iniciar el estudio básico con exámenes generales antes de derivar al especialista endocrinólogo.",
+        "isCorrect": true,
+        "explanation": "Un indicador de Talla/Edad menor a -2 DE define Talla Baja. La norma técnica chilena estipula que en APS, antes de derivar al endocrinólogo infantil, se debe realizar un estudio clínico inicial para descartar causas secundarias comunes (ej: hemograma, perfil bioquímico, función renal, electrolitos, anticuerpos anti-transglutaminasa para enfermedad celíaca, hormonas tiroideas TSH/T4L, examen de orina y parásitos fecales)."
+      },
+      {
+        "text": "Se diagnostica Talla Baja y se debe iniciar de forma inmediata un tratamiento empírico oral con hormona del crecimiento recombinante.",
+        "isCorrect": false,
+        "explanation": "La hormona del crecimiento recombinante es de manejo y prescripción exclusiva del endocrinólogo infantil tras confirmar deficiencias o indicaciones específicas, y nunca se administra de forma empírica en APS."
+      },
+      {
+        "text": "Se diagnostica Talla Baja y se debe solicitar de urgencia un cariograma molecular periférico por sospecha de trisomía veintiuno.",
+        "isCorrect": false,
+        "explanation": "Un cariograma urgente no está indicado de entrada en un escolar clínicamente sano y fenotípicamente normal, reservándose para sospechas dirigidas de cromosomopatías específicas como el síndrome de Turner en niñas."
+      },
+      {
+        "text": "Se diagnostica Talla Baja y se debe indicar el alta a domicilio con control anual, asumiendo un patrón constitucional familiar benigno.",
+        "isCorrect": false,
+        "explanation": "Aunque la velocidad de crecimiento sea normal, un valor por debajo de -2 DE constituye una desviación patológica del crecimiento que no puede desestimarse como constitucional sin un estudio básico previo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante el control sano de un lactante de 6 meses de edad, usted evalúa su velocidad de crecimiento estatural. Al revisar los controles anteriores, se constata que en los últimos dos meses (desde los 4 a los 6 meses) el lactante ha crecido de forma lineal a razón de 1,0 cm/mes. ¿Cómo interpreta semiológicamente esta velocidad de crecimiento y cuál es la conducta correcta?",
+    "hint": "Recuerde las velocidades de crecimiento estatural normales en el primer año: de 0 a 3 meses es de ~3 cm/mes; de 3 a 6 meses es de ~2 cm/mes; de 6 a 9 meses es de ~1,5 cm/mes; y de 9 a 12 meses es de ~1 cm/mes.",
+    "options": [
+      {
+        "text": "La velocidad se encuentra acelerada para su edad, por lo que se debe suspender la entrega de vitamina D para evitar la osificación.",
+        "isCorrect": false,
+        "explanation": "La velocidad no está acelerada sino francamente deprimida para el rango de edad, y la suspensión de la vitamina D no es un manejo clínico indicado en trastornos del crecimiento."
+      },
+      {
+        "text": "La velocidad se encuentra en rango normal para su edad, por lo que se registra el hallazgo y se mantiene la pauta de supervisión.",
+        "isCorrect": false,
+        "explanation": "Considerar normal una velocidad de crecimiento de 1 cm/mes a los 4-6 meses subestima un potencial fracaso del fomento o rezago estaturo-ponderal, perdiendo la oportunidad de una intervención precoz en APS."
+      },
+      {
+        "text": "La velocidad se encuentra en rango límite para su edad, por lo que se debe iniciar de forma inmediata una dieta hipercalórica selectiva.",
+        "isCorrect": false,
+        "explanation": "Antes de indicar cambios dietarios agresivos o dietas hipercalóricas artificiales, se requiere diagnosticar de forma dirigida la causa subyacente y optimizar los aportes fisiológicos basales."
+      },
+      {
+        "text": "La velocidad se encuentra disminuida para su edad, por lo que se debe evaluar de forma dirigida la técnica alimentaria y descartar noxas.",
+        "isCorrect": true,
+        "explanation": "Fisiológicamente, un lactante entre los 3 y 6 meses de edad debe crecer a una tasa aproximada de 2,0 cm/mes. Crecer a 1,0 cm/mes en este periodo representa una velocidad de crecimiento disminuida (desaceleración de la curva). Esto obliga a evaluar exhaustivamente la ingesta alimentaria, la técnica de lactancia o preparación de fórmulas, y descartar infecciones silentes o patologías crónicas."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "En un Centro de Salud Familiar de la comuna de San Fernando, se realiza el control de niño sano a un preescolar de 3 años de edad. De acuerdo con las pautas y normas técnicas de supervisión infantil del MINSAL vigentes en Chile, ¿cuál es la recomendación correcta respecto a la toma de presión arterial en este paciente?",
+    "hint": "Busque la edad de inicio recomendada para la toma de presión arterial de forma rutinaria y preventiva en los controles sanos chilenos de APS, y el tamaño correcto del manguito.",
+    "options": [
+      {
+        "text": "La medición se debe iniciar de forma universal a los tres años utilizando un manguito que cubra el cuarenta por ciento del brazo.",
+        "isCorrect": true,
+        "explanation": "La Norma Técnica de Supervisión de Niños y Niñas en APS del MINSAL establece que la medición de la presión arterial de forma preventiva y universal debe iniciarse a partir de los 3 años de edad (36 meses) en cada control anual. La técnica exige usar un manguito inflable cuyo ancho cubra aproximadamente el 40% de la circunferencia del brazo medio del niño (o un 80-100% de la longitud del brazo)."
+      },
+      {
+        "text": "La medición se debe iniciar de forma universal a los cinco años utilizando un manguito que cubra el ochenta por ciento del brazo.",
+        "isCorrect": false,
+        "explanation": "Iniciar la toma de presión arterial a los 5 años es tardío según las metas del programa de salud cardiovascular infantil de Chile, perdiendo la pesquisa de hipertensiones secundarias."
+      },
+      {
+        "text": "La medición se debe iniciar de forma universal al año de vida utilizando un manguito que cubra el sesenta por ciento de la pierna.",
+        "isCorrect": false,
+        "explanation": "No se realiza medición universal al año de vida en extremidades inferiores de forma sistemática en APS, reservándose la toma precoz para pacientes con factores de riesgo específicos (nefropatías, cardiopatías, prematurez extrema)."
+      },
+      {
+        "text": "La medición se debe iniciar de forma universal a los seis años utilizando un manguito que cubra el cincuenta por ciento del muslo.",
+        "isCorrect": false,
+        "explanation": "Plantear el inicio universal a los 6 años o la toma rutinaria en el muslo con manguitos sobredimensionados no se condice con los estándares técnicos validados por la Sociedad Chilena de Pediatría."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Una madre de un lactante de 2 meses asiste al control sano y consulta sobre las medidas de seguridad para la prevención del Síndrome de Muerte Súbita del Lactante (SMSL) en el hogar. De acuerdo con las recomendaciones vigentes del programa Chile Crece Contigo y el MINSAL, ¿cuál es la indicación correcta?",
+    "hint": "El SMSL asocia factores de riesgo mecánicos y ambientales evitables durante el sueño. La posición supina en cuna propia es la intervención que mayor impacto ha demostrado para reducir su incidencia.",
+    "options": [
+      {
+        "text": "Se debe indicar dormir de lado (decúbito lateral) apoyado en cojines blandos posicionadores y cubierto con sábanas gruesas holgadas.",
+        "isCorrect": false,
+        "explanation": "Dormir de lado es inestable; el lactante puede girarse fácilmente a prono (boca abajo) y los cojines posicionadores blandos aumentan críticamente el riesgo de asfixia por sofocación."
+      },
+      {
+        "text": "Se debe indicar dormir boca arriba (decúbito supino) en superficie firme, sin almohadas ni juguetes, y en la misma habitación materna.",
+        "isCorrect": true,
+        "explanation": "Las guías de sueño seguro para lactantes indican: posición decúbito supino (boca arriba) para dormir, en cuna propia sobre colchón firme, sin almohadas, juguetes, protectores acolchados ni ropa suelta que pueda obstruir la vía aérea. Se recomienda compartir la habitación de los padres (co-sleeping de habitación) pero no compartir la misma cama (evitar el colecho directo), especialmente en menores de 3 meses."
+      },
+      {
+        "text": "Se debe indicar dormir boca abajo (decúbito prono) para favorecer la eliminación de gases, compartiendo la misma cama con los padres.",
+        "isCorrect": false,
+        "explanation": "La posición boca abajo (prono) es el principal factor de riesgo independiente para SMSL, y el colecho directo en la misma cama con padres cansados o bajo efectos de sustancias aumenta el riesgo de aplastamiento accidental."
+      },
+      {
+        "text": "Se debe indicar dormir boca arriba (decúbito supino) en un colchón blando de agua, abrigando al lactante hasta que sude de forma activa.",
+        "isCorrect": false,
+        "explanation": "Los colchones de agua o blandos son peligrosos por amoldamiento facial, y el sobrecalentamiento (abrigar en exceso hasta sudar) es otro factor de riesgo biológico mayor documentado para gatillar apneas y SMSL."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante el control sano de un preescolar de 3 años de edad, se realiza la consejería sobre seguridad vial y el uso correcto de Sistemas de Retención Infantil (SRI) en vehículos particulares de acuerdo con la Ley de Tránsito vigente en Chile. ¿Cuál es la indicación normativa correcta?",
+    "hint": "La ley chilena exige el uso de SRI para niños de cierta edad y prohíbe el uso del asiento delantero para menores. Asocie las edades límite de uso de sillas (9 años) y la prohibición del asiento del copiloto (12 años).",
+    "options": [
+      {
+        "text": "Debe viajar en el asiento del copiloto delantero de forma obligatoria, utilizando un cojín de elevación (alzaor) con arnés de tres puntos.",
+        "isCorrect": false,
+        "explanation": "El asiento del copiloto delantero está estrictamente prohibido por ley para niños menores de 12 años de edad debido al riesgo de lesiones graves por la activación del airbag."
+      },
+      {
+        "text": "Debe viajar en el asiento trasero en una silla de seguridad mirando hacia adelante de forma indefinida hasta cumplir los doce años de edad.",
+        "isCorrect": false,
+        "explanation": "Obligar a usar silla mirando hacia adelante hasta los 12 años excede el límite legal de uso de SRI, y a esa edad el niño debe viajar en el asiento trasero utilizando el cinturón de seguridad normal del auto."
+      },
+      {
+        "text": "Debe viajar en el asiento trasero en una silla de seguridad mirando a contramarcha idealmente hasta los dos años, y silla hasta los nueve años.",
+        "isCorrect": true,
+        "explanation": "En Chile, la legislación de tránsito obliga a transportar a los niños en los asientos traseros utilizando un Sistema de Retención Infantil (SRI) adecuado a su peso y talla hasta cumplir los 9 años de edad (o 135 cm de estatura). Los pediatras recomiendan mantener la posición a contramarcha (mirando hacia atrás) el mayor tiempo posible, idealmente hasta los 2 o 4 años, debido a que protege el cuello inmaduro ante desaceleraciones."
+      },
+      {
+        "text": "Debe viajar en el asiento trasero utilizando el cinturón de seguridad de adulto de forma directa sobre el tórax sin requerir dispositivos.",
+        "isCorrect": false,
+        "explanation": "El cinturón de adulto no es adecuado para un preescolar de 3 años; al pasar sobre el cuello y el abdomen en vez de zonas óseas duras (clavícula y pelvis), puede provocar lesiones viscerales graves ante frenadas."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un preescolar de 2 años de edad es llevado de urgencia por su madre al consultorio tras haber ingerido accidentalmente una cantidad indeterminada de detergente lavaloza líquido concentrado desde el mueble de la cocina de su hogar. Se encuentra consciente, activo y llorando. ¿Cuál es la conducta de primera línea recomendada por la guía de intoxicaciones?",
+    "hint": "Ante la ingesta de cáusticos, irritantes químicos o sustancias espumantes (como detergentes o jabones), la provocación del vómito re-expone la mucosa esofágica y laríngea a la agresión química y arriesga la vía aérea por aspiración.",
+    "options": [
+      {
+        "text": "Inducir el vómito de forma inmediata mediante estímulo faríngeo mecánico y administrar dos vasos de leche entera tibia para diluir.",
+        "isCorrect": false,
+        "explanation": "Provocar el vómito o administrar leche para \"diluir\" o neutralizar el tóxico es una práctica obsoleta y peligrosa que exacerba el daño mucoso, aumenta el volumen gástrico y promueve el vómito reflejo."
+      },
+      {
+        "text": "Administrar una ampolla de carbón activado diluido en agua gasificada de forma rápida y derivar al SAPU más cercano para observación.",
+        "isCorrect": false,
+        "explanation": "El carbón activado no está indicado en la ingesta de cáusticos o detergentes, ya que no adsorbe eficientemente estas sustancias y dificulta la visualización endoscópica de la mucosa en caso de requerirse."
+      },
+      {
+        "text": "Realizar un lavado gástrico vigoroso en el domicilio utilizando agua corriente fría antes de trasladar al servicio de urgencia local.",
+        "isCorrect": false,
+        "explanation": "El lavado gástrico doméstico o rudimentario expone al menor a perforación esofágica accidental e hipoxia, debiendo realizarse exclusivamente bajo control médico estricto en unidades de urgencia hospitalarias."
+      },
+      {
+        "text": "No inducir el vómito por riesgo de neumonía por aspiración química, mantener en régimen cero y trasladar de urgencia para evaluación.",
+        "isCorrect": true,
+        "explanation": "En caso de ingesta de detergentes, cáusticos u otros irritantes químicos, la inducción del vómito está estrictamente contraindicada por el alto riesgo de broncoaspiración de espuma o contenido químico, lo que provoca neumonitis química severa. Se debe mantener al paciente en régimen cero (ayuno) y trasladarlo rápidamente a un centro de urgencias para evaluación médica."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante el control sano de los 12 meses en el CESFAM, usted realiza la evaluación bucodentaria del lactante según las pautas del Control con Enfoque de Riesgo Odontológico (CERO) en Chile. Al pesquisar la presencia de 4 dientes incisivos sanos, ¿cuál es la indicación correcta de higiene bucal que debe entregar a la madre?",
+    "hint": "Las directrices actuales del MINSAL y de la Sociedad Chilena de Odontopediatría recomiendan la exposición temprana al flúor preventivo sistémico-local desde la erupción de la primera pieza decidua.",
+    "options": [
+      {
+        "text": "Iniciar cepillado dental dos veces al día con pasta con flúor de mil a mil quinientos ppm, usando el tamaño de un grano de arroz.",
+        "isCorrect": true,
+        "explanation": "Para niños menores de 3 años, las guías clínicas de salud bucal chilenas norman que el cepillado debe realizarse al menos 2 veces al día (después del desayuno y antes de dormir) utilizando cepillo de filamentos suaves y pasta dental con una concentración de flúor de 1000 a 1450 ppm. Para minimizar el riesgo de fluorosis dental por deglución, la cantidad de pasta en el cepillo debe ser equivalente a un \"grano de arroz crudo\"."
+      },
+      {
+        "text": "Iniciar limpieza exclusiva con gasa húmeda sin pasta de dientes de forma semanal, postergando el cepillo hasta los tres años de edad.",
+        "isCorrect": false,
+        "explanation": "Limpiar solo con gasa húmeda semanal es insuficiente para remover la placa bacteriana cariogénica una vez que han erupcionado las piezas dentarias activas en la cavidad oral."
+      },
+      {
+        "text": "Iniciar cepillado dental una vez al día con pasta con flúor de quinientos ppm, usando el tamaño de una arveja entera en el cepillo.",
+        "isCorrect": false,
+        "explanation": "Las pastas de baja concentración (500 ppm) no son efectivas para prevenir la caries de la infancia temprana, y la dosis del \"tamaño de una arveja\" se reserva de forma exclusiva para mayores de 3 años que ya logran escupir el exceso."
+      },
+      {
+        "text": "Iniciar cepillado dental tres veces al día con pasta sin flúor de forma obligatoria, hasta que complete la dentición decidua total.",
+        "isCorrect": false,
+        "explanation": "Utilizar pastas dentales sin flúor de forma sistemática carece de efectividad protectora mineralizadora sobre el esmalte dental inmaduro expuesto a los carbohidratos de la alimentación del lactante mayor."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un lactante de 3 meses de edad asiste a su control programático en la APS. Durante la exploración física, usted evalúa el alineamiento y estabilidad de sus caderas. En el contexto del programa nacional chileno de pesquisa de displasia del desarrollo de caderas (DDC), ¿cuál es la conducta por imágenes de tamizaje universal indicada para este lactante?",
+    "hint": "En Chile existe una estrategia de salud pública universal (GES/AUGE) para la detección de la displasia de caderas mediante el uso de un examen radiológico de bajo costo a una edad específica del desarrollo óseo del lactante.",
+    "options": [
+      {
+        "text": "Solicitar una ecotomografía de caderas bilateral de forma universal debido a que los núcleos de osificación ya están completamente formados.",
+        "isCorrect": false,
+        "explanation": "La ecotomografía de caderas es de elección antes de los 3 meses de vida porque predomina el componente cartilaginoso, pero no constituye el examen de tamizaje universal y gratuito del programa de APS a los 3 meses."
+      },
+      {
+        "text": "Solicitar una radiografía de pelvis anteroposterior de forma universal debido a que los núcleos de osificación comienzan a aparecer a esta edad.",
+        "isCorrect": true,
+        "explanation": "En Chile, la radiografía de pelvis anteroposterior es un tamizaje universal y obligatorio para todos los lactantes a los 3 meses de edad (entre las semanas 12 y 16). A esta edad, los núcleos de osificación de las cabezas femorales comienzan a aparecer, permitiendo evaluar de forma confiable las líneas y ángulos acetabulares para descartar displasia."
+      },
+      {
+        "text": "Postergar el estudio imagenológico de tamizaje de caderas hasta el año de vida, indicando doble pañal de forma profiláctica universal.",
+        "isCorrect": false,
+        "explanation": "Postergar el estudio al año de vida es un error que retrasa el diagnóstico de displasia, perdiendo la oportunidad de un tratamiento ortopédico oportuno, y el uso de doble pañal profiláctico es una práctica obsoleta sin beneficio clínico."
+      },
+      {
+        "text": "Solicitar una radiografía de pelvis de forma exclusiva si el menor presenta antecedentes familiares directos o presentación podálica al nacer.",
+        "isCorrect": false,
+        "explanation": "El tamizaje radiológico a los 3 meses es universal y gratuito para todos los lactantes en Chile, independiente de si presentan o no factores de riesgo o examen físico de caderas alterado."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Usted realiza el control de niño sano a un lactante de 4 meses de edad en el Centro de Salud Familiar. De acuerdo con el Programa Nacional de Inmunizaciones (PNI) 2026 de Chile y las directrices de APS, ¿cuál es la pauta de evaluación del desarrollo psicomotor y las vacunas correspondientes que se deben administrar a esta edad?",
+    "hint": "Revise el cronograma de aplicación de pautas de tamizaje del DSM en Chile (la pauta abreviada se aplica a los 4, 12, 15, 21 y 24 meses) y el esquema vacunal del lactante menor al cuarto mes.",
+    "options": [
+      {
+        "text": "Aplicar el EEDP de forma universal y administrar la dosis de refuerzo de la vacuna Tres Vírica y vacuna Meningocócica recombinante del grupo B.",
+        "isCorrect": false,
+        "explanation": "El EEDP es una escala completa de 75 ítems que se aplica de forma universal a los 8 y 18 meses de vida en Chile, no a los 4 meses, y la vacuna Tres Vírica se administra a los 12 y 36 meses, no en el primer semestre."
+      },
+      {
+        "text": "Aplicar el TEPSI de forma universal y administrar la tercera dosis de la vacuna Hexavalente y Neumocócica conjugada trece valente.",
+        "isCorrect": false,
+        "explanation": "El TEPSI es un test de tamizaje para preescolares de 2 a 5 años de edad, inutilizable para lactantes menores de un año, y la tercera dosis de Hexavalente se administra a los 6 meses de vida."
+      },
+      {
+        "text": "Aplicar la Pauta Breve de DSM de forma universal y administrar la segunda dosis de la vacuna Hexavalente, Meningocócica B y Neumocócica.",
+        "isCorrect": true,
+        "explanation": "A los 4 meses de vida, la pauta de evaluación psicomotora indicada de forma universal en Chile es la Pauta Breve del Desarrollo Psicomotor (tamizaje de hitos). Las vacunas correspondientes al calendario PNI 2026 son la segunda dosis de: vacuna Hexavalente, vacuna Neumocócica conjugada (13-valente) y vacuna contra Meningococo B (recombinante)."
+      },
+      {
+        "text": "Aplicar la pauta M-CHAT de forma universal y administrar la primera dosis de la vacuna contra la Hepatitis A y la vacuna contra la Varicela.",
+        "isCorrect": false,
+        "explanation": "La pauta M-CHAT-R/F se aplica de forma dirigida a partir de los 16-18 meses de edad para pesquisar autismo, y la vacuna contra la Hepatitis A e inicio de Varicela corresponden al esquema del lactante de 18 meses."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Se atiende en control sano a un lactante de 6 meses de edad que se encuentra normopeso. Se asiste la consejería para el inicio de la alimentación complementaria no láctea de acuerdo con las Guías Alimentarias de Chile. ¿Cuál es la indicación correcta respecto a su hito alimentario y la inmunización programática del PNI?",
+    "hint": "El sexto mes de vida marca el inicio de la alimentación complementaria (almuerzo) de consistencia puré y la administración de la última dosis de inmunización primaria con vacuna Hexavalente del lactante menor.",
+    "options": [
+      {
+        "text": "Iniciar la alimentación con papillas dos veces al día agregando sal común, y administrar la vacuna de la Varicela de forma obligatoria.",
+        "isCorrect": false,
+        "explanation": "Agregar sal a las papillas está contraindicado por el riesgo de sobrecarga renal de solutos y la inducción de hábitos alimentarios poco saludables, y la vacuna contra la Varicela se inicia de forma obligatoria a los 18 meses de vida."
+      },
+      {
+        "text": "Iniciar la alimentación con frutas naturales picadas finas sin agua libre, y administrar el refuerzo de la vacuna Meningocócica tetravalente.",
+        "isCorrect": false,
+        "explanation": "Ofrecer frutas picadas o enteras a los 6 meses está desaconsejado por el riesgo crítico de atoramiento mecánico, y la vacuna Meningocócica tetravalente de refuerzo se administra a los 12 meses."
+      },
+      {
+        "text": "Iniciar la alimentación con jugos de fruta cítricos en mamadera de forma libre, y administrar la primera dosis de la vacuna de Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "Los jugos de fruta en mamadera no se recomiendan antes del año de vida debido al alto riesgo de caries y obesidad por aporte de azúcares libres simples, y la Hepatitis A corresponde al grupo de vacunas de los 18 meses."
+      },
+      {
+        "text": "Iniciar la alimentación con papilla una vez al día con agua libre, y administrar la tercera dosis de la vacuna Hexavalente del programa.",
+        "isCorrect": true,
+        "explanation": "A los 6 meses de edad, se indica iniciar la alimentación complementaria estructurada mediante la introducción de una papilla salada (almuerzo) de verduras y carne homogeneizada sin sal añadida, acompañada de agua hervida fría pura. Las vacunas correspondientes según el calendario PNI de Chile son la tercera dosis de la vacuna Hexavalente."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un lactante de 12 meses de edad (1 año de vida completo) acude a su control programático de niño sano en el CESFAM de San Fernando. De acuerdo con el calendario PNI 2026 de Chile, ¿cuáles son las tres vacunas obligatorias del programa ministerial que se deben administrar de forma simultánea a esta edad?",
+    "hint": "El primer año de vida representa un hito vacunal crítico donde se combinan inmunizaciones activas contra el sarampión-rubéola-paperas, el meningococo y el neumococo de forma de refuerzo coordinada.",
+    "options": [
+      {
+        "text": "Administrar de forma simultánea la vacuna Tres Vírica, Meningocócica conjugada tetravalente y el refuerzo de la Neumocócica conjugada.",
+        "isCorrect": true,
+        "explanation": "Al cumplir los 12 meses de edad, el calendario oficial PNI 2026 de Chile indica administrar tres vacunas programáticas de forma simultánea: la primera dosis de la vacuna Tres Vírica o SRP (Sarampión, Rubéola, Parotiditis), la dosis única de la vacuna Meningocócica conjugada tetravalente (serogrupos A, C, W-135, Y) y la dosis de refuerzo de la vacuna Neumocócica conjugada (13-valente)."
+      },
+      {
+        "text": "Administrar de forma simultánea la vacuna Hexavalente de refuerzo, la vacuna contra la Varicela y la vacuna contra la Hepatitis A.",
+        "isCorrect": false,
+        "explanation": "El refuerzo de la vacuna Hexavalente y las primeras dosis de las vacunas contra la Varicela y la Hepatitis A corresponden de forma estricta al esquema inmunológico del lactante de 18 meses de vida."
+      },
+      {
+        "text": "Administrar de forma simultánea la vacuna contra la Varicela de segunda dosis, la vacuna Tres Vírica y la vacuna Meningocócica grupo B.",
+        "isCorrect": false,
+        "explanation": "La segunda dosis de la vacuna contra la Varicela se administra de forma programática a los 36 meses de vida (3 años), y la Meningocócica B tiene su dosis de refuerzo al decimoctavo mes."
+      },
+      {
+        "text": "Administrar de forma simultánea la vacuna de Hepatitis A, la vacuna Hexavalente de primera dosis y la vacuna contra el Virus Papiloma.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra la Hepatitis A se administra a los 18 meses, y la vacuna contra el Virus del Papiloma Humano (VPH) se inicia en el ámbito escolar a nivel de 4° Básico de la enseñanza general chilena."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un lactante de 18 meses (1 año y medio de vida) asiste a su control programático de niño sano en el consultorio. De acuerdo con el Programa Nacional de Inmunizaciones (PNI) 2026 de Chile y las directrices de APS, ¿cuál es la pauta de evaluación del desarrollo psicomotor y las vacunas que se deben administrar a esta edad?",
+    "hint": "Al año y medio, se aplica de forma mandatoria la escala completa de evaluación del desarrollo (EEDP) y se administra un bloque masivo de vacunas que cierran el esquema primario del lactante mayor.",
+    "options": [
+      {
+        "text": "Aplicar el Test de Desarrollo Psicomotor TEPSI y administrar la segunda dosis de la vacuna Tres Vírica y vacuna contra la Varicela del plan.",
+        "isCorrect": false,
+        "explanation": "El TEPSI está normado para niños de 2 a 5 años (no lactantes de 18 meses) y la segunda dosis de Tres Vírica y Varicela se administran a los 36 meses de vida."
+      },
+      {
+        "text": "Aplicar la Escala de Evaluación EEDP y administrar el refuerzo de la Hexavalente, Meningocócica grupo B, Varicela y la vacuna Hepatitis A.",
+        "isCorrect": true,
+        "explanation": "En el control de salud de los 18 meses, se debe aplicar de forma universal la Escala de Evaluación del Desarrollo Psicomotor (EEDP) de 0 a 2 años. Las vacunas indicadas por el PNI 2026 son: la dosis de refuerzo de la vacuna Hexavalente, el refuerzo de la vacuna Meningocócica grupo B, la primera dosis de la vacuna contra la Varicela y la dosis única de la vacuna contra la Hepatitis A."
+      },
+      {
+        "text": "Aplicar la Pauta Breve del Desarrollo DSM y administrar la tercera dosis de la vacuna Neumocócica conjugada y vacuna contra el Papiloma.",
+        "isCorrect": false,
+        "explanation": "La Pauta Breve de DSM se aplica en otros hitos de transición, pero a los 18 meses corresponde la escala completa del EEDP, y la Neumocócica no tiene dosis de refuerzo programadas a los 18 meses."
+      },
+      {
+        "text": "Aplicar la pauta de tamizaje M-CHAT y administrar de forma exclusiva la dosis única de la vacuna BCG contra la tuberculosis invasora.",
+        "isCorrect": false,
+        "explanation": "Aunque la pauta M-CHAT se asocia a la pesquisa de autismo a partir de esta edad, no es la escala del DSM principal del control sano de APS chileno, y la vacuna BCG es de uso neonatal exclusivo en la maternidad."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "En el contexto del control de salud integral del niño y la niña en APS en Chile, se aplica la pauta M-CHAT-R/F para el tamizaje de riesgo de Trastornos del Espectro Autista. ¿Cuál es el rango de edad recomendado para su aplicación universal y cómo se interpretan los puntajes intermedios obtenidos?",
+    "hint": "Esta pauta de detección precoz de autismo consta de 20 preguntas cerradas a responder por los cuidadores. Un puntaje intermedio requiere refinar la evaluación mediante una entrevista estructurada de seguimiento.",
+    "options": [
+      {
+        "text": "Se aplica de forma exclusiva ante la presencia de retraso motor severo, y un puntaje de un punto indica una derivación de urgencia.",
+        "isCorrect": false,
+        "explanation": "Se aplica de forma universal para la pesquisa social de autismo independientemente del desarrollo motor, y un puntaje de 1 punto se cataloga como bajo riesgo de sospecha que no requiere derivación."
+      },
+      {
+        "text": "Se aplica de forma universal al año de vida, y un puntaje de ocho puntos indica un desarrollo social completamente normalizado.",
+        "isCorrect": false,
+        "explanation": "No está diseñada para el año de vida debido a que evalúa hitos sociales complejos del segundo año, y un puntaje de 8 puntos clasifica en rango de alto riesgo que obliga a una derivación directa."
+      },
+      {
+        "text": "Se aplica de forma universal a los dieciocho y veinticuatro meses, y un puntaje de tres a siete puntos exige realizar la entrevista de seguimiento.",
+        "isCorrect": true,
+        "explanation": "Le cuestionario M-CHAT-R/F se aplica de forma universal a los 18 y 24 meses de edad en los controles de salud de Chile. Los rangos de riesgo del puntaje inicial de 20 puntos son: Bajo riesgo (0-2 puntos), Riesgo medio (3-7 puntos) y Alto riesgo (8-20 puntos). Un puntaje en rango medio (3 a 7 puntos) exige aplicar de forma obligatoria la \"Entrevista de Seguimiento\" (Follow-Up) del instrumento antes de decidir la derivación."
+      },
+      {
+        "text": "Se aplica de forma optativa a los tres años de vida, y un puntaje de dos puntos indica la necesidad de suspender el control sano.",
+        "isCorrect": false,
+        "explanation": "Su aplicación universal está protocolizada a los 18 y 24 meses, no a los 3 años de forma electiva, y un puntaje de 2 puntos indica riesgo bajo, lo que significa que el niño sigue sus controles habituales de forma normal."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un preescolar de 3 años de edad asiste a su control sano en el Centro de Salud Familiar. De acuerdo con las normas de supervisión integral en APS de Chile, ¿cuál es el instrumento del desarrollo psicomotor y las evaluaciones clínicas de tamizaje de órganos de los sentidos que corresponden realizar?",
+    "hint": "El trigésimo sexto mes (3 años) marca la transición del preescolar en el programa infantil del MINSAL. Se incorpora un test específico para el tamizaje motor y cognitivo de este rango etario, junto con tamizajes cardiovasculares y sensoriales básicos.",
+    "options": [
+      {
+        "text": "Se aplica de forma universal el instrumento EEDP, y se realiza la monitorización invasiva de la presión arterial central de urgencia.",
+        "isCorrect": false,
+        "explanation": "El EEDP es exclusivo para menores de 2 años, por lo que no corresponde aplicarlo a los 3 años de edad, y la toma de presión arterial en APS es no invasiva mediante manguito neumático común."
+      },
+      {
+        "text": "Se aplica de forma universal la Pauta Breve de DSM, y se realiza el tamizaje auditivo mediante emisiones otoacústicas en el box.",
+        "isCorrect": false,
+        "explanation": "La Pauta Breve se aplica en hitos de transición anteriores (ej: 24 meses), y el tamizaje auditivo instrumental mediante emisiones otoacústicas se realiza en el periodo neonatal en la maternidad, no de forma rutinaria a los 3 años."
+      },
+      {
+        "text": "Se aplica de forma universal el cuestionario ASQ-3, y se realiza el tamizaje visual utilizando el test de Snellen de letras gigantes.",
+        "isCorrect": false,
+        "explanation": "El ASQ-3 no es el instrumento de tamizaje del DSM estandarizado u oficial del programa nacional chileno, y el test de Snellen de letras tradicionales exige alfabetización previa, siendo inapropiado para un niño de 3 años."
+      },
+      {
+        "text": "Se aplica de forma universal el instrumento TEPSI, y se realiza la medición de la presión arterial y evaluación de la agudeza visual.",
+        "isCorrect": true,
+        "explanation": "En el control de niño sano de los 36 meses (3 años), la norma técnica del MINSAL estipula aplicar de forma universal el Test de Desarrollo Psicomotor (TEPSI) para niños de 2 a 5 años. Clínicamente, se incorpora la toma de presión arterial rutinaria y la evaluación cualitativa de la agudeza visual mediante optotipos de símbolos sencillos (como LEA Symbols) para pesquisar oportunamente ambliopía y estrabismo."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante la supervisión de salud de un escolar de 6 años en la APS chilena, la madre y el profesor del colegio manifiestan preocupación por sospechas de Trastorno por Déficit de Atención con Hiperactividad (TDAH). De acuerdo con las pautas de salud mental escolar, ¿cuál es el instrumento de tamizaje recomendado y su interpretación diagnóstica inicial?",
+    "hint": "Busque la herramienta abreviada conocida clásicamente en Chile como el Test de Conners Abreviado (Índice de hiperactividad para padres/profesores) utilizada para evaluar de forma estandarizada los síntomas de inatención e impulsividad.",
+    "options": [
+      {
+        "text": "Es una escala de diez ítems completada por padres o profesores, y un puntaje igual o mayor a quince puntos en Chile sugiere sospecha.",
+        "isCorrect": true,
+        "explanation": "Para el tamizaje de TDAH en la red de APS chilena (programa de salud escolar), se utiliza el Test de Conners Abreviado (Escala de valoración de Conners reducida a 10 ítems para profesores y padres). Cada ítem se puntúa de 0 a 3. En Chile, un puntaje igual o mayor a 15 puntos es indicativo de sospecha de TDAH que justifica la derivación médica para confirmación diagnóstica."
+      },
+      {
+        "text": "Es una escala de veinte ítems completada de forma exclusiva por el médico, y un puntaje de un punto sugiere sospecha de déficit.",
+        "isCorrect": false,
+        "explanation": "La escala de Conners abreviada consta de 10 ítems y no es completada por el médico sino por informantes clave (padres/profesores) que conviven con el escolar, y un puntaje bajo no levanta sospecha."
+      },
+      {
+        "text": "Es una escala de cinco ítems completada por el menor de forma autónoma, y un puntaje de treinta puntos sugiere sospecha de hiperactividad.",
+        "isCorrect": false,
+        "explanation": "El escolar de 6 años carece de la madurez de lectoescritura y de autoconocimiento reflexivo para completar un test de auto-reporte de forma autónoma y confiable."
+      },
+      {
+        "text": "Es una escala de cincuenta ítems completada de forma conjunta por el equipo, y un puntaje de cero puntos sugiere sospecha de déficit.",
+        "isCorrect": false,
+        "explanation": "Un instrumento de 50 ítems es impráctico para el tamizaje rápido en APS, y un puntaje de 0 puntos representa la ausencia total de sintomatología impulsiva u oposicionista, descartando el déficit."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Se realiza la evaluación de la agudeza visual en un preescolar de 4 años de edad utilizando el test de optotipos de Lea Symbols durante su control sano en el consultorio. ¿Cuál de los siguientes criterios clínicos al examen de agudeza visual obliga de forma mandatoria a la derivación a oftalmología según las normas de Chile?",
+    "hint": "En la pesquisa de ambliopía y vicios de refracción, tanto el rendimiento absoluto del peor ojo como la asimetría de rendimiento entre ambos ojos son indicadores de riesgo de pérdida visual permanente irreversible.",
+    "options": [
+      {
+        "text": "Se debe derivar a oftalmología si la agudeza visual en el peor ojo es de veinte/treinta o si la diferencia es de un optotipo simétrico.",
+        "isCorrect": false,
+        "explanation": "Una agudeza de 20/30 en ambos ojos se considera normal y esperable para el desarrollo visual de un niño de 4 años, no requiriendo derivación si el rendimiento es simétrico y alineado."
+      },
+      {
+        "text": "Se debe derivar a oftalmología si la agudeza visual en el peor ojo es menor a veinte/treinta o si hay diferencia de dos líneas o más.",
+        "isCorrect": true,
+        "explanation": "Según la pauta nacional de tamizaje visual del preescolar, los criterios para derivar a oftalmología a los 4 años son: 1) Agudeza visual menor a 20/30 en cualquiera de los dos ojos por separado, o 2) Una diferencia de agudeza visual de dos líneas o más de los optotipos del test entre ambos ojos (anisometropía), lo cual pone en riesgo de ambliopía."
+      },
+      {
+        "text": "Se debe derivar a oftalmología si la agudeza visual en ambos ojos es de veinte/veinte o si hay una simetría perfecta de los optotipos.",
+        "isCorrect": false,
+        "explanation": "Una agudeza de 20/20 bilateral con simetría perfecta es la meta de visión óptima del desarrollo ocular maduro que confirma normalidad."
+      },
+      {
+        "text": "Se debe derivar a oftalmología si la agudeza visual en el mejor ojo es de veinte/diez o si presenta un reflejo rojo pupilar normal.",
+        "isCorrect": false,
+        "explanation": "20/10 es un rendimiento visual excelente de alta definición, y un reflejo rojo pupilar normal (test de Brückner simétrico) descarta anomalías de medios transparentes del ojo, indicando salud ocular."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante la clase de semiología pediátrica, el docente aborda los cambios en las proporciones corporales del recién nacido a lo largo del crecimiento. ¿Cuál de las siguientes afirmaciones describe de forma correcta la evolución fisiológica de la relación entre el segmento superior (SS) y el segmento inferior (SI) desde el nacimiento?",
+    "hint": "Al nacer, la cabeza y el tronco (segmento superior) son proporcionalmente más grandes que las extremidades inferiores (segmento inferior). El crecimiento de las piernas en la infancia modifica esta proporción de forma paulatina.",
+    "options": [
+      {
+        "text": "La relación SS/SI es de aproximadamente uno al nacer, y aumenta progresivamente hasta alcanzar un valor de dos en la edad del escolar.",
+        "isCorrect": false,
+        "explanation": "Si la relación fuera de 1 al nacer y subiera a 2, significaría que el tronco crece exponencialmente más rápido que las piernas en la infancia, lo que daría un fenotipo desproporcionado patológico."
+      },
+      {
+        "text": "La relación SS/SI es de aproximadamente dos al nacer, y se mantiene constante sin cambios a lo largo de todas las etapas de la infancia.",
+        "isCorrect": false,
+        "explanation": "La constancia de la proporción corporal neonatal a lo largo del crecimiento es patológica y describe condiciones asociadas a displasias esqueléticas o enanismo desproporcionado (acondroplasia)."
+      },
+      {
+        "text": "La relación SS/SI es de aproximadamente uno coma siete al nacer, disminuyendo hasta alcanzar un valor de uno en el escolar de diez años.",
+        "isCorrect": true,
+        "explanation": "Fisiológicamente, el recién nacido tiene una relación SS/SI de aproximadamente 1,7 al nacer debido a extremidades inferiores cortas. A medida que progresa el crecimiento, las piernas crecen a una tasa lineal acelerada respecto al tronco, lo que disminuye progresivamente la relación, alcanzando un valor de ~1,0 (segmentos iguales) alrededor de los 10 años."
+      },
+      {
+        "text": "La relación SS/SI es de aproximadamente cero coma cinco al nacer, aumentando hasta alcanzar un valor de tres en la adolescencia tardía.",
+        "isCorrect": false,
+        "explanation": "Un valor de 0,5 al nacer implicaría que el recién nacido nace con extremidades inferiores sumamente largas respecto al tronco, proporción inexistente en el desarrollo embrionario humano normal."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Una madre acude a control con su hijo de 15 meses de edad. Ella refiere estar preocupada porque al niño aún \"no le ha salido ningún diente\" en la cavidad oral, y consulta si este hallazgo es normal. De acuerdo con la cronología normal de la erupción de la dentición decidua, ¿cuál de las siguientes opciones de diagnóstico y conducta es correcta?",
+    "hint": "La erupción dentaria es un proceso variable, pero existe una edad cronológica límite establecida por la odontopediatría a partir de la cual la ausencia completa de piezas dentarias deciduas se define como retraso en la erupción.",
+    "options": [
+      {
+        "text": "El primer diente en erupcionar es el primer molar superior a los tres meses, y la dentición decidua completa consta de treinta piezas.",
+        "isCorrect": false,
+        "explanation": "Los molares deciduos erupcionan típicamente a partir de los 12-14 meses de edad, y la dentición decidua o de \"leche\" completa consta estrictamente de 20 piezas dentarias."
+      },
+      {
+        "text": "El primer diente en erupcionar es el canino inferior a los doce meses, y la ausencia de piezas a los quince meses se considera normal.",
+        "isCorrect": false,
+        "explanation": "Los caninos deciduos erupcionan habitualmente entre los 16 y 20 meses de vida, pero considerar normal la ausencia total de piezas a los 15 meses de edad es incorrecto según las pautas de APS."
+      },
+      {
+        "text": "El primer diente en erupcionar es el incisivo lateral superior a los cuatro meses, y la ausencia de piezas al año de vida se asocia a caries.",
+        "isCorrect": false,
+        "explanation": "La ausencia de dientes deciduo al año de vida no es una causa de caries primarias precoces sino un retraso eruptivo, y los incisivos centrales inferiores preceden de forma universal a los laterales."
+      },
+      {
+        "text": "El primer diente en erupcionar es el incisivo central inferior a los seis meses, y la ausencia de piezas a los quince meses es patológica.",
+        "isCorrect": true,
+        "explanation": "Fisiológicamente, el primer diente deciduo en erupcionar es el incisivo central inferior, ocurriendo en promedio a los 6 meses. No presentar ninguna pieza dentaria a los 15 meses de edad se define como \"retraso de la erupción dentaria\", constituyendo una bandera roja que obliga a investigar causas sistémicas (ej: hipotiroidismo, raquitismo) y derivar a odontopediatría."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante la aplicación de la pauta de supervisión de salud infantil de un lactante de 2 meses en el consultorio, se aplica la Pauta de Riesgo Biopsicosocial de Chile Crece Contigo (PRB). ¿Cuál de las siguientes afirmaciones describe de forma correcta el objetivo de este instrumento y los factores que evalúa?",
+    "hint": "Esta pauta busca identificar vulnerabilidades socioemocionales o del entorno familiar que pongan en riesgo el desarrollo integral del lactante en el marco del subsistema Chile Crece Contigo.",
+    "options": [
+      {
+        "text": "Evalúa factores como depresión materna, violencia intrafamiliar, baja escolaridad o consumo de drogas, requiriendo apoyo integral.",
+        "isCorrect": true,
+        "explanation": "La Pauta de Riesgo Biopsicosocial de Chile Crece Contigo (PRB) evalúa factores sociofamiliares de vulnerabilidad como: bajo nivel educacional de los cuidadores, sospecha de depresión materna (Escala de Edimburgo), presencia de violencia intrafamiliar, o consumo problemático de alcohol/drogas. Identificar un riesgo activa redes de apoyo psicosocial."
+      },
+      {
+        "text": "Evalúa factores como la talla baja del menor, tipo de alimentación al nacer o nivel de hematocrito capilar, requiriendo apoyo.",
+        "isCorrect": false,
+        "explanation": "Las variables biológicas puras como la talla baja o hematocrito se registran en las hojas de antropometría y clínica general, no formando parte de la pauta biopsicosocial de vulnerabilidad ambiental."
+      },
+      {
+        "text": "Evalúa factores como la marca del coche de traslado, tipo de calefacción del hogar o número de hermanos mayores, requiriendo apoyo.",
+        "isCorrect": false,
+        "explanation": "Los detalles de consumo material o configuración básica familiar sin vulnerabilidad crítica no estructuran las dimensiones cuantitativas evaluadas en la pauta oficial."
+      },
+      {
+        "text": "Evalúa factores como la asistencia a colegios bilingües, marcas de vestuario utilizadas o frecuencia de viajes familiares al año.",
+        "isCorrect": false,
+        "explanation": "El nivel adquisitivo superfluo o preferencias de consumo acomodado corresponden a variables socioeconómicas indirectas ajenas a los fines de la pesquisa de vulnerabilidad social y de maltrato infantil del programa."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un escolar de 8 años de edad es evaluado en control sano en el consultorio. Al realizar el cálculo antropométrico del Índice de Masa Corporal para la Edad (IMC/E) utilizando las referencias de la OMS para mayores de 6 años, se registra un valor de -1,5 DE. ¿Cuál es la clasificación nutricional correcta para este escolar?",
+    "hint": "En la etapa escolar (mayores de 6 años), la clasificación de desnutrición y de riesgo de desnutrición utiliza cortes de desviaciones estándar por debajo de la media de la OMS. Recuerde el límite inferior de normalidad.",
+    "options": [
+      {
+        "text": "El escolar se clasifica en rango de Desnutrición debido a que su indicador de masa corporal se sitúa por debajo de las dos desviaciones.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico de Desnutrición clínica en el escolar exige registrar un IMC/Edad inferior a -2 DE (percentil 3), valor de déficit mayor al del paciente."
+      },
+      {
+        "text": "El escolar se clasifica en rango de Riesgo de Desnutrición debido a que su indicador de masa corporal se sitúa entre menos uno y menos dos.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con las guías de evaluación del estado nutricional del MINSAL para mayores de 6 años, el carril normal (Eutrofia) de la curva de IMC/Edad de la OMS se sitúa entre -1 y +1 DE. Un valor entre -1 y -2 DE se clasifica en el rango de \"Riesgo de Desnutrición\", requiriendo vigilancia nutricional."
+      },
+      {
+        "text": "El escolar se clasifica en rango de Sobrepeso debido a que su indicador de masa corporal se sitúa por sobre una desviación estándar.",
+        "isCorrect": false,
+        "explanation": "Un indicador situado por debajo de la media (negativo) es incompatible con el sobrepeso, el cual se sitúa por sobre +1 DE de la referencia de la OMS."
+      },
+      {
+        "text": "El escolar se clasifica en rango de Eutrofia debido a que su indicador de masa corporal se sitúa exactamente en el percentil cincuenta.",
+        "isCorrect": false,
+        "explanation": "Para clasificar en rango de Eutrofia, el valor de IMC/Edad debe posicionarse en un rango de normalidad por sobre la desviación -1 DE, lo cual no cumple este menor."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante la supervisión de salud de un lactante de 6 meses de edad, usted evalúa el desarrollo y la indemnidad de la vía sensorial auditiva. ¿Cuál de los siguientes comportamientos o hitos de la audición del lactante es considerado una bandera roja de sospecha diagnóstica para hipoacusia en la APS?",
+    "hint": "Al sexto mes de vida, la maduración de las vías vestibulares y cocleares permite al lactante localizar sonidos en el plano horizontal de forma refleja con rotación cervical simétrica.",
+    "options": [
+      {
+        "text": "No presentar reflejo de parpadeo ante ruidos ambientales moderados a los tres meses de vida se asocia a un desarrollo normal.",
+        "isCorrect": false,
+        "explanation": "El reflejo de parpadeo defensivo (cocleopalpebral) ante estímulos sonoros súbitos fuertes debe estar presente desde el primer mes de vida, siendo anormal su ausencia a los 3 meses."
+      },
+      {
+        "text": "No emitir balbuceos ni gorjeos a los seis meses de vida es un hallazgo transitorio benigno que asocia un temperamento calmado.",
+        "isCorrect": false,
+        "explanation": "La falta de balbuceo a los 6 meses es anormal; los niños sordos suspenden su vocalización espontánea alrededor de esta edad por falta de retroalimentación auditiva."
+      },
+      {
+        "text": "No girar la cabeza de forma consistente hacia la fuente del sonido a los seis meses de vida es una bandera roja de sospecha auditiva.",
+        "isCorrect": true,
+        "explanation": "A los 6 meses de edad, un lactante con audición normal debe localizar sonidos en el plano horizontal, girando la cabeza de forma consistente hacia el origen del sonido o la voz materna. La ausencia de esta respuesta constituye una bandera roja mayor de sospecha de hipoacusia en APS."
+      },
+      {
+        "text": "No responder al llamado por su nombre a los doce meses se asocia a la fase de retraso del lenguaje expresivo normal del niño.",
+        "isCorrect": false,
+        "explanation": "Responder a su nombre es un hito de comprensión e interacción fundamental al año de vida, constituyendo un síntoma de sospecha auditiva o de la esfera del neurodesarrollo (como TEA) si está ausente."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Una niña de 11 años de edad acude al Centro de Salud Familiar para su control de salud de rutina. Al evaluar su desarrollo puberal mediante la escala de Tanner, usted constata la presencia de un botón mamario palpable en el pecho izquierdo con discreto aumento de la areola (Tanner 2). ¿Cuál es el significado clínico de este hallazgo y su cronología normal?",
+    "hint": "Recuerde el orden de los hitos del desarrollo puberal en el sexo femenino (telarquia, pubarquia, menarquia) y el rango de edad considerado normal para el inicio de la pubertad fisiológica.",
+    "options": [
+      {
+        "text": "El primer signo de pubertad es la menarquia (primera regla), la cual ocurre habitualmente a los de ocho años en la población chilena.",
+        "isCorrect": false,
+        "explanation": "La menarquia es un evento tardío del desarrollo puberal (Tanner 4), ocurriendo en promedio dos años después de la aparición del botón mamario (~12-12,5 años en Chile), y su aparición a los 8 años define pubertad precoz."
+      },
+      {
+        "text": "El primer signo de pubertad es la pubarquia (aparición de vello púbico), la cual debe ocurrir de forma obligatoria a los quince años.",
+        "isCorrect": false,
+        "explanation": "La pubarquia puede iniciarse de forma paralela a la telarquia o poco después por influjo suprarrenal, pero no es el hito primario de inicio gonadal y su retención a los 15 años define un retraso patológico."
+      },
+      {
+        "text": "El primer signo de pubertad es la telarquia (aparición del botón mamario), la cual ocurre de forma fisiológica a los quince años.",
+        "isCorrect": false,
+        "explanation": "Un inicio de la telarquia a los 15 años de edad es sumamente tardío y define un diagnóstico de retraso puberal femenino, requiriendo estudio etiológico."
+      },
+      {
+        "text": "El primer signo de pubertad es la telarquia (aparición del botón mamario), la cual ocurre de forma fisiológica entre los ocho y trece años.",
+        "isCorrect": true,
+        "explanation": "En las niñas, el primer signo clínico objetivo del desarrollo puberal es la telarquia (Tanner 2 mamario, botón mamario). Fisiológicamente, su inicio es normal y esperable entre los 8 y los 13 años de edad cronológica, impulsado por la reactivación del eje hipotálamo-hipófisis-gonadal."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un paciente de 10 años de edad, de sexo masculino, asiste a control de salud en el consultorio. Al realizar el examen genital detallado en el box de atención, el médico evalúa el tamaño de las gónadas masculinas. ¿Cuál es el primer signo clínico que define el inicio fisiológico de la pubertad en el varón y su cronología normal?",
+    "hint": "Al igual que en las niñas, el inicio de la pubertad en varones requiere un marcador clínico objetivo medido de preferencia mediante el uso del orquidómetro de Prader en el examen físico de rutina.",
+    "options": [
+      {
+        "text": "El primer signo de pubertad es el aumento del volumen testicular a cuatro mililitros o más, entre los nueve y catorce años.",
+        "isCorrect": true,
+        "explanation": "En los varones, el primer signo objetivo que delata el inicio de la pubertad es el incremento del volumen testicular a un valor igual o mayor a 4 mL (Tanner 2 genital masculino), medido mediante el orquidómetro de Prader. Fisiológicamente, este proceso se inicia de forma normal entre los 9 y los 14 años de edad."
+      },
+      {
+        "text": "El primer signo de pubertad es la pubarquia (aparición de vello púbico), la cual debe ocurrir de forma obligatoria a los ocho años.",
+        "isCorrect": false,
+        "explanation": "La pubarquia suele aparecer después del aumento del volumen de los testículos en el varón, y su inicio a los 8 años en niños define pubertad precoz."
+      },
+      {
+        "text": "El primer signo de pubertad es la eyaculación consciente, la cual ocurre de forma fisiológica a los dieciséis años de edad.",
+        "isCorrect": false,
+        "explanation": "La eyaculación consciente y la espermaquía son eventos puberales avanzados del desarrollo masculino (estadios de Tanner 4), muy posteriores al hito de inicio de los 4 mL."
+      },
+      {
+        "text": "El primer signo de pubertad es el aumento de la longitud del pene, la cual ocurre de forma fisiológica a los diechenta y siete años.",
+        "isCorrect": false,
+        "explanation": "El aumento de la longitud del pene acompaña al desarrollo testicular en fases intermedias y tardías (Tanner 3), siendo anormal que este crecimiento preceda al aumento del volumen testicular."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Usted realiza una consejería de salud a padres sobre las variantes normales y desviaciones del desarrollo puberal de sus hijos. Al explicar la diferencia diagnóstica de edad entre la pubertad precoz y el retraso puberal, ¿cuál es la pauta de edad límite de derivación para ambos sexos según las guías clínicas chilenas?",
+    "hint": "La pubertad precoz define la aparición de caracteres sexuales secundarios a edades inferiores a las desviaciones estándar de la población. Recuerde el límite inferior de la edad de inicio normal de Tanner 2 para cada sexo.",
+    "options": [
+      {
+        "text": "Se define pubertad precoz si la telarquia aparece antes de los doce años en niñas o el volumen testicular aumenta antes de los quince años en niños.",
+        "isCorrect": false,
+        "explanation": "Las edades de 12 y 15 años se sitúan en rangos normales del desarrollo, por lo que considerarlas pubertad precoz es un error clínico de concepto."
+      },
+      {
+        "text": "Se define pubertad precoz si la telarquia aparece antes de los ocho años en niñas o el volumen testicular aumenta antes de los nueve años en niños.",
+        "isCorrect": true,
+        "explanation": "Clínicamente, se define \"Pubertad Precoz\" como la aparición de caracteres sexuales secundarios a edades inferiores a las dos desviaciones estándar de la media poblacional: antes de los 8 años en niñas (telarquia) y antes de los 9 años en niños (volumen testicular ≥ 4 mL). Obliga a derivación endocrinológica por riesgo de fusión epifisiaria prematura."
+      },
+      {
+        "text": "Se define retraso puberal si no hay signos de telarquia a los diez años en niñas o si no hay aumento de volumen testicular a los doce años en niños.",
+        "isCorrect": false,
+        "explanation": "El diagnóstico de retraso puberal se establece a los 13 años en niñas (ausencia de telarquia) y a los 14 años en niños (ausencia de volumen testicular ≥ 4 mL), quedando las edades indicadas dentro de la normalidad."
+      },
+      {
+        "text": "Se define retraso puberal si no hay signos de menarquia a los doce años en niñas o si no hay pubarquia a los catorce años en niños.",
+        "isCorrect": false,
+        "explanation": "La menarquia a los 12 años es el promedio normal de la población, y la pubarquia aislada no es el marcador normativo de elección para definir el retraso puberal central."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un adolescente de 14 años asiste al consultorio para su control de salud integral del adolescente en la red de APS chilena. Al realizar la entrevista clínica dirigida, el profesional de la salud aplica de forma sistemática la ficha de entrevista HEADSSS. ¿Cuál es el objetivo principal y la estructura de dimensiones que evalúa este instrumento específico?",
+    "hint": "La ficha HEADSSS es un acrónimo mnemotécnico diseñado para estructurar una entrevista clínica confidencial con el adolescente en APS, permitiendo pesquisar conductas de riesgo biopsicosocial de forma ordenada.",
+    "options": [
+      {
+        "text": "Evalúa de forma prioritaria la agudeza visual, la fuerza muscular proximal y los antecedentes de fracturas del menor en el box.",
+        "isCorrect": false,
+        "explanation": "Estas evaluaciones corresponden al examen motor y sensorial general, alejándose de la estructura psicosocial cualitativa de la ficha HEADSSS."
+      },
+      {
+        "text": "Evalúa de forma prioritaria el carril de crecimiento, la erupción de terceros molares y la administración de la vacuna de varicela.",
+        "isCorrect": false,
+        "explanation": "El crecimiento físico y el desarrollo dental permanente son evaluados en el examen físico de enfermería general, no en la entrevista de riesgo psicosocial."
+      },
+      {
+        "text": "Evalúa de forma prioritaria el entorno social, familiar, educación, actividades, drogas, sexualidad, suicidio y seguridad del joven.",
+        "isCorrect": true,
+        "explanation": "El instrumento HEADSSS es una mnemotecnia utilizada internacionalmente para evaluar la salud psicosocial del adolescente. El acrónimo desglosa la entrevista confidencial en: Home (hogar), Education/Employment (educación/empleo), Activities (actividades), Drugs (consumo de sustancias), Sexuality (vida sexual y afectiva), Suicide/Depression (salud mental) y Safety (seguridad/conductas de riesgo)."
+      },
+      {
+        "text": "Evalúa de forma prioritaria el consumo de lácteos, el tipo de calzado deportivo utilizado y el número de horas de sueño del menor.",
+        "isCorrect": false,
+        "explanation": "Aunque los hábitos de vida son relevantes, los detalles de indumentaria deportiva o ingesta láctea específica no estructuran el eje de prioridades críticas evaluadas en HEADSSS."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "En un CESFAM de la Región de O'Higgins, se aplica la Pauta de Factores Condicionantes de Riesgo de Malnutrición por Exceso (MPE) a un lactante de 12 meses de edad durante su control de salud de rutina. ¿Cuál de las siguientes combinaciones de variables es evaluada de forma directa en esta pauta preventiva del MINSAL en APS?",
+    "hint": "Esta pauta del programa de salud de la infancia busca identificar factores ambientales, de estilo de vida, familiares o del desarrollo temprano que condicionen el riesgo futuro de obesidad del menor.",
+    "options": [
+      {
+        "text": "Evalúa la presencia de desnutrición crónica familiar, antecedentes de celiaquía y la lactancia materna exclusiva prolongada.",
+        "isCorrect": false,
+        "explanation": "La desnutrición y la enfermedad celíaca pertenecen a la esfera del déficit ponderal y mala absorción, no al espectro evaluativo de riesgo de malnutrición por exceso."
+      },
+      {
+        "text": "Evalúa el consumo de suplementos de hierro y zinc, la asistencia a controles odontológicos y la vacunación del programa PNI.",
+        "isCorrect": false,
+        "explanation": "La asistencia a odontología y las vacunas son metas universales de supervisión del control sano, pero no constituyen variables de predicción metabólica específicas para MPE."
+      },
+      {
+        "text": "Evalúa la presencia de talla baja severa en el menor, antecedentes de cardiopatías congénitas y el tipo de parto del lactante.",
+        "isCorrect": false,
+        "explanation": "Las cardiopatías congénitas y la talla baja severa definen patologías orgánicas que se derivan al especialista, sin nexo de tamizaje con la pauta preventiva de MPE."
+      },
+      {
+        "text": "Evalúa factores como tabaquismo pasivo, lactancia materna menor a seis meses, sedentarismo y antecedentes familiares de obesidad.",
+        "isCorrect": true,
+        "explanation": "La Pauta de Factores Condicionantes de Riesgo de Malnutrición por Exceso (MPE) evalúa de forma integrada factores como: duración de la lactancia materna menor a 6 meses, exposición a tabaquismo pasivo, tiempo excesivo de pantallas (sedentarismo), malos hábitos de sueño y antecedentes familiares directos de obesidad o diabetes tipo II."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Durante la sesión educativa grupal en el consultorio sobre prevención de accidentes infantiles en el hogar, usted se refiere de forma dirigida a la asfixia por inmersión en piscinas domésticas. De acuerdo con las normas de seguridad del programa de seguridad infantil de Chile Crece Contigo, ¿cuál es la recomendación correcta para los padres?",
+    "hint": "El ahogamiento por inmersión ocurre de forma rápida y silenciosa. Se requiere establecer barreras físicas mecánicas efectivas que impidan el acceso libre al agua, complementado con supervisión continua.",
+    "options": [
+      {
+        "text": "Instalar vallas perimetrales de un metro y medio de altura con puerta de cierre automático, y supervisar activamente al menor de forma visual.",
+        "isCorrect": true,
+        "explanation": "Para la prevención de la asfixia por inmersión, las normas de seguridad infantil estipulan instalar una valla perimetral de seguridad de al menos 1,5 metros de altura que rodee completamente la piscina, con una puerta de cierre automático con pestillo superior. Esto debe acompañarse de la supervisión activa y constante de un adulto a corta distancia."
+      },
+      {
+        "text": "Colocar flotadores inflables de brazo (alitas) al lactante y dejarlo explorar la piscina de forma autónoma sin supervisión.",
+        "isCorrect": false,
+        "explanation": "Los flotadores de brazo no son dispositivos salvavidas; se desinflan o deslizan con facilidad y generan una falsa sensación de seguridad que propicia accidentes por falta de supervisión."
+      },
+      {
+        "text": "Cubrir la piscina con una lona de lona plástica flotante sin anclaje rígido, asumiendo que resistirá el peso del menor si este cae.",
+        "isCorrect": false,
+        "explanation": "Las lonas plásticas sin anclaje rígido están contraindicadas porque no resisten el peso del niño, pudiendo deslizarse bajo ellas y quedar atrapado bajo el agua sin visibilidad."
+      },
+      {
+        "text": "Indicar que el lactante puede bañarse de forma segura si la piscina cuenta con agua templada y se encuentra en un día soleado.",
+        "isCorrect": false,
+        "explanation": "El clima soleado y la temperatura del agua no anulan el riesgo de ahogamiento; el accidente ocurre de forma independiente del bienestar térmico si falta la supervisión directa."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Control Sano",
+    "area": "Control Sano",
+    "topic": "Crecimiento y Desarrollo",
+    "text": "Un lactante de 3 meses de edad es llevado a control de niño sano en el consultorio. Al realizar la exploración física detallada, usted nota la presencia de hematomas de aspecto lineal y color violáceo en la espalda, asociados a quemaduras simétricas de bordes bien delimitados en forma de calcetín en ambos pies. La madre atribuye las lesiones a caídas de la cuna. ¿Cuál es el diagnóstico clínico prioritario y la conducta legal obligatoria que debe adoptar en APS?",
+    "hint": "Las lesiones que aparecen en zonas inusuales y no móviles (como hematomas en espalda en un lactante que no gatea ni camina) y quemaduras simétricas nítidas en \"calcetín\" son altamente sugestivas de agresión física activa.",
+    "options": [
+      {
+        "text": "Sospecha de accidente doméstico severo de la cuna; se indica el alta a domicilio con reposicionamiento de la cuna y control clínico en una semana.",
+        "isCorrect": false,
+        "explanation": "Considerar accidentales quemaduras de calcetín y contusiones lineales en la espalda de un lactante que no se desplaza de forma autónoma es un error grave que vulnera la seguridad del menor y constituye omisión legal."
+      },
+      {
+        "text": "Sospecha de maltrato infantil físico severo; se debe hospitalizar de urgencia al menor y realizar de forma inmediata la denuncia legal ante el tribunal.",
+        "isCorrect": true,
+        "explanation": "La presencia de hematomas en zonas no expuestas en un lactante que no se moviliza y quemaduras simétricas delimitadas configuran una sospecha de maltrato físico infantil. Según la legislación y guías de Chile, el profesional de la salud tiene la obligación legal de hospitalizar de urgencia al menor (para resguardar su seguridad física) y realizar la denuncia formal inmediata ante las autoridades competentes dentro de las primeras 24 horas."
+      },
+      {
+        "text": "Sospecha de dermatitis atópica ulcerosa reactiva; se prescribe un curso de corticoides tópicos y lavado con jabón hipoalergénico.",
+        "isCorrect": false,
+        "explanation": "Las lesiones descritas corresponden a traumas mecánicos físicos profundos y quemaduras térmicas claras, descartándose patologías inflamatorias cutáneas."
+      },
+      {
+        "text": "Sospecha de sepsis por meningococo o púrpura fulminante; se deriva de urgencia para el inicio inmediato de penicilina sódica endovenosa.",
+        "isCorrect": false,
+        "explanation": "Aunque la meningococcemia causa petequias y equimosis, el patrón de quemadura simétrica en calcetín y la distribución lineal de las contusiones se alejan de la presentación de un exantema infeccioso sistémico."
+      }
+    ]
+  }
+]
