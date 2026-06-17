@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 2 meses de edad, previamente sano, es llevado al Centro de Salud Familiar para su control de rutina. Se le solicita una radiografía de tórax anteroposterior por un cuadro de tos leve intermitente sin dificultad respiratoria. El informe radiológico describe un ensanchamiento asimétrico del mediastino anterosuperior derecho con un contorno inferior nítido y recto (signo de la vela), asociado a un borde izquierdo festoneado u ondulado (signo de la ola). La tráquea se observa perfectamente centrada en la línea media. ¿Cuál es la interpretación clínica inicial más adecuada de este hallazgo y la conducta a seguir?",
+    "hint": "El mediastino superior del lactante suele verse ensanchado debido a una estructura linfoide de gran volumen en el primer año de vida, la cual es maleable y se deforma de forma sutil con las costillas adyacentes.",
+    "options": [
+      {
+        "text": "Es un linfoma mediastínico anterior precoz; se debe hospitalizar de urgencia para realizar una biopsia por punción.",
+        "isCorrect": false,
+        "explanation": "Los linfomas de mediastino son masas tumorales sólidas rígidas que comprimen o desplazan de forma evidente la tráquea hacia el lado contralateral, no asociándose a los signos maleables típicos del timo."
+      },
+      {
+        "text": "Es una silueta tímica fisiológica normal; se registra el hallazgo y se explica a los padres su naturaleza benigna.",
+        "isCorrect": true,
+        "explanation": "En lactantes, el timo es una estructura de gran tamaño que ensancha de forma normal el mediastino superior. Sus signos característicos en la radiografía son el \"signo de la vela\" (sail sign, un borde recto inferior derecho por la cisura) y el \"signo de la ola\" (wave sign, un contorno izquierdo ondulado por la impronta de los arcos costales). Al ser un timo normal y maleable, la tráquea permanece centrada y no hay signos de compresión de la vía aérea."
+      },
+      {
+        "text": "Es una neumonía lobar del lóbulo superior derecho; se indica tratamiento antibiótico empírico con amoxicilina oral.",
+        "isCorrect": false,
+        "explanation": "El signo de la vela tímico no corresponde a una consolidación alveolar o condensación neumónica del lóbulo superior derecho, ya que carece de bronquograma aéreo ni asocia fiebre o trabajo respiratorio."
+      },
+      {
+        "text": "Es una hiperplasia tímica patológica secundaria; se asocia de forma lineal a insuficiencia suprarrenal congénita.",
+        "isCorrect": false,
+        "explanation": "El timo es grande de forma fisiológica en el recién nacido y lactante; su hiperplasia no se asocia de forma típica a la insuficiencia suprarrenal de debut neonatal inmediato."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Durante la discusión de un caso clínico en la sala IRA, el interno se dispone a evaluar si la radiografía de tórax anteroposterior de un lactante de 10 meses de edad está correctamente inspirada. Para catalogarla como una placa de adecuada calidad inspiratoria, ¿cuál es el número de arcos costales mínimos que deben proyectarse por sobre la cúpula diafragmática derecha?",
+    "hint": "Una radiografía poco inspirada (espirada) puede simular falsamente una cardiomegalia o infiltrados perihilares debido al colapso pasivo del parénquima pulmonar basal.",
+    "options": [
+      {
+        "text": "Contar un mínimo de diez arcos costales anteriores o doce arcos costales posteriores proyectados por sobre el diafragma.",
+        "isCorrect": false,
+        "explanation": "Un conteo de 10 arcos costales anteriores es anatómicamente incompatible con una inspiración fisiológica normal del lactante, sugiriendo barotrauma o escape aéreo."
+      },
+      {
+        "text": "Contar un mínimo de cuatro arcos costales anteriores o doce arcos costales posteriores proyectados por sobre el diafragma.",
+        "isCorrect": false,
+        "explanation": "Una placa con solo 4 arcos anteriores o 12 posteriores es disfuncional; en el primer caso está marcadamente espirada (lo que simula neumonía o cardiomegalia) y en el segundo caso está sobreexpuesta o hiperinsuflada de forma extrema."
+      },
+      {
+        "text": "Contar un mínimo de ocho arcos costales anteriores o diez arcos costales posteriores proyectados por sobre el diafragma.",
+        "isCorrect": false,
+        "explanation": "Exigir 8 arcos anteriores o 10 posteriores representa una hiperinsuflación pulmonar severa (atrapamiento aéreo) típica de un SBO grave, no siendo el parámetro de inspiración normalizada."
+      },
+      {
+        "text": "Contar un mínimo de seis arcos costales anteriores o ocho a nueve arcos costales posteriores proyectados por sobre el diafragma.",
+        "isCorrect": true,
+        "explanation": "El estándar de calidad para una radiografía de tórax pediátrica bien inspirada exige que se proyecten al menos 6 arcos costales anteriores o entre 8 y 9 arcos costales posteriores por sobre el nivel del diafragma derecho en la línea medioclavicular. Esto asegura un adecuado reclutamiento alveolar que permite evaluar de forma fidedigna la silueta cardíaca y el intersticio pulmonar."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 15 meses de edad es llevado al servicio de urgencias por un cuadro de tos de inicio brusco y sofocante ocurrido hace 4 horas mientras jugaba en el suelo de su habitación. La radiografía de tórax anteroposterior convencional en reposo se reporta como normal. Para descartar de forma dirigida la presencia de un cuerpo extraño no radiopaco en la vía aérea inferior derecha, ¿cuál es la maniobra radiológica dinámica de elección?",
+    "hint": "En la aspiración de un cuerpo extraño bronquial, la obstrucción parcial suele comportarse como una válvula unidireccional: el aire entra en inspiración pero no puede salir en espiración, atrapándose en el pulmón afectado.",
+    "options": [
+      {
+        "text": "Solicitar una radiografía de cuello lateral de perfil con hiperextensión cervical forzada en la sala de yeso.",
+        "isCorrect": false,
+        "explanation": "La radiografía de cuello lateral de perfil es útil para evaluar obstrucciones de la vía aérea alta (como el absceso retrofaríngeo o epiglotitis), pero no sirve para diagnosticar cuerpos extraños bronquiales inferiores."
+      },
+      {
+        "text": "Solicitar una tomografía computarizada con contraste endovenoso de alta resolución para visualizar el árbol bronquial.",
+        "isCorrect": false,
+        "explanation": "Aunque la TC o la broncoscopía virtual son útiles, la radiografía dinámica de decúbito lateral es el método radiológico inicial, rápido, de bajo costo y exento de alta radiación para el tamizaje de urgencia."
+      },
+      {
+        "text": "Solicitar una radiografía de tórax en espiración forzada o decúbito lateral sobre el lado afectado sin usar filtro.",
+        "isCorrect": true,
+        "explanation": "La radiografía en espiración forzada (o decúbito lateral sobre el lado afectado si el niño no coopera) es una maniobra dinámica clave. En un pulmón obstruido por un cuerpo extraño (efecto válvula), el aire queda atrapado y el pulmón no se desinfla, observándose hiperlucidez y volumen conservado o aumentado del lado afectado, con desviación del mediastino hacia el lado contralateral sano durante la espiración."
+      },
+      {
+        "text": "Solicitar una ecografía transtorácica de alta frecuencia para evaluar el movimiento de los cilios bronquiales.",
+        "isCorrect": false,
+        "explanation": "La ecografía transtorácica no es el examen de elección para evaluar la permeabilidad bronquial ni permite objetivar de forma fidedigna el atrapamiento aéreo dinámico del pulmón dependiente."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Se evalúa en la Unidad de Pediatría a un lactante de 11 meses de edad hospitalizado por una infección respiratoria baja. La radiografía de tórax anteroposterior muestra: infiltrados intersticiales bilaterales difusos, engrosamiento peribronquial (peribronchial cuffing) y signos moderados de hiperinsuflación pulmonar, sin evidencias de consolidaciones lobares ni derrames pleurales. ¿Cuál es el diagnóstico radiológico y etiológico más probable?",
+    "hint": "El compromiso difuso bilateral de predominio perihilar, con manguitos peribronquiales y sin condensaciones del espacio alveolar de límites netos, es la expresión radiológica clásica del daño inflamatorio de la vía aérea pequeña por virus.",
+    "options": [
+      {
+        "text": "Neumonía de etiología viral (por VRS o Adenovirus); requiere tratamiento de soporte e hidratación fraccionada.",
+        "isCorrect": true,
+        "explanation": "El patrón intersticial bilateral difuso, caracterizado por engrosamiento de las paredes bronquiales (manguitos perihilares o peribronchial cuffing) y signos de hiperinsuflación (atrapamiento de aire), es la presentación radiológica clásica de las neumonías de etiología viral (como el VRS, Adenovirus o Influenza) en el lactante, lo cual se maneja con soporte no invasivo."
+      },
+      {
+        "text": "Neumonía química secundaria a aspiración de hidrocarburos; requiere lavado gástrico y carbón activado urgente.",
+        "isCorrect": false,
+        "explanation": "La neumonía química por hidrocarburos (ej: vaselina, kerosene) se presenta típicamente con infiltrados alveolares basales densos, bilaterales y asimétricos muy precoces, de evolución destructiva con formación de neumatoceles."
+      },
+      {
+        "text": "Neumonía bacteriana típica por Streptococcus pneumoniae; requiere el inicio inmediato de ampicilina endovenosa.",
+        "isCorrect": false,
+        "explanation": "La neumonía bacteriana típica por neumococo se manifiesta de forma clásica como una consolidación lobar homogénea de límites netos (condensación alveolar) que asocia bronquograma aéreo e hipoexpansión ipsilateral."
+      },
+      {
+        "text": "Tuberculosis pulmonar primaria en fase de complejo de Ghon; requiere el ingreso al programa de quimioprofilaxis.",
+        "isCorrect": false,
+        "explanation": "El complejo primario de Ghon cursa con un foco de consolidación parenquimatoso subpleural pequeño asociado de forma característica a adenopatías hiliares marcadas calcificadas o unilaterales."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Durante la rotación de pediatría en el consultorio, se analiza la radiografía de tórax de un lactante con diagnóstico de crisis obstructiva moderada por SBO. ¿Cuál de las siguientes combinaciones describe de forma correcta los hallazgos radiológicos clásicos de atrapamiento aéreo (hiperinsuflación) en este paciente?",
+    "hint": "La imposibilidad de espirar el aire debido a la obstrucción bronquiolar dilata el tórax en todos sus ejes, obligando a los músculos respiratorios a aplanarse y separando de forma paralela los arcos óseos.",
+    "options": [
+      {
+        "text": "Elevación de ambas cúpulas diafragmáticas, disminución de los espacios intercostales y opacidad difusa en vidrio esmerilado.",
+        "isCorrect": false,
+        "explanation": "La elevación diafragmática y la disminución de los espacios intercostales son signos de espiración o hipoexpansión pulmonar, comunes en EMH o parálisis diafragmática, no en atrapamiento de aire."
+      },
+      {
+        "text": "Presencia de múltiples opacidades algodonosas bilaterales diseminadas, derrame pleural y silueta cardíaca aumentada.",
+        "isCorrect": false,
+        "explanation": "Las opacidades algodonosas y el derrame pleural son signos típicos de condensación alveolar infecciosa o insuficiencia cardíaca, no correspondiendo a signos mecánicos de hiperinsuflación por SBO simple."
+      },
+      {
+        "text": "Horizontalización de costillas, aplanamiento diafragmático, aumento de espacios intercostales y de la lucidez del pulmón.",
+        "isCorrect": true,
+        "explanation": "Los signos radiológicos de hiperinsuflación o atrapamiento aéreo en el SBO y bronquiolitis incluyen: horizontalización de las costillas (pérdida de la oblicuidad normal), aplanamiento de las cúpulas diafragmáticas (descendidos bajo el décimo arco posterior), aumento del espacio intercostal y aumento de la radiolucidez (negrez) pulmonar difusa."
+      },
+      {
+        "text": "Desviación del mediastino hacia el pulmón hiperlúcido, colapso del lóbulo superior y pinzamiento de las costillas.",
+        "isCorrect": false,
+        "explanation": "El colapso lobar (atelectasia) cursa con pérdida de volumen, lo cual desvía el mediastino hacia el mismo lado de la lesión y asocia pinzamiento costal ipsilateral, cuadro opuesto al atrapamiento."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un recién nacido de término, de 41 semanas de edad gestacional, nace mediante parto vaginal dificultoso tras un desprendimiento de placenta. Presenta líquido amniótico con meconio espeso y desarrolla de forma inmediata dificultad respiratoria severa. La radiografía de tórax portátil muestra infiltrados algodonosos gruesos e irregulares bilaterales, zonas de consolidación segmentaria alternadas con áreas de hiperinsuflación, y un pequeño neumotórax derecho. ¿Cuál es el diagnóstico?",
+    "hint": "La combinación de áreas de atelectasia (por obstrucción completa) con áreas de sobredistensión (por obstrucción parcial/efecto válvula) y la presencia de escape aéreo (neumotórax) en un neonato post-término es característica de esta patología aspirativa.",
+    "options": [
+      {
+        "text": "Taquipnea transitoria del recién nacido; se asocia a retraso de la reabsorción del líquido pulmonar y autolimita en 48 horas.",
+        "isCorrect": false,
+        "explanation": "La TTRN cursa con una radiografía homogénea caracterizada por congestión vascular perihilar simétrica (cisuritis o pulmón húmedo) con hiperinsuflación leve, sin infiltrados algodonosos gruesos parches ni neumotórax de debut."
+      },
+      {
+        "text": "Neumonía connatal por Streptococcus agalactiae; se asocia a rotura prolongada de membranas y cursa con derrame masivo.",
+        "isCorrect": false,
+        "explanation": "Aunque la neumonía por Strepto B puede simular cualquier patrón, la presencia de líquido meconial espeso asociado a zonas alternas de sobredistensión mecánica y neumotórax dirige la prioridad al SAM."
+      },
+      {
+        "text": "Enfermedad de membrana hialina; se asocia a déficit de surfactante pulmonar en el prematuro y cursa con bajo volumen.",
+        "isCorrect": false,
+        "explanation": "La EMH es típica del recién nacido prematuro por déficit de surfactante y muestra una radiografía homogénea de bajo volumen con patrón en vidrio esmerilado simétrico bilateral."
+      },
+      {
+        "text": "Síndrome de aspiración de meconio; se asocia a obstrucción valvular de la vía aérea, neumonitis química y escape aéreo.",
+        "isCorrect": true,
+        "explanation": "El Síndrome de Aspiración de Meconio (SAM) afecta típicamente a recién nacidos de término o post-término. Radiológicamente se caracteriza por un patrón heterogéneo asimétrico (\"en parches\" o algodonoso grueso) con áreas de condensación y atelectasia alternadas con zonas de hiperinsuflación por atrapamiento aéreo. El meconio causa obstrucción valvular y neumonitis química, lo que aumenta críticamente el riesgo de escape aéreo (neumotórax o neumomediastino)."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "A través de una cesárea electiva sin trabajo de parto, nace un recién nacido de término de 38 semanas, con un peso de 3.800 gramos. A los 30 minutos de vida presenta taquipnea de 75 respiraciones por minuto, quejido intermitente y retracciones leves, saturando 91% en aire ambiental. La radiografía de tórax muestra una leve hiperinsuflación, con marcas vasculares perihilares prominentes con un patrón de \"sol radiante\" y líquido en la cisura menor (cisuritis). ¿Cuál es el diagnóstico?",
+    "hint": "El antecedente de nacimiento por cesárea electiva sin trabajo de parto impide la compresión mecánica del tórax fetal en el canal y retrasa la descarga de catecolaminas que activa los canales epiteliales de sodio para reabsorber el líquido alveolar.",
+    "options": [
+      {
+        "text": "Taquipnea transitoria del recién nacido; requiere manejo de soporte con oxígeno de bajo flujo y régimen cero inicial.",
+        "isCorrect": true,
+        "explanation": "La Taquipnea Transitoria del Recién Nacido (TTRN) o \"pulmón húmedo\" es común en partos por cesárea sin trabajo de parto. Radiológicamente se caracteriza por congestión parahilar simétrica bilateral por distensión de linfáticos (patrón de sol radiante), líquido en las cisuras pleurales (cisuritis) e hiperinsuflación leve. El tratamiento es de soporte con oxígeno de bajo flujo, resolviendo espontáneamente en 24-72 horas."
+      },
+      {
+        "text": "Cardiopatía congénita cianótica crítica; requiere infusión continua de prostaglandina E1 y ecocardiografía urgente.",
+        "isCorrect": false,
+        "explanation": "Aunque la cardiopatía cianótica puede cursar con taquipnea e hiperflujo, la presencia de cisuritis típica y marcas parahilares con Sat de 91% que responde a oxígeno de bajo flujo es la presentación clásica del pulmón húmedo transitorio."
+      },
+      {
+        "text": "Enfermedad de membrana hialina severa; requiere la administración de surfactante endotraqueal dentro de las dos horas.",
+        "isCorrect": false,
+        "explanation": "La EMH es excepcional en el recién nacido de término sano y su radiografía muestra hipoexpansión severa con patrón reticulogranular homogéneo, totalmente opuesto al pulmón hiperinsuflado húmedo de la TTRN."
+      },
+      {
+        "text": "Síndrome de aspiración de meconio masivo; requiere aspiración traqueal bajo laringoscopia directa en sala de partos.",
+        "isCorrect": false,
+        "explanation": "El SAM se asocia de forma obligatoria a la presencia de líquido amniótico meconial y asfixia perinatal, lo cual no se describe en este parto por cesárea electiva no complicada de término."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un recién nacido pretérmino extremo de 28 semanas de edad gestacional presenta dificultad respiratoria grave de inicio inmediato al nacer, requiriendo intubación endotraqueal en la sala de partos. La radiografía de tórax portátil tomada a la hora de vida muestra un patrón reticulogranular fino y homogéneo bilateral de aspecto \"en vidrio esmerilado\", asociado a bronco-grama aéreo que sobrepasa los límites de la silueta cardíaca, y una marcada hipoexpansión pulmonar (conteo de 5 costillas). ¿Cuál es el diagnóstico?",
+    "hint": "La combinación de bajo volumen pulmonar (hipoexpansión), bronquio lleno de aire rodeado de alvéolos colapsados (bronquograma aéreo) y microatelectasias homogéneas en un prematuro extremo define esta patología.",
+    "options": [
+      {
+        "text": "Enfermedad de membrana hialina; se asocia a déficit de surfactante pulmonar y cursa con colapso alveolar difuso.",
+        "isCorrect": true,
+        "explanation": "La Enfermedad de Membrana Hialina (EMH) o SDR del prematuro se debe a la deficiencia de surfactante pulmonar. Sus hallazgos radiológicos clásicos son: volumen pulmonar disminuido (hipoexpansión), opacidad reticulogranular fina y homogénea bilateral (\"vidrio esmerilado\") por microatelectasias difusas, y bronquograma aéreo marcado (vías aéreas llenas de aire que contrastan con el parénquima colapsado)."
+      },
+      {
+        "text": "Síndrome de aspiración de meconio; se asocia a obstrucción de la vía aérea y cursa con infiltrados algodonosos gruesos.",
+        "isCorrect": false,
+        "explanation": "El SAM es característico de neonatos de término o post-término expuestos a meconio y su radiografía muestra un patrón en parches algodonoso asimétrico e hiperinsuflación, no bajo volumen homogéneo."
+      },
+      {
+        "text": "Neumonía connatal por Listeria monocytogenes; se asocia a microabscesos pulmonares y cursa con derrame biliar precoz.",
+        "isCorrect": false,
+        "explanation": "Aunque la neumonía bacteriana connatal puede imitar a la EMH, la historia de extrema prematurez de 28 semanas con colapso alveolar difuso inmediato sin antecedentes infecciosos maternos dirige la sospecha a déficit de surfactante."
+      },
+      {
+        "text": "Taquipnea transitoria por cesárea; se asocia a retención de líquido amniótico y cursa con hiperinsuflación marcada.",
+        "isCorrect": false,
+        "explanation": "La TTRN se presenta en recién nacidos de término o prematuros tardíos con hiperinsuflación moderada a marcada, marcas vasculares perihilares prominentes y cisuritis, sin patrón reticulogranular homogéneo de bajo volumen."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Se atiende en el box de reanimación a un recién nacido de término que presenta dificultad respiratoria severa desde el nacimiento, cianosis central que no responde a oxígeno y un abdomen marcadamente excavado (escafoide). La radiografía de tórax portátil muestra múltiples imágenes quísticas de contorno redondeado que ocupan el hemitórax izquierdo, desviación del mediastino hacia la derecha y una sonda nasogástrica enrollada en el tórax izquierdo. ¿Cuál es el diagnóstico prioritario y la conducta inmediata?",
+    "hint": "La herniación de las vísceras abdominales (asas intestinales llenas de aire) hacia el hemitórax izquierdo (Bochdalek es la más común) comprime el pulmón y desplaza el corazón. Ventilar con bolsa y máscara introduce aire al intestino, empeorando la compresión.",
+    "options": [
+      {
+        "text": "Neumotórax a tensión izquierdo secundario; requiere punción por aspiración con aguja en el segundo espacio costal.",
+        "isCorrect": false,
+        "explanation": "Un neumotórax a tensión izquierdo se vería como un espacio pleural radiolúcido negro y liso sin la forma lobulada o en parches de las asas de intestino, y la punción con aguja de la HDC perforaría el intestino de forma iatrogénica."
+      },
+      {
+        "text": "Malformación adenomatoidea quística pulmonar; requiere lobectomía segmentaria de urgencia antes de las seis horas de vida.",
+        "isCorrect": false,
+        "explanation": "La CPAM (malformación adenomatoidea quística) causa imágenes quísticas torácicas similares, pero no se acompaña de abdomen excavado ni tiene indicación de intubación sistemática si el niño puede ventilarse de forma no invasiva inicial."
+      },
+      {
+        "text": "Hernia diafragmática de Morgagni anterior; requiere colocación de una sonda Foley intrapleural para descompresión local.",
+        "isCorrect": false,
+        "explanation": "La hernia de Morgagni es anterior y subxifoidea, es mucho menos común en el período neonatal inmediato y rara vez se presenta con colapso respiratorio grave agudo que asocie sonda enrollada alta en el tórax izquierdo."
+      },
+      {
+        "text": "Hernia diafragmática congénita de Bochdalek; requiere intubación endotraqueal inmediata, evitando ventilación con máscara.",
+        "isCorrect": true,
+        "explanation": "La presentación de dificultad respiratoria, abdomen excavado (por falta de vísceras en la cavidad) y radiografía con imágenes aéreas quísticas (asas de intestino) en el tórax con desviación del mediastino es patognomónica de la Hernia Diafragmática Congénita (HDC) de Bochdalek (posterolateral izquierda). El manejo inmediato exige intubación endotraqueal directa en sala de partos para ventilar el pulmón hipoplásico contralateral, estando estrictamente prohibido ventilar con bolsa y máscara facial para evitar distender el intestino herniado."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un recién nacido de 2 días de vida presenta salivación excesiva (sialorrea persistente), asfixia y tos ahogante con el primer intento de alimentación al pecho. Se intenta pasar una sonda nasogástrica de calibre mediano, la cual encuentra un tope insalvable a los 9 cm de la arcada dentaria. La radiografía portátil de tórax y abdomen muestra la sonda enrollada en el mediastino superior derecho y abundante presencia de gas (aire) en el estómago e intestinos. ¿Cuál es el diagnóstico?",
+    "hint": "El tope de la sonda confirma la atresia. La presencia de gas en la cámara gástrica y el intestino (abdomen con aire) confirma de forma indirecta la comunicación entre la vía aérea (tráquea) y el segmento inferior del esófago (fístula distal).",
+    "options": [
+      {
+        "text": "Atresia esofágica tipo I (sin fístula); se asocia a ausencia completa de gas en el abdomen (abdomen opaco sin aire).",
+        "isCorrect": false,
+        "explanation": "La atresia tipo I (sin fístula o tipo A) cursa con un abdomen \"mudo\" o radiopaco opaco (sin aire en el estómago ni intestino) debido a que no existe ninguna comunicación que permita el paso de gas al tubo digestivo inferior."
+      },
+      {
+        "text": "Atresia esofágica tipo IV (con doble fístula); se asocia a neumoperitoneo masivo por perforación gástrica intrauterina.",
+        "isCorrect": false,
+        "explanation": "La tipo IV (con doble fístula) es infrecuente y no cursa de forma típica con neumoperitoneo espontáneo masivo intrauterino sin mediar una perforación instrumental iatrogénica del tracto."
+      },
+      {
+        "text": "Atresia esofágica tipo III (con fístula distal); se asocia a presencia de gas en el estómago y el tubo enrollado alto.",
+        "isCorrect": true,
+        "explanation": "La atresia esofágica con fístula traqueoesofágica distal (Tipo III de la clasificación de Vogt-Ladd o Tipo C) es la variante más frecuente (aproximadamente 85% de los casos). Se manifiesta clínicamente con sialorrea precoz y tope de la sonda de alimentación. En la radiografía, la fístula distal permite el paso de aire desde la tráquea hacia el estómago y el intestino, confirmando la permeabilidad aérea abdominal."
+      },
+      {
+        "text": "Atresia esofágica tipo II (con fístula proximal); se asocia a distensión gástrica masiva y consolidación pulmonar derecha.",
+        "isCorrect": false,
+        "explanation": "La atresia con fístula proximal únicamente (Tipo II o B) cursa con un abdomen opaco sin aire, ya que la fístula comunica la vía aérea solo con el cabo superior del esófago que está cerrado."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un preescolar de 5 años, cursando con una neumonía lobar bacteriana del lóbulo inferior derecho, presenta fiebre persistente y aumento del trabajo respiratorio a las 48 horas de iniciado el tratamiento con penicilina sódica endovenosa. La radiografía de tórax muestra una opacidad homogénea densa en la base derecha que borra el contorno diafragmático con una línea de concavidad superior (signo del menisco). ¿Cuál es la sospecha diagnóstica y el estudio de elección indicado para definir la conducta quirúrgica?",
+    "hint": "El signo del menisco o la curva de Dámoiseau es indicativo de líquido libre en la cavidad pleural. Ante la falta de respuesta al antibiótico, la ecografía permite diferenciar el derrame fluido simple de una colección organizada tabicada de fibrina.",
+    "options": [
+      {
+        "text": "Neumotórax secundario a neumonía bacteriana; requiere colocación de una aguja de punción en el segundo espacio costal.",
+        "isCorrect": false,
+        "explanation": "El neumotórax se manifestaría radiológicamente como un espacio pleural radiolúcido negro sin parénquima pulmonar ni trama vascular, de límites definidos por la pleura visceral, sin opacidad basal líquida."
+      },
+      {
+        "text": "Atelectasia masiva del lóbulo inferior derecho; requiere derivación a kinesioterapia respiratoria diaria en el hogar.",
+        "isCorrect": false,
+        "explanation": "La atelectasia masiva del lóbulo inferior desplazaría el mediastino y la silueta cardíaca hacia el mismo lado de la lesión por colapso pulmonar, perdiéndose el signo del menisco pleural curvo característico."
+      },
+      {
+        "text": "Neoplasia pulmonar de células redondas; requiere derivación a oncología pediátrica para quimioterapia sistémica.",
+        "isCorrect": false,
+        "explanation": "Aunque las neoplasias pueden simular opacidades, la evolución aguda de 48 horas en el contexto de una neumonía lobar con fiebre persistente orienta de forma casi absoluta a una complicación infecciosa pleural paraneumónica común (empiema)."
+      },
+      {
+        "text": "Empiema pleural paraneumónico; requiere ecografía de tórax para evaluar tabiques y guiar la colocación de drenaje o VATS.",
+        "isCorrect": true,
+        "explanation": "La presencia de opacidad homogénea basal con el signo del menisco indica un derrame pleural paraneumónico. Si el preescolar persiste febril, se debe sospechar un empiema pleural. La ecografía de tórax es el examen de primera línea para evaluar la presencia de tabiques de fibrina (septos), diferenciar el derrame libre del tabicado (fase fibrino-purulenta) y guiar la decisión de instalar un drenaje simple o realizar toracoscopia (VATS) para debridamiento."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un recién nacido prematuro de 31 semanas de gestación, hospitalizado en ventilación mecánica invasiva en la UCI neonatal por EMH, presenta un deterioro hemodinámico brusco con caída de la saturación al 70% y bradicardia severa. Al examen físico destaca abolición del murmullo pulmonar en el hemitórax derecho y desviación de los latidos cardíacos hacia el lado izquierdo. ¿Cuál es el diagnóstico de esta emergencia vital y cuál es la primera medida terapéutica indicada?",
+    "hint": "El colapso hemodinámico abrupto (caída de Sat y bradicardia) asociado a la abolición unilateral de ruidos respiratorios y al desplazamiento contralateral del mediastino (corazón que late a la izquierda) en un ventilado es la expresión clínica del aire a tensión que colapsa el retorno venoso.",
+    "options": [
+      {
+        "text": "Atelectasia masiva derecha; se asocia a desviación del mediastino hacia la derecha y elevación del diafragma ipsilateral.",
+        "isCorrect": false,
+        "explanation": "La atelectasia masiva desplazaría el mediastino y los latidos cardíacos hacia el mismo lado de la lesión (en este caso, hacia la derecha) por pérdida de volumen del pulmón derecho colapsado, sin causar colapso hemodinámico abrupto."
+      },
+      {
+        "text": "Neumomediastino fisiológico; se asocia al signo de la vela de barco y requiere únicamente observación clínica en cuna.",
+        "isCorrect": false,
+        "explanation": "El neumomediastino no suele causar un colapso cardiovascular tan agudo y severo de forma asimétrica ni asocia abolición unilateral del murmullo pulmonar con desviación del choque de la punta hacia la izquierda."
+      },
+      {
+        "text": "Neumonía bacteriana derecha; se asocia a infiltrados alveolares y requiere el aumento de los parámetros del ventilador.",
+        "isCorrect": false,
+        "explanation": "Aumentar los parámetros del ventilador (presión de insuflación) en un neumotórax a tensión no diagnosticado empeorará de forma catastrófica el escape aéreo, provocando un paro cardíaco por asistolia irreversible."
+      },
+      {
+        "text": "Neumotórax a tensión derecho; requiere una punción descompresiva inmediata con aguja en el segundo espacio intercostal.",
+        "isCorrect": true,
+        "explanation": "El neumotórax a tensión es una emergencia respiratoria y hemodinámica crítica en recién nacidos ventilados. El aire a alta presión en el espacio pleural derecho colapsa el pulmón, desplaza el mediastino hacia la izquierda (comprimiendo la vena cava superior e inferior) e impide el retorno venoso, gatillando shock obstructivo y bradicardia. El tratamiento inmediato exige realizar una punción descompresiva con aguja en el segundo espacio intercostal línea medioclavicular derecha para aliviar la tensión, antes de colocar un tubo de drenaje pleural formal."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un recién nacido de 2 semanas de vida, hospitalizado en la Unidad de Neonatología en CPAP nasal por dificultad respiratoria moderada, presenta una radiografía de tórax que muestra una banda radiolúcida (aire libre) que rodee la silueta cardíaca y eleva ambos lóbulos tímicos, dándoles el aspecto de \"alas de ángel\" o velas de barco desplegadas al viento (signo del spinnaker). No se evidencia neumotórax. ¿Cuál es la interpretación de este hallazgo?",
+    "hint": "Busque la complicación por escape aéreo que se caracteriza por acumular aire libre en el espacio central del tórax (mediastino) por debajo del timo, el cual al ser laxo se eleva y separa adoptando una forma de alas de ángel característica.",
+    "options": [
+      {
+        "text": "Enfisema lobar congénito bilateral; requiere lobectomía quirúrgica de urgencia del lóbulo superior derecho e izquierdo.",
+        "isCorrect": false,
+        "explanation": "El enfisema lobar congénito se manifiesta como la sobredistensión lobular segmentaria de un lóbulo pulmonar (generalmente el superior izquierdo) con hernia del pulmón contralateral, no como una banda mediastínica aérea homogénea."
+      },
+      {
+        "text": "Neumotórax a tensión bilateral; requiere colocación de tubos de drenaje pleural bilaterales de forma de urgencia.",
+        "isCorrect": false,
+        "explanation": "El neumotórax bilateral mostraría aire libre en los espacios pleurales periféricos de ambos hemiditórax con colapso de los parénquimas pulmonares, no una banda de aire central que delinee el corazón y eleve el timo."
+      },
+      {
+        "text": "Neumomediastino neonatal; suele ser benigno, se asocia a barotrauma por ventilación y requiere manejo conservador.",
+        "isCorrect": true,
+        "explanation": "El neumomediastino neonatal es una complicación por escape aéreo relativamente común en neonatos con CPAP o ventilación mecánica. Radiológicamente se caracteriza por el signo del \"spinnaker\" o de las \"alas de ángel\", provocado por el aire acumulado en el mediastino que eleva los lóbulos tímicos. En ausencia de compromiso hemodinámico o neumotórax a tensión concomitante, el manejo es puramente conservador (observación y monitorización), resolviendo de forma espontánea."
+      },
+      {
+        "text": "Hernia diafragmática anterior de Morgagni; requiere traslado a pabellón para reducción quirúrgica por vía abdominal.",
+        "isCorrect": false,
+        "explanation": "La hernia de Morgagni es anterior pero se presentaría como una masa de contenido abdominal opaco o asas con aire en el mediastino inferior, sin asociar la elevación gaseosa simétrica del timo."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 2 meses de edad presenta dificultad respiratoria progresiva desde el nacimiento, que se ha acentuado en las últimas semanas. La radiografía de tórax anteroposterior muestra una gran área de hiperlucidez (atrapamiento de aire) en el lóbulo superior izquierdo, con herniación del parénquima pulmonar a través del mediastino anterior hacia el lado derecho y desviación de la silueta cardíaca hacia el hemitórax derecho. ¿Cuál es el diagnóstico?",
+    "hint": "Se trata de una malformación broncopulmonar caracterizada por un mecanismo de obstrucción valvular bronquial que permite la entrada de aire pero impide su salida, colapsando los lóbulos sanos y desplazando el mediastino. Afecta preferentemente al lóbulo superior izquierdo.",
+    "options": [
+      {
+        "text": "Aspiración de cuerpo extraño bronquial; requiere de forma inmediata una broncoscopía rígida desobstructiva en la cama.",
+        "isCorrect": false,
+        "explanation": "Aunque la aspiración de cuerpo extraño causa atrapamiento, es extremadamente infrecuente a los 2 meses de vida (el lactante de esa edad no tiene motricidad fina para llevar objetos a la boca) y asocia un inicio agudo brusco."
+      },
+      {
+        "text": "Neumotórax izquierdo simple; requiere la colocación de un tubo de drenaje pleural bajo agua en la sala de urgencias.",
+        "isCorrect": false,
+        "explanation": "El neumotórax izquierdo mostraría ausencia completa de la trama broncovascular pulmonar en todo el hemitórax, perdiéndose la línea de la pleura visceral, y la colocación de un drenaje pleural en el ELC puede perforar el parénquima hiperinsuflado."
+      },
+      {
+        "text": "Enfisema lobar congénito; se asocia a obstrucción valvular bronquial cartilaginosa y requiere lobectomía quirúrgica.",
+        "isCorrect": true,
+        "explanation": "El Enfisema Lobar Congénito (ELC) es una malformación pulmonar en la que se produce la hiperinsuflación progresiva de un lóbulo pulmonar (más común el superior izquierdo, 43%). Se debe a la debilidad o ausencia del cartílago bronquial, lo que genera un mecanismo de válvula unidireccional. En la radiografía se observa hiperlucidez y sobredistensión lobar, atelectasia compresiva de los lóbulos adyacentes y desviación contralateral del mediastino. El tratamiento de elección en pacientes sintomáticos es la lobectomía quirúrgica."
+      },
+      {
+        "text": "Atelectasia del lóbulo inferior izquierdo; requiere de forma prioritaria kinesioterapia respiratoria intensiva diaria.",
+        "isCorrect": false,
+        "explanation": "La atelectasia del lóbulo inferior causaría una opacidad homogénea con pérdida de volumen en la base del pulmón izquierdo, atrayendo el mediastino hacia la izquierda, cuadro clínico opuesto a la hiperlucidez con rechazo contralateral descrita."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 15 meses de edad, portador de oxígeno dependencia domiciliaria tras sobrevivir a una neumonía necrotizante grave por Adenovirus a los 6 meses de vida, es evaluado con una tomografía computarizada (TC) de tórax de alta resolución para estimar secuelas pulmonares. El informe describe: áreas alternadas de hipoperfusión pulmonar con bajo calibre vascular (perfusión en mosaico), atrapamiento de aire en la espiración y bronquiectasias cilíndricas bilaterales. ¿Cuál es el diagnóstico?",
+    "hint": "La tríada radiológica en TC de: perfusión en mosaico (mosaic perfusion), atrapamiento aéreo espiratorio persistente y bronquiectasias, en un lactante con antecedente de infección por Adenovirus grave, es patognomónica de esta secuela obstructiva.",
+    "options": [
+      {
+        "text": "Fibrosis quística clásica; se asocia a mutación del canal de cloro y cursa con esteatorrea y desnutrición severa.",
+        "isCorrect": false,
+        "explanation": "Aunque la Fibrosis Quística causa bronquiectasias e infecciones recurrentes, no se asocia de forma lineal a una neumonía aguda destructiva previa documentada por Adenovirus y cursa con malabsorción digestiva severa."
+      },
+      {
+        "text": "Asma bronquial infantil grave; se asocia a hiperreactividad de la vía aérea que responde de forma favorable a corticoides.",
+        "isCorrect": false,
+        "explanation": "El asma infantil es una patología reversible de la vía aérea que no cursa con bronquiectasias cilíndricas crónicas estables ni con perfusión en mosaico fibrótica post-viral en la tomografía a los 15 meses de vida."
+      },
+      {
+        "text": "Bronquiolitis obliterante post-infecciosa; se asocia a daño epitelial necrotizante por Adenovirus y fibrosis luminal.",
+        "isCorrect": true,
+        "explanation": "La Bronquiolitis Obliterante (BO) post-infecciosa es la secuela respiratoria crónica más grave tras neumonía viral necrotizante por Adenovirus en el lactante. Radiológicamente se confirma mediante TC de alta resolución, la cual muestra de forma clásica: patrón de perfusión en mosaico (zonas de pulmón hipoperfundidas por vasoconstricción hipóxica refleja que alternan con parénquima normal), atrapamiento aéreo espiratorio difuso y la presencia de bronquiectasias cilíndricas secundarias al daño cicatrizal de la pared bronquial."
+      },
+      {
+        "text": "Displasia broncopulmonar del prematuro; se asocia a ventilación prolongada con oxígeno suplementario en el nacimiento.",
+        "isCorrect": false,
+        "explanation": "La displasia broncopulmonar se asocia al antecedente de extrema prematurez al nacer con toxicidad por oxígeno en el periodo neonatal inmediato, no siendo una secuela destructiva de neumonía viral tardía a los 6 meses en un niño de término."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un preescolar de 4 años de edad, previamente sano y con su calendario de inmunizaciones al día, asiste al servicio de urgencias por presentar fiebre de hasta 39°C de 2 días de evolución, tos húmeda y dolor abdominal intermitente. La auscultación pulmonar revela murmullo conservado con crépitos discretos basales derechos. Se solicita una radiografía de tórax que muestra una masa radiopaca, única, solitaria y de contorno perfectamente redondeado en el lóbulo inferior derecho, que asocia bronquograma aéreo. ¿Cuál es el diagnóstico clínico y manejo de primera línea?",
+    "hint": "Las consolidaciones pulmonares infecciosas en preescolares pueden presentarse de forma esférica bien delimitada antes de la ventilación completa de los poros de Kohn y canales de Lambert colaterales. A menudo simulan masas tumorales en la radiografía inicial.",
+    "options": [
+      {
+        "text": "Neumonía redonda por Streptococcus pneumoniae; es benigna y se trata convencionalmente con amoxicilina oral.",
+        "isCorrect": true,
+        "explanation": "La Neumonía Redonda (esferas de neumonía) es una forma de presentación común y benigna de consolidación pulmonar en niños (especialmente menores de 8 años), debida a la inmadurez de las vías de ventilación colateral (poros de Kohn y canales de Lambert). Radiológicamente se presenta como una consolidación solitaria, bien delimitada y redondeada que simula un tumor. El agente más frecuente es Streptococcus pneumoniae y responde de forma excelente al tratamiento antibiótico convencional con amoxicilina oral (90 mg/kg/día), sin requerir cirugías ni estudios invasivos de entrada."
+      },
+      {
+        "text": "Secuestro broncopulmonar intralobar; requiere angiografía por tomografía para evaluar el vaso nutricio de origen aórtico.",
+        "isCorrect": false,
+        "explanation": "El secuestro broncopulmonar es una malformación congénita de tejido no funcional que suele diagnosticarse de forma incidental o por infecciones recurrentes crónicas localizadas en la misma base, no como un debut neumónico agudo con fiebre alta."
+      },
+      {
+        "text": "Quiste hidatídico pulmonar roto; requiere extirpación quirúrgica con técnica de parto de quiste en pabellón central.",
+        "isCorrect": false,
+        "explanation": "El quiste hidatídico pulmonar roto se manifestaría con el signo del doble domo o de la membrana flotante (signo del camalote) con niveles hidroaéreos irregulares, antecedente epidemiológico de riesgo y eosinofilia, sin bronquograma."
+      },
+      {
+        "text": "Neuroblastoma mediastínico posterior; requiere derivación a oncología pediátrica para biopsia quirúrgica de urgencia.",
+        "isCorrect": false,
+        "explanation": "El neuroblastoma posterior es una masa mediastínica sólida que se origina en la cadena simpática paravertebral posterior, no se asocia a bronquograma aéreo intratumoral ni responde a antibióticos orales comunes."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 2 años de edad asiste al control de seguimiento programado tras haber sido hospitalizado por una neumonía estafilocócica grave a los 18 meses. La madre refiere que el niño se encuentra completamente activo, asintomático y con un incremento de peso normal. Se le realiza una radiografía de tórax de control que muestra una gran cavidad quística de pared muy fina, llena de aire (neumatocele) en el lóbulo medio derecho. ¿Cuál es el diagnóstico de esta secuela y su conducta recomendada?",
+    "hint": "Estas cavidades aéreas de pared fina son complicaciones quísticas benignas frecuentes de la neumonía necrotizante. En ausencia de sintomatología respiratoria, el manejo se basa en la paciencia clínica, ya que el parénquima pulmonar tiende a remodelarse de forma espontánea.",
+    "options": [
+      {
+        "text": "Neumatocele post-infeccioso; es benigno y autolimitado en la mayoría de los casos, requiriendo solo observación clínica.",
+        "isCorrect": true,
+        "explanation": "Los neumatoceles son quistes de pared fina que contienen aire y que se forman tras neumonías necrotizantes (típicamente por S. aureus o S. pneumoniae). En un niño clínicamente asintomático, el manejo es exclusivamente conservador (observación clínica periódica), ya que la gran mayoría involuciona y desaparece de forma espontánea en un plazo de semanas a meses debido al proceso de remodelación pulmonar fisiológico."
+      },
+      {
+        "text": "Absceso pulmonar activo; requiere hospitalización de urgencia para el inicio de clindamicina endovenosa por seis semanas.",
+        "isCorrect": false,
+        "explanation": "Un absceso pulmonar activo se presentaría clínicamente con fiebre persistente, tos productiva purulenta, compromiso del estado general y radiológicamente mostraría una pared gruesa e irregular con nivel hidroaéreo grueso en su interior."
+      },
+      {
+        "text": "Quiste broncogénico congénito infectado; requiere toracotomía exploradora para lobectomía quirúrgica reglada de urgencia.",
+        "isCorrect": false,
+        "explanation": "El quiste broncogénico es una anomalía del desarrollo de la vía aérea que suele manifestarse con infecciones recurrentes o masa persistente desde el nacimiento, requiriendo cirugía programada, no de urgencia si está asintomático."
+      },
+      {
+        "text": "Neumotórax encapsulado gigante; requiere colocación de una aguja de punción descompresiva en el segundo espacio costal.",
+        "isCorrect": false,
+        "explanation": "El neumotórax encapsulado no es una cavidad parenquimatosa fina aislada secundaria y realizar una punción de urgencia en un neumatocele asintomático puede provocar un neumotórax real o escape aéreo persistente iatrogénico."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un preescolar de 3 años de edad, con historia de ronquido nocturno crónico, tos seca persistente y episodios de estridor inspiratorio intermitente, se evalúa en el consultorio. La radiografía de tórax anteroposterior muestra un ensanchamiento mediastínico superior con una tráquea visiblemente comprimida y desplazada hacia el lado derecho, perdiéndose los signos maleables normales de \"la vela\" y de \"la ola\". ¿Cuál es el diagnóstico más probable?",
+    "hint": "A los 3 años de edad, el timo normal ya ha iniciado su regresión fisiológica. La presencia de compresión y desviación de la tráquea (vía aérea rígida) indica la presencia de una masa mediastínica ocupante de espacio patológica.",
+    "options": [
+      {
+        "text": "Silueta tímica fisiológica normal; se registra el hallazgo y se indica el alta con pautas de estimulación en el hogar.",
+        "isCorrect": false,
+        "explanation": "Atribuir este hallazgo a un timo normal a los 3 años con tráquea desviada y comprimida es un error grave de omisión que retrasa el diagnóstico oportuno de una neoplasia maligna mediastínica (como el linfoma de Hodgkin)."
+      },
+      {
+        "text": "Atelectasia masiva del lóbulo superior; requiere derivación a kinesioterapia respiratoria diaria en el consultorio.",
+        "isCorrect": false,
+        "explanation": "La atelectasia masiva causaría una opacidad de límites definidos que desplazaría la tráquea hacia el lado de la opacidad por pérdida de volumen, no de forma compresiva sin condensación pulmonar en el mediastino anterior superior."
+      },
+      {
+        "text": "Neumomediastino espontáneo benigno; requiere reposo absoluto y oxigenoterapia normobárica domiciliaria por un mes.",
+        "isCorrect": false,
+        "explanation": "El neumomediastino se presenta como aire libre que rodea las siluetas vasculares y eleva de forma simétrica el timo (signo de las alas de ángel), sin manifestarse como una masa sólida densa que desvíe de forma crónica la tráquea."
+      },
+      {
+        "text": "Masa mediastínica anterior (ej: linfoma o teratoma); requiere estudio de imágenes con TC de tórax y derivación de urgencia.",
+        "isCorrect": true,
+        "explanation": "A diferencia de la silueta tímica normal (que es maleable y no comprime la vía aérea), las masas mediastínicas patológicas (como linfomas, leucemias, teratomas o quistes neurogénicos) son estructuras firmes y rígidas. Radiológicamente producen compresión intrínseca, estrechamiento o desviación de la tráquea, asociado a síntomas clínicos compresivos (ronquido, disnea, estridor). Requiere estudio con TC de tórax urgente y derivación inmediata a oncología/cirugía infantil."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 10 meses de edad, ex prematuro extremo de 26 semanas de gestación que requirió intubación endotraqueal prolongada y ventilación mecánica por 35 días en la UCI neonatal, asiste a control con requerimiento persistente de oxígeno por naricera (0,5 L/min). La radiografía de tórax muestra infiltrados reticulares gruesos difusos, áreas de enfisema con imágenes de lucidez quística focal bilaterales (\"aspecto de pulmón en esponja\") y cardiomegalia moderada. ¿Cuál es el diagnóstico?",
+    "hint": "Las sibilancias crónicas y el requerimiento persistente de oxígeno suplementario más allá de los 28 días de vida en un ex prematuro extremo, asociadas a imágenes retículo-quísticas difusas bilaterales (\"pulmón en esponja\"), son las secuelas del daño pulmonar neonatal crónico.",
+    "options": [
+      {
+        "text": "Displasia broncopulmonar; se asocia a secuela de prematurez extrema con toxicidad por oxígeno y barotrauma.",
+        "isCorrect": true,
+        "explanation": "La Displasia Broncopulmonar (DBP) es la secuela respiratoria crónica más frecuente de la prematurez extrema expuesta a ventilación mecánica y toxicidad por oxígeno. Radiológicamente se caracteriza por su patrón de \"pulmón en esponja\" (zonas de hiperclaridad quística por sobredistensión alveolar alternadas con áreas de condensación e infiltrados reticulares densos de cicatrización fibrótica bilateral difusa) y cardiomegalia moderada por hipertensión pulmonar secundaria."
+      },
+      {
+        "text": "Fibrosis quística clásica; se asocia a insuficiencia pancreática exocrina, desnutrición severa y esteatorrea fétida.",
+        "isCorrect": false,
+        "explanation": "Aunque la Fibrosis Quística causa daño pulmonar crónico, no se asocia al antecedente directo de prematurez de 26 semanas de gestación con intubación endotraqueal prolongada y ventilación en el periodo de recién nacido."
+      },
+      {
+        "text": "Neumonía intersticial por Pneumocystis jirovecii; se asocia a inmunodeficiencia celular grave concomitante.",
+        "isCorrect": false,
+        "explanation": "La infección por Pneumocystis causa una neumonía intersticial aguda grave de rápida progresión en lactantes inmunocomprometidos con patrón en vidrio esmerilado homogéneo simétrico bilateral, sin distorsión quística crónica en esponja."
+      },
+      {
+        "text": "Bronquiolitis obliterante por Adenovirus; se asocia a daño epitelial necrotizante tardío y perfusión en mosaico.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis obliterante es una secuela de neumonía viral destructiva por Adenovirus en el lactante, no se asocia de forma lineal a la prematurez extrema de 26 semanas ni cursa con el pulmón en esponja neonatal clásico."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 8 semanas de edad presenta un cuadro de tos seca accesoria en ráfagas (staccato cough), polipnea leve de 2 semanas de evolución y ausencia de fiebre. Como antecedente destaca historia de conjuntivitis purulenta bilateral en sus primeras 3 semanas de vida que resolvió con aseo. La radiografía de tórax muestra una hiperinsuflación pulmonar moderada simétrica asociada a infiltrados intersticiales bilaterales difusos en parches. El hemograma destaca una eosinofilia periférica marcada. ¿Cuál es el diagnóstico?",
+    "hint": "La tríada clínica de: tos en \"staccato\" (tos fraccionada con pausas), antecedente directo de conjuntivitis neonatal purulenta bilateral, eosinofilia periférica marcada y radiografía con patrón intersticial hiperinsuflado en un lactante menor de 3 meses, es patognomónica.",
+    "options": [
+      {
+        "text": "Neumonía por Chlamydia trachomatis; se asocia a transmisión vertical vaginal y se trata con macrólidos (eritromicina).",
+        "isCorrect": true,
+        "explanation": "La neumonía afebril del lactante por Chlamydia trachomatis se transmite por vía vertical a través del canal de parto infectado. Cursa con pródromos de conjuntivitis neonatal, tos seca quintosa en ráfagas (staccato), taquipnea afebril, eosinofilia marcada y una radiografía caracterizada por hiperinsuflación simétrica e infiltrados intersticiales y parches bilaterales difusos. El tratamiento de elección son los macrólidos (Eritromicina o Azitromicina)."
+      },
+      {
+        "text": "Tos convulsiva por Bordetella pertussis; cursa con leucocitosis extrema con predominio linfocitario marcado.",
+        "isCorrect": false,
+        "explanation": "La tos convulsiva por Coqueluche cursa de forma típica con leucocitosis extrema mayor a 50.000/mm<sup>3</sup> con predominio linfocitario (no eosinofilia) y radiografía con el signo del \"corazón peludo\" parahilar denso."
+      },
+      {
+        "text": "Neumonía bacteriana típica por Streptococcus pneumoniae; cursa con condensación lobar única y derrame pleural precoz.",
+        "isCorrect": false,
+        "explanation": "La neumonía neumocócica cursa con fiebre muy alta de inicio brusco, gran compromiso del estado general y condensación alveolar densa unilateral de límites netos, cuadro opuesto a la neumonía afebril intersticial descrita."
+      },
+      {
+        "text": "Bronquiolitis aguda por Virus Respiratorio Sincicial; cursa con fiebre moderada, coriza nasal previa y sibilancias difusas.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis por VRS se presenta típicamente con coriza mucosa abundante previa, sibilancias espiratorias difusas y un patrón obstructivo bilateral en el contexto de brotes epidemiológicos invernales, sin eosinofilia."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un escolar de 7 años de edad consulta por un cuadro de tos seca persistente, cefalea, febrícula y CEG de 5 días de evolución. Al examen físico se ausculta murmullo conservado con crépitos discretos bilaterales difusos. La radiografía de tórax revela extensos infiltrados intersticiales bilaterales de predominio reticulonodular difuso parahilar bilaterales, observándose una marcada disociación clínico-radiológica (radiografía muy comprometida en contraste con la clínica leve del escolar). El examen de aglutininas frías resulta positivo. ¿Cuál es el diagnóstico etiológico de esta neumonía atípica y el tratamiento?",
+    "hint": "La disociación clínico-radiológica (clínica benigna con radiografía de aspecto catastrófico intersticial difuso) en el escolar mayor, asociada a crioaglutininas positivas, es la presentación clásica del patógeno atípico más común de la infancia.",
+    "options": [
+      {
+        "text": "Bronquitis aguda viral simple; se asocia a resfrío común y autolimita de forma espontánea sin requerir antibióticos.",
+        "isCorrect": false,
+        "explanation": "La bronquitis aguda viral es una inflamación de la vía aérea alta y bronquios principales que cursa de forma típica con una radiografía de tórax completamente normal, sin infiltrados intersticiales reticulonodulares extensos."
+      },
+      {
+        "text": "Tuberculosis pulmonar miliar; se asocia a desnutrición extrema y cursa con el patrón clásico de tormenta de arena.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis miliar cursa con desnutrición, síndrome consuntivo progresivo lento y radiografía con el patrón homogéneo fino en granos de mijo (\"tormenta de arena\"), cuadro clínico mucho más severo y crónico."
+      },
+      {
+        "text": "Neumonía atípica por Mycoplasma pneumoniae; se asocia a escolares y adolescentes y se trata con macrólidos (claritromicina).",
+        "isCorrect": true,
+        "explanation": "Mycoplasma pneumoniae es el principal agente de neumonía atípica en niños mayores de 5 años (escolares y adolescentes). Cursa con pródromos de cefalea, tos seca persistente, fiebre moderada y se caracteriza por la disociación clínico-radiológica (radiografía con infiltrados intersticiales o reticulonodulares extensos bilaterales desproporcionados al examen físico pulmonar normal). La presencia de aglutininas frías positivas apoya el diagnóstico, tratándose de primera línea con macrólidos (Claritromicina o Azitromicina)."
+      },
+      {
+        "text": "Neumonía bacteriana típica por Streptococcus pneumoniae; se asocia a preescolares y se trata con ampicilina endovenosa.",
+        "isCorrect": false,
+        "explanation": "La neumonía por neumococo es de tipo lobar típica, asocia fiebre alta brusca con dolor pleurítico, y radiológicamente muestra condensación alveolar densa homogénea limitada a un lóbulo, sin disociación clínico-radiológica intersticial."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un escolar de 12 años, residente en una zona rural de la comuna de San Fernando, asiste de urgencia por presentar un cuadro hiperagudo de fiebre alta de 39,5°C, mialgias intensas, cefalea y dificultad respiratoria rápidamente progresiva que evoluciona a insuficiencia respiratoria severa (saturación de oxígeno de 85% ambiental). La radiografía de tórax portátil de ingreso muestra infiltrados intersticio-alveolares bilaterales difusos de rápida progresión en pocas horas, cardiomegalia moderada y derrame pleural bilateral simétrico. Se sospecha una exposición a roedores silvestres. ¿Cuál es el diagnóstico prioritario?",
+    "hint": "La combinación de distress respiratorio agudo catastrófico (con rápida progresión de infiltrados intersticiales a alveolares \"en vidrio esmerilado\"), cardiomegalia, derrame pleural y el antecedente de residencia o exposición rural en la Región de O'Higgins (zona altamente endémica), es la presentación clásica de esta zoonosis.",
+    "options": [
+      {
+        "text": "Síndrome cardiopulmonar por Hantavirus; se asocia a exposición a orina de roedor silvestre y requiere traslado a UCI.",
+        "isCorrect": true,
+        "explanation": "El Síndrome Cardiopulmonar por Hantavirus (SCPH) es una zoonosis grave transmitida por el ratón colilargo (Oligoryzomys longicaudatus), endémica en zonas rurales de la Región de O'Higgins. Clínicamente cursa de forma rápida con fiebre alta, mialgias y distress respiratorio severo por edema pulmonar no cardiogénico secundaria a fuga capilar masiva. Radiológicamente se caracteriza por infiltrados intersticiales que progresan rápidamente a alveolares difusos bilaterales, cardiomegalia (por sobrecarga ventricular) y derrame pleural. Es una emergencia de alta mortalidad que exige traslado inmediato a una UCI con soporte de ECMO."
+      },
+      {
+        "text": "Insuficiencia mitral reumática aguda; requiere profilaxis secundaria con penicilina benzatina mensual indefinida.",
+        "isCorrect": false,
+        "explanation": "La insuficiencia mitral reumática es una secuela valvular de la fiebre reumática de curso subagudo crónico que cursa con soplos marcados, no manifestándose como un cuadro neumónico intersticial agudo letal por zoonosis."
+      },
+      {
+        "text": "Neumotórax bilateral expuesto; requiere colocación de agujas de punción descompresivas en ambos campos costales.",
+        "isCorrect": false,
+        "explanation": "El neumotórax bilateral mostraría ausencia completa de trama vascular con hiperlucidez extrema periférica en ambos lados, sin el patrón de infiltrados alveolar-intersticiales difusos densos del edema pulmonar."
+      },
+      {
+        "text": "Neumonía atípica grave por Mycoplasma pneumoniae; se trata con claritromicina oral de forma ambulatoria controlada.",
+        "isCorrect": false,
+        "explanation": "La neumonía por Mycoplasma es una entidad benigna en la inmensa mayoría de los casos; no cursa con shock hemodinámico masivo ni distress respiratorio de rápida evolución catastrófica con derrame pleural masivo simétrico bilateral."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un preescolar de 2 años de edad, portador de una desnutrición moderada, presenta un cuadro de fiebre persistente de 3 semanas, baja de peso sostenida y tos seca accesoria. Se constata el antecedente de que el abuelo materno convive en el hogar y presenta tos crónica productiva en estudio. Al examen destaca hepatosplenomegalia discreta y microadenopatías cervicales. La radiografía de tórax de ingreso muestra múltiples y diminutas opacidades micronodulares finas de 1 a 2 mm distribuidas de forma homogénea en la totalidad de ambos campos pulmonares (patrón en granos de mijo o \"tormenta de arena\"). ¿Cuál es el diagnóstico?",
+    "hint": "La presencia de un patrón radiológico micronodular homogéneo difuso (\"tormenta de arena\" o \"granos de mijo\" o miliary pattern) en un lactante desnutrido con antecedente de contacto con un tosedor crónico (sospecha de TBC bacilífera), es patognomónica.",
+    "options": [
+      {
+        "text": "Bronquiolitis obliterante post-infecciosa; se asocia a secuela de Adenovirus y cursa con perfusión en mosaico en la TC.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis obliterante se presenta como una secuela crónica post-infecciosa caracterizada por atrapamiento aéreo e infiltrados segmentarios con perfusión en mosaico, sin el patrón micronodular homogéneo simétrico difuso miliar."
+      },
+      {
+        "text": "Tuberculosis pulmonar de tipo miliar; se asocia a diseminación linfohematógena y requiere esquema cuádruple de fármacos.",
+        "isCorrect": true,
+        "explanation": "La Tuberculosis Miliar es la forma de diseminación linfohematógena hematógena sistémica del Mycobacterium tuberculosis, más frecuente en lactantes y niños desnutridos o inmunocomprometidos. Radiológicamente se presenta con el patrón característico \"miliar\" o en \"tormenta de arena\" (múltiples opacidades micronodulares de 1-2 mm de diámetro distribuidas de forma uniforme y simétrica en ambos pulmones). Requiere el inicio del tratamiento con esquema antituberculoso cuádruple (fase diaria de Isoniacida, Rifampicina, Pirazinamida y Etambutol)."
+      },
+      {
+        "text": "Neumonía por virus de la Influenza A; se asocia a brotes epidémicos invernales y cursa con infiltrados parahilares.",
+        "isCorrect": false,
+        "explanation": "La Influenza es una infección viral aguda autolimitada que cursa con infiltrados parahilares difusos y signos de SBO leve transitorio, sin asociar desnutrición crónica ni patrón de granos de mijo en la radiografía."
+      },
+      {
+        "text": "Enfisema lobar congénito bilateral; se asocia a obstrucción valvular del bronquio y cursa con hiperlucidez difusa.",
+        "isCorrect": false,
+        "explanation": "El enfisema lobar congénito es una malformación bronquial que cursa con sobredistensión lobar rígida hiperlúcida unilateral y herniación mediastínica, no con infiltrados micronodulares diseminados bilaterales de tuberculosis."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 3 meses de edad, con antecedentes de vacunación al día salvo por postergación de la dosis de los 2 meses, ingresa hospitalizado por presentar accesos de tos espasmódica paroxística en ráfagas (tos quintosa) seguidos de un silbido inspiratorio agudo (\"gallito\") y episodios de apnea central post-tusegenas. El hemograma destaca una leucocitosis extrema de 55.000/mm<sup>3</sup> con un 80% de linfocitos maduros. La radiografía de tórax muestra infiltrados parahilares bilaterales densos de bordes difusos que borran parcialmente la silueta del contorno cardíaco (signo del \"corazón peludo\" o shaggy heart). ¿Cuál es el diagnóstico?",
+    "hint": "La combinación de: tos quintosa con gallito inspiratorio y apneas, leucocitosis extrema con linfocitosis absoluta marcada, y una radiografía de tórax que muestra infiltrados parahilares bilaterales que desdibujan el contorno del corazón (signo del corazón peludo o shaggy heart), es patognomónica.",
+    "options": [
+      {
+        "text": "Bronquiolitis por Virus Sincicial; se asocia a sibilancias espiratorias difusas y cursa con atrapamiento aéreo marcado.",
+        "isCorrect": false,
+        "explanation": "La bronquiolitis por VRS cursa con atrapamiento aéreo marcado (hiperinsuflación, diafragmas planos) e infiltrados intersticiales finos difusos, pero no asocia de forma típica la leucocitosis extrema de 55.000 con el corazón peludo parahilar denso y borroso."
+      },
+      {
+        "text": "Neumonía connatal por Streptococcus agalactiae; se asocia a sepsis neonatal y cursa con condensación lobar única.",
+        "isCorrect": false,
+        "explanation": "La neumonía connatal por Strepto B debuta de forma precoz en los primeros días de vida con signos de sepsis neonatal grave inmediata y condensaciones alveolares simétricas, sin la linfocitosis ni la tos quintosa a los 3 meses."
+      },
+      {
+        "text": "Síndrome coqueluchoideo o tos convulsiva; se asocia a Bordetella pertussis y se trata con macrólidos (azitromicina).",
+        "isCorrect": true,
+        "explanation": "El Síndrome Coqueluchoideo o Tos Convulsiva (Coqueluche), causado por Bordetella pertussis, afecta predominantemente a lactantes menores no vacunados. Clínicamente cursa de forma clásica con tos paroxística (quintosa), gallito inspiratorio y apneas. Radiológicamente muestra infiltrados parahilares y peribronquiales bilaterales densos que desdibujan y borran el contorno de la silueta cardíaca, signo conocido como \"corazón peludo\" o shaggy heart. El hemograma muestra leucocitosis extrema con linfocitosis absoluta por liberación de la toxina pertussis, y se trata con macrólidos (Azitromicina o Claritromicina)."
+      },
+      {
+        "text": "Tuberculosis pulmonar primaria; se asocia a complejo de Ghon y adenopatías hiliares y requiere isoniacida diaria.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis primaria pulmonar se presenta con el complejo de Ghon y adenopatías hiliares localizadas derechas o izquierdas, pero no se asocia de forma característica al signo del corazón peludo borroso parahilar bilateral difuso."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Se realiza la visita médica a un lactante de 4 meses de edad que se encuentra hospitalizado por un cuadro respiratorio leve. En la radiografía de tórax anteroposterior portátil, que se encuentra bien centrada y tomada durante una inspiración profunda, la interna calcula el Índice Cardiotorácico (ICT) obteniendo un valor de 0,58. El lactante se encuentra normohidratado, activo y sin soplos cardíacos. ¿Cómo se interpreta semiológicamente este valor de ICT y la conducta a seguir?",
+    "hint": "En menores de un año (lactantes), la silueta del corazón y del mediastino se observa proporcionalmente de mayor volumen debido a la posición horizontal del corazón en el tórax pequeño y a la sobreposición fisiológica normal del timo.",
+    "options": [
+      {
+        "text": "Es una hipertrofia del ventrículo derecho; se asocia de forma lineal a la persistencia del ductus arterioso permeable.",
+        "isCorrect": false,
+        "explanation": "El ductus arterioso permeable (DAP) causa cortocircuito con dilatación de cavidades izquierdas (aurícula y ventrículo izquierdo), no asociándose a una hipertrofia aislada del ventrículo derecho con ICT normal de 0,58."
+      },
+      {
+        "text": "Es una pseudocardiomegalia por fase inspiratoria; requiere repetir el examen en fase espiratoria forzada de urgencia.",
+        "isCorrect": false,
+        "explanation": "La fase inspiratoria profunda de la radiografía de tórax disminuye la silueta cardíaca en comparación con la espiratoria, por lo que repetir la placa en espiración (la cual aumenta artificialmente el ICT) aumentaría el error de sobrediagnóstico de cardiomegalia."
+      },
+      {
+        "text": "Es un rango normal para la edad del lactante; se registra el hallazgo y se continúa con la atención de rutina del menor.",
+        "isCorrect": true,
+        "explanation": "En lactantes menores de un año de vida, el Índice Cardiotorácico (ICT) normal y esperado en una radiografía de tórax bien inspirada puede alcanzar de forma fisiológica un valor de hasta 0,60 (o entre 0,55 y 0,60) sin significar cardiopatía, debido a la horizontalidad cardíaca y la presencia del timo. Por lo tanto, un valor de 0,58 en un niño asintomático es normal, debiendo registrarse y continuar el control habitual. En mayores de un año, el límite superior normal del ICT desciende progresivamente a 0,50."
+      },
+      {
+        "text": "Es una cardiomegalia patológica severa; requiere interconsulta urgente a cardiología infantil y ecocardiografía dirigida.",
+        "isCorrect": false,
+        "explanation": "Considerarlo una cardiomegalia patológica severa es un error de diagnóstico que somete al lactante sano a derivaciones innecesarias, punciones y exámenes invasivos evitables en la red de APS."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 1 mes de edad ingresa por presentar dificultad respiratoria progresiva y episodios intermitentes de cianosis perioral con el llanto desde hace dos semanas. La radiografía de tórax anteroposterior muestra múltiples imágenes de aspecto quístico de pared muy fina llenas de aire en el lóbulo inferior izquierdo, que comprimen de forma pasiva el pulmón adyacente y desplazan discretamente el mediastino y la tráquea hacia el hemitórax derecho. El abdomen se palpa blando, depresible y con un volumen normal de vísceras. ¿Cuál es el diagnóstico?",
+    "hint": "Esta malformación congénita no hereditaria se caracteriza por la proliferación anormal de las estructuras bronquiolares terminales que forman quistes multiloculares de tamaño variable llenos de aire o líquido, conservando el volumen de vísceras abdominales en su cavidad.",
+    "options": [
+      {
+        "text": "Malformación adenomatoidea quística pulmonar; es una anomalía del desarrollo de la vía aérea y requiere resección.",
+        "isCorrect": true,
+        "explanation": "La Malformación Adenomatoidea Quística Pulmonar (MAQP o CPAM) es una anomalía congénita del desarrollo del árbol bronquial caracterizada por el crecimiento excesivo de bronquiolos terminales que forman quistes llenos de aire o líquido. Radiológicamente se presenta como una masa multilocular de quistes de paredes finas en un lóbulo pulmonar, que produce compresión local y desviación mediastínica. Se diferencia de la hernia diafragmática de Bochdalek en que el abdomen del menor tiene un volumen y contenido de vísceras normal (no excavado). El tratamiento suele ser la resección quirúrgica del lóbulo afectado."
+      },
+      {
+        "text": "Enfisema lobar congénito izquierdo; se asocia a sobredistensión de un lóbulo único y requiere lobectomía quirúrgica.",
+        "isCorrect": false,
+        "explanation": "El enfisema lobar congénito se presenta como la sobredistensión aérea homogénea e hiperlucidez de un lóbulo completo (típicamente el superior izquierdo) sin la presencia de múltiples tabiques quísticos finos delimitados."
+      },
+      {
+        "text": "Neumotórax a tensión izquierdo; se asocia a ausencia de parénquima y requiere punción descompresiva inmediata.",
+        "isCorrect": false,
+        "explanation": "Un neumotórax izquierdo se manifestaría como un gran espacio pleural radiolúcido negro liso sin trama vascular que colapsa el pulmón hacia el hilio, sin el patrón multilocular o quístico en panal de abejas de la MAQP."
+      },
+      {
+        "text": "Hernia diafragmática de Bochdalek; se asocia a abdomen excavado y requiere colocación de sonda orogástrica descompresiva.",
+        "isCorrect": false,
+        "explanation": "La hernia de Bochdalek cursa con asas de intestino en el tórax pero se acompaña de un abdomen marcadamente excavado (escafoide) por ausencia física de las asas intestinales en la cavidad abdominal."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 6 meses de edad presenta estridor inspiratorio y sibilancias bilaterales de carácter persistente y crónico desde las primeras semanas de vida, que se exacerban de forma severa durante la alimentación al pecho y asocian episodios de tos ahogante. El examen físico revela un crecimiento normalizado y pulsos simétricos. El estudio de angio-tomografía computarizada de tórax de alta resolución con reconstrucción tridimensional de la vía aérea muestra un estrechamiento y compresión extrínseca concéntrica tanto de la tráquea como del esófago medio. ¿Cuál es el diagnóstico?",
+    "hint": "Las malformaciones de los grandes vasos del tórax pueden rodear por completo y comprimir mecánicamente tanto la vía aérea (tráquea) como la vía digestiva (esófago), manifestándose con síntomas respiratorios y digestivos combinados desde el nacimiento.",
+    "options": [
+      {
+        "text": "Laringomalacia fisiológica del lactante; se asocia a laxitud del cartílago supraglótico y autolimita al año de vida.",
+        "isCorrect": false,
+        "explanation": "La laringomalacia es la causa más común de estridor neonatal pero es puramente inspiratorio y posicional (disminuye en prono), no asocia sibilancias bilaterales crónicas estables ni produce compresión extrínseca del esófago en la tomografía."
+      },
+      {
+        "text": "Anillo vascular (ej: doble arco aórtico); se asocia a compresión extrínseca traqueoesofágica y requiere cirugía.",
+        "isCorrect": true,
+        "explanation": "Los Anillos Vasculares son malformaciones congénitas de los grandes vasos (ej: doble arco aórtico o arco aórtico derecho con ductus arterioso izquierdo) que rodean por completo y de forma concéntrica a la tráquea y al esófago. Esto genera compresión extrínseca mecánica que se manifiesta desde el nacimiento con estridor inspiratorio y espiratorio crónico, sibilancias persistentes bilaterales e intolerancia alimentaria con tos o disfagia durante la deglución. El diagnóstico se confirma por angio-TC y el tratamiento es la corrección quirúrgica del anillo."
+      },
+      {
+        "text": "Traqueomalacia primaria localizada; se asocia a debilidad de los anillos cartilaginosos y requiere uso de CPAP continuo.",
+        "isCorrect": false,
+        "explanation": "La traqueomalacia primaria cursa con debilidad intrínseca del cartílago traqueal que provoca colapso dinámico de la luz traqueal durante la espiración, pero no se asocia a compresión extrínseca concéntrica del esófago ni forma un anillo vascular."
+      },
+      {
+        "text": "Estenosis subglótica adquirida por intubación; se asocia a antecedente de ventilación mecánica y requiere dilatación.",
+        "isCorrect": false,
+        "explanation": "La estenosis subglótica es una estrechez intrínseca cicatrizal de la luz de la laringe por debajo de las cuerdas vocales, comúnmente secundaria al trauma por intubación prolongada en la UCI, sin comprimir el esófago."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Se evalúa en el box de urgencias a un preescolar de 3 años de edad que asiste por presentar fiebre alta de 39,5°C de 24 horas de evolución, odinofagia severa, sialorrea activa (babeo constante) y una postura rígida del cuello en hiperextensión cervical (tortícolis defensivo). Se solicita una radiografía de cuello lateral de perfil con el cuello extendido tomada durante la inspiración profunda, la cual muestra un ensanchamiento marcado del espacio blando prevertebral medido a nivel de la vértebra C2 de 14 mm (lo que excede dos veces el diámetro del cuerpo vertebral adyacente). ¿Cuál es el diagnóstico?",
+    "hint": "El espacio prevertebral cervical normal es estrecho. El aumento significativo de su espesor (mayor a 7 mm a nivel de C2 o mayor a 14 mm a nivel de C6, o mayor al doble del ancho del cuerpo vertebral de C2) en un niño febril con babeo e hiperextensión del cuello es el signo radiológico de colección purulenta profunda.",
+    "options": [
+      {
+        "text": "Epiglotitis aguda por Haemophilus influenzae; se asocia al signo de la huella digital en la epiglotis de perfil.",
+        "isCorrect": false,
+        "explanation": "La epiglotitis es una emergencia grave que muestra de forma característica un aumento de volumen redondeado y denso de la epiglotis que simula una huella dactilar (\"signo de la huella digital\" o thumbprint sign) en la radiografía lateral, con partes blandas prevertebrales normales."
+      },
+      {
+        "text": "Es una radiografía normal por fase espiratoria; requiere repetir el examen en fase inspiratoria forzada de urgencia.",
+        "isCorrect": false,
+        "explanation": "Aunque la espiración o la flexión del cuello pueden ensanchar falsamente el espacio prevertebral de forma transitoria, la presencia de sialorrea activa, fiebre de 39,5°C y tortícolis defensivo confirma la sospecha patológica de una colección activa retrofaríngea que no es un artefacto de la placa."
+      },
+      {
+        "text": "Absceso retrofaríngeo; requiere hospitalización de urgencia para el inicio de antibióticos endovenosos o drenaje.",
+        "isCorrect": true,
+        "explanation": "El Absceso Retrofaríngeo es una infección profunda del espacio retroesofágico cervical, común en preescolares. Clínicamente se manifiesta con fiebre alta, babeo (sialorrea por imposibilidad de deglutir), odinofagia y tortícolis. Radiológicamente, la radiografía de cuello lateral de perfil (tomada en inspiración y extensión) es el examen inicial de elección, confirmando el diagnóstico al mostrar un ensanchamiento marcado del espacio de partes blandas prevertebrales cervicales (> 7 mm a nivel de C2 o > 14 mm a nivel de C6, o más de dos veces el ancho de C2). Requiere hospitalización, antibióticos de amplio espectro endovenosos y eventual drenaje quirúrgico."
+      },
+      {
+        "text": "Laringitis obstructiva aguda viral; se asocia a estridor inspiratorio y requiere nebulización con adrenalina corriente.",
+        "isCorrect": false,
+        "explanation": "La laringitis viral cursa con tos perruna obstructiva y estridor, y su radiografía de cuello AP muestra el \"signo de la aguja\" (estrechamiento subglótico), sin alterar el espacio de partes blandas prevertebrales en la radiografía lateral."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un lactante de 2 años de edad es llevado al consultorio por un cuadro de 2 días de evolución de coriza, tos disfónica (\"de perro\") de predominio nocturno y estridor inspiratorio intermitente al llanto. Al examen se observa en buenas condiciones generales, normoperfundido, activo y satura 96% ambiental. Se le toma una radiografía de cuello anteroposterior portátil de control que muestra un estrechamiento simétrico y progresivo de la luz de la vía aérea por debajo de las cuerdas vocales, adoptando un aspecto en punta de lápiz o punta de aguja (steeple sign). ¿Cuál es el diagnóstico?",
+    "hint": "El estrechamiento subglótico simétrico es la representación radiológica clásica en la placa AP del edema mucoso de la vía laringea alta provocado de forma típica por el virus parainfluenza.",
+    "options": [
+      {
+        "text": "Laringitis aguda obstructiva (Croup viral); se asocia a edema subglótico y se trata de primera línea con dexametasona.",
+        "isCorrect": true,
+        "explanation": "La Laringitis Aguda Obstructiva o Croup viral es la causa más común de obstrucción de la vía aérea alta en lactantes y preescolares. Radiológicamente, la radiografía de cuello AP muestra el \"signo de la aguja\" o de la \"punta de lápiz\" (steeple sign), caracterizado por el estrechamiento simétrico de la luz de la vía aérea subglótica debido al edema inflamatorio de la mucosa. El tratamiento de primera línea consiste en el uso de corticoides sistémicos de vida media prolongada (Dexametasona oral o intramuscular en dosis única de 0,6 mg/kg)."
+      },
+      {
+        "text": "Traqueítis bacteriana membranosa; se asocia a membranas purulentas intratraqueales y requiere cloxacilina endovenosa.",
+        "isCorrect": false,
+        "explanation": "La traqueítis bacteriana es una infección invasiva grave que cursa con gran compromiso del estado general, fiebre alta refractaria y radiológicamente muestra bordes traqueales irregulares con imágenes de membranas desprendidas en la luz, sin steeple sign liso."
+      },
+      {
+        "text": "Epiglotitis aguda bacteriana; se asocia al signo de la huella digital en la lateral y requiere intubación en pabellón.",
+        "isCorrect": false,
+        "explanation": "La epiglotitis es una emergencia infecciosa bacteriana que compromete la epiglotis por sobre las cuerdas vocales, diagnosticándose mediante el \"signo de la huella digital\" en la radiografía de cuello lateral de perfil, con un steeple sign AP ausente."
+      },
+      {
+        "text": "Aspiración de cuerpo extraño laringeo; se asocia a obstrucción asimétrica y requiere broncoscopía rígida de urgencia.",
+        "isCorrect": false,
+        "explanation": "La aspiración de un cuerpo extraño en la laringe se presentaría con un inicio hiperagudo brusco de asfixia y tos sofocante, y radiológicamente mostraría un estrechamiento asimétrico o la visualización del objeto si es radiopaco, sin el steeple sign simétrico."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Radiografía de tórax",
+    "text": "Un preescolar de 3 años, hospitalizado por neumonía bacteriana complicada con un derrame pleural derecho masivo, persiste febril a las 48 horas de tratamiento antibiótico óptimo. Se debe decidir si el paciente requiere debridamiento quirúrgico mediante videotoracoscopia (VATS) o si se beneficia únicamente de la colocación de un tubo de drenaje pleural simple bajo agua. De acuerdo con las guías de infectología y cirugía infantil en Chile, ¿cuál es el estudio de imágenes de elección recomendado para tomar esta decisión específica?",
+    "hint": "Busque el método de imágenes dinámico, de alta resolución tisular para fluidos, libre de radiación ionizante y que no requiere traslados ni anestesia general compleja, que permite detectar tabiques de fibrina finos en la cavidad pleural.",
+    "options": [
+      {
+        "text": "Ninguna imagen es útil, debiendo realizarse una toracocentesis a ciegas bilateral de forma prioritaria en la cama.",
+        "isCorrect": false,
+        "explanation": "La toracocentesis a ciegas (sin guía ecográfica) en un derrame complicado tabicado está formalmente contraindicada por el altísimo riesgo de punción fallida (punción seca), laceración del parénquima pulmonar, hemotórax o neumotórax iatrogénico."
+      },
+      {
+        "text": "La ecografía de tórax es de primera elección para evaluar tabiques (septos) intrapleurales y guiar la conducta de drenaje o VATS.",
+        "isCorrect": true,
+        "explanation": "En derrames pleurales paraneumónicos complicados (sospecha de empiema), la ecografía de tórax es el estudio de elección y el estándar de oro para caracterizar el espacio pleural. Permite detectar con alta sensibilidad la presencia de tabicaciones (septos o bandas de fibrina) en el líquido (fase fibrino-purulenta), estimar el volumen del derrame y guiar la colocación del drenaje percutáneo o decidir de forma oportuna la realización de una toracoscopia (VATS) descompresiva. Es superior a la TC porque no irradia, no requiere sedación profunda obligatoria y es dinámica en tiempo real."
+      },
+      {
+        "text": "La radiografía de tórax lateral es suficiente para delimitar de forma perfecta los tabiques de fibrina en el espacio pleural.",
+        "isCorrect": false,
+        "explanation": "La radiografía lateral puede confirmar la presencia de líquido en el espacio pleural posterior (borramiento del receso), pero es totalmente inútil para discernir la presencia de tabiques o septaciones de fibrina complejas en su interior."
+      },
+      {
+        "text": "La tomografía axial computarizada es de primera elección por su bajo costo y nula necesidad de sedación profunda.",
+        "isCorrect": false,
+        "explanation": "La TC de tórax aporta información anatómica pero expone al niño a altas dosis de radiación, exige el uso de anestesia o sedación profunda para evitar artefactos de movimiento y es menos sensible que la ecografía para detectar tabiques de fibrina finos en fase inicial."
+      }
+    ]
+  }
+]
