@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Una lactante de 15 días de vida asiste a su primer control sano en el CESFAM. Su madre refiere estar alimentándola con lactancia materna exclusiva a libre demanda. Al evaluar los beneficios inmunológicos de la leche materna, ¿cuál es el anticuerpo más abundante en el calostro y la leche madura, y cuál es su mecanismo de acción protector primordial en el recién nacido?",
+    "hint": "Piense en la inmunoglobulina que actúa como una \"barrera local protectora\" (exclusión inmune) que no se absorbe sistémicamente por el tubo digestivo.",
+    "options": [
+      {
+        "text": "Inmunoglobulina G (IgG); atraviesa activamente la pared intestinal para unirse a patógenos circulantes sistémicos.",
+        "isCorrect": false,
+        "explanation": "La IgG es el anticuerpo predominante de transferencia transplacentaria prenatal durante el tercer trimestre de la gestación para otorgar inmunidad sistémica, pero no es el anticuerpo efector local mayoritario del calostro."
+      },
+      {
+        "text": "Inmunoglobulina M (IgM); activa de forma potente la cascada clásica del complemento a nivel del torrente esplénico.",
+        "isCorrect": false,
+        "explanation": "La IgM se produce en etapas tempranas ante infecciones primarias y activa el complemento, pero se encuentra en concentraciones traza o muy bajas en la leche materna, sin jugar el rol de barrera mucosa que ejerce la IgA."
+      },
+      {
+        "text": "Inmunoglobulina E (IgE); estimula la degranulación de mastocitos tisulares frente a proteínas extrañas del lumen.",
+        "isCorrect": false,
+        "explanation": "La IgE es el anticuerpo mediador de las reacciones de hipersensibilidad tipo I (alérgicas). Su estimulación masiva a nivel intestinal es patológica y no representa un mecanismo de defensa fisiológico del calostro."
+      },
+      {
+        "text": "Inmunoglobulina A secretora (IgAs); recubre la mucosa digestiva e impide la adherencia y traslocación de patógenos.",
+        "isCorrect": true,
+        "explanation": "La IgA secretora (IgAs) es la inmunoglobulina más abundante en la leche humana, especialmente en el calostro. No se absorbe, sino que actúa de forma local en la luz del tubo digestivo del lactante, uniéndose a virus y bacterias para impedir su adherencia y traslocación a través de los enterocitos (inmunidad de exclusión)."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Durante la anamnesis de una gestante de término de 38 semanas, se discute la planificación de la lactancia. Al repasar las contraindicaciones absolutas de la lactancia materna de acuerdo con la norma técnica de los programas alimentarios y de infectología en Chile, ¿cuál de las siguientes condiciones maternas prohíbe de forma definitiva la alimentación al pecho?",
+    "hint": "En Chile, la red de salud pública contraindica de forma absoluta la lactancia ante virus de transmisión vertical que se excretan activamente por la leche y que asocian alta morbilidad neurológica o inmunológica irreversible.",
+    "options": [
+      {
+        "text": "Diagnóstico de Mastitis bacteriana unilateral con salida de secreción purulenta o presencia de grietas sangrantes en el pezón afectado.",
+        "isCorrect": false,
+        "explanation": "La mastitis y las grietas no son contraindicaciones de la lactancia; de hecho, el manejo de elección es continuar con el vaciamiento regular del pecho (amamantando o extrayendo leche) para evitar la retención y progresión a un absceso mamario."
+      },
+      {
+        "text": "Infección materna confirmada por el Virus de Inmunodeficiencia Humana (VIH) o por el Virus Linfotrópico Humano de Células T tipo 1 (HTLV-1).",
+        "isCorrect": true,
+        "explanation": "En Chile y países de altos recursos, la infección materna por VIH y por HTLV-1 constituye una contraindicación absoluta para la lactancia materna debido al riesgo de transmisión vertical del virus a través de la leche. El PNAC provee sucedáneos de leche de forma gratuita para estos binomios."
+      },
+      {
+        "text": "Diagnóstico de Tuberculosis pulmonar activa no tratada al momento del parto o infección activa por el Virus de Varicela Zóster sin lesiones mamarias.",
+        "isCorrect": false,
+        "explanation": "La tuberculosis activa de la madre contraindica el contacto directo transitorio con el niño por riesgo de transmisión aérea, pero no la alimentación con leche materna extraída de forma manual. Una vez completadas 2 semanas de tratamiento materno eficaz, se puede retomar el acople directo de forma segura."
+      },
+      {
+        "text": "Infección por el Virus de la Hepatitis B (VHB) o por el Virus de la Hepatitis C (VHC) con carga viral plasmática detectable en el tercer trimestre.",
+        "isCorrect": false,
+        "explanation": "La Hepatitis B y C no contraindican la lactancia si el recién nacido recibe la vacuna e inmunoglobulina correspondientes (en el caso de VHB) dentro de las primeras 12 horas, y no hay lesiones sangrantes activas en el pezón."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Una madre de un lactante de 2 meses consulta en el CESFAM por presentar dolor intenso, eritema localizado, calor local y aumento de volumen fluctuante en el cuadrante superior de la mama derecha, asociado a fiebre de 39°C y calofríos de 24 horas de evolución. Al examen físico se confirma una mastitis puerperal derecha. ¿Cuál es la conducta clínica correcta respecto a la lactancia y el tratamiento inicial?",
+    "hint": "El pilar del tratamiento de la mastitis es el vaciamiento mecánico del pecho para resolver el estasis de leche, complementado con antibióticos con cobertura para el patógeno más común (Staphylococcus aureus).",
+    "options": [
+      {
+        "text": "Indicar reposo absoluto de la glándula mamaria afectada sin extracción, aplicar compresas calientes continuas e iniciar metronidazol endovenoso.",
+        "isCorrect": false,
+        "explanation": "El reposo de la glándula mamaria (no vaciarla) está estrictamente contraindicado, y el metronidazol cubre anaerobios, los cuales no son los patógenos causales típicos de la mastitis puerperal."
+      },
+      {
+        "text": "Suspender temporalmente la lactancia en ambos pechos, desechar la leche extraída de forma manual e iniciar tratamiento empírico con ciprofloxacino.",
+        "isCorrect": false,
+        "explanation": "Suspender la lactancia exacerba el estasis de leche, lo cual favorece la progresión rápida de la mastitis hacia un absceso mamario quirúrgico, y el ciprofloxacino no es el fármaco de elección de primera línea."
+      },
+      {
+        "text": "Suspender de forma definitiva la lactancia en el pecho afectado, mantener el pecho sano al acople directo e iniciar amoxicilina combinada con ácido clavulánico.",
+        "isCorrect": false,
+        "explanation": "No se debe suspender la lactancia en el lado afectado; el amamantamiento directo ayuda a descongestionar los conductos obstruidos de manera mucho más eficiente que la extracción mecánica."
+      },
+      {
+        "text": "Continuar amamantando de forma exclusiva con ambos pechos, priorizando el vaciamiento del pecho afectado, e iniciar cloxacilina o flucloxacilina vía oral.",
+        "isCorrect": true,
+        "explanation": "El vaciamiento del pecho es crítico en el manejo de la mastitis para evitar la formación de abscesos. La leche del pecho con mastitis es segura para el lactante. El tratamiento antibiótico de primera línea en Chile se dirige contra Staphylococcus aureus mediante el uso de cloxacilina, flucloxacilina o cefadroxilo por 10 a 14 días."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "De acuerdo con las guías clínicas de neonatología chilenas ( Tisné / HCSBA) y las recomendaciones del MINSAL para recién nacidos de alto riesgo, ¿cuál es el protocolo de extracción de calostro indicado para madres de recién nacidos prematuros menores de 32 semanas o con peso menor de 1.500 gramos hospitalizados en la UCI neonatal?",
+    "hint": "La estimulación precoz de la mama en la madre de un prematuro extremo es clave para asegurar el volumen lactacional futuro y disponer de calostro para la inmunoprotección orofaríngea del recién nacido.",
+    "options": [
+      {
+        "text": "Esperar la bajada de la leche madura (habitualmente al cuarto día postparto) antes de iniciar cualquier maniobra de estimulación mamaria activa.",
+        "isCorrect": false,
+        "explanation": "Esperar al cuarto día disminuye de forma severa la producción de leche a largo plazo (falla de lactogénesis II) debido a la falta de estímulo hormonal temprano que gatilla la succión o extracción."
+      },
+      {
+        "text": "Iniciar la extracción manual de calostro dentro de la primera hora postparto en la sala de puerperio, repitiendo el proceso al menos 6 a 8 veces al día.",
+        "isCorrect": true,
+        "explanation": "Las guías nacionales e internacionales de neonatología promueven la extracción muy precoz de calostro (idealmente dentro de la primera hora postparto) en madres de prematuros <32 semanas o <1.500 g. Las extracciones deben ser frecuentes (6 a 8 veces al día de forma manual o combinada) para asegurar la estimulación de los receptores de prolactina y disponer de calostro para la terapia de colostroterapia (inmunoterapia orofaríngea) del prematuro."
+      },
+      {
+        "text": "Desaconsejar la extracción manual precoz debido al riesgo teórico de inducir crisis de hipotensión arterial refleja en la madre puérpera.",
+        "isCorrect": false,
+        "explanation": "La extracción manual precoz es segura y fisiológica; estimula la secreción de oxitocina, lo cual ayuda a la contracción uterina postparto (previniendo hemorragias) sin alterar la estabilidad hemodinámica de la madre."
+      },
+      {
+        "text": "Realizar extracciones intermitentes exclusivamente mediante bomba eléctrica doble de alta presión cada doce horas en el lactario del hospital.",
+        "isCorrect": false,
+        "explanation": "La bomba eléctrica puede ser útil posteriormente, pero en las primeras 24-48 horas la extracción manual es muy superior para recuperar las escasas y viscosas gotas de calostro, y la frecuencia debe ser cada 3 horas (no cada 12)."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "¿A qué edad cronológica promedio recomienda el Ministerio de Salud de Chile iniciar la alimentación complementaria (papillas) en un lactante sano de término, y cuáles son los hitos fisiológicos del desarrollo que justifican este momento de inicio?",
+    "hint": "A esta edad, la leche materna ya no logra cubrir de forma exclusiva los requerimientos de micronutrientes (como hierro y zinc) y el lactante adquiere la madurez motora e intestinal para tolerar alimentos sólidos sin riesgo de atragantamiento o sobrecarga renal de solutos.",
+    "options": [
+      {
+        "text": "Iniciar a los 8 meses de edad, debido al desarrollo de la pinza digital madura que permite la alimentación independiente con trozos sólidos.",
+        "isCorrect": false,
+        "explanation": "Postergar la alimentación complementaria hasta los 8 meses expone al lactante a un riesgo severo de anemia ferropénica y déficit de zinc, ya que las reservas corporales natales de estos minerales se agotan fisiológicamente a los 6 meses."
+      },
+      {
+        "text": "Iniciar a los 4 meses de edad, debido a la consolidación del control cefálico completo y la aparición de la dentición decidua inicial.",
+        "isCorrect": false,
+        "explanation": "A los 4 meses el sistema digestivo y renal es inmaduro para manejar cargas osmóticas elevadas de proteínas y minerales de alimentos sólidos, lo cual aumenta el riesgo de deshidratación y microhemorragias intestinales."
+      },
+      {
+        "text": "Iniciar a los 12 meses de edad, debido a la maduración del eje hipotálamo-hipófisis que regula de forma autónoma la saciedad del menor.",
+        "isCorrect": false,
+        "explanation": "Retrasar la introducción de sólidos hasta el año de vida altera el desarrollo sensorio-motor oral (dificultad para aceptar texturas posteriores) y condiciona desnutrición calórico-proteica severa."
+      },
+      {
+        "text": "Iniciar a los 6 meses de edad, debido a la madurez renal, digestiva e inmunológica, asociada a la desaparición del reflejo de extrusión.",
+        "isCorrect": true,
+        "explanation": "El MINSAL, la OMS y la SOCHIPE recomiendan iniciar la alimentación complementaria a los 6 meses de edad. Fisiológicamente, a esta edad el lactante presenta: maduración de la filtración glomerular renal, desarrollo de enzimas digestivas intestinales, maduración de la barrera inmunológica intestinal (menor riesgo de alergias) y la desaparición del reflejo de extrusión (que le permite deglutir sólidos sin rechazarlos con la lengua)."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un lactante de 5 meses de edad, alimentado con lactancia materna que se suspende por motivos laborales de la madre, asiste a control nutricional en el CESFAM. El médico decide indicar alimentación sucedánea con Leche Purita Fortificada (LPF) distribuida por el PNAC. De acuerdo con las normas de preparación técnica del MINSAL para menores de 1 año, ¿cómo se debe indicar la reconstitución de cada mamadera?",
+    "hint": "La Leche Purita Fortificada es leche de vaca entera en polvo (26% materia grasa). Para asemejarla a la leche humana (bajar la carga de proteínas y sodio, y subir la densidad calórica), se diluye con agua y se complementa con azúcares y grasas vegetales.",
+    "options": [
+      {
+        "text": "Dilución al 10% (10 g de polvo en 100 mL de agua) adicionando un 5% de azúcar y sin adición de lípidos para evitar sobrecarga pancreática.",
+        "isCorrect": false,
+        "explanation": "Preparar al 10% con 5% de azúcar para un lactante de 5 meses genera una solución hipertónica con exceso de solutos y carbohidratos simples, lo que predispone a diarrea osmótica y sobrecarga renal."
+      },
+      {
+        "text": "Dilución al 13,5% (13,5 g de polvo en 100 mL de agua) de forma pura, sin adición de carbohidratos ni lípidos en la mamadera.",
+        "isCorrect": false,
+        "explanation": "La dilución al 13,5% pura es la reconstitución estándar para fórmulas de inicio comerciales modificadas, pero la LPF no modificada al 13,5% aportaría una cantidad intolerablemente alta de proteínas y sodio para los riñones de un lactante de 5 meses."
+      },
+      {
+        "text": "Dilución al 7,5% (7,5 g de polvo en 100 mL de agua) adicionando un 3% de azúcar o maltodextrina y un 2% de aceite vegetal de canola o soya.",
+        "isCorrect": true,
+        "explanation": "Para lactantes menores de 12 meses, la Leche Purita Fortificada (LPF) se prepara al 7,5% para reducir la concentración excesiva de proteínas y minerales de la leche de vaca entera. Para recuperar la densidad calórica (~67-70 kcal/100 mL) se debe adicionar un 3% de carbohidratos (azúcar o maltodextrina) y un 2% de aceite vegetal rico en ácidos grasos esenciales (canola o soya)."
+      },
+      {
+        "text": "Dilución al 5,0% (5 g de polvo en 100 mL de agua) adicionando un 2% de cereal de arroz precocido sin azúcar.",
+        "isCorrect": false,
+        "explanation": "Una dilución al 5% es extremadamente diluida (hipocalórica e hipoproteica), conduciendo rápidamente al lactante a desnutrición calórica aguda y trastornos electrolíticos dilucionales (hiponatremia)."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Usted controla en el CESFAM a un lactante de 15 meses de edad cuyo estado nutricional es normal. La madre retira mensualmente la Leche Purita Fortificada (LPF) en el tarjetero del PNAC. De acuerdo con las guías de alimentación del MINSAL para mayores de 1 año, ¿cuál es la dilución correcta de la LPF y qué aditivos se deben incorporar en su preparación?",
+    "hint": "Al año de vida, la madurez renal y digestiva del niño le permite manejar la leche entera de vaca a una dilución mayor, y se deben retirar los azúcares y aceites añadidos para prevenir la obesidad infantil y el desarrollo de caries.",
+    "options": [
+      {
+        "text": "Dilución al 15% adicionando un 5% de cereal de trigo con miel y un 2% de crema de leche entera de vaca.",
+        "isCorrect": false,
+        "explanation": "Agregar miel está prohibido en menores de 1 año por riesgo de botulismo, e incorporarla a los 15 meses junto con diluciones excesivas al 15% y crema aporta una densidad calórica y de grasas saturadas perjudicial para la salud cardiovascular."
+      },
+      {
+        "text": "Dilución al 7,5% adicionando un 3% de azúcar o maltodextrina y un 2% de aceite vegetal de canola.",
+        "isCorrect": false,
+        "explanation": "La preparación al 7,5% con azúcar y aceite es la fórmula indicada de forma estricta para el lactante menor de 1 año; mantenerla a los 15 meses promueve hábitos alimenticios cariogénicos y sobrepeso."
+      },
+      {
+        "text": "Dilución al 5,0% de forma pura en agua, adicionando un 3% de endulzante artificial no calórico líquido.",
+        "isCorrect": false,
+        "explanation": "Diluir al 5% genera una leche diluida hipocalórica, y el uso de endulzantes artificiales no calóricos (sucralosa, estevia, etc.) está desaconsejado de forma rutinaria en la alimentación diaria de lactantes y preescolares por el MINSAL."
+      },
+      {
+        "text": "Dilución al 10% de forma pura en agua (10 g de polvo en 100 mL de agua), sin adición de azúcar ni de aceite vegetal.",
+        "isCorrect": true,
+        "explanation": "A partir de los 12 meses de edad, el niño presenta madurez digestiva y renal completa. La Leche Purita Fortificada (LPF) se debe preparar al 10% (reconstitución normal de leche de vaca) de forma pura, es decir, sin agregar azúcar, maltodextrina ni aceite, con el fin de evitar el aporte excesivo de calorías y carbohidratos simples, previniendo la obesidad en APS."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un lactante de 8 meses asiste a control nutricional en la comuna de Pudahuel. Se constata un peso para la edad (P/E) en el percentil 4, lo que clasifica al menor en riesgo de desnutrición. De acuerdo con las normas vigentes de los programas alimentarios del MINSAL en Chile, ¿cuál es la conducta respecto a su categorización en el PNAC y qué productos le corresponde retirar?",
+    "hint": "El PNAC chileno se divide en dos grandes subprogramas universales según el estado nutricional del menor: \"Básico\" para niños normopeso o con sobrepeso/obesidad, y \"Refuerzo\" para aquellos con riesgo de desnutrición, desnutrición o talla baja.",
+    "options": [
+      {
+        "text": "Ingresar al lactante al componente \"PNAC Básico\", retirando 2 kg de Leche Purita Fortificada y 1 kg de Mi Sopita mensualmente.",
+        "isCorrect": false,
+        "explanation": "El PNAC Básico está reservado para niños con estado nutricional normal, sobrepeso u obesidad, entregando un volumen menor de alimentos (ej: 2 kg de LPF y 1 kg de Mi Sopita al mes para su edad)."
+      },
+      {
+        "text": "Ingresar al lactante al componente \"PNAC Prematuros Extremos\", retirando fórmulas especiales de alta densidad calórica.",
+        "isCorrect": false,
+        "explanation": "El PNAC de Prematuros Extremos requiere cumplir con el criterio de nacimiento (<32 semanas o <1.500 g), no aplicándose de forma reactiva a desnutrición de lactantes nacidos de término."
+      },
+      {
+        "text": "Suspender el beneficio del PNAC por vía institucional hasta que el lactante recupere un carril de crecimiento normalizado.",
+        "isCorrect": false,
+        "explanation": "El riesgo de desnutrición es la indicación de oro para intensificar el apoyo nutricional del PNAC, por lo que suspender el beneficio vulnera la salud del menor y viola las normas técnicas de APS."
+      },
+      {
+        "text": "Ingresar al lactante al componente \"PNAC Refuerzo\", retirando 3 kg de Leche Purita Fortificada y 2 kg de Mi Sopita mensualmente.",
+        "isCorrect": true,
+        "explanation": "El PNAC Refuerzo está destinado a lactantes y preescolares menores de 6 años con riesgo de desnutrición, desnutrición o retraso de talla, así como a gestantes enflaquecidas. Este componente entrega una mayor cantidad de alimentos (ej: para el lactante de 8 meses en riesgo, corresponde la entrega de 3 kg de LPF y 2 kg de crema Mi Sopita al mes, el doble del aporte básico)."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un recién nacido pretérmino de 29 semanas de edad gestacional y 1.200 gramos al nacer es dado de alta de la Unidad de Neonatología del Hospital Luis Tisné a las 36 semanas de edad corregida. Respecto a su incorporación en el programa alimentario nacional, ¿cuál es el subprograma específico del PNAC al que ingresa y qué productos recibe de forma gratuita?",
+    "hint": "Los recién nacidos prematuros extremos (<32 semanas o <1.500 g) tienen un programa del PNAC exclusivo que les provee fórmulas diseñadas para cubrir su alta tasa de crecimiento compensatorio y mineralización ósea post-alta.",
+    "options": [
+      {
+        "text": "Ingresa al PNAC Alergia Alimentaria, retirando fórmulas extensamente hidrolizadas de suero lácteo hasta cumplir los dos años de edad.",
+        "isCorrect": false,
+        "explanation": "El ingreso al PNAC Alergia Alimentaria requiere la sospecha clínica o confirmación diagnóstica de Alergia a la Proteína de Leche de Vaca (APLV), no aplicándose por el solo antecedente de prematurez extrema."
+      },
+      {
+        "text": "Ingresa al PNAC para Prematuros Extremos, retirando fórmulas lácteas especiales para prematuros (de inicio y/o de post-alta) hasta el año de edad corregida.",
+        "isCorrect": true,
+        "explanation": "El subprograma \"PNAC Prematuros Extremos\" beneficia a todo lactante nacido con <32 semanas de gestación o peso al nacer ≤ 1.500 gramos. Les entrega fórmulas lácteas infantiles diseñadas para prematuros (fórmulas de post-alta con mayor densidad calórica, calcio, fósforo y proteínas) hasta que cumplen 1 año de edad corregida, favoreciendo el catch-up nutricional."
+      },
+      {
+        "text": "Ingresa al PNAC Refuerzo general de prematuros, retirando Leche Purita Fortificada diluida al 10% desde el primer mes del alta.",
+        "isCorrect": false,
+        "explanation": "La Leche Purita Fortificada común no es nutricionalmente adecuada para el prematuro extremo en el post-alta inmediato, ya que carece del aporte proteico y de minerales (calcio/fósforo) necesarios para evitar la enfermedad metabólica ósea del prematuro."
+      },
+      {
+        "text": "Ingresa al PNAC Básico de transición, retirando exclusivamente crema Mi Sopita y cereal NutriRica sin azúcar añadida.",
+        "isCorrect": false,
+        "explanation": "El PNAC Básico no aporta las fórmulas lácteas especializadas de alta densidad requeridas de forma obligatoria por los prematuros extremos durante su primer año de vida corregida."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Lactante de 4 meses de vida, alimentado con fórmula de inicio por suspensión de lactancia, presenta un cuadro de proctocolitis alérgica severa con deposiciones con sangre y falla de fomento estaturo-ponderal. Se diagnostica Alergia a la Proteína de la Leche de Vaca (APLV). Para acceder al beneficio del PNAC Alergia Alimentaria del MINSAL, ¿cuál es el tipo de sucedáneo lácteo que corresponde entregar de primera línea según el protocolo nacional?",
+    "hint": "El tratamiento de la APLV requiere eliminar por completo las proteínas intactas de leche de vaca. El PNAC provee de forma gratuita fórmulas donde las proteínas están fragmentadas en péptidos muy pequeños (hidrolizadas) o directamente en aminoácidos libres.",
+    "options": [
+      {
+        "text": "Fórmula láctea de cabra pasteurizada diluida al 13,5% de forma pura sin aditivos.",
+        "isCorrect": false,
+        "explanation": "La leche de cabra está estrictamente contraindicada en pacientes con APLV debido a que comparte más del 90% de homología estructural en sus proteínas con la leche de vaca, lo cual perpetúa y agrava la enteropatía alérgica."
+      },
+      {
+        "text": "Fórmula polimérica estándar a base de aislado proteico de suero de vaca entero.",
+        "isCorrect": false,
+        "explanation": "Las fórmulas poliméricas contienen proteínas intactas de leche de vaca, por lo que su uso en un lactante con APLV gatillará una respuesta inmune grave e inflamación intestinal persistente."
+      },
+      {
+        "text": "Fórmula de soya altamente purificada adicionada con nucleótidos y prebióticos sintéticos.",
+        "isCorrect": false,
+        "explanation": "Las fórmulas de soya no se recomiendan en lactantes menores de 6 meses con APLV debido a la alta tasa de reactividad cruzada (hasta 10-15%) y la presencia de fitoestrógenos que pueden alterar el desarrollo endocrino."
+      },
+      {
+        "text": "Fórmula hipoalergénica con proteína extensamente hidrolizada (hidrolizado extenso) o de aminoácidos en casos graves.",
+        "isCorrect": true,
+        "explanation": "El PNAC Alergia Alimentaria provee fórmulas especiales para menores de 2 años con diagnóstico de APLV en Chile. La primera línea de tratamiento y entrega son las fórmulas extensamente hidrolizadas (donde el 99% de los péptidos tienen un peso molecular < 3.000 Da, perdiendo su capacidad alergénica). Ante anafilaxia o falla de estas, se indican y entregan fórmulas de aminoácidos libres (monoméricas)."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "En el box de urgencias del CESFAM, usted evalúa a una madre que consulta por sospecha de alergia alimentaria en su hijo de 3 meses. Al explicar la diferencia fisiopatológica entre la Alergia a la Proteína de la Leche de Vaca (APLV) y la Intolerancia a la Lactosa, ¿cuál es la distinción patogénica fundamental que debe transmitir de forma correcta?",
+    "hint": "Recuerde que las alergias son respuestas del sistema inmune frente a una macromolécula (proteína), mientras que las intolerancias representan una falla química metabólica del cuerpo para procesar un carbohidrato (azúcar/lactosa).",
+    "options": [
+      {
+        "text": "Ambas condiciones comparten la misma vía inmunológica IgE, diferenciándose únicamente en el grado de distensión abdominal que producen.",
+        "isCorrect": false,
+        "explanation": "La intolerancia a la lactosa no involucra en absoluto al sistema inmunológico ni anticuerpos IgE, siendo una falla puramente bioquímica de digestión enzimática luminal."
+      },
+      {
+        "text": "La APLV es provocada de forma exclusiva por virus transmitidos por la leche; la intolerancia es un trastorno genético del metabolismo de las grasas.",
+        "isCorrect": false,
+        "explanation": "Las proteínas lácteas de la dieta materna u origen bovino son los alérgenos de la APLV, no agentes virales, y la lactosa es un carbohidrato (azúcar disacárido) y no una grasa."
+      },
+      {
+        "text": "La APLV es una reacción inmunológica mediada por anticuerpos IgE o células T contra proteínas de la leche; la intolerancia a la lactosa es un déficit enzimático de digestión del azúcar de la leche.",
+        "isCorrect": true,
+        "explanation": "La APLV es una hipersensibilidad inmunológica (mediada por IgE, no mediada por IgE, o mixta) dirigida contra proteínas de la leche (caseína, beta-lactoglobulina). En contraste, la intolerancia a la lactosa es un trastorno no inmunológico provocado por el déficit de la enzima lactasa en el ribete en cepillo del enterocito, lo que impide hidrolizar el disacárido lactosa (azúcar), generando diarrea osmótica y meteorismo sin inflamación inmune."
+      },
+      {
+        "text": "La APLV es una deficiencia congénita de la enzima lactasa en las vellosidades; la intolerancia es una respuesta alérgica severa de la mucosa gástrica.",
+        "isCorrect": false,
+        "explanation": "Invierte de forma errónea los conceptos; la deficiencia de lactasa define a la intolerancia, y la respuesta alérgica es la base de la APLV."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "De acuerdo con las actualizaciones de la \"Guía de Alimentación para niños y niñas menores de 2 años\" del MINSAL de Chile (2023), ¿cuál es la recomendación vigente respecto a la edad y forma de introducción de alimentos altamente alergénicos (como huevo, pescado y maní molido) en la dieta del lactante?",
+    "hint": "La evidencia científica actual demuestra que retrasar la introducción de alimentos alergénicos aumenta el riesgo de desarrollar alergias alimentarias. Se promueve la \"ventana de oportunidad\" inmunológica al inicio de la alimentación complementaria.",
+    "options": [
+      {
+        "text": "Introducirlos de forma precoz a partir de los 6 meses de edad (junto con el inicio de la papilla), para favorecer el desarrollo de tolerancia inmunológica.",
+        "isCorrect": true,
+        "explanation": "Las guías alimentarias chilenas actuales recomiendan introducir los alimentos potencialmente alergénicos (como pescado, huevo entero bien cocido, legumbres y frutos secos finamente molidos para evitar atoro) a partir de los 6 meses de edad, coincidiendo con el inicio de la alimentación complementaria. La introducción temprana expone al sistema inmune intestinal a antígenos durante un período de plasticidad que promueve la tolerancia inmunológica activa."
+      },
+      {
+        "text": "Introducirlos de forma tardía a partir de los 12 meses de edad, comenzando de forma exclusiva con la yema de huevo cocida.",
+        "isCorrect": false,
+        "explanation": "Limitar la introducción a los 12 meses o restringir la clara de huevo por mitos históricos carece de base científica y priva al lactante de fuentes proteicas de alto valor biológico en su etapa crítica de crecimiento."
+      },
+      {
+        "text": "Postergar su introducción hasta después de los 2 años de vida para permitir la maduración de la tolerancia oral sistémica.",
+        "isCorrect": false,
+        "explanation": "Postergar la introducción de estos alimentos hasta los 2 años ha demostrado aumentar significativamente la incidencia de alergias alimentarias severas y dermatitis atópica en la infancia."
+      },
+      {
+        "text": "Evitar de forma absoluta su consumo durante toda la etapa de lactante menor debido al riesgo de inducir asma bronquial.",
+        "isCorrect": false,
+        "explanation": "La exclusión absoluta no previene el asma y de hecho favorece la sensibilización alérgica cutánea previa a la tolerancia digestiva, empeorando el pronóstico alérgico general."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "¿Cuál es la dosis diaria recomendada y el período de administración de la suplementación profiláctica con Vitamina D que se indica a todo lactante en Chile según las normas de supervisión integral en APS?",
+    "hint": "En Chile, la baja exposición solar segura de los lactantes (debido al uso obligatorio de bloqueadores y ropa) arriesga el desarrollo de raquitismo subclínico o fallas en la mineralización ósea. La suplementación es diaria y universal durante el primer año.",
+    "options": [
+      {
+        "text": "Administrar una dosis única intramuscular de 100.000 UI de Vitamina D al sexto mes de vida de forma universal.",
+        "isCorrect": false,
+        "explanation": "Las megadosis intramusculares no son la estrategia de salud pública en Chile para la prevención del raquitismo en APS, prefiriéndose el aporte fisiológico oral diario."
+      },
+      {
+        "text": "No se requiere suplementación si el lactante es alimentado con fórmulas comerciales que ya vienen adicionadas con calcio.",
+        "isCorrect": false,
+        "explanation": "Aunque las fórmulas infantiles contienen vitamina D, la variabilidad en los volúmenes de ingesta diaria hace que se mantenga la indicación de suplementación profiláctica para asegurar la meta de 400 UI en la red de salud."
+      },
+      {
+        "text": "Administrar 1000 UI diarias de Vitamina D por vía oral, únicamente durante los meses de invierno en menores de 2 años.",
+        "isCorrect": false,
+        "explanation": "Una dosis de 1000 UI diarias excede el requerimiento profiláctico basal y puede rozar límites de toxicidad si se mantiene por tiempo prolongado, y la suplementación debe ser anual e independiente de la estación del año."
+      },
+      {
+        "text": "Administrar 400 UI diarias de Vitamina D por vía oral, desde el nacimiento hasta que el niño cumpla 1 año de vida.",
+        "isCorrect": true,
+        "explanation": "El MINSAL chileno estipula la suplementación profiláctica universal con Vitamina D a razón de 400 UI diarias por vía oral en gotas (habitualmente 1 gota al día según la presentación comercial estándar de 400 UI/gota) a todo recién nacido (tanto de término como prematuro), manteniéndose de forma ininterrumpida hasta el año de vida para prevenir el raquitismo carencial."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un lactante de término de 4 meses de edad, alimentado con lactancia materna exclusiva y con un crecimiento adecuado, asiste a control sano en el CESFAM. De acuerdo con las guías nacionales de pediatría en Chile, ¿cuál es la indicación correcta respecto a la suplementación profiláctica con Hierro?",
+    "hint": "La leche materna es baja en hierro (aunque de alta biodisponibilidad). En recién nacidos de término, las reservas de hierro hepáticas acumuladas en el tercer trimestre comienzan a descender progresivamente a partir del cuarto mes de vida, requiriendo un aporte preventivo antes de que se instale la anemia ferropénica.",
+    "options": [
+      {
+        "text": "Iniciar la suplementación con Hierro únicamente si el hemograma de control de los 6 meses revela un hematocrito menor al 30%.",
+        "isCorrect": false,
+        "explanation": "La suplementación es profiláctica y preventiva; esperar a que el lactante desarrolle anemia clínica y alteración de laboratorio para intervenir es una conducta tardía que infringe las normas de supervisión infantil de Chile."
+      },
+      {
+        "text": "Iniciar la suplementación con Hierro a dosis de 1 a 2 mg/kg/día de hierro elemental por vía oral a partir de los 4 meses de vida, manteniéndola hasta el año de edad.",
+        "isCorrect": true,
+        "explanation": "Para prevenir la anemia ferropénica (que altera el desarrollo cognitivo y motor fino irreversiblemente), el MINSAL indica suplementar con Hierro profiláctico (1 a 2 mg/kg/día de hierro elemental, habitualmente formulado como sulfato ferroso o complejo polimaltosado) a todos los lactantes de término alimentados con lactancia materna exclusiva a partir de los 4 meses de vida, manteniéndola hasta el año de edad. En prematuros, la suplementación se inicia antes (a los 2 meses o al duplicar el peso de nacimiento)."
+      },
+      {
+        "text": "No suplementar con Hierro si el lactante se mantiene con lactancia materna exclusiva, ya que esta cubre de forma indefinida todos los requerimientos de hierro.",
+        "isCorrect": false,
+        "explanation": "Aunque el hierro de la leche materna se absorbe muy bien (alta biodisponibilidad por lactoferrina), su concentración absoluta es baja y es insuficiente para cubrir la rápida expansión de la masa eritrocitaria del lactante después de los 4 a 6 meses de vida."
+      },
+      {
+        "text": "Iniciar la suplementación con Hierro a dosis de 5 mg/kg/día por vía oral a partir de los 6 meses de vida de forma intermitente.",
+        "isCorrect": false,
+        "explanation": "La dosis de 5 mg/kg/día corresponde a un esquema terapéutico para anemia ferropénica ya establecida, no a una dosis profiláctica preventiva de rutina en APS."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Usted atiende a una madre vegetariana estricta (vegana) que alimenta a su lactante de 2 meses con lactancia materna exclusiva. Al evaluar el estado nutricional y vitamínico del binomio en el CESFAM, ¿cuál es el micronutriente crítico que debe asegurarse suplementar de forma obligatoria en la madre o en el lactante para evitar el desarrollo de una anemia megaloblástica y daño neurológico desmielinizante grave?",
+    "hint": "Esta vitamina hidrosoluble se encuentra casi de forma exclusiva en alimentos de origen animal. Su déficit grave en lactantes hijos de madres veganas no suplementadas provoca regresión psicomotora severa, apatía y convulsiones en el primer año.",
+    "options": [
+      {
+        "text": "Vitamina B1 (tiamina).",
+        "isCorrect": false,
+        "explanation": "La deficiencia de vitamina B1 (beriberi) puede ocurrir en desnutriciones extremas o dietas basadas exclusivamente en arroz pulido, pero no es el marcador de riesgo crítico ligado a la dieta vegetariana/vegana estricta sin suplementación de cobalamina."
+      },
+      {
+        "text": "Vitamina B12 (cobalamina).",
+        "isCorrect": true,
+        "explanation": "La vitamina B12 se encuentra únicamente en productos de origen animal. Las madres veganas estrictas que no se suplementan tienen depósitos corporales nulos o bajos de B12, por lo que su leche materna carece de esta vitamina. Esto expone al lactante amamantado de forma exclusiva a una deficiencia grave que debuta en el primer semestre con anemia megaloblástica, detención o regresión del desarrollo psicomotor y desmielinizacion del sistema nervioso central."
+      },
+      {
+        "text": "Vitamina A (retinol).",
+        "isCorrect": false,
+        "explanation": "La vitamina A se obtiene a partir de carotenoides presentes en vegetales pigmentados (zanahoria, zapallo, etc.) y su déficit no se asocia de forma típica a anemia megaloblástica ni desmielinización neurológica selectiva del lactante menor."
+      },
+      {
+        "text": "Vitamina C (ácido ascórbico).",
+        "isCorrect": false,
+        "explanation": "La vitamina C es abundante en frutas y verduras frescas, alimentos que forman parte esencial de la dieta vegana, por lo que su deficiencia (escorbuto) es extremadamente infrecuente en este binomio."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Durante la consulta en el CESFAM, una madre refiere que para \"hacer cundir más el tarro de fórmula de inicio\" que compra de forma particular, agrega doble cantidad de agua a la misma cantidad de medidas de polvo indicadas en el envase. ¿Cuál es el riesgo metabólico e hidroelectrolítico agudo al que se expone a este lactante por esta mala técnica de preparación?",
+    "hint": "Preparar una fórmula más diluida de lo recomendado (suero hipotónico/agua libre en exceso) introduce grandes cantidades de agua con una carga de solutos y sodio sumamente baja, diluyendo los electrolitos del plasma del lactante.",
+    "options": [
+      {
+        "text": "Deshidratación hipernatrémica con riesgo de hemorragia cerebral por encogimiento celular.",
+        "isCorrect": false,
+        "explanation": "La deshidratación hipernatrémica ocurre ante el escenario opuesto: preparar la fórmula muy concentrada (poner más polvo de lo indicado o menos agua), lo cual eleva de forma peligrosa la osmolaridad plasmática del niño por exceso de solutos."
+      },
+      {
+        "text": "Intoxicación hídrica con hiponatremia dilucional grave que puede gatillar edema cerebral y convulsiones.",
+        "isCorrect": true,
+        "explanation": "Diluir excesivamente la fórmula infantil (fórmula hipotónica con exceso de agua libre) aporta un volumen hídrico desmedido con una concentración de sodio extremadamente baja. Esto supera la capacidad de dilución del riñón inmaduro del lactante, provocando una caída rápida del sodio extracelular (hiponatremia dilucional aguda), lo que introduce agua a las neuronas por gradiente osmótico, causando edema cerebral, convulsiones metabólicas y coma."
+      },
+      {
+        "text": "Hipercalcemia sintomática severa con nefrocalcinosis y litiasis renal obstructiva precoz.",
+        "isCorrect": false,
+        "explanation": "Diluir la leche disminuye de forma proporcional la concentración de calcio aportada en cada toma, descartando por completo el desarrollo de hipercalcemia o depósitos de calcio en el parénquima renal."
+      },
+      {
+        "text": "Alcalosis metabólica hipoclorémica asociada a estenosis hipertrófica del píloro iatrogénica.",
+        "isCorrect": false,
+        "explanation": "La alcalosis hipoclorémica con vómitos es el cuadro de la estenosis de píloro de causa anatómica/hipertrófica, no teniendo nexo causal con la dilución iatrogénica de la fórmula láctea de mantención en el hogar."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "¿Por qué razón fisiológica y clínica está estrictamente contraindicado ofrecer leche de vaca entera común (no modificada) a niños menores de 12 meses de edad en las guías nacionales del MINSAL?",
+    "hint": "La leche de vaca directa del supermercado está diseñada para el ternero (crecimiento rápido de masa muscular y esqueleto), conteniendo una sobrecarga de solutos renales insostenible para el riñón del lactante humano menor de un año.",
+    "options": [
+      {
+        "text": "Por su bajo contenido de proteínas que induce desnutrición calórica de forma precoz.",
+        "isCorrect": false,
+        "explanation": "La leche de vaca contiene un exceso de proteínas (no un déficit), lo cual es justamente uno de los principales problemas metabólicos y osmóticos para el lactante menor de un año."
+      },
+      {
+        "text": "Por la presencia masiva de anticuerpos IgG activos de origen bovino que bloquean el desarrollo de la inmunidad celular del lactante.",
+        "isCorrect": false,
+        "explanation": "Los anticuerpos de origen bovino se desnaturalizan y digieren de forma completa en el estómago del lactante debido al pH ácido, no absorbiéndose de forma activa ni bloqueando la respuesta inmune celular del niño."
+      },
+      {
+        "text": "Por su excesiva concentración de proteínas, sodio y fósforo que sobrecarga el riñón inmaduro del lactante, y su bajo contenido de hierro biodisponible que promueve microhemorragias intestinales y anemia.",
+        "isCorrect": true,
+        "explanation": "La leche de vaca entera no modificada contiene tres veces más proteínas y minerales (sodio, fósforo) que la leche humana, lo que somete al riñón inmaduro del menor a una carga renal de solutos peligrosa con riesgo de deshidratación. Además, tiene muy bajo contenido de hierro y de mala absorción, y sus proteínas intactas causan microirritación de la mucosa intestinal, provocando sangrado microscópico oculto en las deposiciones (anemia ferropénica inducida)."
+      },
+      {
+        "text": "Por su baja densidad calórica que obliga al lactante a ingerir volúmenes superiores a los 3 litros diarios de líquido.",
+        "isCorrect": false,
+        "explanation": "La leche entera de vaca tiene una densidad calórica normal o incluso elevada debido a sus grasas saturadas, por lo que el problema no es la baja densidad calórica sino su inadecuada composición de nutrientes para la especie humana."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Una madre consulta en el box de atención porque le preocupa que su producción de leche materna no sea suficiente para su recién nacido de 7 días de vida. Al evaluar clínicamente al binomio en el CESFAM, ¿cuál de los siguientes hallazgos es el indicador clínico más confiable de un aporte adecuado de leche humana en la primera semana de vida?",
+    "hint": "En los primeros días, el flujo de entrada (leche ingerida) se evalúa indirectamente a través del flujo de salida (diuresis y deposiciones) y el carril de peso en la balanza del control sano.",
+    "options": [
+      {
+        "text": "Que las mamas maternas permanezcan blandas y flácidas durante todo el día, sin cambios de volumen perceptibles antes y después de amamantar.",
+        "isCorrect": false,
+        "explanation": "El pecho blando y flácido continuo en la primera semana sugiere baja producción de leche; lo fisiológico es percibir congestión y llenado mamario previo a la toma, con posterior ablandamiento tras el vaciamiento del lactante."
+      },
+      {
+        "text": "Que el recién nacido no presente llanto bajo ninguna circunstancia y mantenga una coloración intensamente rosada distal constante.",
+        "isCorrect": false,
+        "explanation": "El llanto es un canal de comunicación normal del recién nacido ante frío, incomodidad o necesidad de apego; su ausencia absoluta no mide la eficacia nutricional de la lactancia materna."
+      },
+      {
+        "text": "Que el recién nacido orine de 6 a 8 veces al día (orina clara), presente deposiciones de transición amarillentas y recupere el peso de nacimiento hacia los 10 a 14 días de vida.",
+        "isCorrect": true,
+        "explanation": "Un aporte adecuado de leche materna en el recién nacido se confirma clínicamente por: diuresis frecuente (al menos 6 pañales mojados con orina clara al día a partir del quinto día), deposiciones de color amarillo-oro de transición (decomiso del meconio), saciedad tras las tomas, y una recuperación progresiva del peso (baja fisiológica de peso menor al 10% en los primeros días, recuperando el peso de nacimiento a los 10-14 días de vida)."
+      },
+      {
+        "text": "Que el recién nacido duerma de forma continua por más de seis horas seguidas entre cada mamada sin despertar espontáneamente.",
+        "isCorrect": false,
+        "explanation": "Que un recién nacido de 7 días duerma más de seis horas continuas puede ser un signo de letargia o deshidratación secundaria a hipoglicemia (\"bebé bueno\" deshidratado que no tiene energía para despertar a mamar)."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un lactante de 20 días de vida asiste a control nutricional. Presenta un estado nutricional adecuado con un incremento de peso de 30 g/día. Al examen destaca ictericia de piel y escleras hasta el ombligo. Los exámenes revelan una hiperbilirrubinemia de predominio indirecto de 12 mg/dL. El menor se alimenta con lactancia materna exclusiva con excelente técnica. ¿Cuál es el diagnóstico más probable de esta ictericia y la conducta correcta?",
+    "hint": "Analice el excelente incremento de peso (30 g/día) y la vitalidad del niño. La ictericia por leche materna (de inicio tardío en el recién nacido sano) es benigna, prolongada y no compromete el crecimiento ni requiere suspender la lactancia.",
+    "options": [
+      {
+        "text": "Ictericia por falta de aporte (hipoalimentación); se debe suspender la lactancia de inmediato e iniciar fórmula de inicio.",
+        "isCorrect": false,
+        "explanation": "La ictericia por falta de aporte (o por \"lactancia materna ineficaz\") debuta de forma precoz en la primera semana de vida, asociándose a una baja de peso patológica (>10%), deshidratación y escasa diuresis, cuadro clínico opuesto al lactante con excelente incremento ponderal del caso."
+      },
+      {
+        "text": "Ictericia por leche materna; se debe continuar con la lactancia materna exclusiva y controlar clínicamente, explicando su evolución benigna.",
+        "isCorrect": true,
+        "explanation": "La ictericia por leche materna (o síndrome de Arias) se presenta a partir de la segunda semana de vida en recién nacidos sanos, con adecuado incremento ponderal y sin hemólisis. Se debe a factores de la leche materna (como la beta-glucuronidasa) que aumentan la circulación enterohepática de bilirrubina. Es benigna, autolimitada (puede durar hasta las 12 semanas) y no requiere suspender la lactancia materna ni realizar intervenciones invasivas si los niveles de bilirrubina son seguros."
+      },
+      {
+        "text": "Atresia de vías biliares; se debe derivar de urgencia a cirugía infantil para la realización de una portoenterostomía de Kasai.",
+        "isCorrect": false,
+        "explanation": "La atresia de vías biliares cursa con ictericia de predominio directo (colestásica), deposiciones blanquecinas (acolia) y orina oscura (coluria), requiriendo resolución quirúrgica precoz antes de los 60 días."
+      },
+      {
+        "text": "Incompatibilidad clásica de grupo clásico ABO; se debe ingresar al lactante a la UCI neonatal para exanguinotransfusión de urgencia.",
+        "isCorrect": false,
+        "explanation": "La incompatibilidad de grupo ABO causa ictericia hemolítica de inicio muy precoz (primeras 24 horas de vida) con anemia aguda progresiva, no manifestándose de forma tardía aislada a los 20 días de vida en un niño sano."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "En el CESFAM, usted controla a un lactante de 18 meses de edad que asiste a su control sano correspondiente. De acuerdo con los esquemas de distribución vigentes de los programas alimentarios del MINSAL en Chile, ¿cuál es el producto del PNAC que le corresponde retirar mensualmente a partir de esta edad específica en el componente Básico?",
+    "hint": "El PNAC chileno realiza una transición de productos lácteos según la edad de desarrollo del niño. A los 18 meses, se suspende la entrega de la LPF (y la crema de legumbres) para iniciar la entrega de una leche enriquecida con cereales.",
+    "options": [
+      {
+        "text": "Mi Sopita crema de verduras (1 kg al mes).",
+        "isCorrect": false,
+        "explanation": "La crema de legumbres/verduras Mi Sopita está destinada al inicio de la alimentación complementaria del lactante menor (de 6 a 17 meses de vida) y no se distribuye a mayores de 18 meses en la red de APS."
+      },
+      {
+        "text": "Leche Purita Fortificada (2 kg al mes).",
+        "isCorrect": false,
+        "explanation": "La Leche Purita Fortificada se distribuye en el componente Básico de forma prioritaria para los lactantes desde el nacimiento hasta los 17 meses y 29 días de vida, suspendiéndose su entrega a los 18 meses."
+      },
+      {
+        "text": "Leche Purita Cereal (2 kg al mes).",
+        "isCorrect": true,
+        "explanation": "A los 18 meses de edad, el PNAC Básico realiza la transición del producto lácteo entregado. Se suspende la Leche Purita Fortificada y la crema Mi Sopita, y se inicia la entrega mensual de 2 kg de Leche Purita Cereal (leche semidescremada instantánea adicionada con harina de cereales y fortificada con vitaminas y minerales), producto formulado para cubrir los requerimientos de la etapa de preescolar menor."
+      },
+      {
+        "text": "NutriRica bebida láctea (1,5 kg al mes).",
+        "isCorrect": false,
+        "explanation": "NutriRica es una bebida láctea especial destinada a programas de alimentación escolar o preescolar específicos en Chile, no formando parte de la canasta del PNAC Básico universal del lactante mayor de 18 meses."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Lactante de 3 meses, alimentado con lactancia materna exclusiva, presenta un cuadro de deposiciones mucosas y con estrías de sangre de forma persistente durante las últimas dos semanas. El niño se observa de buen aspecto general, activo, reactivo, sin fiebre y con una curva de peso normal. Al examen abdominal no presenta masas ni signos inflamatorios. ¿Cuál es el diagnóstico clínico más probable?",
+    "hint": "En un lactante menor amamantado de forma exclusiva que se encuentra en excelente estado general y sin fiebre, la presencia de deposiciones con moco y sangre (heces con estrías de sangre) es el cuadro típico de inflamación del colon por alérgenos alimentarios ingeridos por la madre (proctocolitis alérgica).",
+    "options": [
+      {
+        "text": "Gastroenteritis bacteriana aguda por colonización de Salmonella enterica.",
+        "isCorrect": false,
+        "explanation": "La enteritis bacteriana cursa con fiebre alta, dolor abdominal importante, postración del lactante, deposiciones líquidas abundantes y deshidratación clínica secundaria, cuadro alejado del excelente estado del paciente."
+      },
+      {
+        "text": "Invaginación intestinal aguda por divertículo de Meckel silente.",
+        "isCorrect": false,
+        "explanation": "La invaginación intestinal debuta con crisis de dolor abdominal tipo cólico severo con llanto inconsolable, palidez, vómitos y deposiciones en \"jalea de grosella\" (sangre oscura con moco abundante) con compromiso severo del estado general."
+      },
+      {
+        "text": "Proctocolitis alérgica inducida por proteínas alimentarias (APLV de transmisión indirecta por la leche materna).",
+        "isCorrect": true,
+        "explanation": "La proctocolitis alérgica es la manifestación no mediada por IgE de la APLV más frecuente en el lactante amamantado de forma exclusiva. Se debe al paso de proteínas de leche de vaca consumidas por la madre a través de la leche materna. Cursa de forma clásica con moco y estrías de sangre en las heces de un lactante con excelente estado general y curva de peso normal. El manejo inicial requiere la dieta de exclusión de lácteos en la madre."
+      },
+      {
+        "text": "Enfermedad de Hirschsprung con megacolon agudo obstructivo.",
+        "isCorrect": false,
+        "explanation": "La enfermedad de Hirschsprung cursa con constipación severa refractaria desde el nacimiento (retraso en la eliminación del meconio), distensión abdominal masiva y vómitos biliosos, no con proctocolitis sanguinolenta asintomática."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Una madre de un lactante de 3 meses consulta en el CESFAM porque nota que su hijo \"pide pecho mucho más frecuente que antes\" (cada 1 hora y media de forma sostenida durante las últimas 48 horas), llora al soltar el pezón y las mamas se sienten más blandas. Ella asume que \"su leche ya no es suficiente\" y solicita relleno con fórmula láctea. ¿Cuál es la interpretación de este fenómeno clínico y la conducta correcta?",
+    "hint": "Los brotes o crisis de crecimiento son períodos predecibles en los que el lactante requiere un aumento del volumen de leche para su fase de crecimiento rápido. Al mamar más seguido, estimula la mama para elevar la producción en un plazo de 48-72 horas, normalizándose el intervalo de las tomas.",
+    "options": [
+      {
+        "text": "Corresponde a un signo precoz de intolerancia a la lactosa materna; se debe iniciar dieta de exclusión estricta de carbohidratos en la madre.",
+        "isCorrect": false,
+        "explanation": "Los brotes de crecimiento no se asocian a intolerancia a la lactosa; la lactosa es el azúcar constante de la leche humana y su exclusión de la dieta materna no altera la composición de la leche ni influye en las crisis de crecimiento."
+      },
+      {
+        "text": "Corresponde a una crisis o brote de crecimiento del lactante; se debe educar a la madre sobre este proceso transitorio y fomentar la succión frecuente para aumentar la producción de leche, evitando indicar fórmula.",
+        "isCorrect": true,
+        "explanation": "Las crisis de crecimiento ocurren a edades predecibles (3 semanas, 6 semanas, 3 meses). El lactante requiere mayor volumen y pide pecho de forma muy frecuente para estimular la glándula mamaria. En 2-3 días de succión frecuente, la producción de leche materna aumenta adaptándose a la nueva demanda, y el niño vuelve a su ritmo de tomas habitual. Educar y apoyar la lactancia en este periodo evita el destete precoz por la falsa percepción de \"leche insuficiente\"."
+      },
+      {
+        "text": "Corresponde a una hipogalactia materna verdadera irreversible; se debe suspender la lactancia e iniciar Leche Purita Fortificada al 7,5% de urgencia.",
+        "isCorrect": false,
+        "explanation": "La hipogalactia verdadera es muy infrecuente (menor al 1-5% de las madres) y no se presenta de forma brusca a los 3 meses en una madre que venía amamantando con éxito sin patologías de base."
+      },
+      {
+        "text": "Corresponde a una mastitis subclínica bilateral oculta; se debe prescribir cloxacilina endovenosa profiláctica a la madre y suspender el acople directo.",
+        "isCorrect": false,
+        "explanation": "La mastitis subclínica no cursa con un aumento aislado de la demanda del lactante sin dolor, eritema ni fiebre materna unilateral, por lo que el uso de antibióticos endovenosos es un error grave de prescripción."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Se atiende el parto de una gestante con diagnóstico de Tuberculosis (TBC) pulmonar bacilífera (baciloscopia positiva en esputo) que no ha recibido tratamiento farmacológico previo. Respecto a la indicación de la lactancia materna e inmunización con la vacuna BCG para este recién nacido en la maternidad, ¿cuál es la conducta correcta según las normas técnicas de Chile?",
+    "hint": "La TBC se transmite por vía aérea (gotitas), no por la leche materna. El contacto estrecho materno-fetal con una madre bacilífera contagiará al neonato de forma aérea. La quimioprofilaxis previene la infección neonatal, y la vacuna BCG (virus vivo) no debe aplicarse si el niño está bajo isoniacida.",
+    "options": [
+      {
+        "text": "Suspender el acople directo transitoriamente y evitar el contacto estrecho con la madre; alimentar al recién nacido con leche materna extraída de forma manual y diferir la vacuna BCG administrando quimioprofilaxis con isoniacida.",
+        "isCorrect": true,
+        "explanation": "La transmisión de la TBC es aérea. El recién nacido debe separarse físicamente de la madre bacilífera no tratada para evitar el contagio por vía respiratoria. Sin embargo, la leche materna es segura, por lo que se le debe alimentar con leche materna extraída de forma manual. Dado que recibirá quimioprofilaxis con isoniacida (para prevenir la primoinfección), la vacuna BCG debe diferirse debido a que la isoniacida inactivaría la cepa bacteriana viva atenuada de la vacuna. Una vez completada la quimioprofilaxis y confirmada la no infección, se administra la BCG."
+      },
+      {
+        "text": "Iniciar lactancia cruzada (nodriza sustituta) de forma inmediata y mantener al recién nacido en aislamiento respiratorio estricto por 6 meses.",
+        "isCorrect": false,
+        "explanation": "La lactancia cruzada (usar otra nodriza de forma directa) está proscrita en Chile y a nivel internacional por el riesgo de transmisión vertical cruzada de otros virus como el VIH o HTLV-1 en la red de salud."
+      },
+      {
+        "text": "Permitir el acople directo de forma inmediata con mascarilla quirúrgica, administrar de urgencia la vacuna BCG y suspender la quimioprofilaxis.",
+        "isCorrect": false,
+        "explanation": "Permitir el acople directo con una madre bacilífera sin tratamiento expone al recién nacido a un riesgo crítico de contraer tuberculosis sistémica o meníngea (formas invasoras de alta mortalidad neonatal) a pesar del uso de mascarilla."
+      },
+      {
+        "text": "Contraindicar de forma definitiva la lactancia materna y la extracción manual; alimentar con fórmula de prematuros y administrar una dosis doble de BCG.",
+        "isCorrect": false,
+        "explanation": "La contraindicación definitiva es errónea ya que priva al lactante de los beneficios de la lactancia de forma permanente, cuando el problema es el contacto aéreo transitorio que se resuelve en 2 semanas de tratamiento materno eficaz."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Durante el taller de lactancia en el CESFAM de la comuna de La Serena, la matrona y el interno de medicina entregan pautas sobre la conservación segura de la leche humana extraída en el hogar. De acuerdo con las directrices operacionales del MINSAL, ¿cuál es el tiempo máximo recomendado de almacenamiento seguro para la leche materna fresca en el refrigerador doméstico de dos puertas (temperatura de 4°C)?",
+    "hint": "Recuerde las pautas de almacenamiento térmico de la leche humana: a temperatura ambiente fresca dura unas pocas horas; refrigerada a 4°C dura unos pocos días; congelada a -18°C dura meses.",
+    "options": [
+      {
+        "text": "Almacenamiento seguro por un tiempo máximo de 12 horas continuas.",
+        "isCorrect": false,
+        "explanation": "12 horas es el límite de tiempo recomendado para la conservación a temperatura ambiente fresca (19-22°C), pero en el refrigerador a 4°C las propiedades antibacterianas e inmunológicas de la leche humana permiten extender el almacenamiento de forma segura."
+      },
+      {
+        "text": "Almacenamiento seguro por un tiempo máximo de 10 días continuos.",
+        "isCorrect": false,
+        "explanation": "Almacenar la leche por 10 días en un refrigerador doméstico común favorece el sobrecrecimiento bacteriano de la flora saprófita de la piel y la lipólisis excesiva de ácidos grasos, alterando el sabor y la seguridad digestiva del menor."
+      },
+      {
+        "text": "Almacenamiento seguro por un tiempo máximo de 72 horas (3 días) continuas.",
+        "isCorrect": true,
+        "explanation": "Según el Manual Operativo de Lactancia Materna del MINSAL, la leche humana fresca extraída de forma limpia y almacenada en contenedores estériles de vidrio o plástico duro puede conservarse de forma segura en el refrigerador (no en la puerta, sino en el fondo de las bandejas a temperatura ≤ 4°C) por un tiempo máximo de 72 horas (3 días)."
+      },
+      {
+        "text": "Almacenamiento seguro por un tiempo máximo de 24 horas continuas.",
+        "isCorrect": false,
+        "explanation": "24 horas es un tiempo seguro pero innecesariamente acotado que limita de forma excesiva la logística del banco de leche casero para las madres que retornan al trabajo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un lactante de 6 meses de edad asiste a control sano. La madre refiere que ha iniciado la alimentación complementaria con papilla de verduras y carne de vacuno de forma exitosa. Ella consulta sobre el momento adecuado para la incorporación de alimentos que contienen gluten (como sémola, fideos o pan) en la dieta. De acuerdo con las Guías Alimentarias del MINSAL de Chile, ¿cuál es la recomendación vigente?",
+    "hint": "La evidencia actual desaconseja retrasar la introducción de alimentos alergénicos o con gluten, indicándose su incorporación progresiva a partir de los 6 meses junto con los primeros alimentos de la alimentación complementaria.",
+    "options": [
+      {
+        "text": "Introducir el gluten a los 6 meses de edad de forma paulatina, preferentemente mientras se mantiene la lactancia materna para reducir el riesgo de enfermedad celíaca.",
+        "isCorrect": true,
+        "explanation": "Las guías alimentarias chilenas recomiendan introducir el gluten a los 6 meses, de forma paulatina y en pequeñas cantidades (ej: fideos soperos o sémola en la papilla), idealmente mientras el lactante continúa recibiendo leche materna. Se ha demostrado que mantener la lactancia materna durante la introducción del gluten ejerce un rol protector que disminuye el riesgo de desarrollar enfermedad celíaca y alergia al trigo."
+      },
+      {
+        "text": "Retrasar la introducción del gluten de forma absoluta hasta que el niño cumpla 3 años de edad por riesgo de inducir enteropatía de origen genético.",
+        "isCorrect": false,
+        "explanation": "Retrasar la introducción del gluten hasta los 3 años no previene la aparición de la enfermedad celíaca en individuos genéticamente susceptibles y puede asociarse a formas de presentación clínica más severas."
+      },
+      {
+        "text": "Introducir el gluten precozmente a los 3 meses de vida mediante la adición de harinas tostadas en las mamaderas de fórmula de inicio.",
+        "isCorrect": false,
+        "explanation": "Introducir gluten a los 3 meses mediante harinas en la mamadera está contraindicado por la inmadurez de la mucosa intestinal y el riñón del lactante menor, promoviendo de hecho la sensibilización alérgica patológica y la sobrecarga calórica precoz."
+      },
+      {
+        "text": "Evitar el gluten únicamente si el lactante presenta antecedentes directos de dermatitis atópica moderada a severa al nacer.",
+        "isCorrect": false,
+        "explanation": "La dermatitis atópica no es una contraindicación para la introducción del gluten; los lactantes atópicos se benefician de la introducción regular de alimentos de la alimentación complementaria a partir de los 6 meses para favorecer la tolerancia inmunológica."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Usted realiza la consejería sobre alimentación complementaria a una madre de un lactante de 6 meses que inicia papillas. Al abordar el tema de la ingesta de agua libre, ¿cuál es la recomendación correcta según las Guías Alimentarias vigentes en Chile?",
+    "hint": "El lactante que inicia papillas requiere agua para manejar la mayor carga de solutos renales de los alimentos sólidos. El agua debe ofrecerse de forma pura, sin endulzar, y utilizando un vaso o taza para promover el desarrollo sensorio-motor oral.",
+    "options": [
+      {
+        "text": "Ofrecer agua potable purificada o hervida fría en vaso o taza de entrenamiento, de forma fraccionada y sin adición de azúcar ni saborizantes, posterior a la toma de papillas.",
+        "isCorrect": true,
+        "explanation": "Al iniciar la alimentación complementaria (6 meses), el lactante debe comenzar a recibir agua de forma adicional (unos 20-50 mL al día ofrecidos fraccionadamente). Se debe entregar agua potable hervida fría u embotellada purificada sin gas, pura (sin azúcar, miel, saborizantes ni endulzantes), ofrecida idealmente en vaso de entrenamiento o taza para evitar la succión prolongada de mamaderas y favorecer el desarrollo motor oral."
+      },
+      {
+        "text": "Contraindicar el agua libre de forma absoluta hasta el año de vida, aportando exclusivamente jugos de frutas naturales cítricos exprimidos.",
+        "isCorrect": false,
+        "explanation": "Los jugos de fruta (incluso los naturales sin azúcar añadida) están desaconsejados antes del año de vida debido a su alta concentración de carbohidratos simples y baja fibra en comparación con la fruta entera triturada, aumentando el riesgo de obesidad y caries."
+      },
+      {
+        "text": "Ofrecer agua mineral carbonatada de alta mineralización de forma libre para asegurar el aporte de solutos de sodio perdidos por la sudoración.",
+        "isCorrect": false,
+        "explanation": "El agua mineral gasificada o con alta mineralización de sodio somete al riñón inmaduro del lactante a una sobrecarga de solutos peligrosa, estando estrictamente desaconsejada en pediatría ambulatoria."
+      },
+      {
+        "text": "Incorporar agua libre endulzada con fructosa en mamadera de forma obligatoria antes de cada toma de leche materna para favorecer la saciedad.",
+        "isCorrect": false,
+        "explanation": "Incorporar azúcar o fructosa al agua promueve hábitos alimenticios cariogénicos, sobrepeso y altera el umbral de preferencia por los sabores dulces naturales, interfiriendo con la aceptación de las verduras de la papilla."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un recién nacido pretérmino de 30 semanas de gestación y con bajo peso de nacimiento asiste a control nutricional a los 3 meses de edad corregida. El menor se alimenta con lactancia materna y una fórmula de post-alta de forma mixta. Respecto a la suplementación de Zinc en el prematuro, ¿cuál es la recomendación chilena vigente según el programa de seguimiento de prematuros de APS?",
+    "hint": "Los prematuros extremos carecen de depósitos corporales suficientes de zinc (los cuales se acumulan en el último trimestre de gestación), requiriendo un aporte preventivo para asegurar el crecimiento lineal y el desarrollo de la función inmune celular.",
+    "options": [
+      {
+        "text": "Suspender la suplementación de zinc de forma inmediata por riesgo de inducir pancreatitis aguda hemorrágica nosocomial.",
+        "isCorrect": false,
+        "explanation": "El zinc a dosis profilácticas es seguro y no asocia riesgo de pancreatitis; suspender su aporte de forma injustificada expone al prematuro a retraso estaturo-ponderal severo y dermatitis enteropática."
+      },
+      {
+        "text": "No suplementar con Zinc si el prematuro recibe fórmulas infantiles comerciales, ya que estas bloquean la absorción de oligoelementos.",
+        "isCorrect": false,
+        "explanation": "Aunque las fórmulas de post-alta contienen zinc, la alta tasa de crecimiento compensatorio (catch-up) del prematuro extremo hace que los requerimientos totales de este mineral superen el aporte de la dieta, requiriéndose la suplementación profiláctica dirigida."
+      },
+      {
+        "text": "Suplementar con Zinc a dosis de 1 a 2 mg/kg/día por vía oral desde el primer mes de vida y mantenerla hasta que el menor cumpla los 6 meses de edad corregida.",
+        "isCorrect": true,
+        "explanation": "Según el programa nacional de seguimiento de recién nacidos de alto riesgo y de prematuros del MINSAL, los prematuros menores de 32 semanas o de <1.500 g de peso al nacer deben recibir suplementación profiláctica con Zinc a razón de 1 a 2 mg/kg/día de zinc elemental por vía oral (iniciada generalmente en el primer mes de vida o al alta) manteniéndose de forma sistemática hasta los 6 meses de edad corregida para apoyar el crecimiento lineal y la maduración celular inmune."
+      },
+      {
+        "text": "Administrar una megadosis anual de sulfato de zinc vía intramuscular de forma prioritaria en la sala de vacunas al alta.",
+        "isCorrect": false,
+        "explanation": "Las megadosis de zinc vía intramuscular no existen ni están formuladas ni indicadas en la prevención de deficiencias nutricionales del prematuro en APS."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "¿Cuál de las siguientes afirmaciones describe de forma precisa la composición, el objetivo nutricional y la edad recomendada de introducción de la crema de legumbres o verduras \"Mi Sopita\" distribuida de forma universal por el PNAC Básico en la red de APS chilena?",
+    "hint": "Identifique el producto del PNAC que sirve como alternativa o complemento a la papilla casera, diseñado para facilitar el acceso a la alimentación complementaria saludable en las familias de la red de salud pública de Chile a partir del sexto mes de vida.",
+    "options": [
+      {
+        "text": "Es una leche descremada líquida adicionada con miel de abejas y saborizada con chocolate, diseñada para escolares mayores de 6 años de edad.",
+        "isCorrect": false,
+        "explanation": "No es una bebida láctea descremada dulce para escolares, ni contiene miel ni saborizantes de cacao, ya que esto contraviene las normas de alimentación saludable del programa infantil."
+      },
+      {
+        "text": "Es un alimento instantáneo en polvo a base de harina de legumbres y cereales, enriquecido con vitaminas y minerales, diseñado para iniciar la alimentación complementaria a partir de los 6 meses de edad.",
+        "isCorrect": true,
+        "explanation": "\"Mi Sopita\" es un alimento instantáneo en polvo elaborado a base de una mezcla de legumbres y cereales, fortificado con micro-nutrientes críticos (hierro, zinc, cobre, calcio, vitamina C y grupo B). Está diseñado específicamente para la preparación de papillas saladas o sopas cremosas de fácil digestión, indicándose su uso y entrega a través del PNAC para lactantes a partir de los 6 meses de edad."
+      },
+      {
+        "text": "Es un suplemento proteico hipercalórico a base de caseinato de calcio puro, diseñado exclusivamente para lactantes con alergia alimentaria refractaria.",
+        "isCorrect": false,
+        "explanation": "No corresponde a un módulo proteico puro de caseinato para APLV, sino a un alimento complementario polimérico de legumbres y verduras de distribución universal para lactantes normopeso."
+      },
+      {
+        "text": "Es una papilla dulce de frutas deshidratadas adicionada con lactobacilos vivos, diseñada para lactantes menores de 3 meses de vida en APS.",
+        "isCorrect": false,
+        "explanation": "\"Mi Sopita\" es un alimento salado (sin sal añadida) y no dulce de frutas, y su introducción antes de los 6 meses (como a los 3 meses de vida) está contraindicada por la inmadurez biológica general del lactante menor."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Durante la consejería de lactancia en el control de díada, la madre consulta sobre el uso del chupete de entretención en el recién nacido durante las primeras semanas de vida. De acuerdo con las guías de fomento de la lactancia materna del MINSAL y la Sociedad Chilena de Pediatría (SOCHIPE), ¿cuál es la recomendación correcta y su justificación clínica?",
+    "hint": "La técnica de succión del pecho materno (boca muy abierta, lengua acanalada bajo el pezón, succión por presión negativa) es mecánicamente muy diferente a la succión de un chupete o tetina rígida. El uso precoz altera el patrón motor oral del lactante.",
+    "options": [
+      {
+        "text": "Indicar el uso del chupete de entretención de forma precoz desde el primer día de vida para evitar la succión no nutritiva excesiva en el pecho materno.",
+        "isCorrect": false,
+        "explanation": "Indicar chupete desde el primer día promueve la confusión de pezón y disminuye de forma artificial la frecuencia de las tomas al pecho, impidiendo la correcta estimulación hormonal de la lactogénesis en el puerperio inmediato."
+      },
+      {
+        "text": "Indicar de forma obligatoria el uso de mamaderas con tetinas de látex de flujo rápido para ejercitar la musculatura mandibular del recién nacido.",
+        "isCorrect": false,
+        "explanation": "Las mamaderas de flujo rápido no ejercitan la musculatura de forma fisiológica y promueven la deglución pasiva de aire, aumentando el meteorismo y el riesgo de que el lactante rechace el esfuerzo activo de succionar el pecho materno."
+      },
+      {
+        "text": "Evitar el uso de chupetes de entretención y mamaderas durante las primeras 3 a 4 semanas de vida (hasta que la lactancia materna esté bien establecida) para prevenir la confusión de pezón-chupete y el destete precoz.",
+        "isCorrect": true,
+        "explanation": "El uso del chupete de entretención o mamaderas en las primeras semanas de vida interfiere con el establecimiento de la lactancia materna. La técnica de acople y succión necesaria para extraer leche del pecho difiere de la succión pasiva del chupete (confusión de pezón). Esto puede provocar un agarre ineficaz de la mama, grietas dolorosas en el pezón materno y una caída secundaria en la producción de leche por falta de estímulo adecuado (destete precoz). Se recomienda diferir su uso hasta después del primer mes de vida, cuando la lactancia esté completamente consolidada."
+      },
+      {
+        "text": "Permitir el uso del chupete únicamente si se impregna con una solución de miel de abejas para calmar los cólicos del lactante menor de forma natural.",
+        "isCorrect": false,
+        "explanation": "Ofrecer miel al lactante menor está estrictamente prohibido por el riesgo de botulismo infantil debido a las esporas de Clostridium botulinum presentes en la miel, además de generar hábitos cariogénicos precoces."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Control Sano",
+    "topic": "Alimentación y PNAC",
+    "text": "Un preescolar de 3 años de edad con sobrepeso asiste a su control de niño sano. Al evaluar la conducta alimentaria con la madre, ella refiere que para asegurar que el niño \"coma todo el plato\" de papilla o comida, le permite ver videos en el teléfono celular durante el almuerzo. De acuerdo con las Guías Alimentarias para Chile (2023), ¿cuál es la recomendación respecto al uso de pantallas durante la alimentación y cuál es su impacto metabólico?",
+    "hint": "La distracción visual con dispositivos electrónicos altera el proceso consciente de alimentación activa y la interacción con los cuidadores, impidiendo que el niño registre las señales biológicas internas de llenado gástrico.",
+    "options": [
+      {
+        "text": "Permitir el uso de pantallas únicamente si los videos son de contenido educativo, ya que esto estimula la secreción de jugos gástricos de forma refleja.",
+        "isCorrect": false,
+        "explanation": "El carácter educativo del contenido de los videos no mitiga el efecto perjudicial de la distracción visual sobre el centro de la saciedad hipotalámico durante la alimentación activa del preescolar."
+      },
+      {
+        "text": "Indicar el uso de pantallas de forma exclusiva durante la cena para forzar el estado de somnolencia fisiológica postprandial en el preescolar.",
+        "isCorrect": false,
+        "explanation": "Utilizar las pantallas para inducir somnolencia asocia trastornos del sueño por inhibición de la melatonina debido a la luz azul, y promueve el reflujo gastroesofágico al acostar al preescolar inmediatamente después de una ingesta pasiva de alimentos."
+      },
+      {
+        "text": "Desaconsejar enérgicamente el uso de pantallas (celulares, televisión, tablets) durante las comidas; comer frente a pantallas interfiere con la percepción de las señales de saciedad y asocia un mayor riesgo de sobrepeso y obesidad infantil.",
+        "isCorrect": true,
+        "explanation": "Las Guías Alimentarias para Chile desaconsejan de forma categórica el uso de pantallas (televisión, celulares, tablets) durante los momentos de comida. Comer distraído con pantallas interfiere con la autorregulación de la ingesta, impidiendo que el preescolar reconozca las señales de saciedad de su propio cuerpo, lo que promueve una sobrealimentación pasiva y asocia un incremento significativo de sobrepeso, obesidad y sedentarismo en la infancia."
+      },
+      {
+        "text": "Fomentar el uso de pantallas de forma rutinaria para prolongar el tiempo de la comida a un mínimo de dos horas continuas por toma.",
+        "isCorrect": false,
+        "explanation": "Prolongar la comida por dos horas es disfuncional y fomenta un ambiente de alimentación estresante y medicalizado que altera el desarrollo de hábitos saludables en la mesa familiar."
+      }
+    ]
+  }
+]
