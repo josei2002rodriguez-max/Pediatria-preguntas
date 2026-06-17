@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Recién nacido de 18 días de vida, de término, nacido por parto vaginal sin incidentes, es traído al Servicio de Urgencia Infantil por sus padres porque lo notan irritable y caliente al tacto. En el control de triaje se constata una temperatura rectal de 38,4°C. Al examen físico destaca activo, reactivo al manejo, con un llanto enérgico que consuela en brazos de su madre, fontanela normotensa, llene capilar de 2 segundos, piel sin lesiones y examen pulmonar normal. De acuerdo con el flujograma chileno de manejo de fiebre sin foco y las guías de la AAP, ¿cuál es la conducta inicial prioritaria para este paciente?",
+    "hint": "En el período neonatal (menores de 28 días de vida), la inmadurez inmunológica y la dificultad para descartar clínicamente una infección bacteriana invasiva (IBI) dictan una conducta sistemática y agresiva, independiente del buen aspecto general del paciente.",
+    "options": [
+      {
+        "text": "Hospitalizar de inmediato para realizar un estudio séptico completo (Hemogramas, Hemocultivos, Orina completa, Urocultivo, Punción Lumbar para LCR) e iniciar antibióticos endovenosos empíricos (Ampicilina + Cefotaxime).",
+        "isCorrect": true,
+        "explanation": "Todo recién nacido menor de 28 días con fiebre sin foco (definida como temperatura rectal ≥ 38°C) se considera de alto riesgo de infección bacteriana invasiva (como sepsis, meningitis o infección del tracto urinario por E. coli, Streptococcus agalactiae o Listeria monocytogenes). La norma técnica exige su hospitalización obligatoria, la toma de un estudio séptico completo que incluye hemocultivos, orina por cateterismo (para cultivo) y punción lumbar para citoquímico y cultivo de LCR, seguido del inicio inmediato de antibióticos endovenosos de amplio espectro (Ampicilina + Cefotaxime o Ampicilina + Amikacina). El buen aspecto clínico del neonato no es un factor que permita omitir el estudio ni el tratamiento en este grupo etario."
+      },
+      {
+        "text": "Tomar exámenes de laboratorio general (Hemograma, PCR y Orina completa) en el Servicio de Urgencia; si estos resultan normales, dar de alta con control ambulatorio en 24 horas en su CESFAM.",
+        "isCorrect": false,
+        "explanation": "No se puede realizar un manejo ambulatorio ni diferir el estudio de LCR en un menor de 28 días basándose en la normalidad de exámenes generales iniciales, dado el alto riesgo de bacteriemia o meningitis oculta."
+      },
+      {
+        "text": "Indicar una dosis de Paracetamol (15 mg/kg vía oral) y observar en el box de urgencias por 4 horas para evaluar si la fiebre cede y el paciente se mantiene de buen aspecto general.",
+        "isCorrect": false,
+        "explanation": "El uso de antipiréticos es adecuado para el confort térmico, pero jamás debe retrasar ni sustituir el estudio séptico ni la indicación de hospitalización inmediata del recién nacido febril."
+      },
+      {
+        "text": "Solicitar PCR viral múltiple nasofaríngea y orina completa; si la PCR es positiva para un virus respiratorio, omitir el estudio de LCR y hospitalizar solo para observación clínica.",
+        "isCorrect": false,
+        "explanation": "La presencia de una coinfección viral confirmada no disminuye el riesgo latente de una infección bacteriana grave concurrente en menores de 28 días de vida, por lo que el flujograma diagnóstico se mantiene inalterado."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 45 días de vida es llevado a la urgencia infantil por presentar fiebre de 38,6°C rectal medida en su hogar hace 2 horas. Al examen físico destaca reactivo, hidratado, de buen aspecto general, sin focos clínicos de infección evidente. Se solicitan exámenes de laboratorio de primera línea que informan: Leucocitos 12.500/μL con RAN de 4.200/μL, Proteína C Reactiva (PCR) de 8 mg/L, Procalcitonina (PCT) de 0,12 ng/mL, orina completa normal (sin leucocituria ni nitritos). De acuerdo con los criterios clásicos de Rochester para bajo riesgo de Infección Bacteriana Grave (IBG), ¿cuál de los siguientes parámetros clínicos o de laboratorio es un criterio mandatorio para definir a este lactante como de \"bajo riesgo\"?",
+    "hint": "Los criterios de Rochester se enfocan en variables de bajo riesgo biológico y anamnesis perinatal para seleccionar de forma segura a lactantes menores de 90 días febriles que podrían ser manejados sin antibióticos o de manera ambulatoria.",
+    "options": [
+      {
+        "text": "Recuento de plaquetas superior a 450.000/μL.",
+        "isCorrect": false,
+        "explanation": "El recuento plaquetario no forma parte de los criterios diagnósticos clásicos de Rochester para la estratificación de bajo riesgo de IBG."
+      },
+      {
+        "text": "Nacimiento de término (≥ 37 semanas de gestación) y ausencia de antecedentes de hospitalizaciones previas o antibioterapia.",
+        "isCorrect": true,
+        "explanation": "Los criterios clásicos de Rochester para definir bajo riesgo de infección bacteriana grave en lactantes febriles de 29 a 90 días de vida incluyen variables clínicas de la historia remota: lactante previamente sano, de término (≥ 37 semanas), sin antecedentes de hiperbilirrubinemia inexplicada, sin hospitalizaciones previas, sin enfermedades crónicas, sin terapia antimicrobiana previa, y examen físico sin evidencia de focos cutáneos, óticos o de partes blandas. Si cumple con esto más los criterios de laboratorio (leucocitos 5.000-15.000/μL, RAN < 1.500/μL, sedimento de orina < 10 Leucocitos/campo y leucocitos fecales < 5/campo si hay diarrea), el paciente tiene una probabilidad muy baja de IBG y puede plantearse un manejo ambulatorio estrecho."
+      },
+      {
+        "text": "Descenso espontáneo de la temperatura rectal por debajo de 37,5°C en el box de observación.",
+        "isCorrect": false,
+        "explanation": "La termorregulación o la respuesta al paracetamol no modifican la estratificación de riesgo biológico de infección bacteriana grave en este grupo etario."
+      },
+      {
+        "text": "Procalcitonina sérica menor a 0,5 ng/mL asociada a un hemocultivo negativo preliminar a las 12 horas.",
+        "isCorrect": false,
+        "explanation": "La procalcitonina no existía cuando se diseñaron y validaron originalmente los criterios de Rochester (década de 1980-1990). Aunque la PCT se incluye en los algoritmos modernos de la AAP (2021), no es parte de la definición clásica de Rochester."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un lactante de 2 meses y 10 días (70 días de vida) ingresa al Servicio de Urgencia de un hospital de Santiago por fiebre de 38,9°C rectal sin foco evidente tras examen físico detallado. Se encuentra muy reactivo, sonríe al examinador, tiene excelente perfusión periférica y llanto fuerte que calma fácilmente. Se solicitan exámenes que reportan: leucocitos 16.800/μL con RAN de 6.500/μL, Proteína C Reactiva (PCR) de 42 mg/L y Procalcitonina de 0,85 ng/mL. Sedimento de orina es normal. ¿Cuál es la conducta más adecuada según las guías actualizadas de la AAP y de la SOCHIPE para este paciente?",
+    "hint": "En lactantes de 29 a 60 días con buen aspecto general, el riesgo se estratifica mediante biomarcadores inflamatorios. La elevación de la PCR o de la Procalcitonina aumenta el riesgo de bacteriemia o infección invasiva, requiriendo un estudio completo que no se puede ignorar por la clínica favorable.",
+    "options": [
+      {
+        "text": "Clasificarlo como bajo riesgo por su excelente aspecto general y enviarlo a su domicilio sin exámenes invasivos adicionales.",
+        "isCorrect": false,
+        "explanation": "La presencia de biomarcadores inflamatorios alterados (PCR 42 mg/L, PCT 0,85 ng/mL) descarta por completo la posibilidad de catalogar al lactante como de \"bajo riesgo\", por lo que el alta domiciliaria directa representa una conducta de alto riesgo y error clínico."
+      },
+      {
+        "text": "Hospitalizar, realizar punción lumbar para descartar meningitis bacteriana oculta e iniciar tratamiento antibiótico empírico con Cefotaxime endovenoso.",
+        "isCorrect": false,
+        "explanation": "Aunque la hospitalización y el estudio del LCR son correctos, el esquema antibiótico preferido para el lactante fuera del período neonatal (mayor de 28 días) en Chile es típicamente Ceftriaxona (50-100 mg/kg/día) o Cefotaxime, pero la decisión de hacer PL es prioritaria para caracterizar el foco neurológico y modular la terapia de forma selectiva."
+      },
+      {
+        "text": "Realizar una punción lumbar para evaluar citoquímico y cultivo de LCR antes de definir el alta o la hospitalización, debido a la presencia de marcadores inflamatorios elevados.",
+        "isCorrect": true,
+        "explanation": "En un lactante de 29 a 60 días bien aspectado con marcadores inflamatorios elevados (definidos clásicamente como Procalcitonina > 0,5 ng/mL, PCR > 20 mg/L o RAN > 4.000-5.000/μL según guías AAP 2021), el riesgo de Infección Bacteriana Invasiva (IBI) o Meningitis aumenta significativamente. En este escenario, la punción lumbar (PL) se vuelve obligatoria antes del inicio de cualquier antibioterapia, para analizar LCR por citoquímico, Gram y cultivo. Si el LCR es normal y el paciente se mantiene clínicamente muy estable, se puede optar por hospitalización en sala general con Ceftriaxona endovenosa a la espera de cultivos."
+      },
+      {
+        "text": "Indicar una dosis de Ceftriaxona endovenosa en la urgencia y dar de alta inmediata para control ambulatorio con su pediatra en 48 horas.",
+        "isCorrect": false,
+        "explanation": "Dar de alta con marcadores alterados e indicación de ceftriaxona sin haber realizado previamente la punción lumbar para descartar meningitis es un error grave, ya que una dosis de ceftriaxona esterilizaría el LCR en horas, dificultando el diagnóstico posterior si el paciente se deteriora."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 5 meses de vida, previamente sano, con vacunas al día según el PNI chileno 2026, consulta en el Servicio de Urgencia por un cuadro de 24 horas de evolución de fiebre hasta 39,2°C rectal sin foco aparente tras una prolija anamnesis y examen físico. Al examen destaca reactivo, normoperfundido, hidratado, de excelente aspecto general (Yale Observation Scale: 6 puntos, bajo riesgo). ¿Cuál es el examen de primera línea prioritario y de mayor rendimiento que debe solicitar en este grupo de edad y presentación clínica?",
+    "hint": "En lactantes mayores de 3 meses de buen aspecto general con fiebre sin foco, la prevalencia de bacteriemia oculta es muy baja gracias a las vacunas, mientras que otra infección bacteriana focalizada es por lejos la causa bacteriana más prevalente.",
+    "options": [
+      {
+        "text": "Hemograma completo y Hemocultivos por duplicado.",
+        "isCorrect": false,
+        "explanation": "El hemograma y los hemocultivos sistemáticos han caído en desuso en lactantes de buen aspecto con vacunas completas contra neumococo y Hib, debido a que el riesgo de bacteriemia oculta es menor al 0,5%."
+      },
+      {
+        "text": "Radiografía de tórax anteroposterior y lateral.",
+        "isCorrect": false,
+        "explanation": "La radiografía de tórax en un lactante con fiebre sin foco sin ningún síntoma respiratorio (taquipnea, tiraje, tos, sibilancias o crepitaciones) tiene un rendimiento clínico extremadamente bajo (< 1%) y no se indica de rutina."
+      },
+      {
+        "text": "Proteína C Reactiva sérica cuantitativa de alta sensibilidad.",
+        "isCorrect": false,
+        "explanation": "La PCR aislada sin examen de orina no permite localizar el foco infeioso principal que justifica la fiebre y su valor no modifica la conducta inicial de descartar de forma dirigida una ITU."
+      },
+      {
+        "text": "Sedimento de orina completa y Urocultivo tomado mediante cateterismo vesical.",
+        "isCorrect": true,
+        "explanation": "En lactantes de 3 a 36 meses con fiebre sin foco y buen aspecto general (puntuación de Yale baja), la Infección del Tracto Urinario (ITU) representa por amplio margen la causa bacteriana grave más común (5-7% en niñas y niños no circuncidados). Por lo tanto, el consenso nacional y de la AAP establece que el examen prioritario a solicitar es un análisis de orina (orina completa o tira reactiva) y un urocultivo, obtenidos mediante cateterismo vesical (sonda) o punción suprapúbica (nunca por bolsa recolectora para el urocultivo debido a la altísima tasa de contaminación)."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Usted evalúa en la urgencia a un lactante de 25 días de vida con fiebre de 38,2°C de 4 horas de evolución. Al realizar la punción lumbar diagnóstica obligatoria, el informe del citoquímico de LCR reporta: aspecto claro, 2 leucocitos por mm³, glucosa en LCR de 55 mg/dL (glicemia sérica simultánea de 85 mg/dL) y proteínas en LCR de 65 mg/dL. El sedimento de orina y el hemograma son completamente normales. ¿Cuál es el diagnóstico sindrómico del LCR y qué conducta antibiótica empírica debe indicar mientras se esperan los cultivos microbiológicos definitivos?",
+    "hint": "Es crucial conocer los valores de referencia del LCR en neonatos, los cuales toleran recuentos de células y proteínas sustancialmente más elevados que los adultos. Sin embargo, la normalidad del estudio del LCR no exime de la necesidad de antibioterapia empírica en menores de 28 días febriles.",
+    "options": [
+      {
+        "text": "LCR normal para la edad; se debe hospitalizar e iniciar Ampicilina 200 mg/kg/día asociada a Cefotaxime 200 mg/kg/día endovenoso.",
+        "isCorrect": true,
+        "explanation": "El examen de LCR descrito es completamente normal para un neonato (se aceptan de forma normal hasta 15-20 leucocitos/mm³ en menores de 28 días, con proteínas de hasta 100-150 mg/dL debido a la inmadurez de la barrera hematoencefálica). Sin embargo, a pesar de tener un LCR, orina y hemograma normales, un recién nacido menor de 28 días con fiebre sin foco tiene indicación absoluta de hospitalización y antibioterapia endovenosa empírica con Ampicilina (cobertura para Listeria monocytogenes y Streptococcus agalactiae) más Cefotaxime o un aminoglicósido como Amikacina o Gentamicina."
+      },
+      {
+        "text": "Meningitis bacteriana aguda de inicio precoz; se debe hospitalizar e iniciar Ceftriaxona 100 mg/kg/día asociada a Vancomicina.",
+        "isCorrect": false,
+        "explanation": "Los parámetros del LCR no sugieren meningitis bacteriana aguda (la cual cursaría con pleocitosis neutrofílica severa, hipoglicorraquia marcada y proteínas muy elevadas). Además, las cefalosporinas de tercera generación como la Ceftriaxona clásica están contraindicadas en neonatos debido a su competencia por la unión a albúmina (riesgo de kernicterus) y riesgo de precipitación con calcio endovenoso."
+      },
+      {
+        "text": "Meningitis aséptica viral de curso benigno; se debe hospitalizar para observación clínica estrecha sin indicación de antibióticos empíricos.",
+        "isCorrect": false,
+        "explanation": "No se puede catalogar como meningitis viral ni suspender antibióticos en un neonato febril por el alto riesgo de bacteriemia y sepsis de rápida progresión."
+      },
+      {
+        "text": "LCR normal; se puede decidir el alta del paciente para control ambulatorio estricto con hemocultivos negativos a las 24 horas.",
+        "isCorrect": false,
+        "explanation": "Ningún recién nacido menor de 28 días febril puede ser manejado de forma ambulatoria, independientemente de que todos sus exámenes generales y LCR preliminar sean totalmente normales."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un lactante de 2 meses y 20 días de vida es evaluado en el Servicio de Urgencia por un cuadro de fiebre de 38,5°C sin foco. Tras una evaluación inicial, el médico de turno decide aplicar los criterios de Philadelphia para determinar el riesgo de Infección Bacteriana Grave. ¿Cuál de las siguientes combinaciones de hallazgos del examen físico y exámenes de laboratorio permite clasificar al paciente como \"Bajo Riesgo\" según los criterios de Philadelphia?",
+    "hint": "Los criterios de Philadelphia, a diferencia de Rochester, incluyen la realización del estudio de líquido cefalorraquídeo (punción lumbar) dentro de sus variables mandatorias de laboratorio para certificar el bajo riesgo.",
+    "options": [
+      {
+        "text": "Yale Score < 10, leucocitos < 10.000/μL, orina completa normal y radiografía de tórax normal.",
+        "isCorrect": false,
+        "explanation": "Los criterios de Philadelphia requieren obligatoriamente la evaluación del LCR (pleocitosis < 8/mm³) para catalogar al paciente de bajo riesgo, por lo que una propuesta sin punción lumbar es incompleta según este algoritmo original."
+      },
+      {
+        "text": "Buen aspecto general (Yale Score < 10), leucocitos < 15.000/μL, PCR < 20 mg/L, LCR con < 8 leucocitos/mm³ y sedimento de orina normal sin nitritos.",
+        "isCorrect": true,
+        "explanation": "Los criterios de Philadelphia (diseñados para lactantes febriles de 29 a 60 días) definen bajo riesgo de IBG mediante: buen aspecto general, leucocitos < 15.000/μL, RAN < 10.000/μL (o PCR < 20 mg/L según adaptaciones), sedimento de orina normal (sin leucocituria ni bacterias/nitritos) y citoquímico de LCR normal (definido por < 8 leucocitos/mm³ y Gram negativo). Si se cumplen todos estos criterios, Filadelfia propone que el paciente puede ser manejado en forma ambulatoria sin antibióticos, con control estricto a las 24 horas."
+      },
+      {
+        "text": "Ausencia de fiebre persistente, hemoglobina > 11 g/dL, plaquetas normales y PCR normal.",
+        "isCorrect": false,
+        "explanation": "La hemoglobina y las plaquetas no son parámetros de corte definitorios para los criterios de Philadelphia."
+      },
+      {
+        "text": "Lactante reactivo, hemograma con leucopenia leve, orina con menos de 20 leucocitos por campo y LCR con glucosa normal.",
+        "isCorrect": false,
+        "explanation": "Una orina con \"menos de 20 leucocitos por campo\" es patológica (el corte normal es < 10 leucocitos/campo); además, la leucopenia en un lactante febril puede ser signo de sepsis grave y no constituye un criterio de bajo riesgo."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 55 días de vida, nacido de término, previamente sano y con vacunas de los 2 meses aún no administradas por motivos administrativos familiares. Acude al consultorio por un cuadro de fiebre de 38,4°C rectal sin foco aparente. El examen físico revela un lactante de buen aspecto general, reactivo, hidratado. Se realiza un estudio de laboratorio inicial que muestra: leucocitos 11.200/μL, PCR de 4 mg/L y sedimento de orina con 45 leucocitos por campo con nitritos positivos. ¿Cuál es el diagnóstico más probable de la fiebre sin foco en este paciente y la conducta terapéutica empírica de elección según guías nacionales?",
+    "hint": "Aunque el lactante tenga un examen físico e inflamatorio normal, la presencia de leucocituria franca y nitritos en un lactante menor de 3 meses constituye una infección bacteriana grave localizada que modifica sustancialmente el lugar y la vía de tratamiento.",
+    "options": [
+      {
+        "text": "Sepsis neonatal tardía de foco indeterminado; requiere hospitalización urgente e inicio de Ampicilina más Amikacina.",
+        "isCorrect": false,
+        "explanation": "La cobertura con Ampicilina + Amikacina está dirigida a sepsis neonatal de origen connatal o precoz. Con un foco urinario evidente en un lactante de casi 2 meses bien aspectado, las cefalosporinas son de elección y cubren de excelente forma a los uropatógenos entéricos clásicos (E. coli)."
+      },
+      {
+        "text": "Infección del tracto urinario (ITU) de bajo riesgo; se puede manejar con Amoxicilina oral ambulatoria tras tomar el urocultivo por bolsa recolectora.",
+        "isCorrect": false,
+        "explanation": "El tratamiento ambulatorio por vía oral de una ITU sospechada está contraindicado en menores de 3 meses debido al riesgo latente de urosepsis y cicatriz renal refractaria. Además, el urocultivo nunca debe ser tomado por bolsa recolectora para confirmar el diagnóstico por su alta tasa de falsos positivos."
+      },
+      {
+        "text": "Infección del tracto urinario (ITU) en lactante menor de 3 meses; requiere toma de Urocultivo por cateterismo, hospitalización para administración de Cefazolina o Ceftriaxona endovenosa, y eventual punción lumbar si hay compromiso clínico.",
+        "isCorrect": true,
+        "explanation": "La presencia de piuria franca (45 leucocitos/campo) y nitritos positivos en un lactante menor de 3 meses febril es altamente sugerente de una Infección del Tracto Urinario (ITU). Debido a la inmadurez de la filtración renal y la alta tasa de bacteriemia secundaria por translocación hematógena en menores de 90 días con ITU, estos pacientes se consideran de alto riesgo. La conducta correcta es tomar un urocultivo por cateterismo vesical estéril, hospitalizar al paciente e iniciar antibioterapia endovenosa empírica con una cefalosporina de primera o tercera generación (como Cefazolina o Ceftriaxona) de forma intrahospitalaria. La PL debe considerarse seriamente si el paciente muestra cualquier signo de irritabilidad o deterioro clínico secundario."
+      },
+      {
+        "text": "Bacteriemia oculta por neumococo; requiere derivación inmediata para toma de LCR e inicio de Penicilina endovenosa.",
+        "isCorrect": false,
+        "explanation": "La clínica y el laboratorio dirigen el foco de condensación e inflamación al tracto urinario y no a una bacteriemia oculta sin foco sistémico o neumonitis."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Usted se encuentra de turno en la Urgencia Infantil del Hospital de La Serena. Recibe a un lactante de 14 meses que cursa con fiebre de hasta 39,6°C axilar de 12 horas de evolución sin foco al examen físico. Se encuentra irritable pero consolable en brazos de su madre, se alimenta bien, no presenta signos de deshidratación ni apremio respiratorio. El hemograma muestra leucocitos de 22.000/μL con RAN de 16.500/μL y una PCR de 98 mg/L. Orina completa normal. El lactante recibió su vacuna neumocócica conjugada (VNC13) a los 2, 4 y 12 meses de edad. Fisiopatológicamente, ¿cuál es el riesgo actual de bacteriemia oculta por Streptococcus pneumoniae en este paciente y cuál es la conducta recomendada?",
+    "hint": "El advenimiento de la vacuna conjugada contra el neumococo en el Programa Nacional de Inmunizaciones (PNI) en Chile modificó drásticamente la epidemiología de la bacteriemia oculta en lactantes mayores de 3 meses.",
+    "options": [
+      {
+        "text": "Riesgo elevado de bacteriemia oculta (> 15%); se debe hospitalizar de inmediato para punción lumbar diagnóstica e iniciar Cefotaxime.",
+        "isCorrect": false,
+        "explanation": "La indicación de hospitalización inmediata y punción lumbar sistemática en un escolar o lactante mayor de buen aspecto general febril es una conducta desproporcionada que expone al paciente a riesgos intrahospitalarios innecesarios."
+      },
+      {
+        "text": "Riesgo moderado; se debe administrar una dosis de Penicilina benzatina intramuscular y derivar para control ambulatorio rápido.",
+        "isCorrect": false,
+        "explanation": "La penicilina benzatina no es útil para la sospecha de bacteriemia oculta ni neumonía oculta, además de ser una vía de administración dolorosa que no se recomienda como profilaxis empírica ciega en la urgencia."
+      },
+      {
+        "text": "Riesgo nulo; la vacuna conjugada otorga inmunidad esterilizante absoluta contra todos los serotipos existentes del neumococo, por lo que la fiebre es puramente viral.",
+        "isCorrect": false,
+        "explanation": "La vacuna conjugada de 13 serotipos protege de forma muy eficaz contra la enfermedad invasiva por los serotipos incluidos, pero no otorga una inmunidad estéril absoluta ni cubre la totalidad de los serotipos no vacunales circulantes en la comunidad, por lo que el riesgo es bajísimo pero nunca nulo."
+      },
+      {
+        "text": "Riesgo extremadamente bajo (< 0,5%) debido al esquema de vacunación conjugada completo; la conducta adecuada en un paciente con buen aspecto general es el manejo ambulatorio con control clínico en 24 horas y educación sobre signos de alarma a los padres.",
+        "isCorrect": true,
+        "explanation": "Antes de la introducción masiva de las vacunas conjugadas (contra Haemophilus influenzae tipo b y Streptococcus pneumoniae), el riesgo de bacteriemia oculta en niños de 3 a 36 meses con fiebre ≥ 39°C sin foco y leucocitosis importante era del 3-5%. En la actualidad, con un esquema de vacunación al día (VNC13 completa administrada en Chile a los 2, 4, 12 meses, y en prematuros a los 2, 4, 6, 12 meses), este riesgo ha caído a menos del 0,5%. Por lo tanto, en un lactante mayor de 3 meses de buen aspecto clínico, no está indicado realizar de rutina hemograma ni hemocultivos, prefiriéndose el manejo sintomático ambulatorio y el control clínico estrecho."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 12 días de vida, nacido de término, es traído al Servicio de Urgencias por un cuadro de 6 horas de evolución caracterizado por rechazo alimentario leve, llanto quejumbroso al mudarlo y fiebre de 38,3°C rectal medida en la urgencia. Al examen físico destaca hipoactivo, con tendencia a la somnolencia que despierta al estímulo doloroso, llene capilar de 3 segundos y piel con moteado leve. ¿Cuál es la sospecha diagnóstica prioritaria de este cuadro y el tratamiento antibiótico empírico de elección hospitalario?",
+    "hint": "En los primeros 28 días de vida, la presencia de fiebre asociada a signos sutiles de alteración hemodinámica o neurológica (hipoactividad, somnolencia, mal llenado capilar) constituye una emergencia que requiere cobertura inmediata contra patógenos del canal de parto materno.",
+    "options": [
+      {
+        "text": "Sepsis neonatal / Meningitis bacteriana aguda; se debe hospitalizar de inmediato en UPC Neonatal para estudio séptico completo e iniciar Ampicilina más Cefotaxime endovenoso.",
+        "isCorrect": true,
+        "explanation": "El paciente de 12 días de vida presenta fiebre y signos clínicos clásicos de compromiso hemodinámico y neurológico (quejido, hipoactividad, somnolencia, llene capilar enlentecido) sugerentes de sepsis o shock séptico neonatal. El manejo prioritario es la hospitalización inmediata en una Unidad de Cuidados Intensivos Neonatales, estabilización hemodinámica (ABC), toma de estudio séptico completo (que incluye PL obligatoria) y el inicio inmediato de terapia antimicrobiana empírica combinada con Ampicilina (cubre Listeria monocytogenes y Streptococcus agalactiae) más Cefotaxime (cubre Gram negativos como E. coli), ofreciendo una sinergia bactericida excelente."
+      },
+      {
+        "text": "Síndrome febril sin foco de bajo riesgo Rochester; se debe hospitalizar solo para observación sin antibioterapia empírica hasta tener los cultivos preliminares a las 24 horas.",
+        "isCorrect": false,
+        "explanation": "Los criterios de Rochester son aplicables únicamente a lactantes mayores de 28 días de vida. Todo menor de 28 días febril es de alto riesgo por definición y más aún si muestra signos de alteración clínica o aspecto tóxico."
+      },
+      {
+        "text": "Infección urinaria neonatal por E. coli; se debe tratar de forma ambulatoria con Amoxicilina/Ácido Clavulánico oral.",
+        "isCorrect": false,
+        "explanation": "El manejo ambulatorio con antibióticos orales está absolutamente contraindicado en neonatos debido al riesgo de sepsis fulminante e inmadurez gastrointestinal."
+      },
+      {
+        "text": "Infección viral nosocomial por Enterovirus; se debe iniciar Aciclovir endovenoso empírico por 10 días.",
+        "isCorrect": false,
+        "explanation": "Aunque los enterovirus causan sepsis símil bacteriana, la cobertura empírica debe ser dirigida de forma prioritaria contra bacterias piógenas letales. El Aciclovir se reserva para sospecha fundada de herpes simple neonatal (madre con lesiones activas, vesículas cutáneas, convulsiones, alteración de LCR con eritrocitos abundantes o elevación de transaminasas)."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un preescolar de 3 años, previamente sano y con vacunas al día, acude al CESFAM traído por su madre por presentar un cuadro de fiebre persistente de hasta 39,5°C axilar de 4 días de evolución. Al examen físico detallado destaca en buenas condiciones generales, hidratado, activo, sin apremio respiratorio, con faringe normal, otoscopia normal y auscultación pulmonar libre de ruidos patológicos. ¿Cuál es la conducta diagnóstica más adecuada para este paciente de acuerdo con la aproximación clínica sistemática del síndrome febril de origen indeterminado?",
+    "hint": "En un niño mayor de 2 años de buen aspecto clínico con fiebre sin foco, la sospecha de infección del tracto urinario sigue siendo un pilar clave que debe ser descartado mediante una muestra estéril y fidedigna.",
+    "options": [
+      {
+        "text": "Iniciar de inmediato antibioterapia empírica con Amoxicilina 90 mg/kg/día oral ante el riesgo inminente de neumonía oculta.",
+        "isCorrect": false,
+        "explanation": "La prescripción de antibióticos empíricos a ciegas como la amoxicilina sin un foco clínico establecido favorece la resistencia bacteriana y puede enmascarar cuadros graves subyacentes, además de ser ineficaz si la causa es viral."
+      },
+      {
+        "text": "Solicitar análisis de orina mediante recolección por bolsa plástica adhesiva y urocultivo por la misma vía; si el sedimento es normal, dar de alta.",
+        "isCorrect": false,
+        "explanation": "La bolsa recolectora tiene una tasa de contaminación de hasta el 50-70% para el urocultivo, por lo que un urocultivo positivo tomado por esta vía no es fiable para confirmar el diagnóstico y puede guiar a terapias innecesarias."
+      },
+      {
+        "text": "Solicitar un examen de orina completa y urocultivo mediante muestra por chorro medio o cateterismo, y mantener conducta expectante sintomática mientras se descarta una infección urinaria.",
+        "isCorrect": true,
+        "explanation": "En preescolares mayores de 2 años con fiebre sin foco de varios días de evolución, la ITU se mantiene como una etiología bacteriana de alta relevancia que requiere descarte sistemático. La muestra de orina debe tomarse de forma limpia y estéril mediante chorro medio (si el niño ya controla esfínteres) o cateterismo vesical (si no controla), y enviarse para sedimento urinario y urocultivo. Mientras se esperan los resultados, en un paciente de excelente aspecto general y hemodinámicamente estable, la conducta adecuada es expectante, manejando sintomáticamente la fiebre y educando a los cuidadores sobre signos de alarma."
+      },
+      {
+        "text": "Indicar una dosis de Ceftriaxona intramuscular de rescate y citar a control en su domicilio en 7 días para evaluar evolución clínica.",
+        "isCorrect": false,
+        "explanation": "La ceftriaxona intramuscular empírica indiscriminada no está indicada en pacientes estables con vacunas completas y su uso sin PL previa o foco urinario estudiado es un error de manejo."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 2 meses y 5 días de vida (65 días), previamente sano y con vacunas al día, ingresa a la Urgencia por fiebre de 38,2°C de 6 horas de evolución. Al examen físico destaca reactivo, hidratado, de buen aspecto general. Se realizan exámenes generales que muestran: Leucocitos 8.500/μL con RAN de 2.100/μL, PCR sérica de 5 mg/L, sedimento de orina normal sin leucocituria. De acuerdo con las guías de la AAP y algoritmos de bajo riesgo (como los criterios de Boston), ¿cuál es la conducta más apropiada y segura para este lactante?",
+    "hint": "Los lactantes de 29 a 90 días febriles que cumplen estrictamente con los criterios clínicos y de laboratorio de bajo riesgo pueden ser manejados en forma ambulatoria de manera segura si se garantiza el seguimiento estricto.",
+    "options": [
+      {
+        "text": "Realizar punción lumbar de forma obligatoria, hospitalizar e iniciar ampicilina más cefotaxime por sospecha de meningitis oculta.",
+        "isCorrect": false,
+        "explanation": "La realización de punción lumbar sistemática y hospitalización con doble terapia antibiótica se reserva para lactantes menores de 28 días, o bien para aquellos mayores con aspecto tóxico o marcadores inflamatorios francamente alterados."
+      },
+      {
+        "text": "Dar de alta inmediata a su hogar con indicación de Paracetamol vía oral y control en 10 días en su consultorio sin intervenciones adicionales.",
+        "isCorrect": false,
+        "explanation": "El alta sin un control a corto plazo (dentro de las 24 horas) representa una conducta negligente en un lactante de 2 meses con fiebre sin foco, dada la posibilidad de un cambio clínico rápido."
+      },
+      {
+        "text": "Categorizarlo como de Bajo Riesgo; se puede indicar manejo ambulatorio sin antibióticos, educando exhaustivamente a los padres y asegurando un control clínico presencial obligatorio a las 24 horas.",
+        "isCorrect": true,
+        "explanation": "De acuerdo con los criterios de bajo riesgo validados (Rochester, Boston, Filadelfia) y las guías clínicas de la AAP, un lactante de 29 a 60 días bien aspectado, previamente sano, con examen físico sin focos y exámenes generales normales (leucocitos y marcadores inflamatorios normales, orina no patológica) se clasifica como de Bajo Riesgo de infección bacteriana grave. En este escenario, el manejo ambulatorio sin antibióticos es una opción estándar, segura y recomendada, siempre que se eduque detalladamente a los cuidadores sobre pautas de alarma y se asegure un control presencial estricto en las siguientes 24 horas."
+      },
+      {
+        "text": "Indicar hospitalización preventiva en sala de aislamiento para iniciar profilaxis antiviral con ganciclovir por sospecha de CMV congénito de inicio tardío.",
+        "isCorrect": false,
+        "explanation": "No existe correlación clínica alguna con CMV congénito tardío en este cuadro agudo febril autolimitado sin visceromegalias, microcefalia o púrpura trombocitopénico."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "En el Servicio de Urgencia del Hospital Tisné, se evalúa a un lactante de 3 meses y 15 días (105 días de vida) de término, previamente sano y con vacunas al día, que consulta por fiebre de 38,8°C sin foco. En los exámenes iniciales destaca: leucocitos 14.500/μL, PCR de 12 mg/L, y una orina completa con 35 leucocitos por campo con nitritos positivos. El cultivo de orina se encuentra en proceso. ¿Cuál es el tratamiento empírico de primera línea recomendado en Chile para la ITU en este lactante y cuál es su vía de administración predilecta?",
+    "hint": "En un lactante mayor de 3 meses de excelente aspecto clínico y hemodinámicamente estable con fuerte sospecha de ITU, las guías chilenas permiten el inicio de tratamiento ambulatorio con cefalosporinas de primera o segunda generación vía oral, reservando la vía parenteral para menores de 3 meses o compromiso sistémico.",
+    "options": [
+      {
+        "text": "Ciprofloxacino oral 15 mg/kg cada 12 horas por 10 días de forma ambulatoria por su alta potencia bactericida.",
+        "isCorrect": false,
+        "explanation": "Las quinolonas como el ciprofloxacino no se consideran de primera línea en pediatría por potenciales efectos adversos sobre el cartílago articular en crecimiento y se reservan para patógenos multirresistentes confirmados por antibiograma."
+      },
+      {
+        "text": "Amoxicilina oral 50 mg/kg/día dividida en 3 dosis por 7 días, debido a la excelente tasa de sensibilidad de E. coli a este antibiótico en Chile.",
+        "isCorrect": false,
+        "explanation": "E. coli (el principal uropatógeno en Chile) presenta tasas de resistencia altísimas a la Amoxicilina sola, por lo que este antibiótico carece de utilidad empírica en sospecha de ITU."
+      },
+      {
+        "text": "Amikacina endovenosa 15 mg/kg/día administrada de forma ambulatoria mediante hospitalización domiciliaria con catéter periférico.",
+        "isCorrect": false,
+        "explanation": "La amikacina endovenosa profiláctica domiciliaria es innecesaria y desproporcionada en un lactante de buen aspecto general que tolera la vía oral de forma satisfactoria."
+      },
+      {
+        "text": "Cefadroxilo oral 30-50 mg/kg/día (o Cefuroxima axetilo) por 7 a 10 días de forma ambulatoria, previa toma de urocultivo fidedigno, con control clínico estrecho a las 48 horas tras conocer el resultado del cultivo.",
+        "isCorrect": true,
+        "explanation": "En lactantes mayores de 3 meses de buen aspecto general y hemodinámicamente estables con sospecha clínica de ITU (confirmada por sedimento urinario), las guías clínicas chilenas recomiendan el tratamiento de forma ambulatoria por vía oral. El antibiótico de primera elección son las cefalosporinas de primera generación (Cefadroxilo) o de segunda generación (Cefuroxima axetilo) por 7 a 10 días, debido a la alta tasa de resistencia que presenta E. coli a la Amoxicilina y Ampicilina en la comunidad chilena (> 60%). Se debe citar a control en 48 horas con el resultado preliminar del urocultivo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 1 mes de vida (30 días), previamente sano, asiste a control sano. Al ingresar al CESFAM se constata temperatura axilar de 38,0°C (temperatura rectal confirmada de 38,8°C). Al examen físico destaca de excelente aspecto general, reactivo, hidratado, succionando vigorosamente el pecho materno. Se plantea Síndrome Febril Sin Foco. ¿Cuál es la conducta diagnóstica recomendada para este lactante de acuerdo a los consensos nacionales de infectología infantil?",
+    "hint": "Aunque el paciente haya superado el umbral de los 28 días por un escaso margen, los lactantes de 29 a 60 días febriles se mantienen en una zona de alta vulnerabilidad biológica, donde la presencia de fiebre sin foco exige descartar sepsis con un protocolo de alta seguridad.",
+    "options": [
+      {
+        "text": "Hospitalizar obligatoriamente para descartar infección bacteriana grave mediante exámenes de laboratorio general, orina, hemocultivos y punción lumbar, e inicio de antibióticos endovenosos.",
+        "isCorrect": true,
+        "explanation": "Un lactante de 30 días de vida (justo en el límite del período neonatal) febril sin foco requiere hospitalización obligatoria para estudio completo que incluye LCR, hemocultivos y urocultivo por cateterismo, e inicio de antibioterapia parenteral empírica. Aunque algunas guías de la AAP permiten diferir la PL en mayores de 21-28 días seleccionados bajo condiciones de laboratorio extremadamente específicas y normales (Procalcitonina < 0,5 ng/mL, PCR < 20 mg/L, RAN normales), la pauta estándar de la gran mayoría de los centros de salud de Chile (HCSBA, Tisné, Calvo Mackenna) dicta que todo lactante en su primer mes de vida (menor de 60 días) con fiebre debe hospitalizarse para descartar infección bacteriana grave con estudio invasivo."
+      },
+      {
+        "text": "Realizar sedimento de orina de urgencia; si es normal, dar de alta con Paracetamol ambulatorio.",
+        "isCorrect": false,
+        "explanation": "Limitar el estudio a una orina completa normal en un lactante de 30 días con fiebre es un error clínico que pasa por alto la posibilidad de bacteriemia o meningitis oculta."
+      },
+      {
+        "text": "Indicar vacuna Hexavalente de rescate y observar de forma ambulatoria por 12 horas.",
+        "isCorrect": false,
+        "explanation": "La administración de vacunas no tiene rol terapéutico ni preventivo agudo en el curso de un cuadro febril establecido de causa no precisada."
+      },
+      {
+        "text": "Tomar anticuerpos IgG e IgM para virus herpes simple 1 y 2, y diferir la hospitalización.",
+        "isCorrect": false,
+        "explanation": "Las serologías no tienen utilidad rápida ni modifican la conducta inmediata del síndrome febril sin foco neonatal o del lactante menor."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Durante un seminario de pregrado sobre Infecciones Bacterianas Invasivas en Pediatría, se analiza la utilidad de los biomarcadores. Respecto de la cinética de elevación sérica ante una infección bacteriana aguda de curso sistémico (sepsis o meningitis), ¿cuál de los siguientes biomarcadores presenta la elevación más precoz en el torrente circulatorio del lactante, constituyendo la herramienta diagnóstica de mayor rendimiento temprano?",
+    "hint": "Es importante recordar las curvas de liberación hepática e inmunológica de los reactantes de fase aguda. El biomarcador de elección moderno se sintetiza rápidamente tras estímulos por endotoxinas e interleucinas.",
+    "options": [
+      {
+        "text": "Proteína C Reactiva (PCR)",
+        "isCorrect": false,
+        "explanation": "La PCR se produce a nivel hepático de forma más lenta que la procalcitonina, por lo que en las primeras horas de un cuadro febril de origen bacteriano agudo puede reportarse en niveles falsamente normales o limítrofes."
+      },
+      {
+        "text": "Procalcitonina (PCT)",
+        "isCorrect": true,
+        "explanation": "La Procalcitonina (PCT) es el biomarcador más precoz y específico de infección bacteriana sistémica grave (IBI/sepsis). Comienza a elevarse en sangre a las 2-4 horas del inicio del estímulo inflamatorio bacteriano (mediado por endotoxinas bacterianas e interleucinas como la IL-6 y TNF-alfa), alcanzando su meseta a las 12-24 horas. En contraste, la Proteína C Reactiva (PCR) se eleva más tardíamente (comienza a subir a las 4-6 horas y alcanza su pico máximo recién a las 36-48 horas). Esto otorga a la PCT un valor predictivo de gran rendimiento en la fase hiperaguda de la fiebre sin foco del lactante."
+      },
+      {
+        "text": "Recuento de Neutrófilos Absolutos (RAN)",
+        "isCorrect": false,
+        "explanation": "El recuento de neutrófilos absoluto es un buen parámetro pero se ve afectado rápidamente por estrés celular, uso de corticoides o infecciones virales específicas, careciendo de la especificidad temporal y cinética de la PCT."
+      },
+      {
+        "text": "Velocidad de Sedimentación Globular (VHS)",
+        "isCorrect": false,
+        "explanation": "La VHS presenta una cinética de elevación sumamente lenta (tarda días en elevating de forma significativa) y se mantiene alterada por semanas tras la resolución del cuadro infeccioso, careciendo de utilidad en la toma de decisiones agudas de urgencias."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 14 meses, previamente sano y con vacunas al día, consulta en el policlínico de atención primaria de Alhué por un cuadro de fiebre de hasta 39,1°C rectal de 18 horas de evolución sin foco al examen físico. Se encuentra activo, reactivo, de excelente aspecto clínico. Se realiza tira reactiva de orina en muestra por recolector que resulta completamente normal (sin nitritos ni leucocitos). ¿Cuál es la conducta recomendada según las guías de APS en Chile?",
+    "hint": "En lactantes mayores de 3 meses bien aspectados y estables de origen comunitario, la gran mayoría de los síndromes febriles agudos sin foco corresponden a cuadros virales autolimitados de pródromo inespecífico que solo requieren soporte y control clínico.",
+    "options": [
+      {
+        "text": "Indicar manejo sintomático con Paracetamol, educar exhaustivamente a la madre sobre signos de alarma (hipoactividad, quejido, dificultad respiratoria, mala perfusión) y citar a reevaluación clínica obligatoria en 24-48 horas o si la fiebre persiste más de 72 horas.",
+        "isCorrect": true,
+        "explanation": "Para un lactante de 14 meses (mayor de 3 meses) bien aspectado con fiebre sin foco de corta evolución y un tamizaje de orina normal, la probabilidad de infección bacteriana grave es muy baja. La conducta adecuada de atención primaria es conservadora: manejo de la fiebre para confort del paciente (Paracetamol o Ibuprofeno), guías anticipatorias claras a los cuidadores sobre signos de alarma de sepsis y citar a reevaluación si la fiebre se mantiene por más de 72 horas o si el estado general se deteriora, evitando estudios de laboratorio o antibióticos empíricos innecesarios."
+      },
+      {
+        "text": "Iniciar antibioterapia profiláctica de inmediato con Amoxicilina 90 mg/kg/día oral por sospecha fundada de otitis media catarral subclínica.",
+        "isCorrect": false,
+        "explanation": "La prescripción ciega de amoxicilina sin foco demostrado y de forma puramente preventiva está proscrita en pediatría por favorecer la selección de cepas bacterianas resistentes y generar reacciones adversas gastrointestinales indeseadas."
+      },
+      {
+        "text": "Derivar de urgencia al hospital de referencia para punción lumbar obligatoria y hemocultivos inmediatos.",
+        "isCorrect": false,
+        "explanation": "La derivación hospitalaria de urgencia para estudio invasivo de LCR en un lactante mayor de buen aspecto es innecesaria y expone de forma iatrogénica al paciente."
+      },
+      {
+        "text": "Suspender la lactancia materna de forma transitoria para evaluar si la fiebre cede al retirar inmunógenos maternos.",
+        "isCorrect": false,
+        "explanation": "La suspensión de la lactancia materna está absolutamente contraindicada; la leche materna aporta inmunoglobulinas secretoras y factores protectores vitales para la resolución de cualquier infección."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Preescolar de 2 años y 6 meses, previamente sano, es llevado a urgencias por fiebre de 39,4°C rectal sin causa aparente. Al examen físico destaca reactivo, de buen aspecto clínico, con un eritema faríngeo congestivo leve sin exudado amigdalino. Se solicita hemograma y PCR por insistencia materna, reportándose: Leucocitos 18.500/μL con linfocitos del 75%, plaquetas 380.000/μL y PCR de 8 mg/L. ¿Cuál es la etiología y el diagnóstico más probable de la fiebre sin foco en este paciente?",
+    "hint": "Es común ver leucocitosis importantes en niños pequeños con infecciones virales agudas. El predominio de linfocitos y un reactante de fase aguda (PCR) bajo apoyan una sospecha clínica específica.",
+    "options": [
+      {
+        "text": "Infección bacteriana invasiva por Streptococcus pyogenes.",
+        "isCorrect": false,
+        "explanation": "Una faringoamigdalitis estreptocócica cursa con exudado purulento amigdalino evidente, adenopatías dolorosas submandibulares en mayores de 3 años, y típicamente se asocia a marcada neutrofilia con PCR elevada, no linfocitosis."
+      },
+      {
+        "text": "Neumonía oculta bacteriana lobar izquierda.",
+        "isCorrect": false,
+        "explanation": "La neumonía oculta bacteriana típica cursaría con apremio respiratorio leve, polipnea y un marcado aumento de los neutrófilos segmentados (neutrofilia) y PCR francamente elevada."
+      },
+      {
+        "text": "Infección urinaria bacteriúrica por Pseudomonas aeruginosa.",
+        "isCorrect": false,
+        "explanation": "La infección del tracto urinario por Pseudomonas es sumamente rara en preescolares previamente sanos sin malformaciones nefrourológicas previas, y cursaría de forma mandatoria con leucocituria patológica."
+      },
+      {
+        "text": "Síndrome febril de probable etiología viral (como exantema súbito por HHV-6 o cuadro por enterovirus).",
+        "isCorrect": true,
+        "explanation": "La presencia de fiebre alta sostenida en un preescolar bien aspectado, acompañada de una leucocitosis reactiva moderada pero con marcado predominio linfocitario (linfocitosis reactiva) y con marcadores inflamatorios bacterianos normales (PCR 8 mg/L, lo cual es normal o limítrofe), orienta de forma muy consistente a una infección viral aguda autolimitada. Cuadros como el exantema súbito (producido por el Virus Herpes Humano 6 - HHV-6) cursan clásicamente con fiebre muy alta por 3-4 días en lactantes sanos de buen aspecto general, que cede bruscamente coincidiendo con la aparición de un exantema máculo-papular rosado benigno no pruriginoso."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Usted evalúa en el Servicio de Urgencia Infantil del Hospital Clínico San Borja Arriarán a un lactante de 28 días de vida exactos con fiebre de 38,1°C rectal medida en su domicilio. El lactante se encuentra activo, succiona pecho materno, normotenso y bien perfundido. ¿Qué criterio diagnóstico y de manejo ético-clínico define el día 28 de vida en el algoritmo del Síndrome Febril Sin Foco en Chile?",
+    "hint": "En pediatría, las definiciones cronológicas son estrictas para evitar el riesgo biológico derivado de la inmadurez de barrera en los límites de transición del desarrollo neonatal.",
+    "options": [
+      {
+        "text": "El día 28 constituye el límite de la edad neonatal; el paciente debe ser manejado bajo el protocolo neonatal estricto, requiriendo hospitalización obligatoria, estudio séptico completo que incluye LCR, e inicio de antibióticos endovenosos empíricos.",
+        "isCorrect": true,
+        "explanation": "Por definición internacional y nacional, el período neonatal comprende desde el nacimiento hasta las 28 semanas de vida (o los primeros 28 días completos de vida). Por lo tanto, un paciente de 28 días exactos de vida febril sin foco se rige obligatoriamente de forma estricta por las directrices del flujograma neonatal de alto riesgo de sepsis. Esto requiere hospitalización obligatoria, la toma de estudio séptico completo (sangre, orina por cateterismo y LCR) y el inicio inmediato de terapia endovenosa empírica con ampicilina más cefotaxime. El desvío de este protocolo aumenta sustancialmente las tasas de eventos adversos graves no diagnosticados."
+      },
+      {
+        "text": "El paciente puede ser considerado de bajo riesgo de forma automática al superar las 3 semanas de vida, permitiendo el alta ambulatoria sin exámenes.",
+        "isCorrect": false,
+        "explanation": "La superación cronológica del día 28 no elimina el riesgo biológico de bacteriemia ni meningitis oculta de forma abrupta, requiriéndose la aplicación rigurosa de algoritmos específicos de edad que prohíben el alta ambulatoria ciega."
+      },
+      {
+        "text": "Se puede omitir el urocultivo y realizar solo punción lumbar para definir el manejo ambulatorio con ceftriaxona endovenosa diaria en domicilio.",
+        "isCorrect": false,
+        "explanation": "El LCR y el urocultivo por cateterismo son componentes inseparables del estudio séptico completo del lactante menor con sospecha de sepsis y omitir alguno constituye un error de manejo."
+      },
+      {
+        "text": "Se puede posponer la hospitalización si se descartan infecciones de la piel mediante inspección visual sistemática de los pliegues cutáneos.",
+        "isCorrect": false,
+        "explanation": "El examen visual dermatológico es incapaz de predecir la presencia de bacteriemia o meningitis aguda oculta en un recién nacido febril."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 3 meses y 25 días de vida, previamente sano, con vacunas al día. Consulta en la urgencia del Hospital Tisné por un síndrome febril sin foco de 39,1°C rectal de 12 horas de evolución. Al examen destaca reactivo, hidratado, de buen aspecto. Su madre refiere que ha presentado 2 deposiciones líquidas con estrías de sangre y mucosidad. Se solicita estudio de sedimento urinario que reporta normal, y un hemograma con leucocitos de 16.500/μL con RAN de 11.000/μL. ¿Cuál es la sospecha diagnóstica más probable en este escenario clínico y qué examen confirmatorio debe solicitar?",
+    "hint": "La presencia de fiebre alta asociada a diarrea con sangre y mucosidad en un lactante menor orienta de forma directa a un foco bacteriano específico en la mucosa enteral, requiriendo un estudio microbiológico focalizado.",
+    "options": [
+      {
+        "text": "Sepsis de origen biliar; requiere ecografía abdominal urgente de la vía biliar.",
+        "isCorrect": false,
+        "explanation": "La sepsis biliar es sumamente infrecuente en lactantes previamente sanos y cursaría de forma característica con ictericia de escleras, coluria marcada, acolia y hepatomegalia, síntomas auscentes en el paciente descrito."
+      },
+      {
+        "text": "Infección bacteriana invasiva del tracto digestivo (Gastroenteritis bacteriana invasora por Shigella o Salmonella); se debe solicitar Coprocultivo y estudio de leucocitos fecales.",
+        "isCorrect": true,
+        "explanation": "La presencia de diarrea disentérica (con sangre y moco) asociada a fiebre alta sostenida en un lactante menor de buen aspecto general constituye un cuadro de gastroenteritis aguda invasora (GEA). Los agentes bacterianos más frecuentes implicados son Salmonella enterica, Shigella spp., Campylobacter jejuni o Escherichia coli enteroinvasora. El examen diagnóstico confirmatorio de elección es el Coprocultivo o PCR molecular en deposición, asociado al estudio de leucocitos fecales que corrobora la respuesta inflamatoria de la mucosa intestinal colonizada por bacterias enteropatógenas."
+      },
+      {
+        "text": "Meningitis bacteriana por meningococo; se debe indicar punción lumbar de urgencia de forma inmediata.",
+        "isCorrect": false,
+        "explanation": "Con un foco gastrointestinal evidente en un paciente clínicamente bien aspectado, reactivo y sin signos meningeos o de irritabilidad extrema, la punción lumbar rutinaria no está indicada de primera línea."
+      },
+      {
+        "text": "Alergia a la proteína de la leche de vaca (APLV) de debut agudo febril; se debe iniciar dieta de exclusión materna estricta de lácteos y derivados.",
+        "isCorrect": false,
+        "explanation": "Si bien la APLV es una causa común de proctocolitis alérgica con deposiciones con sangre en lactantes, su curso es típicamente afebril, crónico y de buen estado nutricional, no cursando con fiebre alta aguda de 39,1°C ni marcada leucocitosis reactiva sistémica."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 75 días de vida es traído al consultorio de especialidades del HCSBA por presentar un síndrome febril sin foco de 38,6°C rectal. Al examen segmentario destaca activo, normoperfundido, hidratado. Se solicitan exámenes generales que muestran: leucocitos 12.500/μL, PCR de 5 mg/L, sedimento urinario normal sin leucocituria. De acuerdo con el protocolo clásico de Boston para el manejo del recién nacido y lactante febril de bajo riesgo, ¿cuál de las siguientes opciones terapéuticas representa una conducta válida contemplada por dicho protocolo?",
+    "hint": "El protocolo de Boston es una de las pautas de manejo de bajo riesgo clásicas en lactantes de 28 a 89 días que permite el manejo ambulatorio sin antibióticos en base a la negatividad de marcadores inflamatorios y el buen aspecto general.",
+    "options": [
+      {
+        "text": "Realizar punción lumbar de forma obligatoria antes de iniciar Amoxicilina oral en el domicilio.",
+        "isCorrect": false,
+        "explanation": "La amoxicilina oral no está indicada como terapia empírica de bajo riesgo para fiebre sin foco en menores de 3 meses, ya que no ofrece cobertura adecuada contra patógenos invasivos de sepsis como el meningococo o neumococo por vía enteral rápida."
+      },
+      {
+        "text": "Enviar a su hogar sin tratamiento antibiótico empírico, bajo estricta educación a los padres y con un control clínico obligatorio a las 24 horas.",
+        "isCorrect": true,
+        "explanation": "El protocolo de Boston (1993) para lactantes febriles de 28 a 89 días de bajo riesgo (buen aspecto general, sin focos en el examen físico, leucocitos < 20.000/μL, sedimento urinario normal, LCR normal con < 10 leucocitos/mm³ e IFD nasofaringea negativa) contempla dos opciones de manejo seguro aprobadas: administrar Ceftriaxona IM (50 mg/kg) de forma empírica y dar de alta ambulatoria, O BIEN el manejo expectante sin antibióticos en su hogar si se garantiza un control clínico presencial obligatorio a las 24 horas y los padres demuestran excelente comprensión de las pautas de alarma de sepsis."
+      },
+      {
+        "text": "Indicar una dosis intramuscular de Ceftriaxona 50 mg/kg en la urgencia y dar de alta ambulatoria inmediata, previa toma de cultivos de LCR y sangre.",
+        "isCorrect": false,
+        "explanation": "El protocolo de Boston permite el uso de Ceftriaxona IM, pero requiere de forma mandatoria realizar previamente la toma de hemocultivos y punción lumbar para garantizar la seguridad del paciente antes de esterilizar el LCR."
+      },
+      {
+        "text": "Hospitalizar para iniciar terapia endovenosa profiláctica con penicilina sódica más gentamicina por 7 días.",
+        "isCorrect": false,
+        "explanation": "El uso de penicilina y gentamicina endovenosa intrahospitalaria está reservado para sospechas de sepsis graves de alto riesgo y no se corresponde con el flujograma de bajo riesgo del lactante de Boston."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un lactante de 80 días de vida es hospitalizado en la Unidad de Pediatría por síndrome febril sin foco con sospecha de Infección del Tracto Urinario. Se inicia tratamiento con Ceftriaxona endovenosa. Al recibir los resultados del urocultivo tomado por cateterismo vesical al tercer día, se reporta desarrollo de Escherichia coli con un recuento de 120.000 UFC/mL sensible a Cefazolina, Cefadroxilo, Amikacina y Ciprofloxacino, pero resistente a Ampicilina. Clínicamente el paciente se encuentra afebril hace 48 horas, de excelente aspecto general y alimentándose con lactancia exclusiva de forma vigorosa. ¿Cuál es la conducta de desescalamiento antibiótico y plan de alta más adecuada según la Norma Técnica chilena?",
+    "hint": "El uso racional de antibióticos en pediatría (programas PROA) exige desescalar a la alternativa por vía oral de menor espectro posible según antibiograma una vez lograda la estabilidad clínica del lactante.",
+    "options": [
+      {
+        "text": "Continuar con Ceftriaxona endovenosa intrahospitalaria hasta completar 14 días totales de tratamiento.",
+        "isCorrect": false,
+        "explanation": "Prolongar el uso de ceftriaxona endovenosa por 14 días es innecesario y se asocia a iatrogenia (infecciones nosocomiales, pérdida de accesos vasculares y costes elevados)."
+      },
+      {
+        "text": "Suspender la ceftriaxona e indicar de alta con tratamiento oral ambulatorio con Ampicilina 100 mg/kg/día por 10 días más.",
+        "isCorrect": false,
+        "explanation": "La ampicilina oral está formalmente desaconsejada y contraindicada en este paciente debido a que el reporte del antibiograma del urocultivo confirmó de forma microbiológica que la bacteria es resistente a este fármaco."
+      },
+      {
+        "text": "Desescalar de inmediato a Ciprofloxacino oral para garantizar un alta rápida sin riesgos de recurrencia urinaria.",
+        "isCorrect": false,
+        "explanation": "El ciprofloxacino no es el fármaco de primera línea para desescalar una ITU sensible a cefalosporinas comunes en pediatría por los motivos toxicológicos articulares antes mencionados."
+      },
+      {
+        "text": "Desescalar el tratamiento antibiótico endovenoso y proceder al alta hospitalaria indicando Cefadroxilo oral (30-50 mg/kg/día fraccionado en 2 dosis) hasta completar un total de 7 a 10 días de tratamiento efectivo, asociando educación de pautas preventivas a la madre.",
+        "isCorrect": true,
+        "explanation": "En un lactante mayor de 2 meses que cursa con una ITU confirmada sensible, la respuesta clínica favorable (afebril por más de 24-48 horas, excelente tolerancia oral y buen estado general) permite de forma segura realizar la terapia secuencial de desescalamiento de la vía endovenosa a la vía oral. El desescalamiento debe dirigirse hacia un antibiótico oral de menor espectro posible según el antibiograma (Cefadroxilo en este caso, al reportarse la bacteria sensible a cefalosporinas de primera generación), completando un esquema de tratamiento total de 7 a 10 días. Esto permite el alta hospitalaria temprana, disminuyendo riesgos asociados a hospitalizaciones prolongadas."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Usted es el médico encargado de la Unidad de Neonatología del Hospital Tisné. Evalúa a un recién nacido de 4 días de vida que presenta fiebre de 38,5°C rectal asociada a letargia leve y rechazo alimentario. El hemograma reporta leucocitosis de 24.500/μL con desviación a la izquierda e hipoglicemia asintomática de 42 mg/dL. Se plantea sepsis de inicio precoz por translocación vertical. De acuerdo con la microbiología nacional chilena y guías de práctica clínica, ¿cuál es el patógeno bacteriano más prevalente responsable de sepsis neonatal precoz y cuál es la profilaxis materna clave que debió realizarse durante el parto?",
+    "hint": "Es el patógeno clásico de transmisión vertical que coloniza el canal de parto materno y genera sepsis fulminante de inicio precoz en las primeras 72 horas de vida si no se realiza una intervención antibiótica intraparto oportuna.",
+    "options": [
+      {
+        "text": "Streptococcus agalactiae (Estreptococo Grupo B - EGB); requiere detección de portación materna mediante hisopado rectovaginal a las 35-37 semanas de gestación y profilaxis antibiótica intraparto con Penicilina sódica endovenosa.",
+        "isCorrect": true,
+        "explanation": "Streptococcus agalactiae (Estreptococo del Grupo B - EGB) es por amplio margen la causa más común de sepsis neonatal de inicio precoz (vertical, menor de 72 horas de vida) en Chile y el mundo. La principal estrategia preventiva recomendada por el MINSAL es el tamizaje universal de portación materna mediante hisopado rectovaginal entre las 35 y 37 semanas de gestación. Ante un resultado positivo, o bien en presencia de factores de riesgo intraparto (fiebre materna, parto prematuro o rotura prolongada de membranas > 18 horas), se debe administrar profilaxis antibiótica intraparto con Penicilina G sódica (o Ampicilina) endovenosa al menos 4 horas antes del nacimiento."
+      },
+      {
+        "text": "Escherichia coli productora de betalactamasas de espectro extendido (BLEE); requiere desinfección vaginal materna con povidona yodada antes del expulsivo.",
+        "isCorrect": false,
+        "explanation": "Aunque E. coli es una causa común de sepsis precoz (especialmente en prematuros de muy bajo peso), el lavado vaginal con antisépticos no es una medida validada ni eficaz para prevenir la bacteriemia neonatal."
+      },
+      {
+        "text": "Listeria monocytogenes; requiere vacunación obligatoria de la gestante con la vacuna dTpa a partir de las 28 semanas de gestación.",
+        "isCorrect": false,
+        "explanation": "Listeria es un patógeno transmitido por alimentos contaminados y, aunque puede causar sepsis precoz severa con microabscesos, no existe vacuna para prevenir esta bacteria y la dpaT cubre Tos convulsiva, Tétanos y Difteria."
+      },
+      {
+        "text": "Streptococcus pneumoniae; requiere profilaxis bacteriana con Amoxicilina oral administrada de forma universal a la madre durante el tercer trimestre de gestación.",
+        "isCorrect": false,
+        "explanation": "El neumococo no coloniza el tracto rectovaginal de forma habitual y la amoxicilina oral universal materna profiláctica no forma parte de ninguna guía clínica."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 11 meses, previamente sano y con vacunas al día, ingresa al Servicio de Urgencias traído por cuadro febril de origen indeterminado de 39,2°C rectal de 3 días de evolución, acompañado de irritabilidad que empeora de forma marcada al movilizar al paciente. Al examen físico destaca reactivo, hidratado, con fontanela anterior abombada y signo de rigidez de nuca positivo. Se sospecha una meningitis bacteriana aguda. De acuerdo con el tratamiento de primera línea hospitalario pediátrico en Chile en mayores de 3 meses, ¿cuál es el esquema antibiótico empírico recomendado por las guías del MINSAL y la SOCHINF?",
+    "hint": "En mayores de 3 meses, los patógenos más comunes de la meningitis bacteriana en Chile cambian radicalmente. El esquema antibiótico debe ofrecer una potente actividad bactericida en el LCR y cobertura contra cepas resistentes de neumococo.",
+    "options": [
+      {
+        "text": "Ampicilina endovenosa combinada con Gentamicina por 14 días.",
+        "isCorrect": false,
+        "explanation": "El esquema de Ampicilina + Gentamicina está dirigido a cubrir microorganismos del período neonatal (Listeria y enteropatógenos Gram negativos) y no ofrece una penetración adecuada de aminoglicósidos a través de las meninges inflamadas en mayores de 3 meses."
+      },
+      {
+        "text": "Ceftriaxona 100 mg/kg/día endovenosa (dividida en 2 dosis) asociada a Vancomicina 60 mg/kg/día endovenosa (dividida en 4 dosis) para cubrir neumococo con susceptibilidad intermedia o resistente a penicilina.",
+        "isCorrect": true,
+        "explanation": "En lactantes mayores de 3 meses con sospecha de Meningitis Bacteriana Aguda (MBA) en Chile, los principales agentes patógenos son el Streptococcus pneumoniae y Neisseria meningitidis. Debido a que el neumococo circulante en el país puede presentar susceptibilidad disminuida o resistencia de alto nivel a las cefalosporinas de tercera generación, las guías clínicas de la SOCHINF y el MINSAL recomiendan de forma categórica iniciar tratamiento empírico con Ceftriaxona (a dosis meníngeas de 100 mg/kg/día dividida en dos dosis) combinada de forma obligatoria con Vancomicina (60 mg/kg/día endovenosa dividida cada 6 horas). Este esquema asegura una sinergia letal y cobertura microbiológica completa en el LCR."
+      },
+      {
+        "text": "Cloxacilina endovenosa combinada con Cefotaxime por 10 días totales de tratamiento.",
+        "isCorrect": false,
+        "explanation": "La Cloxacilina se indica para la sospecha de infecciones por Staphylococcus aureus (como osteomielitis o shock séptico de foco estafilocócico), pero carece de indicación en la meningitis comunitaria típica del lactante sano."
+      },
+      {
+        "text": "Amoxicilina/Ácido Clavulánico oral a altas dosis (90 mg/kg/día) por sonda nasogástrica.",
+        "isCorrect": false,
+        "explanation": "La administración por vía enteral de betalactámicos está formalmente contraindicada en el tratamiento de la meningitis bacteriana debido a que no alcanza concentraciones terapéuticas bactericidas en el espacio subaracnoideo."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 58 días de vida de término, previamente sano, ingresa febril sin foco con temperatura rectal de 38,3°C. Sus padres se encuentran muy preocupados. Se aplica el protocolo de Boston para lactantes de bajo riesgo. Se le toman exámenes que reportan: leucocitos 12.100/μL, orina completa normal y PCR de 8 mg/L. Se decide un manejo ambulatorio del paciente indicando una dosis intramuscular de Ceftriaxona 50 mg/kg como terapia empírica. Fisiopatológicamente, ¿cuál es el potencial riesgo de esta conducta que limita la aceptación universal de este tipo de protocolos empíricos de bajo riesgo con uso de antibióticos parenterales en el domicilio?",
+    "hint": "Tratar empíricamente con una cefalosporina de amplio espectro por vía parenteral a un lactante febril menor de 3 meses sin haber descartado previamente una infección en el sistema nervioso central puede alterar de forma parcial la respuesta de los cultivos.",
+    "options": [
+      {
+        "text": "Aumento de la prevalencia de alergias alimentarias IgE mediadas por destrucción de la flora bacteriana comensal.",
+        "isCorrect": false,
+        "explanation": "Si bien los antibióticos alteran la microbiota enteral pediátrica, este riesgo es a largo plazo y no representa el peligro biológico agudo y prioritario que guió la modificación de estos flujogramas de urgencia."
+      },
+      {
+        "text": "Enmascaramiento de una meningitis bacteriana no diagnosticada previamente por omitir la punción lumbar, lo que puede guiar a secuelas neurológicas irreversibles al retrasar el tratamiento adecuado.",
+        "isCorrect": true,
+        "explanation": "La principal controversia y el mayor peligro del uso empírico de Ceftriaxona intramuscular en lactantes menores de 90 días febriles manejados de forma ambulatoria (según los protocolos clásicos de Boston o Filadelfia) es el riesgo de enmascarar una meningitis bacteriana. Si el lactante tiene una meningitis oculta en fase muy inicial y se administra Ceftriaxona sin haber realizado previamente una punción lumbar para analizar LCR, el antibiótico esterilizará el cultivo de LCR en cuestión de horas y atenuará la fiebre transitoriamente, pero no logrará concentraciones estables terapéuticas por una sola dosis IM. Esto retrasará el diagnóstico definitivo y la instauración de una terapia endovenosa a dosis meníngeas completas por 10-14 días, lo que eleva el riesgo de daño cerebral e hidrocefalia secundaria."
+      },
+      {
+        "text": "Inducción de crisis de asma bronquial infantil severa por depósito de inmunocomplejos a nivel bronquial.",
+        "isCorrect": false,
+        "explanation": "La ceftriaxona no se asocia a crisis obstructivas bronquiales asmáticas por depósito de inmunocomplejos de forma sistémica."
+      },
+      {
+        "text": "Desarrollo precoz de hipertensión arterial pulmonar severa por depósitos de sales de calcio en la vasculatura pulmonar.",
+        "isCorrect": false,
+        "explanation": "La precipitación de sales de calcio con ceftriaxona es un riesgo real en neonatos hospitalizados si se infunden de forma simultánea soluciones de calcio endovenoso en la misma vía venosa, pero no ocurre por una sola dosis intramuscular domiciliaria en un lactante menor."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un lactante de 2 meses y 15 días (75 días de vida), previamente sano y con vacunas de los 2 meses administradas hace 3 días, consulta por fiebre de 38,4°C rectal sin foco al examen físico. Se encuentra reactivo, con excelente perfusión periférica, sin apremio respiratorio y con sedimento de orina normal sin leucocituria. Su madre refiere que la fiebre comenzó 12 horas después de recibir sus vacunas programadas del PNI (vacuna Hexavalente y vacuna Antineumocócica Conjugada). ¿Cuál es el diagnóstico clínico más probable y la conducta recomendada?",
+    "hint": "La fiebre secundaria a la inmunización activa del PNI en Chile es sumamente frecuente en las primeras 24-48 horas post-vacunación, pero su diagnóstico es de descarte y exige mantener un estricto criterio de seguridad.",
+    "options": [
+      {
+        "text": "Sepsis neonatal tardía secundaria a vacunación contaminada; requiere estudio séptico y punción lumbar urgente por sospecha de meningitis yatrogénica.",
+        "isCorrect": false,
+        "explanation": "La sepsis secundaria a contaminación de vacunas en Chile es un evento de extrema rareza gracias a los altos estándares de seguridad del PNI, y no justifica un estudio invasivo de primera línea en un paciente bien aspectado de forma rutinaria."
+      },
+      {
+        "text": "Infección bacteriana grave oculta concurrente de curso silencioso; se debe iniciar de inmediato Amoxicilina profiláctica por 10 días de forma empírica preventiva.",
+        "isCorrect": false,
+        "explanation": "Iniciar antibióticos orales profilácticos de forma ciega es perjudicial y altera la flora saprófita del lactante sin ofrecer beneficio clínico real."
+      },
+      {
+        "text": "Infección viral aguda por Coronavirus SARS-CoV-2; se debe iniciar aislamiento respiratorio estricto hospitalario por 14 días.",
+        "isCorrect": false,
+        "explanation": "No existe indicación clínica de aislamiento estricto ni de uso de antivirales específicos en un cuadro febril típico post-vacunación altamente esperado."
+      },
+      {
+        "text": "Síndrome febril sin foco de probable etiología post-vacunación; la conducta recomendada es sintomática con Paracetamol (15 mg/kg/dosis vía oral) y observación en el domicilio por los padres, con control clínico inmediato si la fiebre supera las 48 horas post-vacunación o si el lactante presenta cualquier signo de aspecto tóxico o decaimiento severo.",
+        "isCorrect": true,
+        "explanation": "La aparición de fiebre de baja magnitud (menor a 38,5-39°C) en las primeras 24 a 48 horas posteriores a la administración de las vacunas obligatorias de los 2 meses (Hexavalente y Antineumocócica) es un efecto adverso esperado sumamente prevalente debido a la respuesta inmunológica reactogénica del hospedero. En un lactante de buen aspecto clínico general y con examen físico normal (más tamizaje de orina normal para descartar ITU), la conducta adecuada es expectante y sintomática, administrando Paracetamol oral para confort térmico. Se debe instruir de forma mandatoria a la madre de que consulte si la fiebre se prolonga por más de 48 horas (ya que esto aleja la causa vacunal) o si se agrega cualquier signo de aspecto tóxico o decaimiento."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 1 mes de vida (35 días) ingresa hospitalizado en la Unidad de Pediatría por síndrome febril sin foco de 38,4°C rectal. Al segundo día de hospitalización, el informe del hemocultivo tomado en la urgencia reporta positividad para bacterias Gram positivas, confirmándose posteriormente el desarrollo de Listeria monocytogenes sensible a Ampicilina y Penicilina. ¿Cuál es el tratamiento antibiótico específico de elección para esta bacteria y cuál es su vía de administración obligatoria en pediatría?",
+    "hint": "Esta bacteria Gram positiva es un patógeno intracelular facultativo que causa sepsis y meningitis graves en neonatos y lactantes pequeños. Es intrínsecamente resistente a todas las cefalosporinas de amplio espectro.",
+    "options": [
+      {
+        "text": "Ampicilina endovenosa a dosis altas (200 mg/kg/día dividida cada 6 horas) combinada de forma preferida con un aminoglicósido como Gentamicina por su efecto de sinergia bactericida, administrado de forma intrahospitalaria por 14 a 21 días.",
+        "isCorrect": true,
+        "explanation": "Listeria monocytogenes es una bacteria de transmisión vertical intraparto o transplacentaria muy temida en el período neonatal y del lactante menor. Es intrínsecamente resistente a todas las cefalosporinas (incluyendo Cefotaxime y Ceftriaxona). El tratamiento de elección absoluto es la Ampicilina por vía endovenosa a dosis altas de 200 mg/kg/día, combinada preferentemente con un aminoglicósido como la Gentamicina debido a que existe una sinergia bactericida in vitro e in vivo muy potente para la erradicación del patógeno. La duración del tratamiento para sepsis bacteriana por Listeria es de 14 días, extendiéndose a 21 días si se confirma meningitis."
+      },
+      {
+        "text": "Cefotaxime endovenoso en dosis única diaria por 7 días de forma ambulatoria por hospitalización domiciliaria.",
+        "isCorrect": false,
+        "explanation": "Las cefalosporinas como el cefotaxime carecen por completo de actividad bactericida contra Listeria monocytogenes debido a que no se unen de forma eficaz a sus proteínas de unión a penicilina (PBPs), constituyendo un error grave de tratamiento."
+      },
+      {
+        "text": "Amoxicilina/Ácido Clavulánico oral cada 12 horas por 10 días de forma ambulatoria.",
+        "isCorrect": false,
+        "explanation": "El tratamiento oral ambulatorio está proscrito en un lactante de 35 días con bacteriemia o sepsis confirmada por el alto riesgo de mortalidad secundaria."
+      },
+      {
+        "text": "Clindamicina endovenosa dividida cada 8 horas asociada a Vancomicina.",
+        "isCorrect": false,
+        "explanation": "La clindamicina y la vancomicina no son los fármacos de primera elección para el manejo de infecciones invasivas por Listeria monocytogenes en el lactante previamente sano."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Usted se encuentra realizando la supervisión de salud infantil de un lactante de 2 meses en el CESFAM de San Fernando. Durante la consulta, la madre manifiesta preocupación por el riesgo de que su hijo desarrolle meningitis por meningococo o neumococo y le consulta sobre las vacunas que recibirá hoy de acuerdo al Programa Nacional de Inmunizaciones (PNI) de Chile para el año 2026. ¿Cuál de las siguientes afirmaciones respecto del PNI vigente cubre estas inquietudes inmunológicas?",
+    "hint": "Es crucial estar actualizado al calendario vacunal PNI 2026 en Chile, el cual ha incorporado progresivamente vacunas para prevenir infecciones bacterianas invasivas en las etapas de mayor vulnerabilidad de la infancia.",
+    "options": [
+      {
+        "text": "La vacuna Hexavalente que recibirá hoy contiene antígenos específicos para el Neumococo de 13 serotipos.",
+        "isCorrect": false,
+        "explanation": "La vacuna Hexavalente cubre difteria, tétanos, pertussis, polio, hepatitis B e Hib, pero no contiene componentes para el neumococo, el cual se administra de forma separada como vacuna neumocócica conjugada (VNC13)."
+      },
+      {
+        "text": "La vacuna Hexavalente protege contra Haemophilus influenzae tipo b y Bordetella pertussis, y de forma simultánea recibirá la vacuna Neumocócica Conjugada y la vacuna Meningocócica Recombinante serogrupo B obligatorias en el calendario 2026.",
+        "isCorrect": true,
+        "explanation": "De acuerdo al calendario PNI chileno vigente, a los 2 meses de edad el lactante recibe tres vacunas fundamentales: 1) Vacuna Hexavalente (que incluye difteria, tétanos, tos convulsiva acelular, hepatitis B, polio inactivada e Haemophilus influenzae tipo b - Hib, causante de meningitis), 2) Vacuna Neumocócica Conjugada (VNC13), que protege contra enfermedades invasivas por Streptococcus pneumoniae, y 3) La vacuna Meningocócica Recombinante de serogrupo B (incorporada obligatoriamente al PNI a los 2, 4 y 18 meses), protegiendo de forma directa contra una causa muy letal de meningitis meningocócica en lactantes chilenos."
+      },
+      {
+        "text": "El lactante no recibirá vacunas protectoras contra meningitis bacteriana hasta la edad escolar de 6 años.",
+        "isCorrect": false,
+        "explanation": "Las principales vacunas que protegen de forma directa contra meningitis bacteriana (Hib, neumococo y meningococo B) se administran en el primer año de vida, precisamente en el periodo de mayor riesgo."
+      },
+      {
+        "text": "Las vacunas contra la meningitis por meningococo serogrupo B solo están disponibles por vía privada en Chile de forma opcional.",
+        "isCorrect": false,
+        "explanation": "La vacuna contra meningococo serogrupo B está incorporada formalmente como vacuna programática gratuita y obligatoria del PNI en Chile desde hace varios años, no limitándose a la venta privada."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 3 meses y 10 días (100 días de vida), previamente sano y con vacunas al día. Consulta en urgencias por un síndrome febril sin foco de 39,3°C rectal de 12 horas de evolución. Al examen físico destaca reactivo, hidratado, de buen aspecto general. Se decide realizar un tamizaje urinario mediante tira reactiva obtenida por cateterismo vesical que reporta: normal (sin leucocituria, nitritos negativos, sin bacterias). ¿Cuál es la conducta más adecuada y recomendada para este paciente de acuerdo con las guías de SFSF en lactantes mayores de 3 meses con vacunas completas?",
+    "hint": "En lactantes mayores de 3 meses bien aspectados, inmunizados y con examen de orina negativo, el riesgo de cursar con una infección bacteriana invasiva grave es extremadamente bajo, por lo que el manejo conservador ambulatorio es la opción estándar de alta seguridad.",
+    "options": [
+      {
+        "text": "Hospitalizar obligatoriamente para descartar meningitis aséptica y realizar estudio de punción lumbar inmediato.",
+        "isCorrect": false,
+        "explanation": "La realización de punción lumbar y hospitalización sistemática carece de indicación clínica y expone de forma iatrogénica al lactante de buen aspecto de más de 3 meses de vida con tamizaje urinario normal."
+      },
+      {
+        "text": "Iniciar antibioterapia profiláctica con Amoxicilina/Ácido Clavulánico oral de forma empírica por 7 días.",
+        "isCorrect": false,
+        "explanation": "El uso de antibióticos orales profilácticos sin un foco clínico demostrado o sospechado está proscrito en pediatría por favorecer la resistencia bacteriana."
+      },
+      {
+        "text": "Enviar a su hogar con indicación de manejo sintomático de la fiebre con Paracetamol, educar minuciosamente a los padres sobre signos de alarma de sepsis (hipoactividad, quejido, rechazo alimentario, mala perfusión) y citar a control clínico si la fiebre persiste más de 48-72 horas totales.",
+        "isCorrect": true,
+        "explanation": "En un lactante de 3 a 36 meses febril sin foco de buen aspecto general, con vacunas al día (neumococo y Hib) y con un examen de orina negativo (descartada la ITU), la probabilidad de bacteriemia oculta o infección bacteriana grave es menor al 0,5%. Por lo tanto, no se requiere ningún estudio adicional de laboratorio (hemograma, PCR, hemocultivos) de primera línea ni uso de antibióticos empíricos. La conducta correcta es el manejo sintomático de la fiebre en domicilio, guías anticipatorias exhaustivas y control en 24-48 horas, o bien antes si hay deterioro clínico del paciente."
+      },
+      {
+        "text": "Indicar una dosis de Ceftriaxona endovenosa profiláctica y realizar de forma rutinaria una radiografía de tórax.",
+        "isCorrect": false,
+        "explanation": "El uso empírico de ceftriaxona y la toma rutinaria de radiografía de tórax en un lactante bien aspectado sin signos respiratorios representa una conducta con sobreestudio e iatrogenia clínica injustificada."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un lactante de 2 meses y 20 días es evaluado en el box de urgencias infantil por síndrome febril sin foco de 38,6°C rectal de 18 horas de evolución. Al examen segmentario destaca reactivo, normoperfundido, hidratado, de buen aspecto general (Yale Observation Scale: 6 puntos, bajo riesgo). El médico decide aplicar los criterios de Boston para definir el bajo riesgo. El estudio de laboratorio reporta: leucocitos 15.500/μL, orina completa normal, LCR claro con 12 leucocitos/mm³ (predominio linfocitario) y proteínas de 60 mg/dL. ¿Cuál es la clasificación del paciente según el protocolo de Boston y la conducta recomendada?",
+    "hint": "En menores de 3 meses, los parámetros de normalidad celular del LCR son más amplios que en niños mayores. Un recuento de hasta 10-15 leucocitos/mm³ en el LCR puede ser catalogado como normal para un lactante menor en el contexto de un estudio de bajo riesgo.",
+    "options": [
+      {
+        "text": "Alto riesgo por sospecha de pleocitosis y meningitis aguda; requiere hospitalización inmediata en UPC Pediátrica para repetición de punción lumbar e inicio de vancomicina más ceftriaxona.",
+        "isCorrect": false,
+        "explanation": "Considerar el LCR como patológico para esta edad es un error que puede guiar a estudios invasivos repetitivos innecesarios y a hospitalizaciones prolongadas injustificadas."
+      },
+      {
+        "text": "Alto riesgo por sospecha de meningitis tuberculosa incipiente; requiere derivación de urgencia para inicio inmediato de esquema de cuatro fármacos anti-TBC.",
+        "isCorrect": false,
+        "explanation": "No existe indicación diagnóstica ni sospecha fundada de meningitis tuberculosa en un lactante menor previamente sano con LCR fisiológico sin hipoglicorraquia marcada ni epidemiología de contacto compatible."
+      },
+      {
+        "text": "Riesgo moderado debido al recuento de leucocitos en sangre; requiere hospitalización preventiva en sala de aislamiento para observación clínica por 48 horas sin antibioterapia.",
+        "isCorrect": false,
+        "explanation": "La categorización como \"riesgo moderado\" no está contemplada en los flujogramas de toma de decisiones dicotómicas de Rochester, Boston o Filadelfia de bajo/alto riesgo de infección bacteriana."
+      },
+      {
+        "text": "Bajo riesgo; los valores del LCR son fisiológicos para la edad y el paciente cumple con los criterios de Boston, permitiendo el alta hospitalaria con manejo ambulatorio con o sin Ceftriaxona IM, previa educación de signos de alarma de sepsis a los padres y control estricto a las 24 horas.",
+        "isCorrect": true,
+        "explanation": "Un recuento de 12 leucocitos/mm³ en el LCR con proteínas de 60 mg/dL es completamente fisiológico y normal en un lactante menor de 3 meses (donde el límite superior de la normalidad se acepta clásicamente en 15-20 leucocitos/mm³). Por ende, el LCR se clasifica como normal. Al cumplir con el resto de las variables clínicas y de laboratorio de bajo riesgo del protocolo de Boston, el lactante se clasifica como de Bajo Riesgo. La conducta correcta es el manejo ambulatorio seguro, ya sea sin antibióticos o con una dosis de Ceftriaxona IM (50 mg/kg), siempre con control clínico presencial obligatorio a las 24 horas y pautas estrictas de consulta ante signos de alarma de sepsis."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Lactante de 14 meses, previamente sano y con vacunas al día. Acude al Servicio de Urgencia Infantil por un síndrome febril sin foco de 39,2°C rectal de 24 horas de evolución. Al examen físico destaca reactivo, normoperfundido, hidratado, de excelente aspecto general, sin focos en el examen físico. Se realiza tira reactiva de orina en muestra de cateterismo vesical que reporta normal (nitritos negativos, sin leucocituria). Fisiopatológicamente, ¿cuál de los siguientes virus respiratorios o gastrointestinales de alta circulación estacional en Chile es la causa más común de fiebre aguda de origen indeterminado en este grupo de edad y presentación clínica?",
+    "hint": "Son virus de gran prevalencia estacional que colonizan el aparato respiratorio o digestivo inespecífico y cursan clásicamente con fiebre alta aislada de corta evolución en niños pequeños, antes de que aparezcan signos característicos (como exantema o sibilancias).",
+    "options": [
+      {
+        "text": "Virus Respiratorio Sincicial (VRS)",
+        "isCorrect": false,
+        "explanation": "El VRS causa de forma típica y precoz un síndrome de bronquiolitis aguda caracterizado por pródromo de coriza, obstrucción nasal, tos persistente y dificultad respiratoria obstructiva bilateral (sibilancias), constituyendo un foco clínico respiratorio evidente desde el ingreso."
+      },
+      {
+        "text": "Adenovirus, enterovirus o herpes virus humano 6 (HHV-6)",
+        "isCorrect": true,
+        "explanation": "Los virus respiratorios no sinciciales y virus sistémicos autolimitados como Adenovirus, Enterovirus (Cochsackie, Echovirus) y el Herpes Virus Humano 6 (HHV-6) son por amplia mayoría las causas más comunes de fiebre alta aguda de origen indeterminado sin foco en lactantes mayores de 3 meses. Adenovirus puede cursar con picos febriles muy elevados de hasta 40°C por 4-5 días con excelente estado general antes de manifestar síntomas respiratorios, conjuntivitis o diarrea franca. HHV-6 produce la clásica fiebre alta sin foco del exantema súbito que cede bruscamente al aparecer la erupción máculo-papular cutánea."
+      },
+      {
+        "text": "Rotavirus",
+        "isCorrect": false,
+        "explanation": "Rotavirus causa de forma característica enteritis infecciosa de curso severo con diarrea acuosa masiva explosiva deshidratante y vómitos profusos, lo que representa un foco enteral evidente e inmediato."
+      },
+      {
+        "text": "Virus Influenza A subtipo H1N1 de alta patogenicidad",
+        "isCorrect": false,
+        "explanation": "Si bien la Influenza causa fiebre alta, típicamente se acompaña de un síndrome gripal marcado con compromiso del estado general (decaimiento profundo), mialgias y odinofagia en niños mayores, no siendo la causa típica autolimitada benigna de excelente aspecto general descrita."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "internado": "Pediatría",
+    "area": "Pediatría",
+    "topic": "Síndrome Febril Sin Foco",
+    "text": "Un interno de medicina evalúa el algoritmo para Síndrome Febril Sin Foco de un hospital pediátrico chileno en 2026. Al analizar el grupo de edad de 61 a 90 días de vida, de acuerdo con las guías modernas de la AAP y de la SOCHIPE, ¿cuál es la principal diferencia de manejo de este grupo frente al grupo de 29 a 60 días en un paciente bien aspectado y normoperfundido?",
+    "hint": "A medida que el lactante crece, la barrera hematoencefálica se consolida y el sistema inmunológico madura, permitiendo que la probabilidad de meningitis bacteriana por translocación hematógena de forma asintomática disminuya de gran forma.",
+    "options": [
+      {
+        "text": "El grupo de 61 a 90 días de vida tiene indicación absoluta de punción lumbar rutinaria de forma mandatoria en todos los casos, independientemente del aspecto clínico o marcadores.",
+        "isCorrect": false,
+        "explanation": "La realización de punción lumbar obligatoria en este grupo de edad representaría un sobreestudio innecesario que expone al lactante estable a riesgos iatrogénicos innecesarios de punción o anestesia local."
+      },
+      {
+        "text": "En el grupo de 61 a 90 días se puede omitir por completo el análisis del sedimento de orina y urocultivo al tener una prevalencia de ITU nula por encima de los 2 meses.",
+        "isCorrect": false,
+        "explanation": "La ITU es sumamente frecuente en menores de 1 año (hasta el 7-8% en varones no circuncidados y niñas febriles), por lo que omitir el examen urinario y urocultivo representa un grave error de omisión clínica."
+      },
+      {
+        "text": "En el grupo de 61 a 90 días febril de buen aspecto clínico, la punción lumbar (PL) para análisis de LCR no se realiza de forma rutinaria, enfocándose el estudio principalmente en descartar una ITU (orina y urocultivo por cateterismo) y permitiendo el manejo ambulatorio expectante sin antibióticos si el examen urinario es normal.",
+        "isCorrect": true,
+        "explanation": "En lactantes de 61 a 90 días de vida (2 a 3 meses) que se presentan de buen aspecto general y hemodinámicamente estables, el riesgo de meningitis bacteriana asintomática es extremadamente bajo (< 0,1%). Las guías modernas de la AAP (2021) y de la SOCHIPE establecen que en este grupo etario no está indicada la punción lumbar de forma sistemática ni rutinaria. El esfuerzo diagnóstico prioritario debe dirigirse de forma casi exclusiva a descartar una Infección del Tracto Urinario (mediante orina completa y urocultivo por cateterismo), que es la causa bacteriana grave más común. Si el examen de orina es normal y el paciente se mantiene de excelente aspecto clínico, se puede decidir de forma segura el manejo ambulatorio expectante sin antibióticos con control presencial estrecho."
+      },
+      {
+        "text": "En el grupo de 61 a 90 días de vida se debe iniciar profilaxis antiviral sistemática con aciclovir endovenoso empírico por sospecha de meningitis herpética.",
+        "isCorrect": false,
+        "explanation": "El aciclovir empírico profiláctico sistemático carece por completo de fundamento científico en un lactante mayor estable de buen aspecto general febril sin lesiones herpéticas activas ni convulsiones asociadas."
+      }
+    ]
+  }
+]
